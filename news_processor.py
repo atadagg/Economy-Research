@@ -289,8 +289,10 @@ def main():
         print("Usage:")
         print(f"  {sys.argv[0]} <file_path>          # Process single file")
         print(f"  {sys.argv[0]} news/AHaber/         # Process directory")  
-        print(f"  {sys.argv[0]} all                  # Process all news files")
+        print(f"  {sys.argv[0]} all                  # Process ALL channels automatically")
         print(f"  {sys.argv[0]} <target> --force     # Force reprocess existing files")
+        print()
+        print("The 'all' command will automatically discover and process all directories under news/")
         return
     
     processor = NewsProcessor()
@@ -307,20 +309,39 @@ def main():
         return not os.path.exists(output_file)
     
     if target == "all":
-        # Process all files
-        for channel in ["AHaber", "ATV", "Halk", "KanalD", "Show", "SozcuTV"]:
-            channel_dir = f"news/{channel}"
-            if os.path.exists(channel_dir):
-                files = [f for f in os.listdir(channel_dir) if f.endswith('.txt')]
-                files_to_process = [f for f in files if should_process_file(os.path.join(channel_dir, f))]
-                skipped_count = len(files) - len(files_to_process)
+        # Process all files - automatically discover all channels
+        news_dir = "news"
+        if not os.path.exists(news_dir):
+            print(f"Error: {news_dir} directory not found")
+            return
+            
+        # Get all subdirectories in news/ folder
+        channels = [d for d in os.listdir(news_dir) 
+                   if os.path.isdir(os.path.join(news_dir, d)) and not d.startswith('.')]
+        
+        if not channels:
+            print("No channel directories found in news/ folder")
+            return
+            
+        print(f"Found channels: {', '.join(sorted(channels))}")
+        
+        for channel in sorted(channels):
+            channel_dir = os.path.join(news_dir, channel)
+            files = [f for f in os.listdir(channel_dir) if f.endswith('.txt')]
+            
+            if not files:
+                print(f"\n{channel}: No .txt files found")
+                continue
                 
-                print(f"\n{channel}: {len(files_to_process)} to process, {skipped_count} already done")
-                
-                for filename in files_to_process:
-                    file_path = os.path.join(channel_dir, filename)
-                    segments = processor.process_file(file_path)
-                    processor.save_results(file_path, segments)
+            files_to_process = [f for f in files if should_process_file(os.path.join(channel_dir, f))]
+            skipped_count = len(files) - len(files_to_process)
+            
+            print(f"\n{channel}: {len(files_to_process)} to process, {skipped_count} already done")
+            
+            for filename in files_to_process:
+                file_path = os.path.join(channel_dir, filename)
+                segments = processor.process_file(file_path)
+                processor.save_results(file_path, segments)
     
     elif os.path.isdir(target):
         # Process directory

@@ -1,0 +1,17 @@
+Ticaret verileri (ihracat, ithalat, dış ticaret)
+
+Borsa verileri (Borsa İstanbul, hisse senedi, endeks, BIST)
+
+Döviz kurları (dolar, euro, TL kuru, döviz)
+
+Faiz oranları (TCMB, repo, mevduat faizi)
+
+Enflasyon verileri (TÜFE, ÜFE, enflasyon oranı)
+
+GSYİH/GSMH verileri
+
+İşsizlik rakamları
+
+Şirket kazançları (kar, zarar, gelir)
+
+Bütçe bilgileri (maliye, vergi, harcama)

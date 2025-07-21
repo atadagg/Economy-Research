@@ -1,0 +1,683 @@
+19 Temmuz Cuma haftanın son iş günü TV1 an haberde sizlerle birlikteyiz günün gündemini öne çıkan
+gelişmelerin son dakika bilgilerini Her zamanki gibi aktarmayı sürdüreceğiz bugün dünya kaotik bir
+güne uyandı desek Aslında yeri Çünkü resmen dünya neredeyse tamamı çevrim dışı kaldı mavi ekran
+verdi küresel yazılım sisteminde yaşanan o kesinti tüm ülkeleri olumsuz etkiledi microsoft'ta bir
+güncelleme işin içinden çıkılmaz hale getirdi Bir Anda Dünyayı yani neredeyse Tabiri caizse Taş
+devrine dönmüş gibi oldu hava yolu ulaşımı durdu bankacılık işlemleri aksadı Hatta hastanelerde
+ameliyatların yapılamadığı da belirtildi temel sorun çözüldü 7 saatin sonunda sabah saat 9 9.30
+itibariyle bu sorun meydana gelmişti fakat bazı işlemlerde Hala aksaklıklar devam etmekte sıkıntının
+hacklenme Siber saldırı olup olmadığı değerlendirmesi yapıldı sonrasında kurumdan bir açıklama geldi
+bu bir güvenlik sorunu ya da Siber saldırı değildir deniyor ama Türkiye'deki senaryosuna tablosuna
+baktığımızda da 84 sefer iptal edildi birazdan detaylıca bakacağız o hususlara Rusya'dan bir
+açıklama geldi Biz yerli milli yazılım kullanıyoruz O yüzden de hiç etkilenmedi bankalarda Hayat
+aynı şekliyle devam etti dendi yerli yazılımın Önemi ortaya çıkmış oldu bizim Pardus diye bir
+yazılımımız var fakat Türkiye'de kim biliyor kim kullanıyor Burası meçhul bunu da konuşmak lazım
+Önümüzdeki süreçte Rusya Linux kullanıyor E onun dışında Kuzey Kore redstar kullanıyor Rusya Astra
+Linux kullanıyor 1 Ocak 2025 itibariyle tüm kamu kurum kuruluşlarında Rusya bu sistemi kullanmak
+zorunda olduklarını dile getirmişti bu Siber saldırı olmamasına rağmen dünyada bir durağanlık ortaya
+çıktı tabii Microsoft'un hisseleri ile ilgili tabloyu da değerlendiririz ama Türkiye ve dünya bugün
+Büyük ölçekte Dünya Global ölçekte ciddi bir sorunla karşı karşıya kalıp durdu yazılım arızası tüm
+dünyayı etkiledi uluslararası kriz dalga dalga yayıldı ekranlar maviye döndü havayolu banka Market
+ve hastane hizmetleri ABD'li teknoloji devi Microsoft'un 365 programı arızalandı yazılım
+sistemindeki sorun küresel sıkıntıya yol açtı havayolu şirketleri bilet rezervasyon işlemlerini
+gerçekleştiremedi Fransa Japonya İspanya İngiltere Hindistan Türkiye Avustralya ve Yeni Zelanda'da
+uçuşlar iptal oldu gecikmeler yaşandı bankacılık işlemleri de sekteye uğradı Avustralya genelinde
+ödeme sistemlerinde sorun yaşandı İngiltere ve Fransa'da ünlü televizyon kanalları yayın yapamadı
+arıza küresel sağlık hizmetlerini de aksattı Almanya'da acil ameliyatlar ertelendi İngiltere'de
+hasta randevusu sistemi devre dışı kaldı sistem arızasından eğlence sektörü de nasibini aldı
+Avrupa'nın en büyük eğlence parkı Disneyland Paris'in Sitesi ve parkın içindeki reklam panolarında
+hata uyarıları çıktı çok sayıda şirkette de işler durdu çalışanlar mavi ekranların önünde selfie
+çekti Amerikan Siber güvenlik teknoloji şirketi crowd Strike kesintilerin a Siber saldırı sonucu
+olmadığını açıkladı temel sorunun çözüldüğünü duyurdu ulusal Siber olaylara müdahale Merkezi de
+konuyla ilgili açıklama yaptı aksaklık Siber saldırı kaynaklı değil üretici firmanın yayınladığı
+güncellemeden kaynaklı dedi kesintilerle en ilginç açıklama Rusya'dan geldi dijital Kalkınma
+Bakanlığı yerli yazılım sistemi kullandıkları için ülkedeki havalimanlarında sorun yaşanmadığını
+belirtti şimdi bu sürecin sonundaki tabloya da bir göz atalım microsoft'a Siber güvenlik hizmeti
+veren crow Strike Tan kaynaklanan o küresel iletişim kesintisi Türkiye'de de birçok noktada bizi
+etkiledi Ama Avrupa kadar İngiltere kadar Amerika Birleşik Devletleri kadar Berlin'de tamamen
+hayatın durması kadar etkilemedi burada da tabii Uzmanlar da dile getirdi bugün TV ekranında
+yayınlarda Özellikle bizim bu yeni teknolojiye tamamen adapte olmamamız önemi var yani yeni
+teknolojiyi tam anlamıyla kullansaydık Bulut teknolojisini kullansaydık durum bizde de işin içinden
+çıkılmaz bir hal alabilirdi Ama buna rağmen Ulaşım Sağlık bankacılık sistemlerinde zaman zaman
+periyodik aksaklıklar söz konusu oldu ve Türk Hava Yolları 84 seferini iptal etti geldiğimizden beri
+bekliyoruz ama dünya genelinde varmış diyalog bankayı denedim olmadı nedense ne uçaklar küresel
+çaptaki yazılım sıkıntısı domino etkisi yarattı pek çok sektörde hizmet durma noktasına geldi
+microsoft'a Siber güvenlik hizmeti veren crow Strike Tan kaynaklanan küresel yazılım sorunu birçok
+ülke gibi Türkiye'yi de etkiledi kurumlar iş yapamaz oldu vatandaşlar da mağdur konuyla ilgili ilk
+açıklama Ulaştırma ve altyapı bakanı abadir uraloğlu geldi uraloğlu Tekirdağ'da konuştu durumun
+Siber kaynaklı olmadığını belirtti Global çapta meydana gelen kesintiye ilişkin yapılan inceleme
+neticesinde yaşanan aksaklığın Siber kaynaklı olmadığını tespit ettik yaşanan kriz nedeniyle dünya
+adeta kitlendi bu noktalardan biri de havalimanları dı havalimanlarındaki yoğunluk artış gösterdi ve
+çok sayıda seferde iptal edildi Türk Havar nedeniyle uçuşlarda yoğunluğu azaltmak amacıyla 84
+seferin iptal edildiğini duyurdu dünya genelinde oluşan hava trafiği haritasında uçakların
+oluşturduğu yoğunluk böyle gözler önüne serildi küresel iletişim kesintisinden sadece uçuşlar
+etkilenmedi bankaların ATM'leri de çalışmadı atm'lerin önüne gelen vatandaşlar eli boş döndü şu anda
+bu bankamatik müsaitliğine en yakın bankamatiğe git diyor kri ayın 25'inde günüm V erken yatırayım
+diye sistem yok dediler Onun için geri döndüm yapamadı mı yapamadım bankam da çalışmıyormuş hiçbir
+işlem yapamıyoruz işlem yapacağız ama yapamıyoruz Ankara Mithatpaşa Caddesi burası vatandaşlar
+ATM'ye geldiklerinde bir uyarı yazısıyla karşılaşıyorlar Bu noktadan para çekme ya da yatırma işlemi
+yapılamıyor bizim bankamız çalışmıyor yani ne yapacaktınız ben havale gönderecektim ama
+gönderemiyorum şu an Siz Efendim Ne aynı işlemler Bizim de vardı yani para çekip paramızı alacağız
+ama yani problem yaşıyoruz Kaç saattir para çekemiyorsunuz dün geceden beri ulaşamıyoruz Yani evet
+dünden beri ben de ulaşamıyorum Dünden beri sisteme giremiyorum hatta buraya geldim ama sisteme
+ulaşamıyorum Ulus şubeyi Benim oraya gittim herhangi bir cevap alamadım Bu sefer Buraya geldim bir
+cevap alamıyorum Yani yani öbür bankalar çarı dünya genelindeki işletim sistemleri arasından dolayı
+hizmet veremeyen yerler arasında muayene istasyonları da vardı muayenesi son güne kalan vatandaşlar
+mağduriyet yaşadı aracın bugün muayenesi bitti şimdi bugün muayene yaptırmadan buradan çıkacağım
+ceza elin Bunu kim karşılayacak işlemi son güne kalan vatandaşlar kapıdan geri döndü Küresel çapta
+yaşanan yazılım sorunu vie başvuru merkezlerini de vurdu işlem yapmak için başvuru Merkezine giden
+vatandaşlar yaşanan sorun nedeniyle saatlerce beklemek zorunda kaldı Yıldız sarayının 6 yıl süren
+Restorasyonu bitti Saray halka açıldı açılış törenine Cumhurbaşkanı Erdoğan katıldı Yıldız Sarayı
+için direnişin sembolü Osmanlı'nın en sancılı yıllarına Tanık oldu ifadesini kullandı Cumhurbaşkanı
+Erdoğan Yıldız Sarayına girişlerin Önümüzdeki ayın sonuna kadar da ücretsiz olduğunu duyurdu Yıldız
+Sarayı 100 yıl sonra ziyarete açıldı Burası asla sıradan bir eser sıradan bir yapı değildir 200
+yıllık tarihiyle Yıldız Sarayı Osmanlı'nın en sancılı yıllarına bizzat şahitlik etmiştir
+Cumhurbaşkanı Erdoğan açılış törenine katıldı müjdeyi paylaştı Bugünden itibaren halkımıza açtığımız
+bu mekanı Önümüzdeki ayın sonuna kadar Bu ay dahil Önümüzdeki ayın da sonuna kadar ücretsiz olarak
+ziyarete açmış olacağız Cumhurbaşkanı Recep Tayyip Erdoğan Restorasyonu tamamlanan Yıldız Sarayı'nın
+ziyaretçilere açılış törenine katıldı sarayın tarihteki önemine dikkat çekti Sultan abdülham 33 yıl
+boyunca 1909 darbesine kadar Devleti buradan yönetti Osmanlı'nın en muhataralı 33 yılına tanıklık
+eden Yıldız Sarayı devlet-i aliye'ye yönelen yıkma girişimleri karşısında direnişin de sembolü oldu
+Yıldız sarayının yıllarca ihmal edildiğine vurgu yaptı biz hazine değerindeki eserlerinin kıymetini
+çok iyi bilemeyen bir milletiz kimi ülke 100-150 yıllık tarihi varlıklarına büyük Özen gösterirken
+geçmişi çok daha eski nice kültür varlığımıza sahip çıkamadık pek çok kültür varlığımız gibi burası
+da yıllarca ihmal edildi örselendi hoyratça kullanıldı Erdoğan tarihin tüm dönemlerini kucakladı
+dile getirdi birileri cumhuriyetin arkasına saklanıp Osmanlı karşıtlığı yaparken Biz hiçbir zaman
+ayrım gözetmeden tarihimizin tüm dönemlerini kucakladı tarihe vefa geçmişe saygı anlayışıyla ülkemiz
+ve yurt dışındaki Ecdat yadigarı eserlerimizi yeniden ayağa kaldırdık Erdoğan ecdadın emanetlerine
+sahip çıkmayı sürdüreceklerini ifade etti Türkiye yüzyılı hedeflerine adım adım ilerlerken ecdadın
+mirasını koruyacak ayaklarımızı binlerce yıllık medeniyet Temeller imize Sağlam Basacak ve 21
+yüzyılı Allah'ın izniyle Türkiye'nin yüzyılı yapacağız CHP lideri Özgür Özel Kıbrıs Barış
+harekatının 50 yılında Kuzey Kıbrıs Türk Cumhuriyeti'nde Cumhurbaşkanı Ersin Tatar tarafından kabul
+edildi CHP lideri Kıbrıs türkünün mücadelesine destek verdiklerini ifade etti Kıbrıs'tan gelen
+vatandaşların sosyal medya paylaşım gerekçesiyle Türkiye'de kara listeye alındığı iddiasına ilişkin
+de konuştu Cumhurbaşkanı Erdoğan'a ileteceğini söyledi Cumhuriyet Halk Partisi olarak biz Kıbrıs
+Türkü'nün Evet demediği hiçbir şeye evet demeyiz yavru vatanın işgalden kurtuluşunun 50 yılı
+Cumhuriyet Halk Partisi genel başkanı Özgür Özel bu özel günde Kuzey Kıbrıs Türk Cumhuriyeti'nde
+aldı soluğu programı yoğundu tam 9 ziyarette bulundu cumhurbaşkanı Ersin Tatar tarafından kabul
+edildi Kıbrıs'taki tüm taraflara bir bütün olarak sahiplendiğimiz Türklerinin mücadelesinin
+arkasında olduğumuzu bir kez daha ifade ediyoruz Başbakan Ünal Üstel le görüşmesinde Gündem Türkiye
+Büyük Millet Meclisi'nde kabul edilen Tezkereyi bulduğumuz her kürsüde her fırsatta sizin yanınızda
+olduğumuzu ifade etmeye devam edeceğiz Dün oy birliğiyle pozisyonumuz teyit ettik bundan sonra da
+Kıbrıs'ta bir birliğin beraberliğin olması çok önemli Üstel ziyaretinin ardından Bu kez basın
+mensuplarının soruları için geçti kameralar karşısına özele yavru vatandan Türkiye'ye gelenlerin
+sosyal medya paylaşımları nedeniyle kara listeye alındığı iddiası soruldu Madem ki 50 yıldır Madem
+ki birlik beraberlik halindeyiz Sayın Erdoğan'a da yarın ifade edeceğim Bu uygulamanın
+sonlandırılması lazım hukuki bir tarafı da yok CHP lideri harekatın yıl dönümü olan 20 Temmuz'da
+resmi törende yerini alacak Cumhurbaşkanı Recep Tayyip Erdoğan'la birlikte 50 yıl kutlamalarına
+katılacak Kıbrıs Barış harekatı'nın 50 yılı Hem hükümet hem muhalefet Kuzey Kıbrıs Türk
+Cumhuriyeti'nde olacak etkinlikleri izlemek için adada olacaklar TV3 editörü Betül Araz da orada
+Yarın Cumhurbaşkanı Erdoğan Kıbrıs'a gitmiş olacak bugünden Tabii belli başlı isimler de orada
+Kimler var hazırlıklar ne aşamada yarın neler bekliyor bizleri detayları programa dair ayrıntı etden
+dinleyelim Osman Aslında yarın törenler saat 9.30'da başlayacak ilk tören Lefkoşa Atatürk anıtına
+Çelenk konmasıyla başlayacak ve ardından bir İstiklal Marşı okunacak orada ve akabinde Cumhurbaşkanı
+Recep Tayyip Erdoğan'ın Burada olacağını Sen de ifade etmiştin hem Cumhurbaşkanı Recep Tayyip
+Erdoğan hem de Kuzey Kıbrıs Türk Cumhuriyeti Cumhurbaşkanı Ersin Tatar orada Özel Anıt defterini
+imzaladıktan son törenin yapılacağı yine Lefkoşa'da olan o alana geçecekler Doktor Fazıl Küçük
+bulvarındaki resmi Geçit törenine katılacaklar ve orada ik tören başlamış olacak İstiklal Marşı
+okunacak yine bayraklar göndere çekilecek ve akabinde tören birliklerinin denetlenmesi ve yine Yavuz
+çıkarma Plajı getirilen bayrakların Cumhurbaşkanı Ersin tatara takdim edilmesinin ardından Aslında
+buradaki törenler bu şekilde devam edecek nok tören alanının ik noktası yine burada Cumhurbaşkanı
+Recep Tayyip Erdoğan ve yine Kuzey Kıbrıs Türk Cumhuriyeti Cumhurbaşkanı Ersin Tatar Burada da birer
+konuşma yapacak akabinde buradaki törenler sona erecek resmi Geçit töreni de tamamlandıktan sonra
+lefkoşa'daki törenler sona erecek ve bu kez Girne'de başlayacak törenler girne'deki törenler de yine
+Atatürk anıtına bırakılan çenelik le başlayacak ve oradaki törenler de saat 16.30'da başlayacak 18'i
+gösterdiğinde de Türk yıldızlarının gösteri uçuşuyla sona ermiş olacak törenler ki akşam saatlerine
+geldiğimizde saat 20 sularında Cumhurbaşkanı Ersin Tatar'ın katılımcılara bir Resepsiyonu olacak
+cumhurbaşkanlığında Bunun altını çizelim bir bir yemek verecek katılımcılara ki sadece Cumhurbaşkanı
+Recep Tayyip Erdoğan olmayacak Sen de biraz önce bahsetmiş o e Kuzey Kıbrıs Türk Cumhuriyeti
+harekatının Kıbrıs Barış harekatının 50 yılı dönemiyle muhalefet de burada aslında CHP genel başkanı
+Özgür Özel Dün Buraya gelmişti yarın bugün de buradaydı ve yarın da törenlere katılmış olacak yine
+MHP Genel Başkanı Devlet Bahçeli burada olacak iyi Parti Genel Başkanı Musavat Dervişoğlu
+milletvekilleri ve CHP genel başkanı Özgür özel' eşlik eden 174 Kıbrıs Gazisi de buradaki törenlerde
+olacak Osman Betül Araz aktardığı Son duruma ilişkin tabloyu değerli izleyenler Kıbrıs Barış
+harekatının 50 yıl dönümü etkinlikleri Yarın Cumhurbaşkanı Erdoğanın Hatta hükümetin Kıbrıs'a bir
+çıkarmasıyla başlamış olacak Bunu da tekrar ifade edelim Ana muhalefet de orada Sinan Ateş
+cinayetine ilişkin dava sürüyor Savcı esas hakkında mütalaasını açıkladı tutuksuz yargılanan üç
+Sanığın beraati istendi Savcı Eray Özyağcı Vedat Balkaya Suat Kurt Doğukan çep ve tolgan Demirbaş
+içinse ağırlaştırılmış mühebbet hapis talep etti duruşma 30 Eylül ertelendi Bir tek benim sinan'ım
+değil bir oğlu benden aldılar bugün Mütalaa almaya geldik 3 dakika bile sürmedi önceki duruşmalar
+gibi uzun sürmedi 19 gün önce başlayan Sinan Ateş cinayeti davasında Savcı mütalaasını verdi anne
+saniye Ateş gözyaşlarını tutamadı bir sebep söylesinler Benim oğlumu yıllarca 2 sene boyunca takip
+ettiler bu kar kısa zamanda bu mahkem biter mi Kaya ve Suat Kurt'un müşterek fail olarak yer
+aldığını belirtti Bu kişiler hakkında Sinan Ateş'i tasarlayarak öldürme suçundan ağırlaştırılmış
+müebbet hapis cezası istedi Doğukan çep ve Tolgahan demirbaşa azmettirici olarak yer aldı haklarında
+kasten öldürme suçundan ağırlaştırılmış mühebbet talep edildi üç sanık içinse Beraat istendi mahkeme
+iki ismin telefon şifrelerinin kırılması için duruşmadan bir önceki gün Amerika Birleşik
+devletleri'nden talepte bulundu avcıda Ensar ayala ait Telefon hattının HTS kayıtlarını istedi gün
+sonunda yeni bir tahliye kararı henüz çıkmış değil delillerimiz taleplerimizin hiçbiri
+değerlendirilmedi hem Ateş ailesi hem de avukatlar iki talep de sonuçlanmadan Mütalaa açıklanmasına
+tepkiliyim çağrımı yineliyorum bir meclis araştırma Komisyonu kurulması gerekliliği gün gibi
+ortadadır dava 30 Eylül'e ertelendi kararın o duruşmada çıkması bekleniyor ve Ayhan Borak Kaplan
+davası gizli Tanık Serdar sert Çelik'in firarın ilişkin ilk duruşma görüldü tutuklu eski emniyet
+yöneticileri suç Örgütü tarafından kendilerine bir operasyon yapıldığını savundular ara kararını
+açıkladı mahkeme Ayhan Bora Kaplan'ın davaya katılma talebi reddedildi Duruşma 3 Eylül Salı gününe
+ertelendi tek tahliye kararı çıktı mahkeme 7 Sanığın tutukluluğun devam dedi Ayhan Borak Kaplan'ın
+suç örgütü lideri olduğu iddiasıyla yürütülen davada yeni Perde açıldı gizli Tanık Serdar sert
+Çelik'in yurt dışına kaçması ile ilgili ilk duruşma görüldü altısı emniyet mensubu 11 sanıklı davaya
+Ankara 13 Asliye Ceza Mahkemesi ev sahipliği yaptı kaplanın avukatı aracılığıyla davaya katılma
+talebi reddedildi iddianamenin özeti okunduktan sonra sanık savunmalarına geçildi eski Ankara İl
+Emniyet Müdürü Yardımcısı Murat Çelik yöneltilen suçlamaları iftira olarak niteledi 29 yıllık meslek
+hayatında yasa dışı eylemde bulunmadığını vurguladı savcının iddialarını varsayım olarak
+değerlendirdi kendilerine karşı örgüt operasyonu yürütüldüğünü savundu eski organize Şube Müdür
+Yardımcısı Şevket Demircan da suçlamaları reddetti attığı her adımı Amirlerinin ve savcının
+talimatıyla gerçekleştirdiğini söyledi sert çelikle yaptığı telefon görüşmelerinin usulsüz
+olmadığını savundu eski organize suçlarla mücadele Şube Müdürü Kerem Gökay Öner sert Çelik'in gizli
+Tanık olduğunu bilmediğini öne sürdü durumdan savcılık yazısıyla haberdar olduğunu aktardı sonra da
+sert çeliğin yurt dışına çıkamaması için sınır kapılarına yazı yazdığını anlattı eski şube komiseri
+Metehan ilk yazsa dönemin gizli tanığı sert Çelik'in havaalanından Emniyet ve adliyeye sevkinde
+görev aldığını söyledi başka bir temasının olmadığını aktardı savunmalarda sonra ilk Ara karar
+açıklandı ilk yaz tahliye edildi yi sanığına tutukluluğu devam edecek sert çeliğin Türkiye'ye
+getirilmesi halinde tanık olarak ifadesi alınacak davaya 3 Eylül'de devam edilecek Dün polatlılar
+Ailesi dair bir Masak raporu yayınlandı biliyorsunuz Dilan ve Engin Polat çiftinin şirket
+organizasyonlarını gözler önüne Seren bir tablo O şirket organizasyonları Buna göre o 908 sayfalık
+raporda ikiye bölünmüş durumda Bu arada bugüne kadar kendilerine İsnat edilen suçların bir kısmının
+O raporda olmaması da dikkat çeken ayrıntılar Aslında örgüt geçmiyor masaan raporunda Kara Para
+aklam Adan bahsedilmiyor yasa dışı bahisten bahsedilmiyor bu hususlar önemli Bunun dışında ne var o
+Masak raporunda vergi kaçırma ve Sahte fatura ilk grupta yer alan firmalar aile şirketleri ikinci
+grupta yer alanlara Sahte fatura kesmek için kurulan şirketler masal'ın raporuna göre biraz yok
+iyisiyle kötüsüyle Belki de çok yazam olacak ama çok fazla seven Masak Polat çifti ve yakınlarına
+ait şirketleri mercek altına aldı polatların şirket organizasyonlarından yasal defterlerine kadar
+birçok konuda inceleme yapıldı hangi şirketin ne amaçla kurulduğu tek tek sıralandı enerji Masak
+tarafından hazırlanan raporda polatların şirketlerine yönelik bir değerlendirme yapıldı rapora göre
+firmalar konusunda iki farklı organizasyon bulunuyor birinci organizasyon Engin ve Sezgin Polat
+idaresindeki güzellik merkezleri ve kozmetik ürün satan firmalar ikinci organizasyona polatların
+mali müşaviri Ahmet Gün'ün kontrolündeki gerçek bir ticari faaliyeti bulunmayan sahte belge
+düzenlemek için kurulan şirketler Masak ik organizasyon arasında genel para sirkülasyonu ve Mali
+işlemlerde örgüt faaliyete yönelik bir emare bulunmadığı tespitini yaptı firmalar arasındaki
+ilişkinin sadece sahte belge ticareti Mali Müşavirlik hizmeti ve vergi kaçırma konusunda olduğunu
+belirtti Masak raporunda şirketlerin nasıl yönetildiği ve kazanç kaynaklarına ilişkin de tespitlerde
+bulunuldu buna göre Dilan Polat Şirketler Grubunun finansal işlemlerini Engin Polat yürütüyordu
+kazanç kaynaklar Fran işletmeler e-ticaret siteleri ve Dilan Polat App uygulaması üzerinden yapılan
+satışlardan sağlanıyordu Masak raporunda güzellik merkezleri ve Kozmetik ürünlerinden elde edilen
+kazançların Engin Polat'a ait bilde gayrimenkule aktarıldığı ortaya çıktı Masak Engin ve Sezgin
+Polat'ın yönettiği güzellik merkezleriyle Kozmetik şirketlerin klasik bir aile şirketler Birliği
+olduğunu değerlendirdi bu şirketlerin herhangi bir suç işlemek amacıyla bir araya gelmediği yönünde
+bir tespitte bulundu akıllı kadınım ben sen benim düştüğümü serumlarla gördüğü de ben orada kafamda
+50 tane plan ekmek teknemi korurum zırhlar la Çelik zırhlara çıktık O merdivenleri raporda kozmetik
+ürün satan firma ry and Shine hakkında yapılan vergi incelemesi de yer aldı 2023 yılında ciddi
+miktar ve tutarda iptal e-arşiv faturalarının olduğu belirlendi iptal faturalarıyla Dilan Polat e
+karşılaştırıldı 200.000 kişiden fazla ismin iptal faturalarında yer aldığı tespit edildi Ayrıca
+Dilan Polat App uygulamasından yapılan satışlarla yasal defterler de karşılaştırıldı 70.000 kişiden
+fazla ismin yasal defterde yer aldığı belirlendi Masak defter incelemelerine yönelik önemli bir
+değerlendirmede de bulundu Polatlar ait yasal defterlerde yer alan kayıtların ihmal dikkatsizlik ve
+Bilgisizlik gibi nedenlerle yapılmadığı bilinçli olarak menfaat sağlamak amaçlı ve vergi matrahını
+azaltacak şekilde işlem yapıldığını tespit etti ablanla sana onu göreceğiz tepeden bu işlemlerin
+yönetimin polatların mali müşaviri Ahmet günde olduğu belirlendi fon vurgunu davasında bankacı Seçil
+er zanan sonra belki de hatta Belki de değil öyle ismi en çok konuşulan isim ünlü teknik direktör
+Fatih Terim davaya müşteki olarak katılma talebinde bulunmuştu bu talebi kabul gördü ünlü teknik
+adamın müşteki olarak ifade vereceği tarihte netleşti fon vurgunu Fatih Terim sessizliğini bozuyor
+ünlü teknik direktör 17 Eylül'de müşteki olarak ifade verecek yüksek kar vadiyle ünü cuların da
+aralarında olduğu çok sayıda kişiyi dolandırdığı gerekçesiyle tutuklanan bankacı Seçil erzanın
+yargılandığı davada yeni bir gelişme yaşandı davada Fatih Terim'in de aralarında bulunduğu 6
+Müştekinin davaya katılma talebi Haziran ayında görülen duruşmada kabul edilmişti teknik adam
+şikayetçi olduktan sonra müşteki olarak dava dosyasına giren ifadesinde ise iyi niyetim edildi
+demişti bugüne kadar dava ile ilgili ne söyleyeceği en çok merak edilen isim olan Fatih Terim'in
+ifade vereceği tarihte netleşti Terim 17 Eylül'de Bodrum ağır ceza mahkemesinde müşteki olarak ifade
+verecek birden fazla maaş alma dönemi sona eriyor ihtiyaç fazlası araçlar satılacak kamuda
+tedbirlerini içeren kanun teklifindeki maddelerden birkaçı Bunlar bununla dışında Tabii ki birçok
+madde de var orada o kanun teklifi meclis genel kurulunda kabul edildi yasa 1 Ocak 2025 itibarıyla
+yürürlükte gözler yeni yılın ilk gününe çevrildi meclis genel kurulunda kabul edilen yasayla artık
+her statüdeki kamu görevlisi sadece bir maaş alacak o maaş en yüksek devlet memuru maaşını yani
+8.000 lirayı geçemeyecek Ayrıca Huzur hakkı ikramiyesi gibi ödemelere de üst sınır getirilecek
+yasayla kamudaki bazı araçların da tasfiyesine gidilecek ekonomik ömrünü dolduran veya ihtiyaç
+fazlası olan taşıtlar satılacak bazı hibrit elektrikli araçlara İsa özel tüketim vergisi teşviği
+sağlanacak sokak ve caddelerin aydınlatma giderlerinde de tasarrufa gidilecek belediye ve il özel
+idarelerinin genel bütçe vergi gelirleri payından yapılan kesinti oranı % 20'den % 30'a çıkarılacak
+yasayla deprem bölgesine yönelik is özel bir düzenleme yapıldı söz konusu illerde nüfus kaybının
+hizm olumsuz yansımaması için adım atılacak felaketten etkilenen 11 ilde bütçe hesaplamaları
+yapılırken 2023 yılı nüfusları baz alınacak 31 maddelik düzenlemeyle tasarruf tedbirlerine
+uymayanlara Cezai işlem uygulanacak soruşturma açma ve cezai işlemlerin belirlenmesinde Hazine ve
+Maliye Bakanlığı tam yetkili olacak yasa 1 Ocak 25 tarihinde yürürlüğe girecek emeklilik sistemini
+emekli olacaklar bile anlamakta güçlük çekiyor Bu net bir şekilde görülüyor şimdi bu süreçte
+emeklilik sisteminde kökten bir değişim başlatma hedefi var hükümetin AK Parti süreci yeniden yeni
+baştan oluşturmak için kolları sıvadı emeklilik yaşının düzelli Bununla birlikte prim gün sayısına
+göre maaş formülü masada aylığı düşük kalan emekliye ise yol gıda ya da Kira gibi destekler
+sağlanması planlanıyor emeklilik aylık bağlama oranları ve prim ödeme gün sayılarını yeniden masaya
+yatırıp gözden geçirmek gerekir yaş prim gün sayısı en düşük aylık derken emeklilik karmakarışık
+hale geldi Hükümet Sistemi tamamen değiştirmek için Düğmeye bastı emeklilik yaşında değişiklik ve
+prim gün sayısına göre maaş formülü masada 2008'den sonra girenler için 99.000 gün prim ve 60 yaşına
+kadar bekleme 2040 itibaren de 65 yaşında emekli olma mecburiyeti var yapılan açıklamalarda gün
+sayısı çok önemli gün sayısı çok net değil bu 4500 günün kaldırılacağını 7.000 günle 9.000 güne
+çıkacağını tahmin ediyorum hükümetin çalışmasına göre kök maaşı düşük kalan emekli için 6 ayda bir
+yasal Düzenleme yapma ihtiyacı ortadan kacak en düşük emekli aylığına hazine destek vermeyecek bu
+tutarda maaş alanlar için Avrupa Birliği ülkelerindeki örnekler değerlendiriliyor Avrupa
+birliğindeki ülkelerde sosyal yardımlarla emekli maaşları tamamlanıyor yol yardımı kira yardımı yeni
+sistemde maaş kazanca göre olacak ve eve giren gelire göre olacak en merak edilen soru emeklilikte
+yaşa takılanların durumu Sosyal Güvenlik Uzmanı Ersin kardan onlara müjde var bu yeni çıkacak sistem
+öncelikle şunu anlayalım 2025 sonra yürürlüğe girecek bu çalışma e'leri kapsamaya gününü
+tamamlamayan Bağkurlu ve ssk'lılar var emekli maaşı alamayanlar İlk vergi paketinin ardından Şimdi
+ikinci Vergi paketi detayları da netleşiyor yeni düzenlemeler kapsamında Birden fazla gayrimenkul
+sahibi olanlardan kademeli olarak artan bir ek emlak vergisi alınacak zaten bu yeni vergilendirme
+sisteminde amaç vergide adaletin sağlanması ve çok kazanandan çok az kazanandan az vergi alınması
+yani Birden fazla eviniz varsa bir tanesinde kendine oturduğunuz varsayalım diğerlerinde ikinci evde
+belli bir oranda emlak vergisi vereceksiniz Eğer 3üncü eviniz varsa oradaki oran daha da artmış
+olacak ve 600.000 boş konut için ilave emlak vergisi uygulanacak Hayalet konutlardan hayalet
+binalardan bahsediyoruz biliyorsunuz O da aslında kira fiyatlarını ya da Gayri menkul piyasasını
+artıran etkenlerden biri işte vergi paketinin detayları ikinci vergi paketinin detayları belli
+oluyor ek emlak vergisi ise yolda herkes Eee konut fiyatları uygun olduğu zaman yükseleceği
+düşüncesiyle konut alarak yatırım yapıyor birden fazla ev olanlardan kademeli olarak yükselen ilave
+ek emlak vergisi talep edilecek Ayrıca hayalet ev olarak adlandırılan boş evlerden de ek vergi talep
+edilecek yaklaşık 600.000 boş konuttan ek emlak vergisi alınması planlanıyor bu alandaki ki
+istisnaların vergilendirilmesi Eee söz konusu oldu 600.000 adet boş konut diğer ifadeyle hayali
+konut e listesinin doğru incelenmesi gerekiyor Burada gerçekten kötü niyetle Piyasayı domine etmek
+için Eee ürünü arz Arzı daraltmak için yapanlar varsa onlar uygulanmalı konutun alımdan sonraki 3
+yıl içerisinde satanlardan iki kat 5 yıl içerisinde satanlardan bir kat daha fazla vergi alınmasının
+ikinci vergi paketine dahil edilmesi ise kesin kira gelirlerini beyan etmeyen veya eksik beyan
+edenler için ceza tutarları artırılacak kira gelir halde Kaçak çok fazla insan var şirket var insan
+var ya da ikili kontratlar var Örneğin kirayı 10.000 L gösterip 1.000 L alma alanlar var beyan
+vermeyenlerin cezası artırılmalı bir kişi Örneğin 33 binden aşağı kira geliri alıyorsa beyan etsin
+ama istisna yani vergi vermesin işte bahsedilen Vergi paketi lojmanlardaki kira düzenlemesini de
+kapsayacak 30.000 Aşan lojmanlarda kira fiyatı düzenlemesine gidileceği de belirtiliyor piyasadaki
+kira değeri lojmanlara uygulanırken % fiyat avantajı kullandırılabilecek bakanlık lojman
+bölgelerinde kira fiyat araştırması yapacak kiracı ev sahibi kavgalarının her türlüsünü gördüğümüzü
+zannediyorduk ama görmemişiz varmış göreceğimiz Nevşehir'de bir ev sahibi kiracıyı çıkarmak için
+büyü yaptı Kavga ihbarla gitti ekipler büyüyü bozdu ekipler de şaşıp kaldı gördükleri karşısında
+bahçeyi kazdılar büyüyü gömdüler kiracıyı çıkartmak için büyü yapan ev sahibinin oyunu da büyüsü de
+jandarmaların baskınıyla bozuldu orada 30 metre çukur kazmış Yani bu sihir büyü falan onları şey
+ettiler işte biz de yardımcı olduk açtık çukurlarını açtık şeyleri açtık olay şeyler he çıkarttık
+olay incelemeye çağırdık Arkadaşlar şu anda ilgileniyorlar Burası Nevşehir Kaçak define avcıları
+Mazı köyünde iki katlı bir evin bahçesini kazmak istiyordu evi satın aldılar kiracıya çık dediler
+kira sözleşmem var diyor Ben çıkmam diyor defineciler kiracıya baskı yapmaya başladı bahçeye büyü
+gömdüler kiracıyla kavgaya tutuştular jandarmalar o kavgayı ayırmak için olay yerine gitti ev
+sahibinin ihbarıyla da ekipler büyüğü buldu kiracının fotoğrafları ve Kemik parçaları var biz
+jandarmalarla beraber buradaki e şeyleri çıkarttık suç aletlerini ekipler bahçede yaptıkları aramada
+definecilerin kazdıkları çukuru da buldu ev sahibi ve arkadaşı gözaltına alındı Tamam yani Ama
+güvercinler O gelen adamlara ait İstanbul'da şeker hastası Mustafa yacel İki bacağını da kaybetti 3
+kattaki evine çıkmakta zorlanan yacel giriş kattaki evine yerleşmek istedi Fakat kiracısı
+kendisinden bunu zaman zaman duyuyoruz tahliye parasını buradaki durum daha da feci 300.000 L
+tahliye parası istedi kendi evimde cezaevinde Yaşar gibi yaşıyorum şeker hastalığı nedeniyle İki
+bacağını kaybetti çüncü kata inip çıkamadığı için giriş kattaki evine taşınmak istedi ancak kiracısı
+itiraz etti tam 300.000 lir tahliye parası talep etti olayın adresi İstanbul Ateşehir Murat yacel
+Şeker hastalığına yakalandı hastalığı Günden güne ilerledi yacel İki bacağını kaybetti yacel sahibi
+olduğu apartmanın 3 katında yaşıyordu ancak artık inip çıkmakta Bir Hayli güçlük çekiyor çözüm
+olaraksa giriş kattaki dairesine taşınmak istedi ancak kiracısının itirazıyla karşılaştı Ben alt
+katı kendim kullanacağım tahliye etmeyi rica ediyorum dedim O da anlayışla karşıladı kabul et fakat
+sonrasında gelişen süreçte ilk önce erteledi Eee çeşitli vesilelerle Eee durumu erteledi zamanı
+tehir etti Arkasından da ben çıkmıyorum dedi kiracı yacel tam 300.000 lira tahliye parası istedi
+birkaç gün kadar önce başka bir tanıdığımız vasıtasıyla 300.000 lira kadar bir para istediğini Ancak
+o şekilde evi tahliye edeceğini söylemiş ycal şimdi yetkililerden destek istiyor oradan aşağı inmek
+bu tekerlekli sandalyenin iki kişi de tutsa Çok riskli bir şey oradan beni düşünseler Allah muhafaza
+ellerinden kaysa ayakları kaysa daha kötü sıkıntıları yaşayabilecek durumdayım e Şikayetim Daha
+doğrusu yaşadığım mağduriyet bu bu konuda kamuoyundan ya da yetkililerden aslında destek bekliyorum
+yardım bekliyorum yangınlarla boğuşmaya devam ediyoruz Sadece dünün bilançosu bakan Yumaklı da
+açıkladı 48 yangın meydana geldi Münferit olarak Türkiye genelinde Bunların hepsi söndürüldü kontrol
+altına alındı fakat kısa sürede kontrol altına almak pek mümkün olmuyor bazen nemle birlikte
+rüzgarın ters esmesi yangının çok hızlı yayılmasına birçok noktaya yayılmasına neden oluyor İzmir'de
+de benzer bir durum yaşandı dün gece ayakta geçirildi Buca'da çıkan orman yangını alevlerin yerleşim
+yerlerine yaklaşmasına ramak kaldığı bir hale döndü köylüler de orman işçileri de seferber oldular
+22 saat sonunda kontrol altına alındı fakat yemyeşil ormanlık alandan geriye yine kül yığını kaldı
+hem Ege'de hem Akdeniz'de aşırı sıcaklar yüzünden alarma geçilmiş durumda kaç kaçç kahr rüzgarla
+birlikte alevler evlere yaklaştı korku panik ve Çaresizlik hepsi bir aradaydı Çok korktuk Yani
+inanılmaz korku yaşadık Allah bir daha yaşatmasın hiçbirimize İzmir Buca'daki yangın Öğle
+saatlerinde başladı kuvvetli rüzgarla büyüdü alevler sınır İlçe olan Gaziemir'e sıçradı bizim
+veteriner niner 7 uçak 19 helikopter 50 arazöz ve 360 orman işçisi ile yangına müdahale edildi
+helikopterler göletlerden su taşıdı orman işçileri alevlerle canları pahasına mücadele etti 22
+saatin sonunda Çabalar sonuç verdi 48 adet yangınla mücadele etti arkadaşlarımız bu yangınların
+tamamının kontrol altına alındığını duyurmak istiyorum Sarnıç Mahallesi en büyük korkuyu orada
+oturanlar yaşadı alevlerin evlere ulaşmasına 100 metre kalmıştı yangın arkamızda görmüş olduğunuz
+tarlanın bitimine kadar geldi o dakikalarda Çiftlik sahipleri hayvanlarını kurtarmanın derdine düştü
+ve 40 tane büyükbaş hayvan başka bir yere taşındı Böylece kurtarılmış oldu köylüler de seferber oldu
+yangını söndürmek için traktörleri le alevlere su taşıdılar kaç saattir ayaktasın hiç yatmadım ki
+Hiç uyumadınız tahminin ne kadar su taşımışsın Vallah devamlı taşıdım ama kaç ton taşıdığımı ben de
+bilmiyorum sabaha kadar geldik burada nebet tuttuk soğutma çalışmaları sırasında panik katlandı o
+anlarda canlı yayında olan TV1 ekibi itfai haber verdi Buca arasında bir yer ve bakın çok hızlı bir
+şekilde rüzgarın etkisiyle şiddetlendi İyi ki diyoruz İyi ki diyoruz biz bu yoldan geçiyorduk İyi ki
+biz o Çiftliği aramak için yola çıkmıştık yoksa belki buradaki Manzara çok farklı olacaktı İşte şu
+anda müdahale ediliyor şu anda ekipler tarafından müdahale gerçekleşiyor herkes canını hiçe saydı
+biri de Orman İşletme Şefi Fahri Onur ertemli yaralandı ama görevi bırakmadı emeğimiz çabamız varı
+artık orada hani o orayı önüne almak istiyorduk O yüzden ayrılmak istemedim Çok değil yalnızca bir
+gün önce şu anda bulunduğumuz alan yemyeşildi ancak artık yerini griye bıraktı yüzlerce hektar
+ormanlık alan yok oldu be yazlığım kaldı Ne kışlığı kaldı Ne yemim Kaldı kurtarabildi 20 30 tane
+kovanım kurtardım Ama 80 tanesi yandı sıcak havanın kavurduğu Ege ve Akdeniz'de tehlike geçmiş değil
+15 Eylül'e kadar bütün teşkilatlarımız alarm halinde yangın başlatma ihtimali olan ne varsa hangi
+faaliyet hangi Eylem varsa lütfen bunlardan uzak duralım İzmir'de yaşanan elektrik faciası hala
+hafızalarımızda dağ üzerinden çok kısa bir zaman dilimi geçti benzerleri yaşanır diye konuşmuştuk
+İstanbul'da birçok noktada açıkta kalan Elektrik tellerinin elektrik direklerinin old olduğunu ifade
+etmiştik yaşanabilir demiştik ihmaller nedeniyle Bunlar yaşanıyor demiştik hepsini konuştuk ve
+maalesef benzer bir olay daha yaşandı olayın adresi Bursa ihmalin adresi Bursa Çünkü o İzmir'de
+yaşanan senaryo sonrası Yani iki kişinin hayatını kaybettiği durumun akabinde hemen bölgeye gidilip
+Orada elektrik tesisatı güncellendi ve bu ihtimal ortadan kaldırıldı yapılması da çok kısa sürdü ama
+önüne geçilmek istenmediği için mi acaba o yaşandı şimdi O soruşturma devam ederken belediye bir
+yandan topu dağıtım şirketine dağıtım şirketi belediyeye atıyor bakalım nasıl bir tablo çıkacak
+orada Sızıntı yapan bir su borusu onu tamir etmek isteyen bir kişi bir anda yan taraftaki
+istasyondan gelen akıma kapıldı can verdi Bursa'da Tıpkı İzmir'deki gibi bursalılar da aslında bu
+tehlikeyi yetkililere daha önce bildirmişti fakat faciayı gören var ama duyan yok ihmal bir canı
+daha hayattan kopardı Bursa'da 43 yaşındaki adamı Elektrik çarptı böyle ucuz basit pis pisine körü
+körüne bir ölüm feci ölümün yaşandığı yer tam da burası tellerle çevrili baz istasyonunun yanında
+tarlalara su taşıyan borular yer alıyordu borulardan biri patladı Mehmet damar iki arkadaşıyla
+birlikte boruyu tamir etmeye gitti su sızıntı ın kaynağına bakayım derken Ayağında Terlik var baz
+istasyonunun çevresindeki tellere dokunuyor Oradan da elektrik Akına kapılıyor baz istasyonu
+tellerle çevriliydi ancak etrafında ne bir pano vardı Ne bir uyarı yazısı elektrik olduğundan bile
+kimsenin haberi yoktu burada cean olduğundan Haberimiz Yok boru patladı Bizim boruyu eştirme geldik
+günler önce aynı yerde bir kişi daha ölümden dönmüştü Üstelik Yaklaşık 15 gün önce Evet Şuradaki
+vayı açarken sağ tarafta tarlamız var o sırada suyu açtıktan sonra ellerimi ıslak bir şekilde Yukarı
+çıkarken Şuradaki trof Odak tele destek almak için tutulmuştum o sırada bana da elektrik Şarlı
+mahalle sakinleri tehlikeyi Muhtara bildirdi o olaydan sonra köyün muhtarı Kadir Aydın ilgilileri bu
+hatayla ilgili bilgilendirmek için arıyor yapılacağını söylüyor Mahalleli de Muhtara üzerine düşeni
+yaptı ancak ilgileneceğiz diyen yetkililerden kimse gelmedi faciayı yine gören oldu ama duyan olmadı
+bu olay yaşandıktan sonra Muhtar tekrar arıyor ilgili kişileri Muhtarım Biz olayı hatayı gidermeyi
+unuttuk deniyor böyle ucuz basit pis pisine körükörüne bir ölüm akıma kapılıp kalbi duran Ferhat
+damara yanındaki arkadaşları dakikalarca Kalp masajı yaptı ancak çare olmadı arkadaşımız kucağımızda
+rahmetli oldu benim kendi kucağımda rahmetli oldu talihsiz adam hayatını kaybetti Geride kalan eşi
+ve 15 yaşındaki çocuğunu da Gözü Yaşlı bıraktı böyle ucuz ölümlerin artık bulmasını istiyoruz devam
+edelim Amerika Birleşik Devletleri eski başkanı ve mevcut Başkan Adayı Kasım seçimleri için Donald
+Trump suikast girişimi sonrasında ilk kez halkın Karşısında bir konuşma yaptı halkın karşısına
+çıkmıştı fakat konuşmayı tercih etmemişti oldukça duygusal anlar yaşamıştı ki trump'tan
+beklenmeyecek senaryolarda durumlarda Bunlar silahlı saldırı olayına değindi bunu konuşmak acı
+verici dedi kendisini koruyan gizli servise teşekkür etti Başkan biden'ın da sert sözlerle eleştirdi
+bu ülkeyi hep birlikte kurtaracağız ifadesini kullandı ABD eski başkanı Donald Trump silahlı saldırı
+sonrası ilk kez kürsüden destekçilerine Seslendi cumhuriyetçi partinin resmen başkan adayı oldu
+Trump cumhuriyetçi Parti ulusal kongresinin son gününde konuşma yaptı silahlı saldırı olayından
+bahsetti bunu konuşmak acı verici dedi kendisini koruyan gizli servise teşekkür etti Trump bı da
+sert sözlerle eleştirdi ülke tarihinin gelmiş geçmiş en beceriksiz başkanı olduğunu söyledi Trump
+vaatlerini de sıraladı ekonomi enerji düzensiz göçmen sorunu ve dış politikadaki problemleri
+çözeceğini savundu enflasyonu düşüreceğini yasa dışı göçmenlere karşı da sınırların kapatılacağını
+belirtti Yeşil Enerji saçmalığına da son vereceğiz dedi kongreye trump'ın eşi melanya Trump katıldı
+eski first lady'nin sahneye çıkmasıyla kalabalık daha da coştu alkış Tufanı koptu Tabii bu süreçte
+Amerikan basınında çarpıcı iddialar peşi sıra gelmeye devam ediyor haber siteleri ve gazeteler
+Başkan biden'ın hafta sonu adaylıktan çekileceğini öne sürdü zaten şu anda halihazırda koronavirüse
+yakalan durumda ve o sürecin nasıl evrile merak konusu Demokrat seçmenlerin zaten % 79'un bakınca
+Biden gitsin Onun yerine aday olarak yardımcısı cala Harris gelsin deniyor Amerika'nın eski başkanı
+Obama da yine biden'ın adaylığından endişeli ABD Başkanı Joe biden'ın sağlığı ile ilgili tartışmalar
+sürüyor sadece seçmenleri değil kendi Partisi dahil adaylık çekilmesini istiyor Amerikan basını 81
+yaşındaki ABD liderinin hafta sonu başkanlık yarışından çekileceğini iddia etti akios haber sitesi
+Parti içindeki bazı demokratların baskısı sonucu biden'ın kenara çekilmesi noktasında ikna
+edildiğini öne sürdü New York Times gazetesi biden'ın seçimleri kazanamayacağı fikrini kabullendiği
+Bu nedenle adaylıktan çekilmeye hazırlandığını yazdı Washington post'ta Obama'nın biden'ın
+adaylığından endişeli olduğunu belirtti eski ABD başkanının bu kaygısını çevresine anlattığını
+aktardı ABD'de yapılan bir ankette biden'ın istenmediğini ortaya koydu demokratların % 79'u aday
+olarak Başkan Yardımcısı harisi görmek istiyor bak paylaştığı canlı yayında kötü bir performans
+sergilemişti program sonrası yoğun eleştirilere maruz kalmış adaylıktan çekilmesi yönünde çağrılar
+yapılmıştı ABD başkanına çekil diyen Demokrat sayısı 20'yi geçti iddiaya göre Bir yetişkin sesinden
+rahatsız olduğu çocukları parkta taşla darp etti çocukların yakınları olaya dahil olunca da bambaşka
+bir durum ortaya çıktı kovalama yaşandı benzinliye kaçan saldırganı linçten polis zor kurtardı kaçtı
+ama kurtulamadı kapıyı kapatmaya çalışırken sopaların hedefi oldu çalışanlar araya girse de tansiyon
+düşmedi polis bile o kişiyi Öfkeli grubun elinden zor kurtardı çocuk düşmüş öle Ondan sonra Kab
+kaçmış iddiaya konu olan olay Ankara'da meydana geldi yer eti meskut ilçesi Ahi Evran mahallesindeki
+bir parktır mahalledeki parkta oynayan çocukların sesinden rahatsız olduğu ve parktaki oynayan
+çocukların kafasına taşla vurduğunu öğrendim D tane çocuğun kafasına taşla vuruyor daha da vurmak
+isterken Aslında oradaki halkın tutup müdahale etmesiyle son buluyor kavgayı saniye saniye
+görüntüleyen Burak çayeli'nin de anlattığı gibi durumu fark eden çocukların yakınları o kişiye
+müdahale etmek istedi saldırgan benzinliye kaçtı kovalamaca az kalsın lince dönüşecekti ellerinde
+sopalarla soluğu benzinlikte alan kalabalık saldırganı darbetti araya çalışanlar girse de Öfke
+dinmedi kaçan kişinin saklandığı dükkan taşlandı ihbar Üzerine benzinliye gelen polis ekipleri
+saldırganı gözaltına aldı parkta yaralanan çocuklarına durumu iyi yaşadıkları şokun etkisi altında
+hastaneye kaldırıldılar Korkma korkma İstanbul Sultangazi'de alacak verecek kavgasında bir kişi
+sokak ortasında babasına ve ayine kurşun y o deet anları güvenlik kamerasına yansıdı alacak verecek
+meselesinden babası ve abini böyle vurdu olay Sultangazi 50 Yıl Mahallesi Orhangazi Caddesi üzerinde
+yaşandı aralarında Alacak vce meselesi bulunan taksi önünd kalırım babası ve abine silahla ateş etti
+olayda baba ve oğlu çeşitli yerlerinden yaralanırken saldırgan kardeş ahmets ise olay yerinden
+kaçarak uzaklaştı ihbar üzerine olay yerine gelen sağlık ekipleri baba ve oğlu hastaneye kaldırdı
+emniyet ekipleri ise kaçan saldırgan kardeşin yakalanması için çalışma başlattı İstanbul'da
+Bakırköy'de bir üst geçit var ki ismi artık Sabıkalı üst geçit defalarca kez altından geçen tırlar
+üst geçide çarptı kazaya neden oldu hatta Ramazan ayında bu Sabıkalı üst geçide çarpan Bir tır
+otomobile devrilmiş otomobilin üstüne devrilmiş dört kişinin de ölümüne neden olmuştu Sabıkalı Üst
+geçitte yine bir kaza meydana geldi tır üst geçide çarptı devrildi Neyse ki korkulan Bu kez olmadı
+büyük bir facia yaşanmadı önlem alınmadı Sabıkalı Üst geçitte yine kaza yaşandı Bakırköy Yeşilyurt
+Rauf Orbay caddesinde Bir tır Cadde üzerindeki üst geçide çarptı tır çarpmanın etkisiyle devrilirken
+o sırada yolda bulunan diğer araçlar kazayı kılpayı atlattı olay yerine gelen sağlık ekipleri yaralı
+tır sürücüsünü hastaneye kaldırdı Cadde ise bir süre trafiğe kapatıldı geçtiğimiz Mart ayında üst
+geçide çarpan tır bir otomobilin üzerine devrildi Veci kazada 4 kişi hayatını kaybetti Ayrıca daha
+önce yine aynı üst geçide çarpan tırlar yaralamalı kazalara neden olmuştu Bursa'da iki genç sosyal
+medyada canlı yayın yaparken seyir halindeler ve kazaya karıştılar çok ucuz kurtuldular işte
+gençlerin ölümden döndüğü anlar sosyal medyada canlı yayındır kazaya karıştılar korku dolu anları
+böyle kayıt altına aldılar kazada canlı yaydık zaten bir tane otobüs Yolun ortasına atladı bir anda
+kazanın adresi Bursa ticare aracı Burak Yüksel kullanıyor arkadaşı Gökhan taş da canlı yayın
+yapıyordu kavşakta belediye otobüsü gençlerin aracına çarptı birden otobüs son sürat geldi bize
+yandan çarptı gençlerin korkusu ve paniği de kayıt altındaydı O esnada yaylar da vardı yayıları da
+yazabilirdim hasara baktılar şimdi bir haber gelecek ekrana ve şöyle diyeceksiniz Biz kime
+güveneceğiz kime güveneceğimizi şaşıracağımız bir haber geliyor ekrana Ankara'da filmlere de konu
+olacak bir hırsızlık olayı yaşandı Bir bakkal Kendisine emanet edilen emanet bırakılan anahtarları
+evlerin anahtarlarını tek tek kopyaladı sonrasında müşterilerinin evlerini soydu Mahalleli eve
+yerleştirdiği kameranın kaydettiği görüntüleri görünce şoke oldu Bakkal gözaltına alındı param
+kaybolmuştu çocuğun kumbarasında şüphelendim Ama konduramadım elinde eldiveni ve feneriyle Karanlık
+odada bir adam dolapları tek tek açtı çekmeceleri inceledi evlere hırsız olarak giren bu kişi
+aslında mahallenin bakkalı kimi okuldan dönen çocuğu alsın diye Kimi de annesi kapıda kalmasın diye
+Evinin anahtarını ona teslim ediyordu bakkala emanet bırakılan anahtarları Tek Tek kopyaladı 6
+yıldır bu Mahallede oturuyorum yani herhangi bir şüpheye sokacak bir şey görmemiştim güvendiğimiz
+için anahtarı bırakıyordu olay Ankara'nın Sincan ilçesinde meydana geldi Murat Karagöz iki kez
+hırsız giren evine güvenlik kamerası taktırdı üncü kez evi soyulduğunda görüntüleri inceledi
+gördükleri karşısında şoke oldu çünkü evine giren hırsız alışveriş yaptığı bakkalın Ta kendisiydi
+Dün akşam o videoları göründükten sonra hani hem Şok oldum hem konduramam ama videoları Gördükten
+son Her şey yerine oturdu esnaf da olup Bitene şaştı kaldı mağdurlardan Mürsel kaymak 11.000 L
+kaybolduğunu söyledi iki çeyrek altınla Bir de yüzüğünün çalındığını belirtti ailece görüşürdük yani
+gezmelere giderdik kim anahtarını verdiyse ona güvenip o kişiler hep mağdur kaldı biz de hani
+Güvendik verdik konduramaz dık ama yapmış yani şikayetçi olaca Mahalleli şikayetçi oldu Bakkal işgal
+ordusu Gazi'deki Türk Filistin dostluk Hastanesini askeri üse dönüştürdü 180 yataklı hastane bölgede
+99.000 kanser hastasına hizmet veriyordu İsrail askerlerinin Hastane Önünde ve içinde çektikleri
+görüntüler Dışişleri Bakanlığı tarafından sert tepkiyle karşılandı gazze'nin tek kanser tedavi
+merkeziydi İsrail önce bombaladı ardından boşaltıp askeri üse dönüştürdü 180 yataklı Türk Filistin
+dostluk Hastanesi 2017'de gaze nezar imde hizmete girdi amaç bölgedeki kanser hastalarının
+tedavisinin yapılmasıyla burada Şifa buluyordu Kasım 2023'te Gazze'ye yönelik abluka la İsrail
+bölgeye yakıt girişini durdurdu kanser hastalarının tedavisi engellenmeye başladı net zarim
+koridorundaki hastane gazinin tam ortasındaydı İsrail için stratejik öneme sahipti hastaneye El
+koymak için defalarca bombaladı onlarca Hasta saldırılarda can verdi hastane tıbbi imkansızlıklar ve
+güvenlik sorunu nedeniyle boşaltıldı İsrail hemen hastaneye el koydu burayı askeri üs haline getirdi
+askerler önünde toplanıp milli marş okudu İsrail askerleri daha da ileri gitti hastanenin içinde
+kutlama yemekleri başladı o anları İsa sosyal medyada yayınlamaktan çekinmedi bazı askerl ise
+Hastane Önünde toplu halde fotoğraf çektirdi görüntüler üzerine Türk Dışişleri Bakanlığı sert tepki
+gösterdi açıklamada İsrail'in uluslararası hukuk ve uluslararası insancıl hukuku ihlalinin yeni bir
+delili denildi bu saldırıların sorumlularının uluslararası mahkemeler önünde hesap vermesi için çaba
+gye devam edeceğiz ifadelerine yer verildi hava sıcaklıkları uzun bir dönemdir mevsim normallerinin
+üzerinde seyrediyor zaten kuraklık küresel iklim değişikliği iklim krizi derken işler işin içinden
+çıkılmayacak bir noktaya doğru gidiyor Şimdi Bununla birlikte İstanbul başta olmak üzere ülkenin
+tamamı yakını Afrika ve Basra kökenli sıcak havanın etkisine de girdi nemle birlikte gerçekten
+hissedilen sıcaklık 40'ın üzerinde İstanbul ölçeğinde konuşacak olursak şu anda sıcaklıkların
+ortalama nemi ortaya koymazsak 37 dereceye kadar çıkacağı açıklandı ve uyarı geldi yaşlı çocuk
+hamile astım kronik rahatsızlıkları bulunanlar Kalp hastaları güneşten uzak durun sıcaklar bunalttı
+daha da sıcakları bu hafta sonu yaşanacak yüksek nem sıcaklık değerlerini 510 derecede yükseltiyor
+Afrika ve Basra kökenli sıcak hava dalgaları etkisini sürdürüyor Özellikle de nem oranının da
+artmasıyla hava bunaltıcı olabiliyor verilere göre de Geçtiğimiz ay Türkiye'de son 53 Yılın en sıcak
+Haziran ayı yaşandı İstanbul'da da bu havalardan nasibini aldı akoma göre İstanbul'da etkili olan
+sıcak hava dalgası nedeniyle sıcaklıkların 30 ile 37 derece arasında değişmesi bekleniyor sıcaklık
+bu derecede ancak yüksek nem bu değerleri artıracak AKOM % ile % 195 arasında seyreden yüksek nem
+sebebiyle sıcaklık değerlerinin ölçülen 510 derece daha yüksek hissedilebilecek açıkladı özellikle
+Kartal Kadıköy Florya ve Beylikdüzü gibi sıcaklık ve nemin en yüksek ölçüldüğü gün Güney
+Sahillerinde sıcaklığın 40 derece ve üzerine çıkması tehlikeli bir durumun oluşturabileceğini
+söylüyor bu kapsamda yaşlılar Hamileler çocuklar ve astın ve kalp yetmezliği gibi rahatsızlığı
+bulunan vatandaşlara uyarı yapıldı Güneşli ortamdan uzak durmaları istendi Peki bu sıcaklıklar Daha
+ne kadar sürecek İstanbul'da hava sıcaklıkların kadar msim normallerinin 47 Dere üzerinde
+seyredeceği belirtildi 23 Temmuz 5 ağustos tarihleri arasında İsa mevsim normalleri civarı 13 derece
+üzerinde seyretmesi bekleniyor sıcak hava ve nem ikisi birleşince gerçekten dayanılır gibi değil
+Özellikle gece nemin artmasıyla birlikte uyuyamaz hale geliyoruz hepimiz hepimizi esir almış durumda
+bu hava Öyle ki bunun dışında sokağa adımımızı attığımız an kendimizi Kanter içerisinde kalmış halde
+buluyoruz bu sıcak havaların en büyük panzehri Eğer evin içerisindeyseniz kapalı ortamdayız Elbette
+klima şimdi talep oldukça fazla havaların böyle olmasıyla birlikte bu yüzden fırsatçılık da devreye
+giriyor fiyatları arttı talep ne kadar çoksa fiyat o kadar yükseliyor malum durum sadece fiyatla
+kalıyor mu Hayır parayı ödediniz istediniz klimanızı fakat bir de montaj problemi var yani klimaya
+aldınız öyle hemen karşısına geçip serinleyeyim istiyorsanız bu satın aldıktan sonra haftaları
+bulabilir Hatta bu süreç içerisinde yaz güneş ortadan kaybolabilir bile evinizde Klima var mı Evet
+klimamız var ama bu çok sıcaklarda performans yetersizliğini gördük ve değişime karar verdik
+değiştirmek istedik klimamız yok fakat bu seneki sıcaklardan sonra klima Almaya karar verdik sıcak
+bastırdı talep arttı klimalara ilgi yoğun satışlarda bir patlama gerçekleşti e arka ambiyansa da
+duyduğunuz gibi telefonlarımız hiç susmuyor sıcaklıklar ciddi derecede arttı vatandaş Serinlemek
+için kendisini klimaların önüne atıyor fiyatlar ne kadar makul olmasa da satışlar her geçen gün
+artıyor geçmişte Eee haziranın ortasından sonra eee satışlarımız artıyordu bu sene haziranın 1'i
+itibariyle havaların ısınmasından dolayı E satışlarımızda bir patlama gerçekleşti günlük 20-2 adet
+klima satışı yapıyoruz biz bayi olarak Eee ve rağbet bunun dağ üzerinde montaj yapamadığımız için
+Eee satışı ertelemek zorunda kalıyoruz talep artmaya başlayınca bayilerde ürün bulmak güçleştirecek
+sonraya randevu veriliyor bir satış olduğu zaman 10 gün sonra 15 gün sonrasına falan anca gün
+alabiliyorlar en kısa sürede geliriz diyorlar ama bu en kısa süree 3 haftaları 4 haftaları buluyor
+sanırım Yaz bitince herhalde bağlamaya gelecekler fiyat aralığı İsa ürün kalitesine göre değişiyor
+başlangıç fiyatımız 2.000 en ufak kapasiteli Cihazımız ve ekonomik segment Cihazımız 2.000 T Bu
+rakamlar 100 150.000 L arasına kadar yükselmekte vatandaşa yazı geçirmeden siparişini almanın
+peşinde en kısa sürede gelir diyorlar ama bu en kısa süreye 3 haftaları 4 haftaları bağlamaya
+gelecekler üreticiler bakım montaj ve fiyat avantajından faydalanmak isteyenlere sezondan önce
+almayı öneriyor sıcaktan uyunmuyor kavurucu sıcaklar Hayatımızın her alanını her anını etkilemeye
+devam ediyor uzmanlara uyarıyor bu sıcaklıklar hava sıcaklıkları nedeniyle belli başlı sorunlar aaya
+çıkabilir baş gösterebilir aşırı sıcaklar stres anksiyete sinirlilik gerginlik kavga etme haline
+sebep olabiliyorlar stres çok fazlasıyla var uyuyamadığımız için daha çok fazla aşırı sıcaklar
+uyutmuyor vatandaşlar kaçacak yer arıyor Uzmanlar Bu sıcak havalarda Uygal dalgalanmalar ve aşırı
+sinirlilik haline karşı uyarıyor bu sıcaklar Aslında Ee birtakım temel mekanizmalar üzerinden her
+şeyi etkiliyor Eğer gün içinde fazla sinirli fazla stresli oluyorsanız Bunun nedeni kavurucu
+sıcaklar olabilir yorgunluklar halsizlikler başımızı yastıktan kaldıramama konsantrasyon güçlükleri
+Eee belki sinirlilik sıcaktan insan bunalıyor sinirler artabiliyor işte trafikte kavgalar vesaire
+anlar uyarıyor aşırı sıcaklar duygusal bozukluklara ve ruh hali değişimlerine yol açabiliyor
+uyuyamayınca ne yapıyoruz Herkes birbirine sataşıyor bu sefer uykusuzluk stres her şey var Belki
+Duygu durumunda değişiklikler Belki çok sinirlilik tahammülsüzlük Bunlar olabilir sıvıya çok ihtiyaç
+duyduğumuz belki yeteri kadar sıvı açığımızı yerine koyamadığımız için bunlar ortaya çıkabilir çok
+sıcaktan yani sinirleniyor İnsan iş yapamıyorsun yani psikoloji mi bozuluyor Peki tüm bunlardan
+etkilenmemek için ne yapmalı bizim burada yapacağımız şey gerçekten şu anda ben çok da terlemedi
+bugün çok da sıvı kaybetmedim dememek ve sıvı alımına çok dikkat etmek güneşin en tepede olduğu
+zamanları güneşin altında sıcakta geçirmemek konusunda uyarmak lazım Bodrum'un plajlarına gideceğiz
+Şimdi Ama öyle geçtiğimiz yıllardaki gibi yoğun kalabalıklar Beklediğiniz tablolar gelmeyecek ekrana
+Çünkü fiyatların faiş duruma gelmesinden dert yanan vatandaş artık Türkiye'deki o Turizm
+cennetlerini tercih etmiyor başka noktalara gidiyorlar Yunanistan en net örneklerinden bir tanesi
+her yıl kalabalığıyla Bodrum'u çok konuşuyoruz ama dikkat çekiyor Bu yıl oldukça sakin geçen
+yıllarda Tabii daha yoğunluk vardı E bu Şüphesiz şimdi Tabii daha da azaldı maalesef geçen yıl da
+pahalıydı Ama bu sene daha da astronomik oldu Onun için insanlar daha çok evinde oturuyor masmavi
+deniz sıcak mı sıcak kum plajlarıyla önlü Bodrum'da Bu yıl yoğunluk olmaması göze çarptı önceki
+yoğunluk Yok artık yani geçen senelerde daha bir yoğunluk vardı bu sene çok daha sakin Bodrum'un
+plajlarından birindeyim Kulaç atmak mümkün değildi öylesi bir yoğunluk vardı Ancak bugüne
+geldiğimizde durum bu Önceki yıllarda buradaki yoğunluk nasıldı şu anda nasıl azaldı azaldı bunu
+neye bağlıyorsunuz Peki ekonomik sıkıntılara bağlıyorum Bodrum her yaz tatilcilerin Gözde mekanıyla
+dikkat çeken kentte bu yılki tablo şaşırttı sahilde adım denizde Kulaç atılacak yer bulunmazken
+şimdilerde ise oldukça sakin 2 sene önce buraya geldiğimizde Yani herkes yerde oturuyordu yani böyle
+bir şokta falan oturmuyo herkes full full doluydu Ama şu an öyle bir şey yok kimine göre ise hala
+plajlarda yer bulmak zor yoğunluk çok fazla biz buraya gelmeden önce ü tane plaj gezdik yer
+bulabilmek için burada da sonradan Hani normal şemsiye altında değil de başka bir yerde bekleyip
+buraya geçtik çok dolu Aslında 2 yıl boyunca biliyorsunuz ki bir pandemi süreci geçirdik o dönem de
+sadece Türkiye değil küresel ölçekte Dünyada hayat bambaşka bir formata evrildi yeni yeni
+kazanımlarımız oldu Belki de şimdi arka arkaya yine koronavirüs haberleri geliyor ve Tedirgin
+olmamak elde değil Amerika'da vakalar % 23 oranında arttı son olarak Amerikan başkanı Joe Biden da
+koronavirüs ortaya çıktı ve büyük bir panik var hal böyle olunca virüs yeniden mi hortladı yeniden
+yayılıma bir artış mı Söz konusu ölümcüllük gibi sorular kafalarda Peki koronavirüs yayılma
+aşamasına mı geçti tekrar Türkiye'de son durum ne Türkiye'de koronavirüs vakalarındaki son tablo
+nasıl işte detaylar Yani aslında hiçbir zaman hayatımızdan çıkmadık hala covid-19 var kabus yeniden
+hortladı Çoluk çocuk yaşlı demeden herkese bulaşıyor şu anda bizim Grip olan hastalarımız aslında
+neredey yarıya yakını covid Çünkü biz yaptığımız testlerde bunu görüyoruz 2019'un son aylarında
+hayatımıza giren koronavirüs milyonlarca hayata mal oldu pek çok kişinin de alışkanlıklarını
+değiştirmesine sebep olan o virüs şimdilerde kabuk değiştiriyor Yani aslında hiçbir zaman
+hayatımızdan çıkmadık hala covid-19 var ilk başladığındaki kadar yüksek bulaşıcılığı yok ama yine de
+diğer bakteriyal enfeksiyonlara göre yine de daha hızlı bulaşıyor şimdilerde ise fill isimli yeni
+bir Varyant gösterdi şu anda filir diye bir Varyant var ama bundan bir ay sonra bu da değişecek
+Varyant adı değişse de şikayetler birbiriyle benzerlik gösteriyor Evet aynı grip gibi başlıyor
+özellikle hala Ateş var kas ağrıları burun akıntıları geniz akıntıları oluyor ABD'deki vaka sayısı
+bir haftada % 23 arttı Hatta Öyle ki o virüse ABD Başkanı Joe Biden da yakalandı virüsün Amerika
+Birleşik Devletleri'nde yayılması büyük panik yarattı yeni bir salgında kapıda mı dedirtti peki
+Türkiye'yi bekleyen Bir tehlike var mı Yani tekrar sayı artabilir özellikle burada sonbahar önemli
+ya kışa doğru yine okullar açılacak insanlar daha kapalı alanlarda vakit geçirmeye başlayacak bu
+dönemde sayılar artabilir uzmanlara ilerleyen günler için maske ve mesafenin önemine dikkat çekiyor
+Evet yine maske kullanımı iyi olur el yıkamak bunu ihmal etmememiz gerekiyor hastalığın olduğunu
+bildiğimiz kişilerden özellikle üst sonunum yolu burun boğaz enfeksiyonları aku mümkün olduğunca
+uzak dünyadan sıra dışı enteresan olaylardan derlediğimiz dünyanın görüntüsü gelsin ekrana içinde
+bebeğin de olduğu aracıyla polisten kaçtı silahlı soygun zanlısı ile polis arasında kovalamaca
+yaşandı zanlı o anlarda sosyal medyasında canlı yayın da yaptı Ancak bu kovalamacanın daha dikkat
+çeken yanı araçta küçük bir bebeğin olmasıydı şartlı tahliyeyle cezaevinden çıkan zanlı kız arkadaşı
+ve bebeğinin içinde olduğu araçla uzun süre kaçtı sonunda teslim olmak zorunda al anne ve bebek
+olumsuz bir durum yaşamadı inşaat alanı Savaş alanına döndü inşaat işçileri arasında tartışma
+yaşandı Sonra kavga çıktı işçiler birbirlerine kasklara tahtalarla saldırdı işçileri ayırmak kolay
+olmadı İnşaattaki kavgada yaralananlar da oldu korkunç kazanın Can aldığı görüntü dehşete düşürdü
+inşaatın devasa Vinci büyük bir gürültüyle Bir aracın üzerine düştü sürücü kadın şans eseri hayatta
+kaldı inşaatta çalışan bir işçi hayatını kaybetti nisan ayında meydana gelen olayın yeni görüntüleri
+ihmal tartışmalarını yeniden gündeme taşıdı tacizci okul müdürü polise dir tutuklanmaktan
+kurtulamadı müdür hakkında kadın öğretmene taciz iddiası üzerine hem öğretmenler hem veliler
+ayaklandı poliste gelince okul müdürü suçlamaları reddetti polise direndi müdür velilerin ve
+öğrencilerinin önünde polis memuruyla 30 dakikadan fazla boğuştu ama sonunda okul müdürü tutuklandı
+köpeğini hayvan barınağına atarak terk etti vicdansız kişi gece yarısı aracıyla hayvan barınağına
+geldi pitbull cinsi köpeğini çitlerin üzerinden attı köpeğini terk eden kişi hayvanseverlerin
+tepkisini çekerken polis bu kişinin Peşine Düştü işte küresel ısınmanın yürek yakan sonucu
+Antarktika'da küresel ısınma nedeniyle buzullar eriyor yaşadığı yerde buzulların parçalanmaya
+başlaması üzerine bu penguen ne yapacağını şaşırdı canını kurtarmak için koşuşturan penguen'in
+görüntüleri sosyal medyada viral oldu Bir anlık hata nedeniyle at Pistin dışına çıktı ikinci ayakta
+Koşan ve yarışın favorisi olan at rakiplerinin önünde 4 nala gidiyordu bicisi kırbacı vurunca at
+sola doğru hareket ederek çitlere çarptı kimse zarar görmedi at yeniden piste dönse de yarıştan
+diskalifiye edildi fırtına ve sağanak yağışı eğlenceye çevirdiler Formula 1 ekibi olumsuz hava
+koşulları nedeniyle yarış hazırlıklarına ara vermek zorunda kaldı ekip üyeleri o anlarda yağmurdan
+saklanmak yerine keyfe dönüştürdü ortaya da bu neşeli görüntüler çıktı polis pazarı bastı yasaklı
+Kesici alet satıcısını tutukladı polis halk pazarında satışı olan silahlara yönelik baskın yaptı bir
+dükkanda satılan bıçak Hançer ve kılıçlara el koydu Dükkan sahibi kendini savunmaya çalışsa da polis
+gözünün yaşına bakmadı şüpheliyi yemek yerken gözaltına aldı Aşırı hız bu kazaya neden oldu otoyolda
+hız yapmaya Kalkan kişi kontrolü kaybetti bir araca çarptı kırmızı spor araç yoldan çıktı çarptığı
+araçtaki kadın sürücü yaralandı polis vurkaç olayına karışanların Peşine Düştü Uzmanlar uyarıyor
+sivris ineklerden gelen virüsler insan sağlığını tehlikeye atıyor özellikle şimdi havaların sıcak
+olmasıyla birlikte hava sıcaklıklarının çok artmasıyla birlikte bu riskte artıyor Batı Nil ateşi ile
+duması tehlikesiyle karşı karşıya olduğumuzu belirtiyor Profesör Doktor Serap Şimşek Yavuz
+sineklerle yani sivri sineklerle mücadelede yerel yöntemler yönetimler ve bakanlıklar birlikte
+hareket etmeli çağrısında bulundu Hani 100'den fazla oldgu sivr İnekler çoğaldı Uzmanlar uyardı Batı
+Nil ateşi ve dk hummasına dikkat aşırı sıcaklar ve nemli havanın etkisiyle yaz aylarında artan
+enfeksiyon hastalıklarının başında İsal yer aldı temiz olmayan gıdalar salgına neden oluyor ancak
+doktorların dikkat çektiği Başka önemli bir virüs daha var o da Yaz aylarının kabusu
+sivrisineklerden geliyor e sivrisineklerle gelebilecek Türkiye'de olan ve olmasını beklediğimiz
+hastalıklar var Türk klinik mikrobiyoloji ve Enfeksiyon hastalıkları Derneği Başkanı Profesör Doktor
+Serap Şimşek Yavuz Batı Nil ateşi ile dank Humması konusunda uyardı İstanbul'da bu bölgeye de girmiş
+durumda artık dank e ateşi dediğimiz humma o Hem İran'da görülüyor hem Avrupa'da tanımlandı bizde de
+tanım an masasından çok korktuğumuz bir e virüs bu küresel ısınmayla birlikte Sivrisineklerin
+yaşadıkları bölgelerin değişmesiyle yani sivrisinek bir tür değil birçok sivrisinek türü var Her
+sivrisinek türü de farklı farklı mikroorganizmaları taşıyabiliyor Profesör Doktor Yavuz tek sağlık
+uygulamasını önerdi Dolayısıyla bu Sivrisineklerin Öncelikle Yani tek sağlık yaklaşımıyla bunların
+Bulunduğunuz bölgede hangi tür sivrisinekler var Bunları bilmeniz lazım çoğalmasını engelleyecek
+birtakım önlemler almanız lazım ki çevresel önlemler gerekiyor bunlarla Artı bu sil sineklerden
+bulaşan infeksiyonlarının Ve tabii ki tarım Orman Bakanlığı'nın ve Eee birlikte çalışması hayvan
+sağlığı konularının birlikte ele alınması gerekiyor ki başarı elde edelim yaşlanma durdurulabilen
+kontrol altına alınabilen tamamıyla bir şey değil ama botoksla etkilerinin azaltılması hedefleniyor
+Fakat onun da doğru ellerde doğru ürünlerle yapılması oldukça önemli merdiven altı bu işlemleri
+gerçekleştiren Birçok yerde olabiliyor bunlara dikkat çünkü yanlış uygulamalar çok ciddi Sağlık
+sorunlarına neden olabiliyor uzmanından kritik uyarılar var doğru ürünler kullanıldığı zaman botok
+uygulamaları son derece güvenli yıllar geçtikçe Yüzde oluşan kırışıklıklar artıyor Peki buna çöz
+olarak ne oluyor botok tercih ediliyor bu noktada bota doğru adım ne olmalı yanlış Ellerden korunmak
+için nelere dikkat edilmeli şu anda merdiven altı birçok ürün olduğunu görüyoruz piyasada bunlardan
+kesinlikle kaçınılması lazım güvendiğiniz hekimlere bu uygulamaları yaptırmanız gerekiyor Ankara
+Üniversitesi Deri ve zührevi hastalıklar anabilim dalı öğretim üyesi Dor koğ bu sözlerle uyardı ve
+ekledi yanlış ürünle bu konuda eğitimi olmayan tecrübesi olmayan Hekim dışı kişiler tarafından
+yapılan uygulamalar kesinlikle çok ciddi yan etkilere neden olabilir Çok ciddi sorunlara neden
+olabilir Peki Yan Etkiler kalıcı bir yan etki Biz doğru botoks uygulamalarında beklemiyoruz işte
+kızarıklık hafif şişlik hafif bir morarma gibi enjeksiyona bağlı yen etkiler Eee olsa bile bunlar
+kısa sürede kaybolur yürekleri ısıtacak bir haber gelecek ekrana Denizli'de bir çiftçi arazisine
+zorunlu iniş yapan helikopter personelini gördü dayanamadı evinde hazırladığı Ayranla koştu geldi
+çünkü 17 saattir yangınla mücadele ediyordu o ekip onları serinletme amaçladı Rus pilot o anları
+kayda aldı sosyal medyada paylaştı görüntüleri Milyonlar izledi Eğer verememiş olsaydım bu görevimi
+yapamamış olsaydım içimde bir eksiklik olurdu zorunlu iniş yapan helikopteri karşıladı yangınla
+mücadele eden personellere ayran ikram etti Rus pilotun paylaştığı o görüntüleri Milyonlar izledi
+onlar Ayranla serinlerken izleyenlerin içi ısındı gittim ayranları hazırladım hemen servis yaptık o
+anda ben Nereden bilirdim ki pilot da sonradan öğrendim Rus olduğunu yürekleri ısıtan bu
+görüntülerin adresi Denizli andızlı mevkiinde çıkan orman yangını üç yangın söndürme helikopterinin
+göletten defalarca yaptığı sorti ile kontrol altına alındı yangının ikinci gününde bir helikopter
+tek başına görev yaptı kontroller için Cemil gümüşe ait araziye zorunlu iniş yaptı bahçemden hemen e
+3 be salatalık aldım elime ikram ettim zamanınız varsa size dedim sıcak serin ayran ikam edeyim
+dedim dördü Rus 6 personel Cemil Gümüş'ün yaptığı Ayranla serinledi o anları kayda alan Rus pilot
+Teşekkürler etiketiyle görüntüleri sosyal medyadan paylaştı Milyonlarca kişi izledi onlar yangınla
+mücadele ederken ben de onlar bir nebze olsun ayranım serinletebilirim ne mutlu bize takdirleri
+toplayan Çiftçi Cemil Gümüş Yürek ısıtan bu davranışıyla akıllara da kazındı Yörükler her zaman kır
+çadırlarında e ikramları Bor olurmuş Biz de bunların bir parçası olarak E bu duygularımızı aktarmış
+olduk Fethiye'ye gideceğiz şimdi heyecan ve adrenalin arayan tatilciler bangi jumping deneyimiyle
+nefes kestiler 51 metre yükseklikten kendilerini boşluğa bıraktılar kolay bir tecrübe değil aslında
+bu o anları kayıt altına aldılar bakın doyasıya eğlendiler Evet Gam hayatının en Ekiz tecrübesini
+yaşamaya hazır mısın hazırım daima Cesur önce zirveye çıktılar Sonra atladılar gökyüzünde kuş gibi
+süzüldü tatilciler Muğla Fethiye'de adrenalini doruklarda yaşadı banki jumping deneyimleri onların
+kini değil ama izleyenlerin nefeslerini kesti tatilde heyecan arayanlar B jumping merkezinde
+aradıklarını buldu önce güvenlik tedbirleri alındı sonra da vinçle 51 metre göğe yükseldiler kayen
+özel kayma minderlerini kullan buras Türkiye'deki tek B jumping Merkezi sezon boyunca açık olan 51
+metre yükseklikten tatilcilere eşsiz bir adrenalin deneyimi yaşatıyoruz tatilciler atlayış sırasında
+ellerine bağladıkları aksiyon kameralarıyla deneyimlerini kaydetti bazılarının ikişer üçer Hatta 7
+atlayışı olanlar var ailece gelenler var banky jumping heyecanını küçükten büyüğe herkes
+deneyimleyin atışım 12 yaşındayım E çok zor bence O adrenalinle yukarı çıktığınızda e ağzınızın
+kuruması tansiyonunuzun çıkması kalp atışınızın hızlanması Tabii bu işin en güzel tarafı İstanbul
+denizle özdeşleşmiş bir kent boğaz sularında yapılan sporlara son yıllarda oldukça talep de söz
+konusu özellikle artık deniz bisikleti giderek popülerleşen sporlar arasında yer alıyor denize
+kıyısı olan bazı semtlerde belediyeler ücretsiz eğitim dahi veriyorlar Peki bu uygulama güvenli mi
+bunu yapabilmek kolay mı Basit mi Fiyatlar nasıl en önemli parametre o Aslında İzel Topaloğlu sizler
+için deneyim dedi düşme ihtimali çok düşük uğraşıp kendinizi atmanız gerekiyor ki size sya
+düşebiliriz gereksin şehrin hengamesinde kaçıp Bir Tatlı Huzur Almaya geldiğimiz boğaz ile daha
+yakın bir ilişki kurmak su sporlarıyla mümkün Bir tatlı huzur alamaya geldik Kalamış İstanbul'da son
+zamanlarda su sporları oldukça revaçta yeni tren deniz bisikleti İstanbul'un denizini daha önce
+vapurla açtık köprüyle açtık tekneyle açtık Peki Bisiklet mi İşte onu şimdi deniyoruz deniz
+bisikleti Eee Öncelikle çok kolay bir sistem üzerine kurulmuş Eee Katamaran tarzı dediğimiz iki
+şişme botunun üzerine tasarlanmış dengesi oldukça yüksek devrilme ihtimali düşme ihtimali çok düşük
+ileri çevirdiğinizde ileri giden geri çevirdiğinizde geri giden sürüşü kolay bir bisiklet olarak
+tasarlanmış denizin tadını çıkarmanın bir sürü yolu var Bunu kocaman yelkenli bir yatla da
+yapabilirsiniz maske palet Şnorkel üçlüsüyle de siz Yeter ki bu güzel Denin tadı çıkarmak isteyin
+çünkü İstanbul'un doğası en güzel Denizde çıkıyor Bazen sabah Güneş Doğarken Bazen akşamları gün
+batımında güvenli ve keyifli deniz bisikleti sporu için uyulması gereken kurallar da var Öncelikle
+üzerinize bir can yeleği oluyor ve sizi takip eden bir güvenlik botu oluyor ve inmeden önce
+bisiklette yapmanız gereken ve kaçınmanız gereken hareketlerden bahsediyoruz bu şekilde boğaza çıkış
+yapıyoruz eö çıkmadığınız sürece düşme devrilme riskiniz olmuyor bisiklet sürmek istediniz Ama bu
+sefer ormanda değil Denizi tercih ettiniz ödeyeceğiniz Rakam ne kadar bisiklette kişi başı ücretimiz
+00 fotoğraf çekiminde de arkadaşlar yardımcı oluyor ekstra bir ücret talep edilmiyor 50 dakikaya
+yakın suda kalıyorsunuz bize bir saat zaman ayırmak gerekiyor eğlence güzel olduka ama fiyatı
+konusunda Tabii ki birçok soru işareti beraberinde barındırıyor Belki biraz daha makul olsa sürümden
+kazanırlar Buradan da bir talepte bulunmuş olayım vatandaşlar adına Biz burayı noktalı ana haberi
+haftayı da noktalı Şimdi bizden hemen sonra Alfa Petek Ali İhsan varola sizlerle birlikte olacak
+haftanın final bölümü onun sonucunda da şampiyona ödülü verilecek Bu haftayı noktaladı yeni haftada
+tekrar görüşmek dileğiyle mutlu hafta sonları iyi akşamlar Hoşça kalın ah
