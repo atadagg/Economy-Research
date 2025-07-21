@@ -15,101 +15,182 @@ class NewsProcessor:
         self.client = OpenAI(api_key=OPENAI_API_KEY)
     
     def segment_text(self, text):
-        """Split text by news topics, not just word count"""
+        """Split text by news topics using intelligent boundary detection"""
         text = re.sub(r'\s+', ' ', text.strip())
         
-        # Try to detect topic changes with AI first
-        segments = self.detect_news_boundaries(text)
-        if segments:
-            return segments
+        # Use AI to find precise topic boundaries
+        segments = self.find_topic_boundaries(text)
+        if segments and len(segments) > 1:
+            # Validate and refine segments
+            segments = self.validate_and_refine_segments(segments)
+        else:
+            segments = [text]  # Keep as single segment if no clear boundaries
         
-        # Fallback: look for natural topic transitions in Turkish news
-        segments = self.segment_by_topic_patterns(text)
         return [s for s in segments if len(s.split()) >= SEGMENT_MIN_LENGTH]
     
-    def detect_news_boundaries(self, text):
-        """Use AI to detect where different news stories begin/end"""
+    def find_topic_boundaries(self, text):
+        """Use AI to find precise boundaries between different news topics"""
         try:
+            # First, check if there are multiple topics at all
             response = self.client.chat.completions.create(
                 model="gpt-4o-mini",
                 messages=[{
                     "role": "user",
-                    "content": f"Analyze this Turkish news transcript. Does it discuss ONE main topic/news story (even with different guests) or MULTIPLE different news stories?\n\nRespond with only:\n- 'SINGLE_TOPIC' if it's all about one main story\n- 'MULTIPLE_TOPICS' if there are clearly different news stories\n\nText: {text[:1500]}"
+                    "content": f"""Analyze this Turkish news transcript carefully. 
+
+Does it contain:
+1. ONE main news topic/story (even with different segments, guests, or perspectives on the same story)
+2. MULTIPLE distinct news stories/topics
+
+If MULTIPLE topics, identify where each new topic begins by finding the sentence that starts each new story. Look for:
+- Topic transitions (moving from one news story to another)
+- NOT just guest changes or commercial breaks within the same story
+- NOT just different perspectives on the same story
+
+Respond in this format:
+- If ONE topic: "SINGLE_TOPIC"
+- If MULTIPLE topics: "BOUNDARIES: [sentence where topic 2 starts]|||[sentence where topic 3 starts]|||..."
+
+Only include clear, distinct topic changes.
+
+Text: {text[:2000]}"""
                 }],
                 temperature=0.1,
-                max_tokens=50
+                max_tokens=200
             )
             
             result = response.choices[0].message.content.strip()
-            print(f"AI topic analysis: {result}")  # Debug output
+            print(f"AI boundary analysis: {result[:100]}...")
             
             if "SINGLE_TOPIC" in result:
-                return [text]  # Keep as one segment
-            else:
-                return None  # Let pattern detection handle it
+                return [text]
+            
+            if "BOUNDARIES:" in result:
+                # Extract boundary sentences
+                boundaries_part = result.split("BOUNDARIES:")[1].strip()
+                boundary_sentences = [s.strip() for s in boundaries_part.split("|||") if s.strip()]
+                
+                if boundary_sentences:
+                    return self.split_by_boundaries(text, boundary_sentences)
+            
+            return None
             
         except Exception as e:
-            print(f"AI topic detection failed: {e}")
-        
-        return None
+            print(f"AI boundary detection failed: {e}")
+            return None
     
-    def segment_by_topic_patterns(self, text):
-        """Segment by detecting Turkish news topic transition patterns"""
-        # Only look for strong indicators of topic change, not guest changes within same topic
-        topic_indicators = [
-            # Strong topic transitions
-            r'\b(?:Başka|Diğer)\s+(?:bir\s+)?(?:haber|konu|başlık|gelişme)',
-            r'\b(?:Gündemi|Ajanda).*?değiştir',
-            r'\bBir(?:de|di)?\s+(?:diğer|başka)\s+(?:haber|konu)',
-            # Clear location-based news changes
-            r'\b(?:İstanbul|Ankara|İzmir|Bursa)\'?(?:da|dan|a)\s+(?:yaşanan|meydana\s+gelen)\s+(?:olay|gelişme)',
-            # Show segment transitions (strong indicators)
-            r'\b(?:Gece\s+Ajansı|Ana\s+Haber|Özel\s+Haber)\s*-',
-            # Very clear topic shift phrases
-            r'\b(?:Şimdi\s+de\s+başka\s+bir\s+konuya|Diğer\s+gündem\s+maddesi)'
-        ]
-        
+    def split_by_boundaries(self, text, boundary_sentences):
+        """Split text at the identified boundary sentences"""
         segments = []
-        current_segment = ""
+        current_segment = text
+        
+        for boundary in boundary_sentences:
+            # Find where this boundary sentence appears in the current segment
+            boundary_clean = re.sub(r'[^\w\s]', '', boundary.lower())
+            words = boundary_clean.split()
+            
+            if len(words) < 3:  # Skip too-short boundaries
+                continue
+            
+            # Look for the boundary in the text (fuzzy matching)
+            best_pos = self.find_boundary_position(current_segment, words)
+            
+            if best_pos > 0:
+                # Split at this position
+                before = current_segment[:best_pos].strip()
+                after = current_segment[best_pos:].strip()
+                
+                if before and len(before.split()) >= SEGMENT_MIN_LENGTH:
+                    segments.append(before)
+                
+                current_segment = after
+        
+        # Add the final segment
+        if current_segment and len(current_segment.split()) >= SEGMENT_MIN_LENGTH:
+            segments.append(current_segment)
+        
+        return segments if len(segments) > 1 else [text]
+    
+    def find_boundary_position(self, text, boundary_words):
+        """Find the best position in text where boundary words appear"""
+        text_lower = text.lower()
         words = text.split()
         
-        i = 0
-        while i < len(words):
-            # Check for topic transition patterns
-            window = ' '.join(words[i:i+10])  # Look ahead 10 words
-            found_transition = False
+        # Look for sequences of boundary words
+        for i in range(len(words) - len(boundary_words) + 1):
+            window = words[i:i + len(boundary_words)]
+            window_text = ' '.join(window).lower()
             
-            for pattern in topic_indicators:
-                if re.search(pattern, window, re.IGNORECASE):
-                    # Found a topic transition
-                    if current_segment.strip() and len(current_segment.split()) >= SEGMENT_MIN_LENGTH:
-                        segments.append(current_segment.strip())
-                        current_segment = ""
-                    found_transition = True
-                    break
-            
-            current_segment += " " + words[i]
-            i += 1
-            
-            # Also split if segment gets too long (fallback)
-            if len(current_segment.split()) >= SEGMENT_MAX_LENGTH * 2:
-                if current_segment.strip():
-                    segments.append(current_segment.strip())
-                    current_segment = ""
+            # Check for fuzzy match (at least 70% of words match)
+            matches = sum(1 for bw in boundary_words if bw in window_text)
+            if matches >= len(boundary_words) * 0.7:
+                # Find sentence boundary near this position
+                char_pos = len(' '.join(words[:i]))
+                return self.find_sentence_boundary(text, char_pos)
         
-        # Add final segment
-        if current_segment.strip():
-            if segments and len(current_segment.split()) < SEGMENT_MIN_LENGTH:
-                # Merge short final segment with previous
-                segments[-1] += " " + current_segment.strip()
+        return -1
+    
+    def find_sentence_boundary(self, text, approximate_pos):
+        """Find the nearest sentence boundary to the given position"""
+        # Look backwards for sentence end
+        for i in range(approximate_pos, max(0, approximate_pos - 200), -1):
+            if i < len(text) and text[i] in '.!?':
+                # Move forward to start of next sentence
+                for j in range(i + 1, min(len(text), i + 50)):
+                    if text[j].isalpha():
+                        return j
+        
+        # If no good boundary found, return approximate position
+        return max(0, approximate_pos)
+    
+    def validate_and_refine_segments(self, segments):
+        """Validate that segments are coherent and complete"""
+        refined_segments = []
+        
+        for i, segment in enumerate(segments):
+            # Check if segment seems complete and coherent
+            is_complete = self.check_segment_completeness(segment)
+            
+            if is_complete:
+                refined_segments.append(segment)
+            elif i > 0:
+                # If segment seems incomplete, merge with previous
+                refined_segments[-1] = refined_segments[-1] + " " + segment
             else:
-                segments.append(current_segment.strip())
+                # First segment - keep it even if seems incomplete
+                refined_segments.append(segment)
         
-        # If no meaningful splits found, return as single segment
-        if len(segments) <= 1:
-            return [text.strip()]
+        return refined_segments
+    
+    def check_segment_completeness(self, segment):
+        """Check if a segment seems like a complete, coherent story"""
+        # Basic heuristics for completeness
+        words = segment.split()
         
-        return segments
+        # Too short segments are likely incomplete
+        if len(words) < SEGMENT_MIN_LENGTH:
+            return False
+        
+        # Check if starts and ends reasonably
+        first_words = ' '.join(words[:5]).lower()
+        last_words = ' '.join(words[-5:]).lower()
+        
+        # Starts abruptly (likely cut off)
+        if any(first_words.startswith(word) for word in ['ve ', 'da ', 'de ', 'ama ', 'fakat ']):
+            return False
+        
+        # Ends abruptly (likely cut off)
+        if not any(last_words.endswith(punct) for punct in ['.', '!', '?', '...']):
+            return False
+        
+        return True
+
+    def segment_by_topic_patterns(self, text):
+        """DEPRECATED: Keep as fallback only"""
+        # This method is now deprecated but kept as ultimate fallback
+        return [text]
+    
+
     
     def has_economic_keywords(self, text):
         """Quick keyword check"""
@@ -122,7 +203,13 @@ class NewsProcessor:
                 model="gpt-4o-mini",
                 messages=[{
                     "role": "user", 
-                    "content": f"Is this Turkish news text about economics/finance? Reply with just 'YES' or 'NO' and a confidence score 0-1:\n\n{text[:1000]}"
+                    "content": f"""Analyze this Turkish news text. Does it contain ANY economic/financial content including: trade, investment, economy, defense industry, markets, prices, wages, business, finance, economic policy, economic impact of events?
+
+In Turkish media, economic topics are often discussed within political or military contexts. Look for economic implications, business impacts, trade discussions, investment mentions, etc.
+
+Reply with 'YES' if ANY significant economic content is present, 'NO' if purely non-economic, and a confidence score 0-1:
+
+{text[:1500]}"""
                 }],
                 temperature=0.1,
                 max_tokens=50
@@ -171,12 +258,15 @@ class NewsProcessor:
                     'content': segment,
                     'confidence': confidence
                 })
+            else:
+                print(f"    → Segment rejected: is_economic={is_economic}, confidence={confidence:.2f}")
         
         return economic_segments
     
     def save_results(self, file_path, segments):
         """Save economic segments to file"""
         if not segments:
+            print(f"  → No economic content found")
             return
         
         os.makedirs("processed", exist_ok=True)
@@ -218,7 +308,7 @@ def main():
     
     if target == "all":
         # Process all files
-        for channel in ["AHaber", "ATV", "Halk"]:
+        for channel in ["AHaber", "ATV", "Halk", "KanalD", "Show", "SozcuTV"]:
             channel_dir = f"news/{channel}"
             if os.path.exists(channel_dir):
                 files = [f for f in os.listdir(channel_dir) if f.endswith('.txt')]
