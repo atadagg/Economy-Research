@@ -1,0 +1,87 @@
+{
+  "file_path": "news/SozcuTV/20240821_Can Coşkun ile Sözcü Ana Haber 21 Ağustos.tr.txt",
+  "processing_timestamp": "2025-07-22T17:46:29.587615",
+  "original_word_count": 6995,
+  "filtered_word_count": 193,
+  "retention_ratio": 0.027591136526090063,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "çözüm arayanlar buluşacaklar dertlerini tasaları eleştirilerini tepkilerini önerilerini buluşturacak",
+      "description": "\"çözüm arayanlar buluşacaklar dertlerini tasaları eleştirilerini tepkilerini önerilerini buluşturacak\" - This section serves as the opening of the broadcast, introducing the theme of the program and setting the stage for the discussions to follow.",
+      "end_pos": 101
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 101,
+      "start_sentence": "Başta ekonomik gelişmeler karşısında yeni yeni konuşmaya başladığımız kış senaryoları üzerinde acaba Kış ayları nasıl geçecek şeklinde derdin",
+      "description": "\"Başta ekonomik gelişmeler karşısında yeni yeni konuşmaya başladığımız kış senaryoları üzerinde acaba Kış ayları nasıl geçecek şeklinde derdin\" - This section contains the main news content, discussing various topics including economic developments, educational issues, and political discussions.",
+      "end_pos": 783
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 783,
+      "start_sentence": "Bir de x anketimiz var orada genellikle ekonomi",
+      "description": "\"Bir de x anketimiz var orada genellikle ekonomi\" - This brief transition introduces a new segment related to an audience poll, indicating a shift in focus within the news content.",
+      "end_pos": 879
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 879,
+      "start_sentence": "Bugün olduğu gibi ürünü tarlada kalan çiftçinin isyanı büyüyor",
+      "description": "\"Bugün olduğu gibi ürünü tarlada kalan çiftçinin isyanı büyüyor\" - This continues the news content, focusing on the agricultural sector and the economic challenges faced by farmers.",
+      "end_pos": 1174
+    },
+    {
+      "type": "5. **NEWS**",
+      "start_pos": 1174,
+      "start_sentence": "Erken seçim dedikodusu ne zaman başlasa mevcut anayasanın değiştirileceğini dair dedikoduları duyuyoruz",
+      "description": "\"Erken seçim dedikodusu ne zaman başlasa mevcut anayasanın değiştirileceğini dair dedikoduları duyuyoruz\" - This section further elaborates on political discussions, particularly regarding early elections and constitutional changes.",
+      "end_pos": 1663
+    },
+    {
+      "type": "6. **OUTRO**",
+      "start_pos": 1663,
+      "start_sentence": "Cumhuriyetimizin 100 yılının darbe anayasasıyla geçirilmesi zaten siyaset Kurumu adına büyük bir mahcubiyet kaynağıdır",
+      "description": "\"Cumhuriyetimizin 100 yılının darbe anayasasıyla geçirilmesi zaten siyaset Kurumu adına büyük bir mahcubiyet kaynağıdır\" - This closing remark reflects on the significance of the constitutional discussion and wraps up the program's themes.",
+      "end_pos": 50641
+    }
+  ],
+  "news_segments_count": 11,
+  "economic_segments_count": 3,
+  "economic_segments": [
+    {
+      "segment_id": "101_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 91,
+      "filtered_length": 58,
+      "retention_ratio": 0.6373626373626373,
+      "section_description": "\"Başta ekonomik gelişmeler karşısında yeni yeni konuşmaya başladığımız kış senaryoları üzerinde acaba Kış ayları nasıl geçecek şeklinde derdin\" - This section contains the main news content, discussing various topics including economic developments, educational issues, and political discussions."
+    },
+    {
+      "segment_id": "1174_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 71,
+      "filtered_length": 71,
+      "retention_ratio": 1.0,
+      "section_description": "\"Erken seçim dedikodusu ne zaman başlasa mevcut anayasanın değiştirileceğini dair dedikoduları duyuyoruz\" - This section further elaborates on political discussions, particularly regarding early elections and constitutional changes."
+    },
+    {
+      "segment_id": "1663_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 126,
+      "filtered_length": 64,
+      "retention_ratio": 0.5079365079365079,
+      "section_description": "\"Cumhuriyetimizin 100 yılının darbe anayasasıyla geçirilmesi zaten siyaset Kurumu adına büyük bir mahcubiyet kaynağıdır\" - This closing remark reflects on the significance of the constitutional discussion and wraps up the program's themes."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

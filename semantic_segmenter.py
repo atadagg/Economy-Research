@@ -42,9 +42,12 @@ class SemanticSegmenter:
         Args: news_sections - list of news section dictionaries from structure analyzer
         Returns: list of individual news story segments
         """
+        # First, deduplicate overlapping sections
+        deduplicated_sections = self.deduplicate_sections(news_sections)
+        
         all_segments = []
         
-        for section in news_sections:
+        for section in deduplicated_sections:
             content = section['content']
             
             # Skip very short sections
@@ -64,7 +67,8 @@ class SemanticSegmenter:
             
             all_segments.extend(segments)
         
-        return all_segments
+        # Final deduplication of segments based on content similarity
+        return self.deduplicate_segments(all_segments)
     
     def semantic_segment(self, text):
         """
@@ -551,16 +555,101 @@ Text: {text[:2500]}"""
         if not chunk_segments:
             return [{'content': full_text, 'confidence': 0.4, 'method': 'merge_fallback'}]
         
-        # For now, simple implementation - just return the segments
-        # In production, you'd want to handle overlaps and merge boundaries
-        merged = []
-        
+        # Filter valid segments and deduplicate
+        valid_segments = []
         for segment in chunk_segments:
             if len(segment['content'].split()) >= 30:
-                merged.append({
+                valid_segments.append({
                     'content': segment['content'],
                     'confidence': segment.get('confidence', 0.6),
                     'method': 'chunk_merged'
                 })
         
+        # Apply deduplication to chunks
+        merged = self.deduplicate_segments(valid_segments)
+        
         return merged if merged else [{'content': full_text, 'confidence': 0.4, 'method': 'merge_fallback'}]
+    
+    def deduplicate_sections(self, sections):
+        """
+        Remove overlapping sections, preferring AI-detected over pattern-detected
+        """
+        if len(sections) <= 1:
+            return sections
+        
+        # Sort by start position
+        sorted_sections = sorted(sections, key=lambda x: x['start_pos'])
+        deduplicated = [sorted_sections[0]]
+        
+        for current in sorted_sections[1:]:
+            last_added = deduplicated[-1]
+            
+            # Check for overlap
+            overlap_threshold = 100  # characters
+            current_start = current['start_pos']
+            last_end = last_added.get('end_pos', last_added['start_pos'] + len(last_added['content']))
+            
+            # If sections overlap significantly
+            if current_start < last_end - overlap_threshold:
+                # Prefer AI-detected over pattern-detected
+                current_desc = current.get('description', '')
+                last_desc = last_added.get('description', '')
+                
+                if 'Pattern-detected' in current_desc and 'Pattern-detected' not in last_desc:
+                    # Skip current (pattern-detected), keep last (AI-detected)
+                    continue
+                elif 'Pattern-detected' not in current_desc and 'Pattern-detected' in last_desc:
+                    # Replace last with current (AI-detected)
+                    deduplicated[-1] = current
+                    continue
+                else:
+                    # Both same type, keep the larger one
+                    current_len = len(current['content'])
+                    last_len = len(last_added['content'])
+                    if current_len > last_len:
+                        deduplicated[-1] = current
+                    continue
+            
+            deduplicated.append(current)
+        
+        return deduplicated
+    
+    def deduplicate_segments(self, segments):
+        """
+        Remove duplicate segments based on content similarity
+        """
+        if len(segments) <= 1:
+            return segments
+        
+        deduplicated = []
+        
+        for current in segments:
+            current_content = current['content'].strip()
+            current_words = set(current_content.lower().split())
+            
+            # Check against already added segments
+            is_duplicate = False
+            for existing in deduplicated:
+                existing_content = existing['content'].strip()
+                existing_words = set(existing_content.lower().split())
+                
+                # Calculate Jaccard similarity (intersection/union)
+                if len(current_words) > 0 and len(existing_words) > 0:
+                    intersection = len(current_words.intersection(existing_words))
+                    union = len(current_words.union(existing_words))
+                    similarity = intersection / union if union > 0 else 0
+                    
+                    # If 70% or more similar, consider duplicate
+                    if similarity >= 0.7:
+                        is_duplicate = True
+                        # Keep the longer/better quality segment
+                        if len(current_content) > len(existing_content):
+                            # Replace existing with current
+                            existing_idx = deduplicated.index(existing)
+                            deduplicated[existing_idx] = current
+                        break
+            
+            if not is_duplicate:
+                deduplicated.append(current)
+        
+        return deduplicated

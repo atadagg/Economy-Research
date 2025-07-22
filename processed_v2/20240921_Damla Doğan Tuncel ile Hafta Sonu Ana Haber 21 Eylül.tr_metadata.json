@@ -1,0 +1,107 @@
+{
+  "file_path": "news/SozcuTV/20240921_Damla Doğan Tuncel ile Hafta Sonu Ana Haber 21 Eylül.tr.txt",
+  "processing_timestamp": "2025-07-22T17:37:18.543444",
+  "original_word_count": 5876,
+  "filtered_word_count": 700,
+  "retention_ratio": 0.1191286589516678,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "etiketimiz Cevap bekliyoruz 8 yaşındaki Narin güran cinayetinin soruşturmasında yeni bir itiraf var",
+      "description": "\"etiketimiz Cevap bekliyoruz 8 yaşındaki Narin güran cinayetinin soruşturmasında yeni bir itiraf var\" - This section introduces the main topic of the broadcast, mentioning the ongoing investigation into the murder of an 8-year-old girl and setting the stage for the news that will follow.",
+      "end_pos": 195
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 195,
+      "start_sentence": "Diğer yandan günün manşetini Cumhurbaşkanı Erdoğan verdi",
+      "description": "\"Diğer yandan günün manşetini Cumhurbaşkanı Erdoğan verdi\" - This brief transition indicates a shift to another news topic, specifically mentioning President Erdoğan's statements and actions.",
+      "end_pos": 195
+    },
+    {
+      "type": "4. **TRANSITION**",
+      "start_pos": 195,
+      "start_sentence": "Diğer yandan hemen her evde bu konu konuşuluyor",
+      "description": "\"Diğer yandan hemen her evde bu konu konuşuluyor\" - Another transition that leads into a discussion about the broader implications of the news, particularly regarding public concern over school hygiene and related issues.",
+      "end_pos": 973
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 973,
+      "start_sentence": "Ana Haber başlıyor yüksek ses 8 yaşındaki Narin'in ölümü ile ilgili kördüğüme dönen soruşturmada yeni bir gelişme var",
+      "description": "\"Ana Haber başlıyor yüksek ses 8 yaşındaki Narin'in ölümü ile ilgili kördüğüme dönen soruşturmada yeni bir gelişme var\" - This section contains the main news content, detailing the developments in the investigation of Narin's murder, including new confessions and the status of suspects.",
+      "end_pos": 1161
+    },
+    {
+      "type": "5. **OUTRO**",
+      "start_pos": 1161,
+      "start_sentence": "Ama tek bir itiraf çın Nevzat Bahtiyar'ın işte Salim güran amca bana Narin öldürdüğünü söyledi",
+      "description": "\"Ama tek bir itiraf çın Nevzat Bahtiyar'ın işte Salim güran amca bana Narin öldürdüğünü söyledi\" - This section wraps up the discussion on the investigation, summarizing key points and indicating that more information will be provided later.",
+      "end_pos": 41798
+    }
+  ],
+  "news_segments_count": 15,
+  "economic_segments_count": 6,
+  "economic_segments": [
+    {
+      "segment_id": "195_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 106,
+      "filtered_length": 59,
+      "retention_ratio": 0.5566037735849056,
+      "section_description": "\"Diğer yandan hemen her evde bu konu konuşuluyor\" - Another transition that leads into a discussion about the broader implications of the news, particularly regarding public concern over school hygiene and related issues."
+    },
+    {
+      "segment_id": "1161_0",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 285,
+      "filtered_length": 285,
+      "retention_ratio": 1.0,
+      "section_description": "\"Ama tek bir itiraf çın Nevzat Bahtiyar'ın işte Salim güran amca bana Narin öldürdüğünü söyledi\" - This section wraps up the discussion on the investigation, summarizing key points and indicating that more information will be provided later."
+    },
+    {
+      "segment_id": "1161_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 106,
+      "filtered_length": 105,
+      "retention_ratio": 0.9905660377358491,
+      "section_description": "\"Ama tek bir itiraf çın Nevzat Bahtiyar'ın işte Salim güran amca bana Narin öldürdüğünü söyledi\" - This section wraps up the discussion on the investigation, summarizing key points and indicating that more information will be provided later."
+    },
+    {
+      "segment_id": "1161_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 176,
+      "filtered_length": 82,
+      "retention_ratio": 0.4659090909090909,
+      "section_description": "\"Ama tek bir itiraf çın Nevzat Bahtiyar'ın işte Salim güran amca bana Narin öldürdüğünü söyledi\" - This section wraps up the discussion on the investigation, summarizing key points and indicating that more information will be provided later."
+    },
+    {
+      "segment_id": "1161_7",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 152,
+      "filtered_length": 74,
+      "retention_ratio": 0.4868421052631579,
+      "section_description": "\"Ama tek bir itiraf çın Nevzat Bahtiyar'ın işte Salim güran amca bana Narin öldürdüğünü söyledi\" - This section wraps up the discussion on the investigation, summarizing key points and indicating that more information will be provided later."
+    },
+    {
+      "segment_id": "1161_8",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 223,
+      "filtered_length": 95,
+      "retention_ratio": 0.4260089686098655,
+      "section_description": "\"Ama tek bir itiraf çın Nevzat Bahtiyar'ın işte Salim güran amca bana Narin öldürdüğünü söyledi\" - This section wraps up the discussion on the investigation, summarizing key points and indicating that more information will be provided later."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

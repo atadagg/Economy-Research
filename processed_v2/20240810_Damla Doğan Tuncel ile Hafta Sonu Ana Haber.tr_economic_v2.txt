@@ -1,0 +1,59 @@
+# Economic Content from: 20240810_Damla Doğan Tuncel ile Hafta Sonu Ana Haber.tr.txt
+# Processed: 2025-07-22T18:01:30.903007
+# Original: 5623 words → Filtered: 364 words (6.47% retention)
+# Economic segments: 4
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 87
+**Retention**: 100.00%
+
+000 kişi arttı 731 suriyelinin bu ülke sınırları içinde olduğunu biliyoruz
+resmi rakamlar Bunlar ama nerede olduğunu bilmiyoruz Kim bunlar ne yapıyorlar Neredeler Eee neden
+beyan ettikleri adreste değiller bilinmiyor bilmiyor devlet ama telefon numaraları devlette var
+kayıtlı bunu da öğrendik yeni İçişleri Bakanlığı çünkü dedi ki biz bu kişilere tek tek Evet
+adreslerini bilmiyoruz ama tek tek SMS gönderdik adreslerinizi Eee bildirin bize beyan edin diye
+talepte bulunduk dediler CHP ise bir kez daha sokağa çıkma yasağı ilan edilip nüfus sayımı yapılması
+istedi O 3 109
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 96
+**Retention**: 33.22%
+
+Eylül 2021'den bu yana izlenen düşük faiz politikası, Türkiye'de yaşamın borçlanmadan mümkün olmadığını gösteriyor. Milyonlarca kişi artık en temel ihtiyaçlarını karşılayabilmek için bireysel kredilere ve kredi kartlarına yönelmiş durumda. Kredi kartlarındaki faiz oranları ve gelecekteki kredi faiz oranları oldukça yüksek olmasına rağmen, insanlar ayın sonunu getirebilmek için bu koşullarda dahi kredi çekmek zorunda kalıyorlar. Haziran ayında kredi kullanan kişi sayısı 2 milyon daha arttı ve bir kişinin ortalama kredi borcu 5 asgari ücreti aşmış durumda. Önlenemeyen enflasyon, eriyen alım gücü ve yetmeyen maaşlar, artan borçlar ile birleşerek kişi başına ortalama kredi borcunu 80 bin liraya çıkardı.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 106
+**Retention**: 53.27%
+
+Türkiye Bankalar Birliği, 2024 Haziran itibarıyla bireysel kredilerde artış olduğunu açıkladı. 2024 Mayıs ayına göre Haziran ayında kredi kullanan kişi sayısı 75,000 arttı. Bir yıl içinde ise bireysel banka kredisi kullanan kişi sayısı 2 milyon artarak 40,732,000 kişiye yükseldi. Yani, 85 milyonluk Türkiye'nin neredeyse yarısının bankalara borcu var. 
+
+Bireysel kredi borçlanmasına ilişkin veriler, yurttaşın sırtındaki borç yükünün arttığını gösteriyor. Ortalama 56,000 lira olan kredi borcu 84,200 liraya ulaştı. Türkiye'de kişi başına düşen kredi borcu neredeyse 5 asgari ücret seviyesinde. 
+
+Bireysel kredi kartı borcu olan kişi sayısı 2,555,000 kişi daha arttı ve 37,633 kişinin kredi kartı borcu var. Ortalama kredi kartı borcu da 4,386 lira seviyesine ulaştı.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 75
+**Retention**: 58.14%
+
+Hafize Gaye Erkan, ekonomiyi düzelteceğiz ve enflasyonu düşüreceği beklentisiyle büyük umutlarla Amerika'dan Türkiye'ye getirildi. Merkez Bankası eski başkanı olarak, görevde kaldığı 8 ay boyunca ekonomik veriler ve istikrar üzerinde önemli bir etki yaratmayı hedefledi. Ancak, görevden alındıktan sonra pek görünmedi. Ekonomik durumu değerlendiren uzmanlar, Türkiye'nin enflasyonla mücadele etme çabalarının önemine dikkat çekiyor. Bodrum'daki lüks villasının değeri 2 milyon ila 3 milyon euro arasında değişiyor ve bu durum, gayrimenkul piyasasındaki fiyat artışlarını da gözler önüne seriyor.
+
+================================================================================
+

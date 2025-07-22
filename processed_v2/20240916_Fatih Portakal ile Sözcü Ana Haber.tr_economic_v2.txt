@@ -1,0 +1,90 @@
+# Economic Content from: 20240916_Fatih Portakal ile Sözcü Ana Haber.tr.txt
+# Processed: 2025-07-22T17:58:41.425119
+# Original: 7455 words → Filtered: 589 words (7.90% retention)
+# Economic segments: 6
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 78
+**Retention**: 100.00%
+
+ticarete ikas başla aşk için ne kadar uzağa gittiğimizi düşünmeyiz bu sessizliği sadece bunu duymak
+isteriz hislerinizi harekete geçirmek için mesafeleri hesap etmeyin benzinli hibrit ve 500 K Menzil
+sun elektri le yeni Peugeot e38 hiçbir yere ayrılmayın birazdan başlıyoruz paribu Harbiye açık hava
+konserleri devam ediyor 171 Ekim Duman 19 Ekim Melike Şahin 20 21 22 Ekim mel Matis organizasyon
+Atlantis yapım biletler b x ve bu bilette İyi akşamlar Ben Fatih Portakal Türkiye'nin en farklı ana
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 129
+**Retention**: 174.32%
+
+Haber bültenine hoş geldiniz sevgili izleyenler. Tarih 16 Eylül 2024, günlerden pazartesi. Yeni bir hafta başlıyor, ancak bu hafta eski ekonomik sorunlarla başlıyor. Yeni haftaya girdiğimizde, ekonomik veriler ve istatistikler de gündemde olacak. Önceki haftalardan çok da farklı değil; ekonomik göstergeler, piyasalardaki dalgalanmalar ve enflasyon oranları üzerinde durulacak. 
+
+Bu hafta, hükümetin ekonomik politikaları ve bunların piyasalara etkisi de önemli bir konu olacak. İş dünyasındaki gelişmeler, şirketlerin finansal durumları ve yatırım fırsatları hakkında bilgiler paylaşılacak. Ayrıca, fiyatlar, enflasyon ve maliyetler konusundaki analizler de gündemde yer alacak. 
+
+Bankacılık sektörü ve kredi politikaları üzerine yapılacak değerlendirmeler, ekonomik istikrar açısından kritik öneme sahip. Ticaret, ithalat ve ihracat verileri de bu hafta dikkatle izlenecek. Ekonomik analizler ve uzman görüşleri, piyasalardaki belirsizlikleri anlamamıza yardımcı olacak. 
+
+Yeni haftada, tüm bu ekonomik dinamikler ışığında gelişmeleri takip edeceğiz.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 63
+**Retention**: 100.00%
+
+000 TL arasında olacak Çok vermişler
+biraz daha şeyse Vallah rüyalarıma cennete gideceğim bu ne ya kendilerine gelince milyarlar
+alıyorlar garibanı olunca Elinden gelse hepsini kesmeye çalışıyorlar yetmez beklentiniz neydi bir 5
+gelseydi üstun 1800' ne yapacağız et bile almıyor Hayat çok zor o kadar çok fazla paraları çarçur
+ediyorlar ki ama emekliye gelince sıfır konuşacağız suçlu olacağız içeri atıyorlar bize verilen
+12
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 155
+**Retention**: 65.68%
+
+500 liralık şu anda bir maaşla verelim yetkililere de kendileri bir geçsin biz de görelim emekli olmayı planlayanların gündeminde ise avantajlı dönem endişesi var. 2024 yılında emekliliğin daha karlı olacağını hesaplayanlar sistemde yaratacağı yığılma için hükümet harekete geçiyor. Yapılması planlanan düzenlemeyle hak kazanılan yıldan emeklilik dilekçesi verdiği yıla kadar hangi yıl enflasyon daha yüksekse maaş o yıla göre bağlanacak. Anladığım kadarıyla 2024 yılı emekliler yılıydı. Yani 2025'te ise gelecek yılları siz düşünün, aşağı yukarı % 144,145 maksimum % 120 emekliye verilecek bir zamdan bahsediyoruz. Peki zamdan bahsediyorum, asgari ücret ne olacak diye şimdi biz Eylülde izleyelim. Buradan da 3,5 ay sonra asgari ücret 2025 yılının asgari ücreti belli olacak. Enflasyon yeni düzenleme ile birlikte % 41,5 civarında % 45'e de çıkabilir diyorlar. Yıl sonu enflasyonu % 41 alalım biz, bunun üstüne bir 5 puan ya da 10 puan bir refah payı koyabilir. Yani benim gördüğüm kadarıyla % 40 ile % arasında bir zam oranından bahsediyoruz.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 69
+**Retention**: 48.94%
+
+Emekli maaşlarının % 440 artışla 28,000 TL veya % 50 artışla 30,000 TL olacağı öngörülüyor. Ancak, asgari ücretin alım gücüne baktığımızda 13,000 TL'ye kadar düştüğü belirtiliyor. Bu durum, % 25 oranında bir kayba işaret ediyor. Ekonomik anlamda, gelir bozukluğunun nasıl düzeltileceği önemli bir soru olarak öne çıkıyor. Ülkedeki gelir bozukluğu, asgari ücretin 17,2 TL olmasıyla daha da belirginleşiyor. Bu nedenle, hükümetin alım gücünü artırmak için atacağı adımlar merakla bekleniyor.
+
+================================================================================
+
+## Economic Segment 6
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 95
+**Retention**: 53.37%
+
+Ekonomik veriler ve istatistikler, gelir bozukluğu ve enflasyon konuları üzerinde duruluyor. Çalışma Bakanlığı önünde yapılan eylemler, işçilerin seslerini duyurmak amacıyla gerçekleştiriliyor. İşten atılan madencilik işçileri ve tekstil işçileri, yüksek vergi kesintileri nedeniyle ekonomik sıkıntılar yaşadıklarını ifade ediyorlar. 
+
+Çalışma Bakanlığına yapılan başvurular, işçilerin maaş şartları ve haklarıyla ilgili taleplerini iletmek için önemli bir adım olarak görülüyor. İşçilerin geçim sıkıntısı, ekonomik koşulların zorluğunu ortaya koyuyor. Bu durum, hükümetin ekonomik politikalarının ve işçi haklarının yeniden değerlendirilmesi gerektiğini gösteriyor. 
+
+Sonuç olarak, işçilerin talepleri ve ekonomik zorlukları, Türkiye'deki iş gücü piyasasının ve genel ekonomik durumun bir yansıması olarak karşımıza çıkıyor.
+
+================================================================================
+

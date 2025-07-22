@@ -1,0 +1,75 @@
+# Economic Content from: 20240630_Damla Doğan Tuncel ile Hafta Sonu Ana Haber 30 Haziran.tr.txt
+# Processed: 2025-07-22T17:23:28.690508
+# Original: 5240 words → Filtered: 318 words (6.07% retention)
+# Economic segments: 6
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 44
+**Retention**: 57.14%
+
+Yarım 1 Temmuz yepyeni bir dönem başlıyor; kiralardaki üst sınır kalkıyor, elektriğe zam geliyor. Bu değişiklikler, ekonomik dengeleri etkileyebilir ve piyasalarda dalgalanmalara yol açabilir. Ekonomik veriler ve fiyat artışları, tüketici harcamalarını ve genel ekonomik durumu doğrudan etkileyecektir. Bu nedenle, gelişmeleri dikkatle izlemek önem taşıyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 69
+**Retention**: 100.00%
+
+Torbalı diyelim Bir binanın zemin katında Restoran olarak kullanılan bir yerde sanayi tipi tüp
+patladı an itibariyle 5 can kaybı var 57 yaralı var aralarında Durumu ağır olanlar bulunuyor
+maalesef bölgedeki 11 bina hasar görmüş durum durumda böyle büyük bir patlamadan bahsediyoruz
+soruşturma başlatıldı sadece o anda o restoranda bulunanlar değil Yoldan geçenler arasından da
+hayatını kaybedenler var maalesef bir son durumu Olanı biteni özetledim sizler için onu izleyerek
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 47
+**Retention**: 47.47%
+
+Çiftçi tarımı bıraktı. Türkiye'nin gri listeden çıkarılmasıyla ilgili hükümetin yaptığı açıklamalar eleştirildi. Özel sektör, asgari ücrete, emekliye zam ve çiftçi ile esnafa kolaylık sağlanmasını talep etti. Asgari ücrete en az enflasyon kadar zam istiyoruz. Bu bağlamda, enflasyon rakamının beklenmeksizin %25 oranında bir artış talep edildiği ifade edildi.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 36
+**Retention**: 31.30%
+
+Bu ülkenin ekonomik krizde birinci turda çok zayıf bir şekilde kazanmasına vesile olmayın. Seçimlerin ardından tehdit edildiğini bu sebeple de iki dairesini satıp daha güvenli bir yere geçtiğini söyledi. Çiftlik arazisini de seçimden önce genişlettiği söyledi.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 63
+**Retention**: 42.57%
+
+Sizin ev sahibiniz % 25 kira zam sınırına uymadı. Kira artışları, kiracıların mali durumunu zorlaştırıyor. Ay sonunu getiremeyen ve kirasını ödemekte zorlananlar için daha zor bir süreç başlıyor. Bu şartlarda geçinmek çok zor. Yurt dışına çıkış harcına büyük bir zam gündemde. Şu anda 150 lira olan harcın 3,000 liraya çıkartılacağı önce gündeme geldi. Bu tür artışlar, ekonomik yükü artırarak, hanehalklarının bütçelerini olumsuz etkileyebilir.
+
+================================================================================
+
+## Economic Segment 6
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 59
+**Retention**: 78.67%
+
+Yurt dışına çıkış harcı için 150 lira olan mevcut ücretin 10 katına çıkarılması planlanıyor. Bu artışa karşı hem sokak tepkileri hem de AK Parti içinden bazı isimlerin itirazları olduğu yönünde kulis bilgileri mevcut. Ekonomik sıkıntılar nedeniyle halkın alım gücünün düştüğü ve insanların parasızlıktan dolayı sosyal hayatta zorluklar yaşadığı belirtiliyor. Bu durum, yurt dışı çıkış harcı tartışmalarını daha da büyütüyor.
+
+================================================================================
+

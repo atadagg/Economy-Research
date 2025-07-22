@@ -1,0 +1,40 @@
+# Economic Content from: 20241111_Fatih Portakal ile Sözcü Ana Haber 11 Kasım.tr.txt
+# Processed: 2025-07-22T17:42:07.975870
+# Original: 7083 words → Filtered: 224 words (3.16% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 118
+**Retention**: 100.00%
+
+hedefinde de yanında İyi akşamlar Ben Fatih Portakal Türkiye'nin en farklı ana haber bültenine Hoş
+geldiniz sevgili izleyenler tarih 11 Kasım 2024 günlerden pazartesi Yeni bir gün yeni bir hafta
+Umarım bu yeni hafta kavgadan gürültüden uzak olur bol sohbetli huzurlu bir hafta olur böyle
+temennilerle başlıyoruz her haftaya olduğu gibi Tabii ki mümkün mü diye sorabilirsiniz veya onu Eee
+kendi kafanızda içinizden geçirebilirsiniz mümkün istersek Mümkün tabii ki yani her koşula rağmen
+mümkün Yeter ki istediğinizi de biliyorum Ben de istiyorum Çünkü aynı şeyi ama bunu işte
+yönetenlerin biraz ön aak olması gerekiyor toplum ölünden giden kişilerin topluma Eee yön veren
+kişilerin buna Ön ayak olması gerekiyor ama olsun bu temenni Huzurlu bol sohbetli bir hafta olsun
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 106
+**Retention**: 100.00%
+
+diyorum ve İnşallah amin diyoruz Ondan sonra değil mi Evet Eee günün sözü Yani şöyle bir şey var ya
+tavuk mu yumurtadan Yumurta mı tavuktan bu bilimsel olarak kanıtlandı neyin hangisinden çıktığı
+belli oldu Eee Az sonra bunun haberi var ve oradan esinlendik Tavuk yumurtadan Heh tabela Tavuk
+yumurtadan yazabilirsiniz bol bol gelelim günün sözü günün sözü terentius an kendisi Roma'da yaşamış
+milattan önce 200 yüzlerde yaşamış bir e yazar Romalı bir yazar Ama Eee köle olarak gelmiş Roma'ya
+daha sonra yükselmiş kölelikten Kurtulmuş önemli bir fikir adamı olmuş O kadar kısa ki üç kelimeden
+oluşuyor bütün umudum kendimde bitti Kimseye güvenmeyeceksin kimseye güvenip yola çıkmayacaksın
+
+================================================================================
+

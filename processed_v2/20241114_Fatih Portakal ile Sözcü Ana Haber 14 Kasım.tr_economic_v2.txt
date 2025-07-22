@@ -1,0 +1,40 @@
+# Economic Content from: 20241114_Fatih Portakal ile Sözcü Ana Haber 14 Kasım.tr.txt
+# Processed: 2025-07-22T17:40:28.178687
+# Original: 7136 words → Filtered: 209 words (2.93% retention)
+# Economic segments: 3
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 86
+**Retention**: 65.65%
+
+500 T maaş alıyorsa sebebi AKP ve MHP'nin hesabını veremediği ve hovardaca harcadığı milyarlarca dolardır. Ne paralarımız çarçur edildi, şöyle alt alta toplasan herhalde bir 60-70 milyar dolar falan gitmiştir diye tahmin ediyorum. Daha fazlası belki de. Bu durum, ekonomik istikrarı olumsuz etkileyen bir faktör olarak öne çıkıyor. 
+
+Ayrıca, 2025 yılında ehliyetini yenilemeden trafiğe çıkacak sürücülere 13,000 TL ceza kesilecek olması, dolaylı olarak ekonomik yükümlülükleri artıracak ve bu durum, bireylerin mali durumlarını etkileyebilir. Ekonomik veriler ve hükümet politikaları, bu tür düzenlemelerin arkasındaki motivasyonları anlamak için önemlidir.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 53
+**Retention**: 50.48%
+
+1 Ocak itibariyle çipli ehliyet zorunlu hale geliyor. Bu durum, devletin para toplama çabalarını gösteriyor. 2 milyonun üzerinde araç sürücüsü henüz ehliyetini yenilemedi. Sayının yüksek olması, Aralık ayına yaklaşırken nüfus müdürlüklerindeki yoğunluğu artırdı. Randevular İstanbul için % 10000 doluluk oranı nedeniyle reddediliyor. Yeni yılda ehliyetini yenilemeden trafiğe çıkan sürücüler, çeşitli ekonomik sonuçlarla karşılaşabilir.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 70
+**Retention**: 72.92%
+
+Ekonomi, hane halkının en çok konuştuğu ikinci konu olarak öne çıkıyor. İstanbul'da katılımcıların %52'si, 4 kişilik bir ailenin geçinmesi için en az 70,000 TL gerektiğini belirtti. Ayrıca, katılımcıların %46'sı kıt kanaat geçindiğini ifade etti. Geçinebiliyor diyenlerin oranı ise %83 olarak kaydedildi. Ekonomik koşulların zorluğu, mülteciler ve adaletsizlik gibi konularla birleşince, iyileşme bekleyenlerin oranı %17,7 olarak ortaya çıktı. Bu durum, ülkenin ekonomik durumunu ve hane halkının geçim sıkıntısını gözler önüne seriyor.
+
+================================================================================
+

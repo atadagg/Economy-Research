@@ -1,0 +1,16 @@
+# Economic Content from: 20240804_Senem Toluay Ilgaz ile Hafta Sonu Ana Haber 4 Ağustos.tr.txt
+# Processed: 2025-07-22T17:32:11.634389
+# Original: 5780 words → Filtered: 64 words (1.11% retention)
+# Economic segments: 1
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 64
+**Retention**: 40.00%
+
+Evet, yanlış duymadınız; enflasyon karşısında çöktük. Emeğinin karşılığını alamayan çiftçi çöktü, açlık sınırı altında yaşayan emekli asgari ücretli çöktü. Barınma krizi sarmalındaki üniversite öğrencileri çöktü. Ekonomik veriler, toplumun farklı kesimlerinin yaşadığı zorlukları gözler önüne seriyor. Bu durum, ekonomik istikrarın sağlanması için acil önlemler alınması gerektiğini gösteriyor. Ekonomik kriz, birçok sektördeki iş gücünü de olumsuz etkiliyor. Bu bağlamda, hükümetin alacağı ekonomik politikalar büyük önem taşıyor.
+
+================================================================================
+

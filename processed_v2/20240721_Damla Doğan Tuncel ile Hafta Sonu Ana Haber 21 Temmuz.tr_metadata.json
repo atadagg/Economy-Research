@@ -1,0 +1,107 @@
+{
+  "file_path": "news/SozcuTV/20240721_Damla Doğan Tuncel ile Hafta Sonu Ana Haber 21 Temmuz.tr.txt",
+  "processing_timestamp": "2025-07-22T17:39:46.430277",
+  "original_word_count": 11814,
+  "filtered_word_count": 601,
+  "retention_ratio": 0.05087184696123244,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "kimin sırtında Gelin bugün...",
+      "description": "\"kimin sırtında Gelin bugün...\" - The opening segment introduces the program and its main guest, CHP leader Özgür Özel, while setting the stage for the discussions to follow.",
+      "end_pos": 298
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 298,
+      "start_sentence": "dediğim gibi yeni gelişmeler var o cephede geri dönen bir diğer isim Murat kurumsa...",
+      "description": "\"dediğim gibi yeni gelişmeler var o cephede geri dönen bir diğer isim Murat kurumsa...\" - This brief transition connects different news topics, indicating a shift from one news story to another.",
+      "end_pos": 685
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 685,
+      "start_sentence": "Microsoft krizinin bilançosu belli oluyor...",
+      "description": "\"Microsoft krizinin bilançosu belli oluyor...\" - Another segment of news content that discusses the impact of a crisis involving Microsoft and its implications on the global stage.",
+      "end_pos": 971
+    },
+    {
+      "type": "5. **OUTRO**",
+      "start_pos": 971,
+      "start_sentence": "hepsi ve daha fazlası için Ana Haber başlıyor yüksek ses küfe kimde...",
+      "description": "\"hepsi ve daha fazlası için Ana Haber başlıyor yüksek ses küfe kimde...\" - The closing remarks that summarize the topics to be covered in the program and invite viewers to engage with the content.",
+      "end_pos": 1065
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 1065,
+      "start_sentence": "2024 emeklilerin yılı Ama bu yılı şüphesiz en zor geçirenler onlar...",
+      "description": "\"2024 emeklilerin yılı Ama bu yılı şüphesiz en zor geçirenler onlar...\" - This section contains the main news content, discussing various political issues, including the situation of retirees and the reactions from political figures regarding pension increases.",
+      "end_pos": 84576
+    }
+  ],
+  "news_segments_count": 15,
+  "economic_segments_count": 6,
+  "economic_segments": [
+    {
+      "segment_id": "1065_0",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 163,
+      "filtered_length": 105,
+      "retention_ratio": 0.6441717791411042,
+      "section_description": "\"2024 emeklilerin yılı Ama bu yılı şüphesiz en zor geçirenler onlar...\" - This section contains the main news content, discussing various political issues, including the situation of retirees and the reactions from political figures regarding pension increases."
+    },
+    {
+      "segment_id": "1065_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 254,
+      "filtered_length": 81,
+      "retention_ratio": 0.3188976377952756,
+      "section_description": "\"2024 emeklilerin yılı Ama bu yılı şüphesiz en zor geçirenler onlar...\" - This section contains the main news content, discussing various political issues, including the situation of retirees and the reactions from political figures regarding pension increases."
+    },
+    {
+      "segment_id": "1065_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 80,
+      "filtered_length": 58,
+      "retention_ratio": 0.725,
+      "section_description": "\"2024 emeklilerin yılı Ama bu yılı şüphesiz en zor geçirenler onlar...\" - This section contains the main news content, discussing various political issues, including the situation of retirees and the reactions from political figures regarding pension increases."
+    },
+    {
+      "segment_id": "1065_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 209,
+      "filtered_length": 109,
+      "retention_ratio": 0.5215311004784688,
+      "section_description": "\"2024 emeklilerin yılı Ama bu yılı şüphesiz en zor geçirenler onlar...\" - This section contains the main news content, discussing various political issues, including the situation of retirees and the reactions from political figures regarding pension increases."
+    },
+    {
+      "segment_id": "1065_9",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 311,
+      "filtered_length": 112,
+      "retention_ratio": 0.36012861736334406,
+      "section_description": "\"2024 emeklilerin yılı Ama bu yılı şüphesiz en zor geçirenler onlar...\" - This section contains the main news content, discussing various political issues, including the situation of retirees and the reactions from political figures regarding pension increases."
+    },
+    {
+      "segment_id": "1065_10",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 325,
+      "filtered_length": 136,
+      "retention_ratio": 0.41846153846153844,
+      "section_description": "\"2024 emeklilerin yılı Ama bu yılı şüphesiz en zor geçirenler onlar...\" - This section contains the main news content, discussing various political issues, including the situation of retirees and the reactions from political figures regarding pension increases."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

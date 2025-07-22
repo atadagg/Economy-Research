@@ -1,0 +1,47 @@
+# Economic Content from: 20241119_Fatih Portakal ile Sözcü Ana Haber 19 Kasım.tr.txt
+# Processed: 2025-07-22T17:52:32.333688
+# Original: 6954 words → Filtered: 281 words (4.04% retention)
+# Economic segments: 3
+
+## Economic Segment 1
+
+**Method**: pattern_validated
+**Confidence**: 0.75
+**Word Count**: 149
+**Retention**: 100.00%
+
+yani şimdi herkes konuşuyor yani Hepimiz konuşuyoruz yani az olan herkes konuşuyor der ya az olan
+herkes konuşuyor ediyor filan tabii yani Kimisini dinliyorsunuz konuştuğu zaman Kimisini işte ya A
+bak güzel değindi diyorsunuz y Bu benim için de geçerli Tabii ki yani benim için de aynı şeyi
+söyleyebilirsiniz demek istiyorum Ha Kimisini de dinliyorsunuz ya boş konuşma filan diyorsun işte
+tabela Bu akşam boş konuşma eee Yani nasıl İsterseniz yazabilirsiniz düzgün bir şekilde yazdıktan
+sonra tabii ki x'te ve YouTube'da E bu tabel ile ilgili lütfen düşüncelerinizi paylaşın günün sözü
+gelsin mi peki gelsin ernest h'den bir söz güzel kısacık bir söz ama yani e olgunlaştıran bir söz
+diye düşünüyorum verirseniz arkaya Ben de arkadaşlarla tüm Türkiye ile paylaşayım diyor ki kırık
+yerlerimizden güçleniriz diyor bu Usta kalem kırık yerlerimizden yani Celen İriz hayatta yaşadığımız
+tüm kötü olaylardan acılardan ders alarak yere Düştüğümüzde bir avuç toprakla kalkmalıyız diyor
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 74
+**Retention**: 63.79%
+
+440 000 kişiye yükseldi. Bakan düşük işsizlik diyerek kamuoyunun güvenmediği TÜİK verilerini tekrar sorguladı. Peki kim doğruyu söylüyor, bakan mı TÜİK mi? En düşük işsizlik değil, kesinlikle en fazlası bile olabilir. Ancak, işsizlik oranları ve ekonomik veriler, piyasa dinamiklerini etkileyen önemli göstergelerdir. Ekonomik verilerin güvenilirliği, yatırımcıların ve iş dünyasının karar alma süreçlerinde kritik bir rol oynamaktadır. Bu nedenle, işsizlik oranları ve diğer ekonomik göstergeler, hükümetin ekonomik politikaları ve piyasa beklentileri üzerinde doğrudan etki yapmaktadır.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 58
+**Retention**: 59.18%
+
+378 diş hekimi var, bunların 2768 4'ü serbest çalışıyor. Yani ağız ve diş sağlığının yarısından fazlası özel kliniklerin elinde. Bugünkü ekonomik koşullarda, insanlar artık dolmuşa binerken dahi gidip gelme parasını hesaplıyorlar. Fiyatlar gerçekten pahalı; en ufak bir operasyonda bile 1000-2000 TL gibi rakamlar var. Özel tedaviler 50-100.000 TL'ye kadar çıkabiliyor. Yaptığımız en pahalı tedaviler implant tedavileri ortalama 20-30.
+
+================================================================================
+

@@ -1,0 +1,64 @@
+{
+  "file_path": "news/SozcuTV/20241111_Fatih Portakal ile Sözcü Ana Haber 11 Kasım.tr.txt",
+  "processing_timestamp": "2025-07-22T17:42:07.975870",
+  "original_word_count": 7083,
+  "filtered_word_count": 224,
+  "retention_ratio": 0.03162501764788931,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 96,
+      "start_sentence": "İyi akşamlar Ben Fatih Portakal Türkiye'nin en farklı ana haber bültenine Hoş geldiniz...",
+      "description": "\"İyi akşamlar Ben Fatih Portakal Türkiye'nin en farklı ana haber bültenine Hoş geldiniz...\" - This section serves as the opening of the broadcast, where the presenter introduces themselves and welcomes viewers to the news program.",
+      "end_pos": 865
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 865,
+      "start_sentence": "Ondan sonra değil mi Evet Eee günün sözü Yani şöyle bir şey var ya tavuk mu yumurtadan...",
+      "description": "\"Ondan sonra değil mi Evet Eee günün sözü Yani şöyle bir şey var ya tavuk mu yumurtadan...\" - This section contains the actual news content, discussing various topics including a scientific discovery and legal issues involving public figures.",
+      "end_pos": 1553
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 1553,
+      "start_sentence": "Ama tabii ki siz de diyorsunuz ki insan birilerine güvenmek istiyor o zaman da inceleyip sık doky...",
+      "description": "\"Ama tabii ki siz de diyorsunuz ki insan birilerine güvenmek istiyor o zaman da inceleyip sık doky...\" - This brief transition connects the discussion of trust and the upcoming news about illegal betting, indicating a shift in focus.",
+      "end_pos": 1654
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1654,
+      "start_sentence": "YouTube kapak O nedir Bir bakalım YouTube kapakta ne geldi yasa dışı bahis gündemimiz...",
+      "description": "\"YouTube kapak O nedir Bir bakalım YouTube kapakta ne geldi yasa dışı bahis gündemimiz...\" - This section continues with more news content, specifically addressing the topic of illegal betting and its implications for certain public figures.",
+      "end_pos": 48837
+    }
+  ],
+  "news_segments_count": 7,
+  "economic_segments_count": 2,
+  "economic_segments": [
+    {
+      "segment_id": "96_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 118,
+      "filtered_length": 118,
+      "retention_ratio": 1.0,
+      "section_description": "\"İyi akşamlar Ben Fatih Portakal Türkiye'nin en farklı ana haber bültenine Hoş geldiniz...\" - This section serves as the opening of the broadcast, where the presenter introduces themselves and welcomes viewers to the news program."
+    },
+    {
+      "segment_id": "865_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 106,
+      "filtered_length": 106,
+      "retention_ratio": 1.0,
+      "section_description": "\"Ondan sonra değil mi Evet Eee günün sözü Yani şöyle bir şey var ya tavuk mu yumurtadan...\" - This section contains the actual news content, discussing various topics including a scientific discovery and legal issues involving public figures."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "file_path": "news/SozcuTV/20240716_Can Coşkun ile Sözcü Ana Haber 16 Temmuz.tr.txt",
+  "processing_timestamp": "2025-07-22T18:04:39.174189",
+  "original_word_count": 6770,
+  "filtered_word_count": 785,
+  "retention_ratio": 0.11595273264401773,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 97,
+      "start_sentence": "Hoş geldiniz yine önce ülke gerçekleri...",
+      "description": "\"Hoş geldiniz yine önce ülke gerçekleri...\" - The opening segment introduces the program and sets the stage for the news content, mentioning the focus on national and international issues.",
+      "end_pos": 97
+    },
+    {
+      "type": "- **INTRO**",
+      "start_pos": 97,
+      "start_sentence": "Hoş geldiniz yine önce ülke gerçekleri...",
+      "description": "\"Hoş geldiniz yine önce ülke gerçekleri...\" - Opening segment introducing the program's focus.",
+      "end_pos": 290
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 290,
+      "start_sentence": "Sayın Güler'in Adalet ve Kalkınma Partisi adına emekli zammını duyururken söyledikleri...",
+      "description": "\"Sayın Güler'in Adalet ve Kalkınma Partisi adına emekli zammını duyururken söyledikleri...\" - This section contains the actual news content, discussing various political topics, including statements from political figures and public reactions regarding pension increases and budget issues.",
+      "end_pos": 290
+    },
+    {
+      "type": "- **NEWS**",
+      "start_pos": 290,
+      "start_sentence": "Sayın Güler'in Adalet ve Kalkınma Partisi adına emekli zammını duyururken söyledikleri...",
+      "description": "\"Sayın Güler'in Adalet ve Kalkınma Partisi adına emekli zammını duyururken söyledikleri...\" - Main news content discussing political statements and public reactions.",
+      "end_pos": 976
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 976,
+      "start_sentence": "Dün bir fotoğraf MHP lideri Sayın Devlet Bahçeli...",
+      "description": "\"Dün bir fotoğraf MHP lideri Sayın Devlet Bahçeli...\" - This brief transition introduces a new news story related to a recent event involving a political leader, signaling a shift in focus within the news segment.",
+      "end_pos": 976
+    },
+    {
+      "type": "- **TRANSITION**",
+      "start_pos": 976,
+      "start_sentence": "Dün bir fotoğraf MHP lideri Sayın Devlet Bahçeli...",
+      "description": "\"Dün bir fotoğraf MHP lideri Sayın Devlet Bahçeli...\" - Transition to a new news story about a political event.",
+      "end_pos": 1174
+    },
+    {
+      "type": "5. **TRANSITION**",
+      "start_pos": 1174,
+      "start_sentence": "Bir de cebimiz hesabı yine x anketine konu oldu...",
+      "description": "\"Bir de cebimiz hesabı yine x anketine konu oldu...\" - Another transition that introduces a new topic related to public opinion and surveys, indicating a shift to discussing public sentiment.",
+      "end_pos": 1273
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1273,
+      "start_sentence": "CHP lideri Özgür Özel ne dedi tırnak içinde ismine gönderme yaparak...",
+      "description": "\"CHP lideri Özgür Özel ne dedi tırnak içinde ismine gönderme yaparak...\" - This continues the news content, elaborating on the reactions and statements from political leaders regarding the previous topic.",
+      "end_pos": 1669
+    },
+    {
+      "type": "6. **NEWS**",
+      "start_pos": 1669,
+      "start_sentence": "en düşük emekli aylığına 2.500 lira zam yapıldı...",
+      "description": "\"en düşük emekli aylığına 2.500 lira zam yapıldı...\" - This section continues with news content, focusing on the specifics of pension increases and soliciting viewer opinions on the matter.",
+      "end_pos": 1864
+    },
+    {
+      "type": "7. **OUTRO**",
+      "start_pos": 1864,
+      "start_sentence": "yorumlarla ilerleyeceğiz tepkileri aktaracağız...",
+      "description": "\"yorumlarla ilerleyeceğiz tepkileri aktaracağız...\" - The closing remarks that summarize the ongoing discussion and indicate that viewer feedback will be incorporated, leading towards the end of the program.",
+      "end_pos": 48294
+    }
+  ],
+  "news_segments_count": 16,
+  "economic_segments_count": 10,
+  "economic_segments": [
+    {
+      "segment_id": "290_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 97,
+      "filtered_length": 76,
+      "retention_ratio": 0.7835051546391752,
+      "section_description": "\"Sayın Güler'in Adalet ve Kalkınma Partisi adına emekli zammını duyururken söyledikleri...\" - Main news content discussing political statements and public reactions."
+    },
+    {
+      "segment_id": "1273_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 59,
+      "filtered_length": 59,
+      "retention_ratio": 1.0,
+      "section_description": "\"CHP lideri Özgür Özel ne dedi tırnak içinde ismine gönderme yaparak...\" - This continues the news content, elaborating on the reactions and statements from political leaders regarding the previous topic."
+    },
+    {
+      "segment_id": "1864_0",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 199,
+      "filtered_length": 64,
+      "retention_ratio": 0.32160804020100503,
+      "section_description": "\"yorumlarla ilerleyeceğiz tepkileri aktaracağız...\" - The closing remarks that summarize the ongoing discussion and indicate that viewer feedback will be incorporated, leading towards the end of the program."
+    },
+    {
+      "segment_id": "1864_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 184,
+      "filtered_length": 74,
+      "retention_ratio": 0.40217391304347827,
+      "section_description": "\"yorumlarla ilerleyeceğiz tepkileri aktaracağız...\" - The closing remarks that summarize the ongoing discussion and indicate that viewer feedback will be incorporated, leading towards the end of the program."
+    },
+    {
+      "segment_id": "1864_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 161,
+      "filtered_length": 71,
+      "retention_ratio": 0.4409937888198758,
+      "section_description": "\"yorumlarla ilerleyeceğiz tepkileri aktaracağız...\" - The closing remarks that summarize the ongoing discussion and indicate that viewer feedback will be incorporated, leading towards the end of the program."
+    },
+    {
+      "segment_id": "1864_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 76,
+      "filtered_length": 73,
+      "retention_ratio": 0.9605263157894737,
+      "section_description": "\"yorumlarla ilerleyeceğiz tepkileri aktaracağız...\" - The closing remarks that summarize the ongoing discussion and indicate that viewer feedback will be incorporated, leading towards the end of the program."
+    },
+    {
+      "segment_id": "1864_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 139,
+      "filtered_length": 71,
+      "retention_ratio": 0.5107913669064749,
+      "section_description": "\"yorumlarla ilerleyeceğiz tepkileri aktaracağız...\" - The closing remarks that summarize the ongoing discussion and indicate that viewer feedback will be incorporated, leading towards the end of the program."
+    },
+    {
+      "segment_id": "1864_7",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 118,
+      "filtered_length": 156,
+      "retention_ratio": 1.3220338983050848,
+      "section_description": "\"yorumlarla ilerleyeceğiz tepkileri aktaracağız...\" - The closing remarks that summarize the ongoing discussion and indicate that viewer feedback will be incorporated, leading towards the end of the program."
+    },
+    {
+      "segment_id": "1864_11",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 252,
+      "filtered_length": 86,
+      "retention_ratio": 0.3412698412698413,
+      "section_description": "\"yorumlarla ilerleyeceğiz tepkileri aktaracağız...\" - The closing remarks that summarize the ongoing discussion and indicate that viewer feedback will be incorporated, leading towards the end of the program."
+    },
+    {
+      "segment_id": "1864_12",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 101,
+      "filtered_length": 55,
+      "retention_ratio": 0.5445544554455446,
+      "section_description": "\"yorumlarla ilerleyeceğiz tepkileri aktaracağız...\" - The closing remarks that summarize the ongoing discussion and indicate that viewer feedback will be incorporated, leading towards the end of the program."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

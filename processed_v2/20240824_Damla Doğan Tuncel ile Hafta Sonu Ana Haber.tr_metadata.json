@@ -1,0 +1,69 @@
+{
+  "file_path": "news/SozcuTV/20240824_Damla Doğan Tuncel ile Hafta Sonu Ana Haber.tr.txt",
+  "processing_timestamp": "2025-07-22T17:52:44.492593",
+  "original_word_count": 4546,
+  "filtered_word_count": 170,
+  "retention_ratio": 0.03739551253849538,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "kez kendisi yalanladı ama bu sefer de borsa üzerinden...",
+      "description": "\"kez kendisi yalanladı ama bu sefer de borsa üzerinden...\" - This section introduces the program and sets the stage for the news content, mentioning the topics to be covered.",
+      "end_pos": 87
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 87,
+      "start_sentence": "Detayları Diğer yandan iki haftaya aşkın süredir Türkiye'de...",
+      "description": "\"Detayları Diğer yandan iki haftaya aşkın süredir Türkiye'de...\" - This section contains the main news stories, discussing various topics such as the protests by producers, statements from the Minister of Justice, and political developments regarding the MHP party.",
+      "end_pos": 197
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 197,
+      "start_sentence": "ama o destekler üreticinin sesini duyduğunuza inanalım mı...",
+      "description": "\"ama o destekler üreticinin sesini duyduğunuza inanalım mı...\" - This brief transition connects different news stories, indicating a shift in focus while maintaining the overall news theme.",
+      "end_pos": 398
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 398,
+      "start_sentence": "biraz önce de Chp'nin üreticinin sesini duyurmak için...",
+      "description": "\"biraz önce de Chp'nin üreticinin sesini duyurmak için...\" - This continues the news segment, detailing specific events like the CHP's meeting and the Minister's comments.",
+      "end_pos": 891
+    },
+    {
+      "type": "5. **NEWS**",
+      "start_pos": 891,
+      "start_sentence": "Hazine ve Maliye Bakanı Mehmet Şimşek Bu kez...",
+      "description": "\"Hazine ve Maliye Bakanı Mehmet Şimşek Bu kez...\" - This section further elaborates on the economic situation and the controversies surrounding the Minister, continuing the news narrative.",
+      "end_pos": 891
+    },
+    {
+      "type": "6. **OUTRO**",
+      "start_pos": 891,
+      "start_sentence": "hepsi ve daha fazlası için Ana Haber başlıyor yüksek ses...",
+      "description": "\"hepsi ve daha fazlası için Ana Haber başlıyor yüksek ses...\" - This section serves as a closing remark, summarizing the news and transitioning to the end of the program.",
+      "end_pos": 31714
+    }
+  ],
+  "news_segments_count": 5,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "891_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 170,
+      "filtered_length": 170,
+      "retention_ratio": 1.0,
+      "section_description": "\"hepsi ve daha fazlası için Ana Haber başlıyor yüksek ses...\" - This section serves as a closing remark, summarizing the news and transitioning to the end of the program."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

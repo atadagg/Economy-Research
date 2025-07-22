@@ -1,0 +1,36 @@
+# Economic Content from: 20240917_Fatih Portakal ile Sözcü Ana Haber 17 Eylül.tr.txt
+# Processed: 2025-07-22T17:25:08.688141
+# Original: 7271 words → Filtered: 206 words (2.83% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 118
+**Retention**: 83.69%
+
+Türkiye'nin en farklı ana haber bültenine hoş geldiniz. Bugün, ekonomiden sorumlu bakan Mehmet Şimşek'in açıklamaları gündemde. Bakan Şimşek, Türkiye'nin ekonomik durumu hakkında önemli bilgiler verecek. Ekonomik veriler ve göstergeler üzerine yapılan değerlendirmeler, piyasalardaki dalgalanmaları etkileyebilir. Ayrıca, hükümetin ekonomik politikaları ve bunların iş dünyasına yansımaları da dikkat çekici. 
+
+Son dönemde enflasyon oranları ve fiyat artışları, vatandaşların alım gücünü etkileyen önemli faktörler arasında yer alıyor. Bu bağlamda, bakanın açıklamaları, yatırımcılar ve iş dünyası için kritik öneme sahip. Ekonomik analizler, piyasa beklentilerini şekillendirebilir ve ticaretin seyrini etkileyebilir. 
+
+Bakan Şimşek'in konuşması sırasında, bankacılık sektörü ve kredi politikaları hakkında da bilgiler vermesi bekleniyor. Bu tür açıklamalar, finansal piyasalarda önemli değişikliklere yol açabilir. Ekonomik verilerin yanı sıra, iş dünyasındaki gelişmeler de izlenmeye devam ediyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 88
+**Retention**: 100.00%
+
+istiyorsanız sorabilirsiniz Eee geldik önce e günün sözüyle gidelim günün sözü E n'den güzel bir söz
+Çünkü söyleyecek olanların yani sorununuzla da Can yakabilirsiniz Mehmet şimşe İşte o yüzden güzel
+bir söz diye düşünüyorum niçe Bir Eee Filozof ve felsefeci önemli birisi isim Alman Toprağı bol
+olsun bir insan üzülmek yerine akıllanmayı tercih ettiği zaman akıllanmayı tercih ettiği zaman ondan
+korkun diyor niçe çünkü söyleyecekleri Can yakar he Mehmet Şimşek'e soru sorabilirsiniz ve bu
+akıllandı mızı da gösterir Aslında akıllı birer insan olduğumuzu da gösterir işte Can yakıcı
+
+================================================================================
+

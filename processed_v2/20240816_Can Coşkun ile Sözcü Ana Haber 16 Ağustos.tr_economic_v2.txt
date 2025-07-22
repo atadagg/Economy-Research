@@ -1,0 +1,61 @@
+# Economic Content from: 20240816_Can Coşkun ile Sözcü Ana Haber 16 Ağustos.tr.txt
+# Processed: 2025-07-22T17:41:58.239254
+# Original: 6759 words → Filtered: 241 words (3.57% retention)
+# Economic segments: 4
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 48
+**Retention**: 63.16%
+
+Köprü ve otoyol geçiş ücretleri dün akşam 3'üncü kez zamlandı ve 8,5 ayda gelen zam oranı % 300'e yaklaştı. Bu durum, enflasyon üzerindeki etkileriyle birlikte dikkat çekiyor. Ekonomik veriler ve fiyat artışları, halkın alım gücünü doğrudan etkiliyor. Bu bağlamda, hükümetin ekonomik politikaları ve zamların nedenleri üzerine tartışmalar sürüyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 63
+**Retention**: 100.00%
+
+saldırılara gebeydi şu ana kadar Olup bitenleri özetleyip Türkiye Büyük Millet Meclisi'nin sıcak
+kalbine gidiyoruz sizde hiç utanma yok zerre miskal utanmanız Yok haysiyetin yok o yüzden burada
+usul toplandı günlerdir beklenen toplantıda Anayasa mahkemesinin Atalay kararının konuşulması
+bekleniyordu ancak öyle olmadı mecliste Yumruklar havada uçuştu hakaretler genel kurul salonunda
+yankılandı kürsü merdivenlerine kan sıçradı o kanlar kısa sürede temizlense de istenmeyen anlar
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 66
+**Retention**: 55.93%
+
+500 lira olan emekli maaşı aynı oranda zamlanınca 33 000 L olmalıydı ama 12 500 lirada kalıyor. Çiftçi bu yıl ne ektiyse elinde kalıyor, tarlada ürün yok pahasına gidiyor. Bursa Karacabey'de kapya biber tarlasında bu yıl tarlada kalan ürünler arasında maliyetini bile çıkaramıyor üretici. Topladığımız tarladan şu anda gördüğün tarladan dekar başı 20 lira. Bu durum, çiftçinin yaşadığı ekonomik zorlukları ve maliyetlerin artışını gözler önüne seriyor.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_final
+**Confidence**: 0.50
+**Word Count**: 64
+**Retention**: 62.75%
+
+The filtered text focusing on economics, finance, and business is as follows:
+
+---
+
+Bu hafta da böyle geçti, geçiş garantileri ile birlikte köprü ve otoyola gelen zamlar dikkat çekiyor. Ekonomik veriler ve istatistikler, bu zamların etkilerini değerlendirmek için önemli bir temel oluşturuyor. Ayrıca, meclisteki özel oturumda hükümetin ekonomik politikaları üzerine tartışmalar devam ediyor. 
+
+--- 
+
+This version retains the economic context while removing unrelated content.
+
+================================================================================
+

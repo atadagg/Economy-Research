@@ -1,0 +1,89 @@
+{
+  "file_path": "news/SozcuTV/20240718_Can Coşkun ile Sözcü Ana Haber.tr.txt",
+  "processing_timestamp": "2025-07-22T17:44:40.560616",
+  "original_word_count": 6845,
+  "filtered_word_count": 324,
+  "retention_ratio": 0.04733382030679328,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 100,
+      "start_sentence": "Hoş geldiniz 18 Temmuz Perşembe saatler 19'a geldi",
+      "description": "\"Hoş geldiniz 18 Temmuz Perşembe saatler 19'a geldi\" - The opening of the broadcast, welcoming viewers and indicating the date and time.",
+      "end_pos": 100
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 100,
+      "start_sentence": "Hareketli bir gün yaşıyoruz yine siyasetin dahiyle konuştuğumuz bir futbol federasyon başkanlık",
+      "description": "\"Hareketli bir gün yaşıyoruz yine siyasetin dahiyle konuştuğumuz bir futbol federasyon başkanlık\" - The main content of the broadcast, discussing various news stories including political developments, sports events, and other significant updates.",
+      "end_pos": 487
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 487,
+      "start_sentence": "ama günün tek gelişmesi bu değil en sıcak gelişmesi bu olabilir",
+      "description": "\"ama günün tek gelişmesi bu değil en sıcak gelişmesi bu olabilir\" - A brief transition indicating that there are more news stories to follow, shifting focus from one topic to another.",
+      "end_pos": 1668
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1668,
+      "start_sentence": "Çeşme'de bir konser krizi var bir bayrak krizi olarak da tarif edilebilir",
+      "description": "\"Çeşme'de bir konser krizi var bir bayrak krizi olarak da tarif edilebilir\" - Continuation of the news segment, detailing specific incidents and developments in various areas.",
+      "end_pos": 1767
+    },
+    {
+      "type": "5. **OUTRO**",
+      "start_pos": 1767,
+      "start_sentence": "mesajlarınız da ilerleyeceğiz bu yüzden de mesajım var tabelasını seçtik",
+      "description": "\"mesajlarınız da ilerleyeceğiz bu yüzden de mesajım var tabelasını seçtik\" - Closing remarks indicating that viewer messages will be addressed, leading towards the end of the program.",
+      "end_pos": 48836
+    }
+  ],
+  "news_segments_count": 13,
+  "economic_segments_count": 4,
+  "economic_segments": [
+    {
+      "segment_id": "1767_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 265,
+      "filtered_length": 118,
+      "retention_ratio": 0.44528301886792454,
+      "section_description": "\"mesajlarınız da ilerleyeceğiz bu yüzden de mesajım var tabelasını seçtik\" - Closing remarks indicating that viewer messages will be addressed, leading towards the end of the program."
+    },
+    {
+      "segment_id": "1767_5",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 56,
+      "filtered_length": 56,
+      "retention_ratio": 1.0,
+      "section_description": "\"mesajlarınız da ilerleyeceğiz bu yüzden de mesajım var tabelasını seçtik\" - Closing remarks indicating that viewer messages will be addressed, leading towards the end of the program."
+    },
+    {
+      "segment_id": "1767_6",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 220,
+      "filtered_length": 88,
+      "retention_ratio": 0.4,
+      "section_description": "\"mesajlarınız da ilerleyeceğiz bu yüzden de mesajım var tabelasını seçtik\" - Closing remarks indicating that viewer messages will be addressed, leading towards the end of the program."
+    },
+    {
+      "segment_id": "1767_8",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 116,
+      "filtered_length": 62,
+      "retention_ratio": 0.5344827586206896,
+      "section_description": "\"mesajlarınız da ilerleyeceğiz bu yüzden de mesajım var tabelasını seçtik\" - Closing remarks indicating that viewer messages will be addressed, leading towards the end of the program."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

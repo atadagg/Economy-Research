@@ -1,0 +1,42 @@
+# Economic Content from: 20240821_Can Coşkun ile Sözcü Ana Haber 21 Ağustos.tr.txt
+# Processed: 2025-07-22T17:46:29.587615
+# Original: 6995 words → Filtered: 193 words (2.76% retention)
+# Economic segments: 3
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 58
+**Retention**: 63.74%
+
+Kış ayları nasıl geçecek şeklinde derdin tasanın bu bulduğu o sorular hepsini konuşmak gerekiyor. Ekonomik gelişmeler karşısında yeni senaryolar üzerinde durmak önem taşıyor. Özellikle eğitimle alakalı çeşitli ihale haberleri, ekonomik etkileri açısından dikkat çekiyor. İzmir'de okulların bahçe ve duvarlarının ihaleyle kiralanması, kamu kaynaklarının yönetimi açısından önemli bir gelişme. Bu tür ihalelerin sonuçları, yerel ekonomiyi ve bütçeleri doğrudan etkileyebilir.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 71
+**Retention**: 100.00%
+
+yerli ve milli kıtlık bu da geçer yahu ya da çare Erken seçim diyenler den misiniz başlayalım Erken
+seçim dedikodusu ne zaman başlasa mevcut anayasanın değiştirileceğini dair dedikoduları duyuyoruz
+yine aynısı yaşandı haber turuna O yüzden Sözcü an haber farkıyla derdin ekonominin dersin ise
+anayasa olduğu tartışması ile başlayacağız muhalefet mevcuda Uyun önce diyor diğer tarafta ise yeni
+anayasa Eylül'den itibaren gündemimize girecek gibi bizim yeni anayasa ile ilgili tutumumuz son
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 64
+**Retention**: 50.79%
+
+Malzemeler epey pahalıya patlayacak. Fiyatlar çok çok üst seviyede. Okul alışverişimiz bitti, şimdi bir okul çantasının toplam maliyetini hesaplayalım. Çantamız 3700 TL tutuyor. İndirim yapıyor musunuz? Evet, indirimimiz var, yani 3300 TL gibi bir fiyata düşüyor. 4 defter, okul çantası, beslenme çantası, bir pastel, bir kuru boya, suluk ve iki kalem alıyoruz. Neredeyse boş çanta 3700 TL. İki çocuk için ortalama maliyetler oldukça yüksek.
+
+================================================================================
+

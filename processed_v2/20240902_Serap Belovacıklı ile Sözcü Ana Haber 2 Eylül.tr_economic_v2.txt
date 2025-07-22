@@ -1,0 +1,31 @@
+# Economic Content from: 20240902_Serap Belovacıklı ile Sözcü Ana Haber 2 Eylül.tr.txt
+# Processed: 2025-07-22T17:46:48.168735
+# Original: 7586 words → Filtered: 210 words (2.77% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 59
+**Retention**: 67.05%
+
+Ekonomi yine en önemli gündemlerimizden biri. Geçinemeyen vatandaşlar, ekonomik zorluklarla karşı karşıya. Bu durum, hükümetin ekonomik politikalarını ve vergi borçları konusundaki açıklamalarını gündeme getiriyor. Ekonomik veriler ve istatistikler, bu zorlukların boyutunu anlamamıza yardımcı oluyor. Ayrıca, muhalefetin iddiaları ve belediyelerin durumu, yerel ekonomik yönetimlerin etkisini de ortaya koyuyor. Ekonomik analizler, bu süreçte vatandaşların yaşadığı sıkıntıları daha iyi anlamamıza olanak tanıyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 151
+**Retention**: 61.38%
+
+The filtered text focusing on economics, finance, and business is as follows:
+
+2014'te açıklandı dönemin Maliye Bakanı Mehmet Şimşek 1 milyon liradan fazla vergi borcu ve cezası bulunanlar listesinde ilk sırada Hilmi Başaran vardı. Daha sonra 2017'de açıklandı. Bu kez Maliye Bakanlığı koltuğunda Naci Ağbal oturuyordu. 2017 listesinde ilk sırada Mustafa Akyol yer aldı. Vergi yüzsüzleri son olarak 2019 yılında yayınlandı, dönemin Hazine ve maliye bakanı damat Berat Albayrak. Listenin ilk sırasında Nursan Metalurji vardı. Listedeki isimlerin sırası değişse de isim pek değişmedi. 1,5 trilyon liralık vergiyi silmişsin. Vergide adaleti sağlayamayan AKP iktidarları döneminde yani 22 senede 14 vergi affı yasası çıktı. 5 yıldır da vergi ödemeyenlerin isimleri açıklanmıyor. Vergi affından faydalanan matrah beyan etmeyen yapış devret projeleriyle iktidara yakınlığıyla bilinen şirketler ve isimler bu listelere hiç girmedi. Bu şirketlerin 2013-2023 yılları arasında 7,5 milyar liralık vergi borcu silindi. 
+
+This version retains the economic context and flow while removing unrelated content.
+
+================================================================================
+

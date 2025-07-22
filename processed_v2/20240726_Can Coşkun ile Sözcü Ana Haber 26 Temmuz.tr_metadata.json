@@ -1,0 +1,130 @@
+{
+  "file_path": "news/SozcuTV/20240726_Can Coşkun ile Sözcü Ana Haber 26 Temmuz.tr.txt",
+  "processing_timestamp": "2025-07-22T17:28:17.429187",
+  "original_word_count": 6968,
+  "filtered_word_count": 507,
+  "retention_ratio": 0.07276119402985075,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "Poyraz Akyol soruyor klinik psikolog ve yazar Gökhan Çınar...",
+      "description": "\"Poyraz Akyol soruyor klinik psikolog ve yazar Gökhan Çınar...\" - The program begins with the presenter introducing the topic and the guest, setting the stage for the news broadcast.",
+      "end_pos": 201
+    },
+    {
+      "type": "7. **OUTRO**",
+      "start_pos": 201,
+      "start_sentence": "Sözcü ana haberle karşınızdayız...",
+      "description": "\"Sözcü ana haberle karşınızdayız...\" - The closing remarks of the program, summarizing the broadcast and providing a farewell to the audience.",
+      "end_pos": 399
+    },
+    {
+      "type": "5. **TRANSITION**",
+      "start_pos": 399,
+      "start_sentence": "Bununla birlikte bir sorumuz daha var O soru...",
+      "description": "\"Bununla birlikte bir sorumuz daha var O soru...\" - Another transition that introduces a new topic related to legislative actions concerning street animals, indicating a shift in focus within the news segment.",
+      "end_pos": 496
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 496,
+      "start_sentence": "Bugün bir anlamda Sadece cuma gününü değil ama haftayı özetlerken...",
+      "description": "\"Bugün bir anlamda Sadece cuma gününü değil ama haftayı özetlerken...\" - This section contains the main news content, discussing various topics such as political statements, economic issues, and public sentiment regarding inflation and government actions.",
+      "end_pos": 986
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 986,
+      "start_sentence": "Bir bakıma diyor vatandaş İşte bu yüzden engel olma tabelasında...",
+      "description": "\"Bir bakıma diyor vatandaş İşte bu yüzden engel olma tabelasında...\" - This brief transition connects different news topics, summarizing public opinions and introducing new segments related to the ongoing discussions.",
+      "end_pos": 1184
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1184,
+      "start_sentence": "Merkez Bankası'na göre halkın Gelecek yıl enflasyon beklentisi...",
+      "description": "\"Merkez Bankası'na göre halkın Gelecek yıl enflasyon beklentisi...\" - This part continues with more detailed news content, focusing on economic forecasts and public surveys regarding inflation expectations.",
+      "end_pos": 1953
+    },
+    {
+      "type": "6. **NEWS**",
+      "start_pos": 1953,
+      "start_sentence": "Çünkü CHP'de...",
+      "description": "\"Çünkü CHP'de...\" - This section continues the news coverage, elaborating on the political developments and legislative proposals being discussed.",
+      "end_pos": 49983
+    }
+  ],
+  "news_segments_count": 12,
+  "economic_segments_count": 7,
+  "economic_segments": [
+    {
+      "segment_id": "496_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 73,
+      "filtered_length": 44,
+      "retention_ratio": 0.6027397260273972,
+      "section_description": "\"Bugün bir anlamda Sadece cuma gününü değil ama haftayı özetlerken...\" - This section contains the main news content, discussing various topics such as political statements, economic issues, and public sentiment regarding inflation and government actions."
+    },
+    {
+      "segment_id": "1184_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 108,
+      "filtered_length": 41,
+      "retention_ratio": 0.37962962962962965,
+      "section_description": "\"Merkez Bankası'na göre halkın Gelecek yıl enflasyon beklentisi...\" - This part continues with more detailed news content, focusing on economic forecasts and public surveys regarding inflation expectations."
+    },
+    {
+      "segment_id": "1953_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 253,
+      "filtered_length": 79,
+      "retention_ratio": 0.31225296442687744,
+      "section_description": "\"Çünkü CHP'de...\" - This section continues the news coverage, elaborating on the political developments and legislative proposals being discussed."
+    },
+    {
+      "segment_id": "1953_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 184,
+      "filtered_length": 78,
+      "retention_ratio": 0.42391304347826086,
+      "section_description": "\"Çünkü CHP'de...\" - This section continues the news coverage, elaborating on the political developments and legislative proposals being discussed."
+    },
+    {
+      "segment_id": "1953_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 187,
+      "filtered_length": 117,
+      "retention_ratio": 0.6256684491978609,
+      "section_description": "\"Çünkü CHP'de...\" - This section continues the news coverage, elaborating on the political developments and legislative proposals being discussed."
+    },
+    {
+      "segment_id": "1953_5",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 81,
+      "filtered_length": 64,
+      "retention_ratio": 0.7901234567901234,
+      "section_description": "\"Çünkü CHP'de...\" - This section continues the news coverage, elaborating on the political developments and legislative proposals being discussed."
+    },
+    {
+      "segment_id": "1953_6",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 181,
+      "filtered_length": 84,
+      "retention_ratio": 0.46408839779005523,
+      "section_description": "\"Çünkü CHP'de...\" - This section continues the news coverage, elaborating on the political developments and legislative proposals being discussed."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

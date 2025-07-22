@@ -1,0 +1,107 @@
+{
+  "file_path": "news/SozcuTV/20240806_Can Coşkun ile Sözcü Ana Haber 6 Ağustos.tr.txt",
+  "processing_timestamp": "2025-07-22T17:31:38.900022",
+  "original_word_count": 6608,
+  "filtered_word_count": 506,
+  "retention_ratio": 0.07657384987893462,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "Instagram'ın engellenmesinin ardından...",
+      "description": "\"Instagram'ın engellenmesinin ardından...\" - The program begins with a discussion about the recent blocking of Instagram and sets the stage for the news content to follow. It introduces the theme of the broadcast, which revolves around current issues in Turkey.",
+      "end_pos": 98
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 98,
+      "start_sentence": "Dünya Gıda fiyatları temmuzda yıllık % 3 düşerken...",
+      "description": "\"Dünya Gıda fiyatları temmuzda yıllık % 3 düşerken...\" - This section contains multiple news stories, discussing various topics such as food prices, political developments in the CHP, and economic concerns in Turkey. It provides detailed information and analysis on these issues.",
+      "end_pos": 196
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 196,
+      "start_sentence": "Eylülde olağanüstü tüzük kurultayına gitme kararı alan CHP'de neler olur...",
+      "description": "\"Eylülde olağanüstü tüzük kurultayına gitme kararı alan CHP'de neler olur...\" - This brief transition connects different news stories, moving from one topic to another while maintaining the overall flow of the broadcast.",
+      "end_pos": 388
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 388,
+      "start_sentence": "Coşkun soruyor Sözcü televizyonu strateji ve güvenlik danışmanı...",
+      "description": "\"Coşkun soruyor Sözcü televizyonu strateji ve güvenlik danışmanı...\" - This segment continues with more news content, featuring discussions with various experts and journalists about the current political and economic situation in Turkey.",
+      "end_pos": 581
+    },
+    {
+      "type": "5. **OUTRO**",
+      "start_pos": 581,
+      "start_sentence": "Yarın akşam 2015'te Sözcü televizyonunda o anda neler var aklında...",
+      "description": "\"Yarın akşam 2015'te Sözcü televizyonunda o anda neler var aklında...\" - The program concludes with closing remarks, summarizing the discussions and inviting viewers to tune in for the next broadcast.",
+      "end_pos": 47811
+    }
+  ],
+  "news_segments_count": 11,
+  "economic_segments_count": 6,
+  "economic_segments": [
+    {
+      "segment_id": "581_0",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 252,
+      "filtered_length": 127,
+      "retention_ratio": 0.503968253968254,
+      "section_description": "\"Yarın akşam 2015'te Sözcü televizyonunda o anda neler var aklında...\" - The program concludes with closing remarks, summarizing the discussions and inviting viewers to tune in for the next broadcast."
+    },
+    {
+      "segment_id": "581_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 77,
+      "filtered_length": 52,
+      "retention_ratio": 0.6753246753246753,
+      "section_description": "\"Yarın akşam 2015'te Sözcü televizyonunda o anda neler var aklında...\" - The program concludes with closing remarks, summarizing the discussions and inviting viewers to tune in for the next broadcast."
+    },
+    {
+      "segment_id": "581_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 253,
+      "filtered_length": 114,
+      "retention_ratio": 0.4505928853754941,
+      "section_description": "\"Yarın akşam 2015'te Sözcü televizyonunda o anda neler var aklında...\" - The program concludes with closing remarks, summarizing the discussions and inviting viewers to tune in for the next broadcast."
+    },
+    {
+      "segment_id": "581_5",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 176,
+      "filtered_length": 71,
+      "retention_ratio": 0.4034090909090909,
+      "section_description": "\"Yarın akşam 2015'te Sözcü televizyonunda o anda neler var aklında...\" - The program concludes with closing remarks, summarizing the discussions and inviting viewers to tune in for the next broadcast."
+    },
+    {
+      "segment_id": "581_6",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 167,
+      "filtered_length": 94,
+      "retention_ratio": 0.562874251497006,
+      "section_description": "\"Yarın akşam 2015'te Sözcü televizyonunda o anda neler var aklında...\" - The program concludes with closing remarks, summarizing the discussions and inviting viewers to tune in for the next broadcast."
+    },
+    {
+      "segment_id": "581_7",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 54,
+      "filtered_length": 48,
+      "retention_ratio": 0.8888888888888888,
+      "section_description": "\"Yarın akşam 2015'te Sözcü televizyonunda o anda neler var aklında...\" - The program concludes with closing remarks, summarizing the discussions and inviting viewers to tune in for the next broadcast."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

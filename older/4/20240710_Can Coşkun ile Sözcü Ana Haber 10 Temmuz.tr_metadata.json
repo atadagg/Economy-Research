@@ -1,0 +1,193 @@
+{
+  "file_path": "news/SozcuTV/20240710_Can Coşkun ile Sözcü Ana Haber 10 Temmuz.tr.txt",
+  "processing_timestamp": "2025-07-22T16:35:31.944248",
+  "original_word_count": 6819,
+  "filtered_word_count": 1199,
+  "retention_ratio": 0.17583223346531748,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "ip Öz soruyor Zafer Partisi genel başkanı...",
+      "description": "\"ip Öz soruyor Zafer Partisi genel başkanı...\" - This section introduces the program and the presenter, setting the stage for the news content that follows.",
+      "end_pos": 198
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 198,
+      "start_sentence": "Burası Sözcü an haber haberin Daimi adresindesiniz...",
+      "description": "\"Burası Sözcü an haber haberin Daimi adresindesiniz...\" - This section contains the main news content, discussing various topics such as economic issues, social concerns, and political events relevant to the audience.",
+      "end_pos": 694
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 694,
+      "start_sentence": "siyaset ekonomi yargı eğitim yine ülke gerçekleriyle yüzleşeceğiz...",
+      "description": "\"siyaset ekonomi yargı eğitim yine ülke gerçekleriyle yüzleşeceğiz...\" - This brief transition indicates a shift in focus within the news segment, preparing the audience for the next topic of discussion.",
+      "end_pos": 1277
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1277,
+      "start_sentence": "Büyük ihtimalle yarın beştepe'de bir Zirve gerçekleşecek...",
+      "description": "\"Büyük ihtimalle yarın beştepe'de bir Zirve gerçekleşecek...\" - This continues the news content, detailing upcoming events and expectations regarding political meetings and their implications for citizens.",
+      "end_pos": 1570
+    },
+    {
+      "type": "7. **OUTRO**",
+      "start_pos": 1570,
+      "start_sentence": "Tam da bu toplantının ışığında başlayacağız...",
+      "description": "\"Tam da bu toplantının ışığında başlayacağız...\" - This closing remark wraps up the discussion, indicating the end of the program and summarizing the key points that were addressed.",
+      "end_pos": 1670
+    },
+    {
+      "type": "5. **TRANSITION**",
+      "start_pos": 1670,
+      "start_sentence": "Zira Çünkü Cumhurbaşkanı Erdoğan'a Anlaşılan Yarın bakanlar raporlar sunacaklar...",
+      "description": "\"Zira Çünkü Cumhurbaşkanı Erdoğan'a Anlaşılan Yarın bakanlar raporlar sunacaklar...\" - Another transition that leads into further news content, indicating a change in the specific focus of the discussion.",
+      "end_pos": 1770
+    },
+    {
+      "type": "6. **NEWS**",
+      "start_pos": 1770,
+      "start_sentence": "o maliyet hesabı tasarrufta ne kadar çıkıyor...",
+      "description": "\"o maliyet hesabı tasarrufta ne kadar çıkıyor...\" - This section continues to elaborate on the news, discussing financial implications and the government's actions regarding pensions and economic policies.",
+      "end_pos": 48441
+    }
+  ],
+  "news_segments_count": 22,
+  "economic_segments_count": 14,
+  "economic_segments": [
+    {
+      "segment_id": "1770_0",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 163,
+      "filtered_length": 87,
+      "retention_ratio": 0.5337423312883436,
+      "section_description": "\"o maliyet hesabı tasarrufta ne kadar çıkıyor...\" - This section continues to elaborate on the news, discussing financial implications and the government's actions regarding pensions and economic policies."
+    },
+    {
+      "segment_id": "1770_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 183,
+      "filtered_length": 138,
+      "retention_ratio": 0.7540983606557377,
+      "section_description": "\"o maliyet hesabı tasarrufta ne kadar çıkıyor...\" - This section continues to elaborate on the news, discussing financial implications and the government's actions regarding pensions and economic policies."
+    },
+    {
+      "segment_id": "1770_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 220,
+      "filtered_length": 125,
+      "retention_ratio": 0.5681818181818182,
+      "section_description": "\"o maliyet hesabı tasarrufta ne kadar çıkıyor...\" - This section continues to elaborate on the news, discussing financial implications and the government's actions regarding pensions and economic policies."
+    },
+    {
+      "segment_id": "1770_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 51,
+      "filtered_length": 51,
+      "retention_ratio": 1.0,
+      "section_description": "\"o maliyet hesabı tasarrufta ne kadar çıkıyor...\" - This section continues to elaborate on the news, discussing financial implications and the government's actions regarding pensions and economic policies."
+    },
+    {
+      "segment_id": "1770_6",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 151,
+      "filtered_length": 70,
+      "retention_ratio": 0.46357615894039733,
+      "section_description": "\"o maliyet hesabı tasarrufta ne kadar çıkıyor...\" - This section continues to elaborate on the news, discussing financial implications and the government's actions regarding pensions and economic policies."
+    },
+    {
+      "segment_id": "1770_7",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 68,
+      "filtered_length": 40,
+      "retention_ratio": 0.5882352941176471,
+      "section_description": "\"o maliyet hesabı tasarrufta ne kadar çıkıyor...\" - This section continues to elaborate on the news, discussing financial implications and the government's actions regarding pensions and economic policies."
+    },
+    {
+      "segment_id": "1770_8",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 140,
+      "filtered_length": 65,
+      "retention_ratio": 0.4642857142857143,
+      "section_description": "\"o maliyet hesabı tasarrufta ne kadar çıkıyor...\" - This section continues to elaborate on the news, discussing financial implications and the government's actions regarding pensions and economic policies."
+    },
+    {
+      "segment_id": "1770_9",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 184,
+      "filtered_length": 59,
+      "retention_ratio": 0.32065217391304346,
+      "section_description": "\"o maliyet hesabı tasarrufta ne kadar çıkıyor...\" - This section continues to elaborate on the news, discussing financial implications and the government's actions regarding pensions and economic policies."
+    },
+    {
+      "segment_id": "1770_10",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 224,
+      "filtered_length": 115,
+      "retention_ratio": 0.5133928571428571,
+      "section_description": "\"o maliyet hesabı tasarrufta ne kadar çıkıyor...\" - This section continues to elaborate on the news, discussing financial implications and the government's actions regarding pensions and economic policies."
+    },
+    {
+      "segment_id": "1770_12",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 339,
+      "filtered_length": 115,
+      "retention_ratio": 0.3392330383480826,
+      "section_description": "\"o maliyet hesabı tasarrufta ne kadar çıkıyor...\" - This section continues to elaborate on the news, discussing financial implications and the government's actions regarding pensions and economic policies."
+    },
+    {
+      "segment_id": "1770_13",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 164,
+      "filtered_length": 102,
+      "retention_ratio": 0.6219512195121951,
+      "section_description": "\"o maliyet hesabı tasarrufta ne kadar çıkıyor...\" - This section continues to elaborate on the news, discussing financial implications and the government's actions regarding pensions and economic policies."
+    },
+    {
+      "segment_id": "1770_16",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 172,
+      "filtered_length": 70,
+      "retention_ratio": 0.4069767441860465,
+      "section_description": "\"o maliyet hesabı tasarrufta ne kadar çıkıyor...\" - This section continues to elaborate on the news, discussing financial implications and the government's actions regarding pensions and economic policies."
+    },
+    {
+      "segment_id": "1770_17",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 157,
+      "filtered_length": 61,
+      "retention_ratio": 0.3885350318471338,
+      "section_description": "\"o maliyet hesabı tasarrufta ne kadar çıkıyor...\" - This section continues to elaborate on the news, discussing financial implications and the government's actions regarding pensions and economic policies."
+    },
+    {
+      "segment_id": "1770_18",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 175,
+      "filtered_length": 101,
+      "retention_ratio": 0.5771428571428572,
+      "section_description": "\"o maliyet hesabı tasarrufta ne kadar çıkıyor...\" - This section continues to elaborate on the news, discussing financial implications and the government's actions regarding pensions and economic policies."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

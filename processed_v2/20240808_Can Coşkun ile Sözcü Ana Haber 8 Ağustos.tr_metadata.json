@@ -1,0 +1,125 @@
+{
+  "file_path": "news/SozcuTV/20240808_Can Coşkun ile Sözcü Ana Haber 8 Ağustos.tr.txt",
+  "processing_timestamp": "2025-07-22T17:59:38.249914",
+  "original_word_count": 7032,
+  "filtered_word_count": 610,
+  "retention_ratio": 0.08674630261660979,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "önce ülkemizde ekonomide Siyasette...",
+      "description": "\"önce ülkemizde ekonomide Siyasette...\" - The opening segment introduces the topics that will be discussed in the broadcast, setting the stage for the program's focus on political and economic issues.",
+      "end_pos": 584
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 584,
+      "start_sentence": "Instagram ve roblox'a erişim engellendi...",
+      "description": "\"Instagram ve roblox'a erişim engellendi...\" - This section contains the main news content, discussing various topics such as economic issues, political preferences, and recent events, including the mention of social media restrictions and the situation in Northern Iraq.",
+      "end_pos": 1357
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 1357,
+      "start_sentence": "Yine yakın coğrafyamızda olup bitenlere bakacağız...",
+      "description": "\"Yine yakın coğrafyamızda olup bitenlere bakacağız...\" - A brief transition that indicates a shift in focus to another news topic, specifically related to events occurring in the nearby region.",
+      "end_pos": 1752
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1752,
+      "start_sentence": "Şehit mehmetçiğimiz memleketi Kırşehir'de...",
+      "description": "\"Şehit mehmetçiğimiz memleketi Kırşehir'de...\" - This part continues the news segment, reporting on the death of a soldier and the subsequent funeral, providing details about the incident and its emotional impact.",
+      "end_pos": 1752
+    },
+    {
+      "type": "5. **OUTRO**",
+      "start_pos": 1752,
+      "start_sentence": "bir kez daha Başımız sağ olsun...",
+      "description": "\"bir kez daha Başımız sağ olsun...\" - The closing remarks express condolences and wrap up the discussion, signaling the end of the program.",
+      "end_pos": 50322
+    }
+  ],
+  "news_segments_count": 13,
+  "economic_segments_count": 8,
+  "economic_segments": [
+    {
+      "segment_id": "0_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 77,
+      "filtered_length": 66,
+      "retention_ratio": 0.8571428571428571,
+      "section_description": "\"önce ülkemizde ekonomide Siyasette...\" - The opening segment introduces the topics that will be discussed in the broadcast, setting the stage for the program's focus on political and economic issues."
+    },
+    {
+      "segment_id": "584_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 109,
+      "filtered_length": 43,
+      "retention_ratio": 0.3944954128440367,
+      "section_description": "\"Instagram ve roblox'a erişim engellendi...\" - This section contains the main news content, discussing various topics such as economic issues, political preferences, and recent events, including the mention of social media restrictions and the situation in Northern Iraq."
+    },
+    {
+      "segment_id": "1752_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 295,
+      "filtered_length": 155,
+      "retention_ratio": 0.5254237288135594,
+      "section_description": "\"bir kez daha Başımız sağ olsun...\" - The closing remarks express condolences and wrap up the discussion, signaling the end of the program."
+    },
+    {
+      "segment_id": "1752_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 192,
+      "filtered_length": 102,
+      "retention_ratio": 0.53125,
+      "section_description": "\"bir kez daha Başımız sağ olsun...\" - The closing remarks express condolences and wrap up the discussion, signaling the end of the program."
+    },
+    {
+      "segment_id": "1752_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 93,
+      "filtered_length": 56,
+      "retention_ratio": 0.6021505376344086,
+      "section_description": "\"bir kez daha Başımız sağ olsun...\" - The closing remarks express condolences and wrap up the discussion, signaling the end of the program."
+    },
+    {
+      "segment_id": "1752_5",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 185,
+      "filtered_length": 82,
+      "retention_ratio": 0.44324324324324327,
+      "section_description": "\"bir kez daha Başımız sağ olsun...\" - The closing remarks express condolences and wrap up the discussion, signaling the end of the program."
+    },
+    {
+      "segment_id": "1752_6",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 137,
+      "filtered_length": 60,
+      "retention_ratio": 0.43795620437956206,
+      "section_description": "\"bir kez daha Başımız sağ olsun...\" - The closing remarks express condolences and wrap up the discussion, signaling the end of the program."
+    },
+    {
+      "segment_id": "1752_7",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 92,
+      "filtered_length": 46,
+      "retention_ratio": 0.5,
+      "section_description": "\"bir kez daha Başımız sağ olsun...\" - The closing remarks express condolences and wrap up the discussion, signaling the end of the program."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

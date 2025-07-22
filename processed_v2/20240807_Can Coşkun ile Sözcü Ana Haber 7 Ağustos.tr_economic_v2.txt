@@ -1,0 +1,38 @@
+# Economic Content from: 20240807_Can Coşkun ile Sözcü Ana Haber 7 Ağustos.tr.txt
+# Processed: 2025-07-22T17:32:42.058653
+# Original: 7053 words → Filtered: 210 words (2.98% retention)
+# Economic segments: 3
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 86
+**Retention**: 41.95%
+
+Ülkemiz 29 ülke arasında yapılan araştırmada en kaygılı ülke olmuş. Bu verileri belirleyecek olan TÜİK'in ölçümleri, ekonomik durumumuz hakkında önemli ipuçları veriyor. Kış gelmeden elektrik ve doğalgaza yapılan zamlar, hanelerin bütçelerini zorlayacak. Neredeyse her haneden birinin faturasını ödeyemediği gerçeği, resmi veriler aracılığıyla ortaya çıkıyor. Zamlar, yaşam standartlarını etkileyerek halkın alım gücünü düşürüyor. Bu kış nasıl geçecek sorusu, ekonomik belirsizlikler ve artan maliyetler nedeniyle daha da önem kazanıyor. Ekonomik veriler, toplumun genel kaygı seviyesini artırıyor ve bu durum, hükümetin alacağı ekonomik politikaların ne denli önemli olduğunu gösteriyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 58
+**Retention**: 47.93%
+
+500 liraya çıkarıldı ancak yeni tutara emekliyi pek memnun etmiyor. Emekli maaşları, insanların geçimlerini sağlamakta yetersiz kalıyor. Eskiden emekli olduğu zaman çalışmayanlar, maaşlarıyla kirasını ödeyebiliyordu. Şu an böyle bir durum yok; çünkü çalışmayan bir emeklinin geçinmesi için ciddi bir çaba göstermesi gerekiyor. Beklentiler ile verilen maaşlar arasında büyük bir fark var. Bu durum, emeklilerin yaşam standartlarını olumsuz etkiliyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 66
+**Retention**: 61.68%
+
+2022'de Isparta'da elektrik dağıtım şirketine sadece 18 milyon ceza kesildi. Özelleştirmeden kaynaklı borcu dolar cinsinden Türk lirasına çevrilen ve 1 milyar TL'ye yakın ödemeden muaf tutulan şirket, buna rağmen 2023'te vergi ödemediği ortaya çıktı. Şirket 2021 yılında yalnızca 5688 5 000 vergi ödedi, 2022 yılında ödediği vergi kayıtlara 8587 olarak geçti. Bakanlığın verilerine göre 2023 yılında sokak ve caddelerin aydınlatılması karşılığında şirkete 162 milyon TL ödendi.
+
+================================================================================
+

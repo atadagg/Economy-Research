@@ -1,0 +1,139 @@
+# Economic Content from: 20240104_Fatih Portakal ile Sözcü Ana Haber 4 Ocak.tr.txt
+# Processed: 2025-07-22T17:24:13.409782
+# Original: 7146 words → Filtered: 791 words (11.07% retention)
+# Economic segments: 11
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 73
+**Retention**: 100.00%
+
+bizim çok çok çok az kaldı ve YouTube'da şöyle bir şey hazırladık 1 milyon için Hadi yüklenin
+diyoruz E tabii sözcün YouTube sayfasından bahsediyorum Eğer yüklenir iseniz bugün Eğer abone
+olursanız bugün Sözcü YouTube kanalı 1 milyon takipçiye ulaşacak ve sizlere sadece diyorum ki hadi
+yüklenin Sözcü YouTube kanalını 1 milyonun içine e üstüne çıkartalım yayın içind de mutlaka 1 milyon
+olacak Onu bana Hatırlatırsın sevinirim Tamam peki geldik YouTube'daki anket sorumuz nedir
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 38
+**Retention**: 43.18%
+
+Ekonomiyle ilgili ekonomik gidişatı nasıl görüyorsunuz diye bir soru var çünkü müsiat bu anketi yaptı. Bu anket, ekonomik endişeleri ve piyasa beklentilerini yansıtıyor. Ekonomik veriler ve göstergeler, yatırımcıların ve iş dünyasının kararlarını etkileyen önemli unsurlar arasında yer alıyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 38
+**Retention**: 63.33%
+
+Orta vadeli programı anlatmak için bugünkü toplantı sonrasında bir anket daha yapmak lazım. Anket sonuçlarına göre Müsiad 2024 yılında umutlu değil. Yeni yılda mal ve hizmet üretici fiyatlarının ne yönde değişim göstermesini beklediklerini sorduğumuzda %76,5'inin artacak dediği görülüyor.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 142
+**Retention**: 44.79%
+
+9 ise azalacak cevabını veriyor. Mehmet Şimşek'in vatandaşa sormak iş adamlarıyla ilgili bir açıklama yapması gerektiği düşünülüyor. Ekonomik gidişatla ilgili bir anket yapıldı ve katılımcılara ekonomik durumu nasıl gördükleri soruldu. 
+
+Emekli maaşları ile ilgili bir tartışma var; emekli milletvekili maaşının yarısı kadar bir düzenleme yapılması gerektiği ifade ediliyor. 20 yıl önceki emekli maaşları ile bugünkü durum karşılaştırıldığında, o dönemde en düşük emekli aylığı 332 lira iken, bu parayla 36,75 kilogram et alınabiliyordu. Ancak günümüzde emekli maaşları arttığı halde alım gücünün düştüğü belirtiliyor. Gıda enflasyonu bu ay % aştı ve emeklilerin gıda alım gücü ciddi şekilde azaldı. 
+
+2003 yılında en düşük emekli aylığı ile 36 kilo 750 gram kırmızı et ya da 127 kilo 600 gram beyaz et alınabiliyordu. Şu anda ise en düşük emekli aylığı ile bu miktarların alınması mümkün değil. Ekonomik koşulların değişmesiyle birlikte, emeklilerin yaşam standartlarının da olumsuz etkilendiği vurgulanıyor.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 68
+**Retention**: 76.40%
+
+500 L  
+2003'te kinin yarısı yani 18 kilo 750 gram et alınabiliyor ya da 88 kilo tavuk. Maaş arttı ama alım gücü elden gitti. Türkiye'de et fiyatları yükseldi; ayda ya da Kurban bayramında ancak alabiliyoruz. Avrupa'da maaşlara bakıldığında, Lüksemburg'da 28 Euro, TL karşılığı 81,760, İsveç'te ise 2030 Euro, Türk lirası cinsinden 66. Bu durum, Türkiye'deki ekonomik koşulların ve alım gücünün uluslararası standartlarla karşılaştırıldığında ne kadar zorlayıcı olduğunu gösteriyor.
+
+================================================================================
+
+## Economic Segment 6
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 97
+**Retention**: 42.54%
+
+Almanya'da maaş gözlemleri, işçi ücretlerinin insanca şartlarda geçinmeyi sağlaması gerektiğini ortaya koyuyor. Ekonomik veriler, iş gücü piyasasındaki dengesizlikleri ve maaşların yetersizliğini vurguluyor. Özellikle, işçilerin daha iyi ücretler talep etmesi, ekonomik koşulların iyileştirilmesi için önemli bir gösterge. 
+
+Ayrıca, özel bakım evlerine erişim, ekonomik durumla doğrudan bağlantılı. Devletin bakım hizmetleri sunmadığı durumlarda, bireylerin özel hizmetlere yönelmesi, sağlık ve sosyal hizmetler alanındaki ekonomik yükleri artırıyor. Bu durum, yaşlı nüfusun ekonomik gücünü ve sosyal güvenlik sisteminin sürdürülebilirliğini etkileyen önemli bir faktör. 
+
+Sonuç olarak, iş gücü ve sosyal hizmetler alanındaki gelişmeler, ekonomik istikrar ve bireylerin yaşam standartları üzerinde doğrudan bir etkiye sahip.
+
+================================================================================
+
+## Economic Segment 7
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 58
+**Retention**: 35.80%
+
+Özel bakım evlerinin fiyatları her geçen gün artıyor. Talep çoğalırken emekli sayısı azalıyor. Maliyetler o kadar yükseldi ki hem kira maliyetleri hem personel giderleri hem de diğer faktörler bir yaşlının bir kurumda maliyetini 30.000 liranın üstüne çıkardı. Tek başına yaşam mücadelesi veremeyen emekli, bu şartlarda huzur evinde barınmak istiyor. Ancak özel bir bakım evinde kalmak 30.000-40.000 liradan başlıyor.
+
+================================================================================
+
+## Economic Segment 8
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 46
+**Retention**: 47.92%
+
+Liranın üstünde burada kalabilmek için bunun üstünde bir rakam ödemek zorunda. Emekli maaşlarının çok aşağıda kalmış olması ve enflasyona bağlı fiyatların yükselmesi nedeniyle yaşlılar bu tür kurumlara yerleşmekte sıkıntı yaşıyorlar. Çok zor geçinmek gerçekten çok zor. Asgari ücret ve emekli maaşları arasındaki fark, ekonomik zorlukları artırıyor.
+
+================================================================================
+
+## Economic Segment 9
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 117
+**Retention**: 35.56%
+
+Önümüzdeki birkaç gün içerisinde Erdoğan veya bir başkası çıkacak ve ekonomik verilerle ilgili açıklamalarda bulunacak. Çünkü seçim var. Ekonomik göstergeler, özellikle asgari ücret ve memur maaşları üzerinde etkili olacak. İstanbul'da kiracı ve ev sahibi ilişkileri, ekonomik koşullar nedeniyle gerilim yaratıyor. Kiracıların, kiralarını elden mi yoksa banka üzerinden mi ödedikleri gibi sorular, ekonomik durumun bir yansıması olarak ortaya çıkıyor. Kiracıların, ev sahipleriyle yaşadığı sorunlar, kiraların artışı ve yasal süreçler üzerinden ekonomik bir boyut kazanıyor. 2023 yılına ait kiraların ödenmemesi, ekonomik sıkıntıların bir göstergesi olarak değerlendirilebilir. Kiracıların, ev sahiplerinin banka hesaplarına kiralarını yatırmaktan kaçınması, haksız kazanç sağlama endişesiyle ilgili bir durum olarak öne çıkıyor. Bu tür olaylar, genel ekonomik ortamın ve konut piyasasının dinamiklerini etkileyen unsurlar arasında yer alıyor.
+
+================================================================================
+
+## Economic Segment 10
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 48
+**Retention**: 35.82%
+
+1 litrelik benzin fiyatı 250 TL'ye yükseldi. Bu artış, sürücülerin akaryakıt alımında ciddi bir etki yarattı. ÖTV zammıyla birlikte akaryakıt fiyatları yeniden zirveye çıktı. Sürücüler, akaryakıt fiyatlarındaki bu artışla birlikte hesap yapmaya başladılar. Akaryakıt istasyonlarında litre fiyatlarının 40 TL'ye dayandığı görülüyor. Bu durum, tüketicilerin bütçelerini zorlamaya devam ediyor.
+
+================================================================================
+
+## Economic Segment 11
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 66
+**Retention**: 31.58%
+
+2022 Aralık ayında motorinin litresi 2 L 2 kuruş, benzin 18 L 62 kuruştu. 50 liraya 2,25 L motorin, 2,68 L benzin alınabiliyordu. Deponun yarısından fazlası kayıp; artık 50 liralık devir bitti, 2000 liralık devir başladı. Hayat gibi zamlar da o kadar hızlı ilerliyor ki, yıl sonuna kadar biz 50 lirayı göreceğiz. Bu durum, ekonomik göstergelerin ne kadar hızlı değiştiğini ve tüketicilerin karşılaştığı zorlukları ortaya koyuyor.
+
+================================================================================
+

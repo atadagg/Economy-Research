@@ -1,0 +1,62 @@
+{
+  "file_path": "news/SozcuTV/20240804_Senem Toluay Ilgaz ile Hafta Sonu Ana Haber 4 Ağustos.tr.txt",
+  "processing_timestamp": "2025-07-22T17:32:11.634389",
+  "original_word_count": 5780,
+  "filtered_word_count": 64,
+  "retention_ratio": 0.011072664359861591,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "hastane bölüm yeni doğan ünitesi tavan çöküyor",
+      "description": "\"hastane bölüm yeni doğan ünitesi tavan çöküyor\" - The program opens with a dramatic statement about a hospital incident, setting the tone for the news broadcast.",
+      "end_pos": 38
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 38,
+      "start_sentence": "Evet yanlış duymadınız yeni doğmuş bebeklerin üzerine",
+      "description": "\"Evet yanlış duymadınız yeni doğmuş bebeklerin üzerine\" - The main news content begins with a report on a tragic incident involving a newborn unit in a hospital where the ceiling collapsed, leading to a baby's death. This section continues with various news stories and discussions about broader societal issues.",
+      "end_pos": 1177
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 1177,
+      "start_sentence": "Evet şimdi her şey bir yana ama her şey bir yana",
+      "description": "\"Evet şimdi her şey bir yana ama her şey bir yana\" - This phrase indicates a transition within the news segment, shifting focus from the specific incident to a broader discussion of various societal problems.",
+      "end_pos": 1373
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1373,
+      "start_sentence": "günün tüm önemli gelişmelerine bakacağız",
+      "description": "\"günün tüm önemli gelişmelerine bakacağız\" - The news segment continues with a promise to cover all important developments of the day, indicating a shift to a broader overview of news stories.",
+      "end_pos": 1862
+    },
+    {
+      "type": "5. **OUTRO**",
+      "start_pos": 1862,
+      "start_sentence": "hatırlayın Az önce açılışta da söyledim",
+      "description": "\"hatırlayın Az önce açılışta da söyledim\" - The closing remarks reference earlier statements made in the broadcast, signaling the end of the program and summarizing key points discussed.",
+      "end_pos": 41649
+    }
+  ],
+  "news_segments_count": 6,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "38_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 160,
+      "filtered_length": 64,
+      "retention_ratio": 0.4,
+      "section_description": "\"Evet yanlış duymadınız yeni doğmuş bebeklerin üzerine\" - The main news content begins with a report on a tragic incident involving a newborn unit in a hospital where the ceiling collapsed, leading to a baby's death. This section continues with various news stories and discussions about broader societal issues."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

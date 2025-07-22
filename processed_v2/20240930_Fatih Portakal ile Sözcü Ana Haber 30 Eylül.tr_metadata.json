@@ -1,0 +1,80 @@
+{
+  "file_path": "news/SozcuTV/20240930_Fatih Portakal ile Sözcü Ana Haber 30 Eylül.tr.txt",
+  "processing_timestamp": "2025-07-22T17:42:57.808493",
+  "original_word_count": 7377,
+  "filtered_word_count": 283,
+  "retention_ratio": 0.03836247797207537,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "İyi akşamlar Ben Fatih Portakal Türkiye'nin en farklı ana haber bültenine...",
+      "description": "\"İyi akşamlar Ben Fatih Portakal Türkiye'nin en farklı ana haber bültenine...\" - The presenter introduces himself and welcomes viewers to the news program, mentioning the date and some contextual information about the weather and the changing seasons.",
+      "end_pos": 196
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 196,
+      "start_sentence": "Tabii bir taraftan Günler uzu günler kısalıyor...",
+      "description": "\"Tabii bir taraftan Günler uzu günler kısalıyor...\" - This section serves as a brief transition between the introductory remarks and the main news stories, providing context and setting the tone for the upcoming news.",
+      "end_pos": 1370
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 1370,
+      "start_sentence": "Ankara'nın çok özel bir haberi var ve Pislik içerisinde eğitim yuvasını izletecek...",
+      "description": "\"Ankara'nın çok özel bir haberi var ve Pislik içerisinde eğitim yuvasını izletecek...\" - The main news content begins, discussing various stories including a special report from Ankara and issues related to education and health.",
+      "end_pos": 1662
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1662,
+      "start_sentence": "Milli Eğitim bakanına sorduk He azıcık utansa bu akşamki tabelam...",
+      "description": "\"Milli Eğitim bakanına sorduk He azıcık utansa bu akşamki tabelam...\" - Continues with more news content, specifically addressing questions posed to the Minister of Education and discussing current events related to education.",
+      "end_pos": 1662
+    },
+    {
+      "type": "5. **TRANSITION**",
+      "start_pos": 1662,
+      "start_sentence": "Lütfen onunla da cevap yazabilirsiniz Tabii ki hem x'te hem de YouTube'da...",
+      "description": "\"Lütfen onunla da cevap yazabilirsiniz Tabii ki hem x'te hem de YouTube'da...\" - Another transition that invites viewer interaction and sets up the next segment of news or discussion.",
+      "end_pos": 50764
+    }
+  ],
+  "news_segments_count": 13,
+  "economic_segments_count": 3,
+  "economic_segments": [
+    {
+      "segment_id": "196_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 182,
+      "filtered_length": 102,
+      "retention_ratio": 0.5604395604395604,
+      "section_description": "\"Tabii bir taraftan Günler uzu günler kısalıyor...\" - This section serves as a brief transition between the introductory remarks and the main news stories, providing context and setting the tone for the upcoming news."
+    },
+    {
+      "segment_id": "1662_6",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 79,
+      "filtered_length": 53,
+      "retention_ratio": 0.6708860759493671,
+      "section_description": "\"Lütfen onunla da cevap yazabilirsiniz Tabii ki hem x'te hem de YouTube'da...\" - Another transition that invites viewer interaction and sets up the next segment of news or discussion."
+    },
+    {
+      "segment_id": "1662_7",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 334,
+      "filtered_length": 128,
+      "retention_ratio": 0.38323353293413176,
+      "section_description": "\"Lütfen onunla da cevap yazabilirsiniz Tabii ki hem x'te hem de YouTube'da...\" - Another transition that invites viewer interaction and sets up the next segment of news or discussion."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

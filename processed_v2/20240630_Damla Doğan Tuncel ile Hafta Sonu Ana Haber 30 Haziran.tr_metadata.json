@@ -1,0 +1,107 @@
+{
+  "file_path": "news/SozcuTV/20240630_Damla Doğan Tuncel ile Hafta Sonu Ana Haber 30 Haziran.tr.txt",
+  "processing_timestamp": "2025-07-22T17:23:28.690508",
+  "original_word_count": 5240,
+  "filtered_word_count": 318,
+  "retention_ratio": 0.06068702290076336,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "o mitingde neler yaşandı aktaracağız",
+      "description": "\"o mitingde neler yaşandı aktaracağız\" - The program begins with an introduction by the presenter, outlining the topics that will be covered, including a significant incident in İzmir and upcoming news stories.",
+      "end_pos": 42
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 42,
+      "start_sentence": "Tabii Gözümüz kulağımız İzmir'de bir restoranda",
+      "description": "\"Tabii Gözümüz kulağımız İzmir'de bir restoranda\" - This brief transition connects the introduction to the specific news story about the explosion, indicating a shift in focus to the incident in İzmir.",
+      "end_pos": 578
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 578,
+      "start_sentence": "Bir binanın zemin katında Restoran olarak kullanılan bir yerde sanayi tipi tüp patladı",
+      "description": "\"Bir binanın zemin katında Restoran olarak kullanılan bir yerde sanayi tipi tüp patladı\" - The main news segment details the explosion of a gas cylinder in a restaurant in İzmir, reporting on casualties, injuries, and the ongoing investigation.",
+      "end_pos": 1053
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1053,
+      "start_sentence": "Bir Şırdancı dükkanında Patlama meydana geldi",
+      "description": "\"Bir Şırdancı dükkanında Patlama meydana geldi\" - This section continues the detailed reporting on the explosion, including eyewitness accounts and the aftermath, such as the response from emergency services.",
+      "end_pos": 1152
+    },
+    {
+      "type": "5. **TRANSITION**",
+      "start_pos": 1152,
+      "start_sentence": "Tabii ki Baksanıza Baksanıza",
+      "description": "\"Tabii ki Baksanıza Baksanıza\" - Another transition that leads into further details about the explosion and its impact, including descriptions of the scene and the reactions of those present.",
+      "end_pos": 37383
+    }
+  ],
+  "news_segments_count": 12,
+  "economic_segments_count": 6,
+  "economic_segments": [
+    {
+      "segment_id": "42_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 77,
+      "filtered_length": 44,
+      "retention_ratio": 0.5714285714285714,
+      "section_description": "\"Tabii Gözümüz kulağımız İzmir'de bir restoranda\" - This brief transition connects the introduction to the specific news story about the explosion, indicating a shift in focus to the incident in İzmir."
+    },
+    {
+      "segment_id": "578_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 69,
+      "filtered_length": 69,
+      "retention_ratio": 1.0,
+      "section_description": "\"Bir binanın zemin katında Restoran olarak kullanılan bir yerde sanayi tipi tüp patladı\" - The main news segment details the explosion of a gas cylinder in a restaurant in İzmir, reporting on casualties, injuries, and the ongoing investigation."
+    },
+    {
+      "segment_id": "1152_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 99,
+      "filtered_length": 47,
+      "retention_ratio": 0.47474747474747475,
+      "section_description": "\"Tabii ki Baksanıza Baksanıza\" - Another transition that leads into further details about the explosion and its impact, including descriptions of the scene and the reactions of those present."
+    },
+    {
+      "segment_id": "1152_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 115,
+      "filtered_length": 36,
+      "retention_ratio": 0.3130434782608696,
+      "section_description": "\"Tabii ki Baksanıza Baksanıza\" - Another transition that leads into further details about the explosion and its impact, including descriptions of the scene and the reactions of those present."
+    },
+    {
+      "segment_id": "1152_6",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 148,
+      "filtered_length": 63,
+      "retention_ratio": 0.42567567567567566,
+      "section_description": "\"Tabii ki Baksanıza Baksanıza\" - Another transition that leads into further details about the explosion and its impact, including descriptions of the scene and the reactions of those present."
+    },
+    {
+      "segment_id": "1152_7",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 75,
+      "filtered_length": 59,
+      "retention_ratio": 0.7866666666666666,
+      "section_description": "\"Tabii ki Baksanıza Baksanıza\" - Another transition that leads into further details about the explosion and its impact, including descriptions of the scene and the reactions of those present."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

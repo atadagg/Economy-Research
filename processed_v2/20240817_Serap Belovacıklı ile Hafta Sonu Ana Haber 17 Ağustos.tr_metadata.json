@@ -1,0 +1,73 @@
+{
+  "file_path": "news/SozcuTV/20240817_Serap Belovacıklı ile Hafta Sonu Ana Haber 17 Ağustos.tr.txt",
+  "processing_timestamp": "2025-07-22T17:36:02.559420",
+  "original_word_count": 5766,
+  "filtered_word_count": 309,
+  "retention_ratio": 0.05359001040582726,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "deem eksik olmuyor yangın eksik olmuyor Türkiye cayır cayır yanıyor...",
+      "description": "\"deem eksik olmuyor yangın eksik olmuyor Türkiye cayır cayır yanıyor...\" - This section serves as the opening of the broadcast, introducing the main theme of the program, which revolves around the ongoing fires in Turkey and the political situation.",
+      "end_pos": 83
+    },
+    {
+      "type": "4. **OUTRO**",
+      "start_pos": 83,
+      "start_sentence": "Memleket yanıyor diyoruz ama şimdi resmi olarak fiili olarak gerçekleşen maalesef canlarımız ciğerlerimiz yanıyor...",
+      "description": "\"Memleket yanıyor diyoruz ama şimdi resmi olarak fiili olarak gerçekleşen maalesef canlarımız ciğerlerimiz yanıyor...\" - This section wraps up the discussion, reiterating the seriousness of the situation and transitioning towards a more detailed examination of the fires and their impact.",
+      "end_pos": 1361
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 1361,
+      "start_sentence": "Bolu'da bir yangın var Manisa'da Aydın'da hepsine bakacağız ekrana gelecek şimdi arkadaşlarımdan rica edeyim Bolu'dan görüntüler geliyor...",
+      "description": "\"Bolu'da bir yangın var Manisa'da Aydın'da hepsine bakacağız ekrana gelecek şimdi arkadaşlarımdan rica edeyim Bolu'dan görüntüler geliyor...\" - This section contains the actual news content, detailing various incidents of fires across different regions in Turkey, including Bolu, Manisa, and Aydın, along with political commentary related to the situation.",
+      "end_pos": 1558
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 1558,
+      "start_sentence": "Tabii ki yalnızca Bolu'da değil efendim Manisa Aydın Muğla Karabük'te başladı...",
+      "description": "\"Tabii ki yalnızca Bolu'da değil efendim Manisa Aydın Muğla Karabük'te başladı...\" - This brief transition connects the ongoing discussion of the fires in Bolu to other regions affected, indicating a shift in focus while maintaining the overarching theme of the news segment.",
+      "end_pos": 42231
+    }
+  ],
+  "news_segments_count": 8,
+  "economic_segments_count": 3,
+  "economic_segments": [
+    {
+      "segment_id": "1558_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 278,
+      "filtered_length": 114,
+      "retention_ratio": 0.41007194244604317,
+      "section_description": "\"Tabii ki yalnızca Bolu'da değil efendim Manisa Aydın Muğla Karabük'te başladı...\" - This brief transition connects the ongoing discussion of the fires in Bolu to other regions affected, indicating a shift in focus while maintaining the overarching theme of the news segment."
+    },
+    {
+      "segment_id": "1558_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 327,
+      "filtered_length": 101,
+      "retention_ratio": 0.308868501529052,
+      "section_description": "\"Tabii ki yalnızca Bolu'da değil efendim Manisa Aydın Muğla Karabük'te başladı...\" - This brief transition connects the ongoing discussion of the fires in Bolu to other regions affected, indicating a shift in focus while maintaining the overarching theme of the news segment."
+    },
+    {
+      "segment_id": "1558_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 158,
+      "filtered_length": 94,
+      "retention_ratio": 0.5949367088607594,
+      "section_description": "\"Tabii ki yalnızca Bolu'da değil efendim Manisa Aydın Muğla Karabük'te başladı...\" - This brief transition connects the ongoing discussion of the fires in Bolu to other regions affected, indicating a shift in focus while maintaining the overarching theme of the news segment."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

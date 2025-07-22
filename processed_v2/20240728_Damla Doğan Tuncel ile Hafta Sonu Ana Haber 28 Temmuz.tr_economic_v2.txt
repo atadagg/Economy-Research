@@ -1,0 +1,55 @@
+# Economic Content from: 20240728_Damla Doğan Tuncel ile Hafta Sonu Ana Haber 28 Temmuz.tr.txt
+# Processed: 2025-07-22T17:40:10.615277
+# Original: 5536 words → Filtered: 328 words (5.92% retention)
+# Economic segments: 4
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 106
+**Retention**: 84.80%
+
+Uygulamadan 3 703 788 emekli yararlanacak kabul edilen kanun teklifine göre yurt dışına çıkış harcı 150 liradan 500 liraya çıkarıldı. Bu miktar her yıl yeniden değerleme oranıyla artacak. Mahkum bırakılacak yani bu vatandaşlar AKP hükümetlerinin ekonomik adaletsizliği önünde ezilmekte. Kabul edilen vergi paketi ile kayıt dışı faaliyetlerle mücadelenin güçlendirilmesi amaçlanıyor. Düzenlemeye göre 4000'den fazla vergi denetmeni yıl boyunca görev yapacak. Başkasına ait iban ya da pos cihazı kullananlara caydırıcı para cezaları kesilecek. Ciddi vergi kayıplarının olduğu açıkça görülmektedir. Ancak bu kayıpların teklife dahil edilmemesi adaletsizliği körüklemek anlamına geliyor. Türkiye'nin ekonomisinin düzelmeyeceğini çok iyi bilmelisiniz. Vergi düzenlemesine göre kısa vadeli sigorta prim oranı % 2 olarak belirlenmiştir.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 99
+**Retention**: 75.57%
+
+25 olarak belirlenecek bu oranı indirme ve artırma yetkisi cumhurbaşkanına verilecek sigorta prim oranlarının belirlenmesi devletin yükümlülüğü ve sorumluluğundadır. Ancak bu oranların artırılması ya da azaltılması yetkisinin cumhurbaşkanına devredilmesi sosyal hukuk devleti ilkesine aykırıdır. Mehmet Şimşek, bu yasa vatandaşlarımıza yük getirmiyor, amacımız çok kazanandan çok, az kazanandan az vergi almak dedi. Ancak, az kazanandan yani bizlerden çok vergi alınıyor. Dolaylı vergiler zaten sırtımızda büyük bir yük; maaşımızın yarısını daha atmadan vergi olarak veriyoruz devlete. Çok kazanandan da çok vergi alınmıyor bu ülkede. Daha geçen hafta, 5 milyon lira üzerinde kazanan ama vergi vermeyen 800 kişi tespit edildi. Hayatları incelenecek.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 44
+**Retention**: 47.83%
+
+Asgari ücretin neredeyse 4,000 TL üzerine çıkmış durumda. Buna ulaşım, kira, faturalar gibi zaruri harcamaları eklediğimizde yoksulluk sınırına ulaşıyoruz. Yılın ilk 7 ayında açlık sınırı 4,200 TL, yoksulluk sınırı ise 15,465 TL artmış durumda. Bu veriler, ekonomik koşulların zorluğunu ve artan yaşam maliyetlerini göstermektedir.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 79
+**Retention**: 100.00%
+
+000 futbol sahası büyüklüğündeki 2259
+hektar alan Jeotermal kaynak arama sahası ilan edildi Belediye Başkanı Yahya Göktepe Sözcü TV
+ekranlarından tepki gösterdi yarısından fazlası bağ ve tarım arazisi olan adamızda yıkıcı bir etki
+yapacağı adanın yaşanmaz bir hale geleceği kuşkusuz nasıl Aydında zeytinlikler incir ağaçları
+kuruduysa Yani bu gösteriyor ki büyük bir olasılıkla bizim üzüm bağlarımız da böyle bir tehdit
+altında ihalenin üzerinden Daha bir hafta geçmeden aynı il özel idaresi Bu kez Bozcaada belediyesi'
+çevre kirliliği gerekçesiyle 1
+
+================================================================================
+

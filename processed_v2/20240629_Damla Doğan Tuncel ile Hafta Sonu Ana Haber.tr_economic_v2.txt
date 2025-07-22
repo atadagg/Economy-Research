@@ -1,0 +1,148 @@
+# Economic Content from: 20240629_Damla Doğan Tuncel ile Hafta Sonu Ana Haber.tr.txt
+# Processed: 2025-07-22T18:09:29.307575
+# Original: 5470 words → Filtered: 1339 words (24.48% retention)
+# Economic segments: 9
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 96
+**Retention**: 100.00%
+
+görüyorsunuz Çanakkale Bursa Balıkesir İzmir Aydın Ankara Karaman Kahramanmaraş'ta ormanlarımız
+yanıyor İzmir'de özellikle çok büyük bir yangın var İzmir'in Çeşme Selçuk Bornova ve Menderes
+ilçelerinde orman yangınları çıkmış durumda yangınlara Hem havadan hem karadan müdahale ediliyor
+savunma Bakanlığı'ndan açıklama var yangın söndürme çalışmalarına katılması için beş helikopterin
+görevlendirildiği duyuruldu birazdan Çeşme'ye gideceğiz son durumu anlatacağız ama Aydın Özellikle
+takip ettiğimiz nokta Aydın'ın Kuşadası ilçesi Selçuk yolu üzerindeki ormanlık alanda çıkmıştı orman
+yangını müdahale ediliyor ama yayılıyor maalesef görüntüler çok çarpıcı araçların yoldan geri geri
+gittiğini kurtarmaya çalıştıklarını kendilerini Gördük o bölgede yerleşim yerleri var bu yüzden
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 467
+**Retention**: 100.00%
+
+5 sıralarında burada çıktı yangın e 5te buradaydık bu
+alandayım bir helikopter görmüştük havadan Müdahale de gerçekleşiyordu o esnada çok da rüzgar vardı
+Ancak daha sonra burada havadan bir müdahale göremedik burada ancak karadan müdahaleye ekipler Eee
+sürdürüyorlardı Ancak şu an için az önce yayına başlamadan önce hemen bir havadan müdahalenin
+başladığını söyleyebiliriz burada bir helikopter ekranlarınıza geliyor şu an bakın Evet havadan
+müdahaleyle helikopter hemen yakında bulunan Çeşme'den denizden aldığı suyu haznesinden boşalttı
+alevlerin üzerine şimdi bulunduğumuz bu nokta riskli bir nokta Damla Çünkü aslında denize yakın
+olması bir yandan avantaj su e tahliye etmesi açısından ama hem çok yüksek bir nokta hem de rüzgar
+güllerinin de olduğu bir nokta burası dolayısıyla da çok rüzgarlı Rüzgar olduğu için e denizden
+tarafa Esiyor Rüzgar ve her estiği noktada e yönü maalesef alevlerle birlikte giderek yükseliyor ve
+yayılıyor şimdi şu an gördüğünüz noktada Alev mesela görebiliyoruz ama çok daha az görüyoruz Aradan
+birkaç dakika geçiyor Bir şiddetli rüzgarla oradaki alevlerin daha da hızlandığını görebiliyoruz ama
+Ama şu dakika itibariyle sanırım şöyle bir güzel haber verebiliriz ki havadan müdahale başladı
+burada artık görünen o ki havadan müdahaleyle buradaki bu alevler daha kısa sürede kontrol altına
+alınabilir En azından Çünkü çok rüzgar olduğu için alevler de hızla ilerledi dolayısıyla da burada
+ekipler itfaiye ekipleri vardı orman bölge müdürlüğüne bağlı karadan ekip çalışması yapan Eee
+çalışanlar işçiler vardı E onlar da itfaiye ekipleri de Orman Bölge Müdürlüğü ekipleri de alevler
+den zaman zaman kaçtığını gördük Çünkü çok rüzgar var alevler onlar söndürmeye çalışıyor hortumla
+alevler onların üzerine doğru geldikçe onlar da tabii ki kaçmaya çalıştılar burada onu gözlemledik
+yani Bu da demek oluyor ki Rüzgar o kadar şiddetteki çalışmaları bile engelleyecek aşamada
+dolayısıyla da burada havadan müdahale helikopterle müdahalenin başlamış olması En azından e rüzgar
+ve hava kararmadan rüzgarın şiddeti de daha fazla artmadan Belki bu alevleri kontrol altına alma
+çalışmalarını hızlandıracak diyebiliriz buradan aktaracağımız bu Menderes'ten iyi bir haber var
+maalesef orada epey bir yangın hızla yayılmıştı ve e tahliye işlemi gerçekleşmişti orada hobi
+bahçeleri de vardı çünkü ama orada durumun iyiye gittiği haberini aldık Menderes'te şu an durum
+iyiye gidiyor ama az önce de izlediğimiz gibi bahsettiğin gibi Pamucak sahilindeki Bu yangın kuş
+Adası'na Selçuk'tan sıçradı orada durum Maalesef şu an hala etkisini göster mekte Çeşme'de de devam
+etmekte yangın Menderes'te de iyiye gittiği özetini geçmiş olalım ama bu uyarı vardı fırtına uyarısı
+vardı buradan son cümlem şu olsun ki aslında bütün orman yangınlarının çıkma nedeni hep insan
+kaynaklı lütfen rüzgarlı ve sıcak havalarda her zaman bunu yapmamamız gerekir Ama lütfen Bu
+tehlikeli havalarda izmarit atmayalım cam kırıklarına dikkat edelim Çünkü her şey bizim elimizde
+Aslında cayır cayır yanıyor ormanlarımız maalesef Damla Gamze'nin son uyarısı çok önemliydi
+özellikle dikkat etmemiz lazım bakın ciğerlerimiz cayır cayır yanıyor şu anda söndürme çalışmaları
+devam ediyor Neyse ki havadan müdahalede başladı ama 8
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 74
+**Retention**: 34.10%
+
+Temmuz ayında emekli maaşlarına zam yapılmayacak. Elektriğe %38 zam geldi. Asgari ücretli ile emekli maaşı arasındaki fark açıldı. Memurlar, geçim sıkıntısı nedeniyle Ankara'da büyük bir miting düzenledi. Memur maaşı ve emekli maaşı arasındaki makas o kadar açıldı ki, birçok kişi emekli olmaktan korkuyor. Kamu kurumlarında iş alımlarında teknik diploma isteniyor, ancak mevcut maaşlar geçim için yeterli olmuyor. Memurlar, eriyen ücretleri ve artan yaşam maliyetleri karşısında geçim mücadelesi veriyor. Büyükşehirlerde memurların aldığı maaşlar, kiralarına yetmiyor.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 123
+**Retention**: 75.00%
+
+Yani bir geliyorum 500 TL, bir geliyorum 800 TL, bir hafta geliyorum 900 TL; her hafta değişiyor. Her şey yükseliyor, maaşınız sabit. O zaman bir kez daha önce memleket hep beraber inye. Haydi Türkiye! Mehmet Bey diyor ki, hayatımda gördüğüm en derin yoksulluğu yaşıyorum. Maaşı alıyorum, marketlere giremiyorum. Her birimiz kendi ölçüsünde fakirleştiğini, alım gücünün kat be kat düştüğü günlerden geçiyoruz maalesef. Süleyman Bey de diyor ki, yıllardır sönmeyen, söndürülmeyen ekonomik bir yangın var ki vatandaş nefes alamaz duruma geldi. Ama yönetenler yangına körükle gidiyor maalesef. Bu yönetenler bakın paraları nerelere nasıl harcıyor. 31 Mart seçimlerinden bu yana el değiştiren belediyelerin borçlarını konuşuyoruz. Hala yeni detaylar ortaya çıkıyor. AKP'den CHP'ye geçen bir ilçe daha yüklü borçlarıyla gündemimizde. Bu kez adres Erzurum'un Şenkaya ilçesi.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 103
+**Retention**: 70.55%
+
+Peki ne kadar biliyor musunuz 108 milyon lira yani kişi başı o belediyede o ilçede yaşayanların 6 150 lir borcu var. CHP'li yeni yönetim o borçların listesini belediye binasına astı. Erzurum Şenkaya belediye binasına AKP'den kalan borçların dev afişi asıldı. CHP'nin 47 yıl sonra kazandığı Erzurum Şenkaya Belediyesi'nin yeni başkanı Görbil Özcan oldu; başkanlık koltuğunu ise yüklü bir borçla devraldı. 425 kg Lop Et Bedeli 189 000 lira. 2023 yılında Çankes kafeden misafirlere verilen hediye ve ağırlama gideri 2 500 000 lira. İşletmeciliği belediyede olan kafeteryalarda milyonlarca liralık misafir ağırlama giderleri ve hediyeler derken 16 000 nüfuslu ilçenin 108 milyon lira borcu var.
+
+================================================================================
+
+## Economic Segment 6
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 77
+**Retention**: 65.25%
+
+54 24 kuruşluk borcu çıktı CHP'li Mahmut, seçim günü olarak belirtilen 425 kilo lope etin bedelinin 9450 lira olduğunu ancak belirtilen miktardaki etin nerede olduğunun tespit edilmediğini söyledi. Maalesef zamların ardı arkası kesilmiyor. İzmir'den de bir kötü haber var; bir Temmuz'dan itibaren geçerli olmak üzere suyun metreküpüne % 45 zam geldi. Nisan'da indirim yapılan suya % 45 zam geldi ve bu zam Temmuz'da faturalara yansıyacak. İzmir Büyükşehir Belediye Başkanı Cemil Tugay, seçim döneminde suya indirim vaadinde bulundu.
+
+================================================================================
+
+## Economic Segment 7
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 131
+**Retention**: 46.79%
+
+4 met küplük su kullanımına % 25 indirimi meclise sundu önerge oy birliği ile kabul edildi. Suya % 45 zam teklifi oy çokluğuyla kabul edildi. Sadece suya değil, ekmeğe de zam geldi. Yeni ücretler Temmuzdan itibaren geçerli olacak. Ekonomi politikalarının sonunda her geçen gün maalesef daha da dibe gidiyoruz. 4 milyondan fazla hane, yani 16 milyon kişi sosyal yardıma muhtaç durumda. İşsiz kalanların sağlık hizmetlerinden yararlanması için genel sağlık sigortası primi ödemesi gerekiyor. İşsizlerin sayısı yılın ilk 4 ayında 9 milyona dayandı. Artan maliyetler ve yüksek enflasyon, alım gücünü eritti. Uzmanlar, işsizlik dalgasının kapıda olduğu uyarısında bulunuyor. Genel sağlık sigortası prim borcunu ödeyemeyen işsizlerin sayısı Ocak-Nisan döneminde 9,5 milyona ulaştı. Aile ve Sosyal Hizmetler Bakanlığı'nın 2024 yılı bütçe teklifinde GSS borcu bakanlıkça karşılanan kişi sayısı 8947 olarak öngörüldü. Ancak hedef tutmadı.
+
+================================================================================
+
+## Economic Segment 8
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 110
+**Retention**: 81.48%
+
+444 458 oldu bu sayı Bakanlığın hedefinden yaklaşık yarım milyon fazla çıktı. Toplam 9,4 milyon kişinin GSS borcu için bütçeden 35 m729 m516 b000 l ödeme yapıldı. GSS borçlusu kişi sayısında yıllar itibariyle yaşanan değişim çarpıcı tabloyu ortaya koydu. 2018 yılında 6945 b000 olan GSS borcu sosyal yardımla ödenen kişi sayısı 2023 yılında 10 milyona dayandı. Türkiye'de yaşam maliyeti her geçen gün artarken milyonlar sosyal yardımla hayatını sürdürmeye çalışıyor. İktidar şimdi sosyal yardımlara da bir ayar çekecek, hepsi tek bir çatı altında toplanacak. Üç çocuklu ailelere vergi indirimi ve uygun krediler de gündemde. Milyonlar ekonomik darboğaz gölgesinde yaşamaya çalışırken asgari ücrete zam kapısı kapandı. En düşük emekli maaşı da 10...
+
+================================================================================
+
+## Economic Segment 9
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 158
+**Retention**: 55.05%
+
+Yeni vergi yükünün altından toplum nasıl kalkacak sorusuna yanıt aranırken, iktidar sosyal yardımlar için harekete geçti. Aile ve Sosyal Hizmetler Bakanlığı, Çalışma ve Sosyal Güvenlik Bakanlığı ile Hazine ve Maliye Bakanlığı sosyal yardım kriterlerini yeniden düzenlemek için düğmeye bastı. Gerçek ihtiyaç sahipliğinin yardım almasının önüne geçen uygulamaları kaldırmayı hedefleyen bakanlıklar, gelir fark etmeksizin herkese uygulanan 25 metreküp doğalgaz desteği gibi uygulamaları rafa kaldıracak. 
+
+Asgari ücrete zam olacak mı sorusu gündemdeyken, iktidar en düşük emekli maaşı için de adım atmadı. Sosyal yardımlarla açılan makası daraltmaya çalışan iktidar, emekli, asgari ücretli ve dar gelirliye kira yardımı, gıda yardımı, çocuk bakım desteği gibi ek destekler sağlamak üzere çalışıyor. Üç çocuğu olanlara vergi indirimi üzerine de düzenleme hazırlığı yapılıyor. 
+
+Milyonlar son yıllarda yükselen konut kiralarının gölgesinde yaşamaya çalışırken, dar gelirliye ucuz konut için de hazırlık yapılıyor. Önümüzdeki günlerde detayları netleşecek olan düzenlemeye göre, dar gelirlinin konuta erişimi ile ilgili yeni formüller üretilecek. Maliye Bakanlığı ile TOKİ arasında ucuz konut için çalışma yapılacak.
+
+================================================================================
+

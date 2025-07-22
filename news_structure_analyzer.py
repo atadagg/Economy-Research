@@ -174,19 +174,44 @@ Full text length: {len(text)} characters"""
         # If AI found very few sections, add pattern-based detection
         if len(ai_sections) < 2:
             pattern_sections = self.detect_by_patterns(text)
-            # Merge with AI sections, preferring AI results
+            # Merge with AI sections, preferring AI results and avoiding overlaps
             for pattern_section in pattern_sections:
-                # Check if this overlaps with existing AI sections
+                # Check if this overlaps with existing AI sections (stricter overlap check)
                 overlap = False
                 for ai_section in ai_sections:
-                    if abs(pattern_section['start_pos'] - ai_section['start_pos']) < 100:
-                        overlap = True
-                        break
+                    # Check for content overlap, not just position proximity
+                    ai_start = ai_section['start_pos']
+                    ai_end = ai_section.get('end_pos', len(text))
+                    pattern_start = pattern_section['start_pos'] 
+                    pattern_end = pattern_section.get('end_pos', len(text))
+                    
+                    # Calculate overlap percentage
+                    overlap_start = max(ai_start, pattern_start)
+                    overlap_end = min(ai_end, pattern_end)
+                    
+                    if overlap_start < overlap_end:
+                        overlap_length = overlap_end - overlap_start
+                        ai_length = ai_end - ai_start
+                        pattern_length = pattern_end - pattern_start
+                        
+                        # If 30% or more overlap, consider it duplicate
+                        ai_overlap_ratio = overlap_length / ai_length if ai_length > 0 else 0
+                        pattern_overlap_ratio = overlap_length / pattern_length if pattern_length > 0 else 0
+                        
+                        if ai_overlap_ratio >= 0.3 or pattern_overlap_ratio >= 0.3:
+                            overlap = True
+                            break
+                
                 if not overlap:
                     ai_sections.append(pattern_section)
             
-            # Re-sort by position
+            # Re-sort by position and recalculate end positions
             ai_sections.sort(key=lambda x: x['start_pos'])
+            for i in range(len(ai_sections)):
+                if i < len(ai_sections) - 1:
+                    ai_sections[i]['end_pos'] = ai_sections[i + 1]['start_pos']
+                else:
+                    ai_sections[i]['end_pos'] = len(text)
         
         return ai_sections
     

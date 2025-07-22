@@ -1,0 +1,38 @@
+# Economic Content from: 20240720_Damla Doğan Tuncel ile Hafta Sonu Ana Haber 20 Temmuz.tr.txt
+# Processed: 2025-07-22T17:24:54.840377
+# Original: 5520 words → Filtered: 227 words (4.11% retention)
+# Economic segments: 3
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 98
+**Retention**: 38.43%
+
+İstanbul'da fiyatlar sürekli artıyor; asgari ücrete oranlı enflasyon %70 seviyelerine ulaştı. Temel gıda maddelerinin eklendiği sepette kıymanın kilosu Londra'da 282 lira, İstanbul'da ise 419 lira olarak hesaplandı. Sütün litresi İngiltere'de 27 lira iken İstanbul'da 40 lira olarak yansıdı. İstanbul, pahalılıkta Londra'yı geride bıraktı. Enflasyon farkı haliyle fiyatlara yansıyor; Londra'da bir sepet 2972 liraya dolarken, İstanbul'da asgari ücretli aynı sepete 3297 lira harcıyor. Bu durum, Türkiye'deki gelirlerin düşmesi ve geleceğe dair umutların azalmasıyla birleşince, genç beyinlerin yurt dışına göç etmesine neden oluyor. Türkiye İstatistik Kurumu, 2021 verilerine göre, 29 yaş arasındaki 286 bin kişinin yurt dışına göç ettiğini paylaştı.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 61
+**Retention**: 35.67%
+
+Evet gidenlerin oranında bir azalma var % 31 oranında ama gençlere göre iyi geleceğin Rotası bir tek var, o da yurt dışı. Ekonomik koşullar, gençlerin geleceğe dair kaygılarını artırıyor. Türkiye'de bir şirkette çalışmak veya yurt dışına gitmek, gençler için zor bir hedef haline geldi. İyi bir üniversite okumak ve iş sahibi olmak her gencin hayaliydi, ancak mevcut şartlar bu hayalleri etkiliyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 68
+**Retention**: 53.54%
+
+657 genç veri TÜİK'ten yaş aralığı 2029 yani eğitimli ya da eğitim alacak kesim. Son 2 yılda yurt dışına gidenlerin toplam sayısı 78,000. TÜİK göçlerin nedenini açıklamıyor ancak sokağa göre iki neden var: ekonomik şartlar ve imkanlar. Çünkü insanlar geçinemiyor, açık ve net. 18,000 lirayla kim geçinebilir burada? Kiralar olmuş 12-15 bin. Son 3 yılda Türkiye'ye gelen sayısındaki rakamlar da dikkat çekici; 3 yılda Türkiye'ye 73,964 kişi geldi.
+
+================================================================================
+

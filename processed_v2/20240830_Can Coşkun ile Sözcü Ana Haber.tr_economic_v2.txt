@@ -1,0 +1,27 @@
+# Economic Content from: 20240830_Can Coşkun ile Sözcü Ana Haber.tr.txt
+# Processed: 2025-07-22T17:47:09.574271
+# Original: 6532 words → Filtered: 130 words (1.99% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 77
+**Retention**: 44.00%
+
+2000 liralık KYK bursları ile öğrencilerin artık bir aylık yemeğini karşılaması zorlaşıyor. Cumhurbaşkanı Erdoğan, 2024 yılı kredi burs rakamını lisans öğrencileri için 1250 liradan 2000 liraya çıkarttıklarını müjdeledi. Ancak, 9 ay önce yapılan bu zamma enflasyon hesabı katılmadı ve bu artış, öğrencilerin ihtiyaçlarını karşılamakta yetersiz kaldı. Öğrencilerin yemek masrafına bile yetmeyen bu burs, gerçek enflasyonun altında kalmış durumda. Yurt ihtiyaçlarının fiyatlarının dikkate alınması gerektiği ifade ediliyor. Bu durum, öğrencilerin maddi açıdan zor bir çıkmaza girmesine neden oldu.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 53
+**Retention**: 71.62%
+
+Boğaziçi Üniversitesi yemekhane fiyatlarında artışa gitti; kahvaltı 20, öğle yemeği 30, akşam yemeği de 30 lira olarak belirlendi. Bir öğrenci, 30 gün boyunca 3 öğün yemek yiyen bir öğrenci 2400 lira harcamak zorunda, bu da KYK bursundan 400 lira fazla. Sonuçta ekonomi çok kötü olduğu için, bu durum öğrencilerin mali durumunu olumsuz etkiliyor.
+
+================================================================================
+

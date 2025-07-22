@@ -1,0 +1,71 @@
+{
+  "file_path": "news/SozcuTV/20240927_Fatih Portakal ile Sözcü Ana Haber.tr.txt",
+  "processing_timestamp": "2025-07-22T18:02:02.485562",
+  "original_word_count": 7134,
+  "filtered_word_count": 169,
+  "retention_ratio": 0.02368937482478273,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "sevgili izleyenler tarih 27 Eylül 2024...",
+      "description": "\"sevgili izleyenler tarih 27 Eylül 2024...\" - The presenter greets the viewers, introduces the date and context of the broadcast, and sets the tone for the program.",
+      "end_pos": 0
+    },
+    {
+      "type": "5. **OUTRO**",
+      "start_pos": 0,
+      "start_sentence": "sevgili izleyenler tarih 27 Eylül 2024...",
+      "description": "\"sevgili izleyenler tarih 27 Eylül 2024...\" - The program concludes with closing remarks from the presenter, summarizing the key points discussed and bidding farewell to the viewers.",
+      "end_pos": 396
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 396,
+      "start_sentence": "New York da acayip bir oyun...",
+      "description": "\"New York da acayip bir oyun...\" - The main news content begins, discussing a significant event involving the New York Mayor and allegations of bribery related to Turkish individuals and entities. This section contains multiple news stories and details about the ongoing situation.",
+      "end_pos": 888
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 888,
+      "start_sentence": "Ama tek başına karar ver bitti nokta...",
+      "description": "\"Ama tek başına karar ver bitti nokta...\" - A brief transition occurs as the presenter shifts focus from one aspect of the news to another, indicating a change in topic while still within the broader news segment.",
+      "end_pos": 1086
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1086,
+      "start_sentence": "YouTube kapak gelsin YouTube kapakta New York var...",
+      "description": "\"YouTube kapak gelsin YouTube kapakta New York var...\" - The news segment continues with further details about the New York incident, including public reactions and implications for Turkish individuals involved.",
+      "end_pos": 49178
+    }
+  ],
+  "news_segments_count": 10,
+  "economic_segments_count": 2,
+  "economic_segments": [
+    {
+      "segment_id": "1086_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 195,
+      "filtered_length": 99,
+      "retention_ratio": 0.5076923076923077,
+      "section_description": "\"YouTube kapak gelsin YouTube kapakta New York var...\" - The news segment continues with further details about the New York incident, including public reactions and implications for Turkish individuals involved."
+    },
+    {
+      "segment_id": "1086_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 142,
+      "filtered_length": 70,
+      "retention_ratio": 0.49295774647887325,
+      "section_description": "\"YouTube kapak gelsin YouTube kapakta New York var...\" - The news segment continues with further details about the New York incident, including public reactions and implications for Turkish individuals involved."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

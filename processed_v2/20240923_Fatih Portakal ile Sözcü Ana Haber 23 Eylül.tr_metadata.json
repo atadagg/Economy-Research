@@ -1,0 +1,55 @@
+{
+  "file_path": "news/SozcuTV/20240923_Fatih Portakal ile Sözcü Ana Haber 23 Eylül.tr.txt",
+  "processing_timestamp": "2025-07-22T17:58:51.759529",
+  "original_word_count": 7538,
+  "filtered_word_count": 57,
+  "retention_ratio": 0.007561687450252056,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 481,
+      "start_sentence": "İyi akşamlar Ben Fatih Portakal Türkiye'nin...",
+      "description": "\"İyi akşamlar Ben Fatih Portakal Türkiye'nin...\" - The presenter introduces themselves and welcomes viewers to the news program, establishing the context and setting the tone for the broadcast.",
+      "end_pos": 672
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 672,
+      "start_sentence": "tabela nedir diye sorduğunuzda aslında tartışmasız bir şekilde...",
+      "description": "\"tabela nedir diye sorduğunuzda aslında tartışmasız bir şekilde...\" - This section contains the main news content, discussing various topics including a recent incident involving a Greek patrol boat and other significant news stories relevant to the audience.",
+      "end_pos": 1058
+    },
+    {
+      "type": "4. **OUTRO**",
+      "start_pos": 1058,
+      "start_sentence": "bu akşamki tabelam bundan herhalde ilgili komutanlar...",
+      "description": "\"bu akşamki tabelam bundan herhalde ilgili komutanlar...\" - The closing remarks where the presenter summarizes the discussion and prepares to conclude the program, providing a final thought or reflection on the news covered.",
+      "end_pos": 1345
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 1345,
+      "start_sentence": "bir başka konu daha var Onu da YouTube kafaa taşıdık...",
+      "description": "\"bir başka konu daha var Onu da YouTube kafaa taşıdık...\" - This brief transition indicates a shift to another topic or segment within the news broadcast, signaling to the audience that a new story will be introduced.",
+      "end_pos": 51866
+    }
+  ],
+  "news_segments_count": 5,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "672_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 57,
+      "filtered_length": 57,
+      "retention_ratio": 1.0,
+      "section_description": "\"tabela nedir diye sorduğunuzda aslında tartışmasız bir şekilde...\" - This section contains the main news content, discussing various topics including a recent incident involving a Greek patrol boat and other significant news stories relevant to the audience."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

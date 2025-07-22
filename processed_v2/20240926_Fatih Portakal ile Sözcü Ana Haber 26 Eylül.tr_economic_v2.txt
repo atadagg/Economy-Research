@@ -1,0 +1,57 @@
+# Economic Content from: 20240926_Fatih Portakal ile Sözcü Ana Haber 26 Eylül.tr.txt
+# Processed: 2025-07-22T17:52:16.706501
+# Original: 7307 words → Filtered: 298 words (4.08% retention)
+# Economic segments: 4
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 75
+**Retention**: 100.00%
+
+misiniz dedi Bu sefer dedi gidemeyeceğim ama zamanım yok ama alacağım olsun dedi Oradan esinlendik
+tabela alacağım olsun bu akşam tabelam alacağım olsun hem x'te hem YouTube'da bu başlığı kullanarak
+yorumlarınızı yapabilirsiniz günün söz günüm sözü bir anonim söz Arapça Eee ve Eee Araplar arasında
+çok kullanılan anonim bir söz bir kişinin konuşup ne zaman konuşup ne zaman konuşmayacağı la alakalı
+bir durum Gereksiz kendini ispat çabası bünyeyi yorar diyor Gereksiz kendini ispat çabası bünyeyi
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 77
+**Retention**: 100.00%
+
+yorar bazen haklıyken de konuşmamanın hayrınadır ne kadar güzel söylemiş Aslında konuşmamak da bazen
+hayırlı olabiliyor yani işte bakın o o ispat çabası var ya belki de İnsanları böyle kibirli
+görünmelerine neden oluyor biraz da sus biraz da sus en güzeli Belki o geldik YouTube kapak YouTube
+kapakta siyaset var iki önemli isim var Mansur Yavaş ve Ekrem İmamoğlu çok konuşuluyor Bugünlerde
+Mansur Yavaş net konuştu bugün kameralar karşısındaydı canlı hem de ve yavaş ile İmamoğlu arasında
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 94
+**Retention**: 47.24%
+
+Yurt dışından cep telefonu getirmek de artık mazide kalacak gibi. Çünkü cep telefonu kayıt ücretine 15,000 lira birden zam geliyor. Vergilerden dolayı telefon alımında devlete de ödeme yapmak gerekiyor. Cep telefonuna verginin vergisi eklenince, bir telefon satın almak için yüksek maliyetler ortaya çıkıyor. Normalde cep telefonları eskiden çok ucuzdu, ancak son yıllarda fiyatlar sürekli artıyor. 2015 yılında 131 lira olan kayıt ücreti, 2023 yılının Ocak ayında 6,000 lira yükseldi. Daha 6 ay geçmişken, kayıt ücreti 20,000 liraya çıktı ve 2024'te 31,000 lira olması bekleniyor. Bu artışlar, genel ekonomik koşullar ve enflasyon ile doğrudan bağlantılı.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 52
+**Retention**: 78.79%
+
+Ücreti yeni yılda yeniden değerleme oranına göre belirlenecek en az % 45'lik bir zam bekleniyor. En pahalısı yurt dışında 799 dolara yani 54,366 liraya satılan iPhone'un yeni modeli ise Türkiye'de kara borsaya düştü. Kara borsada 138 liraya satışa sunulan iPhone 16 Pro Max, % ÖTV ve % KDV ile 119,99 liraya satılmakta.
+
+================================================================================
+

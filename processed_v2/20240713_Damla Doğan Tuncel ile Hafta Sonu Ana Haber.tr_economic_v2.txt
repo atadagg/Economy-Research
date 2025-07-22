@@ -1,0 +1,103 @@
+# Economic Content from: 20240713_Damla Doğan Tuncel ile Hafta Sonu Ana Haber.tr.txt
+# Processed: 2025-07-22T18:05:56.067863
+# Original: 5546 words → Filtered: 802 words (14.46% retention)
+# Economic segments: 8
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 81
+**Retention**: 35.22%
+
+Aylık harcamaları 5 milyon liranın üzerinde olup hiç gelir beyan etmeyen kişileri gerçek kazançlarını vergilendirmek üzere denetim kapsamına alıyoruz. Amaç, vergide adaleti artırma ve kayıt dışılığı azaltmaya yönelik çalışmalarımızın devam etmesidir. Bu sayede gerçek gelirlerini vergilendirilmiş detaylarda öğreniyoruz. Mehmet Şimşek'in bu açıklamasından sonra 800 kişi bu tanıma giriyormuş; bahsi geçen 5 milyon liranın üzerinde kazanan ama gelir beyan etmeyen bu ülkede 800 kişi varmış. Sadece 800 kişi, sosyal medyadaki fenomenlere baksanız 800'den fazladır. Sadece bunların peşine düşülmüş, vergide adalet dediğimiz buymuş.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 106
+**Retention**: 30.29%
+
+İstanbul Beykoz'da otomobiliyle bir motosikletliye çarptı ve o kazada 16 yaşındaki bir çocuk hayatını kaybetti. Bu olay, toplumda adaletin nasıl işlediğine dair tartışmalara yol açtı. Öte yandan, Türkiye'deki ekonomik durum ve adalet sisteminin işleyişi üzerine yapılan yorumlar dikkat çekiyor. 
+
+Ödediğimiz primler ve vergilerin nereye gittiği konusunda endişeler var. Emeklilik sisteminin sürdürülebilirliği ve emeklilere yapılan ödemelerin durumu, ekonomik bir tartışma konusu haline geldi. Bu bağlamda, hükümetin ekonomik politikaları ve sosyal güvenlik sisteminin işleyişi üzerine eleştiriler gündeme geliyor. 
+
+Ayrıca, Türkiye'nin genel ekonomik durumu ve insanların hayat standartları üzerine yapılan değerlendirmeler, toplumda geniş yankı buluyor. Ekonomik verilerin ve istatistiklerin, halkın yaşam kalitesi üzerindeki etkileri, bu tartışmaların merkezinde yer alıyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 170
+**Retention**: 52.63%
+
+Devlet Demiryolları taşımacılığı yüksek hızlı tren biletlerine dün gece yarısı % 25,6 zam yaptı. Yüksek hızlı trende zamlar Ankara ve İstanbul arasıyla sınırlı kalmadı, tüm hatlarda bilet fiyatları da zamdan nasibini aldı. Ankara Konya bilet fiyatı 200 liradan 250 liraya, Ankara Eskişehir hattındaki bilet fiyatı 225 liradan 280 liraya yükseltildi. Konya İstanbul bilet fiyatı ise 630 liradan 790 liraya, Konya Eskişehir bilet fiyatı 290 liradan 390 liraya, Konya Sivas bilet fiyatı 675 liradan 800 liraya, Konya Karaman bilet fiyatı 110 liradan 175 liraya, Konya İzmit hızlı tren bileti de 600 liradan 750 liraya çıkarıldı. 
+
+İktidar enflasyonu düşürmek için ücretlere zam kapısını kapattı, ama kamunun yönettiği ve yönlendirdiği fiyatların zamlanması kapıyı sonuna kadar açtı. Şimdi asgari ücrete eğer % 25 zam yapılmazsa, kamuda memur, işçi ve özel sektörde çalışanların vergi yükü yılın ikinci diliminde 5100 lira artacak. Yani hem asgari ücretli dimyata pirince gidemeyecek hem de kam ve özel sektörde çalışan evdeki bulgurundan olacak. Eğer asgari ücrete % zam yapılmazsa, milyonlarca memur, işçi ve özel sektör çalışanına ek vergi yükü binecek.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 117
+**Retention**: 73.58%
+
+2022'de çıkarılan düzenleme ile asgari geçim indirimi kaldırıldı ve asgari ücret üzerinden gelir vergisi alınmaması sağlandı. Asgari ücrete yapılan her zamla tüm ücretli çalışanların vergi muafiyeti de otomatik olarak artmaya başladı. O artış vergide düşüşü getirdi; yani asgari ücret zam yapmazlarsa, normalde kesilen vergiler otomatikman yükselecek. Geçen yıl 8506 olan asgari ücret 11,402'ye çıkınca, devlet memuru 2,6 aylık dilimde 3477 lira daha az vergi ödedi. Bu yılda aram olmayınca, kamuda ve özel sektörde çalışanın vergi yükü arttı. Asgari ücrette bir geçim sağlanabiliyor mu? Hayır, bir de artı zamı vermeyip üstüne de kaşıkla verdiğini kepçeyle alıyorsun. Dar gelirli vatandaşı bitirmiş oluyorsun; yani nefes alma olasılığı kalmadı. Bu ay asgari ücrete zam yapılmazsa, acı fatura diğer çalışanlardan da çıkacak.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 69
+**Retention**: 38.33%
+
+Birçok işveren, asgari ücrete zam gelmediği gerekçesiyle çalışanlara zam yapmayacak. Kamuda ve özel sektörde çalışanlar, asgari ücretin artmaması nedeniyle zor durumda kalacak. Milyonlarca emekli de en düşük emekli maaşının artıp artmayacağı konusunda haber bekliyor. AK Parti tarafından iktidardan bir açıklama yapılacağı ve hafta başında bir çalışma tamamlanacağı bildirildi. Kulislerde, en düşük emekli maaşının 10,000 liradan 12,000 liraya çıkarılacağı konuşuluyor. Bu durum, emeklilerin refah payı ve ek zam beklentilerini etkileyebilir.
+
+================================================================================
+
+## Economic Segment 6
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 60
+**Retention**: 34.09%
+
+Milyonlarca emeklinin gözü kulağı iktidardan gelecek zam haberinde en düşük emekli maaşı 10.000 lirayla geçinmeye çalışan yaklaşık 2 milyon emekliye 2.000 lira zam yapılacağı konuşuluyor. Emekli maaşlarının asgari ücret seviyesine çıkarılması talebi gündemde. Ancak iktidar bu isteklere kapıyı kapattı. Ekonomik koşulların zorlayıcı olduğu bu dönemde, emeklilerin geçim sıkıntısı yaşadığı belirtiliyor. Bu bağlamda, emekli maaşlarına yapılacak zamların yetersiz olduğu ifade ediliyor.
+
+================================================================================
+
+## Economic Segment 7
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 104
+**Retention**: 40.94%
+
+İstanbul Planlama Ajansı, İstanbul'da hanelerin %34,9'unun kıt kanaat geçindiğini açıkladı. Hanelerin %53,50'si ise konuşulan tek konunun ekonomi olduğunu belirtiyor. En endişe verici sorun ise kira fiyatları. Kira artışları, 3 yıl önce 1600 liraya kiralanan bir evin kirasının 8 katına çıkmasıyla dikkat çekiyor. 
+
+Kira artışları, emeklilerin geçimlerini zorlaştırıyor; bir emekli maaşı 12 lira iken, kiralar 10 lira seviyelerine ulaşmış durumda. Bu durum, birçok kişinin çalışmak zorunda kalmasına neden oluyor. Ekonomik sıkıntılar, İstanbul'da yaşayanların en büyük korkusu haline gelmiş durumda. 
+
+İstanbul'da geçim sıkıntısı yaşayanların sayısı artarken, bu durumun ekonomik etkileri de derinleşiyor. Ekonomik veriler, hanelerin geçim sıkıntısını ve kira artışlarının etkisini net bir şekilde ortaya koyuyor.
+
+================================================================================
+
+## Economic Segment 8
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 95
+**Retention**: 39.26%
+
+Haziran ayı turizmciler için çok kötü geçti. Emlakçılar, geçen sezonu mumla arıyoruz diyor. Ege'nin gözbebeği Çeşme'de turizm sezonu son 10 yılın en durgun sezonunu yaşıyor. Doluluk oranları bayramlarda %100'e yakındı, fakat bayram sonrasında bir boşluk yaşadık. Hayat pahalılığı ve yazlık bölgelerin pahalılığı, Yunan adalarında kapı vizesi kolaylığı ve Avrupa Euro 2024 turnuvası, Ege'nin son zamanlarda tatilciler tarafından daha az tercih edilme sebebi oldu. Özellikle yabancı turist sayısında ciddi bir düşüş var. Haziran ayı hem emlak hem de turizm sektörü için kötü geçti. Fiyatlar da biraz pahalı, haliyle insanlar ekonomik olarak daha uygun yerleri tercih ediyor.
+
+================================================================================
+

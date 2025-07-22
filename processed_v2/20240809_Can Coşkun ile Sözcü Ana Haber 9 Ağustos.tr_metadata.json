@@ -1,0 +1,89 @@
+{
+  "file_path": "news/SozcuTV/20240809_Can Coşkun ile Sözcü Ana Haber 9 Ağustos.tr.txt",
+  "processing_timestamp": "2025-07-22T17:51:54.219449",
+  "original_word_count": 6978,
+  "filtered_word_count": 377,
+  "retention_ratio": 0.05402694181713958,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "Hedef Team paribu sıradaki hedefinde de yanında Özcan Haber'e Hoş geldiniz...",
+      "description": "\"Hedef Team paribu sıradaki hedefinde de yanında Özcan Haber'e Hoş geldiniz...\" - The opening segment introduces the program and the presenter, setting the stage for the news content that follows.",
+      "end_pos": 199
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 199,
+      "start_sentence": "Bu yüzden bahane çok tabelasında bugün dertleşecek 2024 Cuma iki anketimizi görelim...",
+      "description": "\"Bu yüzden bahane çok tabelasında bugün dertleşecek 2024 Cuma iki anketimizi görelim...\" - This section contains the main news stories, including discussions about various topics such as street dogs in Ankara and economic issues affecting retirees.",
+      "end_pos": 679
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 679,
+      "start_sentence": "Ama biz yorumunuzu soruyoruz Hani öldürmeyecek diniz işkenceciler hesap versin...",
+      "description": "\"Ama biz yorumunuzu soruyoruz Hani öldürmeyecek diniz işkenceciler hesap versin...\" - This brief transition connects different news stories, moving from one topic to another while inviting audience engagement.",
+      "end_pos": 876
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 876,
+      "start_sentence": "Elbette emeklilere % 5 ile % 50 indirim için işte 5500 den fazla işletmeyle bir araya gelmişler...",
+      "description": "\"Elbette emeklilere % 5 ile % 50 indirim için işte 5500 den fazla işletmeyle bir araya gelmişler...\" - This part continues with more detailed news content, focusing on economic measures for retirees and public reactions.",
+      "end_pos": 1461
+    },
+    {
+      "type": "5. **NEWS**",
+      "start_pos": 1461,
+      "start_sentence": "Hızlıca ama öncesinde acı haberler aldık biliyorsunuz onunla başaca Polatlı...",
+      "description": "\"Hızlıca ama öncesinde acı haberler aldık biliyorsunuz onunla başaca Polatlı...\" - This section introduces a tragic news story about a traffic accident, providing details about the incident and its consequences.",
+      "end_pos": 50442
+    }
+  ],
+  "news_segments_count": 13,
+  "economic_segments_count": 4,
+  "economic_segments": [
+    {
+      "segment_id": "876_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 81,
+      "filtered_length": 66,
+      "retention_ratio": 0.8148148148148148,
+      "section_description": "\"Elbette emeklilere % 5 ile % 50 indirim için işte 5500 den fazla işletmeyle bir araya gelmişler...\" - This part continues with more detailed news content, focusing on economic measures for retirees and public reactions."
+    },
+    {
+      "segment_id": "1461_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 192,
+      "filtered_length": 104,
+      "retention_ratio": 0.5416666666666666,
+      "section_description": "\"Hızlıca ama öncesinde acı haberler aldık biliyorsunuz onunla başaca Polatlı...\" - This section introduces a tragic news story about a traffic accident, providing details about the incident and its consequences."
+    },
+    {
+      "segment_id": "1461_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 130,
+      "filtered_length": 115,
+      "retention_ratio": 0.8846153846153846,
+      "section_description": "\"Hızlıca ama öncesinde acı haberler aldık biliyorsunuz onunla başaca Polatlı...\" - This section introduces a tragic news story about a traffic accident, providing details about the incident and its consequences."
+    },
+    {
+      "segment_id": "1461_5",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 200,
+      "filtered_length": 92,
+      "retention_ratio": 0.46,
+      "section_description": "\"Hızlıca ama öncesinde acı haberler aldık biliyorsunuz onunla başaca Polatlı...\" - This section introduces a tragic news story about a traffic accident, providing details about the incident and its consequences."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

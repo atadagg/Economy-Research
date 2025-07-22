@@ -1,0 +1,38 @@
+# Economic Content from: 20240627_Can Coşkun ile Sözcü Ana Haber 27 Haziran.tr.txt
+# Processed: 2025-07-22T18:05:00.494880
+# Original: 6863 words → Filtered: 250 words (3.64% retention)
+# Economic segments: 3
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 100
+**Retention**: 40.32%
+
+Geçinmeye çalışırken ay sonunu nasıl getireceğini düşünüyor pek çoğu da ekstra iş yapmak zorunda. 1 kilo buğdaya bir simit alamıyorum, simit para etmiyor. Emeklilerin beklentisi KYK yurtlarının ücretsiz olmasından çok refah seviyesinin artırılması ve ekonomik kaygıların bir an önce giderilmesi. Ekonominin düzelme ihtimali bu iktidarla imkansız görüşünü bitirmiş zaten. Birçok yerde paketlerin gramajları düştüğü gerçeğiyle karşılaşıyoruz. Tüketicinin aleyhine işlemeye de devam eden süreç artık hiçbir hesabı tutturamıyor. Refet Selçuk der ki, cumhuriyet tarihinin en kötü ekonomi yönetimi, ekonomi olalı böyle basiretsizlik görmedi. Zam kapısının kapalı tutulmaya devam edildiği gerçeğiyle yüzleşelim. Asgari ücretliler Ocak ayında zam yapıldığında Temmuz ayında herhalde 20...
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 84
+**Retention**: 41.38%
+
+Ekonomik şartları işaret eden muhalefet asgari ücrete ara zam yapılması gerektiğini savunuyor. 2024'e asgari ücrete yapılan % 49 zam, % 75'i aşan enflasyon nedeniyle hayat her geçen gün pahalılaştı. Ancak Hasan'ın asgari maaşı aynı kaldı. Hasan'ın alım gücü o tarihten bugüne yaklaşık 3900 lira eridi. Ekonomik krizin alım gücünden yarattığı büyük aşınma, milyonlarca işçiyi, emekliyi ve memuru eziyor. Her geçen gün düşen alım gücü, sokağı zora sokmaya devam ediyor. Milyonlar, giderek derinleşen ekonomik darboğazdan çıkış için çözüm bekliyor. Yoksulluk sınırı son bir yılda 28...
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 66
+**Retention**: 41.51%
+
+Asgari ücret 21 liralık artış kaydetti. Zam gelmesi bizim için bir şey değiştirmiyor; biz her halükarda ezilmeye mahkum bir toplumuz. Ancak emekli asgari ücret ve memurlar rahat nefes alabilir. Ekonomi yönetimimiz vergi konusunda taslakları sırıp nabız ölçmeye devam ediyor. Emekli sadece ve sadece enflasyon farkını beklerken, emekli milletvekili temmuzda asgari ücret zammının 11,640 TL olacağını belirtti. Bu durum, emeklilerin yaşam standartları üzerinde önemli bir etki yaratabilir.
+
+================================================================================
+

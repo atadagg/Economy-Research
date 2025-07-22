@@ -1,0 +1,89 @@
+{
+  "file_path": "news/SozcuTV/20240926_Fatih Portakal ile Sözcü Ana Haber 26 Eylül.tr.txt",
+  "processing_timestamp": "2025-07-22T17:52:16.706501",
+  "original_word_count": 7307,
+  "filtered_word_count": 298,
+  "retention_ratio": 0.040782811003147665,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "İyi akşamlar Ben Fatih Portakal Türkiye'nin en farklı ana haber bültenine Hoş geldiniz sevgili izleyenler...",
+      "description": "\"İyi akşamlar Ben Fatih Portakal Türkiye'nin en farklı ana haber bültenine Hoş geldiniz sevgili izleyenler...\" - This section serves as the opening of the news broadcast, where the presenter introduces themselves and welcomes the viewers, setting the stage for the program.",
+      "end_pos": 381
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 381,
+      "start_sentence": "Bu sefer dedi gidemeyeceğim ama zamanım yok ama alacağım olsun dedi Oradan esinlendik tabela alacağım olsun...",
+      "description": "\"Bu sefer dedi gidemeyeceğim ama zamanım yok ama alacağım olsun dedi Oradan esinlendik tabela alacağım olsun...\" - This section contains the actual news content, discussing various political figures and their statements, as well as public sentiment regarding current events.",
+      "end_pos": 879
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 879,
+      "start_sentence": "Aslında konuşmamak da bazen hayırlı olabiliyor yani işte bakın o o ispat çabası var ya belki de İnsanları böyle kibirli görünmelerine neden oluyor...",
+      "description": "\"Aslında konuşmamak da bazen hayırlı olabiliyor yani işte bakın o o ispat çabası var ya belki de İnsanları böyle kibirli görünmelerine neden oluyor...\" - This section continues the news content, elaborating on the implications of public figures' statements and the societal context surrounding them.",
+      "end_pos": 1369
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 1369,
+      "start_sentence": "gelsin YouTube soru YouTube soruda eee Sizce toplumun mutlu kesimi hangisi diye bir soru sorduk...",
+      "description": "\"gelsin YouTube soru YouTube soruda eee Sizce toplumun mutlu kesimi hangisi diye bir soru sorduk...\" - This brief transition introduces a new topic or segment related to the ongoing discussion, specifically a question posed to the audience regarding public sentiment.",
+      "end_pos": 1945
+    },
+    {
+      "type": "5. **OUTRO**",
+      "start_pos": 1945,
+      "start_sentence": "Ve tabii ki bu kadar çok üstüne konu...",
+      "description": "\"Ve tabii ki bu kadar çok üstüne konu...\" - This section serves as a closing remark, summarizing the discussion and potentially leading towards the end of the program.",
+      "end_pos": 49786
+    }
+  ],
+  "news_segments_count": 9,
+  "economic_segments_count": 4,
+  "economic_segments": [
+    {
+      "segment_id": "381_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 75,
+      "filtered_length": 75,
+      "retention_ratio": 1.0,
+      "section_description": "\"Bu sefer dedi gidemeyeceğim ama zamanım yok ama alacağım olsun dedi Oradan esinlendik tabela alacağım olsun...\" - This section contains the actual news content, discussing various political figures and their statements, as well as public sentiment regarding current events."
+    },
+    {
+      "segment_id": "879_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 77,
+      "filtered_length": 77,
+      "retention_ratio": 1.0,
+      "section_description": "\"Aslında konuşmamak da bazen hayırlı olabiliyor yani işte bakın o o ispat çabası var ya belki de İnsanları böyle kibirli görünmelerine neden oluyor...\" - This section continues the news content, elaborating on the implications of public figures' statements and the societal context surrounding them."
+    },
+    {
+      "segment_id": "1945_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 199,
+      "filtered_length": 94,
+      "retention_ratio": 0.4723618090452261,
+      "section_description": "\"Ve tabii ki bu kadar çok üstüne konu...\" - This section serves as a closing remark, summarizing the discussion and potentially leading towards the end of the program."
+    },
+    {
+      "segment_id": "1945_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 66,
+      "filtered_length": 52,
+      "retention_ratio": 0.7878787878787878,
+      "section_description": "\"Ve tabii ki bu kadar çok üstüne konu...\" - This section serves as a closing remark, summarizing the discussion and potentially leading towards the end of the program."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

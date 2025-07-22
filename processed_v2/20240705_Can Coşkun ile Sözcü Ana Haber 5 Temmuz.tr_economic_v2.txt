@@ -1,0 +1,41 @@
+# Economic Content from: 20240705_Can Coşkun ile Sözcü Ana Haber 5 Temmuz.tr.txt
+# Processed: 2025-07-22T17:56:41.878154
+# Original: 7137 words → Filtered: 180 words (2.52% retention)
+# Economic segments: 3
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 36
+**Retention**: 32.14%
+
+Ekonomiyi, yani gerçek derdimizi tasamızı da konuşmak gerekiyor. Çünkü ekonomide zam yok. Emekliye ne kadar refah payı verilecek? % 247 oranında mı kalacak? Zamlar olurdu, olmazdı. Bugün kime atılan adımlar sosyal medyada çeşitli yorumları beraberinde getiriyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: pattern_validated
+**Confidence**: 0.75
+**Word Count**: 56
+**Retention**: 100.00%
+
+nedir beklenen oluyor mu diyorsunuz ya bu kadarı da fazla delirtiyor size daha bitmedi bakalım mı
+diyorsunuz yoksa hayır hayır gerçekler ortaya çıkar Merak etmeyin diyenlerden misiniz Bir de x
+hesabından sorduk Efendim Bu kez bir sıralama talep ediyoruz size daha doğrusu öncelik talep
+ediyoruz şudur ülkemizde hangisindeki sorunlar giderilirse diğerlerini olumlu etki eder Yani önce
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 88
+**Retention**: 46.81%
+
+Hazine ve Maliye Bakanı Mehmet Şimşek'in maaşına 47.000 Lira zam yapılmış. TÜİK, son bir yılın en düşük enflasyonunu Haziran ayında hesapladı. Memur ve emekliye yapılacak zam öncesi enflasyon kağıt üzerinde düştü. Yaklaşık 4 milyon emekli Temmuz ayında emekli maaşına bir kuruş dahi zam alamadı. Türkiye'de kök maaşı 8.500 liranın altında olan emekliye zam yapılmadı. Ancak milletvekili ve bakanların maaşlarına on binlerce lira zam geldi. Son zamlarla birlikte emekli olan kabine üyelerinin maaşı 47.000 Lira birden arttı. Hem emekli olup hem de milletvekili olanların maaşı da 47.000 Lira yükseldi.
+
+================================================================================
+

@@ -1,0 +1,125 @@
+{
+  "file_path": "news/SozcuTV/20240907_Gülinay Selçuk ile Haber Bülteni 7 Eylül.tr.txt",
+  "processing_timestamp": "2025-07-22T17:54:40.131250",
+  "original_word_count": 32665,
+  "filtered_word_count": 579,
+  "retention_ratio": 0.017725394152762895,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "58'i gösteriyor 13 bültenimiz dakikaları içerisindeyiz",
+      "description": "\"58'i gösteriyor 13 bültenimiz dakikaları içerisindeyiz\" - The presenter introduces the program and sets the stage for the news content, mentioning the focus on significant developments in Ankara and the CHP's activities.",
+      "end_pos": 90
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 90,
+      "start_sentence": "Ama bir kulağımız Ankara'da Çünkü CHP'de Hummalı bir tüzük çalışması...",
+      "description": "\"Ama bir kulağımız Ankara'da Çünkü CHP'de Hummalı bir tüzük çalışması...\" - This section contains the main news content, discussing the CHP's extraordinary congress, the significance of the Sivas Congress anniversary, and various political updates, including statements from party leaders and ongoing legal cases.",
+      "end_pos": 1259
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 1259,
+      "start_sentence": "Önümüzdeki dakikalarda İstanbul Büyükşehir Belediye başkanı Ekrem İmamoğlu kürsüde olacak döneceğiz",
+      "description": "\"Önümüzdeki dakikalarda İstanbul Büyükşehir Belediye başkanı Ekrem İmamoğlu kürsüde olacak döneceğiz\" - A brief transition indicating a shift to coverage of another news story involving the Istanbul Mayor, signaling a change in focus within the news segment.",
+      "end_pos": 1350
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1350,
+      "start_sentence": "Düne şöyle bir baktığımızda dünün geç saatlerine kadar gündemi yeterince meşgul eden...",
+      "description": "\"Düne şöyle bir baktığımızda dünün geç saatlerine kadar gündemi yeterince meşgul eden...\" - This part continues with more news content, specifically detailing the developments in the Polatlar case and the reactions surrounding it.",
+      "end_pos": 1912
+    },
+    {
+      "type": "5. **OUTRO**",
+      "start_pos": 1912,
+      "start_sentence": "Ve ilerleyen saatlerde de Eee başsavcılı",
+      "description": "\"Ve ilerleyen saatlerde de Eee başsavcılı\" - The closing remarks of the program, indicating the end of the news segment and possibly leading into a conclusion or wrap-up.",
+      "end_pos": 225596
+    }
+  ],
+  "news_segments_count": 34,
+  "economic_segments_count": 8,
+  "economic_segments": [
+    {
+      "segment_id": "1350_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 80,
+      "filtered_length": 80,
+      "retention_ratio": 1.0,
+      "section_description": "\"Düne şöyle bir baktığımızda dünün geç saatlerine kadar gündemi yeterince meşgul eden...\" - This part continues with more news content, specifically detailing the developments in the Polatlar case and the reactions surrounding it."
+    },
+    {
+      "segment_id": "1912_0",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 360,
+      "filtered_length": 109,
+      "retention_ratio": 0.30277777777777776,
+      "section_description": "\"Ve ilerleyen saatlerde de Eee başsavcılı\" - The closing remarks of the program, indicating the end of the news segment and possibly leading into a conclusion or wrap-up."
+    },
+    {
+      "segment_id": "1912_6",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 176,
+      "filtered_length": 73,
+      "retention_ratio": 0.4147727272727273,
+      "section_description": "\"Ve ilerleyen saatlerde de Eee başsavcılı\" - The closing remarks of the program, indicating the end of the news segment and possibly leading into a conclusion or wrap-up."
+    },
+    {
+      "segment_id": "1912_12",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 185,
+      "filtered_length": 77,
+      "retention_ratio": 0.41621621621621624,
+      "section_description": "\"Ve ilerleyen saatlerde de Eee başsavcılı\" - The closing remarks of the program, indicating the end of the news segment and possibly leading into a conclusion or wrap-up."
+    },
+    {
+      "segment_id": "1912_16",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 57,
+      "filtered_length": 48,
+      "retention_ratio": 0.8421052631578947,
+      "section_description": "\"Ve ilerleyen saatlerde de Eee başsavcılı\" - The closing remarks of the program, indicating the end of the news segment and possibly leading into a conclusion or wrap-up."
+    },
+    {
+      "segment_id": "1912_18",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 107,
+      "filtered_length": 65,
+      "retention_ratio": 0.6074766355140186,
+      "section_description": "\"Ve ilerleyen saatlerde de Eee başsavcılı\" - The closing remarks of the program, indicating the end of the news segment and possibly leading into a conclusion or wrap-up."
+    },
+    {
+      "segment_id": "1912_23",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 189,
+      "filtered_length": 67,
+      "retention_ratio": 0.3544973544973545,
+      "section_description": "\"Ve ilerleyen saatlerde de Eee başsavcılı\" - The closing remarks of the program, indicating the end of the news segment and possibly leading into a conclusion or wrap-up."
+    },
+    {
+      "segment_id": "1912_24",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 60,
+      "filtered_length": 60,
+      "retention_ratio": 1.0,
+      "section_description": "\"Ve ilerleyen saatlerde de Eee başsavcılı\" - The closing remarks of the program, indicating the end of the news segment and possibly leading into a conclusion or wrap-up."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

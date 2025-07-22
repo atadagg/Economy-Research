@@ -1,0 +1,142 @@
+{
+  "file_path": "news/SozcuTV/20240706_Damla Doğan Tuncel ile Hafta Sonu Ana Haber.tr.txt",
+  "processing_timestamp": "2025-07-22T17:48:27.354751",
+  "original_word_count": 5423,
+  "filtered_word_count": 568,
+  "retention_ratio": 0.10473907431311083,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "der niçe Bugün bizim çocuklar...",
+      "description": "\"der niçe Bugün bizim çocuklar...\" - The opening segment introduces the topic of the broadcast, mentioning the A national football team's upcoming match against the Netherlands and setting the tone for the discussion about football and related issues.",
+      "end_pos": 0
+    },
+    {
+      "type": "- **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "der niçe Bugün bizim çocuklar...",
+      "description": "\"der niçe Bugün bizim çocuklar...\" - Introduction to the broadcast and main topics.",
+      "end_pos": 192
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 192,
+      "start_sentence": "Ama bu heyecan kadar...",
+      "description": "\"Ama bu heyecan kadar...\" - This section contains the main news content, discussing various topics including the football match, the penalty given to Merih Demirel, and broader social issues such as economic conditions and political commentary. It includes multiple news stories and transitions between them.",
+      "end_pos": 192
+    },
+    {
+      "type": "- **NEWS**",
+      "start_pos": 192,
+      "start_sentence": "Ama bu heyecan kadar...",
+      "description": "\"Ama bu heyecan kadar...\" - Main news content discussing football and social issues.",
+      "end_pos": 584
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 584,
+      "start_sentence": "Diğer yandan Tabii çifte standart...",
+      "description": "\"Diğer yandan Tabii çifte standart...\" - This brief transition connects the discussion about the football match to broader social issues, indicating a shift in focus while maintaining the overall theme of the broadcast.",
+      "end_pos": 584
+    },
+    {
+      "type": "- **TRANSITION**",
+      "start_pos": 584,
+      "start_sentence": "Diğer yandan Tabii çifte standart...",
+      "description": "\"Diğer yandan Tabii çifte standart...\" - Transition to broader social issues.",
+      "end_pos": 1065
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1065,
+      "start_sentence": "Boğaziçi Üniversitesi diyeceğiz...",
+      "description": "\"Boğaziçi Üniversitesi diyeceğiz...\" - This section continues with more news content, specifically mentioning a story related to Boğaziçi University and political dynamics involving CHP representatives and AKP officials.",
+      "end_pos": 1065
+    },
+    {
+      "type": "- **NEWS**",
+      "start_pos": 1065,
+      "start_sentence": "Boğaziçi Üniversitesi diyeceğiz...",
+      "description": "\"Boğaziçi Üniversitesi diyeceğiz...\" - Continued news content about Boğaziçi University.",
+      "end_pos": 1361
+    },
+    {
+      "type": "5. **OUTRO**",
+      "start_pos": 1361,
+      "start_sentence": "Ana Haber başlıyor...",
+      "description": "\"Ana Haber başlıyor...\" - This closing segment wraps up the broadcast, emphasizing the excitement for the football match and the collective sentiment of the nation regarding the issues discussed.",
+      "end_pos": 1361
+    },
+    {
+      "type": "- **OUTRO**",
+      "start_pos": 1361,
+      "start_sentence": "Ana Haber başlıyor...",
+      "description": "\"Ana Haber başlıyor...\" - Closing remarks and summary of the broadcast.",
+      "end_pos": 38967
+    }
+  ],
+  "news_segments_count": 11,
+  "economic_segments_count": 6,
+  "economic_segments": [
+    {
+      "segment_id": "584_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 66,
+      "filtered_length": 57,
+      "retention_ratio": 0.8636363636363636,
+      "section_description": "\"Diğer yandan Tabii çifte standart...\" - Transition to broader social issues."
+    },
+    {
+      "segment_id": "1361_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 148,
+      "filtered_length": 105,
+      "retention_ratio": 0.7094594594594594,
+      "section_description": "\"Ana Haber başlıyor...\" - Closing remarks and summary of the broadcast."
+    },
+    {
+      "segment_id": "1361_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 224,
+      "filtered_length": 138,
+      "retention_ratio": 0.6160714285714286,
+      "section_description": "\"Ana Haber başlıyor...\" - Closing remarks and summary of the broadcast."
+    },
+    {
+      "segment_id": "1361_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 105,
+      "filtered_length": 73,
+      "retention_ratio": 0.6952380952380952,
+      "section_description": "\"Ana Haber başlıyor...\" - Closing remarks and summary of the broadcast."
+    },
+    {
+      "segment_id": "1361_6",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 164,
+      "filtered_length": 68,
+      "retention_ratio": 0.4146341463414634,
+      "section_description": "\"Ana Haber başlıyor...\" - Closing remarks and summary of the broadcast."
+    },
+    {
+      "segment_id": "1361_8",
+      "method": "simple_final",
+      "confidence": 0.5,
+      "original_length": 335,
+      "filtered_length": 127,
+      "retention_ratio": 0.37910447761194027,
+      "section_description": "\"Ana Haber başlıyor...\" - Closing remarks and summary of the broadcast."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

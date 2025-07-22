@@ -1,0 +1,75 @@
+# Economic Content from: 20240806_Can Coşkun ile Sözcü Ana Haber 6 Ağustos.tr.txt
+# Processed: 2025-07-22T17:31:38.900022
+# Original: 6608 words → Filtered: 506 words (7.66% retention)
+# Economic segments: 6
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 127
+**Retention**: 50.40%
+
+Türkiye'nin enflasyon verileri, Temmuz ayında TÜİK tarafından açıklandı. Ekonomistler, bu verilerle birlikte enflasyon sepetini ve madde sepetini gündeme getiriyorlar. TÜİK, hangi verileri dikkate aldığını ve ne kadar ölçtüğünü belirtiyor. Örneğin, ev kiraları ve gıda fiyatları gibi temel harcama kalemleri, enflasyon hesaplamalarında önemli bir yer tutuyor. 
+
+Maaşlar, ödemeler ve geçim derdi gibi konular, halkın ekonomik sıkıntılarını artıran unsurlar arasında yer alıyor. Gıda enflasyonu, özellikle dar gelirli aileler için büyük bir sorun teşkil ediyor. Bu durum, hükümetin ekonomik politikalarını ve sosyal yardımlarını gözden geçirmesine neden olabilir. 
+
+Ayrıca, ekonomik verilerin güvenilirliği ve istatistik kurumlarının rolü, toplumda büyük bir ilgiyle takip ediliyor. Ekonomik göstergelerin doğru bir şekilde analiz edilmesi, yatırımcılar ve piyasa aktörleri için kritik öneme sahip. Bu bağlamda, ekonomistlerin görüşleri ve analizleri, piyasalardaki dalgalanmaları anlamak için önemli bir kaynak oluşturuyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 52
+**Retention**: 67.53%
+
+Emeklisi memuru asgari ücretlisi burada, TÜİK'in 6,000 liralık kira bedeli üzerinden hesap yapmasına ilişkin eleştiriler var. Halkın aklını küçümsüyorlar. Her an daha da yoksullaşan bir toplumla karşı karşıyayız. Peki, ne oluyor? 1+1 konutların kirası Anadolu'nun herhangi bir ilçesinde bile 10,000 liranın üzerine çıkmışken, kiraların bu seviyelerde olması ekonomik bir sorun teşkil ediyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 114
+**Retention**: 45.06%
+
+Ekonomist Alaattin Aktaş, Temmuz enflasyon sepetindeki fiyat değişimlerini analiz etti. Enflasyon sepetinde yer alan 75 kalemi yapay zekaya 3 saatte hesaplattı. Bu hesaplamalar, gıda enflasyonu ve genel fiyat artışları hakkında önemli veriler sunuyor. Örneğin, bazı ürünlerin fiyatları arasında neredeyse 20 liralık bir fark olduğu görülüyor. Market tezgahındaki fiyatlar, resmi verilere göre çok daha yüksek. Örneğin, bir ürünün fiyatı 2 lira 37 kuruş olarak belirtilirken, markette 99 lira 50 kuruş olarak satılmakta. Ayrıca, yumurta fiyatları 3 liradan 60 liraya kadar yükseldi. Bu durum, tüketicilerin alım gücünü ciddi şekilde etkiliyor. Özel üniversitelerin bazı bölüm ücretleri de milyonları aşmış durumda, bu da eğitim maliyetlerinin artışını gösteriyor. Bu ekonomik veriler, Türkiye'deki enflasyon ve yaşam maliyetleri konusundaki endişeleri artırıyor.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 71
+**Retention**: 40.34%
+
+İstanbul Büyükşehir Belediyesi'ne bağlı planlama Ajansı İstanbul'da yaşam maliyetini hesapladı. Buna göre temmuzda 4 kişilik bir ailenin ortalama yaşam maliyeti geçtiğimiz aya göre 3026 artarak 6550 lira yükseldi. Listesine göre fiyat artışında ilk sıra TÜİK'in sepetinde litresi sadece 116 lira olan zeytinyağı var; zeytinyağının fiyatı bir ayda % 1112 arttı. TÜİK verilerine göre, kiralık konut fiyatları da önemli bir artış gösterdi. Bu veriler, Türkiye'deki ekonomik durumun ve yaşam maliyetinin yükseldiğini gösteriyor.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 94
+**Retention**: 56.29%
+
+Türkiye İstatistik Kurumu'nun Temmuz ayı enflasyon sepetinde konut kirası ortalama 6,000 L olarak belirlenmiştir. Ancak, gerçek kiralar TÜİK'in sepetinden epey uzakta kalmaktadır. İstanbul Avrupa yakasında Merkez ilçelerden Beşiktaş'ta 2 + 1 dairenin kirası ortalama 30 ila 35,000 liradan başlamaktadır. Bu dairelerin bulunduğu binaların yaşı 10 ila 30 arasında değişmektedir. Enflasyon oranı belirlenirken referans alınan 6,000 L gibi bir oranın piyasa şartlarında çok gerçekçi olmadığını görmekteyiz. İstanbul'un çeperlerinde dahi 6,000 liraya kiralık daire bulmak mümkün değildir. Anadolu yakasında Pendik, Sultanbeyli ve Sancaktepe gibi ilçelerde 2 + 1 dairelerin ilan sitelerinde ortalama kirası 20,000 L civarındadır.
+
+================================================================================
+
+## Economic Segment 6
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 48
+**Retention**: 88.89%
+
+Türkiye'de ortalama kira miktarı yaklaşık 19,000 lira olarak belirlenmiştir. Kiralar, bina yaşı ve oda sayısına göre değişiklik göstermektedir. İstanbul'un Bağcılar ve Esen ilçelerinde, ortalama kiralar 2,000 lira civarında olup, 3+1 bir dairenin kirası yaklaşık 40,000 liradan başlamaktadır. Bu durum, konut fiyatlarının diğer ilçelere göre nispeten ucuz kaldığını göstermektedir.
+
+================================================================================
+

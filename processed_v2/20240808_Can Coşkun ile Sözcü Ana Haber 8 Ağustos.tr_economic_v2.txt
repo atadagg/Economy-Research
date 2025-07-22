@@ -1,0 +1,97 @@
+# Economic Content from: 20240808_Can Coşkun ile Sözcü Ana Haber 8 Ağustos.tr.txt
+# Processed: 2025-07-22T17:59:38.249914
+# Original: 7032 words → Filtered: 610 words (8.67% retention)
+# Economic segments: 8
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 66
+**Retention**: 85.71%
+
+Önce ülkemizde ekonomide neler oldu, sonra dünyada özellikle de yakın coğrafyamızda olup bitenleri konuşacağız. Ekonomik veriler ve istatistikler, bütçeyi belirleyen politik tercihlerle doğrudan ilişkilidir. Bu politik tercihler, zam gerçeklerini de etkiliyor. Ekonomik analizler, bu tercihlerin arkasında yatan zihniyetin nasıl şekillendiğini anlamamıza yardımcı oluyor. Bu bağlamda, liyakat ve denetim gibi konuların ekonomi üzerindeki etkilerini de ele alacağız. Hangi tercihler cebimizi, kalbimizi ve aklımızı etkiliyor, bunu birlikte değerlendireceğiz.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 43
+**Retention**: 39.45%
+
+Ekonomiyi soruyoruz. Efendim, ekonomide enflasyon yükselmesin diye biliyorsunuz. Merkez Bankası başkanı sayın Karahan, asgari ücrette bugün ne dedi? Biz orada ne karar vereceğiz, ne tavsiye vereceğiz ama tavsiye verilmiş olmadı mı? Enflasyon yükselir korkutmasın, şerhini düşerek yapılmadı mı? Bu konular hakkında yorumunuzu soruyoruz.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 155
+**Retention**: 52.54%
+
+80 yolundaydı diyelim Hadi 1,80 yolundaydı biraz yuvarlamış da oldum şimdi o günlerde 200 liralık magn en büyük para birimimiz banknot olarak. Bugün dolar kaç, faiz kaç, enflasyon kaç? Hala 200 lira. O yüzden insanların cebinde şişkinlik var. Efendim, para çok diye değil, kirasını ödemek için market alışverişine gitmek için. Bu durumun ekonomik krizi kabulleniş olacağını anladıkları için galiba sanki 500 liralık banknot basılmaya başlanacak. Ekonomik kriz yok, insanlar bunu görmüyor. Çarşı pazara çıkınca yok basılmıyor. Ama onun yerine işte 5 liralık demir paralar çıktı, şimdi elden ele dolaşmaya başladı. Ekonomistler, "500 liralık banknot değil, daha fazlası lazım" diyor. Yani siz basmadıkça ekonomik kriz algısı geçmemiş mi olacak? 
+
+Merkez Bankası verilerine göre dolaşımdaki banknotların %78.4'ü 200 lira, %16.64'ü 100 lira, %31'i ise 50 lira. 5, 10 ve 20 liralık kağıt paraların tüm banknotlara oranı %2'nin biraz üzerinde. 200 lirayla bir vapur 70 lira olmuş. Yani 200 lirayla bir de su aldım mı, üstüne bitiyor zaten.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 102
+**Retention**: 53.12%
+
+2009 yılında hayatımıza giren 200 liralık banknotun o zamanki değeri 131 dolardı, ancak bugün bu banknotun değeri 6 dolar bile değil. Bu durum, ekonomik değer kaybını ve enflasyonu gözler önüne seriyor. Merkez Bankası başkanının 500 ve 1000 liralık banknotların basılıp basılmayacağına dair bir açıklama yapmaması, para biriminin değer kaybı ve enflasyon konusundaki belirsizlikleri artırıyor. 
+
+Kredi kartı borcundan dolayı yasal takibe düşen kişi sayısı, Ocak-Haziran döneminde geçtiğimiz yılın aynı dönemine göre %70 artmış durumda. Bu, bireylerin finansal durumlarının kötüleştiğini ve borçlanma seviyelerinin yükseldiğini gösteriyor. İnsanlar, kredi kartı kullanımıyla ilgili olarak birden fazla kart edinmeye yönelmiş durumda, bu da tüketici borçlarının artmasına neden oluyor.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 56
+**Retention**: 60.22%
+
+Türkiye'de yasal takibe düşen kişi sayısı 6454 olarak kaydedildi. Bu durum, ekonomik zorlukların ve borçlanmanın artışını gösteriyor. Türkiye Bankalar Birliği'nden alınan verilere göre, borçlar yüksek, ancak kredi kartı limitleri düşük kalıyor. Geçen yılın Haziran ayında yasal takibe takılanların sayısı 379 olarak belirlenmişti. Bu veriler, bireylerin finansal durumlarının giderek kötüleştiğini ve kredi kartı borçlarının ödenemediğini ortaya koyuyor.
+
+================================================================================
+
+## Economic Segment 6
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 82
+**Retention**: 44.32%
+
+Kayıt dışı kira gelirlerini vergilendirmek önemli bir konu olarak gündemde. Özellikle Körfez sermayesinin İstanbul'dan büyük miktarda konut alması dikkat çekiyor. Emlakçılar, bu süreçte yabancı yatırımcıların katalogdan ev seçerek, ülkemiz sınırları içerisine gelmeden 50, 60, hatta 70 ev aldıklarını belirtiyor. Bu durum, yerel vatandaşların kira krizine girmesine neden oluyor. Kira fiyatlarının astronomik seviyelere ulaşması, ekonomik bir sorun olarak öne çıkıyor. Şu an Moda'da bir evin kirası 2,800 liradan 30,000 liraya kadar çıkmış durumda. Bu tür fiyat artışları, konut krizinin önemli bir parçasını oluşturuyor.
+
+================================================================================
+
+## Economic Segment 7
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 60
+**Retention**: 43.80%
+
+Son 5 yıldaki artış % 1000'in üzerinde. Türkiye'de kiracı için barınma ihtiyacı lükse dönüşmüş durumda. % 25'lik zam sınırıyla açmaza dönüşen kiralık konut krizi önlenemiyor. Üstelik zam sınırının kaldırılması ile birlikte fiyatlar da tavan yapmış durumda. Ocak 2019 - Temmuz 2024 döneminde ortalama konut kirası % 1040 arttı. Bir yıldaki değişim % 42'nin üzerinde. Ortalama kira fiyatı 22,700 lirayı aştı.
+
+================================================================================
+
+## Economic Segment 8
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 46
+**Retention**: 50.00%
+
+Ev sahiplerinin gelir vergisi kaçağını önlemek için kira kontratlarında ev sözleşme dönemi başlayacak yeni yılla birlikte kira kontratlarının e-devlet üzerinden yapılması öngörülüyor. Yani aslında artan kira fiyatlarını durdurmaları gerekiyor ama vergi kaçaklarını önlemek işine geliyor bazı kişilerin. E-devletten kira kontratının zorunlu tutulması 2025 yılından itibaren öngörülüyor.
+
+================================================================================
+

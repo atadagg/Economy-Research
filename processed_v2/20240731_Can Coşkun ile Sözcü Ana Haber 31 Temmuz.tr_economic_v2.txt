@@ -1,0 +1,53 @@
+# Economic Content from: 20240731_Can Coşkun ile Sözcü Ana Haber 31 Temmuz.tr.txt
+# Processed: 2025-07-22T17:36:43.698217
+# Original: 6826 words → Filtered: 260 words (3.81% retention)
+# Economic segments: 4
+
+## Economic Segment 1
+
+**Method**: pattern_validated
+**Confidence**: 0.75
+**Word Count**: 51
+**Retention**: 100.00%
+
+günü
+haftanın ortasındayız günü bitiriyoruz özet geçeceğiz işler karışık hem coğrafyamızda hem yakın
+coğrafyamız diye tabir edilen birkaç komşu ülkenin Ardında olup bitenler dış politikamızı derinden
+etkileyenler bugün İsrail'in suikasti gelen haberler tetiklenen Bir de şimdi olay örgüsü tarihin
+akışını değiştirecek hamleler mi başkentimiz Nasıl bir ses yükseltiyoruz dış politikamızda bundan
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 95
+**Retention**: 66.90%
+
+500 liracı zamla kimler Ocak ayına bıraktı kartlar var bir de e kartlar patlak zaten. Kredi borçlarından da işte oradan kredi, bu durum vatandaşın ay sonu sorularıyla 45 yıl kadar önceki sorunları hatırlatıyor. Şimdi maaştan 3 gün sonrasının soruları bedava gibi geliyordu ama zamanı gelince zor oluyordu. Kredi kartı harcamaları ve borçları da katlandı. Ocak-Haziran dönemi bireysel kredi kartı verileri büyük bir borç batağını ortaya çıkardı. En çok kredi kartı kullanan il Konya olsa da kart borcunda liderliği kaptırdı. BDDK'nın 6 aylık raporuna göre en borçlu il İstanbul oldu. Megakent İstanbul'da kredi kartı borcu 396.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 55
+**Retention**: 41.67%
+
+Kredi kartı borçlusu illerde Ankara 13,9 milyar TL ile ikinci, 9,5 milyar TL ile İzmir 3. sırada yer aldı. En az kart borcu olan şehir 79,000 TL ile Ardahan. Aldığımız maaş yetmiyor, mecburen bankanın verdiği limite abanıp yükseltmek istiyoruz ama yükseltmiyorlar. Kredi kartı borçları ilk 6 aylık dilimde toplam 1 trilyon 498 milyar TL'ye ulaştı.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 59
+**Retention**: 56.73%
+
+Bankalara borcu olanların sayısı 40 milyonu geçti. Kredili mevduat hesaplarında ilk 6 ayda %55 artış olurken, TL karşılığı da 290 milyar liraya ulaştı. Uzun vadede bir yaşam garantisi sunuyoruz. Ancak, birçok kişi sürekli asgari ödeme yapmasına rağmen borcunun arttığını belirtiyor. Borçsuz insan yok, bu devirde borçsuz insan bulmak zor. Ortalama bir kuyumcunun aylık vergi matrahı ne kadar biliyor musunuz?
+
+================================================================================
+

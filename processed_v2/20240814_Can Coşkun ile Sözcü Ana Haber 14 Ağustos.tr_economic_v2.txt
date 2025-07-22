@@ -1,0 +1,71 @@
+# Economic Content from: 20240814_Can Coşkun ile Sözcü Ana Haber 14 Ağustos.tr.txt
+# Processed: 2025-07-22T17:49:33.366797
+# Original: 6890 words → Filtered: 518 words (7.52% retention)
+# Economic segments: 4
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 119
+**Retention**: 100.00%
+
+parti oldular Güncel ikinci parti ve son anketlerde de görüyoruz ki Cumhuriyet Halk Partisi
+birinciliğini perçinleme devam ederken Adalet ve Kalkınma Partisi'nde oy tabanının genişlediği oy
+kaybının o kanamanın durdurulduğunu dönük en ufak bir emare henüz yansımıyor Bu yüzden de bugün
+milletvekilleri bugün belediye başkanları Adalet ve Kalkınma partisi' transfer edildiler peki neye
+yarar sorusunu soruyoruz sizlere iş işten geçti mi ekonomi düzelmeden düzelmez mi güç zehirlenmesini
+önlemez mi yoksa çoğunluğunu yeniden Refah Partisi'nden transfer ettikleri için yeniden Refah
+Partisi güçlenmesini istendiği için mi bu hamleler şıklarda buluşalım ve Elbette yorumlarda yorum
+demişken ik anketimiz ekonomi yıl sonu % 38'lik enflasyon hedefi ortada Bu yüzden yine Hedef
+enflasyon üzerinden maaş alacaklar zam alacaklar kimler asgari ücretliler kimler emekliler Ocak
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 182
+**Retention**: 100.00%
+
+000'e adres bildir
+bildirdi Ali Yerlikaya imzasıyla yapılan Açıklama bu 130 000 de randevu almış yani Gelip
+bildireceğiz demişler şimdi geriye kaldı 400 000 net hesapla 396 b000 bu 396 b000 Suriyeli kalan
+sürede 14 gün içerisinde bir bildirim yapmak zorundalar hala yapmamışlar Peki biz ekranlardan ne
+soruyoruz iki haftadır özellikle sözcük TR'de kaleme aldığım yazıda sorduğum gibi kaçı suçlu sadece
+Suriyeli kategorisi değil diğer yabancılarda durum ne diye sorduk ulaştığım mahkeme kayıtlarında çok
+sayıda hırsızlık Hatta göçmen kaçakçılığı adam yaralamadan tutuklanması gereken haklarında hapis
+cezaları en kötü denetim kararı verilen yabancıların kayıp olduğunu ortaya çıkardık Neden Çünkü
+mahkemeler kayıp ilanı vermeye başlamışlardı hakkında ya biz hapis cezası verdik yok ortada
+adresinde Yok telefonla arıyoruz yok ulaşamıyoruz göç idaresine soruyoruz onlarda ilk adresi var
+gidiyoruz oraya bakıyoruz orada da yok Dolayısıyla sorun bir Milli Güvenlik meselesi ve İçişleri
+Bakanı Ali Yerlikaya bunun kendisinden önceki dönemin kötü bir mirası olduğunu vurgulamaktadır
+31 000 adresinde olmadığı değil başka bir adrese geçtiğini düşünüyoruz İçişleri Bakanı Ali
+Yerlikaya'nın bahsettiği göçmenler Avrupa'dan çıktı kayıp Suriyeli tartışması İçişleri Bakanı Ali
+Yerlikaya'nın açıklamalarıyla başladı Yerlikaya 3103 606 suriyeliden 731
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 134
+**Retention**: 71.28%
+
+Anadolu'da iş yok, Trabzon'da iş yok, İstanbul'a gelim diyor. Yurt genelinde iç göç son 16 yılın en yüksek seviyesine ulaştı; nüfusun %4,4'ü yani 3.455.000 kişi yaşadığı ili değiştirdi. Göçlerin nedenleri farklı olsa da en önemli nokta daha iyi yaşam koşullarına ulaşmaktır. Mega Kent İstanbul, göç istatistiklerinde yine liderliği elinde bulundurdu. Geçtiğimiz yıl hem en çok göç veren hem de en çok göç alan şehir oldu. En çok göç alan kentler listesinin başında sırasıyla İstanbul, Ankara ve İzmir yer aldı. Tamamen ekonomik nedenlerden dolayı, ancak şimdi tersine göç veriyor. Hayat pahalılığı ve kiralardan dolayı terk eden sayısı son bir iki senede 1 milyona yakın oldu. Başkent Ankara, düzeniyle bilinen bir şehir olarak göç yarışında yerini aldı; 232.000 kişi Ankara'ya yerleşirken, 208.000 kişi Ankara'dan ayrıldı. Ege'nin incisi İzmir, 2023 rakamlarına göre şehir değiştirenlerin de gözdesi oldu.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 83
+**Retention**: 30.74%
+
+Kültür ve Turizm Bakanlığı, emeklilere yönelik bir indirim duyurdu. Emekliler, artık plajlarda şezlong ve şemsiye ücretinden muaf olacaklar. Bu uygulama, emeklilerin mali yükünü hafifletmeyi amaçlıyor. Daha önce 250 lira olan şezlong ve şemsiye ücretleri, artan maliyetler nedeniyle 500 liraya kadar çıkmıştı. Ancak, bu yeni düzenleme ile emekliler, bakanlığa ait halk plajlarında bu ücretleri ödemeyecekler. Bu durum, emeklilerin tatil harcamalarını azaltmalarına yardımcı olabilir. Emeklilerin beklediği maaş zammı ise henüz gerçekleşmedi. Ekonomik zorluklar içinde olan emekliler, bu tür indirimlerin kendilerine ne ölçüde fayda sağlayacağını sorguluyor.
+
+================================================================================
+

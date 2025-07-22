@@ -1,0 +1,53 @@
+# Economic Content from: 20241026_Damla Doğan Tuncel ile Hafta Sonu Ana Haber 26 Ekim.tr.txt
+# Processed: 2025-07-22T17:33:28.330890
+# Original: 5337 words → Filtered: 309 words (5.79% retention)
+# Economic segments: 4
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 43
+**Retention**: 71.67%
+
+Cumhurbaşkanı Erdoğan da günler sonra bugün ilk kez çok üstü kapalı bir şekilde bu konuya değindi. Malum yılın sonu geliyor, asgari ücrete ne kadar zam gelecek bu sorunun yanıtına kilitlendik. Yüksek enflasyonun suçlusu bir kez daha asgari ücretli ve onların beklediği zam oranı.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 78
+**Retention**: 64.46%
+
+Enerji Piyasası Düzenleme Kurulu (EPDK) duyurdu, 1 Ocak 2025'te son kaynak tedarik tarifesi güncellenecek. Yıllık 5000 kWh elektrik tüketimi yapan konut ve iş yerlerinde elektrikteki sübvansiyon kaldırılacak, yani faturalara zam gelmeden zam gelmiş olacak. Bugünkü durumda tüketiciler yaklaşık 2,272 TL öderken, yeni dönemin gelmesiyle 1 kWh elektrik için 3,30 TL ödeyecekler. Bu durum, hanelerin elektrik faturalarının 1 Ocak'tan itibaren ciddi şekilde artacağı anlamına geliyor. Ortalama elektrik tüketimi günlük 8 ila 13 kWh olan hanelerin faturaları önemli ölçüde yükselecek.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 52
+**Retention**: 48.15%
+
+75 kat bir elektrik fiyatında birim fiyatta artış olacak. Elektrikteki desteğin 5000 kWh ile sınırlandırılması ticarethaneleri de etkileyecek. Yeni yılda hem tüketici hem esnafın faturası katlanacak. Bu durum, hem bütçenize hem de faturalarınıza ciddi anlamda negatif etki yapacak. Türkiye'nin enerji politikaları ve fiyat artışları, ekonomik durumu doğrudan etkileyen unsurlar arasında yer alıyor.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 136
+**Retention**: 51.32%
+
+500 liralık en düşük emekli maaşı üzerinden 55 440 000 emekli maaşına denk emekliler, ekonomik koşullar nedeniyle zor durumda. Özelleştirmeden gelen paranın daha iyi kullanılması gerektiği vurgulanıyor. Ekonomik kaynakların nereye gittiği konusunda belirsizlikler var. 
+
+Veysel Demirci, kamudan 10 milyarlık bir ihale aldı. İnşaat sektöründeki bu gelişmeler, hükümetin ekonomik politikalarıyla bağlantılı. Demirci, son olarak BOTAŞ'tan 3 milyar TL tutarında ihale aldı. Karayolları Genel Müdürlüğü, Adıyaman çelikan İl yolu için 7 milyar 557 milyon TL ile ihaleyi kazanan Ziver İnşaat ve Ziver Petrol Anonim Şirketi ortaklığına ihale verdi. Çevre Şehircilik ve İklim Değişikliği Bakanlığı da TOKİ ihalesine çıktı ve bu ihalenin bedeli 2 milyar 222 milyon TL olarak belirlendi. 
+
+Ziver İnşaat, bu iki ihale ile toplamda 9 milyar 770 milyon TL'lik bir gelir elde etti. Bu durum, inşaat sektöründeki büyümenin ve kamu ihalelerinin ekonomik etkilerini gözler önüne seriyor.
+
+================================================================================
+

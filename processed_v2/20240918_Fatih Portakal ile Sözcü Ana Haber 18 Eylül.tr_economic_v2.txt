@@ -1,0 +1,37 @@
+# Economic Content from: 20240918_Fatih Portakal ile Sözcü Ana Haber 18 Eylül.tr.txt
+# Processed: 2025-07-22T17:26:34.760623
+# Original: 7566 words → Filtered: 217 words (2.87% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 97
+**Retention**: 81.51%
+
+Türkiye'nin en farklı ana haber bültenine hoş geldiniz sevgili izleyenler. Bugün ekonomik veriler ve fiyat artışları üzerine konuşacağız. Son günlerde, marketlerdeki fiyat artışları dikkat çekiyor. Özellikle gıda fiyatlarındaki yükseliş, enflasyon oranlarını etkiliyor. Ekonomik analizlere göre, bu durum hanehalkı bütçelerini zorlayacak. 
+
+Ayrıca, son telefon tarifeleri de artış gösterdi. Bu artışlar, tüketicilerin harcama alışkanlıklarını değiştirebilir. Ekonomistler, bu tür fiyat artışlarının genel ekonomik durumu olumsuz etkileyebileceğini belirtiyor. Devletin vergi politikaları da bu süreçte önemli bir rol oynuyor. Vergi oranlarının yüksekliği, vatandaşların alım gücünü azaltıyor. 
+
+Sonuç olarak, ekonomik veriler ve fiyat artışları, Türkiye'nin ekonomik görünümünü şekillendiren önemli faktörler arasında yer alıyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_final
+**Confidence**: 0.50
+**Word Count**: 120
+**Retention**: 52.40%
+
+Türkiye İş Bankası'nın 100. yılı dolayısıyla birçok alandan yerli ve yabancı bilim insanları ve konuşmacılar bir araya geliyor. Gelecek yüzyıla Atatürk vizyonuyla bakıyoruz. Bu etkinlik, ekonomik gelişmeler ve finansal istikrar konularında önemli tartışmalara ev sahipliği yapacak. 
+
+Ayrıca, Garanti BB veya Mobile uygulaması, kullanıcıların evleriyle ilgili harcamalarını takip etmelerini ve bütçelerini yönetmelerini kolaylaştırıyor. Bu tür bankacılık uygulamaları, bireylerin finansal durumlarını daha iyi anlamalarına ve yönetmelerine yardımcı oluyor. 
+
+Ekonomik veriler ve istatistikler, bireylerin ve işletmelerin karar alma süreçlerinde kritik bir rol oynuyor. Bu bağlamda, Türkiye'nin ekonomik göstergeleri ve piyasa dinamikleri üzerine yapılacak analizler, yatırımcılar için önemli bilgiler sunacak. 
+
+Sonuç olarak, Türkiye'nin ekonomik geleceği ve finansal istikrarı üzerine yapılan bu tür etkinlikler, hem yerli hem de yabancı yatırımcılar için büyük bir fırsat sunmaktadır.
+
+================================================================================
+

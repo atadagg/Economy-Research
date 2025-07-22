@@ -1,0 +1,80 @@
+{
+  "file_path": "news/SozcuTV/20240720_Damla Doğan Tuncel ile Hafta Sonu Ana Haber 20 Temmuz.tr.txt",
+  "processing_timestamp": "2025-07-22T17:24:54.840377",
+  "original_word_count": 5520,
+  "filtered_word_count": 227,
+  "retention_ratio": 0.0411231884057971,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 99,
+      "start_sentence": "Merhaba ben Damla Doğan Tuncel",
+      "description": "\"Merhaba ben Damla Doğan Tuncel\" - The presenter introduces herself and sets the context for the broadcast, mentioning the significance of the date and inviting audience interaction.",
+      "end_pos": 489
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 489,
+      "start_sentence": "Bugün o tarihi zaferin O büyük harekat Kıbrıs Barış harekatının 50 yıldönümü",
+      "description": "\"Bugün o tarihi zaferin O büyük harekat Kıbrıs Barış harekatının 50 yıldönümü\" - This section contains the main news content, discussing the 50th anniversary of the Cyprus Peace Operation, including details about the ceremonies and speeches from political leaders.",
+      "end_pos": 489
+    },
+    {
+      "type": "5. **OUTRO**",
+      "start_pos": 489,
+      "start_sentence": "Bugün o tarihi zaferin",
+      "description": "\"Bugün o tarihi zaferin\" - The closing remarks summarizing the significance of the events discussed, leading towards the end of the program.",
+      "end_pos": 1469
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 1469,
+      "start_sentence": "önce gelin törendeki konuşmaları bir izleyelim",
+      "description": "\"önce gelin törendeki konuşmaları bir izleyelim\" - A brief transition indicating a shift to viewing speeches from the ceremony, signaling a change in focus within the news segment.",
+      "end_pos": 1665
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1665,
+      "start_sentence": "Türk Mukavemet teşkilatının Kahraman mücahitleri tören alanına girmektedir",
+      "description": "\"Türk Mukavemet teşkilatının Kahraman mücahitleri tören alanına girmektedir\" - Continuation of the news segment, providing details about the participants and the significance of their presence at the ceremony.",
+      "end_pos": 39783
+    }
+  ],
+  "news_segments_count": 9,
+  "economic_segments_count": 3,
+  "economic_segments": [
+    {
+      "segment_id": "1665_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 255,
+      "filtered_length": 98,
+      "retention_ratio": 0.3843137254901961,
+      "section_description": "\"Türk Mukavemet teşkilatının Kahraman mücahitleri tören alanına girmektedir\" - Continuation of the news segment, providing details about the participants and the significance of their presence at the ceremony."
+    },
+    {
+      "segment_id": "1665_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 171,
+      "filtered_length": 61,
+      "retention_ratio": 0.3567251461988304,
+      "section_description": "\"Türk Mukavemet teşkilatının Kahraman mücahitleri tören alanına girmektedir\" - Continuation of the news segment, providing details about the participants and the significance of their presence at the ceremony."
+    },
+    {
+      "segment_id": "1665_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 127,
+      "filtered_length": 68,
+      "retention_ratio": 0.5354330708661418,
+      "section_description": "\"Türk Mukavemet teşkilatının Kahraman mücahitleri tören alanına girmektedir\" - Continuation of the news segment, providing details about the participants and the significance of their presence at the ceremony."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

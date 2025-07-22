@@ -1,0 +1,73 @@
+{
+  "file_path": "news/SozcuTV/20240807_Can Coşkun ile Sözcü Ana Haber 7 Ağustos.tr.txt",
+  "processing_timestamp": "2025-07-22T17:32:42.058653",
+  "original_word_count": 7053,
+  "filtered_word_count": 210,
+  "retention_ratio": 0.029774564015312633,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "Can haberde önce ülkemizde sonra dünyada olup bitenleri...",
+      "description": "\"Can haberde önce ülkemizde sonra dünyada olup bitenleri...\" - The opening segment introduces the program and sets the stage for the news content, discussing the current concerns of citizens and hinting at the topics to be covered.",
+      "end_pos": 1456
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 1456,
+      "start_sentence": "Tüm bunları konuşacağız ama yine yüreğimizi Dağlayan bir acı haber aldık...",
+      "description": "\"Tüm bunları konuşacağız ama yine yüreğimizi Dağlayan bir acı haber aldık...\" - This brief transition connects the introduction of various topics and leads into the specific news story about military operations, indicating a shift in focus.",
+      "end_pos": 1557
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 1557,
+      "start_sentence": "Eee Kuzey Irak'ta devam eden Teröre karşı operasyonlarımız sürüyor...",
+      "description": "\"Eee Kuzey Irak'ta devam eden Teröre karşı operasyonlarımız sürüyor...\" - This section contains the main news content, focusing on the ongoing military operations in Northern Iraq and the unfortunate news of a soldier's death.",
+      "end_pos": 1844
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1844,
+      "start_sentence": "Başımız sağ olsun bölgedeki operasyonlara ilişkin Milli Savunma bakanlığımızın...",
+      "description": "\"Başımız sağ olsun bölgedeki operasyonlara ilişkin Milli Savunma bakanlığımızın...\" - This continues the news segment, providing further details about the military operations and the government's response.",
+      "end_pos": 50365
+    }
+  ],
+  "news_segments_count": 11,
+  "economic_segments_count": 3,
+  "economic_segments": [
+    {
+      "segment_id": "0_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 205,
+      "filtered_length": 86,
+      "retention_ratio": 0.4195121951219512,
+      "section_description": "\"Can haberde önce ülkemizde sonra dünyada olup bitenleri...\" - The opening segment introduces the program and sets the stage for the news content, discussing the current concerns of citizens and hinting at the topics to be covered."
+    },
+    {
+      "segment_id": "1844_5",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 121,
+      "filtered_length": 58,
+      "retention_ratio": 0.4793388429752066,
+      "section_description": "\"Başımız sağ olsun bölgedeki operasyonlara ilişkin Milli Savunma bakanlığımızın...\" - This continues the news segment, providing further details about the military operations and the government's response."
+    },
+    {
+      "segment_id": "1844_7",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 107,
+      "filtered_length": 66,
+      "retention_ratio": 0.616822429906542,
+      "section_description": "\"Başımız sağ olsun bölgedeki operasyonlara ilişkin Milli Savunma bakanlığımızın...\" - This continues the news segment, providing further details about the military operations and the government's response."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

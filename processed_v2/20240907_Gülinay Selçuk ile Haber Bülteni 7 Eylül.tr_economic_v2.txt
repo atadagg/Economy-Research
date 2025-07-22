@@ -1,0 +1,103 @@
+# Economic Content from: 20240907_Gülinay Selçuk ile Haber Bülteni 7 Eylül.tr.txt
+# Processed: 2025-07-22T17:54:40.131250
+# Original: 32665 words → Filtered: 579 words (1.77% retention)
+# Economic segments: 8
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 80
+**Retention**: 100.00%
+
+dakikalarda İstanbul Büyükşehir Belediye başkanı Ekrem İmamoğlu kürsüde olacak döneceğiz Peki Düne
+şöyle bir baktığımızda dünün geç saatlerine kadar gündemi yeterince meşgul eden ve etmeye de devam
+edecek biliyorsunuz Polatlar davası'nın ilk duruşmasından şak diye karar geldi ve Engin Polat da
+tahliye edildi Tabii bu haber özellikle Eee Polat Ailesini çok mutlu etti ve beraberinde
+Tekirdağ'daki cezaevi önünde çok büyük bir kalabalık bekliyordu Engin Polat ve ber
+beraberindekilerin tahliyesini e yoğun bir basın ordusu takip etti onları aynı zamanda Anadolu
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 109
+**Retention**: 30.28%
+
+IMF, Türkiye'ye yardım etsin diyorlardı. Bu süreçte neler oldu, neler yaşandı, biliyorsunuz. Hepimiz aslında bunun ceremesini çekiyoruz sabit gelirler olarak ama öyle bir programın içerisindeyiz ki IMF programı işliyor mu başlığını kullandık bunun için. Yaptığımız adımlar, aslında memlekete ve vatandaşa neye mal oldu, bu çok büyük bir soru işareti. Bununla beraber, atabildiği değerlendirme derecelendirme programlarından ödül niteliğinde puanlar almaya devam ediyoruz. Özellikle de dün akşam açıklanan Fitch'in vermiş olduğu kredi notu, artık yatırım yapılabilir seviyeye yükseldik mi? Bu, bizim için hangi noktadan hangi noktaya geldiğimizi işaret eder ve bundan sonraki süreçte neler yaşayacağız. Ekonomist konuklarımız olacak, Fitch'i de değerlendireceğiz. Özellikle Mehmet Şimşek'in yapmış olduğu paylaşım ve ekonomistlerin paylaşımları çerçevesinde.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 73
+**Retention**: 41.48%
+
+Türkiye'de 2024 sonu itibariyle kişi başına gelirimizin 15,551 dolara yükselmesini bekliyoruz. Orta vadeli programdan yüksek gelir vaadi çıktı; maalesef inandırıcılık bugün giderek azalmaya başlıyor. Önümüzdeki 3 ay, Türkiye 15,551 dolarlık kişi başı milli gelirle yıl sonunda yüksek ülkeler listesine girecek. Asgari ücret 17,002 lirayken, gelecek yıl kişi başına düşen milli gelirin dolarla 17,028 olacağı söylendi. 2027 yılında ise kişi başı gelir 20,000 doların üzerine çıkacak. Dünya Bankası'na göre kişi başı geliri 14,000 dolardır.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 77
+**Retention**: 41.62%
+
+Cruise gemisiyle Yunanistan adalarına rağbet arttı, bu durum tatil fiyatlarının ulaşılmaz hale gelmesiyle bağlantılı. Akdeniz ve Ege'de otelde tatil fiyatları yükselirken, gemi turları daha uygun fiyatlarla sunuluyor. 4 gecelik tur boyunca her yolcu tam pansiyon konaklıyor ve kişi başı tatil maliyeti ortalama 2,000 L olarak belirleniyor. Bu fiyat, Antalya'daki bir tatilin maliyetinin yaklaşık yarısı kadar. Ekonomik açıdan, bu tür tatillerin aileleri çekmesinin en önemli nedenlerinden biri, daha düşük maliyetle birden fazla ülke ve ada görme fırsatı sunması.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 48
+**Retention**: 84.21%
+
+The filtered text focusing on economics, finance, and business is as follows:
+
+"700 lirayı ödüyor, fena sayılmaz. Euro aynı oda için 2750 lira ödüyor. Trivago, dünya çapındaki yüzlerce rezervasyon bulmanızı sağlıyor. Arçelik'ten herkesin beklediği kurutma makinesi kampanyası, seçili beyaz eşya alışverişlerinize kurutma makinelerinde %50'ye varan indirim fırsatı sunuyor."
+
+================================================================================
+
+## Economic Segment 6
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 65
+**Retention**: 60.75%
+
+Öğrencilerin defter, kalem gibi temel kırtasiye ihtiyaçları geçen seneye göre %70 arasında zamlandı. Derinleşen yoksulluğun ve ekonomik krizin artık eğitime de yansımasını protesto eden öğrenciler, durumun öğrencilerin başarısını etkileyeceğine dikkat çekti. Geçtiğimiz 2 yıldaki fiyat karşılaştırması, eğitim giderlerinin belirgin şekilde artmaya başladığını göstermektedir. Yüksek enflasyon ve derinleşen ekonomik kriz, eğitim giderlerini de ciddi anlamda etkilemiştir. Bir öğrencinin ortalama aylık gideri 4 ile 5 kat artmıştır.
+
+================================================================================
+
+## Economic Segment 7
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 67
+**Retention**: 35.45%
+
+Otellerdeki fiyatların yüksek oluşu tartışmalar yarattı. Dolayısıyla, tatilciler rotayı cruise gemilerine çevirmeye başladılar. Belirli programlar çerçevesinde çok daha ekonomik koşullarda, her şey dahil olarak Yunan adalarına tatil yapabiliyorsunuz. Cruise gemilerinde yapılan tatiller de bu yıl çok ön plana çıktı. 4 gece 5 günlük bir tatil, Yunan adalarının gezildiği bir tatil hayal edin ve maliyeti Türkiye'nin 1 fiyatı olsun. 4 gecelik tur boyunca her yolcu tam pansiyon konaklıyor.
+
+================================================================================
+
+## Economic Segment 8
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 60
+**Retention**: 100.00%
+
+000 Yani bir Antalya tatilinin dte biri fiyatına bana göre uygun
+biraz daha 34 ay önceden almış olsa biraz daha uygun olacaktı başka bir yer tatil yapmak isteseniz
+150 bin L kesin yani 4 5000 gibi giderdi Otel tatilinden daha uygun olmasıyla bir Ada ve bir ülke
+görülmesi aileleri bu tatile çeken en önemli detayın başında geliyor kişi başı 202
+
+================================================================================
+

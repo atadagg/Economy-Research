@@ -1,0 +1,112 @@
+# Economic Content from: 20240717_Can Coşkun ile Sözcü Ana Haber 17Temmuz.tr.txt
+# Processed: 2025-07-22T18:08:36.682806
+# Original: 6861 words → Filtered: 829 words (12.08% retention)
+# Economic segments: 9
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 62
+**Retention**: 36.90%
+
+Bugün birçok araştırma ortaya çıktı. Açlık sınırının asgari ücretin iki katını aştığı gerçeğiyle yüzleştik, bu beklenen bir sonuçtu. Günlük beslenme maliyetinin 880 lira olduğu belirtiliyor. Bu maliyet hesabı, ekonomik zorlukların arttığını gösteriyor. Ekonomik koşulların daha da kötüleşip kötüleşmeyeceği konusunda endişeler var. Beslenme maliyetleri ve genel yaşam giderleri, halkın alım gücünü doğrudan etkiliyor. Bu durum, hükümetin ekonomik politikalarını gözden geçirmesi gerektiğini ortaya koyuyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 66
+**Retention**: 56.90%
+
+Emekliler arasında adaletsizlik sesleri yükseldi; haksızlık var, çünkü çok uzun yıllar prim ödemiş olanların çok daha yüksek bir maaş alması gerekir. En düşük emekli aylığında 2500 TL artış olduğu belirtildi. 7500 TL kök maaşı olan birisi %24,7 zam ve %4 ek ödeme ile birlikte 12500 TL alacak. Kök maaşı 9500 TL olan da 12500 TL alacak. Bu durum, emeklilerin yaşam standartları üzerinde önemli bir etki yaratmaktadır.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 122
+**Retention**: 49.59%
+
+Gelen zamlar, emeklilerin alım gücünü etkileyerek 2500 liralık zamın kimseyi memnun etmediğini gösteriyor. Emekliler arasındaki makas kapandı ve 2500 liranın günlük bedeli 83 lira olarak belirlendi. Bu durum, emeklilerin günlük yaşamlarını nasıl sürdürecekleri konusunda ciddi bir sorun oluşturuyor. 
+
+Emekli maaşlarıyla ne alınabileceği sorusu gündeme geliyor; 83 lirayla sadece bir dondurma veya simit alınabiliyor. Bu da emeklilerin yaşam standartlarının ne kadar düştüğünü ortaya koyuyor. 
+
+Ayrıca, emekli memurların eğitim prim gün ve tutarlarının haklarının yendiği, 3600 ek gösterge ve seyyanen zam taleplerinin uzun süredir dillendirildiği belirtiliyor. Ancak, bu taleplerin karşılanmaması, yerel seçimlerde ciddi oy değişikliklerine yol açabileceği öngörülüyor. 
+
+Sonuç olarak, emeklilere yapılan zamlar, sadece en düşük emekli maaşına yansıtıldığı için, emekliler arasında eşitlik sorununu da beraberinde getiriyor. Bu durum, ekonomik eşitsizliklerin derinleşmesine neden oluyor.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 114
+**Retention**: 81.43%
+
+Artık ocak ayını bekleyin bakalım dendi ama en düşük emekli maaşının 10,000 liradan 12,500 liraya çıkarılması, geçinemeyen emeklilerle dalga geçmektir. Sonunda 12,500 lirada mutabık kalmışlardır. Bu emekliye idam fermanıdır; emekliye öl demektir, bu emekliye yaşama demektir. Milyonlarca emekli dört gözle beklediği zam, en düşük emekli maaşında öngörülen artış 2,500 lirada kaldı. Hem muhalefetten hem de Cumhur İttifakı içinden arka arkaya gelen itirazlar, emeklinin maaşından 5 kilo dana kıyma parası ocaktan bugüne çalınmıştır. Yapılan ayarlama bir zam değil, emeklinin hakkı olan parayı cebinden çalmaktan başka bir şey değildir. Bugünün ekonomik şartlarında 12,500 liralık emekli maaşının tartışılacak, hatta konuşulacak bir yönü yoktur. Vatandaşlarımıza 17,000 TL asgari ücrete, 12,500 emekli maaşına mahkum etmek, en hafif tabiriyle vicdansızlıktır.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 112
+**Retention**: 76.19%
+
+Ekonomik veriler ve istatistikler üzerine yapılan tartışmalar, emekli maaşlarının yetersizliği konusunda önemli bir gündem maddesi oluşturuyor. Tepkilerin odağında iktidarın ekonomi adımları vardı; liderler, zammın artırılmasını talep etti. 22 yıllık iktidarları boyunca insanlarımızı enflasyona ezdirmediklerini belirten yetkililer, bundan sonra da aynı hassasiyetle hareket edeceklerini ifade ettiler. Ancak, mevcut ekonomik koşullar altında, emekli maaşlarının asgari ücret seviyesine çıkarılması gerektiği vurgulanıyor. 
+
+Ekonomi uzmanları, mevcut enflasyon oranlarının gerçekleri yansıtmadığını ve bu durumun halkın alım gücünü olumsuz etkilediğini dile getiriyor. Devletin, insanları çaresizliğe mahkum etmemesi gerektiği konusunda görüş birliği var. Emekli maaşlarının artırılması, ekonomik istikrar ve sosyal adalet açısından kritik bir öneme sahip. Bu bağlamda, hükümetin alacağı yeni ekonomik önlemler ve politikalar, toplumun genel refahını doğrudan etkileyecektir.
+
+================================================================================
+
+## Economic Segment 6
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 84
+**Retention**: 42.42%
+
+Günlük 58 milyon liraya harcanıyor. Biz günlük 83 lirayla muhatap kılınmışız. Şimdi üniversiteler tercih dönemi, öğrencilerin ayrı stresi var, ailelerin ayrı stresi var; yoksulluk derinleşiyor. Yeni dönemde öğrenciler bu artan kiralarla kiralık ev mi bulacak, yurt mu bulacak? Çözülmeyen barınma krizi, ekonomik kriz kendisini hissettirmeye başladığında hatırlıyorsunuz o günleri. İstanbul'da en uygun kiranın artık 20.000 liradan başladığı, boş evde bulunamadığı söylenirken, asgari ücretin üstündeki bu gerçeklere karşı veliler ne yapacak? Emeklilerin durumu da zor; herkesin ana babası hayatta mı? Emekliye 10.000 lira, 12.000 lira...
+
+================================================================================
+
+## Economic Segment 7
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 107
+**Retention**: 64.46%
+
+500 lira artık takdim edilirken herkesin de evi var diye zannedilir. Ancak, eğitim maliyetleri ve barınma sorunları, özellikle üniversite tercih dönemine giren öğrenciler için büyük bir ekonomik problem oluşturuyor. İstanbul'da kiralık ev ücretleri ortalama 25,000 liradan başlıyor. Kira ücretlerinin hızla yükselmesi ve zam sınırlamasının kalkması, öğrencilerin barınma konusunda ciddi endişeler yaşamasına neden oldu. Aşırı bir talep var, ancak bu talebi karşılayacak durumda değiliz. Kiralar şu anda Beşiktaş'ta ortalama eski bir binada iki oda bir salon için 30,000-35,000 lira bandında, daha yeni binalarda ise 50,000 liraya kadar çıkabiliyor. İstanbul'da en uygun kira ise 20,000 lira ile Avcılar'da, merkezi konumda bulunan Kağıthane'de 25,000 lira, Kadıköy'de ise 35,000 lira seviyelerinde.
+
+================================================================================
+
+## Economic Segment 8
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 74
+**Retention**: 48.37%
+
+Kira fiyatları bu hafta 20,000 liraya koyuldu, ancak veremedik. Mal sahipleri, kiraları sürekli artırarak 2,000 lira daha ekleyerek 23,000 liraya çıkarıyor. Bir hafta sonra ay başına doğru bu rakam 25,000 liraya kadar çıkabiliyor. Ankara ve İzmir'de de benzer durumlar var; öğrencilerin tercih ettiği ilçelerde kira fiyatları bir yılda %190 zamlandı. Eşyaların maliyeti de oldukça yüksek; en basit eşyalar 30,000 liradan başlıyor ve bazıları 8,000 liraya kadar çıkabiliyor. Geçen sene bu maliyetler 15,000 lira civarındaydı.
+
+================================================================================
+
+## Economic Segment 9
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 88
+**Retention**: 30.99%
+
+Öğrencileri yurtlara gelen % 300'lük zamma tepki gösterdi. Vakıf üniversitelerinde % 200'ler aşan zamlara öğrencileri endişelendiriyor. YÖK, vakıf üniversitelerini fahiş zamlar yapmaması konusunda uyardı. Enflasyonun ateşi düşmeye başladı. Kabineden görünenle sokakta hissedilen enflasyon arasında fark var. Türkiye'de dar gelirli sabit gelirli en temel gıda maddelerine bile ulaşamaz hale geldi. Yeterli ve sağlıklı beslenmenin maliyeti ise 4 kişilik bir aile için günlük 880 liranın üzerine çıktı. Türkiye çok gelirli ülkeler grubuna girecekken vatandaş beslenemez hale geldi. Büro emekçileri Sendikası, 4 kişilik bir ailenin sağlıklı beslenebilmesi için en az 26...
+
+================================================================================
+

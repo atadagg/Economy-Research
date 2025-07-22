@@ -1,0 +1,182 @@
+# Economic Content from: 20240710_Can Coşkun ile Sözcü Ana Haber 10 Temmuz.tr.txt
+# Processed: 2025-07-22T16:35:31.944248
+# Original: 6819 words → Filtered: 1199 words (17.58% retention)
+# Economic segments: 14
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 87
+**Retention**: 53.37%
+
+Milletvekillerinin emekliliklerinde ne kadar çıkıyor bilmiyoruz ama konu vatandaşın emeklilik süreci. Temmuz enflasyon rakamları açıklandı; 10,000 L maaş alan 2 milyona yakın emeklinin cebine bir kuruş zam girmedi. Yükselen itirazların ardından kulislerde emekliye zam yapılacak sözü konuşulmaya başlandı. Emekliler için Beştepe'de zirve organize edildi. AKP'nin meclisteki kapalı grup toplantısında ekonomi kurmaylarıyla AKP temsilcileri temas kurdu. Toplantı için hazırlık Baş Cumhurbaşkanı Yardımcısı Cevdet Yılmaz başkanlığında Hazine ve Maliye Bakanı Mehmet Şimşek ile yapıldı. En düşük emekli maaşına zam için 11 Temmuz Perşembe saat 15:00'te bir toplantı gerçekleştirileceği belirtildi.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 138
+**Retention**: 75.41%
+
+30'da Beştepe'de bir araya gelecek AKP grup başkan vekili Abdullah Güler, tüm emeklileri kapsayacak seyyanen zam için kapıyı kapattı. En düşük emekli maaşına yönelik adım atılacağını söyledi; en düşük emekli maaşını asgari ücret seviyesine çıkarmak mümkün değil dedi. Beştepe'de yapılacak zirve, 10,000 liralık en düşük emekli maaşının artırılacağı orana dair çalışmayla sınırlı olacak. Uzun süredir merakla beklenen vergi teklifi, AKP vergi düzenlemesinin Meclis'e tatile girmeden sunulacağını söyledi. Vergi adaletini sağlayacak yapısal paketten söz edilebilir diyen AKP'li kurmaylar, yurt dışı çıkış harcındaki artışa dair rakam konuşmadığını, makul seviyede olacağını söyledi. 
+
+Geçinemiyoruz diyenlerin buluştuğu bir eylem, CHP genel başkanı Özgür Özel'in çağrısıyla yapıldı. Ekonomik zorluklar, emeklilerin yaşam standartlarını etkileyen önemli bir konu olarak öne çıkıyor. Süleyman Bey, 6 euro ile 3 kilo et fiyatı hesabı yaparak, ekonomik durumun ciddiyetine dikkat çekiyor. Market alışverişinde borçlu çıkmanın, emeklilerin karşılaştığı zorlukları artırdığı belirtiliyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 125
+**Retention**: 56.82%
+
+Türkiye'de ekonomik durumdan şikayetçi olanlar, zam talep edenler ve tasarruf politikasına itiraz edenler, ekonomik koşullara dikkat çekmek amacıyla protesto düzenledi. CHP Genel Başkanı Özgür Özel, asgari ücretin artırılması ve emekli maaşlarının bir asgari ücret seviyesine çıkarılması çağrısında bulundu. Bu çağrı, Türkiye genelinde birçok kişi tarafından desteklendi ve geçinemeyenler, maaşlarına zam isteyenler ışıklarını açıp kapatarak tepkilerini gösterdiler. 
+
+Ekonomik krizle ilgili olarak, uzmanların yorumları da dikkat çekiyor. Ekonomik veriler ve istatistikler, Türkiye'nin mevcut ekonomik durumunu yansıtırken, hükümetin uyguladığı politikaların etkileri de tartışma konusu olmaya devam ediyor. Özellikle enflasyon ve yaşam maliyetleri, halkın geçim sıkıntısını artıran önemli faktörler arasında yer alıyor. 
+
+Bu bağlamda, ekonomik analizler ve uzman görüşleri, Türkiye'nin ekonomik geleceği hakkında önemli bilgiler sunuyor. Ekonomik göstergeler, yatırımcıların ve piyasa katılımcılarının kararlarını etkileyen kritik unsurlar olarak öne çıkıyor.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 51
+**Retention**: 100.00%
+
+000 lira zam yapsınlar Bakalım nereye geçiniyorlar
+demiş 22 yıldır şahlanan bir ülke metaforunu atıfta bulunmuş Kemal Bey Yahu şahlanmış muyduk neden
+tasarruf Tedbiri uygulamak zorunda kalıyoruz neden emekliye sadece 6 üstü 2 000 lir çözüm olarak
+yansıtıyor Hadi yapmayacaktı ama gönlümüzden koptu ya Ya bu aklımda yoktu Son anda 2
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 70
+**Retention**: 46.36%
+
+Şimdi derinleşen yoksulluğu belgeleme devam ediyoruz. En düşük emekli maaşına elbette zam yapılmalı ama o da sadece biraz ses çıktı. Yani kalıcı bir adalet sağlanamıyor, maaş farkları arasında diyor. Eskiden asgari ücretin üstünde alıyordu, kademe kademe sistematik biçimde nasıl bugün açlığa mahkum edildiklerini gördüler. Her sene ses yükselttiler bu konuda daha duyulur hale gelmesi için. Dolayısıyla adaletsizlik küçük ölçekli gruplara yapıldığında ya da kısmen parça parça yapıldığında, tepki de gecikebilir.
+
+================================================================================
+
+## Economic Segment 6
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 40
+**Retention**: 58.82%
+
+Ekonomik verilerle ilgili olarak, aile bakanlığımız sosyal yardımlarla hayata tutunmaya çalışan örgütlü yoksulluğumuzun verilerini paylaştı. Bu veriler, insanların mevcut ekonomi politikasının amacının bu sonucu doğuracağını düşündüğünü gösteriyor. Dolayısıyla, siyasi amacın yardımlara muhtaç bir Türk vatandaşı profili yaratmak olduğu ifade ediliyor.
+
+================================================================================
+
+## Economic Segment 7
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 65
+**Retention**: 46.43%
+
+Aile ve Sosyal Hizmetler Bakanlığı'nın verilerine göre, 17 milyon kişi sosyal yardımla ayakta kalabiliyor. Bakanlık, milyonlarca kişiye sosyal yardım verdiğini Haziran raporuyla duyurdu. Ancak Türkiye'de yoksulluğun ulaştığı boyutu da resmen kabul etmiş oldu. Rakamlar, Türkiye'de yoksulluğun her geçen gün daha da derinleştiğini anlatıyor. Ekonomik darboğazın sirayet ettiği bu sokaklarda sessizlik hakim, yüzlerde ise umutsuzluk var. Bir küçük tüp alıyorsun, 700 lira; bir hafta bile gitmiyor.
+
+================================================================================
+
+## Economic Segment 8
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 59
+**Retention**: 32.07%
+
+Bakanlığın sosyal yardımda bulunduğu kişi sayısı 17 milyon olsa da Sarmaşık Ailesi onlara dahil olamayan binler içinde yer alıyor. Ekrem Kutlu der ki, 6 üstü 2,000 lira memleketin yarısından çoğunu yardıma muhtaç hale getirdiler. Nilgün Hanım da söylüyor, memurla memur emeklisi arasındaki dengesizlik 6 üstü 2. Bu durum, ekonomik eşitsizliklerin artmasına ve sosyal yardıma olan ihtiyacın büyümesine neden oluyor.
+
+================================================================================
+
+## Economic Segment 9
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 115
+**Retention**: 51.34%
+
+Samsun'da Disk Emekli Sen şubesi, düşük maaşlara tepki için tencere kaynattı. Emeklilere verilen zammın düşüklüğü de şikayet konusu oldu; gıda içi ve Bağkur emeklilerine yapılacak zam oranı %2,73, memur emeklilerine yapılacak zam oranı ise %19,931 olarak belirlenmiştir. Eylem alanındaki tabuta "İnsanca yaşamak istiyoruz" yazdı. 
+
+Manisa'da yaklaşık 554 kişinin çalıştığı Bitron şirketinde, Türk Metal Sendikası üyesi 17 kişi işten çıkarıldı. Sendikanın Manisa şubesi, fabrikanın önüne giderek açıklama yaptı. Başkan ERC Dereli, üyelerin istifaya zorlandığını belirtti ve işverenin bu davranışının sendikal örgütlenmeye saldırı niteliğinde olduğunu ifade etti. 
+
+Bu gelişmeler, işçi hakları ve sendikal mücadele açısından önemli bir ekonomik bağlam sunmaktadır. İşten çıkarılan işçilerin durumu, iş gücü piyasasındaki baskıları ve işveren-çalışan ilişkilerini etkileyen ekonomik koşulları gözler önüne seriyor.
+
+================================================================================
+
+## Economic Segment 10
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 115
+**Retention**: 33.92%
+
+Mayıs ayı işsizlik verilerinde ise yine düşüş yaşandı. Halbuki o verilerde 1,5 milyon stajyer çırak çalışan olarak gözüküyor. İşverenin gözünde de biz bedava işçiyiz. Öğrenciler meslek liselerine teşvik edilmeye çalışılsa da staj ve çıraklık mağduriyetini gören bu işe adım dahi atmıyor. Ankara Ticaret Odası Başkanı ve İstanbul Ticaret Odası Başkanı, sigorta haklarının verilmesi gerektiğini vurguladılar. Ustalar yetiştirecek eleman dahi bulamıyor. Çırak yok, yetişmiyor. Eğer bizim milletin çocukları bu işleri öğrenmezse, gelen mültecilerden ithal tesisatçılar getireceğiz. Birçok meslek grubu bu ciddi problem yüzünden bitme noktasına kadar geldi. Teşvik yerine önce mağduriyet giderilirse belki daha ciddi bir adım olur diyor mağdurlar. Bu sigorta eksikliği maalesef 37 yıldır başımızda dert olarak duruyor. Bu teşvikin altının da doldurulması gerekiyor.
+
+================================================================================
+
+## Economic Segment 11
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 102
+**Retention**: 62.20%
+
+Türkiye ekonomisi ile ilgili olarak, emekli vatandaşların yaşadığı zorluklar ve ekonomik veriler dikkat çekiyor. Türkiye İstatistik Kurumu (TÜİK) verilerine göre, emeklilerin açlık ve yoksulluk sınırında yaşam mücadelesi verdiği belirtiliyor. Bu durum, hükümetin ekonomik politikalarının etkisini sorgulayan bir tartışma başlatıyor. 
+
+Ayrıca, emeklilerin 2.000 lira gibi bir destek alması gerektiği ifade ediliyor. Bu destek, emeklilerin ay sonunu getirmekte zorlandığı bir dönemde, ekonomik koşulların ne denli zorlayıcı olduğunu gösteriyor. Ekonomik veriler ışığında, bu tür yardımların artırılması gerektiği yönünde görüşler öne çıkıyor. 
+
+Sonuç olarak, Türkiye'deki ekonomik durum, emeklilerin yaşam standartlarını doğrudan etkileyen bir mesele olarak karşımıza çıkıyor ve bu durum, hükümetin alacağı ekonomik kararların önemini vurguluyor.
+
+================================================================================
+
+## Economic Segment 12
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 70
+**Retention**: 40.70%
+
+6 milyon dolar para cezası ödeyecek kısa bir dış haber turu da atmış olduk bu vesileyle. Hazine ve Maliye Bakanımız Mehmet Şimşek, ekonomik veriler ve mali durum hakkında açıklamalarda bulunacak. İstanbul planları ile ilgili olarak, bakanın katılacağı toplantının ertelendiği bildirildi. Emekli maaşları için yapılan 2,000 liralık zam üzerine organizasyonlar toplantılar düzenliyor. Vatandaşlar, bu zam için yapılan çalışmaların maliyetini sorguluyor. Ekonomik verilerin ve istihdam durumunun göz önünde bulundurulması gerektiği ifade ediliyor.
+
+================================================================================
+
+## Economic Segment 13
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 61
+**Retention**: 38.85%
+
+Peki anket sonuçları Sözcü televizyonu izleyicileri bakalım hangi görüşleri ortaya koydular. Aile Bakanlığının verilerine yansıdı, nüfusumuzun dörte birinin yardıma muhtaç olduğu artık resmiyete kavuştu. Hükümet en düşük emekli aylığını artırmayı planlıyor. Zirve hazırlığında toplantıdan beklentiniz ne? 2,000 lira için ne Zirvesi diyenler %46, ek zam hiç yoktan iyidir diyenler %24. Emekli boşa umutlanmasın diyen %... emeklinin yüzü güler diyen sadece %...
+
+================================================================================
+
+## Economic Segment 14
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 101
+**Retention**: 57.71%
+
+Türkiye İş Bankası'nın katkılarıyla gerçekleştirilen Bodrum Bale Festivali, bu yıl 21. kez düzenleniyor. Ekonomik açıdan, bu tür etkinliklerin yerel turizme ve dolayısıyla bölge ekonomisine katkı sağladığı belirtiliyor. 
+
+Gündemde emekli vatandaşlar için yapılan düzenlemeler de önemli bir ekonomik konu. Emekli maaşlarının artırılması, tüketim harcamalarını etkileyerek genel ekonomik aktiviteyi canlandırabilir. 
+
+Ayrıca, ekonomik veriler ve istatistikler, Türkiye'nin genel ekonomik durumunu anlamak için kritik öneme sahip. Bu bağlamda, hükümetin ekonomik politikaları ve bunların etkileri üzerine yapılan analizler, yatırımcılar ve iş dünyası için yol gösterici olabilir. 
+
+Sonuç olarak, bu tür etkinlikler ve hükümetin emekli vatandaşlara yönelik politikaları, Türkiye'nin ekonomik dinamiklerini şekillendiren önemli unsurlar arasında yer alıyor.
+
+================================================================================
+

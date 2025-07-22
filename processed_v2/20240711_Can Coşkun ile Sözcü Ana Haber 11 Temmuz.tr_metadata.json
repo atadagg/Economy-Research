@@ -1,0 +1,134 @@
+{
+  "file_path": "news/SozcuTV/20240711_Can Coşkun ile Sözcü Ana Haber 11 Temmuz.tr.txt",
+  "processing_timestamp": "2025-07-22T17:53:48.030255",
+  "original_word_count": 7127,
+  "filtered_word_count": 815,
+  "retention_ratio": 0.11435386558159114,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "ne olac sığınmacılar sorununda çözüm yakın mı İpek Özbey soruyor",
+      "description": "\"ne olac sığınmacılar sorununda çözüm yakın mı İpek Özbey soruyor\" - This section introduces the program and the host, setting the stage for the discussion on current issues.",
+      "end_pos": 490
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 490,
+      "start_sentence": "Bir saatimiz var tabelam aslında çok net bugün Sözcü TEV haber merkezinin imzasını attığı o özel yayında",
+      "description": "\"Bir saatimiz var tabelam aslında çok net bugün Sözcü TEV haber merkezinin imzasını attığı o özel yayında\" - This section contains the main news content, discussing various topics including the situation of retirees and football scandals.",
+      "end_pos": 778
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 778,
+      "start_sentence": "Sözcü ana haberde başta emekli vatandaşlarımız olmak üzere asgari ücretlerden de",
+      "description": "\"Sözcü ana haberde başta emekli vatandaşlarımız olmak üzere asgari ücretlerden de\" - This brief transition leads into a specific news segment about retirees and their concerns, indicating a shift in focus within the news content.",
+      "end_pos": 1060
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1060,
+      "start_sentence": "Efendim bir futbol gündemi oluştu biliyorsunuz birçok skandal",
+      "description": "\"Efendim bir futbol gündemi oluştu biliyorsunuz birçok skandal\" - This section continues with another distinct news story focusing on football-related issues, including controversies and personnel changes.",
+      "end_pos": 1926
+    },
+    {
+      "type": "5. **OUTRO**",
+      "start_pos": 1926,
+      "start_sentence": "yine siyaseti konuşacağımız spor tartışmalarının orta",
+      "description": "\"yine siyaseti konuşacağımız spor tartışmalarının orta\" - This section provides closing remarks, hinting at future discussions and wrapping up the program.",
+      "end_pos": 50216
+    }
+  ],
+  "news_segments_count": 18,
+  "economic_segments_count": 9,
+  "economic_segments": [
+    {
+      "segment_id": "1926_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 360,
+      "filtered_length": 115,
+      "retention_ratio": 0.3194444444444444,
+      "section_description": "\"yine siyaseti konuşacağımız spor tartışmalarının orta\" - This section provides closing remarks, hinting at future discussions and wrapping up the program."
+    },
+    {
+      "segment_id": "1926_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 231,
+      "filtered_length": 142,
+      "retention_ratio": 0.6147186147186147,
+      "section_description": "\"yine siyaseti konuşacağımız spor tartışmalarının orta\" - This section provides closing remarks, hinting at future discussions and wrapping up the program."
+    },
+    {
+      "segment_id": "1926_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 144,
+      "filtered_length": 83,
+      "retention_ratio": 0.5763888888888888,
+      "section_description": "\"yine siyaseti konuşacağımız spor tartışmalarının orta\" - This section provides closing remarks, hinting at future discussions and wrapping up the program."
+    },
+    {
+      "segment_id": "1926_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 65,
+      "filtered_length": 55,
+      "retention_ratio": 0.8461538461538461,
+      "section_description": "\"yine siyaseti konuşacağımız spor tartışmalarının orta\" - This section provides closing remarks, hinting at future discussions and wrapping up the program."
+    },
+    {
+      "segment_id": "1926_5",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 382,
+      "filtered_length": 117,
+      "retention_ratio": 0.306282722513089,
+      "section_description": "\"yine siyaseti konuşacağımız spor tartışmalarının orta\" - This section provides closing remarks, hinting at future discussions and wrapping up the program."
+    },
+    {
+      "segment_id": "1926_7",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 148,
+      "filtered_length": 98,
+      "retention_ratio": 0.6621621621621622,
+      "section_description": "\"yine siyaseti konuşacağımız spor tartışmalarının orta\" - This section provides closing remarks, hinting at future discussions and wrapping up the program."
+    },
+    {
+      "segment_id": "1926_11",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 185,
+      "filtered_length": 66,
+      "retention_ratio": 0.3567567567567568,
+      "section_description": "\"yine siyaseti konuşacağımız spor tartışmalarının orta\" - This section provides closing remarks, hinting at future discussions and wrapping up the program."
+    },
+    {
+      "segment_id": "1926_12",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 80,
+      "filtered_length": 54,
+      "retention_ratio": 0.675,
+      "section_description": "\"yine siyaseti konuşacağımız spor tartışmalarının orta\" - This section provides closing remarks, hinting at future discussions and wrapping up the program."
+    },
+    {
+      "segment_id": "1926_13",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 196,
+      "filtered_length": 85,
+      "retention_ratio": 0.4336734693877551,
+      "section_description": "\"yine siyaseti konuşacağımız spor tartışmalarının orta\" - This section provides closing remarks, hinting at future discussions and wrapping up the program."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

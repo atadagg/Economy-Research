@@ -1,0 +1,46 @@
+# Economic Content from: 20240930_Fatih Portakal ile Sözcü Ana Haber 30 Eylül.tr.txt
+# Processed: 2025-07-22T17:42:57.808493
+# Original: 7377 words → Filtered: 283 words (3.84% retention)
+# Economic segments: 3
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 102
+**Retention**: 56.04%
+
+Kasım Aralık 3 ay sonra da 2024'e bay b diyeceğiz. Gündem zaten epey bir yoğun göreceksiniz. Ekonomik veriler ve istatistikler, piyasalardaki dalgalanmalar ve yatırım fırsatları hakkında önemli gelişmeler yaşanıyor. Özellikle son dönemde enflasyon oranları ve maliyet artışları, iş dünyasında dikkatle takip ediliyor. 
+
+Hükümetin ekonomik politikaları, iş yapma kolaylığı ve yatırım ortamını etkileyen unsurlar arasında yer alıyor. Şirketlerin gelişmeleri ve finansal performansları, yatırımcılar için kritik bir öneme sahip. Ayrıca, döviz kurlarındaki değişimler ve ticaret dengesi, dış ticaretin seyrini belirleyen faktörler arasında. 
+
+Uzmanlar, bu dönemde ekonomik analizlerin ve verilerin daha da önem kazanacağını vurguluyor. Ekonomik göstergeler, piyasa beklentilerini şekillendiren temel unsurlar olarak öne çıkıyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 53
+**Retention**: 67.09%
+
+Asgari ücretin 10,000 lira olması, emekli maaşlarının alım gücünü etkiliyor. İstanbul'da konut krizi derinleşti; ortalama konut kirası 2,400 lira seviyesine ulaştı. Bu durum, kiraların artmasıyla birlikte birçok kişinin ev bulma ve kira ödeme konusunda zorluk yaşamasına neden oluyor. Dolayısıyla, daha yüksek kiralarla karşılaşan bireyler evden çıkmak zorunda kalıyor ve yeni konut arayışına giriyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 128
+**Retention**: 38.32%
+
+Kadıköy'de kiralar artış gösteriyor ve bu durum öğrencileri zor durumda bırakıyor. Öğrenciler, kiraların 35-40 bin liradan aşağıya düşmeyeceğini düşünüyor. Bu ekonomik koşullar altında, birçok kişi evlerini terk etmek zorunda kalabilir. Türkiye'deki kira artışları, genel ekonomik durumu yansıtıyor ve bu durum, özellikle gençler ve öğrenciler için büyük bir sorun haline gelmiş durumda. 
+
+Ayrıca, Türkiye'de hükümetin ekonomik politikaları ve uygulamaları, çeşitli sektörlerde tartışmalara yol açıyor. İki bakanlık arasında yaşanan bir dolandırıcılık iddiası, devletin ekonomik yönetiminde yaşanan sorunları gözler önüne seriyor. Milli Eğitim Bakanlığı'nın, Dışişleri Bakanlığı ile olan projeleri üzerinden yaşanan bu durum, kamu kaynaklarının nasıl kullanıldığına dair endişeleri artırıyor. 
+
+Bu bağlamda, Türkiye'nin ekonomik verileri ve istatistikleri, toplumun farklı kesimlerinde büyük bir etki yaratıyor. Ekonomik belirsizlikler, bireylerin yaşam standartlarını doğrudan etkiliyor ve bu durum, toplumda geniş bir tartışma konusu haline geliyor.
+
+================================================================================
+

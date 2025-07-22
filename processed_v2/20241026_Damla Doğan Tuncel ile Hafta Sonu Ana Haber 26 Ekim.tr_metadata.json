@@ -1,0 +1,89 @@
+{
+  "file_path": "news/SozcuTV/20241026_Damla Doğan Tuncel ile Hafta Sonu Ana Haber 26 Ekim.tr.txt",
+  "processing_timestamp": "2025-07-22T17:33:28.330890",
+  "original_word_count": 5337,
+  "filtered_word_count": 309,
+  "retention_ratio": 0.05789769533445756,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "Tuncel 26 Ekim Cumartesi bugün etiketimiz...",
+      "description": "\"Tuncel 26 Ekim Cumartesi bugün etiketimiz...\" - The opening segment introduces the program, the date, and the main topic of discussion, setting the stage for the news content.",
+      "end_pos": 298
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 298,
+      "start_sentence": "Cumhurbaşkanı Erdoğan da günler sonra bugün ilk kez...",
+      "description": "\"Cumhurbaşkanı Erdoğan da günler sonra bugün ilk kez...\" - This section contains the actual news content, discussing various political topics, including statements from political figures and current events.",
+      "end_pos": 694
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 694,
+      "start_sentence": "Bugün bir yenilik var İki anketimiz var...",
+      "description": "\"Bugün bir yenilik var İki anketimiz var...\" - This brief transition introduces the interactive segment of the program where viewers are invited to participate in polls related to the news topics being discussed.",
+      "end_pos": 1670
+    },
+    {
+      "type": "5. **OUTRO**",
+      "start_pos": 1670,
+      "start_sentence": "Reklamların hemen ardından sonuçları getireceğiz ekranlarınıza...",
+      "description": "\"Reklamların hemen ardından sonuçları getireceğiz ekranlarınıza...\" - This closing segment indicates the transition to commercial breaks and hints at the upcoming content, wrapping up the current news discussion.",
+      "end_pos": 1868
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1868,
+      "start_sentence": "Ana habere başlıyoruz önce sınırımızın hemen diğer yanında...",
+      "description": "\"Ana habere başlıyoruz önce sınırımızın hemen diğer yanında...\" - This marks the continuation of the news segment, focusing on specific events in the Middle East and their implications.",
+      "end_pos": 37866
+    }
+  ],
+  "news_segments_count": 9,
+  "economic_segments_count": 4,
+  "economic_segments": [
+    {
+      "segment_id": "298_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 60,
+      "filtered_length": 43,
+      "retention_ratio": 0.7166666666666667,
+      "section_description": "\"Cumhurbaşkanı Erdoğan da günler sonra bugün ilk kez...\" - This section contains the actual news content, discussing various political topics, including statements from political figures and current events."
+    },
+    {
+      "segment_id": "1868_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 121,
+      "filtered_length": 78,
+      "retention_ratio": 0.6446280991735537,
+      "section_description": "\"Ana habere başlıyoruz önce sınırımızın hemen diğer yanında...\" - This marks the continuation of the news segment, focusing on specific events in the Middle East and their implications."
+    },
+    {
+      "segment_id": "1868_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 108,
+      "filtered_length": 52,
+      "retention_ratio": 0.48148148148148145,
+      "section_description": "\"Ana habere başlıyoruz önce sınırımızın hemen diğer yanında...\" - This marks the continuation of the news segment, focusing on specific events in the Middle East and their implications."
+    },
+    {
+      "segment_id": "1868_5",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 265,
+      "filtered_length": 136,
+      "retention_ratio": 0.5132075471698113,
+      "section_description": "\"Ana habere başlıyoruz önce sınırımızın hemen diğer yanında...\" - This marks the continuation of the news segment, focusing on specific events in the Middle East and their implications."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

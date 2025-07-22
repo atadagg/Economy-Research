@@ -1,0 +1,140 @@
+{
+  "file_path": "news/SozcuTV/20240920_Fatih Portakal ile Sözcü Ana Haber 20 Eylül.tr.txt",
+  "processing_timestamp": "2025-07-22T17:22:16.385392",
+  "original_word_count": 6891,
+  "filtered_word_count": 416,
+  "retention_ratio": 0.060368596720359886,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "ana haber bültenine Hoş geldiniz sevgili izleyenler",
+      "description": "\"ana haber bültenine Hoş geldiniz sevgili izleyenler\" - The opening of the news broadcast where the presenter welcomes the viewers and introduces the program.",
+      "end_pos": 0
+    },
+    {
+      "type": "- **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "ana haber bültenine Hoş geldiniz sevgili izleyenler",
+      "description": "\"ana haber bültenine Hoş geldiniz sevgili izleyenler\" - The opening of the news broadcast where the presenter welcomes the viewers and introduces the program.",
+      "end_pos": 496
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 496,
+      "start_sentence": "Evet bir Yunan hücum botu girdi",
+      "description": "\"Evet bir Yunan hücum botu girdi\" - The main news content begins with a report about a Greek assault boat entering Turkish waters, discussing the implications and reactions to this incident.",
+      "end_pos": 496
+    },
+    {
+      "type": "- **NEWS**",
+      "start_pos": 496,
+      "start_sentence": "Evet bir Yunan hücum botu girdi",
+      "description": "\"Evet bir Yunan hücum botu girdi\" - The main news content begins with a report about a Greek assault boat entering Turkish waters, discussing the implications and reactions to this incident.",
+      "end_pos": 689
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 689,
+      "start_sentence": "günün sözü B'den güzel bir söz",
+      "description": "\"günün sözü B'den güzel bir söz\" - A brief transition where the presenter introduces a quote related to justice and injustice, serving as a segue into the next segment.",
+      "end_pos": 689
+    },
+    {
+      "type": "- **TRANSITION**",
+      "start_pos": 689,
+      "start_sentence": "günün sözü B'den güzel bir söz",
+      "description": "\"günün sözü B'den güzel bir söz\" - A brief transition where the presenter introduces a quote related to justice and injustice, serving as a segue into the next segment.",
+      "end_pos": 1176
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1176,
+      "start_sentence": "Türk Silahlı Kuvvetleri nasıl uyur",
+      "description": "\"Türk Silahlı Kuvvetleri nasıl uyur\" - Continuation of the news segment discussing the Turkish Armed Forces and the implications of the Greek boat's incursion, along with questions about the response from authorities.",
+      "end_pos": 1176
+    },
+    {
+      "type": "- **NEWS**",
+      "start_pos": 1176,
+      "start_sentence": "Türk Silahlı Kuvvetleri nasıl uyur",
+      "description": "\"Türk Silahlı Kuvvetleri nasıl uyur\" - Continuation of the news segment discussing the Turkish Armed Forces and the implications of the Greek boat's incursion, along with",
+      "end_pos": 1366
+    },
+    {
+      "type": "7. **OUTRO**",
+      "start_pos": 1366,
+      "start_sentence": "Yani biz Akşamları rahat uyuyalım mı beyler",
+      "description": "\"Yani biz Akşamları rahat uyuyalım mı beyler\" - The closing remarks where the presenter reflects on the discussed issues and wraps up the program.",
+      "end_pos": 1661
+    },
+    {
+      "type": "5. **TRANSITION**",
+      "start_pos": 1661,
+      "start_sentence": "geldik sorulara önce YouTube soru",
+      "description": "\"geldik sorulara önce YouTube soru\" - Another transition where the presenter shifts to viewer questions, indicating a change in focus to audience interaction.",
+      "end_pos": 1758
+    },
+    {
+      "type": "6. **NEWS**",
+      "start_pos": 1758,
+      "start_sentence": "Eee okul müdürüyle okul kapısını tekmeleyen bir müdür",
+      "description": "\"Eee okul müdürüyle okul kapısını tekmeleyen bir müdür\" - The news segment continues with a report about a school principal kicking a door, discussing the incident and its implications.",
+      "end_pos": 47656
+    }
+  ],
+  "news_segments_count": 12,
+  "economic_segments_count": 5,
+  "economic_segments": [
+    {
+      "segment_id": "1758_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 215,
+      "filtered_length": 65,
+      "retention_ratio": 0.3023255813953488,
+      "section_description": "\"Eee okul müdürüyle okul kapısını tekmeleyen bir müdür\" - The news segment continues with a report about a school principal kicking a door, discussing the incident and its implications."
+    },
+    {
+      "segment_id": "1758_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 162,
+      "filtered_length": 99,
+      "retention_ratio": 0.6111111111111112,
+      "section_description": "\"Eee okul müdürüyle okul kapısını tekmeleyen bir müdür\" - The news segment continues with a report about a school principal kicking a door, discussing the incident and its implications."
+    },
+    {
+      "segment_id": "1758_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 137,
+      "filtered_length": 78,
+      "retention_ratio": 0.5693430656934306,
+      "section_description": "\"Eee okul müdürüyle okul kapısını tekmeleyen bir müdür\" - The news segment continues with a report about a school principal kicking a door, discussing the incident and its implications."
+    },
+    {
+      "segment_id": "1758_6",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 198,
+      "filtered_length": 115,
+      "retention_ratio": 0.5808080808080808,
+      "section_description": "\"Eee okul müdürüyle okul kapısını tekmeleyen bir müdür\" - The news segment continues with a report about a school principal kicking a door, discussing the incident and its implications."
+    },
+    {
+      "segment_id": "1758_7",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 122,
+      "filtered_length": 59,
+      "retention_ratio": 0.48360655737704916,
+      "section_description": "\"Eee okul müdürüyle okul kapısını tekmeleyen bir müdür\" - The news segment continues with a report about a school principal kicking a door, discussing the incident and its implications."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

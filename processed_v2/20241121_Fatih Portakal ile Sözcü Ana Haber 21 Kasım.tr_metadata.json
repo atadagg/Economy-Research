@@ -1,0 +1,73 @@
+{
+  "file_path": "news/SozcuTV/20241121_Fatih Portakal ile Sözcü Ana Haber 21 Kasım.tr.txt",
+  "processing_timestamp": "2025-07-22T17:49:03.183437",
+  "original_word_count": 6737,
+  "filtered_word_count": 353,
+  "retention_ratio": 0.05239720944040374,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "ha parayı bir helal yoldan kazanmak vardır...",
+      "description": "\"ha parayı bir helal yoldan kazanmak vardır...\" - The presenter begins discussing the importance of money and introduces the topic of the broadcast, setting the stage for the program.",
+      "end_pos": 1380
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 1380,
+      "start_sentence": "Bugün MHP'den ü vekil ihraç edilmişti vekilliği düşürdü...",
+      "description": "\"Bugün MHP'den ü vekil ihraç edilmişti vekilliği düşürdü...\" - The main news content begins here, detailing the expulsion of a member from the MHP party and discussing related issues such as allegations of gold smuggling.",
+      "end_pos": 1666
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 1666,
+      "start_sentence": "Peki Tabii iddiayı bilemiyoruz MHP de tam olarak konuşmadı...",
+      "description": "\"Peki Tabii iddiayı bilemiyoruz MHP de tam olarak konuşmadı...\" - This section serves as a brief transition within the news segment, moving from one news story to another while maintaining the flow of information.",
+      "end_pos": 1858
+    },
+    {
+      "type": "4. **OUTRO**",
+      "start_pos": 1858,
+      "start_sentence": "Eee YouTube soru YouTube soru h...",
+      "description": "\"Eee YouTube soru YouTube soru h...\" - The closing remarks begin here, indicating the end of the program and possibly inviting viewers to engage further or tune in next time.",
+      "end_pos": 46435
+    }
+  ],
+  "news_segments_count": 8,
+  "economic_segments_count": 3,
+  "economic_segments": [
+    {
+      "segment_id": "0_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 206,
+      "filtered_length": 116,
+      "retention_ratio": 0.5631067961165048,
+      "section_description": "\"ha parayı bir helal yoldan kazanmak vardır...\" - The presenter begins discussing the importance of money and introduces the topic of the broadcast, setting the stage for the program."
+    },
+    {
+      "segment_id": "1858_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 300,
+      "filtered_length": 104,
+      "retention_ratio": 0.3466666666666667,
+      "section_description": "\"Eee YouTube soru YouTube soru h...\" - The closing remarks begin here, indicating the end of the program and possibly inviting viewers to engage further or tune in next time."
+    },
+    {
+      "segment_id": "1858_5",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 191,
+      "filtered_length": 133,
+      "retention_ratio": 0.6963350785340314,
+      "section_description": "\"Eee YouTube soru YouTube soru h...\" - The closing remarks begin here, indicating the end of the program and possibly inviting viewers to engage further or tune in next time."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

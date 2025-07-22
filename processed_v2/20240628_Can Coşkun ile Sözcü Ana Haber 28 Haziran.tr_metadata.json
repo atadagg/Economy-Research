@@ -1,0 +1,62 @@
+{
+  "file_path": "news/SozcuTV/20240628_Can Coşkun ile Sözcü Ana Haber 28 Haziran.tr.txt",
+  "processing_timestamp": "2025-07-22T17:41:24.203084",
+  "original_word_count": 7009,
+  "filtered_word_count": 116,
+  "retention_ratio": 0.0165501498073905,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "ve röportajlara imza attı özel pulis bilgileri...",
+      "description": "\"ve röportajlara imza attı özel pulis bilgileri...\" - This section introduces the program and sets the stage for the news content, mentioning the focus on current events and the major agenda.",
+      "end_pos": 97
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 97,
+      "start_sentence": "bugünün Majör gündemi en büyük Radikal sapması nereden geldi dış politikada...",
+      "description": "\"bugünün Majör gündemi en büyük Radikal sapması nereden geldi dış politikada...\" - This section contains the main news content, discussing various political topics, including the implications of statements made by President Erdoğan and the potential for early elections.",
+      "end_pos": 290
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 290,
+      "start_sentence": "Cumhurbaşkanı Erdoğan'ın planına bağlı ama bunu biraz açmak lazım Neden...",
+      "description": "\"Cumhurbaşkanı Erdoğan'ın planına bağlı ama bunu biraz açmak lazım Neden...\" - This continues the news segment, elaborating on Erdoğan's potential plans regarding elections and political strategy.",
+      "end_pos": 389
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 389,
+      "start_sentence": "Şimdi bundan sonra ne olacak soruları var o yüzden tabelam Esed Esat ama her konuda ssat tabelasını kullanarak...",
+      "description": "\"Şimdi bundan sonra ne olacak soruları var o yüzden tabelam Esed Esat ama her konuda ssat tabelasını kullanarak...\" - This brief transition connects different news topics, indicating a shift in focus while maintaining the overall theme of political developments.",
+      "end_pos": 389
+    },
+    {
+      "type": "5. **OUTRO**",
+      "start_pos": 389,
+      "start_sentence": "Bu da 2 bu5 sene sonra olur mu bugün CHP genel başkanı Özgür Özel gel ada...",
+      "description": "\"Bu da 2 bu5 sene sonra olur mu bugün CHP genel başkanı Özgür Özel gel ada...\" - This section wraps up the discussion, hinting at future developments and concluding the news segment.",
+      "end_pos": 49522
+    }
+  ],
+  "news_segments_count": 7,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "389_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 161,
+      "filtered_length": 116,
+      "retention_ratio": 0.7204968944099379,
+      "section_description": "\"Bu da 2 bu5 sene sonra olur mu bugün CHP genel başkanı Özgür Özel gel ada...\" - This section wraps up the discussion, hinting at future developments and concluding the news segment."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

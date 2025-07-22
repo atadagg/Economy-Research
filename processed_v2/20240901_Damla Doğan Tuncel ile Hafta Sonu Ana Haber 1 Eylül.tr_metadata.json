@@ -1,0 +1,84 @@
+{
+  "file_path": "news/SozcuTV/20240901_Damla Doğan Tuncel ile Hafta Sonu Ana Haber 1 Eylül.tr.txt",
+  "processing_timestamp": "2025-07-22T17:33:47.850997",
+  "original_word_count": 5597,
+  "filtered_word_count": 518,
+  "retention_ratio": 0.09254958013221369,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "komik Ak Parti grup başkanı Abdullah Güler'in açıklamalarından esinlendik",
+      "description": "\"komik Ak Parti grup başkanı Abdullah Güler'in açıklamalarından esinlendik\" - The program begins with a reference to a political figure and sets the stage for the news content, indicating the start of the broadcast.",
+      "end_pos": 489
+    },
+    {
+      "type": "3. **OUTRO**",
+      "start_pos": 489,
+      "start_sentence": "hepsi ve daha fazlası için Ana Haber başlıyor",
+      "description": "\"hepsi ve daha fazlası için Ana Haber başlıyor\" - The closing remarks are not explicitly provided in the excerpt, but this phrase indicates a transition to the end of the program, suggesting that the broadcast is wrapping up.",
+      "end_pos": 590
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 590,
+      "start_sentence": "YKS Dün o görüntüleri getirdik ekranlarınıza",
+      "description": "\"YKS Dün o görüntüleri getirdik ekranlarınıza\" - This section contains the main news stories, including discussions about political events, statements from leaders, and public reactions, forming the core content of the broadcast.",
+      "end_pos": 40413
+    }
+  ],
+  "news_segments_count": 9,
+  "economic_segments_count": 5,
+  "economic_segments": [
+    {
+      "segment_id": "590_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 219,
+      "filtered_length": 219,
+      "retention_ratio": 1.0,
+      "section_description": "\"YKS Dün o görüntüleri getirdik ekranlarınıza\" - This section contains the main news stories, including discussions about political events, statements from leaders, and public reactions, forming the core content of the broadcast."
+    },
+    {
+      "segment_id": "590_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 229,
+      "filtered_length": 115,
+      "retention_ratio": 0.5021834061135371,
+      "section_description": "\"YKS Dün o görüntüleri getirdik ekranlarınıza\" - This section contains the main news stories, including discussions about political events, statements from leaders, and public reactions, forming the core content of the broadcast."
+    },
+    {
+      "segment_id": "590_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 156,
+      "filtered_length": 72,
+      "retention_ratio": 0.46153846153846156,
+      "section_description": "\"YKS Dün o görüntüleri getirdik ekranlarınıza\" - This section contains the main news stories, including discussions about political events, statements from leaders, and public reactions, forming the core content of the broadcast."
+    },
+    {
+      "segment_id": "590_5",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 136,
+      "filtered_length": 65,
+      "retention_ratio": 0.47794117647058826,
+      "section_description": "\"YKS Dün o görüntüleri getirdik ekranlarınıza\" - This section contains the main news stories, including discussions about political events, statements from leaders, and public reactions, forming the core content of the broadcast."
+    },
+    {
+      "segment_id": "590_6",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 86,
+      "filtered_length": 47,
+      "retention_ratio": 0.5465116279069767,
+      "section_description": "\"YKS Dün o görüntüleri getirdik ekranlarınıza\" - This section contains the main news stories, including discussions about political events, statements from leaders, and public reactions, forming the core content of the broadcast."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

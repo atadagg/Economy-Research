@@ -1,0 +1,57 @@
+# Economic Content from: 20240911_Fatih Portakal ile Sözcü Ana Haber 11 Eylül.tr.txt
+# Processed: 2025-07-22T17:50:54.103849
+# Original: 7061 words → Filtered: 310 words (4.39% retention)
+# Economic segments: 4
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 75
+**Retention**: 100.00%
+
+arazide güçlü çekiş sağlayan traction Plus özelliği şimdi ega crl çizgiyi açtık hiçbir yere
+ayrılmayın birazdan başlıyoruz paribu Harbiye açık hava konserleri devam ediyor 5 6 7 Eylül 20 2122
+Ekim mavel Matis 89 Eylül 19 Ekim Melike Şahin 10 eylül Emircan iğrek 17-18 Ekim Duman organizasyon
+Atlantis yapım biletler bilet X ve bu bilette İyi akşamlar benti pakal Türkiye'nin farkı haber
+bültenine Hoş geldiniz sevgili izleyenler tarih 11 Eylül 2024 günlerden çarşamba haftanın ortasına
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 55
+**Retention**: 31.07%
+
+Yapılan bu harcama tam 77 90 emeklinin bir aylık maaşına denk geliyor. Emekli ne halt etsin ki şimdi? Kredi kartlarına limit geliyor. Daha doğrusu gözler üzerimizde, nakit parayla alışverişi sınırlama gayretine gidecekler. Eğer alışveriş yapacak olursanız 7,000 TL'nin üzerinde işlem yapmanız zorlaşacak. Bu durum, halkın alım gücünü etkileyen önemli bir ekonomik gelişme olarak öne çıkıyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 82
+**Retention**: 49.10%
+
+Hazine ve Maliye Bakanlığı kayıt dışılıkla mücadele kapsamında yeni bir düzenleme hazırlığında. Buna göre bundan sonra 7.000 TL üzeri alışverişlerde kredi kartı ve banka kartı kullanma zorunluluğu geliyor. Hazine ve Maliye Bakanlığı yeni çalışmayla kayıt dışı akışı önleyerek vergi ve bütçe gelirlerini artırmayı hedefliyor. Bankalar arası kart merkezinin verilerine göre Türkiye'de 2024 Temmuz'da kredi kartı sayısı 125 milyona dayandı. Düzenleme ile birlikte kredi kartı kullanımının daha da artması bekleniyor. Ödemeleri banka veya kredi kartıyla yapmayan tüketicilere ödeme tutarının %10'u oranında ceza kesilecek.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 98
+**Retention**: 36.84%
+
+Ekonomi sıfır. Vatandaş, artan maliyetler karşısında zor durumda. Gelirlerin nasıl artacağına dair endişeler var. İnsanlar, temel ihtiyaçlarını karşılamakta zorlanıyor. Ekonomik durum, birçok insanın hayal kurmasını engelliyor. Ülkenin ekonomik durumu, bireylerin yaşam standartlarını olumsuz etkiliyor. 
+
+İstanbul'un sağlık sorunları, ekonomik açıdan da bir yük oluşturuyor. Devlet hastanelerinin yetersizliği, özel hastanelere yönelimi artırıyor. Ancak özel hastanelerin maliyetleri, birçok kişi için erişilemez durumda. Sağlık alanında ayrılan bütçenin yetersizliği, bu durumu daha da zorlaştırıyor. 
+
+Sonuç olarak, ekonomik veriler ve istatistikler, vatandaşların yaşam kalitesini doğrudan etkiliyor. Ekonomik politikaların gözden geçirilmesi gerektiği konusunda uzman görüşleri var. Bu durum, hükümetin ekonomik stratejilerini yeniden değerlendirmesi gerektiğini gösteriyor.
+
+================================================================================
+

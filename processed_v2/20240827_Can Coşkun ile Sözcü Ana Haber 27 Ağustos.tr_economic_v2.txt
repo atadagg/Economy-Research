@@ -1,0 +1,62 @@
+# Economic Content from: 20240827_Can Coşkun ile Sözcü Ana Haber 27 Ağustos.tr.txt
+# Processed: 2025-07-22T18:07:35.563707
+# Original: 6885 words → Filtered: 371 words (5.39% retention)
+# Economic segments: 4
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 67
+**Retention**: 34.72%
+
+Türkiye'nin ekonomik durumu, son yıllarda ciddi bir çöküş yaşadı. Ülkede yolsuzluk, adaletsizlik ve yoksulluk artarken, emeklilerin de haksızlıklarla karşılaştığı belirtiliyor. Ekonomik veriler, emeklilere yönelik yapılan 2,500 liralık zamın yetersiz olduğunu gösteriyor. Bu durum, çiftçilerin ve gençlerin eğitimine devam edememesi gibi sorunlarla birleşince, ekonomik kriz daha da derinleşiyor. Uzmanlar, bu koşullar altında hükümetin ekonomik politikalarının yetersiz kaldığını vurguluyor. Ekonomik göstergeler, Türkiye'nin mevcut durumunun daha da kötüleşeceğine işaret ediyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 53
+**Retention**: 89.83%
+
+CHP Genel Başkan Yardımcısı Deniz Yavuz Yılmaz, Ankara tren garındaki hata payının maliyetini açıkladı. 2016-2023 yılları arasında hazinenin şirkete garanti ettiği giden yolcu sayısı 38 milyon iken, gerçek giden yolcu sayısı 13 milyon olarak belirlendi. AK Parti'nin hata payı %64, hazinenin şirkete ödediği garanti tutarı ise 67 milyon 260 bin lira olarak kaydedildi.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 188
+**Retention**: 100.00%
+
+000 bir hafta oldu narinden 7 gündür
+iz yok ekipler çalışmaya devam ediyor Biz dah tüm haber merkezleri Elbette ekip şefleri irtibatta en
+ufak bir bilgi gelirse ekrandan Müjde olarak Duyurma telaşını içeriyor tüm Bu çalışmalar her yer
+didik didik arandı ama kayıp çocuktan bir iz bulunamadı çalışmalar en ufak sese hassas deprem
+cihazlarıyla devam ediyor artık narinin afişleri toplum taşıma araçlarına asıldı bölgeye Özellikle
+de Diyarbakır ve çevresine özel geliyor bu haber Dolayısıyla Narin dair en ufak bir şüphe duyan
+insanlar yakınları çevresi ailesi eşi dostu kime ulaşılırsa ulaşılan babanın bu konuda önemli bir
+ricası var o yüzden ekranlara getirelim Narin'in fotoğrafını da zihnimize kazıyım olur ki bir yerde
+görülür olur ki arama çalışmalarına en ufak bir katkı en ufak bir katkı olacak Bir bilgi bir duyum
+bir gözlem olur lütfen aileye emniyet mensuplarımıza ulaşın DT arkadaşıyla yürüyor ayrıldı Tepe
+yolunu kullandı Bir daha da haber alınamadı 8 yaşındaki Narin arama çalışmalarında 7 güne girildi
+çalışmalar hassas dedektörlerle sürüyor Diyarbakır'dan nin güran 21 Ağustos'ta Kur'an kursundan
+dönüyordu Yanında arkadaşları da vardı farklı yolu tercih etti bu onun son görüntüsüyle değil
+akrabaları komşuları Jandarma herkes harekete geçti 11
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 63
+**Retention**: 55.75%
+
+Bilet fiyatları ise dudak uçuklatıyor; maçın en ucuz bileti 1000 TL, fiyatlar 18500 TL'ye kadar çıkıyor. Asgari ücret üzerinden yapılan hesaplamalar netleştirip vatandaşı 17,2 lirayla en ucuz biletten 17 tane alabilirken, İsviçre vatandaşı asgari ücretleriyle Türk Lirası bazında 167 bilet alabiliyor. Bu durum, yerel ekonomik koşulların ve döviz kurlarının etkisini gözler önüne seriyor. Ekonomik veriler, vatandaşların alım gücünü ve harcama davranışlarını doğrudan etkiliyor.
+
+================================================================================
+

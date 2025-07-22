@@ -1,0 +1,100 @@
+{
+  "file_path": "news/SozcuTV/20240701_Can Coşkun ile Sözcü Ana Haber 1 Temmuz.tr.txt",
+  "processing_timestamp": "2025-07-22T17:26:06.260213",
+  "original_word_count": 6810,
+  "filtered_word_count": 457,
+  "retention_ratio": 0.0671071953010279,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 33,
+      "start_sentence": "1 Temmuz Pazartesi iyi haftalar Efendim saatler 19'u gösteriyor...",
+      "description": "\"1 Temmuz Pazartesi iyi haftalar Efendim saatler 19'u gösteriyor...\" - The opening segment introduces the program, sets the time, and welcomes viewers, indicating the start of the news broadcast.",
+      "end_pos": 971
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 971,
+      "start_sentence": "ilk anketimiz gelsin ekranlara x hesabında Mehmet Şimşek ne yapmaya çalışıyor...",
+      "description": "\"ilk anketimiz gelsin ekranlara x hesabında Mehmet Şimşek ne yapmaya çalışıyor...\" - This section contains the main news content, discussing various topics such as economic policies, the Sinan Ateş case, and includes viewer polls related to these issues.",
+      "end_pos": 1760
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 1760,
+      "start_sentence": "Peki sanıklar tanıklar suçlayanlar suçlamaları toptan reddedenler kim ne söylemiş...",
+      "description": "\"Peki sanıklar tanıklar suçlayanlar suçlamaları toptan reddedenler kim ne söylemiş...\" - This brief transition leads into a specific news story about the Sinan Ateş case, indicating a shift in focus within the news segment.",
+      "end_pos": 1760
+    },
+    {
+      "type": "4. **OUTRO**",
+      "start_pos": 1760,
+      "start_sentence": "Adalet aranıyor bulunacak mı dava sonucuna bağlı celsenin ilki tamamlandı...",
+      "description": "\"Adalet aranıyor bulunacak mı dava sonucuna bağlı celsenin ilki tamamlandı...\" - The closing remarks summarize the ongoing situation regarding the Sinan Ateş case and signal the end of the news segment.",
+      "end_pos": 48791
+    }
+  ],
+  "news_segments_count": 14,
+  "economic_segments_count": 6,
+  "economic_segments": [
+    {
+      "segment_id": "33_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 124,
+      "filtered_length": 63,
+      "retention_ratio": 0.5080645161290323,
+      "section_description": "\"1 Temmuz Pazartesi iyi haftalar Efendim saatler 19'u gösteriyor...\" - The opening segment introduces the program, sets the time, and welcomes viewers, indicating the start of the news broadcast."
+    },
+    {
+      "segment_id": "971_0",
+      "method": "pattern_validated",
+      "confidence": 0.75,
+      "original_length": 70,
+      "filtered_length": 70,
+      "retention_ratio": 1.0,
+      "section_description": "\"ilk anketimiz gelsin ekranlara x hesabında Mehmet Şimşek ne yapmaya çalışıyor...\" - This section contains the main news content, discussing various topics such as economic policies, the Sinan Ateş case, and includes viewer polls related to these issues."
+    },
+    {
+      "segment_id": "1760_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 254,
+      "filtered_length": 87,
+      "retention_ratio": 0.3425196850393701,
+      "section_description": "\"Adalet aranıyor bulunacak mı dava sonucuna bağlı celsenin ilki tamamlandı...\" - The closing remarks summarize the ongoing situation regarding the Sinan Ateş case and signal the end of the news segment."
+    },
+    {
+      "segment_id": "1760_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 114,
+      "filtered_length": 58,
+      "retention_ratio": 0.5087719298245614,
+      "section_description": "\"Adalet aranıyor bulunacak mı dava sonucuna bağlı celsenin ilki tamamlandı...\" - The closing remarks summarize the ongoing situation regarding the Sinan Ateş case and signal the end of the news segment."
+    },
+    {
+      "segment_id": "1760_6",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 170,
+      "filtered_length": 101,
+      "retention_ratio": 0.5941176470588235,
+      "section_description": "\"Adalet aranıyor bulunacak mı dava sonucuna bağlı celsenin ilki tamamlandı...\" - The closing remarks summarize the ongoing situation regarding the Sinan Ateş case and signal the end of the news segment."
+    },
+    {
+      "segment_id": "1760_9",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 127,
+      "filtered_length": 78,
+      "retention_ratio": 0.6141732283464567,
+      "section_description": "\"Adalet aranıyor bulunacak mı dava sonucuna bağlı celsenin ilki tamamlandı...\" - The closing remarks summarize the ongoing situation regarding the Sinan Ateş case and signal the end of the news segment."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

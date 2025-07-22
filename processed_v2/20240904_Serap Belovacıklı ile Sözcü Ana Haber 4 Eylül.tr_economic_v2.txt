@@ -1,0 +1,51 @@
+# Economic Content from: 20240904_Serap Belovacıklı ile Sözcü Ana Haber 4 Eylül.tr.txt
+# Processed: 2025-07-22T17:41:13.505299
+# Original: 7371 words → Filtered: 221 words (3.00% retention)
+# Economic segments: 4
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 50
+**Retention**: 45.45%
+
+Geçim yoksa seçim sloganı muhalefetin sloganı haline geldi. Ekonomik zorluklar, vatandaşların geçim sıkıntısını artırıyor. Artık erken seçim çağrısı, ekonomik belirsizliklerin etkisiyle gündeme geliyor. Ekonomik durumun düzelmesi, iktidarın seçim stratejilerini de etkileyebilir. Bu bağlamda, halkın ekonomik koşulları göz önünde bulundurularak yapılacak seçimler, siyasi sonuçları belirleyebilir. Ekonomi düzelmeden seçim yapılması zor görünüyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 53
+**Retention**: 75.71%
+
+The filtered text focusing on economics, finance, and business is as follows:
+
+TÜİK'in enflasyon verileri 2024'te önemli bir gösterge olacak. AK Parti'nin şu anda durumdan endişeli olduğunu zaten biliyor. Emeklilerin aldığı Temmuz zammı, asgari ücretli için verilmeyen zam ile karşılaştırıldığında, ekonomik eşitsizlikleri ortaya koyuyor. Bu durum, hükümetin ekonomik politikalarını gözden geçirmesi gerektiğini gösteriyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 54
+**Retention**: 38.03%
+
+Hazine ve Maliye Bakanlığı'nın sıradaki hedefi ise araç kiralama şirketleri. Şirketler, otomobilin kime ne zaman kiralandığını ve nerede olduğunu saniye saniye gösteren kabis sistemini kullanıyor. Maliye, araç kiralama şirketlerinin kabis verileriyle faturalarını bir bir karşılaştırmaya başladı. Aracın kirada olduğu ancak faturasının kesilmediği her gün için ayrı ayrı cezalar yazılmaya başlandı. Devleti KDV kaybına uğratıyor.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 64
+**Retention**: 77.11%
+
+Şirketinin banka hesaplarına haciz konulması, finansal durumunu olumsuz etkiliyor. KDV kaybı nedeniyle yaşanan sorunlar, şirketin mali yükümlülüklerini artırıyor. Yalçın, haciz nedeniyle herhangi bir işlem yapamıyor ve bu durum, şirketin nakit akışını zorlaştırıyor. Şirketin alım hesabında bulunan 80-100 bin lira gibi bir miktar, mevcut ekonomik koşullar altında önemli bir finansal kaynak olarak değerlendiriliyor. Bu tür ekonomik zorluklar, şirketin genel işleyişini ve mali sağlığını tehdit ediyor.
+
+================================================================================
+

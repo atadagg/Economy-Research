@@ -1,0 +1,55 @@
+# Economic Content from: 20240811_Damla Doğan Tuncel ile Hafta Sonu Ana Haber 11 Ağustos.tr.txt
+# Processed: 2025-07-22T17:22:40.436315
+# Original: 5107 words → Filtered: 389 words (7.62% retention)
+# Economic segments: 4
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 53
+**Retention**: 50.48%
+
+Uzmanlar özellikle e-ticaretin içinde % 10'luk kısmın sosyal medyada yapıldığına dikkat çekiyor. Instagram'ın 9 gün kapalı kalmasının ekonomik bedelinin ise yaklaşık 17 milyon TL olduğu ifade ediliyor. Bu durum, sosyal medya platformlarının ticaret üzerindeki etkisini bir kez daha gözler önüne serdi. Ekonomik veriler, sosyal medya kullanımının ticaretin önemli bir parçası haline geldiğini gösteriyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 123
+**Retention**: 65.78%
+
+Şanlıurfa'nın AKP'li Eyyübiye Belediyesi, 98 adet araç kiralama hizmet alım ihalesi yaptı. İhalenin yaklaşık maliyeti 131,925,000 lira olarak belirlendi. İhaleye katılan 7 firmadan 6'sı ihaleye giremedi. İhaleye tek başına giren Giray Turizm petrol şirketi, 125,347 lira teklif vererek ihaleyi kazandı. Belediye meclisindeki diğer partili üyeler, rekabet ortamının sağlanmadığını savunarak ihaleye tepki gösterdi. Tasarruf Genelgesi'nin uygulanmadığı belirtiliyor; burada 100 milyar liralık tasarruf elde edilecekti. Eğer uygulansa, doğru düzgün bir şekilde işleyebilirdi. Ancak, yürürlüğe girecek olan yeni vergi paketi ve torba yasadaki maddeler, ekonomik durumu olumsuz etkileyebilir. Yurt dışına çıkacaklara kötü bir haber var; harçlar artık 150 lira değil, 500 lira olacak. Bu değişiklik, yurt dışı çıkış harç pullarının tasarımında da yenilikler getiriyor. Yeni pul, yerli milli tasarıma sahip olacak ancak %233 zamlı olarak uygulanacak.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 82
+**Retention**: 31.54%
+
+Hazine ve Maliye Bakanlığı, yurt dışı çıkış harçlarına yapılan zammı 12 Ağustos'tan itibaren uygulamaya alacak. Yeni tasarımıyla birlikte eski pullarla karışıklığın yaşanmaması adına adım atıldı. Yurt dışı çıkış harç pullarının yeni tasarımı, Türkiye yüzyılı ibaresinin yer aldığı bir tasarım olarak gün yüzüne çıktı. Hazine ve Maliye Bakanlığı, yurt dışı çıkış harç pullarını yeni yıldan itibaren dijital olarak kullanıma sunmayı planlıyor. 
+
+Bu ekonomik düzenlemeler, Türkiye'nin mali politikaları ve vergi sistemindeki değişiklikleri yansıtmakta. Yurt dışı çıkış harçlarının artırılması, devletin gelirlerini artırma çabası olarak değerlendirilebilir.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 131
+**Retention**: 67.18%
+
+Ekonomik veriler ve istatistikler, Türkiye'deki borçlanma ve faiz ödemeleri konusunda önemli bir tablo sunuyor. 2024'ün başından bu yana 618 milyar lira kayıtdışı faiz ödemelerine gitmiş durumda, bu da 2023'ün tamamından daha fazla bir miktar. İlk 7 ayda ödenen faizler, bireylerin borçlarını kapatmak için aldıkları kredilerle birlikte artış gösteriyor. 
+
+Faiz oranlarının yüksekliği, bireylerin borçlarını kapatmak için yeni krediler çekmesine neden oluyor. Örneğin, bir kişi 150.000 lira kredi çektiğinde, toplamda 220.000 lira geri ödemek zorunda kalıyor. Bu durum, bireylerin yalnızca faiz ödemeleriyle uğraşmasına ve asıl borçlarını kapatmakta zorlanmalarına yol açıyor. 
+
+2023'te ödenen faiz ödemeleri 564 milyar lira fazla, bu da hazine giderlerinin 5,8 trilyon lira olduğu ve hazine net açığının 1 trilyon lira civarında olduğu anlamına geliyor. Bu veriler, Türkiye'nin ekonomik durumunun ne kadar zorlayıcı olduğunu ve bireylerin üzerindeki borç yükünün arttığını gösteriyor.
+
+================================================================================
+

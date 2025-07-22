@@ -1,0 +1,119 @@
+{
+  "file_path": "news/SozcuTV/20240714_Damla Doğan Tuncel ile Hafta Sonu Ana Haber 14 Temmuz.tr.txt",
+  "processing_timestamp": "2025-07-22T17:58:03.614399",
+  "original_word_count": 5588,
+  "filtered_word_count": 472,
+  "retention_ratio": 0.08446671438797423,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "Dünden bu yana yaşamın nasıl Pamuk ipliğine bağlı olduğunu konuşuyoruz",
+      "description": "\"Dünden bu yana yaşamın nasıl Pamuk ipliğine bağlı olduğunu konuşuyoruz\" - The program begins with a discussion about current events, setting the stage for the news that will follow. The presenter introduces the topics to be covered, indicating a focus on recent incidents and broader issues.",
+      "end_pos": 0
+    },
+    {
+      "type": "- **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "Dünden bu yana yaşamın nasıl Pamuk ipliğine bağlı olduğunu konuşuyoruz",
+      "description": "\"Dünden bu yana yaşamın nasıl Pamuk ipliğine bağlı olduğunu konuşuyoruz\" - Introduction to the program and topics.",
+      "end_pos": 297
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 297,
+      "start_sentence": "Diğer yandan dün akşamdan itibaren tarihte yeni bir döneme girdiğimiz aşikar",
+      "description": "\"Diğer yandan dün akşamdan itibaren tarihte yeni bir döneme girdiğimiz aşikar\" - This section introduces another news story regarding Donald Trump and a recent assassination attempt, discussing the implications and public reactions, as well as related political developments.",
+      "end_pos": 297
+    },
+    {
+      "type": "5. **NEWS**",
+      "start_pos": 297,
+      "start_sentence": "Diğer yandan ekonomik krizi anlatıyoruz cebimizi konuşuyoruz",
+      "description": "\"Diğer yandan ekonomik krizi anlatıyoruz cebimizi konuşuyoruz\" - This part addresses the economic crisis, focusing on its effects on children and families, and includes a personal story from a child affected by the situation.",
+      "end_pos": 1059
+    },
+    {
+      "type": "6. **OUTRO**",
+      "start_pos": 1059,
+      "start_sentence": "Hepsi ve daha fazlası için Ana Haber başlıyor",
+      "description": "\"Hepsi ve daha fazlası için Ana Haber başlıyor\" - The closing remarks signal the end of the program, summarizing the topics covered and inviting viewers to stay tuned for more news.",
+      "end_pos": 1158
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 1158,
+      "start_sentence": "Aydın'a gideceğiz Çünkü sıcak bir haber var nazeli ilçesinde içme suyu isale hattı kazı çalışması yapılırken göçük meydana geldi",
+      "description": "\"Aydın'a gideceğiz Çünkü sıcak bir haber var nazeli ilçesinde içme suyu isale hattı kazı çalışması yapılırken göçük meydana geldi\" - This section contains the main news content, detailing a specific incident in Aydın where a cave-in occurred during construction work, resulting in casualties and ongoing rescue efforts. It includes updates on the situation and the impact on the community.",
+      "end_pos": 1158
+    },
+    {
+      "type": "- **NEWS**",
+      "start_pos": 1158,
+      "start_sentence": "Aydın'a gideceğiz Çünkü sıcak bir haber var nazeli ilçesinde içme suyu isale hattı kazı çalışması yapılırken göçük meydana geldi",
+      "description": "\"Aydın'a gideceğiz Çünkü sıcak bir haber var nazeli ilçesinde içme suyu isale hattı kazı çalışması yapılırken göçük meydana geldi\" - Main news story about the cave-in incident.",
+      "end_pos": 1744
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 1744,
+      "start_sentence": "Ama tekrar edeyim Aydın'ın Nazilli İlçesinde içme suyu isale hattı kazı çalışmaları sırasında bir göçük oldu",
+      "description": "\"Ama tekrar edeyim Aydın'ın Nazilli İlçesinde içme suyu isale hattı kazı çalışmaları sırasında bir göçük oldu\" - This brief transition reiterates the previous news story while smoothly connecting to further details about the incident, emphasizing the ongoing rescue operations.",
+      "end_pos": 40564
+    }
+  ],
+  "news_segments_count": 10,
+  "economic_segments_count": 5,
+  "economic_segments": [
+    {
+      "segment_id": "297_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 105,
+      "filtered_length": 56,
+      "retention_ratio": 0.5333333333333333,
+      "section_description": "\"Diğer yandan ekonomik krizi anlatıyoruz cebimizi konuşuyoruz\" - This part addresses the economic crisis, focusing on its effects on children and families, and includes a personal story from a child affected by the situation."
+    },
+    {
+      "segment_id": "1744_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 100,
+      "filtered_length": 51,
+      "retention_ratio": 0.51,
+      "section_description": "\"Ama tekrar edeyim Aydın'ın Nazilli İlçesinde içme suyu isale hattı kazı çalışmaları sırasında bir göçük oldu\" - This brief transition reiterates the previous news story while smoothly connecting to further details about the incident, emphasizing the ongoing rescue operations."
+    },
+    {
+      "segment_id": "1744_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 326,
+      "filtered_length": 156,
+      "retention_ratio": 0.4785276073619632,
+      "section_description": "\"Ama tekrar edeyim Aydın'ın Nazilli İlçesinde içme suyu isale hattı kazı çalışmaları sırasında bir göçük oldu\" - This brief transition reiterates the previous news story while smoothly connecting to further details about the incident, emphasizing the ongoing rescue operations."
+    },
+    {
+      "segment_id": "1744_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 231,
+      "filtered_length": 123,
+      "retention_ratio": 0.5324675324675324,
+      "section_description": "\"Ama tekrar edeyim Aydın'ın Nazilli İlçesinde içme suyu isale hattı kazı çalışmaları sırasında bir göçük oldu\" - This brief transition reiterates the previous news story while smoothly connecting to further details about the incident, emphasizing the ongoing rescue operations."
+    },
+    {
+      "segment_id": "1744_5",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 169,
+      "filtered_length": 86,
+      "retention_ratio": 0.5088757396449705,
+      "section_description": "\"Ama tekrar edeyim Aydın'ın Nazilli İlçesinde içme suyu isale hattı kazı çalışmaları sırasında bir göçük oldu\" - This brief transition reiterates the previous news story while smoothly connecting to further details about the incident, emphasizing the ongoing rescue operations."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

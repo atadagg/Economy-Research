@@ -1,0 +1,134 @@
+{
+  "file_path": "news/SozcuTV/20240717_Can Coşkun ile Sözcü Ana Haber 17Temmuz.tr.txt",
+  "processing_timestamp": "2025-07-22T18:08:36.682806",
+  "original_word_count": 6861,
+  "filtered_word_count": 829,
+  "retention_ratio": 0.12082786765777584,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 96,
+      "start_sentence": "17 Temmuz Çarşamba saatler 19'a geldi...",
+      "description": "\"17 Temmuz Çarşamba saatler 19'a geldi...\" - The program begins with a welcome message, introducing the news broadcast and outlining what will be covered, including special interviews and audience participation.",
+      "end_pos": 382
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 382,
+      "start_sentence": "Bir de ik anketimiz var orada ise yine...",
+      "description": "\"Bir de ik anketimiz var orada ise yine...\" - This brief transition introduces a new segment related to public opinion polls, indicating a shift in focus within the news content.",
+      "end_pos": 576
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 576,
+      "start_sentence": "Alışık olduğunuz üzere birini YouTube canlı yayınından soruyoruz...",
+      "description": "\"Alışık olduğunuz üzere birini YouTube canlı yayınından soruyoruz...\" - This section contains the main news content, discussing various topics such as political claims regarding Süleyman Soylu, economic conditions, and public opinion polls. It includes multiple news stories and audience engagement.",
+      "end_pos": 1751
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1751,
+      "start_sentence": "yeter derken itirazın mecliste giderek haklı olarak yükseldiği...",
+      "description": "\"yeter derken itirazın mecliste giderek haklı olarak yükseldiği...\" - This section continues with news content, specifically addressing legislative issues regarding animal welfare laws, indicating ongoing discussions and conflicts.",
+      "end_pos": 1846
+    },
+    {
+      "type": "5. **OUTRO**",
+      "start_pos": 1846,
+      "start_sentence": "komisyonla başlıyoruz sokak hayvanlarına uyutma imkanı...",
+      "description": "\"komisyonla başlıyoruz sokak hayvanlarına uyutma imkanı...\" - The program concludes with a summary of the topics discussed and a transition to the next segment or closing remarks.",
+      "end_pos": 48800
+    }
+  ],
+  "news_segments_count": 15,
+  "economic_segments_count": 9,
+  "economic_segments": [
+    {
+      "segment_id": "576_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 168,
+      "filtered_length": 62,
+      "retention_ratio": 0.36904761904761907,
+      "section_description": "\"Alışık olduğunuz üzere birini YouTube canlı yayınından soruyoruz...\" - This section contains the main news content, discussing various topics such as political claims regarding Süleyman Soylu, economic conditions, and public opinion polls. It includes multiple news stories and audience engagement."
+    },
+    {
+      "segment_id": "1846_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 116,
+      "filtered_length": 66,
+      "retention_ratio": 0.5689655172413793,
+      "section_description": "\"komisyonla başlıyoruz sokak hayvanlarına uyutma imkanı...\" - The program concludes with a summary of the topics discussed and a transition to the next segment or closing remarks."
+    },
+    {
+      "segment_id": "1846_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 246,
+      "filtered_length": 122,
+      "retention_ratio": 0.4959349593495935,
+      "section_description": "\"komisyonla başlıyoruz sokak hayvanlarına uyutma imkanı...\" - The program concludes with a summary of the topics discussed and a transition to the next segment or closing remarks."
+    },
+    {
+      "segment_id": "1846_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 140,
+      "filtered_length": 114,
+      "retention_ratio": 0.8142857142857143,
+      "section_description": "\"komisyonla başlıyoruz sokak hayvanlarına uyutma imkanı...\" - The program concludes with a summary of the topics discussed and a transition to the next segment or closing remarks."
+    },
+    {
+      "segment_id": "1846_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 147,
+      "filtered_length": 112,
+      "retention_ratio": 0.7619047619047619,
+      "section_description": "\"komisyonla başlıyoruz sokak hayvanlarına uyutma imkanı...\" - The program concludes with a summary of the topics discussed and a transition to the next segment or closing remarks."
+    },
+    {
+      "segment_id": "1846_7",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 198,
+      "filtered_length": 84,
+      "retention_ratio": 0.42424242424242425,
+      "section_description": "\"komisyonla başlıyoruz sokak hayvanlarına uyutma imkanı...\" - The program concludes with a summary of the topics discussed and a transition to the next segment or closing remarks."
+    },
+    {
+      "segment_id": "1846_8",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 166,
+      "filtered_length": 107,
+      "retention_ratio": 0.6445783132530121,
+      "section_description": "\"komisyonla başlıyoruz sokak hayvanlarına uyutma imkanı...\" - The program concludes with a summary of the topics discussed and a transition to the next segment or closing remarks."
+    },
+    {
+      "segment_id": "1846_9",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 153,
+      "filtered_length": 74,
+      "retention_ratio": 0.48366013071895425,
+      "section_description": "\"komisyonla başlıyoruz sokak hayvanlarına uyutma imkanı...\" - The program concludes with a summary of the topics discussed and a transition to the next segment or closing remarks."
+    },
+    {
+      "segment_id": "1846_10",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 284,
+      "filtered_length": 88,
+      "retention_ratio": 0.30985915492957744,
+      "section_description": "\"komisyonla başlıyoruz sokak hayvanlarına uyutma imkanı...\" - The program concludes with a summary of the topics discussed and a transition to the next segment or closing remarks."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

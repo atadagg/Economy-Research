@@ -1,0 +1,78 @@
+# Economic Content from: 20240901_Damla Doğan Tuncel ile Hafta Sonu Ana Haber 1 Eylül.tr.txt
+# Processed: 2025-07-22T17:33:47.850997
+# Original: 5597 words → Filtered: 518 words (9.25% retention)
+# Economic segments: 5
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 219
+**Retention**: 100.00%
+
+600 km seyahat etti başta Suudi Arabistan olmak
+üzere Japonya Norveç Pakistan İngiltere gibi pek çok ülkeye defa ca gitti Ali erbaş'ın Anıt kabir
+hiç uğramadığı bu süreçte Katolik Hristiyanların ruhani lideri Papa Türkiye'ye geldiğinde ilk Anıt
+kabire gitti Atatürk mozolesine Çelenk bıraktı dua etti Gazi Mustafa Kemal Atatürk Bakın bu
+görüntüleri günlerce konuştuk günlerce tartışıldı CHP'nin İstanbul il binasının alımı sırasında
+çekilen ve sızdırılan görüntüler içeriden çekildiği güvenlik kamerasıyla çekildiği belli olan bu
+görüntüler basına nasıl sızdı üzerine çok konuşuldu çok tartışıldı bakın yeni detaylar var CHP'ye il
+binasını satan kişinin Ali Rıza Bakan'ın uyuşturucu dosyasında şüpheli olarak yer aldığı öğrenildi
+ve bu isim braka satıştan 4 ay önce Türk vatandaşı olmuş binayı satıştan 35 gün önce resmi olarak
+devralıyor bu isim ardından 35 gün sonra bu binayı CHP'ye satıyor para sayma görüntülerinin Gündem
+olduğu CHP İstanbul İl Başkanlığı binasının satışı olayında yeni detaylar ortaya çıktı binayı CHP'ye
+satan Ali Rıza braka satıştan 4 ay önce Türk vatandaşı oldu ismi 650 milyon euroluk uyuşturucu
+dosyasında şüpheli olarak geçti Siz bir şey söyleyecek görüntülere ilişkin 22 kişi hakkında
+iddianame Hazırlandı altışar Aydan birer yıla kadar hapisle cezalandırılmaları istendi gazete
+duvardan C bursalı'nın haberine göre 11 Aralık tarihinde CHP'ye satılan bina seas besicilik adlı
+şirketin yetkilisi olan Ali Rıza baka tarafından satıştan 35 gün önce resmi olarak devralındı
+CHP'nin 39
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 115
+**Retention**: 50.22%
+
+Şam etli Mahallesinde yapılacak olan projeye çevre şehircilik ve iklim değişik Bakanlığı tarafından 30 Ocak'ta olumlu karar verildi. Proje kapsamında tarım arazileri üzerine 150.000 adet güneş paneli kurulması planlanıyor. Yılda 150 milyon kWh üretim yapılması planlanan proje kapsamında 75 MW gücünde enerji depolama tesisi yer alacak. 
+
+Şimdi Salı günü enflasyon verisi açıklanacak. Ondan önce de her ay olduğu gibi İstanbul Ticaret Odası İstanbul'un enflasyonunu açıkladı. İstanbul'un Ağustos ayı enflasyonu belli oldu; Temmuz ayına göre aylık %1,73 artış var. Geçen senenin aynı dönemine göre artış %61,5 oldu. İstanbul Ticaret Odası, konut harcamalarında %0,706, kültür, eğitim ve eğlence harcamaları grubunda %2,11, ev eşyası harcamalarında ise %1,56 artış kaydedildi. Enflasyon yıllık bazda da arttı; perakende satışlarında %6,157 çıktı.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 72
+**Retention**: 46.15%
+
+Bu insan nasıl geçinecek şu enflasyon düşük diyenler pazara çıkmamış. Salatanın fiyatı 35 lira, insanlar karpuz alamıyor. Cumhurbaşkanı Erdoğan, bu ülkede yokluk yoksulluk bitti diyor ama yurttaşlar hemfikir değil. Asgari ücret açlık sınırının altına düşmüş durumda ve insanlar geçim mücadelesi veriyor. Çocuk okutanlar için durum daha da çekilmez bir hal alıyor. Kırtasiye malzemelerinde değişen etiket fiyatları geçen yıla oranla artmış durumda. Devlet okullarında öğrencilerden istenen kırtasiye listelerinin karşılığı en az 3500 lira.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 65
+**Retention**: 47.79%
+
+Yeni eğitim öğretim yılının başlamasıyla birlikte kırtasiye malzemeleri de hayat pahalılığından nasibini aldı. Fiyatlar, velilerin bütçelerini zorlayacak seviyelere ulaştı. Örneğin, kalemler yaklaşık 100 lira, defterler 90 lira, kalemlikler 215 lira, okul çantaları 500 liradan 2,000 liraya kadar çıkıyor. Beslenme çantası ise ortalama 535 lira. Bu malzemelerin toplam maliyeti 900 lirayı buluyor. Yıllardır bu işin içinde olan esnaf, fiyatların artışını ve bunun veliler üzerindeki etkisini değerlendiriyor.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 47
+**Retention**: 54.65%
+
+Ebeveynler, devlet okulunun artan kayıt paralarına ses yükseltti. Okul kayıt ücretleri 50,000 Lira seviyelerine kadar çıkıyor. Bu durum, ailelerin eğitim masraflarını artırarak ekonomik bir yük oluşturuyor. Eğitim kalitesinin düşük olması ve yüksek kayıt ücretleri, velilerin bütçelerini zorlamakta. Bu bağlamda, eğitim harcamalarının artışı, genel ekonomik durumu da etkilemektedir.
+
+================================================================================
+

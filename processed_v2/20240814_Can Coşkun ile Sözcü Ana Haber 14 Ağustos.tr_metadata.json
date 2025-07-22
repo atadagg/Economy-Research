@@ -1,0 +1,103 @@
+{
+  "file_path": "news/SozcuTV/20240814_Can Coşkun ile Sözcü Ana Haber 14 Ağustos.tr.txt",
+  "processing_timestamp": "2025-07-22T17:49:33.366797",
+  "original_word_count": 6890,
+  "filtered_word_count": 518,
+  "retention_ratio": 0.07518142235123368,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "Er var öğrenciler var asgari ücretliler var...",
+      "description": "\"Er var öğrenciler var asgari ücretliler var...\" - This section serves as the opening of the broadcast, introducing the topic and setting the stage for the discussion. It includes a mention of the date and a brief overview of the issues to be addressed.",
+      "end_pos": 97
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 97,
+      "start_sentence": "Bugün 14 Ağustos 2024 Çarşamba tabelası Oyuna geldik yine dert yine tasa...",
+      "description": "\"Bugün 14 Ağustos 2024 Çarşamba tabelası Oyuna geldik yine dert yine tasa...\" - This section contains the main news content, discussing political developments, public sentiment regarding the ruling party, and economic issues. It includes multiple news stories and analysis related to the current political climate and economic conditions.",
+      "end_pos": 198
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 198,
+      "start_sentence": "Hadi başlayalım hızlıca iki de anketimiz var...",
+      "description": "\"Hadi başlayalım hızlıca iki de anketimiz var...\" - This brief transition introduces the upcoming segments, including polls and discussions, signaling a shift in focus within the news content.",
+      "end_pos": 495
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 495,
+      "start_sentence": "Cumhuriyet Halk Partisi birinciliğini perçinleme devam ederken...",
+      "description": "\"Cumhuriyet Halk Partisi birinciliğini perçinleme devam ederken...\" - This is another segment of news content that continues the discussion on political party standings and electoral dynamics, providing further analysis and context.",
+      "end_pos": 1362
+    },
+    {
+      "type": "7. **OUTRO**",
+      "start_pos": 1362,
+      "start_sentence": "Bunu soruyoruz Oyuna geldik tabelası üzerinden millete mali darbe mi...",
+      "description": "\"Bunu soruyoruz Oyuna geldik tabelası üzerinden millete mali darbe mi...\" - This section wraps up the discussion, posing questions to the audience and summarizing the key points before concluding the program.",
+      "end_pos": 1561
+    },
+    {
+      "type": "5. **TRANSITION**",
+      "start_pos": 1561,
+      "start_sentence": "Efendim başlarken de bugün transferlerle transfer dönemi...",
+      "description": "\"Efendim başlarken de bugün transferlerle transfer dönemi...\" - This transition leads into a new topic regarding political transfers, indicating a shift in the focus of the news segment.",
+      "end_pos": 1853
+    },
+    {
+      "type": "6. **NEWS**",
+      "start_pos": 1853,
+      "start_sentence": "Cumhurbaşkanı Erdoğan değişim mesajları verdi ama bunun dışında...",
+      "description": "\"Cumhurbaşkanı Erdoğan değişim mesajları verdi ama bunun dışında...\" - This section continues the news content, focusing on statements made by the President and the implications of political changes, further elaborating on the ongoing political narrative.",
+      "end_pos": 49311
+    }
+  ],
+  "news_segments_count": 9,
+  "economic_segments_count": 4,
+  "economic_segments": [
+    {
+      "segment_id": "495_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 119,
+      "filtered_length": 119,
+      "retention_ratio": 1.0,
+      "section_description": "\"Cumhuriyet Halk Partisi birinciliğini perçinleme devam ederken...\" - This is another segment of news content that continues the discussion on political party standings and electoral dynamics, providing further analysis and context."
+    },
+    {
+      "segment_id": "1853_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 182,
+      "filtered_length": 182,
+      "retention_ratio": 1.0,
+      "section_description": "\"Cumhurbaşkanı Erdoğan değişim mesajları verdi ama bunun dışında...\" - This section continues the news content, focusing on statements made by the President and the implications of political changes, further elaborating on the ongoing political narrative."
+    },
+    {
+      "segment_id": "1853_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 188,
+      "filtered_length": 134,
+      "retention_ratio": 0.7127659574468085,
+      "section_description": "\"Cumhurbaşkanı Erdoğan değişim mesajları verdi ama bunun dışında...\" - This section continues the news content, focusing on statements made by the President and the implications of political changes, further elaborating on the ongoing political narrative."
+    },
+    {
+      "segment_id": "1853_6",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 270,
+      "filtered_length": 83,
+      "retention_ratio": 0.3074074074074074,
+      "section_description": "\"Cumhurbaşkanı Erdoğan değişim mesajları verdi ama bunun dışında...\" - This section continues the news content, focusing on statements made by the President and the implications of political changes, further elaborating on the ongoing political narrative."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

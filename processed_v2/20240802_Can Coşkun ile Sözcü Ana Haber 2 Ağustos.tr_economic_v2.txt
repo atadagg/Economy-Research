@@ -1,0 +1,71 @@
+# Economic Content from: 20240802_Can Coşkun ile Sözcü Ana Haber 2 Ağustos.tr.txt
+# Processed: 2025-07-22T17:31:04.854718
+# Original: 6995 words → Filtered: 423 words (6.05% retention)
+# Economic segments: 5
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 54
+**Retention**: 100.00%
+
+acayip işler tabelasını ihtiyacımız olacak iki de anketimiz var hızlıca Görelim o anketleri de
+İçişleri Bakanı Ali Yerlikaya'nın konutunda iki yabancının ikamet kaydı çıktı meslek büyüğümüz Tolga
+şardan yazdı yorumunuzu soruyoruz Tabii göç işlerinden gelen bir açıklama da var Biz Mayısta fark
+etmiştik suç duyurusunda da bulunmuştuk diyorlar şıklar şöyle muhteşem göçmen politikamız İnsan
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 128
+**Retention**: 47.76%
+
+Emeklilerin Temmuz maaşına yapılan büyük zamla birlikte, 12,500 lira olarak belirlenen yeni maaşlar, ekonomik durumu etkileyen önemli bir gelişme olarak öne çıkıyor. 7 Ağustos'ta emeklilere yapılacak 2,500 lira ek ödemelerin, emeklilerin mali durumunu iyileştirmesi bekleniyor. Bu zam, emeklilerin yaşam standartlarını artırma çabalarının bir parçası olarak değerlendiriliyor.
+
+Asgari ücretin yükseltilmesi, emeklilerin maaşlarının da en azından bu seviyeye getirilmesi gerektiği yönündeki talepleri gündeme getiriyor. Ekonomik koşulların zorlaştığı bir dönemde, emeklilerin hak talepleri ve adil bir emeklilik sistemi üzerine tartışmalar sürüyor. 
+
+Son dönemde, paranın değer kaybetmesi ve en düşük emekli aylığının alım gücünün düşmesi, emeklilerin yaşam standartlarını olumsuz etkileyen faktörler arasında yer alıyor. Ekonomik veriler, emeklilerin karşılaştığı zorlukları daha net bir şekilde ortaya koyuyor. Bir yıl içinde ekonomik koşulların ne kadar kötüleştiği, emeklilerin açlık ve diğer zorluklarla nasıl başa çıktığını gösteriyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 58
+**Retention**: 43.61%
+
+Emekli maaşına yapılan zam, vergi paketi ile birlikte resmi gazetede yayınlandı. En düşük emekli aylığı 10,000 liradan 12,500 liraya yükseldi. Temmuz maaşını alan emeklilere 2,500 fark ödemesi için tarih verildi; Sosyal Güvenlik Kurumu 7 Ağustos'u işaret etti. Bu durum, emeklilerin yaşam standartlarını etkileyen önemli bir ekonomik gelişme olarak öne çıkıyor. Emeklilerin sorunları, ekonomik koşulların zorluğunu gözler önüne seriyor.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 60
+**Retention**: 68.18%
+
+Bodrum'da kiralık daire fiyatları bütçeyi de akıl sınırlarını da zorluyor. En düşük kira ücreti 21 evler için en az 25,000 liradan başlıyor. 4 kişilik bir ailenin yaşayabileceği standart daireler ise en az 35,000 liradan başlıyor. Bu durum, bölgedeki yüksek yaşam maliyetlerinin ve emekli ile çalışanların maaşlarının yetersizliğinin bir göstergesi. Kiraların bu kadar yüksek olması, Bodrum'da yaşayanların ekonomik durumunu olumsuz etkiliyor.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 123
+**Retention**: 44.57%
+
+Türkiye'deki ücret durumları, mevcut ücretlerle yaşamı sürdürmeyi imkansız hale getirdi. Bodrum'daki yüksek kira ücretleri, memurlar için büyük bir sorun haline geldi. Doktorlar, burada aldıkları ücretlerle kiraları karşılayamadıkları için bölgeden ayrılmayı düşünüyorlar. Bodrum'daki kiralık ev fiyatları, faiz seviyelerine ulaştı ve bu durum, doktorların burada kalmasını zorlaştırıyor. 
+
+Devlet hastanelerinde yeterli sayıda doktor olmaması, hastaların özel hastanelere yönelmesine neden oluyor. Ancak özel hastanelerin masrafları da oldukça yüksek. Doktor sıkıntısı, yüksek kiralar nedeniyle daha da derinleşiyor; öğretmenler, polisler ve hemşireler de benzer sebeplerle bölgeden ayrılıyor. 
+
+Ayrıca, devlet hastanelerindeki cihaz ve teçhizat eksikliği, bazı cerrahların Bodrum'dan ayrılma sebeplerinden biri. Bu durum, sağlık hizmetlerine erişimi zorlaştırıyor ve hastaların başka şehirlere gitmek zorunda kalmasına neden oluyor. Türkiye'deki sağlık sisteminin karşılaştığı bu zorluklar, ekonomik açıdan da önemli bir sorun teşkil ediyor.
+
+================================================================================
+

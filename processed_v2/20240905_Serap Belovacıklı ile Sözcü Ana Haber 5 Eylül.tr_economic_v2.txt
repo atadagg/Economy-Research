@@ -1,0 +1,38 @@
+# Economic Content from: 20240905_Serap Belovacıklı ile Sözcü Ana Haber 5 Eylül.tr.txt
+# Processed: 2025-07-22T17:24:28.690544
+# Original: 7457 words → Filtered: 179 words (2.40% retention)
+# Economic segments: 3
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 61
+**Retention**: 36.31%
+
+Orta vadeli programa ilişkin ekonomi yönetiminin üst düzey açıklamaları yapıldı. Hazine ve Maliye Bakanı Mehmet Şimşek, enflasyon beklentisinin %33, büyüme beklentisinin ise düştüğünü açıkladı. Enflasyon yükseliyor olabilir ama büyüme konusunda endişeler var. Vatandaşın durumu zor; her geçen gün ekonomik sıkıntılar artıyor. Tasarruf genelgeleri gönderildi, ancak bu durumun vatandaş üzerindeki etkileri tartışmalı. Ekonomik veriler ışığında, halkın cebindeki paranın büyümediği, aksine zorlandığı görülüyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 71
+**Retention**: 45.51%
+
+2024 yılı için işsizlik oranını E programımızda geçen yıl %10,3 olarak belirlemiştik. Ancak bugün geldiğimiz noktada bunun yıl sonu itibarıyla %9,3 oranında gerçekleşmesini bekliyoruz. Bu yıl için kişi başına düşen milli gelirin ise 15.000 doların üzerine çıkması bekleniyor. Hazine ve Maliye Bakanı Mehmet Şimşek, vergilerle ilgili eleştirilere yanıt verirken, ekonomik gerçeklerin muhalefetin söylemleriyle tutarlı olmadığını belirtti. Ekonomi yönetimi, zam yerine güncelleme ifadesini kullanarak, mali durumu daha olumlu bir şekilde yansıtmaya çalışıyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 47
+**Retention**: 45.63%
+
+Gelir İdaresi Başkanlığının Servet vergisi konulsun maddesi çıkarılmıştı. Asgari ücret 177.000 TL, yoksulluk sınırı 65.000 liraya dayanmış durumda. Vatandaş nefes alacak durumda değil. Şimdi okullar açılıyor; sadece bir çocuğun kitap masrafı 50.000 TL ile 100.000 TL arasında. Emekli yaşıyor ve 12.000 TL'ye açlık sınırının yarısına ulaşmış durumda.
+
+================================================================================
+

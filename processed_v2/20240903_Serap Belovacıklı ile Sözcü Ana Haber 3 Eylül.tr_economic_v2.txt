@@ -1,0 +1,62 @@
+# Economic Content from: 20240903_Serap Belovacıklı ile Sözcü Ana Haber 3 Eylül.tr.txt
+# Processed: 2025-07-22T18:10:11.243541
+# Original: 12696 words → Filtered: 386 words (3.04% retention)
+# Economic segments: 5
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 62
+**Retention**: 35.03%
+
+Yıllık enflasyon % 51,5 oldu. Türkiye İstatistik Kurumu'na göre, ağustosta enflasyon aylık % 2,47 yükseldi. Baz etkisiyle yıllık enflasyon % 51,5 olarak kaydedildi. Aylık ve yıllık en yüksek fiyat artışı eğitimde görüldü; eğitim enflasyonu aylık % 1,34, yıllık % 122,08'e yükseldi. Bu durum, eğitimdeki maliyetlerin artışını gösteriyor. Asgari ücret ve emeklilerin maaşları belli, ancak ev kirası ve diğer yaşam maliyetleri sürekli artıyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 90
+**Retention**: 59.60%
+
+Beslenme çantasını doldurmanın maliyeti bu kadar artmışken, öğrenci Veli Derneği öncülüğünde başlatılan Türkiye okul yemeği koalisyonu, çocuklar için okullarda bir öğün ücretsiz yemek talep ediyor. Alım gücü her geçen saniye, her geçen dakika azalıyor. Milyoner sayısı arttı ama aynı zamanda fiyatı en düşük sıfır otomobil fiyatı 1 milyon liranın üstüne çıktı. 2020 model bir araba 4 yaşında 1 milyon lira. Bu arabanın ikinci el fiyatı 1 milyon 500 bin liradan 7 milyon liraya kadar değişiyor. Türk Lirası günden güne değer kaybetti; fiyatı en düşük sıfır otomobil 1 milyon lirayı aştı.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 81
+**Retention**: 34.32%
+
+Sözcü televizyonu ana devam diyor Efendim ekonomiyle başlayalım. Ağustos ayında enflasyonu açıkladı. Beklentilere paralel olarak aylık enflasyon % 2,47 olarak belirlenirken, yıllık enflasyon % 51,5 olarak ifade edildi. Ancak bazı kaynaklar yıllık enflasyonu % 190 olarak buluyor. Eğitimde fiyat artışı yıllık % 120'yi geçti. Türkiye İstatistik Kurumu'na göre, Ağustos'ta enflasyon aylık % 2,47 yükseldi ve yıllık enflasyon % 51,5 oldu. Eğitim enflasyonu aylık % 111,34, yıllık % 120,81 olarak kaydedildi. Bu durum, velilerin en çok dertli olduğu kesim olmasına neden oluyor.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 54
+**Retention**: 90.00%
+
+27 000 liradan başlıyor 2020 model bir araba. Bu arabanın ikinci el fiyatı sıfırda 1 500 000 t, 1 milyondan 7 milyon liraya kadar fiyat değişiyor. Türk Lirası günden güne değer kaybetti. Fiyatı en düşük sıfır otomobil 1 milyon lirayı açtı. Hesabında mal varlığı hariç 1 milyon liranın üstünde para bulunan insan sayısı artıyor.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 99
+**Retention**: 37.08%
+
+Türkiye, milyonerlerin en çok yaşadığı ülkelerden biri oldu. Daralan ekonomi ve pandemi sonrası ekonomik darboğaz, ücretlere ve fiyat etiketlerine de yansıdı. Sıfırlar artarken alım gücü eridi; önceleri binlerce lirayla değer biçilen ev ve araba fiyatları artık milyonlarla ifade ediliyor. Alım gücümüz düştü ve araç alma kapasitemiz azaldı. Sektörde karlılık düştü ve masraflarımızı karşılayamayacak duruma geldik. 
+
+Belediyelerin borçları, ekonomik sorunların bir yansıması olarak öne çıkıyor. Çalışma Bakanı, muhalefet belediyelerine haciz kağıtları gönderdiklerini belirtiyor. Bu durum, yerel yönetimlerin mali durumunu ve borç yönetimini etkileyen önemli bir ekonomik gelişme. Belediyelerdeki borç kavgası, ekonomik istikrarı tehdit eden bir başka unsur olarak karşımıza çıkıyor.
+
+================================================================================
+

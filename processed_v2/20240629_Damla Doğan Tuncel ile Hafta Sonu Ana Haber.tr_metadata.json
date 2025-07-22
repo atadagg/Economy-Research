@@ -1,0 +1,134 @@
+{
+  "file_path": "news/SozcuTV/20240629_Damla Doğan Tuncel ile Hafta Sonu Ana Haber.tr.txt",
+  "processing_timestamp": "2025-07-22T18:09:29.307575",
+  "original_word_count": 5470,
+  "filtered_word_count": 1339,
+  "retention_ratio": 0.24478976234003658,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "ii gaz sarç yanıtlıyor nokta atışı bu akşam 22'de...",
+      "description": "\"ii gaz sarç yanıtlıyor nokta atışı bu akşam 22'de...\" - This section serves as the opening of the broadcast, introducing the program and the presenter.",
+      "end_pos": 595
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 595,
+      "start_sentence": "Dedim ya bugün Türkiye'nin dört bir yanında orman yangınları var...",
+      "description": "\"Dedim ya bugün Türkiye'nin dört bir yanında orman yangınları var...\" - This section contains the main news content, focusing on the ongoing forest fires in various regions of Turkey, detailing the situation and responses.",
+      "end_pos": 887
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 887,
+      "start_sentence": "Ama Aydın Özellikle takip ettiğimiz nokta...",
+      "description": "\"Ama Aydın Özellikle takip ettiğimiz nokta...\" - This brief transition indicates a shift in focus to a specific area (Aydın) within the broader news story about the forest fires.",
+      "end_pos": 887
+    },
+    {
+      "type": "5. **OUTRO**",
+      "start_pos": 887,
+      "start_sentence": "Aydın'ı kuşadası'nı takip ediyoruz rüzgar da var...",
+      "description": "\"Aydın'ı kuşadası'nı takip ediyoruz rüzgar da var...\" - This section wraps up the news segment, indicating ongoing coverage and the seriousness of the situation.",
+      "end_pos": 1667
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1667,
+      "start_sentence": "Bakın bu görüntüler otoyola doğru gelmiş durumda...",
+      "description": "\"Bakın bu görüntüler otoyola doğru gelmiş durumda...\" - This continues the news segment, providing more details and visuals related to the forest fires and the ongoing situation.",
+      "end_pos": 37905
+    }
+  ],
+  "news_segments_count": 17,
+  "economic_segments_count": 9,
+  "economic_segments": [
+    {
+      "segment_id": "887_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 96,
+      "filtered_length": 96,
+      "retention_ratio": 1.0,
+      "section_description": "\"Aydın'ı kuşadası'nı takip ediyoruz rüzgar da var...\" - This section wraps up the news segment, indicating ongoing coverage and the seriousness of the situation."
+    },
+    {
+      "segment_id": "1667_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 467,
+      "filtered_length": 467,
+      "retention_ratio": 1.0,
+      "section_description": "\"Bakın bu görüntüler otoyola doğru gelmiş durumda...\" - This continues the news segment, providing more details and visuals related to the forest fires and the ongoing situation."
+    },
+    {
+      "segment_id": "1667_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 217,
+      "filtered_length": 74,
+      "retention_ratio": 0.34101382488479265,
+      "section_description": "\"Bakın bu görüntüler otoyola doğru gelmiş durumda...\" - This continues the news segment, providing more details and visuals related to the forest fires and the ongoing situation."
+    },
+    {
+      "segment_id": "1667_6",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 164,
+      "filtered_length": 123,
+      "retention_ratio": 0.75,
+      "section_description": "\"Bakın bu görüntüler otoyola doğru gelmiş durumda...\" - This continues the news segment, providing more details and visuals related to the forest fires and the ongoing situation."
+    },
+    {
+      "segment_id": "1667_7",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 146,
+      "filtered_length": 103,
+      "retention_ratio": 0.7054794520547946,
+      "section_description": "\"Bakın bu görüntüler otoyola doğru gelmiş durumda...\" - This continues the news segment, providing more details and visuals related to the forest fires and the ongoing situation."
+    },
+    {
+      "segment_id": "1667_8",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 118,
+      "filtered_length": 77,
+      "retention_ratio": 0.652542372881356,
+      "section_description": "\"Bakın bu görüntüler otoyola doğru gelmiş durumda...\" - This continues the news segment, providing more details and visuals related to the forest fires and the ongoing situation."
+    },
+    {
+      "segment_id": "1667_9",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 280,
+      "filtered_length": 131,
+      "retention_ratio": 0.46785714285714286,
+      "section_description": "\"Bakın bu görüntüler otoyola doğru gelmiş durumda...\" - This continues the news segment, providing more details and visuals related to the forest fires and the ongoing situation."
+    },
+    {
+      "segment_id": "1667_10",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 135,
+      "filtered_length": 110,
+      "retention_ratio": 0.8148148148148148,
+      "section_description": "\"Bakın bu görüntüler otoyola doğru gelmiş durumda...\" - This continues the news segment, providing more details and visuals related to the forest fires and the ongoing situation."
+    },
+    {
+      "segment_id": "1667_11",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 287,
+      "filtered_length": 158,
+      "retention_ratio": 0.5505226480836237,
+      "section_description": "\"Bakın bu görüntüler otoyola doğru gelmiş durumda...\" - This continues the news segment, providing more details and visuals related to the forest fires and the ongoing situation."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "file_path": "news/SozcuTV/20240727_Damla Doğan Tuncel ile Hafta Sonu Ana Haber.tr.txt",
+  "processing_timestamp": "2025-07-22T17:50:21.869214",
+  "original_word_count": 5369,
+  "filtered_word_count": 570,
+  "retention_ratio": 0.10616502141925871,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "cumartesi bugün etiketimiz büyük plan",
+      "description": "\"cumartesi bugün etiketimiz büyük plan\" - The opening segment introduces the program and sets the stage for the news content, mentioning the main topics to be discussed.",
+      "end_pos": 0
+    },
+    {
+      "type": "- **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "cumartesi bugün etiketimiz büyük plan",
+      "description": "\"cumartesi bugün etiketimiz büyük plan\" - Introduction to the program and topics.",
+      "end_pos": 69
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 69,
+      "start_sentence": "Cumhurbaşkanı Erdoğan bugün itibariyle normaline döndü tekrar",
+      "description": "\"Cumhurbaşkanı Erdoğan bugün itibariyle normaline döndü tekrar\" - This section contains the actual news content, discussing political developments, statements from President Erdoğan, and the situation regarding municipal debts and the opposition party.",
+      "end_pos": 69
+    },
+    {
+      "type": "6. **NEWS**",
+      "start_pos": 69,
+      "start_sentence": "Cumhurbaşkanı Erdoğan ve CHP lideri arasında belediye borçları üzerinden başlayan restleşme",
+      "description": "\"Cumhurbaşkanı Erdoğan ve CHP lideri arasında belediye borçları üzerinden başlayan restleşme\" - This section further elaborates on the ongoing political conflict between Erdoğan and the CHP regarding municipal debts.",
+      "end_pos": 69
+    },
+    {
+      "type": "- **NEWS**",
+      "start_pos": 69,
+      "start_sentence": "Cumhurbaşkanı Erdoğan bugün itibariyle normaline döndü tekrar",
+      "description": "\"Cumhurbaşkanı Erdoğan bugün itibariyle normaline döndü tekrar\" - Main news content discussing political developments.",
+      "end_pos": 394
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 394,
+      "start_sentence": "Peki bu hak mesela CHP'li belediyelere de sağlanacak mı",
+      "description": "\"Peki bu hak mesela CHP'li belediyelere de sağlanacak mı\" - A brief transition that leads into a discussion about the implications of the news story regarding municipal debts and the rights of different political parties.",
+      "end_pos": 394
+    },
+    {
+      "type": "- **TRANSITION**",
+      "start_pos": 394,
+      "start_sentence": "Peki bu hak mesela CHP'li belediyelere de sağlanacak mı",
+      "description": "\"Peki bu hak mesela CHP'li belediyelere de sağlanacak mı\" - Transition to implications of the news.",
+      "end_pos": 495
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 495,
+      "start_sentence": "Özgür Özel ise en borçlu belediye Bursa'da",
+      "description": "\"Özgür Özel ise en borçlu belediye Bursa'da\" - This continues the news content, focusing on specific municipalities and the political implications of their financial situations.",
+      "end_pos": 495
+    },
+    {
+      "type": "- **NEWS**",
+      "start_pos": 495,
+      "start_sentence": "Özgür Özel ise en borçlu belediye Bursa'da",
+      "description": "\"Özgür Özel ise en borçlu belediye Bursa'da\" - Continued news on specific municipalities.",
+      "end_pos": 1575
+    },
+    {
+      "type": "5. **TRANSITION**",
+      "start_pos": 1575,
+      "start_sentence": "Şimdi de Tayyip Erdoğan ne yapıyor mali Darbe yapmaya çalışıyor",
+      "description": "\"Şimdi de Tayyip Erdoğan ne yapıyor mali Darbe yapmaya çalışıyor\" - Another transition that shifts the focus back to President Erdoğan's actions and their political ramifications.",
+      "end_pos": 1575
+    },
+    {
+      "type": "- **TRANSITION**",
+      "start_pos": 1575,
+      "start_sentence": "Şimdi de Tayyip Erdoğan ne yapıyor mali Darbe yapmaya çalışıyor",
+      "description": "\"Şimdi de Tayyip Erdoğan ne yapıyor mali Darbe yapmaya çalışıyor\" - Transition back to Erdoğan's actions",
+      "end_pos": 1867
+    },
+    {
+      "type": "7. **OUTRO**",
+      "start_pos": 1867,
+      "start_sentence": "merak ediliyor iddiaya göre AKP yeni yasama dönemi için CHP'",
+      "description": "\"merak ediliyor iddiaya göre AKP yeni yasama dönemi için CHP'\" - The closing remarks hint at future developments and conclude the program, leaving the audience with a sense of anticipation.",
+      "end_pos": 38287
+    }
+  ],
+  "news_segments_count": 10,
+  "economic_segments_count": 5,
+  "economic_segments": [
+    {
+      "segment_id": "1867_0",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 208,
+      "filtered_length": 73,
+      "retention_ratio": 0.35096153846153844,
+      "section_description": "\"merak ediliyor iddiaya göre AKP yeni yasama dönemi için CHP'\" - The closing remarks hint at future developments and conclude the program, leaving the audience with a sense of anticipation."
+    },
+    {
+      "segment_id": "1867_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 182,
+      "filtered_length": 103,
+      "retention_ratio": 0.5659340659340659,
+      "section_description": "\"merak ediliyor iddiaya göre AKP yeni yasama dönemi için CHP'\" - The closing remarks hint at future developments and conclude the program, leaving the audience with a sense of anticipation."
+    },
+    {
+      "segment_id": "1867_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 278,
+      "filtered_length": 205,
+      "retention_ratio": 0.737410071942446,
+      "section_description": "\"merak ediliyor iddiaya göre AKP yeni yasama dönemi için CHP'\" - The closing remarks hint at future developments and conclude the program, leaving the audience with a sense of anticipation."
+    },
+    {
+      "segment_id": "1867_6",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 282,
+      "filtered_length": 101,
+      "retention_ratio": 0.35815602836879434,
+      "section_description": "\"merak ediliyor iddiaya göre AKP yeni yasama dönemi için CHP'\" - The closing remarks hint at future developments and conclude the program, leaving the audience with a sense of anticipation."
+    },
+    {
+      "segment_id": "1867_7",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 171,
+      "filtered_length": 88,
+      "retention_ratio": 0.5146198830409356,
+      "section_description": "\"merak ediliyor iddiaya göre AKP yeni yasama dönemi için CHP'\" - The closing remarks hint at future developments and conclude the program, leaving the audience with a sense of anticipation."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

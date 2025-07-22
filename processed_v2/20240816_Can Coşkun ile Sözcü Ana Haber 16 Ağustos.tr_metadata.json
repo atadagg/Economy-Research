@@ -1,0 +1,96 @@
+{
+  "file_path": "news/SozcuTV/20240816_Can Coşkun ile Sözcü Ana Haber 16 Ağustos.tr.txt",
+  "processing_timestamp": "2025-07-22T17:41:58.239254",
+  "original_word_count": 6759,
+  "filtered_word_count": 241,
+  "retention_ratio": 0.03565616215416482,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "eğitimde bilmemiz gerekenler duyurmam gerekenler var başlıyoruz",
+      "description": "\"eğitimde bilmemiz gerekenler duyurmam gerekenler var başlıyoruz\" - The program begins with the presenter introducing the topic and indicating the start of the broadcast.",
+      "end_pos": 84
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 84,
+      "start_sentence": "YouTube'da sorduk mecliste yine söz değil yumruklar konuştu",
+      "description": "\"YouTube'da sorduk mecliste yine söz değil yumruklar konuştu\" - The main news content starts here, discussing various political events, including violence in the parliament and public reactions.",
+      "end_pos": 596
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 596,
+      "start_sentence": "Birazdan özel canlı yayına Türkiye Büyük Millet Meclisi'nde ilk kez göreceğiniz görüntülerle başlıyoruz",
+      "description": "\"Birazdan özel canlı yayına Türkiye Büyük Millet Meclisi'nde ilk kez göreceğiniz görüntülerle başlıyoruz\" - This transition indicates a shift to a special live broadcast segment featuring exclusive footage from the Turkish Grand National Assembly.",
+      "end_pos": 687
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 687,
+      "start_sentence": "günlerdir bekleniyordu milletin meclisinde akan kanla yüzleşti",
+      "description": "\"günlerdir bekleniyordu milletin meclisinde akan kanla yüzleşti\" - This section continues the news coverage, detailing the events that occurred in the parliament, including specific incidents and reactions.",
+      "end_pos": 1463
+    },
+    {
+      "type": "5. **NEWS**",
+      "start_pos": 1463,
+      "start_sentence": "şu ana kadar Olup bitenleri özetleyip Türkiye Büyük Millet Meclisi'nin sıcak kalbine gidiyoruz",
+      "description": "\"şu ana kadar Olup bitenleri özetleyip Türkiye Büyük Millet Meclisi'nin sıcak kalbine gidiyoruz\" - Further elaboration on the events in the parliament, summarizing the ongoing situation and the atmosphere during the meetings.",
+      "end_pos": 1944
+    },
+    {
+      "type": "6. **NEWS**",
+      "start_pos": 1944,
+      "start_sentence": "din şarlatanlığın göstermel",
+      "description": "\"din şarlatanlığın göstermel\" - This appears to be part of the ongoing news discussion, possibly concluding the coverage of the violent events in parliament.",
+      "end_pos": 47536
+    }
+  ],
+  "news_segments_count": 8,
+  "economic_segments_count": 4,
+  "economic_segments": [
+    {
+      "segment_id": "84_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 76,
+      "filtered_length": 48,
+      "retention_ratio": 0.631578947368421,
+      "section_description": "\"YouTube'da sorduk mecliste yine söz değil yumruklar konuştu\" - The main news content starts here, discussing various political events, including violence in the parliament and public reactions."
+    },
+    {
+      "segment_id": "1463_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 63,
+      "filtered_length": 63,
+      "retention_ratio": 1.0,
+      "section_description": "\"şu ana kadar Olup bitenleri özetleyip Türkiye Büyük Millet Meclisi'nin sıcak kalbine gidiyoruz\" - Further elaboration on the events in the parliament, summarizing the ongoing situation and the atmosphere during the meetings."
+    },
+    {
+      "segment_id": "1944_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 118,
+      "filtered_length": 66,
+      "retention_ratio": 0.559322033898305,
+      "section_description": "\"din şarlatanlığın göstermel\" - This appears to be part of the ongoing news discussion, possibly concluding the coverage of the violent events in parliament."
+    },
+    {
+      "segment_id": "1944_4",
+      "method": "simple_final",
+      "confidence": 0.5,
+      "original_length": 102,
+      "filtered_length": 64,
+      "retention_ratio": 0.6274509803921569,
+      "section_description": "\"din şarlatanlığın göstermel\" - This appears to be part of the ongoing news discussion, possibly concluding the coverage of the violent events in parliament."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

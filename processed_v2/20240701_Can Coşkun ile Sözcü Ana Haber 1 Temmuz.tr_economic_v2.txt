@@ -1,0 +1,77 @@
+# Economic Content from: 20240701_Can Coşkun ile Sözcü Ana Haber 1 Temmuz.tr.txt
+# Processed: 2025-07-22T17:26:06.260213
+# Original: 6810 words → Filtered: 457 words (6.71% retention)
+# Economic segments: 6
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 63
+**Retention**: 50.81%
+
+Hazine ve Maliye Bakanı Mehmet Şimşek, ekonomik veriler ve piyasa dinamikleri hakkında önemli açıklamalarda bulundu. Borsa üzerindeki etkileri ve yatırımcıların tepkileri üzerine değerlendirmelerde bulundu. Ayrıca, hükümetin ekonomik politikalarının piyasalara yansımaları ve bu politikaların uzun vadeli etkileri üzerine de konuştu. Ekonomik göstergelerin, özellikle enflasyon ve işsizlik oranlarının, yatırım kararları üzerindeki etkisi vurgulandı. Bu bağlamda, piyasalardaki dalgalanmaların ve yatırımcı güveninin nasıl şekillendiği üzerine analizler yapıldı.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: pattern_validated
+**Confidence**: 0.75
+**Word Count**: 70
+**Retention**: 100.00%
+
+örtmeye ya da doğrusunu yapıyor birazdan sonuçları görmeye başlayacağız bakalım Sözcü izleyicileri
+ne düşünüyor gelsin ikinci anketimiz YouTube'da canlı yayından sorduk Sinan Ateş davasında ilk gün
+öğrendiklerimiz üzerine ilk günün manşeti ne olur Birazdan belki de haberi izleyince yorum yapmanız
+daha faydalı olacak Ben seçenekleri hatırlatayım Her şey ortada daha yeni başlıyor şema çok karışık
+Adalet dipsiz kuyuda Karar sizin Efendim başlıyoruz önce Sinan Ateş cinayeti buna ilişkin tam bir
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 87
+**Retention**: 34.25%
+
+Hazine ve Maliye Bakanı Mehmet Şimşek katıldığı canlı yayında asgari ücretin yeterli olduğunu savundu ve göreceksiniz bu sene reel olarak asgari ücret artmış olacak. Türkiye'de asgari ücret, dünyanın her yerinde olduğu gibi sembolik bir ücret değildir. Şimşek, ücretlerde artış yapılmamasına EYT düzenlemesini gerekçe gösterdi. EYT düzenlemesinin maliyeti dahil olmak üzere 724 milyar lira olarak hesaplandı. Bu konunun istismarı popülizm içeriyor. Türkiye'nin imkanlarına ve önceliklerine bakmamız lazım; öncelik istihdamdan. Şimşek'in sözlerine tepki gecikmedi; Türkiye'de asgari ücret, sadece bunların vicdanından yüksek değil, bu hükümetin vicdanı asgari ücretin de altındadır.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 58
+**Retention**: 50.88%
+
+Mehmet diğer bir gündem vergi paketi borsaya vergi haberi piyasayı yine altüst etti. Belki bu pakette değil ama bir sonraki pakette muhtemelen borsa kazançlarının da vergilendirilmesi çalışıyoruz. Birçok banka tarafından günlük para çekme limitinin 20,000 liraya çıkarıldığını görecek. Asgari ücret alan bir insanın geçim sıkıntısı yaşadığı belirtiliyor. Bu durum, asgari ücretin alım gücünü etkileyen önemli bir ekonomik faktör.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 101
+**Retention**: 59.41%
+
+Son 3 yılda mal ve hizmetlerin ortalama %12200 artış göstermesi, ücretlerin ise sadece %34 artması dikkat çekici bir ekonomik veridir. Bu durum, ekonomik dengesizliklerin ve gelir adaletsizliğinin bir göstergesi olarak değerlendirilmektedir. Kamuran Bey, bu sorunların arkasında kimlerin olduğunu sorgularken, Türkiye'deki ekonomik koşulların ne kadar zorlayıcı olduğunu vurgulamaktadır. 
+
+Milyoner Türkiye'deki bireylerin ekonomik durumları üzerine yapılan tartışmalar, yüksek enflasyon ve artan yaşam maliyetleri ile ilgili endişeleri de beraberinde getiriyor. Bankada 1 milyon liranın üzerinde parası olanların mevduat içerisindeki payının %76 olması, tasarruf sahiplerinin ekonomik belirsizlikler karşısında nasıl bir strateji izlediğini göstermektedir. Bu veriler, Türkiye'nin mevcut ekonomik durumunu anlamak için önemli bir bağlam sunmaktadır.
+
+================================================================================
+
+## Economic Segment 6
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 78
+**Retention**: 61.42%
+
+Geldik sonuçlara, yatırımcıyı alt etmeye çalışanlar % 111,6 uçuk vergiye alıştırmaya çalışıyor diyenler % 35,7 acı reçeteyi örtmeye çalışıyor diyenler baskın çoğunlukta. Doğrusunu yapıyor diyenler ise % 4,5 yani ekonomik krizden ancak böyle çıkılır diyenler % 4,5. Şimdi ekonomi hakikaten işleri değiştiriyor. Kombinelerin fiyatlarıyla ilgili bir şey söylemeyecek misiniz diye sorulmuş; geçen yıl 11.500-12.000 liraya aldığımız kombineler şimdi 28.000 liraya geldi. Asgari ücrette ara zam yapılmadı, belki hesap oradan şaştı. Kulüplerin gerçek sahibi taraftarlar da bu durumu gözlemliyor.
+
+================================================================================
+

@@ -1,0 +1,62 @@
+{
+  "file_path": "news/SozcuTV/20240919_Fatih Portakal ile Sözcü Ana Haber 19 Eylül.tr.txt",
+  "processing_timestamp": "2025-07-22T17:31:55.262160",
+  "original_word_count": 7455,
+  "filtered_word_count": 80,
+  "retention_ratio": 0.010731052984574111,
+  "structure_sections": [
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 37,
+      "start_sentence": "Birazdan bir özel haber gelecek bir yurt üniversiteli öğrenci ve ailesi yurt arıyor",
+      "description": "\"Birazdan bir özel haber gelecek bir yurt üniversiteli öğrenci ve ailesi yurt arıyor\" - The main news content begins, discussing a specific story about a university student and their family's search for accommodation, including details about a religious dormitory and its requirements.",
+      "end_pos": 194
+    },
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 194,
+      "start_sentence": "İyi akşamlar Ben Fatih Portakal Türkiye'nin en farklı ana haber bültenine",
+      "description": "\"İyi akşamlar Ben Fatih Portakal Türkiye'nin en farklı ana haber bültenine\" - The presenter introduces himself and welcomes viewers to the news program, setting the stage for the broadcast.",
+      "end_pos": 1176
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 1176,
+      "start_sentence": "Bugün Ana haber bültenimize konuk oldu",
+      "description": "\"Bugün Ana haber bültenimize konuk oldu\" - A brief transition that indicates a shift in focus to another topic or segment within the news broadcast.",
+      "end_pos": 1276
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1276,
+      "start_sentence": "Geldik YouTube kapak ne var Bugün kapağa Neyi taşıdık",
+      "description": "\"Geldik YouTube kapak ne var Bugün kapağa Neyi taşıdık\" - Another segment of news content that discusses the topic of the day, including questions posed to the audience and commentary on current events related to youth and labor issues.",
+      "end_pos": 1276
+    },
+    {
+      "type": "5. **TRANSITION**",
+      "start_pos": 1276,
+      "start_sentence": "Geldik YouTube soru Eee İşçi Sendikaları neden miting yapmıyor",
+      "description": "\"Geldik YouTube soru Eee İşçi Sendikaları neden miting yapmıyor\" - A transition that leads into another news topic, specifically addressing labor unions and their actions regarding low wages.",
+      "end_pos": 51354
+    }
+  ],
+  "news_segments_count": 5,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "1276_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 167,
+      "filtered_length": 80,
+      "retention_ratio": 0.47904191616766467,
+      "section_description": "\"Geldik YouTube soru Eee İşçi Sendikaları neden miting yapmıyor\" - A transition that leads into another news topic, specifically addressing labor unions and their actions regarding low wages."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

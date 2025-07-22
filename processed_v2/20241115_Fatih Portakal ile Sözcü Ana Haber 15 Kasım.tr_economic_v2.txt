@@ -1,0 +1,55 @@
+# Economic Content from: 20241115_Fatih Portakal ile Sözcü Ana Haber 15 Kasım.tr.txt
+# Processed: 2025-07-22T17:47:39.233286
+# Original: 7008 words → Filtered: 305 words (4.35% retention)
+# Economic segments: 4
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 110
+**Retention**: 100.00%
+
+bakıyordum ne olmuş ne kalmış filan bir haber gözüme çarptı depresyonum var diye tamam mı işte eee
+doğal yöntemler Evet uygulanıyor ama Türkiye Türkiye Eee psikiyatri Derneği Başkanı söylüyor ama
+yine de Eee klasik de tedavilerden uzak durmayın diye işte oradan depresyonum var diye tabelayı
+buldum tabela 15 Kasım'ın tabelası depresyonu var günün sözü Eee kadın erkek ilişkileriyle ilgili
+Paulo K'nın bir sözü Harika bir söz ama çok beğeneceksiniz çok güzel bir söz ya bakın ne diyor bir
+erkekle mutlu olmak istiyorsan onu anla bir erkekle mutlu olmak istiyorsan onu anla Sevmesen de Olur
+bir kadınla mutlu olmak istiyorsan onu sev Anlamasan da olur yani felsefesi olan bir söz birkaç
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 45
+**Retention**: 34.62%
+
+Azerbaycan petrolü satmış, günlük 700,000 varil gelir elde edilmektedir. Bu petrolün nasıl gittiği konusunda belirsizlikler var. Bakanımız, buradan İsrail'e giden bir petrol olmadığını ifade ediyor. Ticaretin devam ettiğini ve 700,000 varil petrolün fiyatının 1,27 dolardan hesaplandığını belirtiyor. Bu durum, uluslararası hukuka uygun sözleşmeler çerçevesinde gerçekleşiyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 76
+**Retention**: 39.18%
+
+Hedef enflasyon % 44, 2024 yılı içinse % 21 olarak belirlenmiştir. Asgari ücret zam senaryoları arasında % 120 diyenler var; bu durumda asgari ücret 20,02 lira yapıyor. % 25 zam yapılırsa 21,252 lira, % 30 zam olursa 22,12 lira, % 35 zam verilirse 22,52 lira, % 40 zam yapılırsa 23,02 lira olacak. Yapay Zeka, asgari ücretin 35 ile 45 lira arasında olabileceğini öngörüyor. Eğer beklentilere göre hareket edilirse, % 21,225 beklentisine göre zam yapılması mümkün görünmüyor.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 74
+**Retention**: 64.91%
+
+Bu ekonomik düzen içerisinde gençler arasında "Doom spending" tabiri yaygınlaşmış durumda. Gençler, parası olmadığını bildikleri için bir şeylere sahip olamayacaklarını düşünüyorlar. Bu nedenle, günlük yaşamlarına odaklanarak, "biriktirirsem nasıl alacağım" sorusunu akıllarından çıkarıyorlar. Asgari ücretin ne kadar olacağı konusunda belirsizlikler var. Yapay Zeka'nın tahminlerine göre, 35 ile 45 yaş arasındaki bireylerin alım gücünde önemli bir kayıp yaşanmış; şu anda alım gücü 11,000 liraya düşmüş durumda. Bu durum, ekonomik koşulların gençlerin yaşam tarzlarını nasıl etkilediğini gösteriyor.
+
+================================================================================
+

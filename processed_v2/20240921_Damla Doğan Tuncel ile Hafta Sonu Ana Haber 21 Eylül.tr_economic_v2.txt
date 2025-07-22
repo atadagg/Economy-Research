@@ -1,0 +1,92 @@
+# Economic Content from: 20240921_Damla Doğan Tuncel ile Hafta Sonu Ana Haber 21 Eylül.tr.txt
+# Processed: 2025-07-22T17:37:18.543444
+# Original: 5876 words → Filtered: 700 words (11.91% retention)
+# Economic segments: 6
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 59
+**Retention**: 55.66%
+
+Konuşuruz üzerine birazdan detaylı olarak. Diğer yandan, günün manşetini Cumhurbaşkanı Erdoğan verdi. Ekonomik veriler ve istatistikler hakkında önemli açıklamalar yaptı. Cevap bekliyoruz dedi. Ayrıca, önemli görüşmeler yapacağının sinyalini verdi. Bugünlerde tasarruf konuları da gündemde. Eğitim öğretim sürecinde hijyen önlemleri nedeniyle bütçelerde kısıtlamalar yaşandı. Bu durum, okulların temizlik personeli maliyetlerini etkiledi. Öğrenciler ve veliler, bu şartlarda ne olacağını merak ediyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 285
+**Retention**: 100.00%
+
+soruşturmada yeni bir gelişme var malum 12 tutuklu bulunuyor bu dosyada şu ana kadar yüzlerce ifade
+alındı Ama tek bir itiraf çın Nevzat Bahtiyar'ın işte Salim güran amca bana Narin öldürdüğünü
+söyledi cansız bedeni de yok etmem için bana verdiği ifadesi dışında elimizde katille ilgili hiçbir
+net bilgi bulgu delil yoktu Nevzat Bahtiyar o itirafçı üncü kez ifade değiştirdi ve yeni itiraflarda
+yeni iddialarda bulundu Bu kez amcayla olan görüşmesinin yolda değil daha önce söylediği gibi
+narinin evinde olduğunu öne sürdü ve Nevzat Bahtiyar'ın iddiasına göre amca narinin annesiyle
+birlikteliğini Narin'in gördüğünü Bu yüzden de Narin öldürdüğünü olay yerinde hemen o anda kendisine
+itiraf etti ailesiyle tehdit edip cansız bedeni de amca e bahtiyardan saklamasını istedi üç kez
+ifade değiştiren Nevzat Bahtiyar Bu kez gerçekleri anlatacağım diyerek yeniden savcıyla görüşmek
+istedi yeni if Nar amcası boğdu evde bana verdi ben yok ettim dedi Narine nası kıydınız parmağınız
+var mı bu işte tutuklanıp T tipi kapalı ceza infaz kurumuna gönderilen itira Avcı Nevzat Bahtiyar
+gece sıkı güvenlik önlemleriyle adliyeye gönderildi vicdan azabı çekiyorum tüm gerekleri anlatacağım
+diyerek savcıya 4 saat ifade verdi bazı olayları salimin tehditlerinden dolayı farklı anlattım kızın
+boğulduğu 21 Ağustos günü saat 15 8'de Salim gürhan'ı su meselesi yüzünden aradım beni narinin evine
+çağırdı bir oda hariç tüm Odaların kapıları kapalıydı evin içinde sim'den başkasını görmedim Salim
+beni odalardan birine götürdüğünde narinin yerde hareketsiz yatar vaziyette olduğunu gördüm ağzında
+köpük şeklinde bir sıvı vardı Salim bana Yüksel birlikte olduğumuzu kız gördüğü için ben bu kızı
+öldürdüm artık sen de benim suç ortağımsın dedi Narine Nasıl Kıydınız parmağınız var mı bu işte
+itirafçı Salim güran'ın Narin cansız bedenini yok etmesi için kendisini oğlunu öldürtmek de tehdit
+ettiğini iddia etti karşılığında Salim güran'ın sonradan 200
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 105
+**Retention**: 99.06%
+
+Türkiye'nin pek çok noktasından gelen görüntüler, okullardaki temizlik ve hijyen sorununu gözler önüne serdi. Milli Eğitim Bakanı Yusuf Tekin, yeni günde sorunun çözüleceğini söyledi. En son dün de Cumhurbaşkanı Yardımcısı Sayın Cevdet Yılmaz ve Çalışma ve Sosyal Güvenlik Bakanı ile birlikte oturduk ve tekrar değerlendirdik. Bu durum, eğitim sektöründeki iş gücü ihtiyacını ve kamu hizmetlerinin finansmanını etkileyen bir konu olarak öne çıkıyor. 
+
+Ayrıca, okullardaki temizlik hizmetlerinin iyileştirilmesi, kamu harcamaları ve bütçe dengesi açısından önemli bir mesele. Çalışma Bakanlığı'nın alacağı yeni personel, istihdam oranlarını artıracak ve eğitim sektöründeki iş gücü piyasasına olumlu katkı sağlayacaktır. Bu gelişmeler, ekonomik büyüme ve kamu hizmetlerinin kalitesini artırma hedefleriyle doğrudan ilişkilidir.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 82
+**Retention**: 46.59%
+
+Geçtiğimiz yıl temizlik personellerine asgari ücret verilirken bu yıl sistem değişti. Personelin İŞKUR bünyesindeki iş gücü uyum programından karşılanmasına karar verildi. Haftada 3 gün ve azami 22,5 saat çalışma süresi öngörülerek, ücret ayda 8447 lira olarak hesaplandı. Ancak personel bulunamadı; başvurular ihtiyacın sadece % 25'ini karşıladı. Milli Eğitim Bakanı Yusuf Tekin, 30,000 personel istihdam edileceğini açıkladı. Bu eğitim öğretim döneminin başında, Türkiye'de 60,600 okul bulunduğu bilgisi de dikkate alındığında, eğitim sektöründeki istihdam sorunları ve maliyetler önemli bir ekonomik mesele olarak öne çıkıyor.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 74
+**Retention**: 48.68%
+
+Bu yıl içerisinde asgari ücret 3 kez zamlandı ve 35,000 TL oldu. Türkiye'de gelir adaletsizliği aşılmakta zorlanıyor; asgari ücret, yaygın ücret haline geldiği için ortalama ücretle makas kapandı. Temmuz ayında asgari ücret artış görmedi ve 17,200 TL'de kaldı. Ancak Kuzey Kıbrıs Türk Cumhuriyeti'nde asgari ücret 3 kez zamlandı ve 35,000 TL'ye yükseldi. Türkiye'de asgari ücrete enflasyon gerekçesiyle zam yapılmadı. 2024'e kadar asgari ücret 16,000 TL'dan başlayarak, Mayıs'ta 29,000 TL'ye ve Eylül'de 35,000 TL'ye yükseltildi.
+
+================================================================================
+
+## Economic Segment 6
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 95
+**Retention**: 42.60%
+
+Türkiye'de alım gücü günden güne eriyor. Asgari ücretlinin zam için Aralık ayını beklemesi gerekiyor. Yapılacak artışın hedeflenen enflasyona mı yoksa gerçekleşen enflasyona göre mi yapılacağı netlik kazanmadı. Gökçek'in varlıklarına tedbir konuldu. Avukat, faiziyle 2,5 milyon lirayı bulan alacağı için yargıya başvurdu. Gökçek'in mal varlıklarına tedbir konulması, ekonomik bir durumun yargı sürecine yansıması olarak değerlendirilebilir. İstanbul 12. Asliye Hukuk Mahkemesi, avukatı haklı buldu ve Gökçek'in taşınır ve taşınmaz varlıklarına haciz kararı verildi. Gökçek'in avukatları, haciz işlemlerinin yasaya uygun olmadığını belirterek hakimleri HSK'ya şikayet etmeye hazırlanıyor. Bu durum, Türkiye'deki hukuki süreçlerin ekonomik etkilerini de gözler önüne seriyor.
+
+================================================================================
+

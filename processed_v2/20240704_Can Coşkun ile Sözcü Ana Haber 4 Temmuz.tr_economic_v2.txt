@@ -1,0 +1,119 @@
+# Economic Content from: 20240704_Can Coşkun ile Sözcü Ana Haber 4 Temmuz.tr.txt
+# Processed: 2025-07-22T17:30:27.335210
+# Original: 7223 words → Filtered: 855 words (11.84% retention)
+# Economic segments: 9
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 93
+**Retention**: 100.00%
+
+olı gerektiği gibi etiketimiz de tabelam da çok net yine bir soru soruyoruz bu öyle bir soru ki
+yargı için yargıdaki çeşitli cinayet dosyaları için o cinayet dosyalarının sanıkları ve yerine göre
+tanıkları için bizzat uyuyor başka ekonomi için uyuyor verilen enflasyon hedefleri için şurada
+düzeleceği durakta düzeleceği için de çok kullanışlı bir soru Sadece bu kadar mı hayır ve vaatler
+ekseni de siyasete de uyarlayın İsviçre şakısı gibi Yani her şey uyarlanıyor Kim doğru söylüyor
+efendim Kim doğru söylüyor neden bu tabelayı tercih ettiğimizi Siz de biz de içten içe gayet iyi
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 104
+**Retention**: 32.30%
+
+Merkez Bankasına göre kırmızı et fiyatı düştü. Merkez Bankası, Haziranda kırmızı et fiyatının azaldığını söyledi ama bu azalma ne reyona ne etikete yansıdı. Sektör temsilcilerine göre, her Kurban Bayramı öncesinde olduğu gibi kırmızı ete talep düştü. Bayram öncesinde kilosu 365 ile 380 lira civarında olan karaset fiyatı 15 lira kadar geriledi, ancak bayramın hemen ardından fiyat yine eskiye döndü. Kurban Bayramı öncesi ve sonrası kırmızı ete olan talepte ciddi bir azalma söz konusu oldu. Bu tamamen geçici bir durumdu; maliyetle alakalı bir fiyatın geri gelmesi söz konusu değildir. Kırmızı et fiyatlarındaki bu azalmayı birebir perakende sektöründe göremeyiz çünkü şu anda belirsiz bir pazar var.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 64
+**Retention**: 50.39%
+
+Emeklilere Ocak ayına kadar bir refah payı eklenip eklenmeyeceği tartışılıyor. Bu konuda %5 mi yoksa %10 mu eklenir sorusu gündemde. Ekonomik veriler, emeklilerin alacakları maaşların enflasyon karşısında eridiğini gösteriyor. Kök maaşı 8,000 L olan emekliler, gelen enflasyon farkıyla yine 10,000 L'yi geçemiyor. Kök maaşı 10,000 L olan emekliler de ekonomik belirsizlikler nedeniyle endişeli. Bu durum, emeklilerin alım güçlerini olumsuz etkiliyor ve ekonomik istikrarı sorgulatıyor.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 81
+**Retention**: 58.27%
+
+İstanbul'da 4 kişilik ailenin yaşam maliyeti 70 bin lira olarak belirlenmiştir. Emekli refah payı almazsa, 2.74 lira enflasyon farkı alacak. Bu durum, emeklilerin alım gücünü doğrudan etkilemektedir. Kilo fiyatları da artış göstermekte; örneğin, bonfile kilosu 1000 lira, peynir kilosu 320 lira, zeytin kilosu 260 lira ve çay kilosu 200 lira olarak satılmaktadır. Bu fiyat artışları, enflasyonun etkisini gözler önüne sermektedir. Ekonomik koşullar nedeniyle, birçok kişi temel gıda maddelerini almakta zorlanmaktadır. Bu durum, emeklilerin ve dar gelirli ailelerin yaşam standartlarını olumsuz etkilemektedir.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 93
+**Retention**: 44.71%
+
+Çiftçi perişan durumda, kazanan belirli kesimler. Ancak ufak çiftçi mahvolmuş durumda. Hasat sezonu da zam furyasıyla geçiyor. Girdi fiyatlarında artış yaşanıyor; mazot, gübre, elektrik, işçilik ve ilaç gibi kalemlerde fiyat artışları gözlemleniyor. Bu yıl limonun kilosunu 1 liradan verdik, çoğu da dalında kaldı. Türkiye'nin narenciye merkezi Hatay Arsuz'da çiftçinin bir yıllık emeği çöp oldu. Bir torba gübreyi yıl öncesine kadar 5 liraya alıyorduk, şu an 1000 lirayı aştı. Çiftçi, varını yoğunu üretime koydu ama maliyetler karşısında zor durumda. Ziraat Bankasında bekleyen 250 lira destek ödemesi var, ancak bu miktar çiftçinin ihtiyaçlarını karşılamaktan uzak.
+
+================================================================================
+
+## Economic Segment 6
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 96
+**Retention**: 47.06%
+
+Geçen yıl Ziraat Bankası'ndan devlet bankasından bir kredi çekmiştim. Hem meyve ucuz oldu hem maliyet 3 kat arttı. Çiftçi çok bir şey istemiyor, sadece hak ettiği destek verilse dahi ayakta kalabilecek. Çay üretiminde, fındık üretiminde ya da buğday üretiminde taban fiyat belirlemesi oluyor. Burada çiftçilerimiz bunlardan mahrum. Hükümetimizin burada bu çiftçilerin mağduriyetini duymaması, üretim olmayan yerde çökmeye mahkum ediyor. Enflasyonla birlikte, emekliye reva görülen TÜİK'in o ilginç sepetinden çıkan sonuçlarla asgari ücretin es geçilmesi gibi gerçekleri görüyoruz. Temmuz ayından Aralık sonuna kadar ödenecek miktar belli oldu. Bedelli askerlik ücreti 6 aylık enflasyon oranı ile birlikte 218.
+
+================================================================================
+
+## Economic Segment 7
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 93
+**Retention**: 46.73%
+
+Dolarla yarışan bir kur seviyesinde dolar enflasyonu var. Bu da bedelli askerlik ücretlerinin artışını etkiliyor. İlk zamanlarda 15,000 lira olan bedelli askerlik ücreti, şimdi 182,609 lira oldu. Temmuz ayı itibariyle bu bedel 217,87 oldu. Yeni mezunlar ve asgari ücretli çalışanlar için bu bedeli ödemek hayal oldu. Ucuz bir fiyat olarak gözükmüyor. Bedelli askerlik ücretleri artık cep yakıyor. Tecili bitenler kara kara düşünüyor. Eğer Aralık ayında bedelli askerlik ücretini ödeyecekse, şu anda 95,000 lira ödemesi gerekecek. Aylık enflasyon rakamlarının belli olmaması, bu durumu daha da zorlaştırıyor. Kredilere bağlı olarak bazı kişiler kredi çekmeyi düşünüyor.
+
+================================================================================
+
+## Economic Segment 8
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 94
+**Retention**: 70.15%
+
+80 lir olan bedelli askerlik ücreti 6689 dolara karşılık geliyor, yani bedelli askerlik 2018'den bu yana 3590 Dolar arttı. Dolar bazındaki artış, Türk Lirası bazında 6 yıllık artışa %1352 olarak yansıyor ve bedelli askerlik neredeyse yatırım aracı halini aldı. Dolar borcunuz varsa veya dolarla bir işiniz varsa, bu durum hayatınızı etkiliyor. Bedelli askerliğe gelen zamlar, dolarla birikim yapanları bile zorlayacak gibi görünüyor. İnsanlar bu parayı bir seferde vermek için kredi çekiyorlar veya ailesinden destek alıyorlar. Eğer bedelli askerliği ödemek için kredi çekerseniz, bankalara ortalama olarak geri ödeyeceğiniz miktar 12 aylık taksitle 310 lira olacaktır.
+
+================================================================================
+
+## Economic Segment 9
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 137
+**Retention**: 100.00%
+
+000 ile 1 milyon TL arasında değişmektedir yani İptal edilen 20 ihalenin Bedeli ilgili
+tarım orman Bakanlığının bindiği Mercedes'in değeri kadardır Örneğin dal Aman orman yolu Köyceğiz
+bağlantı yolu Kütahya yangın havuzu Zonguldak yeni orman yolu Kargı traktör yolu Bergama helikopter
+pisti ve Osmaniye yangın ekip binası ihaleleri iptal edildi muhalefetin eleştirileri ise gerekçe
+olarak tasarruf tedbirlerinin gösterilmesine oldu tasarruf buradan başlamaz tasarruf bindiğiniz
+Uçaklarda konvoylarına birden fazla maaş alan bürokratlardan başlar bütün ormanlarımız için alınacak
+tedbirler Sayın bakanın bindiği Mercedes'ten daha değersiz olamaz mercedes'lerin tasarruf Genelgesi
+kapsamı dışında tutulduğu bir yerde bu vahim hatadan hemen vazgeçilmeli ormanları korumak için
+gereken ihaleler beh mehal yapılmalıdır bir yanda orman yangınları ile mücadelede yetersiz
+kalınmasına itiraz sesi yükselirken diğer yand İsa binlerce metrekarelik alanlar ormanlık
+statüsünden çıkarılıyor Artvin'de 99 000 Bitlis'te 177 000 İzmir'de 286 000 İstanbul'da İsa 187
+
+================================================================================
+

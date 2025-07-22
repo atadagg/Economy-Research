@@ -1,0 +1,71 @@
+{
+  "file_path": "news/SozcuTV/20240917_Fatih Portakal ile Sözcü Ana Haber 17 Eylül.tr.txt",
+  "processing_timestamp": "2025-07-22T17:25:08.688141",
+  "original_word_count": 7271,
+  "filtered_word_count": 206,
+  "retention_ratio": 0.028331728785586575,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 98,
+      "start_sentence": "İyi akşamlar Ben Fatih Portakal",
+      "description": "\"İyi akşamlar Ben Fatih Portakal\" - The presenter introduces themselves and welcomes viewers to the news program, establishing the date and context.",
+      "end_pos": 98
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 98,
+      "start_sentence": "Türkiye'nin en farklı ana haber bültenine Hoş geldiniz sevgili izleyenler tarih 17 Eylül 2024",
+      "description": "\"Türkiye'nin en farklı ana haber bültenine Hoş geldiniz sevgili izleyenler tarih 17 Eylül 2024\" - The main content of the broadcast begins, discussing various news topics, including economic issues and public figures.",
+      "end_pos": 1070
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 1070,
+      "start_sentence": "Eee geldik önce e günün sözüyle gidelim",
+      "description": "\"Eee geldik önce e günün sözüyle gidelim\" - A brief transition phrase indicating a shift to a new segment or topic within the news content.",
+      "end_pos": 1654
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1654,
+      "start_sentence": "YouTube kapağa gelelim",
+      "description": "\"YouTube kapağa gelelim\" - Continuation of the news content, focusing on specific incidents and public reactions.",
+      "end_pos": 1852
+    },
+    {
+      "type": "5. **OUTRO**",
+      "start_pos": 1852,
+      "start_sentence": "Bence Erdoğan da biliyor Bence adalet bakanı da biliyor",
+      "description": "\"Bence Erdoğan da biliyor Bence adalet bakanı da biliyor\" - The closing remarks that summarize the discussion and provide a final thought before the program ends.",
+      "end_pos": 50029
+    }
+  ],
+  "news_segments_count": 6,
+  "economic_segments_count": 2,
+  "economic_segments": [
+    {
+      "segment_id": "98_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 141,
+      "filtered_length": 118,
+      "retention_ratio": 0.8368794326241135,
+      "section_description": "\"Türkiye'nin en farklı ana haber bültenine Hoş geldiniz sevgili izleyenler tarih 17 Eylül 2024\" - The main content of the broadcast begins, discussing various news topics, including economic issues and public figures."
+    },
+    {
+      "segment_id": "1070_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 88,
+      "filtered_length": 88,
+      "retention_ratio": 1.0,
+      "section_description": "\"Eee geldik önce e günün sözüyle gidelim\" - A brief transition phrase indicating a shift to a new segment or topic within the news content."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

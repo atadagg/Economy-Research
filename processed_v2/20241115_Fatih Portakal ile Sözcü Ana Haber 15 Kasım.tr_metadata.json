@@ -1,0 +1,89 @@
+{
+  "file_path": "news/SozcuTV/20241115_Fatih Portakal ile Sözcü Ana Haber 15 Kasım.tr.txt",
+  "processing_timestamp": "2025-07-22T17:47:39.233286",
+  "original_word_count": 7008,
+  "filtered_word_count": 305,
+  "retention_ratio": 0.0435216894977169,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 99,
+      "start_sentence": "İyi akşamlar Ben Fatih Portakal Türkiye'nin en farklı ana haber bültenine Hoş geldiniz sevgili izleyenler...",
+      "description": "\"İyi akşamlar Ben Fatih Portakal Türkiye'nin en farklı ana haber bültenine Hoş geldiniz sevgili izleyenler...\" - This section serves as the opening of the broadcast, where the presenter introduces themselves and welcomes the viewers to the news program.",
+      "end_pos": 589
+    },
+    {
+      "type": "2. **TRANSITION**",
+      "start_pos": 589,
+      "start_sentence": "Ama 15 Temmuz yazmışsınız oraya ya bravo Serkan...",
+      "description": "\"Ama 15 Temmuz yazmışsınız oraya ya bravo Serkan...\" - This brief transition includes a light-hearted moment between the presenter and a colleague, indicating a shift in focus before diving into the news content.",
+      "end_pos": 888
+    },
+    {
+      "type": "3. **NEWS**",
+      "start_pos": 888,
+      "start_sentence": "Bugün cuma Eee Bugün günlerden cuma 15 Kasım 2024 ve tabela nedir diyeceksiniz tabela şimdi habere inmeden önce...",
+      "description": "\"Bugün cuma Eee Bugün günlerden cuma 15 Kasım 2024 ve tabela nedir diyeceksiniz tabela şimdi habere inmeden önce...\" - This section contains the actual news content, discussing various topics including mental health and quotes related to relationships, indicating the start of the news stories.",
+      "end_pos": 1088
+    },
+    {
+      "type": "5. **OUTRO**",
+      "start_pos": 1088,
+      "start_sentence": "Eee doğal yöntemler Evet uygulanıyor ama Türkiye Türkiye...",
+      "description": "\"Eee doğal yöntemler Evet uygulanıyor ama Türkiye Türkiye...\" - This section wraps up the news content, providing closing remarks and summarizing the discussion before ending the program.",
+      "end_pos": 1774
+    },
+    {
+      "type": "4. **TRANSITION**",
+      "start_pos": 1774,
+      "start_sentence": "Evet yani Kadınlar sevilmeyi sever çünkü kadınlar sevilmeyi...",
+      "description": "\"Evet yani Kadınlar sevilmeyi sever çünkü kadınlar sevilmeyi...\" - This transition leads into a discussion about relationships, serving as a segue between different news topics.",
+      "end_pos": 48270
+    }
+  ],
+  "news_segments_count": 12,
+  "economic_segments_count": 4,
+  "economic_segments": [
+    {
+      "segment_id": "1088_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 110,
+      "filtered_length": 110,
+      "retention_ratio": 1.0,
+      "section_description": "\"Eee doğal yöntemler Evet uygulanıyor ama Türkiye Türkiye...\" - This section wraps up the news content, providing closing remarks and summarizing the discussion before ending the program."
+    },
+    {
+      "segment_id": "1774_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 130,
+      "filtered_length": 45,
+      "retention_ratio": 0.34615384615384615,
+      "section_description": "\"Evet yani Kadınlar sevilmeyi sever çünkü kadınlar sevilmeyi...\" - This transition leads into a discussion about relationships, serving as a segue between different news topics."
+    },
+    {
+      "segment_id": "1774_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 194,
+      "filtered_length": 76,
+      "retention_ratio": 0.3917525773195876,
+      "section_description": "\"Evet yani Kadınlar sevilmeyi sever çünkü kadınlar sevilmeyi...\" - This transition leads into a discussion about relationships, serving as a segue between different news topics."
+    },
+    {
+      "segment_id": "1774_5",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 114,
+      "filtered_length": 74,
+      "retention_ratio": 0.6491228070175439,
+      "section_description": "\"Evet yani Kadınlar sevilmeyi sever çünkü kadınlar sevilmeyi...\" - This transition leads into a discussion about relationships, serving as a segue between different news topics."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

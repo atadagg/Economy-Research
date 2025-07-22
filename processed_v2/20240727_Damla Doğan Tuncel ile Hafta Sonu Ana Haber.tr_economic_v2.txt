@@ -1,0 +1,66 @@
+# Economic Content from: 20240727_Damla Doğan Tuncel ile Hafta Sonu Ana Haber.tr.txt
+# Processed: 2025-07-22T17:50:21.869214
+# Original: 5369 words → Filtered: 570 words (10.62% retention)
+# Economic segments: 5
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 73
+**Retention**: 35.10%
+
+AKP yeni yasama dönemi için CHP'li belediyeleri daha da zora sokmak için çoktan kolları sıvadı. Yapılacak kanun değişikliği ile AKP döneminden kalma borçların belediye bütçesinden kesme planı yapılıyor. Sosyal güvenlik kurumuna en fazla borcu olan ilk beş belediye Cumhuriyet Halk Partili belediyeler. 96 milyar liralık borcun 65,5 milyar lirası yani % 68'i CHP'li belediye ve iştiraklerine ait. CHP'ye göre amaç belediyelerin elini kolunu bağlayarak çalışamaz duruma getirmek. Borçlarını öderlerse CHP'li belediyeler iş yapamaz.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 103
+**Retention**: 56.59%
+
+Emekliye 2,500 lira zam yapıldı diye en düşük emekli maaşına bunu duyururken bunun bütçeye nasıl bir yük olduğunu anlata anlata durdular ya 33 milyar liradan bahsediyoruz. 33 milyar lira harcıyoruz biz emekliye. 
+
+Bu durum, hükümetin sosyal harcamalarını artırarak bütçe dengesi üzerinde baskı oluşturabileceğini gösteriyor. Ekonomik veriler, emekli maaşlarındaki artışın enflasyon üzerindeki etkilerini de gözler önüne seriyor. 
+
+Ayrıca, asgari ücretin artırılması, işgücü maliyetlerini yükseltebilir ve bu da işletmelerin kâr marjlarını etkileyebilir. İşletmelerin bu duruma nasıl yanıt vereceği, ekonomik büyüme üzerinde belirleyici bir faktör olacaktır. 
+
+Hükümetin bu tür sosyal politikaları, ekonomik istikrarı sağlamak için atılan adımlar olarak değerlendirilebilir, ancak uzun vadede sürdürülebilirliği konusunda endişeler bulunmaktadır.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 205
+**Retention**: 73.74%
+
+Özgür Özel de söyledi 2023'te sadece bir senede iktidara yakın müteahhitlerin 660 milyar lira, yani yaklaşık 20 milyar dolarlık vergi borcu silindi. Üstelik her gün yeni aflar ve yeni imtiyazlar duymaya devam ediyoruz. Önümüzdeki günlere ilişkin CHP Genel Başkan Yardımcısı Deniz Yavuz Yılmaz, iktidarın kendilerine yakın şirketlerin özelleştirme borçlarını Türk Lirası cinsine çevirdiğini açıkladı. Yavuz Yılmaz diyor ki, devletin bu tek kalemde yaptığı işlemden zararı 1 milyar 257 milyon dolar. Sadece bu işlemden devlet zararı 41,5 milyar lira. AK Parti'nin 10 şirketin devlete olan Amerikan doları cinsinden özelleştirme borçlarını TL'ye çevirip 6 yıl 6 taksit yaptığını tespit ettik. İktidara yakın şirketlere yine el uzatıldı; devlete olan borçları dolardan Türk lirasına çevrildi. CHP Genel Başkan Yardımcısı Deniz Yavuz Yılmaz, AKP'ye yakın 10 şirketin döviz borcunun 2017'de dolar 3,53 kuruşken Türk lirasına çevrildiğini belgeledi. Borcun 6 yıla yayıldığını da açıkladı. Bu şirketlerin devletten alacaklarının lirasına çevrildiğini söyledi. Devletten alacağı olan dolar ve euro üzerinden ödenen garantilerin Türk lirasına çevrilmediği ve böylelikle de faturanın vatandaşımıza yüklendiği ifade edildi. 10 şirketin devlete kalan ana para borcu 2017'de 2 milyar 560 milyon dolardı. Eğer Türk lirasına çevrilmesi 3 milyar 123 milyon dolar olacaktı. Türk lirasına çevrilince ortaya çıkan zarar ise 1 milyar 50 milyon dolar, güncel kurla 41 milyar lira.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 101
+**Retention**: 35.82%
+
+Toplu ulaşımla karşılaştırıldığında, taksimetre ücret tarifesinde en az % 30 zam talebi için pazartesi revize başvurusu yapılacağı açıklandı. Taksiciler, maliyetlerin yüksek olduğunu belirterek, İstanbul'daki taksimetre ücretlerinin en ucuz olduğunu ifade ettiler. Ekonomideki durum hakkında yapılan yorumlarda, konut fiyatlarının İstanbul'da İspanya'nın Barcelona şehrini geçtiği vurgulandı. Uzmanlar, yeni bir konut krizine doğru gidildiğini ve kiralara % 30'a yakın zam yapılabileceğini belirtiyor. İstanbul'daki satılık ve kiralık daire fiyatları, Barcelona'yı geride bıraktı; Beşiktaş'ta satılık bir daire 15 milyon lira iken, Barcelona'da bu fiyat 13 milyon TL civarında. 2018-2022 döneminde ülkemizdeki konut fiyatları % 1888 oranında arttı. Eyüp'te ortalama konut kirası 25 bin lira seviyelerine ulaştı.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 88
+**Retention**: 51.46%
+
+513 lir iken aynı fiyatlara Barcelona'nın anoya bages ve monis bölgelerinde ev kiralamak mümkün. Ancak, kiralık daire bulmak özellikle bu dönemde iyice zorlaştı. Bulduklarımız da çok pahalı, yani imkanımız yetmiyor. Bazı ev sahipleri de bu durumu bildiğinden kiracısını evden çıkmaya zorluyor. Şu an kiralık dairelerin fiyatlarında %30'a varan bir artış beklentisi var. Doların yükselmesiyle birlikte kiralık dairelerin fiyatlarında ciddi bir artış yaşanıyor. 20,000 liralık dairenin kirası 26,000, 30,000 liralık dairenin kirası da bir anda 39,000 lira oldu. Bu durum, ekonomik zorlukların ve artan maliyetlerin bir yansıması olarak değerlendiriliyor.
+
+================================================================================
+

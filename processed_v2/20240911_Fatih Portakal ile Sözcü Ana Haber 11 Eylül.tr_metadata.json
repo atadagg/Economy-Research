@@ -1,0 +1,138 @@
+{
+  "file_path": "news/SozcuTV/20240911_Fatih Portakal ile Sözcü Ana Haber 11 Eylül.tr.txt",
+  "processing_timestamp": "2025-07-22T17:50:54.103849",
+  "original_word_count": 7061,
+  "filtered_word_count": 310,
+  "retention_ratio": 0.04390312986829061,
+  "structure_sections": [
+    {
+      "type": "2. **ADS**",
+      "start_pos": 94,
+      "start_sentence": "Hayalinizdeki villayı bizlere vereceğiniz bir vekaletle...",
+      "description": "\"Hayalinizdeki villayı bizlere vereceğiniz bir vekaletle...\" - This section contains commercial messages promoting various services and events, indicating a break from news content.",
+      "end_pos": 94
+    },
+    {
+      "type": "- **ADS**",
+      "start_pos": 94,
+      "start_sentence": "Hayalinizdeki villayı bizlere vereceğiniz bir vekaletle...",
+      "description": "\"Hayalinizdeki villayı bizlere vereceğiniz bir vekaletle...\" - Commercial messages and promotions.",
+      "end_pos": 284
+    },
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 284,
+      "start_sentence": "İyi akşamlar benti pakal Türkiye'nin farkı haber...",
+      "description": "\"İyi akşamlar benti pakal Türkiye'nin farkı haber...\" - This section serves as the opening of the broadcast, welcoming viewers and introducing the date and context of the program.",
+      "end_pos": 284
+    },
+    {
+      "type": "- **INTRO**",
+      "start_pos": 284,
+      "start_sentence": "İyi akşamlar benti pakal Türkiye'nin farkı haber...",
+      "description": "\"İyi akşamlar benti pakal Türkiye'nin farkı haber...\" - Opening remarks and introduction to the program.",
+      "end_pos": 762
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 762,
+      "start_sentence": "hiçbir yere ayrılmayın birazdan başlıyoruz...",
+      "description": "\"hiçbir yere ayrılmayın birazdan başlıyoruz...\" - This brief transition signals a shift in the program, preparing the audience for the upcoming news content.",
+      "end_pos": 762
+    },
+    {
+      "type": "- **TRANSITION**",
+      "start_pos": 762,
+      "start_sentence": "hiçbir yere ayrılmayın birazdan başlıyoruz...",
+      "description": "\"hiçbir yere ayrılmayın birazdan başlıyoruz...\" - Brief transition indicating upcoming content.",
+      "end_pos": 1248
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1248,
+      "start_sentence": "Tabii ki yine gündemle Türkiye gündemiyle Dünya gündemiyle karşınızdayız...",
+      "description": "\"Tabii ki yine gündemle Türkiye gündemiyle Dünya gündemiyle karşınızdayız...\" - This section contains the actual news content, discussing various topics related to Turkey and the world, including specific statements and events.",
+      "end_pos": 1248
+    },
+    {
+      "type": "- **NEWS**",
+      "start_pos": 1248,
+      "start_sentence": "Tabii ki yine gündemle Türkiye gündemiyle Dünya gündemiyle karşınızdayız...",
+      "description": "\"Tabii ki yine gündemle Türkiye gündemiyle Dünya gündemiyle karşınızdayız...\" - Main news content discussing various topics.",
+      "end_pos": 1742
+    },
+    {
+      "type": "5. **TRANSITION**",
+      "start_pos": 1742,
+      "start_sentence": "Hulusi Akar'ın cümleleri var eğitimin nasıl olması gerektiğini...",
+      "description": "\"Hulusi Akar'ın cümleleri var eğitimin nasıl olması gerektiğini...\" - This transition indicates a shift to a specific news topic related to Hulusi Akar, preparing the audience for detailed news coverage.",
+      "end_pos": 1742
+    },
+    {
+      "type": "- **TRANSITION**",
+      "start_pos": 1742,
+      "start_sentence": "Hulusi Akar'ın cümleleri var eğitimin nasıl olması gerektiğini...",
+      "description": "\"Hulusi Akar'ın cümleleri var eğitimin nasıl olması gerektiğini...\" - Transition to a specific news topic.",
+      "end_pos": 1832
+    },
+    {
+      "type": "6. **NEWS**",
+      "start_pos": 1832,
+      "start_sentence": "güzel bir söz Yani en güzel sözlerden biri diyebilirim Nicola Tesla bili...",
+      "description": "\"güzel bir söz Yani en güzel sözlerden biri diyebilirim Nicola Tesla bili...\" - This section continues with the news content, focusing on quotes and statements relevant to the day's topics.",
+      "end_pos": 1832
+    },
+    {
+      "type": "- **NEWS**",
+      "start_pos": 1832,
+      "start_sentence": "güzel bir söz Yani en güzel sözlerden biri diyebilirim Nicola Tesla bili...",
+      "description": "\"güzel bir söz Yani en güzel sözlerden biri diyebilirim Nicola Tesla bili...\" - Continuation of news content with quotes and statements.",
+      "end_pos": 48689
+    }
+  ],
+  "news_segments_count": 13,
+  "economic_segments_count": 4,
+  "economic_segments": [
+    {
+      "segment_id": "762_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 75,
+      "filtered_length": 75,
+      "retention_ratio": 1.0,
+      "section_description": "\"hiçbir yere ayrılmayın birazdan başlıyoruz...\" - Brief transition indicating upcoming content."
+    },
+    {
+      "segment_id": "1832_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 177,
+      "filtered_length": 55,
+      "retention_ratio": 0.3107344632768362,
+      "section_description": "\"güzel bir söz Yani en güzel sözlerden biri diyebilirim Nicola Tesla bili...\" - Continuation of news content with quotes and statements."
+    },
+    {
+      "segment_id": "1832_5",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 167,
+      "filtered_length": 82,
+      "retention_ratio": 0.49101796407185627,
+      "section_description": "\"güzel bir söz Yani en güzel sözlerden biri diyebilirim Nicola Tesla bili...\" - Continuation of news content with quotes and statements."
+    },
+    {
+      "segment_id": "1832_6",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 266,
+      "filtered_length": 98,
+      "retention_ratio": 0.3684210526315789,
+      "section_description": "\"güzel bir söz Yani en güzel sözlerden biri diyebilirim Nicola Tesla bili...\" - Continuation of news content with quotes and statements."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

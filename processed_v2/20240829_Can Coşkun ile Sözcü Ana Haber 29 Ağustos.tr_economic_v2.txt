@@ -1,0 +1,38 @@
+# Economic Content from: 20240829_Can Coşkun ile Sözcü Ana Haber 29 Ağustos.tr.txt
+# Processed: 2025-07-22T18:00:19.472963
+# Original: 7064 words → Filtered: 162 words (2.29% retention)
+# Economic segments: 3
+
+## Economic Segment 1
+
+**Method**: pattern_validated
+**Confidence**: 0.75
+**Word Count**: 36
+**Retention**: 66.67%
+
+2023 yılındaki tahsilatın % 70'inin tüketim vergisi olduğu ortaya çıktı. Bu durum, vergi politikalarının halk üzerindeki etkisini ve ekonomik yükü göstermektedir. Ekonomik veriler, hükümetin mali politikalarını ve bütçe dengelerini etkileyen önemli bir gösterge olarak karşımıza çıkıyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: pattern_validated
+**Confidence**: 0.75
+**Word Count**: 53
+**Retention**: 58.89%
+
+Elbette bakalım hangisini tercih göstereceksiniz. Bugün özel haberimizde enflasyon ayarı geldi. Pazarcılar, vatandaşların artık tek yemeklik sebze talep ettiğini belirtiyor. Alışverişlerini bu şekilde yapıyorlar; haftalık alışverişler bitti. Ekonomik koşullar, insanların alışveriş alışkanlıklarını değiştirdi. Bunlar daha iyi günler, ancak bazıları hala temel ihtiyaçlarını karşılamakta zorlanıyor. Ekonomik veriler, bu durumu daha iyi anlamamıza yardımcı oluyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 73
+**Retention**: 86.90%
+
+5 milyar TL gelir vergisi ödendi. Geçen yıl toplanan 5 trilyon liralık vergi tahsilatının %70'ini dolaylı vergi yani tüketim vergisi oluşturdu. Tüketim vergileri, vatandaşın bütçesini etkileyen önemli bir kalem. Bir arabayı kendimize aldığımız zaman, bir arabayı da devlete alıyoruz. Şu anda motorda çalışıyorum ve götürdüğüm paketin en az 12 lirasını 13 lirasını vergi olarak ödüyorum. Müşteri bana eğer başış vermişse, onun vergisini de ödüyorum. Bu durum, ticaretin ve tüketimin üzerindeki vergi yükünü gösteriyor.
+
+================================================================================
+

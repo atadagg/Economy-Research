@@ -1,0 +1,70 @@
+# Economic Content from: 20240715_Can Coşkun ile Sözcü Ana Haber 15 Temmuz.tr.txt
+# Processed: 2025-07-22T18:06:38.693179
+# Original: 6527 words → Filtered: 450 words (6.89% retention)
+# Economic segments: 5
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 97
+**Retention**: 100.00%
+
+sorun var tabelasına yine Gerçekleri konuşalım tabelalar mızda anketlerimiz de yine yol gösterici
+olacak şimdi darbe girişimi bu fetö'cü darbe girişiminin üzerinden tam 8 yıl geçti soruyoruz Sizce
+15 temmuz'dan ama sadece 15 temmuz'dan değil 15 Temmuz darbe girişimine kadar olan süreçten sonradan
+öğrendiklerimiz baştan beri işaret edilenlerden ama dikkate alınmayan Vardan bir Öz eleştiri yapıldı
+mı bir ders alındı mı sorusunu soruyoruz önce gerçek demokrasi gelmeli şıkkı bu tarikat
+ilişkileriyle zor C her zaman tetikte olunmalı darbeciler örgütleniyor olabilir başka süetler de
+karşımıza çıkıyor olabilir D Umarım Öz eleştiri yapılmıştır şimdi Öz eleştiri yapılıp yapılmadı ders
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 68
+**Retention**: 62.96%
+
+Ekonomi ile ilgili veriler ve istatistikler, Türkiye'deki emeklilerin yaşadığı sorunlar üzerine yapılan tartışmalarda öne çıkıyor. Ekonomik durumun her kesimde sorunlar yarattığı belirtiliyor. Bu bağlamda, Cumhurbaşkanı Erdoğan'a sunulacak raporlar, emeklilerin mali durumunu ve bütçe üzerindeki etkilerini içerecek. Ekonomik veriler, emeklilerin alım güçlerinin düştüğünü ve bunun bütçe üzerindeki etkilerini vurguluyor. Ayrıca, emeklilere yönelik çözüm önerileri, bütçenin sürdürülebilirliği açısından önem taşıyor. Ekonomik analizler, bu sorunların çözümünde atılacak adımların gerekliliğini ortaya koyuyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 92
+**Retention**: 41.26%
+
+Ekonomik veriler ve istatistikler üzerine yapılan analizler, insanların hayatında sorunlar olduğunu ortaya koyuyor. Emekli maaşlarına yapılacak zam konusunda son açıklama AKP grup başkan vekili Abdullah Güler'den geldi. En düşük emekli aylığı alanlara 1500, 2000 ve 2500 lira zam gündemde. Bu oranların bütçeye yükü de kalem kalem hesaplandı. En kuvvetli ihtimal 2000 lira zam olarak öngörülüyor. Türkiye, Avrupa'da enflasyonda ilk sırada yer alırken, emekli maaşında açık ara sonuncu durumda. Lüksemburg, 2734 euro ile emekli maaşında birinci sırada yer alırken, Türkiye 357 euro ile sonuncu sırada. Bu durum, emeklilerin yaşam standartlarını ciddi şekilde etkiliyor.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 89
+**Retention**: 43.41%
+
+Şu anda % 65 oranında enflasyon çok yüksek ama geçmişten gelen etkiler nedeniyle bu oranı artıran mülk sahipleri var. 1 Temmuz'dan itibaren kirada % 25 zam sınırı artık uygulanmıyor. TÜİK'e göre, Haziranda 12 aylık TÜFE ortalaması % 65,00 olarak belirlendi. İzmir Emlak Kulübü Derneği Başkanı Rıdvan Akgün, ev sahiplerinin kiracı seçerken yeni şartlar aradığını aktardı. Ekonomik olarak, bankalara veya farklı borcu olup olmadığıyla ilgili araştırma isteyenler de var. Findex raporu isteyenler de mevcut. Kira fiyatları ve zam oranları, TÜİK verileriyle şekilleniyor. Türkiye'de bir dava açmanın da maddi maliyeti var.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_final
+**Confidence**: 0.50
+**Word Count**: 104
+**Retention**: 31.23%
+
+Bugün Cumhurbaşkanı Erdoğan'a sunulacak emekli maaş zammı ile ilgili beklentiler artıyor. Emeklilere reva görülen zam miktarı, vatandaşlar arasında merak konusu. Bu durum, emeklilerin yaşam standartları üzerinde önemli bir etki yaratabilir. Ekonomik veriler, emekli maaşlarının artışının enflasyon karşısında ne kadar etkili olacağını gösteriyor. 
+
+Ayrıca, Türkiye'nin dört bir yanında kereste toplayan ormancılar, yangın mevsiminde hızlı müdahale için hazırlık yapıyor. Bu durum, orman yangınlarının ekonomik etkilerini azaltmak adına önemli bir adım olarak değerlendiriliyor. Yangınların önlenmesi ve kontrol altına alınması, tarım ve ormancılık sektörlerinde maliyetleri etkileyebilir. 
+
+Sonuç olarak, emekli maaş zammı ve orman yangınları ile ilgili gelişmeler, Türkiye'nin ekonomik durumu üzerinde doğrudan etkili olabilecek konular arasında yer alıyor.
+
+================================================================================
+

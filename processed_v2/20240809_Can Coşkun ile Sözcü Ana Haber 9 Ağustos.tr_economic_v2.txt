@@ -1,0 +1,51 @@
+# Economic Content from: 20240809_Can Coşkun ile Sözcü Ana Haber 9 Ağustos.tr.txt
+# Processed: 2025-07-22T17:51:54.219449
+# Original: 6978 words → Filtered: 377 words (5.40% retention)
+# Economic segments: 4
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 66
+**Retention**: 81.48%
+
+Müjde gibi duyurduğu bakan aracılığıyla emeklilere % 5 ile % 50 indirim sağlanacağı belirtildi. 5500'den fazla işletmeyle anlaşma yapıldığı ifade ediliyor. Emekliler, aldıkları maaşlarla geçinmekte zorlandıklarını ve bu indirimlerin yeterli olup olmadığını sorguluyorlar. Ekonomik koşullar nedeniyle kiralarını ödeyip ödeyemeyeceklerini düşünmekte ve sosyal tesislerden yararlanmanın kendileri için ne kadar mümkün olduğunu tartışıyorlar. Bu durum, emeklilerin harcama gücünü ve ekonomik durumlarını etkileyen önemli bir konu olarak öne çıkıyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 104
+**Retention**: 54.17%
+
+Sosyal Güvenlik Kurumu emeklilere yapılacak indirimlerin detaylarını paylaştı. 16 milyon emekliyi ilgilendiren indirimler için 5,500'den fazla işletmeyle anlaşma yapıldı. Emekliler, elden teriye, beyaz eşyadan, terziye, gözlükten, işitme cihazına kadar pek çok hizmetten %10 ile 50 arasında indirimli yararlanacak. Bu indirimleri kapsayacak alanlardan biri de termal oteller. SGK anlaşmasına göre emekliler birçok şehirde termal otellerde %30'a kadar indirim alabilecek. Ancak bu oteller hangileri belli değil. Üstelik indirime rağmen emekli için herhangi bir otelde tatil yapmak neredeyse hayal. Çünkü yaz ortasında bile orta ve iyi sınıf termal otellerin geceliği ortalama 4,000 TL. Bir emeklinin ortalama bir otelde 5 gece konaklamasına bu tutar üzerinden %30 indirim yapıldığında...
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 115
+**Retention**: 88.46%
+
+Oysa en düşük emekli aylığı 12 500 L. Yani bir emeklinin indirimle dahi 5 gece tatil yapabilmesi için bir ay boyunca yemeden içmeden kira ödemeden yaşaması gerekiyor. Emekliye indirim yapılacağı söylenen giyim markasında bir tişörtün indirimli fiyatı 2 400 L, buna bir de pantolon eklendiğinde onun da indirimli fiyatı 3 500 L. Bir pantolon ve bir tişörtü alsa % 30 indirim yapılsa toplamda 4 130 L, yani 12 500 aylık alan emeklinin ardından alışveriş yapması mümkün değil. 
+
+Bir diğer indirim kalemi seyahat anlaşması kapsamında Türk Hava Yolları, 60 yaş üstü emekliler için yurtiçi ve yurtdışı uçuşlarda % 15 indirim uyguluyor. Bu durum, emeklilerin seyahat etme maliyetlerini etkileyerek, ekonomik durumlarını doğrudan etkileyen bir faktör haline geliyor.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 92
+**Retention**: 46.00%
+
+Milyonlarca emekli, 600 liranın üzerinde açlık sınırının oldukça altında bir ücretle yaşamaktadır. Emekli yoksulluğu, ekonomik krizin derinleştiğini gösteren bir durumdur. Özellikle son yıllarda devlet yardımından yararlanan çocuk sayısının hızla arttığı gözlemlenmektedir. Türkiye, çocuklarda yoksulluğun en yüksek olduğu ülkelerden biri haline gelmiştir. Şu anda Türkiye Cumhuriyeti sınırları içerisinde yeterli gıdaya ulaşamayan her beş çocuktan biri bulunmaktadır. Aile ve Sosyal Hizmetler Bakanlığı, çocuklar için üç öğün dengeli beslenme önerirken, aynı Bakanlığın verilerine göre yaşamını sürdürmekte zorlanan ailelere yapılan yardımdan yararlanan çocuk sayısı 172,000'e ulaşmıştır. Bu durum, ekonomik koşulların aileler üzerindeki etkisini açıkça ortaya koymaktadır.
+
+================================================================================
+

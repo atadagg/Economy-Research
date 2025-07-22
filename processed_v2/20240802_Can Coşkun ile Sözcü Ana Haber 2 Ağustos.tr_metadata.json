@@ -1,0 +1,105 @@
+{
+  "file_path": "news/SozcuTV/20240802_Can Coşkun ile Sözcü Ana Haber 2 Ağustos.tr.txt",
+  "processing_timestamp": "2025-07-22T17:31:04.854718",
+  "original_word_count": 6995,
+  "filtered_word_count": 423,
+  "retention_ratio": 0.060471765546819156,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "15'te Sözcü televizyonunda o anda neler var aklında...",
+      "description": "\"15'te Sözcü televizyonunda o anda neler var aklında...\" - The opening segment introduces the program and sets the stage for the news broadcast, welcoming viewers and outlining the topics to be discussed.",
+      "end_pos": 298
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 298,
+      "start_sentence": "Başta Instagram üzerine başladı sosyal medya kararı...",
+      "description": "\"Başta Instagram üzerine başladı sosyal medya kararı...\" - This section contains the main news content, discussing various current events, including social media decisions and political developments.",
+      "end_pos": 580
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 580,
+      "start_sentence": "Başka bir açıklama bilmiyorduk ki bunları konuşacağız...",
+      "description": "\"Başka bir açıklama bilmiyorduk ki bunları konuşacağız...\" - Brief transitions occur as the presenter shifts from one news topic to another, indicating the flow of the broadcast.",
+      "end_pos": 972
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 972,
+      "start_sentence": "İçişleri Bakanı Ali Yerlikaya'nın konutunda iki yabancının ikamet kaydı çıktı...",
+      "description": "\"İçişleri Bakanı Ali Yerlikaya'nın konutunda iki yabancının ikamet kaydı çıktı...\" - Another segment of news content that continues to cover different stories, including political commentary and public opinion polls.",
+      "end_pos": 1362
+    },
+    {
+      "type": "6. **OUTRO**",
+      "start_pos": 1362,
+      "start_sentence": "Acaba kimin işi rezalet kazınmalı...",
+      "description": "\"Acaba kimin işi rezalet kazınmalı...\" - The closing remarks summarize the discussions and may include a farewell to the audience, indicating the end of the program.",
+      "end_pos": 1562
+    },
+    {
+      "type": "5. **TRANSITION**",
+      "start_pos": 1562,
+      "start_sentence": "O yüzden onu sorduk Instagram'a erişim engeli...",
+      "description": "\"O yüzden onu sorduk Instagram'a erişim engeli...\" - This transition leads into a discussion about a specific news item, linking it to the previous content.",
+      "end_pos": 50464
+    }
+  ],
+  "news_segments_count": 11,
+  "economic_segments_count": 5,
+  "economic_segments": [
+    {
+      "segment_id": "972_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 54,
+      "filtered_length": 54,
+      "retention_ratio": 1.0,
+      "section_description": "\"İçişleri Bakanı Ali Yerlikaya'nın konutunda iki yabancının ikamet kaydı çıktı...\" - Another segment of news content that continues to cover different stories, including political commentary and public opinion polls."
+    },
+    {
+      "segment_id": "1562_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 268,
+      "filtered_length": 128,
+      "retention_ratio": 0.47761194029850745,
+      "section_description": "\"O yüzden onu sorduk Instagram'a erişim engeli...\" - This transition leads into a discussion about a specific news item, linking it to the previous content."
+    },
+    {
+      "segment_id": "1562_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 133,
+      "filtered_length": 58,
+      "retention_ratio": 0.43609022556390975,
+      "section_description": "\"O yüzden onu sorduk Instagram'a erişim engeli...\" - This transition leads into a discussion about a specific news item, linking it to the previous content."
+    },
+    {
+      "segment_id": "1562_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 88,
+      "filtered_length": 60,
+      "retention_ratio": 0.6818181818181818,
+      "section_description": "\"O yüzden onu sorduk Instagram'a erişim engeli...\" - This transition leads into a discussion about a specific news item, linking it to the previous content."
+    },
+    {
+      "segment_id": "1562_5",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 276,
+      "filtered_length": 123,
+      "retention_ratio": 0.44565217391304346,
+      "section_description": "\"O yüzden onu sorduk Instagram'a erişim engeli...\" - This transition leads into a discussion about a specific news item, linking it to the previous content."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

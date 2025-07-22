@@ -1,0 +1,16 @@
+# Economic Content from: 20240919_Fatih Portakal ile Sözcü Ana Haber 19 Eylül.tr.txt
+# Processed: 2025-07-22T17:31:55.262160
+# Original: 7455 words → Filtered: 80 words (1.07% retention)
+# Economic segments: 1
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 80
+**Retention**: 47.90%
+
+Asgari ücret alım gücü 13,000 TL'ye düştü ve %25 ile %1202 arasında kayıplar var. Yurttaşlar, asgari ücretle geçinenlerin geçim sıkıntısı çektiğini ifade ediyor. Türkiye'de gelirli milyonlar geçinemiyor; asgari ücretle bir ay geçinmekte zorlanıyorlar. Asgari ücretli, Temmuz'da zam almadı ve en son Ocak ayında 17,2 TL'ye yükseltilen asgari ücret, 8 ayda eridi. Zam yapılmayan asgari ücretlinin alım gücü 3,798 TL'ye düştü. Bu durum, işçi sendikalarının bir araya gelmesine ve toplu eylemlere yol açıyor. Ekonomik koşullar, çalışanların yaşam standartlarını ciddi şekilde etkiliyor.
+
+================================================================================
+

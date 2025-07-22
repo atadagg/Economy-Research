@@ -1,0 +1,70 @@
+# Economic Content from: 20240624_Can Coşkun ile Sözcü Ana Haber 24 Haziran.tr.txt
+# Processed: 2025-07-22T17:27:03.416189
+# Original: 7045 words → Filtered: 497 words (7.05% retention)
+# Economic segments: 5
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 108
+**Retention**: 40.30%
+
+Yunanistan'da ciddi bir enflasyonist ortam yokken, Türkiye'de enflasyon artışı turizm sektörünü olumsuz etkiliyor. Yunan adalarına yapılan tatillerin maliyetleri, Türkiye'deki tatillerden daha pahalı hale geliyor. Egeli turizmciler, yaz rezervasyonlarına umut bağlarken, yerli turistlerin yurtdışında tatil yapma tercihleri de dikkat çekiyor. 
+
+Türkiye'deki yüksek enflasyon ve dolaylı vergiler, iş dünyası üzerinde baskı oluşturuyor. Süleyman Bey, dolaylı vergiler ve vergi dilimindeki sorunların iş dünyasına etkilerini vurguluyor. Emekli ve asgari ücretlilerin zam talepleri, enflasyon oranlarının netleşmesiyle birlikte daha da önem kazanıyor. 
+
+Ekonomik veriler, Türkiye'nin mevcut ekonomik durumunu ve iş gücü üzerindeki etkilerini gözler önüne seriyor. Enflasyon oranları, işçi ve emekli maaşları üzerinde doğrudan etkili olurken, bu durum iş dünyasında da dalgalanmalara neden oluyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 87
+**Retention**: 44.39%
+
+Bugün CHP'nin gölge bakanının öneri olarak Hazine ve Maliye Bakanlığı'na götürdüğü maddeler arasında ekonomik veriler ve asgari ücretle geçim konuları öne çıkıyor. Asgari ücret, artık neredeyse ortalama ücrete dönüşmüş durumda ve bu durum, çalışanların beklentilerini etkiliyor. Özel sektörde çalışanların da büyük beklentileri var; enflasyon durumu ve fiyat artışları, geçimlerini zorlaştırıyor. 
+
+Şu anda asgari ücretle geçinen bir ailenin durumu oldukça zor, hatta imkansız hale gelmiş. Ekonomik koşulların iyileşmesi için asgari ücretin 30,000 liraya çıkması gerektiği ifade ediliyor. Bu bağlamda, hükümetin alacağı ekonomik politikalar ve müdahaleler büyük önem taşıyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 98
+**Retention**: 36.57%
+
+Asgari ücretin 000 altında olması gerçekten de vahimdir. İşçi ve memur emeklileri de maaşlarının en az asgari ücret kadar olmasını bekliyor. Bu verdikleri ücret çok yetersiz. Birçok emekli çalışmak zorunda çünkü ne asgari ücretle ne de emekli maaşıyla geçinmek mümkün. 
+
+Kira geliriyle başka bir evde oturan ev sahipleri de dertli. Kendi kiralarına ötürme sistemi yapmışlardı ama şimdi o ödemeyi gerçekleştiremeden kendileri zam yediler. İşin özeti şu; fırsatçılık elbette her yerde var ama bu durum vatandaşın ekonomik durumunu olumsuz etkiliyor. 
+
+Asgari ücretin 177 olması, ekonomik koşulların ne kadar zorlayıcı olduğunu gösteriyor. Ekonomik veriler, halkın geçim sıkıntısını artırdığını ortaya koyuyor.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 75
+**Retention**: 68.18%
+
+Enflasyonun hükümet tarafından düzenlenmesi lazım. Yıllık enflasyon oranının gerçek enflasyona kıyasla nasıl bir yüzde oluyorsa ona göre zam yaparız. Milyonlarca ev sahibi ve kiracı 1 Temmuz'a odaklandı; herhangi bir değişiklik olmazsa bu tarihten itibaren % 25 olan kira zam sınırı sona erecek. Bir yanda maaşı günden güne eriyen kiracılar, diğer yanda ise kirası enflasyona her gün yenilenen ev sahipleri var. Kiracımızın kirası 12 000 liraydı, bundan 4.5 ay önce şu an 16 000 liraya oturuyor.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 129
+**Retention**: 50.00%
+
+Cevahir'in Bodrum'da aldığı Emlak konutu ihalesi iptal oldu. Bakanlığın onayıyla Güral porselene ait kuvars madeni 46 hektardan 694 hektara çıkarılacak. Türkiye'nin hemen her bölgesinde doğa bilinçsizce ihale edilen maden ocaklarıyla tahrip ediliyor. Sermaye sahipleri maden sahalarını genişletmek isterken yetkili kurumlar yeterli denetim yapmıyor. Çevre, Şehircilik ve İklim Değişikliği Bakanlığı'nın verilerine göre geçen ocak ayından bu yana 577 proje için ÇED süreci başlatıldı. Bu süre zarfında 414 projeye onay verildi. Projelerin yapılacağı alanlar orman, tarım arazisi, sulak alan ve koruma alanlarından oluşuyor. ÇED olumlu raporu madenlerden biri de Manisa ve Kütahya'daki kuvars madenini işleten Güral Porselen şirketine verildi. Şirket, maden sahasını genişletmek için 26 Ekim 2022'de bakanlığa başvuruda bulundu. Bakanlık, 977 futbol sahası büyüklüğündeki alanın maden sahası olmasına onay verdi. Projenin onaylanması ile beraber maden sahası 15 kat daha büyüyecek.
+
+================================================================================
+

@@ -1,0 +1,142 @@
+{
+  "file_path": "news/SozcuTV/20240910_Fatih Portakal ile Sözcü Ana Haber 10 Eylül.tr.txt",
+  "processing_timestamp": "2025-07-22T17:43:32.478578",
+  "original_word_count": 7198,
+  "filtered_word_count": 839,
+  "retention_ratio": 0.11656015559877744,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "İyi akşamlar Ben Fatih Portakal Türkiye'nin en farklı ana haber bültenine Hoş geldiniz sevgili izleyenler",
+      "description": "\"İyi akşamlar Ben Fatih Portakal Türkiye'nin en farklı ana haber bültenine Hoş geldiniz sevgili izleyenler\" - This section serves as the opening of the broadcast, where the presenter introduces themselves and welcomes the viewers to the news program.",
+      "end_pos": 0
+    },
+    {
+      "type": "- **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "İyi akşamlar Ben Fatih Portakal Türkiye'nin en farklı ana haber bültenine Hoş geldiniz sevgili izleyenler",
+      "description": "\"İyi akşamlar Ben Fatih Portakal Türkiye'nin en farklı ana haber bültenine Hoş geldiniz sevgili izleyenler\" - Opening and presenter introduction.",
+      "end_pos": 95
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 95,
+      "start_sentence": "Bugün aslında bir birey ve toplumla alakalı bir toplumun işte bugün Narin olayları ülkede yaşanan diğer işte dolandırıcılık hırsızlık dışarıda olanlar içeride olanlara baktığınızda",
+      "description": "\"Bugün aslında bir birey ve toplumla alakalı bir toplumun işte bugün Narin olayları ülkede yaşanan diğer işte dolandırıcılık hırsızlık dışarıda olanlar içeride olanlara baktığınızda\" - This section contains the main news content, discussing various societal issues, including morality, crime, and public sentiment.",
+      "end_pos": 95
+    },
+    {
+      "type": "- **NEWS**",
+      "start_pos": 95,
+      "start_sentence": "Bugün aslında bir birey ve toplumla alakalı bir toplumun işte bugün Narin olayları...",
+      "description": "\"Bugün aslında bir birey ve toplumla alakalı bir toplumun işte bugün Narin olayları...\" - Main news content discussing societal issues.",
+      "end_pos": 780
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 780,
+      "start_sentence": "günün sözü gelsin",
+      "description": "\"günün sözü gelsin\" - This brief transition introduces a segment that shifts focus to a quote or saying relevant to the day's news, indicating a change in topic within the news segment.",
+      "end_pos": 780
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 780,
+      "start_sentence": "Ferit etkü yakın zamanda kaybettik kendisini önemli bir öykücü ve romancı ydı",
+      "description": "\"Ferit etkü yakın zamanda kaybettik kendisini önemli bir öykücü ve romancı ydı\" - This part continues the news content, specifically discussing the late author Ferit Etkü and his views on ignorance and morality, further elaborating on the theme of the broadcast.",
+      "end_pos": 780
+    },
+    {
+      "type": "- **TRANSITION**",
+      "start_pos": 780,
+      "start_sentence": "günün sözü gelsin",
+      "description": "\"günün sözü gelsin\" - Transition",
+      "end_pos": 1362
+    },
+    {
+      "type": "5. **TRANSITION**",
+      "start_pos": 1362,
+      "start_sentence": "YouTube anketi",
+      "description": "\"YouTube anketi\" - This transition introduces a segment related to viewer engagement through a poll on YouTube, indicating a shift to interactive content.",
+      "end_pos": 1362
+    },
+    {
+      "type": "6. **NEWS**",
+      "start_pos": 1362,
+      "start_sentence": "Erdoğan akp's yeni dönem stratejisi",
+      "description": "\"Erdoğan akp's yeni dönem stratejisi\" - This section presents another news story regarding the political strategies of the ruling party, continuing the overall news theme.",
+      "end_pos": 1757
+    },
+    {
+      "type": "7. **OUTRO**",
+      "start_pos": 1757,
+      "start_sentence": "Evet Neyle alakalı itibar ve kesimlerle işte soru şu",
+      "description": "\"Evet Neyle alakalı itibar ve kesimlerle işte soru şu\" - This closing segment wraps up the discussion and invites viewers to reflect on the topics covered, signaling the end of the program.",
+      "end_pos": 49902
+    }
+  ],
+  "news_segments_count": 16,
+  "economic_segments_count": 6,
+  "economic_segments": [
+    {
+      "segment_id": "780_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 86,
+      "filtered_length": 85,
+      "retention_ratio": 0.9883720930232558,
+      "section_description": "\"günün sözü gelsin\" - Transition"
+    },
+    {
+      "segment_id": "1757_0",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 355,
+      "filtered_length": 355,
+      "retention_ratio": 1.0,
+      "section_description": "\"Evet Neyle alakalı itibar ve kesimlerle işte soru şu\" - This closing segment wraps up the discussion and invites viewers to reflect on the topics covered, signaling the end of the program."
+    },
+    {
+      "segment_id": "1757_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 130,
+      "filtered_length": 76,
+      "retention_ratio": 0.5846153846153846,
+      "section_description": "\"Evet Neyle alakalı itibar ve kesimlerle işte soru şu\" - This closing segment wraps up the discussion and invites viewers to reflect on the topics covered, signaling the end of the program."
+    },
+    {
+      "segment_id": "1757_7",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 326,
+      "filtered_length": 109,
+      "retention_ratio": 0.3343558282208589,
+      "section_description": "\"Evet Neyle alakalı itibar ve kesimlerle işte soru şu\" - This closing segment wraps up the discussion and invites viewers to reflect on the topics covered, signaling the end of the program."
+    },
+    {
+      "segment_id": "1757_8",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 135,
+      "filtered_length": 74,
+      "retention_ratio": 0.5481481481481482,
+      "section_description": "\"Evet Neyle alakalı itibar ve kesimlerle işte soru şu\" - This closing segment wraps up the discussion and invites viewers to reflect on the topics covered, signaling the end of the program."
+    },
+    {
+      "segment_id": "1757_10",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 346,
+      "filtered_length": 140,
+      "retention_ratio": 0.4046242774566474,
+      "section_description": "\"Evet Neyle alakalı itibar ve kesimlerle işte soru şu\" - This closing segment wraps up the discussion and invites viewers to reflect on the topics covered, signaling the end of the program."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

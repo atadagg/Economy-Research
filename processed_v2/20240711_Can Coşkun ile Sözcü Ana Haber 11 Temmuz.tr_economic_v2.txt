@@ -1,0 +1,122 @@
+# Economic Content from: 20240711_Can Coşkun ile Sözcü Ana Haber 11 Temmuz.tr.txt
+# Processed: 2025-07-22T17:53:48.030255
+# Original: 7127 words → Filtered: 815 words (11.44% retention)
+# Economic segments: 9
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 115
+**Retention**: 31.94%
+
+1. 1 yıl 1 buçuk yıl 2 yıldan söz ediliyor enflasyon oranlarında bizzat Sayın Bakan siz açıklıyorsunuz.
+2. Enflasyon düştükçe bizim cebimizde açılan gedik doğru orantılı bir şekilde kapanmıyor ki o gedik, o borçlar, krediler, kredi kartları ödemeleri ödenmiyor.
+3. Ayrıca enflasyon düşüşü her bir vatandaşımız da biliyor ki 3 puan mı düştü, 3 puan az artacak demek bir sonraki ay artmayacak demek değil ki.
+4. Vatandaşın ücreti sabit, asgari ücret zaten Ocak ayına bırakıldı.
+5. TÜİK'in ortaya koyduğu sepette bu fiyata ne meyve ne sebze ne de kiralık daire fiyatları gerçeklikle bağdaşmıyor.
+6. Emekliler Türkiye İstatistik Kurumu'nun önüne geldiler, enflasyon sepetine tepki gösterdiler.
+7. Bir kilo domates 50-60 lira, 1 kilo salata 40-50 lira.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 142
+**Retention**: 61.47%
+
+Türkiye İstatistik Kurumu (TÜİK) önünde yapılan protestoda, emeklilerin geçim sıkıntısı ve artan fiyatlar gündeme geldi. Protestocular, "Geçinemiyoruz" diyerek, yüksek fiyatlar nedeniyle alım güçlerinin düştüğünü ifade ettiler. Özellikle gıda fiyatlarının artışı dikkat çekti; bir karpuzun 400-500 lira olduğu belirtilerek, bu durumun yaşam standartlarını olumsuz etkilediği vurgulandı. 
+
+Deva Partisi milletvekili Elif Hesen, TÜİK'in açıkladığı verilerin gerçeği yansıtmadığını savunarak, "TÜİK makyajlı veri açıklıyor" dedi. Bu eleştiriler, emeklilerin maaşlarının yetersizliği ve artan yaşam maliyetleri ile ilgili endişeleri artırdı. 
+
+Ayrıca, sağlık hizmetlerinin maliyetleri de gündeme geldi; bir doktor muayenesinin 34 lira olduğu belirtilerek, bu fiyatların da emekliler için ulaşılmaz hale geldiği ifade edildi. Ekonomik verilerin güvenilirliği ve hükümetin bu konudaki politikaları, toplumda tartışmalara yol açıyor. 
+
+Sonuç olarak, emeklilerin maaşlarının artırılması ve yaşam standartlarının iyileştirilmesi gerektiği konusunda geniş bir görüş birliği var. Bu bağlamda, ekonomik verilerin doğru bir şekilde yansıtılması ve hükümetin bu konudaki adımlarının hızlandırılması talep ediliyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 83
+**Retention**: 57.64%
+
+The filtered text focusing on economics, finance, and business is as follows:
+
+Emekliler arasında maaş farklarının kapanması, ekonomik eşitsizlikleri artırıyor. Asgari ücretin altında kalan emekli maaşları, yıllar içinde eşitlenmediği için sorunlar devam ediyor. Emekli vatandaşlarımızın durumu, hükümetin ekonomik politikalarının etkisini gösteriyor. Emekli maaşlarına yapılacak zam, bu sorunun çözümünde önemli bir adım olarak değerlendiriliyor. Ayrıca, emeklilerin taleplerinin kayda geçmesi, ekonomik durumu daha iyi anlamak için önemli bir gelişme. Bu bağlamda, emekli masası kurulması, emeklilerin ekonomik koşullarını iyileştirmek adına atılan bir adım olarak öne çıkıyor.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 55
+**Retention**: 84.62%
+
+Emekliler, market gezip fiyatları konuşuyor. Gidiyorsun pazara, bir şey alacaksın; bir kilo fasulye alayım dedim, 120 lira dedi. Bu fiyat artışları, enflasyonun etkilerini gösteriyor. Emeklilerin alım gücü, artan maliyetler karşısında ciddi şekilde düşüyor. Ekonomik veriler, bu durumun ne kadar sürdürülebilir olduğunu sorgulatıyor. Emeklilerin yaşadığı bu zorluklar, hükümetin ekonomik politikalarını yeniden gözden geçirmesi gerektiğini ortaya koyuyor.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 117
+**Retention**: 30.63%
+
+Ekonomik veriler ve fiyat artışlarıyla ilgili endişeler öne çıkıyor. Emekli maaşlarının yetersizliği, özellikle gıda fiyatlarının yükselmesiyle birleşince, birçok emeklinin yaşam standartlarını olumsuz etkiliyor. Örneğin, bir simidin fiyatı 15 lira, bir poğaçanın fiyatı ise 25 lira olmuş durumda. Etin kilosu 900 lira, bu da aylardır et alamayan emeklilerin durumunu daha da zorlaştırıyor. 
+
+Enflasyon konusunda hükümetin açıklamaları, halkın pahalılığı nasıl hissettiğiyle çelişiyor. Ekonomi Bakanı Mehmet Şimşek, enflasyonun geride kaldığını belirtse de, emekliler bu durumu yaşamlarında hissedemiyor. Emeklilerin maaşlarıyla geçinmeleri giderek zorlaşıyor; birçok emekli, kira bile ödeyemez hale geldi. 
+
+Ayrıca, doğal gaz faturalarının nasıl ödeneceği konusunda endişeler var. Emeklilerin yaşam standartlarının düşmesi, uzun yıllar çalışarak elde ettikleri maaşların yetersiz kalmasından kaynaklanıyor. Ekonomik koşulların iyileşmesi için asgari ücretin artırılması gerektiği düşünülüyor.
+
+================================================================================
+
+## Economic Segment 6
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 98
+**Retention**: 66.22%
+
+Anlaşılan süslü cümleler burada bazı maaşları vatandaşın elinde avucunda olmayanları gösteriyor. Çift maaş garantiye alınıyor yasayla ve 98000 gibi ayrıcalıklı bazı bürokratların geliri garantiye alınıyor. AKP'nin tasarruf teklifi plan ve bütçe komisyonunda kabul edildi. Tasarruf teklifinin en dikkat çeken maddelerinden biri maaş düzenlemesi. Kamu görevlilerinin birden fazla ödeme almasını önlemeyi amaçlıyor. Ancak çoklu maaşın önüne geçilseydi yeni yasa teklifiyle kamuda ikinci koltuk verilen bürokrat veya bakan yardımcılarına ikinci maaş verilmeyecek. Huzur hakkı, ücret ve ikramiye gibi isimler altında ikinci bir para ödenecek. İkinci koltuğu sayesinde bürokrat ayda 98042 liraya, yılda da 1170000 liraya kadar ilave gelir elde edecek.
+
+================================================================================
+
+## Economic Segment 7
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 66
+**Retention**: 35.68%
+
+Bugün Ege Üniversitesi'nde öğrenci yurtlarına %300 zam yapıldığı bildirildi. Geçen yıl 1480 lira olan iki kişilik oda aidatları, şu anda %300 zamla 6000 TL'ye çıkarılmış bulunmaktadır. Bu durum, birçok öğrencinin yurt ücretlerini ödeyemeyeceği endişesini doğurmakta ve bazı öğrencilerin yurttan ayrılmayı düşünmesine yol açmaktadır. Yurt fiyatlarındaki bu artış, ailelerin ekonomik durumunu da olumsuz etkilemektedir. Ege Üniversitesi'ndeki yurtlarda fiyatların 3 katına çıkması, binlerce öğrencinin barınma sorununu gündeme getirmiştir.
+
+================================================================================
+
+## Economic Segment 8
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 54
+**Retention**: 67.50%
+
+Ege Üniversitesi'ndeki yurtların fiyatı TÜİK'in hesabından 5543 lira fazla. Ege Üniversitesi yönetimi geçen yıl 2 kişilik oda fiyatını 80 lira olarak belirlerken, bu yıl 6000 lira olarak belirlemiştir. Geçen yıl 1250 lira olan 3 kişilik oda aidatı ise bu yıl 5000 lira olmuştur. Bu durum, yüksek enflasyon ve artan yaşam maliyetleri ile doğrudan ilişkilidir.
+
+================================================================================
+
+## Economic Segment 9
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 85
+**Retention**: 43.37%
+
+Ege Üniversitesi bünyesinde bulunan öğrenci yurdunun 2024-2025 aylık aidatına %30,305 oranında zam yapıldı. Öğrenciler bu miktarı karşılayamayacaklarını düşünüyor ve zamın bir an önce geri alınmasını istiyorlar. Bu zam, hem bizi hem de ailelerimizi çok zor duruma düşürmektedir. Yönetimden ricamız, ya bu zammın geri çekilmesi ya da daha makul bir şekilde değiştirilmesidir. Öğrenciler zammın geri alınmaması halinde ne yapacaklarını kara kara düşünüyor. Burs almayan birçok arkadaşımın da büyük ihtimalle ödeme zorluğu yaşayacakları belirtiliyor. Yani 2,000 TL burs alıp zaten 6,000 TL oda aidatları ödemeleri mümkün değil.
+
+================================================================================
+

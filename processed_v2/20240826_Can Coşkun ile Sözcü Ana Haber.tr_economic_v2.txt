@@ -1,0 +1,90 @@
+# Economic Content from: 20240826_Can Coşkun ile Sözcü Ana Haber.tr.txt
+# Processed: 2025-07-22T17:35:15.365444
+# Original: 7365 words → Filtered: 680 words (9.23% retention)
+# Economic segments: 4
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 105
+**Retention**: 52.76%
+
+The filtered text focusing on economics, finance, and business is as follows:
+
+---
+
+Erken seçim talepleri karşılığı yok tabelası ile buluşuyor hakikaten. Bu durum, ekonomik belirsizliklerin artmasına neden olabilir. Ekonomik veriler ve istatistikler, hükümetin alacağı kararların arka planında önemli bir rol oynuyor. Özellikle, işçi maaşları ve emeklilik indirimleri gibi konular, ekonomik istikrarı doğrudan etkileyen unsurlar arasında yer alıyor. 
+
+Ayrıca, hükümetin ekonomik politikaları ve bunların toplum üzerindeki etkileri, önümüzdeki dönemde daha fazla tartışılacak gibi görünüyor. Ekonomik analizler, bu tür gelişmelerin piyasalara yansımasını ve yatırımcıların kararlarını nasıl etkilediğini anlamak açısından kritik öneme sahip. 
+
+---
+
+This version retains the economic context while removing irrelevant political and personal content.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 411
+**Retention**: 100.00%
+
+2 lirayla geçinmeye çalışan onlarca hane var ve çocuklarının
+beslenme çantasına ne koyacaklar bu büyük sorulardan biri e beslenme uzmanları Okul çağındaki
+çocukların işte şununla beslenmeli böyle beslenmeli demesiyle bize anlatıyorlar ama başka raporlar
+da var geleceğimizi nasıl çöpe attığımızı Çocuklarımızı nasıl yokluğa mahkum ettiğimizi bunun
+onların bilişsel gelişiminde ne gibi etkilerini olacağını asıl sorunun 1015 yıl sonra buuk
+bulacağını anlatmaya çalışıyorlar bilimsel açıklamalar yapıyorlar ama biz yüzümüzü bilime ne kadar
+dönüyoruz tartışmayı Belki de buradan kurmak lazım Biz şunun peşine düştük beslenme uzmanları ne
+öneriyor Aileler bu tavsiyeye ceplerindeki parayla ne kadar uyabilecek doğru soru bu Buyurun
+cevaplara gıda enflasyonu bir gerçek bu Enflasyonun altında çlar i ezlen aileler bambaşka bir gerçek
+ortalama % 1202 yi bulan zamlı çantalara ailelerin yetişmesi mümkün değil 9 Eylül'de ilk ders dili
+çalacak çalmasını ama aileler o beslenme çantasının içine ne koyacaklar Uzmanlar beslenme
+çantalarını içerisinde mutlaka meyve tercih edin diyorlar ama aileler meyve fiyatlarının yanına
+yaklaşamıyor Örneğin muz rengi çekici ama fiyatı da bir o kadar itici yani muzun artık beslenme
+çantasında olması için ailelerin kendi yemesini içmesinden kesmesi demek oluyor anne babalar koyar
+çocuklarına Yemeklerini de kendilerinden kısarlar Öyle yapacağız biz de ne yapalım Kendi boğazından
+kısıp çocuklarına yetişmeye çalışacak binlerce aile var ama o çantadan da birçok şey eksilecek belli
+ki bir paket peynir 250 milyon olmuş Daha ii kalitesini almaya kalksan 400 milyon nasıl alacaklar
+sadece peynirin fiyatından bahs Aynen sadece pe geçtiğimiz yıl beslenme çantasını doldurabilmek için
+koymaya çalışıyoruz Çünkü herkes alamıyor her şey çok pahalandı idare etmeye çalıyoruz yani yapak
+bir şey yok İstanbul okul yemeği koalisyonu bir araya geldi okula giden çocuklara bir öğün ücretsiz
+yemek verilmesi için tepte bulundu 8 yetişmiş zaten kira 15 16 milyar hangisine verecek aileler
+nereye yetişecek sadece boş beslenme çantasının 600 liradan başladığı bir zamanda içerisine bir adet
+meyve basit bir sandviç ve sütün yer aldığı en maliyetsiz menünün haftalık maliyeti 1000 liraya
+dayandı yoktan anlamıyorlar alacaksın Çocuklar da istiyor Evet yok diyemiyorsunuz gördü kopardı aldı
+pazarda mecbur almak zorundasın ne kadar olursa olsun Çok pahalı hiçbir şey alamayacak durumda
+Herkes çok zor mecburen alacaklar ama zorlanıp alacaklar yani hepsi de aileler kendinden kıscak Peki
+çocuklar okula boş boş çantayla mı gidecekler bundan sonra galiba Ben B böyle yönetim olursa böyle
+olacak gibi görünüyor şu saatlerde yeni yeni biten bir kısmı canlı yayınımıza da yansıyan Türki işin
+mitingi Tekirdağ'da gerçekleşti şimdi bu mitingde çerkezkö mitinginde de Eee Ergün Atalay Türk İş
+Başkanı olarak kürsüye çıktığında ruhland protesto edildi Çünkü insanlar 17
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 75
+**Retention**: 111.94%
+
+2 lirayla Ocak ayına bırakıldılar. Türkiye İşçi Sendikaları Konfederasyonu (Türk-İş) bu konuda vaadi var, ancak bunu gerçeğe dökemiyor. Asgari ücret tespit Komisyonu masasında muhatap alınan tek kurum işçiler adına Türk-İş. Dolayısıyla, Türk-İş'in daha fazla sesini çıkarmasını istiyor anlaşılan o meydanda toplanan emekçiler. 
+
+Bu durum, asgari ücretin belirlenmesi sürecinde işçi temsilciliği açısından önemli bir ekonomik konu olarak öne çıkıyor. Ekonomik veriler ve istatistikler, asgari ücretin alım gücünü ve enflasyon karşısındaki durumunu etkileyen faktörler arasında yer alıyor.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 89
+**Retention**: 32.25%
+
+Esnafın kapanan şirketler, karşılıksız çekler ve ilan edilen konkordato sayısı artış gösteriyor. 2024 yılı için sadece 7 aylık veriler incelendiğinde, 2023'ün aynı dönemine göre kapanan şirket sayısının %28 oranında arttığı görülüyor. Bu durum, işlerin kötüye gittiğini ve birçok esnafın işlerini bırakma eşiğine geldiğini gösteriyor. Uzmanlar, karşılıksız çek sayılarının da rekora koştuğunu belirtiyor. Ekonomik veriler, iş dünyasında ciddi bir sıkıntı yaşandığını ortaya koyuyor. Bu nedenle, esnafın kepenk kapatma kararları ve iş yerlerini satma eğilimleri artıyor. Türkiye Odalar ve Borsalar Birliği'nin verileri, bu ekonomik durumu daha net bir şekilde ortaya koyuyor.
+
+================================================================================
+

@@ -1,0 +1,27 @@
+# Economic Content from: 20240927_Fatih Portakal ile Sözcü Ana Haber.tr.txt
+# Processed: 2025-07-22T18:02:02.485562
+# Original: 7134 words → Filtered: 169 words (2.37% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 99
+**Retention**: 50.77%
+
+Bankacılık düzenleme ve Denetleme Kurumu bireysel kredi ve kredi kartı borcuna 60 aya kadar yapılandırma getirdi. Ödenmeyen kredi kartı borcu bir yılda % 262, kredi borcu ise bir yılda % 66 arttı. Türkiye'de 28 milyon kredi kartı borçlusunun olduğu belirtiliyor. Kredi ve kredi kartı borcu için 60 aya kadar yapılandırma resmi gazetede yayınlandı. Kesin olmamakla birlikte yapılandırmada referans faiz % 3,11 olarak belirlendi. Tüketici Birliği federasyonuna göre, 100.000 liralık borç 12 ay faizle yapılandırıldığında geri ödemesi 139.430 TL, 36 ayda yapılandırıldığında toplam ödeme 22.400 TL, 60 ay vade ile geri ödemesi ise 3 katından fazla, tam 345.000 TL oluyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 70
+**Retention**: 49.30%
+
+300 lirayı bankalar üzerinden zengin etmek dışında bir şey değil. Milyonlarca insan yüksek faizle borcunu kapatmaya çalışıyor. Yine borcu borçla kapatacağız, bu da bir rahatlama sağlamayacak. Mehmet Şimşek'in açıklamaları önemli; bankaları kurtarmak için yapılan düzenlemeler dikkat çekiyor. BDDK'nın son kararları, bankaların durumunu etkileyen önemli gelişmeler arasında. Faiz oranları, özellikle %3,11 gibi yüksek seviyelerde, borçlu vatandaşlar için büyük bir yük oluşturuyor. Bu durumda, borçların 60 aya yayılması gibi çözümler gündeme geliyor.
+
+================================================================================
+

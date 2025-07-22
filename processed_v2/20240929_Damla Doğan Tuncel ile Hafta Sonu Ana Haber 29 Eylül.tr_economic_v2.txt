@@ -1,0 +1,110 @@
+# Economic Content from: 20240929_Damla Doğan Tuncel ile Hafta Sonu Ana Haber 29 Eylül.tr.txt
+# Processed: 2025-07-22T17:28:56.536409
+# Original: 5893 words → Filtered: 774 words (13.13% retention)
+# Economic segments: 8
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 87
+**Retention**: 100.00%
+
+29 Eylül Pazar bugün etiketimiz Döner mi Birazdan bir Sucuk döner haberi getireceğim ekranlarınıza
+Geçen hafta Kayseri'de AK Partili isimlerin yaptığı sucuk ekmek partisini çok konuşmuştuk şimdi o
+isimlerden gelen yeni bir adım var İmaj buradan Döner mi diye soracağız sorgulayacağız hep birlikte
+İmamoğlu'na siyasi yasak istenen Davay la ilgili önemli bir gelişme var buradan Döner mi diye yine
+soracağız sorgulayacağız ekonomi yön inden art arda mesajlar geldi bugün buradan Döner mi acaba
+olanlar tünelin ucundaki Işık yakın mı konuşacağız üzerine ama Hepsinden önce yangın yerine dönen
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 148
+**Retention**: 81.77%
+
+Liralık borç faizle birlikte 267.000 olacak sınırı getirildi. Artan kredi kartı borcuna da yapılandırma fırsatı adı altında bir faiz yükü eklendi. İnsanlar bu şekilde yapılandırmaya girdiği zaman faiz oranından dolayı faizini ödemeyecek pozisyona gelecek. Yani o yapılandırma aslında iyi bir şeymiş gibi gözüküyor ama ödeyemeyenler için daha fazla yük. Dar gelirli vatandaş nakit parası yetişmediği için en temel ihtiyaçlarını dahi kartla karşılıyor. Kredi kartı ve ihtiyaç kredisi borçları tırmandıkça tırmanıyor. Merkez Bankası ve Bankacılık Düzenleme ve Denetleme Kurumu'nun yapılandırma formülünden faiz çıktı. Düzenlemeye göre bireysel kredi kartlarını yapılandırmada kullanılacak faiz oranı %3,11 olacak. 100.000 liralık bir kredi kartının borcu faiz binerek 200.000 lirayı geçiyor. Faiz oranları belli; ortalama %4,55 olduğunu düşünürseniz, bankaların bunu düşük tutacağını zannetmiyorum. 100.000 lira 200.000 lira olduktan sonra zaten insanlar faizini ödeyemeyecek pozisyona gelecek. Ancak bu faiz oranına %115 Kredi Kaynak Destekleme Fonu ve %115 banka sigorta muamele vergisi de eklenecek. Faiz aylık %4.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 58
+**Retention**: 69.88%
+
+04 bulacak yapılandırmayla sunulan bu oran ilk etapta nefes aldıracak gibi görünse de vatandaş 5 yıla yayılan geri ödeme sürecinde ağır bir faiz yüküne imza atmış olacak. Örneğin 100 000 TL'lik bir borcun 60 ay vadeyle yapılandırılması durumunda aylık ödeme 4454 lira olacak, borcun toplam geri ödemesi 267 375 liraya ulaşıyor. 100 000 liralık borcu kapamanın bedeli 167.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 79
+**Retention**: 57.25%
+
+Bugün ekonomik veriler ve istatistikler üzerine konuşuyoruz. Memur emeklisi, 16 aydır hakar yaşında 375 TL olan ek ödemenin emeklilere verilmediğini belirtiyor. Bu durum, siyasilerin ekonomik politikalarının bir yansıması olarak değerlendiriliyor. Emekliler, yaşadıkları sorunları ve taleplerini dile getirerek, ekonomik koşulların iyileştirilmesi için acil seçim çağrısında bulunuyor. Ekonomik belirsizlikler ve düşük maaşlar, emeklilerin yaşam standartlarını olumsuz etkiliyor. Bu bağlamda, staj ve çıraklık sürelerinin SGK başlangıcı olarak kabul edilmesi gerektiği ifade ediliyor. Ekonomik durumun iyileştirilmesi için hükümetin alacağı kararlar büyük önem taşıyor.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 76
+**Retention**: 50.67%
+
+Milyonlarca emekli, refaha ermeyi bekliyor ancak ekonomik koşullar nedeniyle zor durumda. Emekliler, gerçeği yansıtmayan enflasyon oranları ile yaşam standartlarının düştüğünü belirtiyor. Kadıköy'de bir araya gelen emekliler, insanca yaşamak için ihtiyaçlarını karşılayabilecek bir maaş talep ediyor. Emeklilerin talepleri, asgari ücretin altında kalan maaşlar ve açlık sınırının altında yaşamaya zorlanmaları üzerine yoğunlaşıyor. Emekli maaşları, asgari ücretin gerisinde kalırken, emekliler haklarını almak için mücadele edeceklerini ifade ediyor. Ekonomik veriler, emeklilerin yaşam standartlarının düştüğünü ve bu durumun çözülmesi gerektiğini gösteriyor.
+
+================================================================================
+
+## Economic Segment 6
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 101
+**Retention**: 49.27%
+
+Kantinlerdeki enflasyon % 10000 yakın, artık 100 lira ile bir tost alınabiliyor. Kantin fiyatları çok sıkıntılı; bir tost 60 lira. Türkiye'nin geleceği devlet okullarında açlığın pençesinde. AKP'nin seçim vaadiydi okullarda tüm öğrencilere ücretsiz bir öğün yemek, ama bırakın tüm öğrencileri, dar gelirli ailelerin yemek desteği verdiği ortaya çıktı. Kız öğrenciye aylık 100 lira, erkek öğrenciye ise aylık 90 lira veriliyor. Oysa bu paralar neredeyse kantinde bir tost parası. Okul kantinlerinde enflasyon tüyi geride bıraktı; fiyat değişimi bir yılda % 100'e yaklaştı. 30 liralık tost 50 lira, 5 liralık su 10 liradan satılıyor. Bu fiyatlarla bir öğrencinin yalnızca kantin harcaması haftalık 2...
+
+================================================================================
+
+## Economic Segment 7
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 59
+**Retention**: 31.55%
+
+Tüm Türkiye'de okullarda bir öğün ücretsiz yemek için çağrı yapılıyor. Yetersiz beslenen öğrenciler derslerinde başarısız olmaktan endişeli. Okullardaki durum ve kantinlerdeki fiyatlar, ailelerin ekonomik durumunu etkiliyor. Ayrıca, düğünlerde takılan altınlar ve paralar, yerel ekonomideki harcama alışkanlıklarını yansıtıyor. Düğünlerde yapılan harcamalar, ekonomik canlılık ve tüketim alışkanlıkları hakkında bilgi veriyor. BDDK'nın açıklamaları ve ekonomik fiyatlarla ilgili kampanyalar, finansal piyasalardaki hareketliliği gösteriyor.
+
+================================================================================
+
+## Economic Segment 8
+
+**Method**: simple_final
+**Confidence**: 0.50
+**Word Count**: 166
+**Retention**: 100.00%
+
+000 dikey süpürge sadece 9900 7 kişer şimdi full Hibrid
+seçeneğiyle ikas sında e-ticaret nedir Bence ikas e-ticaret siteni tık diye açmaktır ikas tek
+ekrandan tüm dünyaya satış yapmak ikas satışlarınız katlanarak artmasıdır ikas 724 yanında
+e-ticarete ikas la başla Sözcü gazetesi çok sevilen Ç satan kitapların en çarpıcı bölümlerini 4
+sayfalık kitap ekiyle her gün önünüze seriyor her hafta farklı kitaplardan hazırlanan günlük kitap
+ekleri Arkası Yarın diyor kitap ekli Sözcü gazetenizi her gün almayı unutmayın çık kendinize ya da
+sevdiğinize alabileceğiniz en çarpıcı hediyeler Migros ile iyisin İyisin iyisin iyisini ucuzunu
+Bilirsin bilirsin çiftçinin değerini Bilirsin bilirsin mahsulün iyisine ne çok özenirsin Migros ile
+iyisin Çünkü Migros'ta Türkiye'ye iyi gelmek için çalışan tam 75 000 kişi var bu yüzden Migros'ta
+bir marketten fazlası var İyisin iyisin Hepimize iyi gelecek ana haberi burada noktalı Önümüzdeki
+hafta cumartesi saat 19'da tekrar görüşmek daha iyi daha güzel haberler verebilmek dileğiyle hoşça
+kalın vakfın kuruluş amacı kemik iliği nakliyle Lösemi hastası çocuklara Hayat vermekti Vakıf
+Türkiye'nin Vicdanlı zenginlerinden
+
+================================================================================
+

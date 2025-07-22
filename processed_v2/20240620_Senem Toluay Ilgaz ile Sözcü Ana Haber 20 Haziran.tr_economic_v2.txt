@@ -1,0 +1,135 @@
+# Economic Content from: 20240620_Senem Toluay Ilgaz ile Sözcü Ana Haber 20 Haziran.tr.txt
+# Processed: 2025-07-22T17:38:21.645988
+# Original: 4882 words → Filtered: 933 words (19.11% retention)
+# Economic segments: 10
+
+## Economic Segment 1
+
+**Method**: pattern_validated
+**Confidence**: 0.75
+**Word Count**: 49
+**Retention**: 70.00%
+
+Erdoğan yabancı yatırımcıları kazandı ama bedelini Türkler ödedi. Ülkesi artık Türkiye Nas politikasının bütün maliyetini halk ödedi, ödemeye devam ediyor. Bu bedeli öderken yerel seçimlerde en ciddi uyarısını verdi. Aslında 22 yılın ardından AKP ilk kez ikinci parti durumuna düştü ve anketler bugün de AKP açısından iyi şeyler söylemiyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: pattern_validated
+**Confidence**: 0.75
+**Word Count**: 45
+**Retention**: 69.23%
+
+Erdoğan'ın sabrının tükenmesi bir risk diyor. Merkez Bankası'nın siyasi bir tepkiden kaçınmak için faizleri erken düşürme ihtimalinden söz ediyor. Hatırlayın, Erdoğan da birkaç gün önce atacağımız adımlar var demişti. Erdoğan'ın sabrı, siyasi maliyeti ödememek için tükenebilir. Bu durum, ekonomik istikrar açısından önemli bir endişe yaratıyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 80
+**Retention**: 142.86%
+
+Ekonomi ile ilgili veriler ve istatistikler, piyasalardaki gelişmeler ve hükümetin ekonomik politikaları hakkında önemli bilgiler sunulmaktadır. Özellikle, Mehmet Şimşek'in açıklamaları, gelecekteki ekonomik durumu anlamamız açısından kritik bir öneme sahip. Ekonomik göstergeler, enflasyon oranları ve işsizlik verileri, ülkenin mali sağlığını değerlendirmemize yardımcı olmaktadır. Ayrıca, iş dünyasındaki gelişmeler ve şirketlerin performansları, yatırımcıların kararlarını etkileyen önemli unsurlardır. Ekonomik analizler, piyasalardaki dalgalanmaların nedenlerini anlamamıza ve gelecekteki trendleri tahmin etmemize olanak tanır. Bu bağlamda, hükümetin uyguladığı mali politikalar ve bankacılık sistemindeki değişiklikler de dikkatle izlenmelidir.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 54
+**Retention**: 72.00%
+
+Emeklilerin sosyal güvenlik destek primleri ile çalışmaya devam etmesi, ekonomik durumu etkileyen bir faktördür. En düşük emekli aylığı hala 10,000 lira seviyesinde kalırken, bu durum yaklaşık 4 milyon emekliyi etkilemektedir. Eğer en düşük aylık yükseltilmezse, milyonlarca emekli yine 10,000 lira almaya devam edecek. Bu durum, emeklilerin alım gücünü ve genel ekonomik durumu doğrudan etkilemektedir.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 89
+**Retention**: 46.84%
+
+Emekli maaşına talim ederek yaşamaya çalışıyoruz. Türkiye Emekliler Derneği Genel Başkanı Kazım Ergün'e göre EYT düzenlemesi ile birlikte çalışan emekli sayısı hızla arttı. Ergün, SGK'ya kayıtlı çalışmaya devam eden emeklilere ilave imkanların sağlanması gerektiğini söyledi. Temmuz ayı önemli; emekliler ve asgari ücretliler için bir zam talebi var. Üstelik, en az %47 zam olmalı diyorlar. Ancak, bu zam gerçekleşse bile, ekmek fiyatlarının 20 lira olması gibi durumlar geçim sıkıntısını artırıyor. Geçim sıkıntısı yaşayanlar yılın geri kalan 6 ayı için kara kara düşünüyor. Asgari ücretin 25'in altında olmaması gerektiği ifade ediliyor.
+
+================================================================================
+
+## Economic Segment 6
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 89
+**Retention**: 54.60%
+
+Son 4 ayda kiralar ciddi şekilde artış gösterdi. Bugün İstanbul'un hiçbir yerinde 17,000 L kira bulmak mümkün değil. Açlık sınırı 32,000 L, yoksulluk sınırı ise 6,000 L'nin altında. Asgari ücretin en az 35,000 L olması gerektiği yönünde görüşler var. Temmuzda asgari ücrette ara zam yapılması gerektiği ifade ediliyor çünkü marketlerdeki fiyatlar sürekli artıyor. Her alışverişte fiyatların daha da yükseldiği gözlemleniyor. Fiyatlar yerinde durmadığı sürece asgari ücretin de artması gerektiği vurgulanıyor. Enflasyon durulmadığı sürece, asgari ücretin artırılmasının bir anlamı olmayacağı belirtiliyor. Asgari ücretin en az 25,000 L olması gerektiği düşünülüyor.
+
+================================================================================
+
+## Economic Segment 7
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 93
+**Retention**: 37.05%
+
+İstanbul Halk Ekmek'te ekmek fiyatı değişti. Artık 250 gram ekmek 8 liraya satılacak. Artan maliyetler halk ekmeğini de vurdu; bayramın hemen ardından % 60 zam geldi. 5 liraya satılan ekmek 8 liraya çıktı. 250 gramlık ekmeğin fiyatı geçen yıl Temmuz ayında 3 liradan 5 liraya yükseltilmişti. Geçtiğimiz ay altın çörek, tost ekmeği ve diğer ürünlere % ve üzerinde zam geldi. İstanbul'da Fırıncılar Odası'nın 200 gram ekmek için belirlediği satış fiyatı 10 lira olmasına rağmen fırınlarda 12,5 liraya ekmek satılıyor. Bu fiyat lüks semtlerde 15 liraya kadar çıkıyor. Ekonomik koşullar nedeniyle fiyatların artması bekleniyor.
+
+================================================================================
+
+## Economic Segment 8
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 97
+**Retention**: 52.15%
+
+Gelir İdaresi Başkanlığı yeni hazırlanan teklifte yurtdışı harcının 150'den 3,000 TL'ye çıkarılmasını öneriyor. Böylece 6 ayda 12,5 milyar liralık bir gelir elde edileceği ifade edilmiş. Yurt dışı harcı 2022 yılında 50 liradan 150 liraya çıkarıldı. Hazine ve Maliye Bakanlığı'nın vergi reform paketine ilişkin hazırladığı taslakta, yurtdışı harcının Cumhurbaşkanlığı yetkisiyle 3,000 liraya çıkarılması önerildi. Harcın her yıl yeniden değerleme oranına göre artırılması istendi. Geçen yıl 311 milyon liralık bir gelir elde edildi, bu yılın ilk 4 ayında ise 486 milyon liralık bir gelir söz konusu. Vergi uzmanı Nedim Türkmen'e göre, paket meclisten geçerse önemli bir ekonomik etki yaratabilir.
+
+================================================================================
+
+## Economic Segment 9
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 61
+**Retention**: 53.98%
+
+Hazine ve Maliye Bakanlığı, 700 milyarın üzerinde bir kaynak ortaya çıkabileceğini ifade etti. Bakanlık kaynakları, iddiaların gerçeği yansıtmadığını belirterek, 3,000 lira iddialarını yalanladı. Ayrıca, muhalefet partilerinin önerileri üzerine, gelir idaresinin çalışmasının yasalaşması durumunda ekonomik etkilerin önemli olacağı vurgulandı. İyi Parti Ankara Milletvekili Kürşat Zorlu, 3,000 lira önerisinin kabul edilemez olduğunu ifade etti. Bu durum, hükümetin ekonomik politikaları üzerinde tartışmalara yol açtı.
+
+================================================================================
+
+## Economic Segment 10
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 276
+**Retention**: 100.00%
+
+000 lira Olmazsa da işte 150
+liralık harcı 1500 laya çıkarmak da bir mesele Onun da bir kez daha altını çizelim şimdi az önce
+işte asgari ücretlileri emeklileri dinlerken orada E bir vatandaş şöyle demişti bir Yurttaş dedi ki
+Eee Zengin in parası Eee fakirin e züğürdün çenesini yorar Eee demişti Şimdi bunu Eee şöyle
+çevireceğiz izleyeceğiniz bu haberde diyanetin parası züğürdün çenesini yorar niye böyle diyoruz
+Çünkü mesela Diyanet İşleri Başkanlığı'nın Amerika Birleşik devletleri'ndeki mal varlığı 90 milyon
+doları bulmuş gündeme bu iddiayı getiren isim iyi Parti grup başkan vekili Turhan çömez camilerin
+önünde ne verirsen elinle o gider seninle diye sizlerden para topladılar verdikleriniz ta Amerika'ya
+gitti Peki siz neden verdiniz hayır olsun dediniz sevap olsun dediniz Otel oldu villa oldu havuz
+oldu peki biz bunun hesabını sormayacak mıyız Diyanet İşleri Başkanlığının Amerika Birleşik
+Devletleri'nde milyon dolarlık yatırımlarla Otel inşa ettirerek lüks Tesisler işlettiği belirtildi
+iyi Parti grup başkan vekili Turan Çömez göre diyaneti Amerika Birleşik doları aştı çıkarttık
+Amerikan belgelerini Meğer milyonlarca dolarlık yatırımlar şirketler kimin adına diyanetin adına
+neler var içinde cami var anladık sosyal tesis var Kültür Merkezi var anladık Peki başka otel var
+bildiğiniz Otel Amerika Birleşik Devletleri'nde bulunan Diyanet merkezinin yerleşkesinde cemiyet
+binası Konukevi hamam konferans salonunun yanı sıra çok sayıda Türk Evi de bulunuyor Merkez
+yerleşkenin mimari projesine ulaşan çömez sadece projenin tasarımı için 2 milyon dolar harcandığını
+söyledi Türkiye'deki bir Mimarlık firmasına oradaki çizimler için 2 milyona yakın 2 milyon dolara
+yakın para Ödemişler şu anda Amerika'daki washington'daki bu müştemilat bu kompleks 90 milyon dolar
+Çömez diyanetin Amerika Birleşik devletleri'ndeki Merkezi içinse 5,1 milyon dolar harcandığını 2,5
+milyon dolar zarar ettiğini söyledi Diyanet merkezinde çalışanlara İsa 700
+
+================================================================================
+

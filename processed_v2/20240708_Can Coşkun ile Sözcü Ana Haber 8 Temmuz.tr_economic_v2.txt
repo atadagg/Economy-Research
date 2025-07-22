@@ -1,0 +1,171 @@
+# Economic Content from: 20240708_Can Coşkun ile Sözcü Ana Haber 8 Temmuz.tr.txt
+# Processed: 2025-07-22T18:03:36.169223
+# Original: 7253 words → Filtered: 1072 words (14.78% retention)
+# Economic segments: 14
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 85
+**Retention**: 160.38%
+
+Burası Sözcü an haber haberin Daimi adresinde yine yeni bir haftaya başlıyoruz. Gündem elimize avucumuza neler getirecek? Ekonomi, Türkiye'nin başlığı çok önemli. Dünya ekonomisinde olup bitenlere de bakmak gerekiyor; oradan çıkarılacak dersler var. Ekonomik veriler ve istatistikler, piyasalardaki gelişmeler, hükümetin ekonomik politikaları ve iş dünyasındaki gelişmeler üzerine odaklanmalıyız. Fiyatlar, enflasyon, maliyetler ve ücretler gibi konular da gündemimizde yer alacak. Ayrıca, bankacılık, kredi ve para politikaları ile ticaret, ithalat ve ihracat konularını da ele alacağız. Ekonomik analizler ve uzman görüşleri, bu süreçte önemli bir yer tutacak.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 34
+**Retention**: 66.67%
+
+Hep birlikte konuşmaya başlayalım. TÜİK'in açıkladığı enflasyon verileri, insanların hayatıyla doğrudan ilişkili. Asgari ücretli bireylerin geçim sıkıntısı, bu verilerle bağlantılı olarak değerlendiriliyor. Emekli vatandaşların kök ücretlerine yapılacak zamlar da bu ekonomik veriler ışığında belirleniyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 59
+**Retention**: 83.10%
+
+TÜİK'in enflasyon sepetinde yer alan veriler dikkat çekiyor. Ev kirasının 5845 lira, yurt ücretinin ise 4507 lira olduğu belirtiliyor. Bu fiyatlar, ekonomik koşulların ve yaşam maliyetlerinin artışını gösteriyor. Ekonomik veriler, halkın alım gücünü etkileyen önemli bir gösterge olarak öne çıkıyor. Bu bağlamda, enflasyon oranları ve yaşam maliyetleri üzerine yapılan anketler, toplumun ekonomik durumunu anlamak için kritik bir rol oynuyor.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 53
+**Retention**: 40.77%
+
+Cumhurbaşkanı Erdoğan, emekli maaşlarının artışı yönünde bazı çalışmalar olduğunu açıkladı. En düşük emekli maaşının artışı, ekonomik bir tartışma konusu haline geldi. Ancak, kök maaşın düşük olması nedeniyle yaklaşık 2 milyon emekliye zam yapılmadı. Bu durum, iktidarın tepkilerden çekinmesine neden oldu. Ekonomik veriler ve beklentiler karşılanmadığı için, emeklilerin alım gücü üzerinde olumsuz etkiler oluştu.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 66
+**Retention**: 39.76%
+
+Emekli maaşının artırılması için çalışmaların sürdüğü bildirildi. Hükümet, 10,000 liralık en düşük emekli aylıklarının yapılacak düzenleme ile 12,000 liraya çıkarılacağını açıkladı. Bu değişikliğin adresinin meclis olacağı belirtiliyor. AKP, meclise tasarrufa dair bir kanun teklifini sundu. En düşük emekli maaşına zam için ilgili maddenin bu teklife komisyon görüşmeleri sırasında eklenmesi bekleniyor. Genel kurulda kanun teklifinin kabul edilip yasalaşması halinde emeklilerin gelecek hafta zamlı maaşlarını alabilecekleri ifade ediliyor.
+
+================================================================================
+
+## Economic Segment 6
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 79
+**Retention**: 37.80%
+
+Bunu bir asgari ücret düzeyine getirin, asgari ücrete enflasyon uyarlamasını yapın. Asgari ücrete zam mı verecekler yoksa biz söke söke alacağız. Muhalefet, en düşük emekli maaşının asgari ücret seviyesine çıkarılmasında ısrarcı. Düzenleme meclise geldiği takdirde, komisyon ve genel kurul görüşmelerinde itiraz sesleri açığa çıkacak. Emekliye reva görülen bir kademe daha arttırılacak. Tüik'e mektubu, tüik'e söylemleri ya da tabelada tam yazdığı haliyle tüik'e mesajlarınızı okuyacağız. 
+
+2022'de beri gizlenen ve tartışılan enflasyon sepeti hesaplandı. Tüik'e göre Türkiye'de ortalama kira bedeli 6.
+
+================================================================================
+
+## Economic Segment 7
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 87
+**Retention**: 61.70%
+
+TÜİK en son 2022'de enflasyon sepetini açıklamıştı. Gazeteci Alaattin Aktaş, 2022'de son veriler üzerinden güncel verileri kıyasladı. Gıda, konut, eğitim gibi ana başlıklar altında ürünlerin fiyatı TÜİK hesabıyla belirlendi. O hesaba göre Türkiye'de ortalama konut kirası 5844 TL, peynirin kilosu 147 TL, zeytinyağının litresi 113 TL, sütün litresi ise 29 TL olarak belirlendi. Her şey rakamlarda mükemmel gözükebilir ama yaşam şartları ortada, yani insanların durumu vahim. Normal bir ailenin oturacağı ev 2000 TL'den başlıyor, 25000 TL'si de normal bir ev. Üniversite yurt fiyatları 457 TL olarak belirlendi.
+
+================================================================================
+
+## Economic Segment 8
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 63
+**Retention**: 69.23%
+
+The filtered text focusing on economics, finance, and business is as follows:
+
+L maaş alan bir genel müdür kendi kurumunda veya başka bir kurumda yönetim kurulu üyesi olduğunda 9842 L da Huzur hakkı alacak. Böylelikle aylık geliri 208.000 liraya çıkacak, yıllığa vurduğumuzda 2,5 milyon lirayı geçiyor. Emekli ve asgari ücretli bırakın ayı günü geçirmekte zorlanırken zam beklerken çift maaşı bürokratların kapması can sıkıyor.
+
+================================================================================
+
+## Economic Segment 9
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 63
+**Retention**: 41.18%
+
+1 Temmuz itibariyle kira zamları bekleniyor. Kira zamlarının dışında cenaze ödeneklerine de bir zam geldi. Milletvekillerinin cenaze yardımı 103.000 liraya ulaştı. SGK'lı bir işçinin cenaze yardımı ise 3.380 lira. Bu durum, devletin sosyal yardımlarını ve ekonomik destek politikalarını gözler önüne seriyor. Ekonomik adaletsizlikler ve gelir dağılımındaki dengesizlikler, toplumda önemli bir tartışma konusu haline geldi. Bu bağlamda, hükümetin ekonomik politikalarının etkileri üzerinde durulması gerekiyor.
+
+================================================================================
+
+## Economic Segment 10
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 68
+**Retention**: 46.90%
+
+Temmuz ayı itibariyle cenaze ödenekleri de zamlandı; zam oranı memur maaş kat sayısı kadar % 199,00 ile cenaze ödeneklerine zam geldi. Ancak o zam yine işçiye gelmedi. Temmuz ayı itibariyle vekil öldüğünde yakınlarına 103,488 lira, emekli vekil öldüğünde 51,744 lira, devlet memurlarına ise 17,248 liradan az olmamak kaydıyla bir maaş cenaze yardımı ödenmektedir. Bu durum, sosyal güvenlik sistemindeki adaletsizlikleri ve farklı statüler arasındaki ekonomik eşitsizlikleri gözler önüne sermektedir.
+
+================================================================================
+
+## Economic Segment 11
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 162
+**Retention**: 72.65%
+
+Bugün 3385 lira cenaze yardımı ödenmektedir. SGK'ya göre cenaze ödeneği iş kazası veya meslek hastalığı sonucunda ya da yaşlılık ayrığı almakta iken ölen sigortalının hak sahiplerine veriliyor. SGK'lı vatandaşların ölümü halinde ödenecek cenaze ödenekleri yardımı için herhangi bir zam yapılmadı. Çünkü onlar yıllık belirlenmekte. Emekli vekillerin devlet memurlarının ölümü halinde yakınlarına ödenecek cenaze ödenekleri memur maaş kat sayısına bağlı olduğu için Temmuz'a itibariyle onlar zamlandı. 
+
+Devlete çalışırken edindikleri ya da devletin edindikleri şimdi kazandığı parayla hayatını idame ettirmeye çalışıyor insanlar. Faturalarını ödüyor, kirasının peşinde koşuyor. Yani vergi yükü dolaylı yoldan sırtında taşınıyor. İşçiler tarafından bu yük, gelir vergisi ile birlikte hissediliyor. 
+
+Ekonomi her taraf dökülüyor; bir maaş size, bir maaş devlete vergi ve kesintilerle işçi bir buçuk ay devlete çalışıyor. Yani bu durum adaletsizlik ve haksızlık olarak değerlendiriliyor. Enflasyonla eriyip giden maaşların geri kalanı da devlet tarafından eritiliyor. Bu durum, maaşın daisi olarak adlandırılan gelir vergisi ile daha da belirginleşiyor. Herkesin cebinden maalesef istemeden de dolaylı vergiler çıkıyor. Aşırı derecede bundan mutsuzuz.
+
+================================================================================
+
+## Economic Segment 12
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 72
+**Retention**: 118.03%
+
+Hazine, 2024 yılı boyunca gelir vergisi ödemeleriyle ilgili yeni düzenlemeler yapmayı planlıyor. Çalışanların maaşlarından yapılan kesintiler arasında SGK primi, işsizlik sigortası primi ve damga vergisi yer alıyor. Bu durum, özellikle düşük gelirli çalışanlar üzerinde ekonomik bir yük oluşturuyor. Ayrıca, hükümetin vergi politikaları, zenginlerden daha fazla vergi almayı hedefliyor. Ekonomik veriler, işgücü maliyetlerinin artışını ve bunun işgücü piyasası üzerindeki etkilerini göstermektedir. Bu bağlamda, işverenlerin maliyetlerini yönetme konusunda daha dikkatli olmaları gerektiği ifade ediliyor.
+
+================================================================================
+
+## Economic Segment 13
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 111
+**Retention**: 39.22%
+
+8 lir kesiliyor. Ama maalesef ülkemizde her şeyden dolaylı vergi alıyorlar. İşçiler şirketlerden fazla vergi ödüyor, hazineye para akışı durmuyor. Ödenen tonlarca vergi yetmezmiş gibi bir de işçi gelir vergisine mahkum. Çalışanlar zor şartlarda yaşam mücadelesi veriyor. Patates ve soğan enflasyon şampiyonu olmaya başladığında, bu durumun etkileri herkesin gündeminde. 
+
+Yerli tarım politikası çöken patates, tarlada 1 liradan bile satılamıyor. İzmir'in meşhur Ödemiş patatesi tarlada çürüdü. Tezgahta kilosu 30 lira ile 40 lira arasında değişen patatesin fiyatı, tarlada 1 lira ile 3 lira arasında değişiyor. Ancak bu fiyata bile alıcısı yok. Bu nedenle yerli üretici olan Ödemiş üreticisinin patatesi tarlada kaldı ve çürüdü. Masraflar çok ağır, bir dönüm patatesin yetiştirme maliyeti katlandı.
+
+================================================================================
+
+## Economic Segment 14
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 70
+**Retention**: 78.65%
+
+The filtered text focusing on economics, finance, and business is as follows:
+
+12,000 lira olacak da neye yetecek sorusunu daha yüksek sese sormaya devam ediyor. Bunlar palyatif geçici çözümlerdir. Memur emeklisi de aynı şeyi söylüyor. Asgari ücretli de onların sesi olmaya devam edeceğiz. Bir de sepet neyin sepetiyle hakikaten öyle. E 5,000 lira civarında kira vardır diye bir sepet hazırlarsanız insanlar sadece gülüp geçmez. Biz bu kadar barınma krizi yaşıyoruz.
+
+================================================================================
+

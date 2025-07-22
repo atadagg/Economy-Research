@@ -1,0 +1,153 @@
+{
+  "file_path": "news/SozcuTV/20240820_Can Coşkun ile Sözcü Ana Haber.tr.txt",
+  "processing_timestamp": "2025-07-22T17:44:11.686667",
+  "original_word_count": 7174,
+  "filtered_word_count": 646,
+  "retention_ratio": 0.09004739336492891,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "Bozcu Ada CZ Festivali paribu ana sponsorluğunda...",
+      "description": "\"Bozcu Ada CZ Festivali paribu ana sponsorluğunda...\" - The program begins with an introduction to the festival and a brief overview of the topics that will be covered, setting the stage for the news broadcast.",
+      "end_pos": 187
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 187,
+      "start_sentence": "Adli gelişmeler hakikaten dikkat çekeceği tahliyeler var...",
+      "description": "\"Adli gelişmeler hakikaten dikkat çekeceği tahliyeler var...\" - This section contains the main news content, discussing various legal developments, economic issues, and social concerns, including the situation of retirees and minimum wage earners.",
+      "end_pos": 379
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 379,
+      "start_sentence": "Gerek duyuyorsak kıyaslayacak hepsinin üzerine gideceğiz tabelam...",
+      "description": "\"Gerek duyuyorsak kıyaslayacak hepsinin üzerine gideceğiz tabelam...\" - A brief transition that introduces the upcoming topics and surveys, indicating a shift in focus within the news segment.",
+      "end_pos": 766
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 766,
+      "start_sentence": "Bahçeli'nin odasındaki 1725 takvimi biliyorsunuz...",
+      "description": "\"Bahçeli'nin odasındaki 1725 takvimi biliyorsunuz...\" - This part continues with news content, specifically discussing political commentary and social media reactions related to a statement made by a political leader.",
+      "end_pos": 865
+    },
+    {
+      "type": "5. **TRANSITION**",
+      "start_pos": 865,
+      "start_sentence": "Bir de x anketimiz var hızlıca onu da görelim...",
+      "description": "\"Bir de x anketimiz var hızlıca onu da görelim...\" - Another transition that introduces a new survey related to education and student issues, indicating a shift to a different news topic.",
+      "end_pos": 1356
+    },
+    {
+      "type": "6. **NEWS**",
+      "start_pos": 1356,
+      "start_sentence": "Son 5 yılda resmi rakamlara göre 2.3 milyon öğrenci okulu bıraktı...",
+      "description": "\"Son 5 yılda resmi rakamlara göre 2.3 milyon öğrenci okulu bıraktı...\" - This section discusses the educational crisis, focusing on student dropouts and related issues, providing detailed statistics and commentary.",
+      "end_pos": 1751
+    },
+    {
+      "type": "7. **TRANSITION**",
+      "start_pos": 1751,
+      "start_sentence": "Ama öncesinde penç kilit operasyon bölgesinden acı bir haber aldık...",
+      "description": "\"Ama öncesinde penç kilit operasyon bölgesinden acı bir haber aldık...\" - A transition that leads into a specific news story about a military operation, indicating a shift to a more serious news item.",
+      "end_pos": 1751
+    },
+    {
+      "type": "9. **OUTRO**",
+      "start_pos": 1751,
+      "start_sentence": "Her şeyi konuşacağız yargı ekonomi eğitim siyaset ama öncesinde...",
+      "description": "\"Her şeyi konuşacağız yargı ekonomi eğitim siyaset ama öncesinde...\" - The closing remarks that summarize the topics discussed and indicate the end of the program.",
+      "end_pos": 1848
+    },
+    {
+      "type": "8. **NEWS**",
+      "start_pos": 1848,
+      "start_sentence": "3 ağustosa el yapım patlayıcının infilak etmesi sonucu ağır yaralandığını duy...",
+      "description": "\"3 ağustosa el yapım patlayıcının infilak etmesi sonucu ağır yaralandığını duy...\" - This section reports on a tragic incident related to a military operation, providing details about the event and its consequences.",
+      "end_pos": 51004
+    }
+  ],
+  "news_segments_count": 13,
+  "economic_segments_count": 8,
+  "economic_segments": [
+    {
+      "segment_id": "379_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 52,
+      "filtered_length": 52,
+      "retention_ratio": 1.0,
+      "section_description": "\"Gerek duyuyorsak kıyaslayacak hepsinin üzerine gideceğiz tabelam...\" - A brief transition that introduces the upcoming topics and surveys, indicating a shift in focus within the news segment."
+    },
+    {
+      "segment_id": "1356_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 58,
+      "filtered_length": 62,
+      "retention_ratio": 1.0689655172413792,
+      "section_description": "\"Son 5 yılda resmi rakamlara göre 2.3 milyon öğrenci okulu bıraktı...\" - This section discusses the educational crisis, focusing on student dropouts and related issues, providing detailed statistics and commentary."
+    },
+    {
+      "segment_id": "1848_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 185,
+      "filtered_length": 95,
+      "retention_ratio": 0.5135135135135135,
+      "section_description": "\"3 ağustosa el yapım patlayıcının infilak etmesi sonucu ağır yaralandığını duy...\" - This section reports on a tragic incident related to a military operation, providing details about the event and its consequences."
+    },
+    {
+      "segment_id": "1848_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 199,
+      "filtered_length": 94,
+      "retention_ratio": 0.4723618090452261,
+      "section_description": "\"3 ağustosa el yapım patlayıcının infilak etmesi sonucu ağır yaralandığını duy...\" - This section reports on a tragic incident related to a military operation, providing details about the event and its consequences."
+    },
+    {
+      "segment_id": "1848_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 340,
+      "filtered_length": 105,
+      "retention_ratio": 0.3088235294117647,
+      "section_description": "\"3 ağustosa el yapım patlayıcının infilak etmesi sonucu ağır yaralandığını duy...\" - This section reports on a tragic incident related to a military operation, providing details about the event and its consequences."
+    },
+    {
+      "segment_id": "1848_5",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 175,
+      "filtered_length": 66,
+      "retention_ratio": 0.37714285714285717,
+      "section_description": "\"3 ağustosa el yapım patlayıcının infilak etmesi sonucu ağır yaralandığını duy...\" - This section reports on a tragic incident related to a military operation, providing details about the event and its consequences."
+    },
+    {
+      "segment_id": "1848_6",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 157,
+      "filtered_length": 76,
+      "retention_ratio": 0.4840764331210191,
+      "section_description": "\"3 ağustosa el yapım patlayıcının infilak etmesi sonucu ağır yaralandığını duy...\" - This section reports on a tragic incident related to a military operation, providing details about the event and its consequences."
+    },
+    {
+      "segment_id": "1848_8",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 96,
+      "filtered_length": 96,
+      "retention_ratio": 1.0,
+      "section_description": "\"3 ağustosa el yapım patlayıcının infilak etmesi sonucu ağır yaralandığını duy...\" - This section reports on a tragic incident related to a military operation, providing details about the event and its consequences."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

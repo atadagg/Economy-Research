@@ -1,0 +1,55 @@
+{
+  "file_path": "news/SozcuTV/20240913_Fatih Portakal ile Sözcü Ana Haber 13 Eylül.tr.txt",
+  "processing_timestamp": "2025-07-22T17:37:35.074060",
+  "original_word_count": 7340,
+  "filtered_word_count": 56,
+  "retention_ratio": 0.007629427792915531,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 190,
+      "start_sentence": "İyi akşamlar haber bültenine Hoş geldiniz sevgili izleyenler...",
+      "description": "\"İyi akşamlar haber bültenine Hoş geldiniz sevgili izleyenler...\" - This section serves as the opening of the news broadcast, welcoming viewers and introducing the date and context of the program.",
+      "end_pos": 969
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 969,
+      "start_sentence": "Peki bugün tabela ne bugün şöyle izlere bakacağız...",
+      "description": "\"Peki bugün tabela ne bugün şöyle izlere bakacağız...\" - This section contains the actual news content, discussing various topics and events, including specific incidents and commentary on current affairs.",
+      "end_pos": 1159
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 1159,
+      "start_sentence": "Aslında buna deyim diye deyim deyimden bahsediyoruz...",
+      "description": "\"Aslında buna deyim diye deyim deyimden bahsediyoruz...\" - This brief transition connects different news stories, using a metaphor to introduce the complexity of the news being covered.",
+      "end_pos": 1842
+    },
+    {
+      "type": "4. **OUTRO**",
+      "start_pos": 1842,
+      "start_sentence": "Teşekkürler Toprağı bol olsun önemli bir isim kendisi ve devam edi...",
+      "description": "\"Teşekkürler Toprağı bol olsun önemli bir isim kendisi ve devam edi...\" - This section includes closing remarks, reflecting on the discussed topics and concluding the program.",
+      "end_pos": 50434
+    }
+  ],
+  "news_segments_count": 9,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "190_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 108,
+      "filtered_length": 56,
+      "retention_ratio": 0.5185185185185185,
+      "section_description": "\"İyi akşamlar haber bültenine Hoş geldiniz sevgili izleyenler...\" - This section serves as the opening of the news broadcast, welcoming viewers and introducing the date and context of the program."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

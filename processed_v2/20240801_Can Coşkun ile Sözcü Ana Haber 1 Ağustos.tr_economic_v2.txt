@@ -1,0 +1,60 @@
+# Economic Content from: 20240801_Can Coşkun ile Sözcü Ana Haber 1 Ağustos.tr.txt
+# Processed: 2025-07-22T17:25:37.005459
+# Original: 6868 words → Filtered: 345 words (5.02% retention)
+# Economic segments: 5
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 54
+**Retention**: 51.92%
+
+Cumhurbaşkanı Erdoğan, emekli vatandaşlar için bugün CHP genel başkanı Özgür Özel'den bir öneri geldi. Özel, SGK borcuyla ilgili olarak, emeklilerin maaşının en düşük 17.500 lira olması gerektiğini belirtti. Bu şekilde, emeklilerin maaşlarının artırılmasıyla SGK borçlarının ödenebileceğini ifade etti. Bu öneri, mali durumun iyileştirilmesi ve emeklilerin ekonomik koşullarının düzeltilmesi açısından önemli bir adım olarak değerlendiriliyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 61
+**Retention**: 45.86%
+
+Ekonomiyi deşiyor, ekonomiyi konuşuyoruz. CHP lideri Özgür Özel, Cumhurbaşkanı Erdoğan'a seslenerek, "Bütün SGK borcumuzu kapatalım" dedi. Bu tür açıklamalar, hükümetin sosyal güvenlik politikaları ve emeklilik sisteminin finansmanı üzerinde önemli etkilere yol açabilir. Ayrıca, emeklilere yönelik yapılacak ödemelerin bütçe üzerindeki yükü ve enflasyonla ilişkisi de dikkat çekici bir konu. Ekonomik veriler, bu tür politikaların uygulanabilirliğini ve etkilerini değerlendirmek için kritik öneme sahiptir.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 59
+**Retention**: 77.63%
+
+Türkiye günlerdir belediyelerin SGK borcunu konuşuyor. CHP lideri Özgür Özel, SGK borçlarına çözüm önerisi için emekli maaşlarını işaret etti. Emekli maaşlarını asgari ücrete, yani 17.000 liraya çıkarın, belediyeler borçlarını ödesin dedi. Emekliye 17.500 lira yapın, bütün Cumhuriyet Halk Partili belediyeler bütün borcunu derhal kapatacağız. Bu öneriler, ekonomik yükümlülüklerin yerine getirilmesi ve mali istikrar açısından önemli bir adım olarak değerlendiriliyor.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 59
+**Retention**: 30.89%
+
+Servislerin kaldırılması ekonomik etkiler yarattı. Doğalgaz faturaları ödenmediği günlerde, vatandaşların enerji maliyetleri artıyor. Her gün zam haberleri geliyor; emeklilere para yok, her şeye zam veriliyor. Faturalar kabarıyor ve ısınmak her gün daha da güçleşiyor. Geçtiğimiz ay elektriğe %38 zam yapılmıştı, şimdi de 1 Ağustos'tan itibaren doğalgaza %38 zam geldi. Kışın ne yapacağımız belirsiz; bu durum, hanelerin enerji maliyetlerini artırıyor.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 112
+**Retention**: 74.67%
+
+2024 yılı için yıllık ücret 1.056.000 liraya çıktı. 2023'te Ankara'daki bir özel üniversitede yıllık 550.000 lira olan ücret %110'luk artışla 1.100.000 liraya ulaştı. Türkiye'deki özel üniversitelerle dünyadaki en iyi üniversitelerin fiyatları karşılaştırıldığında çarpıcı sonuçlar ortaya çıkıyor. Dünyanın en iyisi kabul edilen üniversitenin internet sitesine bakıldığında, bir öğrencinin yıllık eğitim maliyeti 9.250 sterlin, barınma, beslenme ve sosyal aktiviteler gibi yaşam maliyetleri ise aylık 1.955 sterlin. Bu maliyetler toplandığında güncel kurla 166.000 lira ediyor. Dünyanın en iyi üniversiteleri sıralamasında ilk beşte yer alan İngiltere'deki Cambridge Üniversitesi'nde de yıllık ücret 9.250 sterlin, yaşam maliyeti ise Oxford'dan biraz daha hesaplı, aylık 1.216 pound. Yani bir öğrencinin tüm ihtiyaçlarıyla birlikte okul masrafı güncel kurla 144.000 lira ediyor.
+
+================================================================================
+

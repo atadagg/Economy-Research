@@ -1,0 +1,89 @@
+{
+  "file_path": "news/SozcuTV/20240803_Senem Toluay Ilgaz ile Hafta Sonu Ana Haber 3 Ağustos.tr.txt",
+  "processing_timestamp": "2025-07-22T17:56:18.523758",
+  "original_word_count": 5755,
+  "filtered_word_count": 316,
+  "retention_ratio": 0.054908774978279756,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "efsane mizah dergisi gırgır sizlerden yoğun ilgi görüyor...",
+      "description": "\"efsane mizah dergisi gırgır sizlerden yoğun ilgi görüyor...\" - The opening of the broadcast introduces the program and sets the stage for the news content, including a brief mention of a magazine and a greeting to the audience.",
+      "end_pos": 92
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 92,
+      "start_sentence": "Bugün 3 Ağustos ve Sözcü televizyonu ana haber bülteninde...",
+      "description": "\"Bugün 3 Ağustos ve Sözcü televizyonu ana haber bülteninde...\" - This section contains the main news stories, discussing various topics such as social media restrictions, political issues, and current events, providing detailed information and analysis.",
+      "end_pos": 191
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 191,
+      "start_sentence": "Ana Haber başlıyor evet Instagram İsmail Haniye paylaşımlarını engelledi...",
+      "description": "\"Ana Haber başlıyor evet Instagram İsmail Haniye paylaşımlarını engelledi...\" - This brief transition signals the start of a new news segment, moving from the introduction to specific news about Instagram and its restrictions.",
+      "end_pos": 290
+    },
+    {
+      "type": "5. **NEWS**",
+      "start_pos": 290,
+      "start_sentence": "Instagram'a erişimin engellenmesiyle Türkiye Çin İran Kuzey K...",
+      "description": "\"Instagram'a erişimin engellenmesiyle Türkiye Çin İran Kuzey K...\" - This section continues to elaborate on the implications of the Instagram ban and the broader context of political and social issues in Turkey.",
+      "end_pos": 1168
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1168,
+      "start_sentence": "Kuzey Kore ve Çin gibi davranıyoruz yani CHP ve iyi Parti Ankara idare mahkemesine...",
+      "description": "\"Kuzey Kore ve Çin gibi davranıyoruz yani CHP ve iyi Parti Ankara idare mahkemesine...\" - This continues the news content, focusing on the political response to the social media restrictions and detailing the actions taken by political parties.",
+      "end_pos": 41883
+    }
+  ],
+  "news_segments_count": 12,
+  "economic_segments_count": 4,
+  "economic_segments": [
+    {
+      "segment_id": "290_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 116,
+      "filtered_length": 67,
+      "retention_ratio": 0.5775862068965517,
+      "section_description": "\"Instagram'a erişimin engellenmesiyle Türkiye Çin İran Kuzey K...\" - This section continues to elaborate on the implications of the Instagram ban and the broader context of political and social issues in Turkey."
+    },
+    {
+      "segment_id": "1168_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 147,
+      "filtered_length": 114,
+      "retention_ratio": 0.7755102040816326,
+      "section_description": "\"Kuzey Kore ve Çin gibi davranıyoruz yani CHP ve iyi Parti Ankara idare mahkemesine...\" - This continues the news content, focusing on the political response to the social media restrictions and detailing the actions taken by political parties."
+    },
+    {
+      "segment_id": "1168_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 155,
+      "filtered_length": 69,
+      "retention_ratio": 0.44516129032258067,
+      "section_description": "\"Kuzey Kore ve Çin gibi davranıyoruz yani CHP ve iyi Parti Ankara idare mahkemesine...\" - This continues the news content, focusing on the political response to the social media restrictions and detailing the actions taken by political parties."
+    },
+    {
+      "segment_id": "1168_5",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 103,
+      "filtered_length": 66,
+      "retention_ratio": 0.6407766990291263,
+      "section_description": "\"Kuzey Kore ve Çin gibi davranıyoruz yani CHP ve iyi Parti Ankara idare mahkemesine...\" - This continues the news content, focusing on the political response to the social media restrictions and detailing the actions taken by political parties."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

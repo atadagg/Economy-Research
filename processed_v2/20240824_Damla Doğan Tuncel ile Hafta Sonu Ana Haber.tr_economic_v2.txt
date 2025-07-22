@@ -1,0 +1,28 @@
+# Economic Content from: 20240824_Damla Doğan Tuncel ile Hafta Sonu Ana Haber.tr.txt
+# Processed: 2025-07-22T17:52:44.492593
+# Original: 4546 words → Filtered: 170 words (3.74% retention)
+# Economic segments: 1
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 170
+**Retention**: 100.00%
+
+707
+kişi İstanbul'a göç etti sebebi Elbette ekonomik bunun için Memleketimi bıraktık ailemizi bıraktık
+geldik buraya hani şu an para biriktirmeye kalkıyoruz onu da yapamıyoruz gerçekten hani masraflar
+masraflarım bayağı zor yani İstanbul planlama Ajansı 2023 iç göç istatistiklerini yayınladı rapora
+göre 2023 yılında 3 4 9 53 kişi iller arası göç etti İstanbul'a göç de önceki yıla göre % 7,1 arttı
+Ankara 232 700 İzmir 147 765 Antalya'da 118 256 kişi göç aldı diğer hangi vilayetimiz de Sanayi
+var çalışacak iş var restorantlar garsonlar şunlar bunlar çalışmaya geliyorlar göç nedenlerinin ilk
+sırasında aile fertlerinden birine bağımlı göç var Onu daha iyi konut ve yaşam koşullarında yaşama
+düşüncesi takip ediyor geçim çok zor oldu hayat çok pahalı oldu Tabii ki Çalışmak için geliyorlar
+hayatlarını daha iyi seviyesini yukarı çıkarmak için hayat seviyelerini çocuklarına daha iyi bakmak
+için İstanbul son 10 yılda en çok göçü Kocaeli'ne verdi onu sırasıyla Tekirdağ Ankara İzmir ve Orta
+Karadeniz şehri Tokat takip etti Hayat pahalılığından dolayı artık kiralık ev bulamıyorlar artık
+Millet en az 152
+
+================================================================================
+

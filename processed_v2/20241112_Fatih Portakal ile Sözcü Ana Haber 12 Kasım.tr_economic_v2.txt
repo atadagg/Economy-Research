@@ -1,0 +1,80 @@
+# Economic Content from: 20241112_Fatih Portakal ile Sözcü Ana Haber 12 Kasım.tr.txt
+# Processed: 2025-07-22T17:40:52.823725
+# Original: 7025 words → Filtered: 488 words (6.95% retention)
+# Economic segments: 5
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 153
+**Retention**: 80.10%
+
+İyi akşamlar, Türkiye'nin en farklı ana haber bültenine hoş geldiniz. 
+
+Dün yayına başlarken, ekonomik veriler ve istatistikler üzerine düşüncelerimi paylaşmak istiyorum. Ekonomideki yaşananlara şöyle bir bakıyorum; birçok insan ekonomik sıkıntılarla karşı karşıya. Aile içerisindeki iş sıkıntıları, ekonomik zorlukları artırıyor. 
+
+Bugün, Türkiye'nin ekonomik durumu hakkında bazı önemli veriler açıklandı. Enflasyon oranları ve fiyat artışları, halkın alım gücünü etkileyen önemli faktörler arasında yer alıyor. Ayrıca, hükümetin ekonomik politikaları ve bu politikaların piyasalara etkisi de dikkat çekici. 
+
+Son dönemde, döviz kurlarındaki dalgalanmalar yatırımcılar için belirsizlik yaratıyor. Bu durum, finansal piyasalarda dalgalanmalara neden oluyor. Uzmanlar, bu ekonomik verilerin ve hükümetin alacağı önlemlerin, Türkiye'nin ekonomik geleceği üzerinde büyük bir etki yaratacağını belirtiyor. 
+
+Özellikle, iş dünyasındaki gelişmeler ve şirketlerin mali durumları, ekonomik analizlerin merkezinde yer alıyor. Ticaret, ithalat ve ihracat rakamları da ekonominin genel sağlığı hakkında önemli ipuçları veriyor. 
+
+Sonuç olarak, Türkiye'nin ekonomik durumu ve hükümetin alacağı önlemler, hem bireyler hem de iş dünyası için kritik bir öneme sahip.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 119
+**Retention**: 44.24%
+
+Asgari ücrete bir bakalım çünkü asgari ücret ne kadar olacak, kaç para olması gerekiyor. 15-20 gün sonra heyetler toplanmaya başlayacak ve asgari ücreti konuşacağız. Siyasiler de siyasi partiler de aslında asgari ücreti dillendirmeye başladı. Bu durum, ekonomik koşulların ve yaşam standartlarının ne denli önemli olduğunu gösteriyor. Ekonomik veriler ve istatistikler, asgari ücretin belirlenmesinde önemli bir rol oynayacak. 
+
+Ayrıca, hükümetin ekonomik politikaları ve bu politikaların iş gücü üzerindeki etkileri de dikkat çekici. Asgari ücretin artışı, enflasyon ve yaşam maliyetleri ile doğrudan bağlantılı. Bu nedenle, asgari ücretin belirlenmesi sürecinde ekonomik analizler ve uzman görüşleri büyük önem taşıyor. 
+
+Sonuç olarak, asgari ücretin belirlenmesi, sadece bir maaş meselesi değil, aynı zamanda ülkenin ekonomik durumu ve halkın alım gücü ile ilgili kritik bir konudur.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 68
+**Retention**: 47.89%
+
+Asgari ücret talebimiz 30.000 bunun altında yokuz. CHP genel başkanı Özgür Özel asgari ücret pazarlığında alt sınırı 30.000 liradan başlattı ama 17.200 liralık maaşın 30.000 liraya çıkması için %76 zamlanması gerekiyor. Ekonomi yönetiminin yarattığı beklentide ise zam oranındaki üst sınır %30. Bu da 23.102 liraya denk geliyor. Enflasyonun düzelmesi lazım; paranın artması değil. Bugün 177.000 liralık asgari ücretin verildiği gün açısından satın alma gücü 6.000 lira erimiş durumdadır.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 53
+**Retention**: 67.95%
+
+The filtered text focusing on economics, finance, and business is as follows:
+
+"Bir de şimdi vergi dilimleri de değişti. Ama diyor lanacak o zaman da o kadar diyor % 70 oranında. Yani muhalefet Ana muhalefet özellikle CHP ne derse karşısında bir blok buluyor. Ben geçenlerde bir hesap yaptım % 180 civarında vermesi gerekiyor."
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 95
+**Retention**: 49.74%
+
+4 kişilik bir ailenin açlık sınırı Türk İş verilerine göre 20,41 liraya yükseldi. Bir ailenin yoksul sayılabilmesi içinse evine en az 6,6 bin lira girmesi gerekiyor. Bu veriler, ülke genelinde artan yaşam maliyetlerini ve ekonomik zorlukları gözler önüne seriyor. 
+
+Ayrıca, hükümetin ekonomik politikaları doğrultusunda, fiyat artışlarının kontrol altına alınması gerektiği vurgulanıyor. Özellikle gıda fiyatlarındaki artış, enflasyon oranlarını etkileyerek halkın alım gücünü düşürüyor. Ekonomik veriler, bu durumun sürdürülebilir olmadığını gösteriyor ve acil önlemler alınması gerektiğini ortaya koyuyor. 
+
+Bu bağlamda, uzmanlar, hükümetin tasarruf tedbirleri alması ve mali disiplini sağlaması gerektiğini belirtiyor. Aksi takdirde, ekonomik istikrarın sağlanması zorlaşacak.
+
+================================================================================
+

@@ -1,0 +1,75 @@
+# Economic Content from: 20240906_Serap Belovacıklı ile Sözcü Ana Haber.tr.txt
+# Processed: 2025-07-22T17:29:34.625540
+# Original: 7247 words → Filtered: 461 words (6.36% retention)
+# Economic segments: 6
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 49
+**Retention**: 36.57%
+
+Ekonomiyi konuşuyoruz, gelişmeleri, Cumhuriyet Halk Partisi'ni, iktidarın yaptıklarını ve yapmadıklarını, ekonomi yönetiminin attığı adımların yansıyan sonuçlarını gündemimizde tutuyoruz. Milli gelir, gayri safi milli gelir ve yurtiçi hasıla ile ilgili yapılan açıklamalar da önemli bir yer tutuyor. Orta vadeli program çerçevesinde atılan adımlar, ekonomik verilerin ve istatistiklerin değerlendirilmesi açısından kritik.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 73
+**Retention**: 100.00%
+
+arkadaşlarım da rica edeyim alın T hashtagiyle bizlerle paylaşacaksınız demiştik Karapara davasında
+Dilan Polat'tan sonra eşi Engin Polat da tahliye edildi sizin yorumunuz nedir diye sorduk YouTube
+üzerinden suça teşvik eder birinci başlığımız alın terinin önemi yokmuş ikinci başlığımız Peki bu
+Zenginliğin kaynağı ne 3üncü şıkkını olsun en büyük Adalet Sarayı bizde diyerek Bir de esprili bir
+Eee şıkk mız var YouTube üzerinden Tabii ki e buna yanıt verebilirsiniz x Platformu üzerinden alın
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 110
+**Retention**: 38.33%
+
+Ekonomik veriler, istatistikler ve göstergeler hakkında önemli bilgiler sunuluyor. Enflasyonu iliklerimize kadar hissederken, pazara gittiğimizde, fatura öderken ve çocuklar için alışveriş yaparken bu durumu sürekli yaşıyoruz. Yükselen enflasyon, dün açıklanan orta vadeli programda da gündeme geldi. Hazine ve Maliye Bakanı'nın açıklamalarında, enflasyonun daha da yükseleceği belirtildi. 2024 sonu için tahmin edilen enflasyon oranı 33 iken, bu rakam 41,5 olarak güncellendi. Ekonomiden sorumlu Cevdet Yılmaz, bu tür dalgalanmaların normal olduğunu ifade etti. Ancak, halkın bu durumu hissetmesi ve etkilerini yaşaması, ekonomik bağların kopmuş olduğunu gösteriyor. 2025-2027 yıllarını kapsayan programda, Türkiye'nin yüksek gelirli ülke grubuna gireceği belirtiliyor, ancak bu hedefe nasıl ulaşılacağı belirsiz. Kişi başı gelir 2025'te 17 bin dolara ulaşmayı hedefliyor.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 70
+**Retention**: 40.00%
+
+Türkiye'de kişi başına gelirimizin 2024 sonu itibariyle 15,551 dolara yükselmesini bekliyoruz. Orta vadeli programdan yüksek gelir vaadi çıktı; maalesef inandırıcılık bugün gittikçe azalmaya başlıyor. Önümüzdeki 3 ay, Türkiye 15,551 dolarlık kişi başı milli gelirle yıl sonunda yüksek ülkeler listesine girecek. Gelecek yıl kişi başına düşen milli gelirin dolarla 17,028 olacağı söylendi. 2027 yılında kişi başı gelir 20,000 doların üzerine çıkacak. Dünya Bankası'na göre kişi başı geliri 14,000 dolar olarak belirlenmiştir.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 88
+**Retention**: 45.13%
+
+Sonra yapılandırma yaptırdık, bloka kalktı. Şu an ödemeye devam ediyoruz vergimizi banka hesaplarına. Bloke konulan esnafa işin içinden nasıl çıkacağını düşünüyor. Ama işte ekonomik nedenlerden dolayı düşülebilir. Alın teri etiketiyle paylaşmış Baran Türkoğlu, bugün maalesef bir polisimizin canına kaydığını söylüyor. SGK bir genelgeyle bunu engelledi ama aynı SGK işçi, esnaf ve çiftçiye bu hakkı verdi. İnsanların kaderleriyle oynanıyor mu artık diyor Baran Türkoğlu. Türkiye gerçeği değil, açlıktan insanlar kırılıyor. Erken seçim çünkü adalete ihtiyacımız var ifadesini kullanmış başka bir izleyicimiz. İrfan Anadolu, TÜİK varsa milli gelir 50 diyor.
+
+================================================================================
+
+## Economic Segment 6
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 71
+**Retention**: 31.98%
+
+Önümüzdeki maaşlara bakacağız diyorsunuz yani aynen çağır abi. Önümüzdeki maaşlara bakacağız artık o zaman sizin yüzünüzü iş ceple güldüreyim. Ek ödemeler varsa iş cepte, ek hesap var hemen açın. Evet, hesabınızda para olmasa da nakit ihtiyacınızı anında karşılayın. Peşin peşin günün, dilerseniz taksit taksit ödeyin. Bu kadar. Okula dönüş ihtiyaçlarınız için taksitli ek hesabınız iş cepte şimdi kullanın. 3 ay sonra ödemeye başlayın. Üstelik 12 aya varan taksitlerle rahat rahat ödeyin.
+
+================================================================================
+

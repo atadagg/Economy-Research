@@ -1,0 +1,38 @@
+# Economic Content from: 20240719_Can Coşkun ile Sözcü Ana Haber 19 Temmuz.tr.txt
+# Processed: 2025-07-22T17:46:02.644496
+# Original: 6669 words → Filtered: 157 words (2.35% retention)
+# Economic segments: 3
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 46
+**Retention**: 48.42%
+
+Peki bugün karşımızda bir kriz var. Bu kriz belki hala kimi firmalar tarafından sürüyor, bazıları atlatıldı. Ne kadar atlatıldı bilinmez ama kalıcı hasar bıraktığına ilişkin ciddi şüpheler var. Bugünkü global krizden, teknolojik krizden, siber krizden bahsediyoruz. Asgari ücretler Ocak ayına kadar çevrim dışı kalın bakalım diyorlar.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 64
+**Retention**: 86.49%
+
+Hükümet emeklilik yaşını 65 civarına çekmeyi planlıyor. Bu durum, emeklilik sisteminin sürdürülebilirliği açısından önemli bir ekonomik politika değişikliği olarak değerlendiriliyor. Emeklilik yaşının artırılması, iş gücü piyasası ve sosyal güvenlik sistemine olan etkileri bakımından dikkatle izlenmesi gereken bir konu. Ekonomik veriler, emeklilik yaşının artırılmasının uzun vadede maliyetleri nasıl etkileyeceğini gösterebilir. Bu bağlamda, emeklilerin görüşleri ve tepkileri de önemli bir ekonomik analiz unsuru olarak öne çıkıyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 47
+**Retention**: 67.14%
+
+Türkiye Avrupa ülkeleriyle kıyaslandığında ekonomik veriler açısından zirveyi elden bırakmıyor. Milletvekili maaşları asgari ücrete oranla hesaplandığında Türkiye, 10 kat farkla birinci sırada yer alıyor. Yunanistan 5,9 ile ikinci sıradayken, onu 4,6 ile Birleşik Krallık takip ediyor. Bu durum, Türkiye'nin ekonomik yapısının ve gelir dağılımının sorgulanmasına neden oluyor.
+
+================================================================================
+

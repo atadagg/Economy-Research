@@ -1,0 +1,48 @@
+# Economic Content from: 20241121_Fatih Portakal ile Sözcü Ana Haber 21 Kasım.tr.txt
+# Processed: 2025-07-22T17:49:03.183437
+# Original: 6737 words → Filtered: 353 words (5.24% retention)
+# Economic segments: 3
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 116
+**Retention**: 56.31%
+
+Para önemli ve yetmeyince de maalesef insanlar mutsuz oluyorlar. Yetmeyince insanlar, ister istemez etrafa sarmaya başlıyorlar. İkisini birleştirdiğimizde, para yetmeyince ekonomi ile ilgili haberler var. Asgari ücretle ilgili haberler var. Ekonomik veriler ve istatistikler, günümüzde önemli bir yer tutuyor. 
+
+Ayrıca, finansal piyasalardaki dalgalanmalar ve yatırımlar, ekonomik istikrarı etkileyen unsurlar arasında yer alıyor. Hükümetin ekonomik politikaları, iş dünyası üzerinde doğrudan etkili oluyor. Fiyatlar, enflasyon ve maliyetler, tüketici davranışlarını şekillendiriyor. Bankacılık ve kredi politikaları, ekonomik büyüme için kritik öneme sahip. Ticaret, ithalat ve ihracat verileri, ülkenin ekonomik sağlığını gösteren önemli göstergelerdir. 
+
+Uzman görüşleri, ekonomik analizler ve raporlar, piyasa trendlerini anlamak için gereklidir. Bu bağlamda, ekonomik gelişmeler ve şirket haberleri, yatırımcılar için dikkate alınması gereken unsurlar arasında yer alıyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 104
+**Retention**: 34.67%
+
+Türkiye'nin ekonomik durumu ile ilgili bazı önemli veriler ve gelişmeler dikkat çekiyor. Özellikle, yurt dışından getirilen altınların vergiye ve gümrüğe takılmadan yasa dışı bir şekilde geçmesi, ekonomik kayıplara yol açıyor. Bu durum, altın kaçakçılığına yönelik uluslararası bağlantılara sahip şebekelerin varlığını gösteriyor. 
+
+Ekonomik veriler ışığında, bu tür yasa dışı faaliyetlerin, Türkiye'nin mali yapısını olumsuz etkileyebileceği düşünülüyor. Ayrıca, bu tür durumların önlenmesi için hükümetin daha sıkı denetim ve düzenlemeler getirmesi gerektiği ifade ediliyor. 
+
+Sonuç olarak, bu tür ekonomik suçların önüne geçilmesi, Türkiye'nin ekonomik istikrarı için kritik bir öneme sahip. Ekonomik verilerin ve istatistiklerin doğru bir şekilde takip edilmesi, bu tür sorunların çözümünde önemli bir rol oynayacaktır.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 133
+**Retention**: 69.63%
+
+240 000 dolara sattı İtalyan heykel tıraş catella komedyan adını verdiği duvara bantlanmış muz eseri ikinci kez açık arttırmaya çıktı. Amerika Birleşik Devletleri'ndeki ilk satışında 120 000 dolar fiyat biçilen muza bu kez rekor teklif geldi. Dünyanın en meşhur müzayede evi, görücüye çıkan muz için açık arttırma 800 000 dolardan başladı. Birkaç dakika içinde muzun fiyatı önce 2 milyon dolara, ardından da 4 milyon dolara çıktı. En yüksek teklif kripto para girişimcisi Justin Sun'dan geldi; muzu 6 240 000 dolara satın aldı. Bu sayede eserin hem sanat tarihi hem de popüler kültürdeki yerini onurlandıracak. 
+
+Kasım kampanyalarının megı koçsa başka altın ve pırlantalarda geçerli mega indirimler sunuluyor. E-defter zorunluluğu gelen 1 milyon mükellef için önemli bir gelişme. Ofiste ya da uzaktan çalışırken yerinizden kalkmadan her yere kolayca ulaşmanızı sağlayan çalışma sandalyeleri Kasım fırsatlarıyla sunuluyor.
+
+================================================================================
+

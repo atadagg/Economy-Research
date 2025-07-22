@@ -1,0 +1,56 @@
+# Economic Content from: 20240718_Can Coşkun ile Sözcü Ana Haber.tr.txt
+# Processed: 2025-07-22T17:44:40.560616
+# Original: 6845 words → Filtered: 324 words (4.73% retention)
+# Economic segments: 4
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 118
+**Retention**: 44.53%
+
+Türkiye'de kamuda işe alımlar tasarruf tedbirleri nedeniyle durdurulmuşken, sadece emekli olan sayısı kadar kamuya personel alınacağı açıklandı. Ancak, bazı istisnaların olduğu ortaya çıktı. Bu istisnalardan biri, Cumhur İttifakı ortağı Mustafa Destici'nin kızı için yapıldı. Mecliste iş başı yapan kızı için Destici, diğer partilerin de benzer uygulamalar yaptığını belirterek savunma yaptı. 
+
+Bu durum, kamu personel alımında şeffaflık ve eşitlik konularında tartışmalara yol açtı. Türkiye Büyük Millet Meclisi'nde 5000'in üzerinde personel bulunmakta ve bu personelin işe alım süreçleri hangi yasa ve usul çerçevesinde gerçekleştiği merak konusu. 
+
+Ekonomik açıdan, kamu personel alımlarındaki kısıtlamalar, devletin bütçe yönetimi ve mali disiplin açısından önemli bir etki yaratabilir. Bu tür tasarruf tedbirleri, kamu harcamalarını azaltmayı hedeflerken, aynı zamanda iş gücü piyasasında da dalgalanmalara yol açabilir.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 56
+**Retention**: 100.00%
+
+000 L değil 37 000 L olduğunu açıkladı sen iki maaş alıyorsun orada
+200 000 L Milletvekili maaşı 115 000 L da emekli maaşı alıyorsun Ben geçtiğimiz dönem bunu teklif
+ettim kaldıralım diye bir tanen oy vermedi bana her türlü söz söyleye Ama işi evlatlarımıza kadar
+indirmek en büyük alçaklıktır kesintiler sonrası eline geçen rakam 37
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 88
+**Retention**: 40.00%
+
+Masak 990 sayfalık bir rapora imza attı ve Dilan Engin Polat çifti ile ilgili iddianamenin en önemli dosyası artık tamamlandı. Masak raporunda, şüphe var dediği suç başlıkları arasında vergi, naylon fatura gibi konular yer alıyor. Masak raporu, Engin Polat'ın "bu kadar büyük haberler yapılıyor ama olursa bir tek vergi açığı çıkar" açıklamasıyla ciddi anlamda örtüşüyor gibi görünüyor. Rapordaki bulgulara göre, karıştıkları suçlar arasında örgüt kurma ve üyeliği, kara para aklama, yasa dışı bahis ve diğer fenomenlerle para transferi bulunuyor. Şirketler en çok parayı internetteki katı sabun satışından kazandı.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 62
+**Retention**: 53.45%
+
+Emekliye bir kilo et dağıtmak yerine, hayvancılığa destek verilmesi gerektiği ifade ediliyor. Et üretiminin artırılmasıyla birlikte fiyatların 150 liraya gerileyebileceği öngörülüyor. Doğalgaz fiyatlarındaki artışın etkisiyle, et fiyatlarının da yükseldiği belirtiliyor. Kuzu etinin kilosunun 1000 liraya kadar çıktığı ve bu nedenle tüketicilerin kuzu ve koyun etini tercih etmediği vurgulanıyor. Ayrıca, asgari ücretin 17 emeklinin aldığı para ile karşılaştırılması, ekonomik durumun zorluğunu ortaya koyuyor.
+
+================================================================================
+

@@ -1,0 +1,91 @@
+{
+  "file_path": "news/SozcuTV/20240702_Can Coşkun ile Sözcü Ana Haber 2 Temmuz.tr.txt",
+  "processing_timestamp": "2025-07-22T17:23:02.760275",
+  "original_word_count": 7218,
+  "filtered_word_count": 350,
+  "retention_ratio": 0.048489886395123305,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "be soruyor CHP Genel Başkan Yardımcısı Murat...",
+      "description": "\"be soruyor CHP Genel Başkan Yardımcısı Murat...\" - The program begins with an introduction of various guests and topics that will be discussed, setting the stage for the news broadcast.",
+      "end_pos": 488
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 488,
+      "start_sentence": "İç politika dış politika 2 Temmuz salı gününü harladı...",
+      "description": "\"İç politika dış politika 2 Temmuz salı gününü harladı...\" - This section contains the actual news content, discussing various developments in politics, economics, and judiciary matters, as well as audience engagement through polls and questions.",
+      "end_pos": 778
+    },
+    {
+      "type": "4. **OUTRO**",
+      "start_pos": 778,
+      "start_sentence": "Belki de hesaba çe...",
+      "description": "\"Belki de hesaba çe...\" - The closing remarks of the program, summarizing the discussions and possibly hinting at future topics or concluding thoughts.",
+      "end_pos": 1456
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 1456,
+      "start_sentence": "gelenlerle gidenlerle başlayalım...",
+      "description": "\"gelenlerle gidenlerle başlayalım...\" - This brief transition introduces a new segment or topic within the news, signaling a shift in focus to specific individuals or events.",
+      "end_pos": 51151
+    }
+  ],
+  "news_segments_count": 13,
+  "economic_segments_count": 5,
+  "economic_segments": [
+    {
+      "segment_id": "778_0",
+      "method": "pattern_validated",
+      "confidence": 0.75,
+      "original_length": 54,
+      "filtered_length": 54,
+      "retention_ratio": 1.0,
+      "section_description": "\"Belki de hesaba çe...\" - The closing remarks of the program, summarizing the discussions and possibly hinting at future topics or concluding thoughts."
+    },
+    {
+      "segment_id": "1456_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 80,
+      "filtered_length": 58,
+      "retention_ratio": 0.725,
+      "section_description": "\"gelenlerle gidenlerle başlayalım...\" - This brief transition introduces a new segment or topic within the news, signaling a shift in focus to specific individuals or events."
+    },
+    {
+      "segment_id": "1456_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 150,
+      "filtered_length": 79,
+      "retention_ratio": 0.5266666666666666,
+      "section_description": "\"gelenlerle gidenlerle başlayalım...\" - This brief transition introduces a new segment or topic within the news, signaling a shift in focus to specific individuals or events."
+    },
+    {
+      "segment_id": "1456_5",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 209,
+      "filtered_length": 97,
+      "retention_ratio": 0.46411483253588515,
+      "section_description": "\"gelenlerle gidenlerle başlayalım...\" - This brief transition introduces a new segment or topic within the news, signaling a shift in focus to specific individuals or events."
+    },
+    {
+      "segment_id": "1456_8",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 96,
+      "filtered_length": 62,
+      "retention_ratio": 0.6458333333333334,
+      "section_description": "\"gelenlerle gidenlerle başlayalım...\" - This brief transition introduces a new segment or topic within the news, signaling a shift in focus to specific individuals or events."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

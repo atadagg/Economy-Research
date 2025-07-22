@@ -1,0 +1,82 @@
+# Economic Content from: 20240726_Can Coşkun ile Sözcü Ana Haber 26 Temmuz.tr.txt
+# Processed: 2025-07-22T17:28:17.429187
+# Original: 6968 words → Filtered: 507 words (7.28% retention)
+# Economic segments: 7
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 44
+**Retention**: 60.27%
+
+Bugün ekonomik veriler ve istatistikler açısından önemli bir gün. İnsanlar günlerdir engel olunan zamlar var. Ekonomik koşullar nedeniyle bazı zamların Ocak ayına bırakıldığı belirtiliyor. Geçim derdine karşı alınacak önlemler üzerinde duruluyor. Bu durum, halkın yaşam standartlarını doğrudan etkileyen bir ekonomik sorun olarak öne çıkıyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 41
+**Retention**: 37.96%
+
+Merkez Bankası'na göre halkın gelecek yıl enflasyon beklentisi %72 olarak belirlenmişken, piyasanın beklentisi ise %30'a düşüyor. Bu durum, yatırımcıların borsa üzerindeki tahminlerini etkiliyor. Piyasa beklentisi, hükümetin koyduğu hedefe yakın bir seviyede seyrediyor. Ekonomik veriler, yatırımcıların kararlarını şekillendirmede önemli bir rol oynuyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 79
+**Retention**: 31.23%
+
+Piyasanın enflasyon beklentisi %72'ye yükseldi. Reel sektörün enflasyon beklentisi ise %55'e düştü. Enflasyonun %30'a düşeceğine inanmayan tüketicinin TÜİK'e inancı kalmadı. TÜİK'in verileri biraz enteresan; marketlere gitmemişler gibi görünüyor. Çünkü TÜİK, verileri online topluyor. Ekonomist Öner Günçavdı, TÜİK'in yönetiminin Eurostat ile iletişime geçtiğini ve Eurostat kullanmadığını söyledi. TÜİK, Eurostat'taki direktiflere uygun olarak veri topladığını belirtiyor. Ancak, pandemi sonrası bu yöntemlerin terk edilmesi gerektiği ifade ediliyor. TÜİK'in hala yalnızca pandemide kullandığı online veri toplama yöntemini kullanması, güvenilirlik konusunda soru işaretleri yaratıyor.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 78
+**Retention**: 42.39%
+
+Türkiye İstatistik Kurumu'nun gizlediği rakamlar hesap net yoksulluk olarak dönüyor. 2022'de bu yana en düşük memurun uğradığı gelir kaybı İstanbul Ticaret Odası'ndan 4861 TL olarak hesaplandı. Enflasyon araştırma grubunun verilerine göre de bu kayıp 207 000 lirayı buldu. Hükümet, faturayı işçiye, emekçiye ve memura kesti. TÜİK'in fiyatları gizlemeye başladığı 2022'de bu kayıplar daha da belirgin hale geldi. Enflasyon verilerine göre, memurların gelir kaybı ciddi boyutlara ulaştı. Bu durum, ekonomik koşulların zorluğunu ve yaşam standartlarının düşüşünü gözler önüne seriyor.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 117
+**Retention**: 62.57%
+
+Çinli şirketin yatırım kararının ardından ÖTV düzenlemesi yürürlüğe girdi. Hibrit elektrikli araçlarda matrah artırıldı; daha önceki kriterler sadece otomobil kilovat göreydi, ama şu anda hem karbondioksit salınımına göre hem de menzil kriterleri getirildi. Çinli elektrikli otomobil firması Türkiye'de 1 milyar dolarlık yatırım yapma kararı aldı ve fabrika ile Ar-Ge merkezi için anlaşmalar imzalandı. Üretim tesisine çivi çakılmadan hibrit elektrikli araçlar için özel tüketim vergisinde indirime gidildi. Hibrit elektrikli otomobillerde ÖTV düzenlemesi resmi gazetede yayınlandı ve araçlar için ÖTV matrahı 1 350 000 liraya yükseltildi. Bazı hibrit elektrikli otomobillerde 400 000 liraya varan indirimler söz konusu. Yeni düzenlemeyle asgari 70 km menzil ve 1 350 000 lira matrah belirlenmesi, bu alandaki yatırımları teşvik edici bir adım olarak değerlendiriliyor.
+
+================================================================================
+
+## Economic Segment 6
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 64
+**Retention**: 79.01%
+
+Liraya kadar olan hibrit araçların ÖTV matrahı %30 oldu. Bu, yaklaşık minimum %120'lik bir ÖTV oynaması demek. KDV eklediğimizde %24'lük bir avantaj sağlamakta. Hesaplamaya baktığımızda, minimum matra göre gittiğimizde 1.350.000 TL'ye göre esasında 2.100.000 TL'lik maksimum bir fiyat oluşmakta. Demek ki 2 milyonun altında hibrit araçların piyasada olacağını düşünüyoruz. ÖTV düzenlemesinde en büyük indirim, Türkiye'ye yatırım kararı alan Çinli otomobil firmasının hibrit aracında oldu.
+
+================================================================================
+
+## Economic Segment 7
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 84
+**Retention**: 46.41%
+
+Aydın Bey, ekonomik veriler ve sosyal hayat üzerindeki etkileri hakkında yorum yapmış. Özellikle dar gelirli bireyler için hayat pahalılığı, sosyal etkinliklere katılmayı zorlaştırıyor. Asgari ücretle çalışan birinin bir konsere gitmesi, haftalık gelirinin büyük bir kısmını alıyor. Bu durum, insanların sosyal hayattan uzaklaşmasına neden oluyor. Ekonomik koşullar, sinema ve tiyatro gibi etkinliklere katılımı lüks hale getiriyor. Gençler, yüksek bilet fiyatları nedeniyle etkinliklere katılmakta zorlanıyor. Birçok sanatçının bilet fiyatları 900 liradan başlıyor ve bu da katılımı daha da zorlaştırıyor. Ekonomik sıkıntılar, bireylerin kültürel etkinliklere erişimini kısıtlıyor.
+
+================================================================================
+

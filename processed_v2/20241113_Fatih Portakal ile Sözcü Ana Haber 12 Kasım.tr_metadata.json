@@ -1,0 +1,62 @@
+{
+  "file_path": "news/SozcuTV/20241113_Fatih Portakal ile Sözcü Ana Haber 12 Kasım.tr.txt",
+  "processing_timestamp": "2025-07-22T17:48:36.980855",
+  "original_word_count": 7077,
+  "filtered_word_count": 133,
+  "retention_ratio": 0.018793273986152326,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 100,
+      "start_sentence": "Hoş geldiniz sevgili izleyenler...",
+      "description": "\"Hoş geldiniz sevgili izleyenler...\" - The opening of the broadcast where the presenter welcomes viewers and introduces the program, setting the stage for the news content.",
+      "end_pos": 966
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 966,
+      "start_sentence": "Şimdi gelelim günün sözü...",
+      "description": "\"Şimdi gelelim günün sözü...\" - A brief transition that introduces a quote or a thematic element before moving into the next segment of news or commentary.",
+      "end_pos": 1359
+    },
+    {
+      "type": "5. **OUTRO**",
+      "start_pos": 1359,
+      "start_sentence": "Teşekkür ediyoruz Bu kutsal insana...",
+      "description": "\"Teşekkür ediyoruz Bu kutsal insana...\" - The closing remarks where the presenter wraps up the discussion, possibly reflecting on the news shared and thanking viewers.",
+      "end_pos": 1546
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 1546,
+      "start_sentence": "Bugün ve dün çok konuşulan bir konu...",
+      "description": "\"Bugün ve dün çok konuşulan bir konu...\" - The main news content begins here, discussing significant events and stories, including the tragic incident involving children in Selçuk and the reactions from officials.",
+      "end_pos": 1546
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1546,
+      "start_sentence": "Bakan hanımefendi biliyorsunuz 26 saniye değindi...",
+      "description": "\"Bakan hanımefendi biliyorsunuz 26 saniye değindi...\" - Continuation of the news segment, focusing on the reactions and statements from officials regarding the previously mentioned incident.",
+      "end_pos": 48926
+    }
+  ],
+  "news_segments_count": 6,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "100_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 133,
+      "filtered_length": 133,
+      "retention_ratio": 1.0,
+      "section_description": "\"Hoş geldiniz sevgili izleyenler...\" - The opening of the broadcast where the presenter welcomes viewers and introduces the program, setting the stage for the news content."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

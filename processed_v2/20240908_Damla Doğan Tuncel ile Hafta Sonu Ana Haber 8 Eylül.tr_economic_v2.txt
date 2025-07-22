@@ -1,0 +1,34 @@
+# Economic Content from: 20240908_Damla Doğan Tuncel ile Hafta Sonu Ana Haber 8 Eylül.tr.txt
+# Processed: 2025-07-22T18:10:40.439176
+# Original: 5723 words → Filtered: 184 words (3.22% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 112
+**Retention**: 100.00%
+
+000 L kiminde 10 000 L ama her okul hemen her okul diyelim veliden bir para bir tutar
+istiyor Üstelik bu pazarlıklar okulların açılmasına saatler kalsa da hala devam ediyor parayı yani o
+zorunlu yapm Velinin çocuğu okula kayıt olamıyor kimsenin herhangi bir okul yöneticimiz normal
+koşullarda Ben sizin Çocuğunuzu okula kaydetmek için sizden kayıt ücreti istiyorum diyebilecek bir
+inisiyatif alanı yok kızım için 45 000 L oğlum için de 25 000 L ödedik yakın okullara göndermek
+istiyoruz E işte istediğimiz zaman da mecburen bir para ödemek zorundayız yani kamu okuluna Biz
+verecektik Araştırdık Hani gerçekten de iyi bir okul var vardı Eee kayıt parası gerekiyordu ve bize
+şöyle demişti hani 6
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 72
+**Retention**: 43.37%
+
+Hazine ve Maliye Bakanı Mehmet Şimşek Türkiye'nin kredi notunun yükselmesiyle ilgili açıklamalarda bulundu. İstanbul'da ortalama konut kirası bir asgari ücretten fazla, 19 000 liranın üzerinde. Ev sahipleri konut krizini paylaşımlı oda ilanlarıyla fırsata çevirmiş durumda; evin boş bir odası birden fazla yatak konularak öğrencilere kiralanıyor. Kişi başı ücret 5 000 lira ile 18 000 lira arasında değişiyor. Üniversitelilerin en temel sorunu barınma, çünkü bazı yurtlar kapatıldı ve özel yurt ücretleri oldukça yüksek.
+
+================================================================================
+

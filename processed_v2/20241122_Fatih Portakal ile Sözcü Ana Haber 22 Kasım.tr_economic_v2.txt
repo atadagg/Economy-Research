@@ -1,0 +1,84 @@
+# Economic Content from: 20241122_Fatih Portakal ile Sözcü Ana Haber 22 Kasım.tr.txt
+# Processed: 2025-07-22T17:51:27.203453
+# Original: 6653 words → Filtered: 532 words (8.00% retention)
+# Economic segments: 5
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 97
+**Retention**: 100.00%
+
+safları sıkılaştır dedi saflar sıkılaştı Kemal Kılıçdaroğlu bugün adliyedeyim duruşma salonunda ve
+sonrasında neler yaşandı ayrıntılar Az sonra Fatih Portakal'a ana haberde en son ne zaman sinemaya
+gittiniz ha Siz evde mi izliyorsunuz E bu Kasımda bir değişiklik yapın sinemaya gidin Dünya sinema
+gününe özel 1130 Kasım tarihleri arasında paribu cv'lerde 400l değerinde cgv para paribu
+kullanıcılarına hediye İyi akşamlar Ben Fatih Portakal Türkiye'nin en farklı ana haber bültenine Hoş
+geldiniz sevgili izleyenler tarih 22 Kasım 2024 günler Cuma bir haftayı daha neredeyse bitiriyoruz
+artık cumadayız son iş gününün akşamında ana haberi yapıyoruz sizlerle yoğun bir gündemle
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 142
+**Retention**: 51.64%
+
+Peki, günün ekonomik verilerine bakalım. Türkiye'nin 2024 yılına dair ekonomik beklentileri üzerinde duruluyor. Uzmanlar, mevcut ekonomik verilerin ve istatistiklerin, ülkenin büyüme potansiyelini etkileyebileceğini belirtiyor. Özellikle enflasyon oranları ve işsizlik rakamları, hükümetin ekonomik politikalarını şekillendirmede önemli bir rol oynuyor.
+
+Son dönemde döviz kurlarındaki dalgalanmalar, finansal piyasalarda belirsizlik yaratıyor. Yatırımcılar, bu dalgalanmaların etkilerini dikkatle izliyor. Ayrıca, Türkiye'nin dış ticaret verileri, ithalat ve ihracat dengesi açısından kritik bir öneme sahip. Uzmanlar, bu verilerin, ülkenin ekonomik sağlığı hakkında önemli ipuçları sunduğunu ifade ediyor.
+
+Bankacılık sektörü de, kredi politikaları ve faiz oranları ile ilgili gelişmelerle gündemde. Merkez Bankası'nın alacağı kararlar, piyasalarda büyük yankı uyandırıyor. Ekonomik analizler, bu tür politikaların, genel ekonomik istikrar üzerindeki etkilerini değerlendiriyor.
+
+Sonuç olarak, Türkiye'nin ekonomik durumu, hem iç hem de dış faktörlerden etkileniyor ve bu durum, yatırım kararlarını doğrudan etkiliyor. Ekonomik veriler ve hükümet politikaları, iş dünyası için belirleyici unsurlar arasında yer alıyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 111
+**Retention**: 50.68%
+
+Bitcoin 4,000 dolar seviyesindeydi Ocak ayında; bir Bitcoin alan yatırımcı %1220 kar etti. Başkanlık seçimlerinin yapıldığı 5 Kasım'dan bu yana sadece son 17 günde bile %40 kazandırdı. Ekonomik veriler ve piyasa hareketleri, yatırımcıların dikkatini çekiyor. Şimdi kimi "Ah vahlar içinde keşke alsaydım" diyor, kimi de sessizce bıyık altından gülüyor. Ancak, bu kadar artacağını tahmin etmeyenler de var. 
+
+Ekonomik analizler, yatırımcıların gelecekteki fiyat hareketlerini tahmin etmelerine yardımcı oluyor. Özellikle Elon Musk'ın etkisiyle elektrikli araç sektöründe yaşanan gelişmeler, yatırımcıların ilgisini artırıyor. Ekonomideki dalgalanmalar, gençlerin ve kolay yoldan para kazanma arayışında olanların dikkatini çekiyor. 
+
+Hilal Hanım'ın mesajı, Erdoğan ekonomisti sayesinde tüm ülkenin ekonomist olduğunu belirtiyor. Bu tür yorumlar, ekonomik durumun toplum üzerindeki etkisini vurguluyor.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 95
+**Retention**: 100.00%
+
+000 T yapsa ne olacak
+zam üstüne zam diyen teyze işi çözmüş Gerçekten hepimiz Ekonomist olduk reklam kampanyalarının Megas
+Koç Aksa başka altın ve pırlantalarda geçerli Mega indirimler Kasım ayına özel sadece koçak'ta Koçak
+yer yok mu hiç mi yok etsen erken rezervasyon yaptırmış olsaydınız Melis Hanım gibi yeriniz hazır
+olurdu hem de daha az öderdim aynı metrodayım aynı otelde değiliz Anlaşılan sen de gel TS'ye erken
+rezervasyon fırsatlarını kaçırma kendine bir T yeni bir adım kendine Yaklaş daha daha da yakın Des
+kendini yaşa kendini yaşa efsane Desa indirimleri Desa mağazaları ve desa com
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 87
+**Retention**: 55.41%
+
+DenizBank'ın özel bankacılık anlayışı, yatırım fırsatlarını herkesten önce öğrenmenizi sağlıyor. İleriyi görenlerin dediği gibi, DenizBank özel bankacılık hayal ettiğiniz gibi. Bu bağlamda, profesyonellerin önerileriyle yatırım okyanusunu keşfetmek mümkün. Ekonomik veriler ve istatistikler, doğru kararlar vermek için kritik öneme sahip. Özellikle finansal piyasalardaki gelişmeler, yatırımcıların stratejilerini belirlemesinde etkili oluyor. 
+
+Ayrıca, hükümetin ekonomik politikaları ve bunların piyasalara etkisi, iş dünyasında önemli bir tartışma konusu. Fiyatlar, enflasyon ve maliyetler gibi ekonomik göstergeler, şirketlerin karlılıklarını doğrudan etkiliyor. Bu nedenle, ekonomik analizler ve uzman görüşleri, iş dünyasında alınacak kararlar için rehberlik sağlıyor.
+
+================================================================================
+

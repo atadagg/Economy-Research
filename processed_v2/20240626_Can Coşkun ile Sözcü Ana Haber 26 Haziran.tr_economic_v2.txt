@@ -1,0 +1,41 @@
+# Economic Content from: 20240626_Can Coşkun ile Sözcü Ana Haber 26 Haziran.tr.txt
+# Processed: 2025-07-22T17:57:10.870108
+# Original: 6844 words → Filtered: 262 words (3.83% retention)
+# Economic segments: 3
+
+## Economic Segment 1
+
+**Method**: pattern_validated
+**Confidence**: 0.75
+**Word Count**: 58
+**Retention**: 100.00%
+
+anketlerde Gelsin bakalım ilki x hesabından sorduk bu gidişle hangi vergi yolda dedik Çünkü her şeye
+vergi gelecek biliyorsunuz öyle anladık biz anormal normal tabelası ile birlikte sorduk a nefes
+vergisi artık aldığımız nefese de vergi gelecek B attığımız adım kadar vergi vereceğiz C her
+konuştuğumuz kelimeye bir vergi Biz habercilerin işi epey zorlaşacak bu nükteden cevap lardan
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 124
+**Retention**: 68.89%
+
+Bu yıl sonunda ara zamsız senaryoda bir asgari ücretlinin cebine girecek net para 20,424 lira olacak. Yani geçen yılla bu yılın tamamı kıyaslandığında asgari ücretlinin cebine giren paradaki artış oranı %70. Bu hesaba göre %10000 zam için bile asgari ücretin aylık en az 20,000 liraya çıkması gerekiyor. Kiralar olmuş 15,000 lira, çocuk var, ev masrafı çok yüksek. Bakan Işık'a göre ise göstergeler olumlu ancak halkın göstergesi bakanınkinden farklı. Ara zam olmasa da kiradan, yeme içmeye her şeye zam yağdı. Asgari ücretle yılın daha yarısı olmadan açlık sınırının altına düştü. İş yerinde 12 kişi çalışıyor ve asgari ücrete zam gelmeli. Geçim çok zor çünkü diğer hiçbir toptancı kiralar durmuyor, her şey zam geliyor. En aşağı bir 30,000 lira olması lazım çünkü her şey çok pahalı.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 80
+**Retention**: 59.70%
+
+500 O da kur sabit kalırsa sadece müze değil tabii içinde yeme içme dolaşma hepsini katıyorum 5000'i bulur diye düşünüyorum. Ayasofya'nın müze bölümünü gezecek 4 kişilik bir ailenin yemekle birlikte yaklaşık 5,000 lirayı gözden çıkarması gerekiyor. Topkapı Müzesinde gezmek isterseniz biletler için yetişkin iki çocuk 650 lira ödüyor. Yerli turistler müze fiyatlarını çok bulurken bakanlık yeni bir uygulama başlatıyor. Topkapı Müzesi haftada bir gece ziyaretçilere açık olacak. Bu saatlerde ziyaretin ücreti yerli turiste 1000, yabancı turiste 5000 lira olarak belirlenmiş.
+
+================================================================================
+

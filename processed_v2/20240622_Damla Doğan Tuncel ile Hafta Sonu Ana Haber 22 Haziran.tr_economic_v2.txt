@@ -1,0 +1,81 @@
+# Economic Content from: 20240622_Damla Doğan Tuncel ile Hafta Sonu Ana Haber 22 Haziran.tr.txt
+# Processed: 2025-07-22T17:55:17.091052
+# Original: 5595 words → Filtered: 437 words (7.81% retention)
+# Economic segments: 6
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 70
+**Retention**: 53.03%
+
+Gelir İdaresi Başkanlığının hükümete sunduğu öneri hayata geçerse, her ay bankaya yatırılan kiranın % 120'si devlete gidecek. Bu durum, hem ev sahipleri hem de kiracılar arasında tepkilere yol açtı. Ekonomik koşulların zorlaştığı bu dönemde, emeklilerin de kira ödemeleriyle ilgili sıkıntılar yaşadığı görülüyor. Örneğin, emekli bir vatandaş 12.000 TL kira ödediğini ve bu miktarın emekli maaşıyla karşılanmasının zor olduğunu belirtiyor. 2025'te başlaması beklenen bu düzenleme, kira piyasasında önemli değişikliklere yol açabilir.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 69
+**Retention**: 56.10%
+
+Yıllar içinde o 3.000 liranın alım gücü nasıl kayba uğradı. Emeklilerin Bayram ikramiyesinin reel alım gücü enflasyon karşısında ciddi oranda eridi. Eskiden emeklilere ilaç gibi gelen bayram ikramiyeleri son 6 yılda %180 eridi. Önceden bir ikramiye ile kurbanlık alınabiliyorken, şu anda 45 kilo et anca alınıyor. Hayat çok pahalı, enflasyon almış başına gidiyor; markete girdiğinde istediklerini alamıyorlar. Ay sonunu getiremeyen, torununa Bayram harçlığı dahi veremeyen emekliler gerçekten mağdur oldu.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 55
+**Retention**: 42.31%
+
+Türkiye Emekliler Derneği'nin hesaplamasına göre bayram ikramiyesinin 6 yıl içerisindeki reel alım gücü kaybı yaklaşık 4 gram altın değerinde. Eğer ikramiyeler alım gücünü korusaydı, bu bayram her emekli 12.30 lira ikramiye alacaktı. Ancak şu anda aldığım maaş 19.000 lira, bu da gelirimin giderime yetmediği anlamına geliyor. Bu durumda bütçe açık veriyor ve borçlanmak zorunda kalıyorum.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 103
+**Retention**: 47.47%
+
+Damla Hanım her ay emekli maaşımı alıp borçlarımı bitiremeyince ilaç içiyorum ama yine de normal. Emeklinin ve emekçinin sefalete terk edildiği adaletsiz bir düzende normalleşiyor. Gelir adaletsizliğinin arttığı ülkede, Bayram tatilini fırsat bilip güneşin ve denizin tadını çıkaran şanslı azınlık var. Ancak bu sene yazlık bölgelerdeki fiyatlar önceki yıllara göre daha da arttı. Tatil dönüşünde yola düşenlerin dilindeki tek şey fiyatlar oldu. Malum konu fiyatlar, her şey uçmuş durumda. Tatilcileri en çok yansıtan durum, tatil bölgelerindeki fiyatların artışı oldu. 9 günlük tatilde, Ege ve Akdeniz'de İzmir Çeşme'ye 150 binden fazla araç giriş yaptı. Yoğunluk, esnafın ve turizmcilerin yüzünü güldürdü ama tatilciler fiyatlardan şikayetçi.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 44
+**Retention**: 30.34%
+
+Bu seneden itibaren yurt dışı programı yapacağız çünkü oraya gitmek daha mantıklı gözüküyor fiyatlardan müzari. Biz ne yazık ki artık başka arayışlara gidiyoruz, ülkemiz dışında başka yerlerde tatil yapma imkanlarını sorguluyoruz. Yurt dışına çıkış harcının da 3,000 liraya kadar %100'lük bir zamla arttırılması gündemde.
+
+================================================================================
+
+## Economic Segment 6
+
+**Method**: simple_final
+**Confidence**: 0.50
+**Word Count**: 96
+**Retention**: 32.99%
+
+The filtered text focusing on economics, finance, and business is as follows:
+
+---
+
+İngiliz Rock Efsanesi Queen'in müzik kataloğu rekor fiyatı alıcı buldu; 1 milyar sterline grubun şarkılarının telif hakları satın alındı. Sony, grubun tüm eserlerinin yer aldığı kataloğu 1 milyar sterline satın aldı. Anlaşmanın kapsamına girmeyen tek gelir canlı performanslar olacak. 
+
+Cihat Bey diyor ki bir emekli olarak yoksulluk, sefalet, açlıkla ölüme zorlanıyorum. Nil Hanım da 375 4la seyyanen ek ödeme alması engellenen memur emeklisi yok sayıldı. Siyasiler anayasal haklarımızı görmezden geliniyor diye yazmış. 
+
+---
+
+This version retains the economic context while removing unrelated content.
+
+================================================================================
+

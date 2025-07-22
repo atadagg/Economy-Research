@@ -1,0 +1,143 @@
+{
+  "file_path": "news/SozcuTV/20240620_Senem Toluay Ilgaz ile Sözcü Ana Haber 20 Haziran.tr.txt",
+  "processing_timestamp": "2025-07-22T17:38:21.645988",
+  "original_word_count": 4882,
+  "filtered_word_count": 933,
+  "retention_ratio": 0.1911102007374027,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "Ilgaz bugün tabela tükendim...",
+      "description": "\"Ilgaz bugün tabela tükendim...\" - The program begins with the presenter introducing the topic and setting the stage for the news content, mentioning the significance of the day and referencing a headline from Bloomberg.",
+      "end_pos": 101
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 101,
+      "start_sentence": "Erdoğan yabancı yatırımcıları kazandı ama bedelini Türkler ödedi...",
+      "description": "\"Erdoğan yabancı yatırımcıları kazandı ama bedelini Türkler ödedi...\" - This section contains the main news content, discussing various political and economic issues in Turkey, including the challenges faced by the population and the implications of recent political developments.",
+      "end_pos": 1073
+    },
+    {
+      "type": "5. **OUTRO**",
+      "start_pos": 1073,
+      "start_sentence": "Sizin sesiniz olalım...",
+      "description": "\"Sizin sesiniz olalım...\" - The presenter concludes the segment, inviting viewers to engage and promising to share comments related to the earlier discussions, signaling the end of the news segment.",
+      "end_pos": 1268
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 1268,
+      "start_sentence": "Ama Tüm bunları öncesinde orman yangınları...",
+      "description": "\"Ama Tüm bunları öncesinde orman yangınları...\" - A brief transition occurs as the presenter shifts from discussing political and economic news to reporting on forest fires, indicating a change in the news topic.",
+      "end_pos": 1464
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1464,
+      "start_sentence": "Çanakkale'de 24 saat süren Eceabat yangınının ardından...",
+      "description": "\"Çanakkale'de 24 saat süren Eceabat yangınının ardından...\" - This section continues with the news content, specifically focusing on the forest fires in Çanakkale, detailing the incidents and the response from emergency services.",
+      "end_pos": 34477
+    }
+  ],
+  "news_segments_count": 17,
+  "economic_segments_count": 10,
+  "economic_segments": [
+    {
+      "segment_id": "101_0",
+      "method": "pattern_validated",
+      "confidence": 0.75,
+      "original_length": 70,
+      "filtered_length": 49,
+      "retention_ratio": 0.7,
+      "section_description": "\"Erdoğan yabancı yatırımcıları kazandı ama bedelini Türkler ödedi...\" - This section contains the main news content, discussing various political and economic issues in Turkey, including the challenges faced by the population and the implications of recent political developments."
+    },
+    {
+      "segment_id": "101_1",
+      "method": "pattern_validated",
+      "confidence": 0.75,
+      "original_length": 65,
+      "filtered_length": 45,
+      "retention_ratio": 0.6923076923076923,
+      "section_description": "\"Erdoğan yabancı yatırımcıları kazandı ama bedelini Türkler ödedi...\" - This section contains the main news content, discussing various political and economic issues in Turkey, including the challenges faced by the population and the implications of recent political developments."
+    },
+    {
+      "segment_id": "1464_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 56,
+      "filtered_length": 80,
+      "retention_ratio": 1.4285714285714286,
+      "section_description": "\"Çanakkale'de 24 saat süren Eceabat yangınının ardından...\" - This section continues with the news content, specifically focusing on the forest fires in Çanakkale, detailing the incidents and the response from emergency services."
+    },
+    {
+      "segment_id": "1464_6",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 75,
+      "filtered_length": 54,
+      "retention_ratio": 0.72,
+      "section_description": "\"Çanakkale'de 24 saat süren Eceabat yangınının ardından...\" - This section continues with the news content, specifically focusing on the forest fires in Çanakkale, detailing the incidents and the response from emergency services."
+    },
+    {
+      "segment_id": "1464_7",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 190,
+      "filtered_length": 89,
+      "retention_ratio": 0.46842105263157896,
+      "section_description": "\"Çanakkale'de 24 saat süren Eceabat yangınının ardından...\" - This section continues with the news content, specifically focusing on the forest fires in Çanakkale, detailing the incidents and the response from emergency services."
+    },
+    {
+      "segment_id": "1464_8",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 163,
+      "filtered_length": 89,
+      "retention_ratio": 0.5460122699386503,
+      "section_description": "\"Çanakkale'de 24 saat süren Eceabat yangınının ardından...\" - This section continues with the news content, specifically focusing on the forest fires in Çanakkale, detailing the incidents and the response from emergency services."
+    },
+    {
+      "segment_id": "1464_10",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 251,
+      "filtered_length": 93,
+      "retention_ratio": 0.3705179282868526,
+      "section_description": "\"Çanakkale'de 24 saat süren Eceabat yangınının ardından...\" - This section continues with the news content, specifically focusing on the forest fires in Çanakkale, detailing the incidents and the response from emergency services."
+    },
+    {
+      "segment_id": "1464_11",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 186,
+      "filtered_length": 97,
+      "retention_ratio": 0.521505376344086,
+      "section_description": "\"Çanakkale'de 24 saat süren Eceabat yangınının ardından...\" - This section continues with the news content, specifically focusing on the forest fires in Çanakkale, detailing the incidents and the response from emergency services."
+    },
+    {
+      "segment_id": "1464_12",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 113,
+      "filtered_length": 61,
+      "retention_ratio": 0.5398230088495575,
+      "section_description": "\"Çanakkale'de 24 saat süren Eceabat yangınının ardından...\" - This section continues with the news content, specifically focusing on the forest fires in Çanakkale, detailing the incidents and the response from emergency services."
+    },
+    {
+      "segment_id": "1464_13",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 276,
+      "filtered_length": 276,
+      "retention_ratio": 1.0,
+      "section_description": "\"Çanakkale'de 24 saat süren Eceabat yangınının ardından...\" - This section continues with the news content, specifically focusing on the forest fires in Çanakkale, detailing the incidents and the response from emergency services."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

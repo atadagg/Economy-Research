@@ -1,0 +1,40 @@
+# Economic Content from: 20240817_Serap Belovacıklı ile Hafta Sonu Ana Haber 17 Ağustos.tr.txt
+# Processed: 2025-07-22T17:36:02.559420
+# Original: 5766 words → Filtered: 309 words (5.36% retention)
+# Economic segments: 3
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 114
+**Retention**: 41.01%
+
+Asgari ücret 17,000 liraya yaklaşırken, yoksulluk sınırı 7,000 liraya dayandı. Emekli ve emekçiler, Ocak ayında nasıl bir zam alacaklarını merak ediyor. Yapılacak zamların %120'nin altında kalacağı iddia edildi. Bu konuda atılacak adımlarda, enflasyon tahminlerinden dolayı gerekli önlemler alınacağı belirtiliyor. Enflasyon hedefi için ne gerekiyorsa yapılmaya hazır olunduğu ifade ediliyor. 
+
+Merkez Bankası'nın enflasyon tahmini dikkat çekici bir şekilde gündeme geldi. Ekonomi yazarı Erdal Sağlam, Merkez Bankası Başkanı Fatih Karahan'ın yurt dışında yatırımcılara yaptığı sunumda, hesaplarının %15520 zamma göre yapıldığını iddia etti. Karahan, yüksek enflasyonun nedeni olarak maaş zamlarını gösterdi. Merkez Bankası'nın 2025 yılı enflasyon tahmini %14,4 üst sınır ve %21 alt sınır olarak belirlendi. Bu durum, emekçi ve emekliye düşük oranda zam yapılabileceği anlamına geliyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 101
+**Retention**: 30.89%
+
+Ekonomistler diyorlar ki enflasyon böyle kontrol altına alınmaz. Ne yapacaksınız? Üreticiyi destekleyeceğiz ama iktidar maalesef çözümü biliyoruz diyor ama üretici hiçbir şekilde desteklenmiyor. Maliyet aldı başını gidiyor; tarlada aktıkları ürünlerin hiçbir karşılığı yok artık isyan etmiş durumdalar. Türkiye'nin dört bir yanına yayılan çiftçilerin protestoları, ürünlerine verilen maliyet bile karşılamayan fiyatlara karşı gerçekleşiyor. Traktörlerle yolları kapatan üreticiler, domates, fıstık ve karpuz fiyatlarıyla güldürmedi bu sene. Çiftçi, hasat ettiklerinin karşılığını alamadı ve birçok kez ses yükselttiler. Çiftçinin tek isteği makul fiyatlarla alım. Ülkenin ekonomik durumu, eğitim sisteminin yok edilmesiyle de bağlantılı olarak zora girmiş durumda. Özellikle büyük şehirlere baktığımızda kira fiyatları artmış durumda.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 94
+**Retention**: 59.49%
+
+Çalışıp okumak zorunda olan birçok öğrenci, aylık ortalama 15 bin lira harcıyor. Enflasyonun etkisiyle, üniversite sınavına girenler büyükşehirleri ekonomik olarak tercih etmekte zorlandı; fahiş kiralar en büyük neden. Öğrenci semtlerinde ortalama ev kirası 20 bin lira buluyor. Okuyan öğrencilerin en büyük derdi, ev sahibi tarafından belirlenen yüksek kiralar. Bizim ev sahibi 30 bin lira istedi, yani 3 katı zam oldu bir anda. Bu durum, eğitim devam edemeyen öğrenciler için ciddi bir sorun oluşturuyor. Üniversite yerleştirmelerinin açıklanmasıyla yeni bir barınma krizi kapıda; arz talep dengesizliği kiraları artırıyor. Öğrenciler, sadece derslerinde değil, en çok kirada zorlanıyor.
+
+================================================================================
+

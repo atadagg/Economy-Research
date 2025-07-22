@@ -1,0 +1,108 @@
+# Economic Content from: 20240910_Fatih Portakal ile Sözcü Ana Haber 10 Eylül.tr.txt
+# Processed: 2025-07-22T17:43:32.478578
+# Original: 7198 words → Filtered: 839 words (11.66% retention)
+# Economic segments: 6
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 85
+**Retention**: 98.84%
+
+YouTube'da paylaşabilirsiniz düşüncelerinizi yazabilirsiniz dedik günün sözü gelsin günün sözü Ferit etkü yakın zamanda kaybettik kendisini önemli bir öykücü ve romancı ydı kendisi bakın cahillikle ilgili Okumakla alakası yok bunun insanın kendini cahil okuyup okumamak la alakası yok insanın kendini cahil bırakmasıyla veya Yaradanın bu aklı beyni kullanmaması ile alakalı olan bir şey ne diyor Ferit etkü Allah rahmet eylesin diyor ki cahilde eksik olan akıl değildir diyor Onda da akıl var O kurnazdır diyor eksik olan ahlaktır ahlak kalmayınca bu akşamki tabelam önce gelsin
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 355
+**Retention**: 100.00%
+
+düşürme olmayacak dikkat ediniz gelelim x'te soruya x'te soru Evet Neyle alakalı itibar ve
+kesimlerle işte soru şu ülkede en çok itibarlı olanlar Sizce kimler ahlak kalmayınca da tabela zaten
+Hırsızlar dürüst olanlar dolandırıcılar din bazlar ülkede en çok itibarlı olanlar Sizce kimler en az
+itibarlı olan çıkacak ama o şıkın hangisi olduğunu herhalde biliyorsunuz gelelim neyle başlayacak
+derseniz birazdan ilk haberi getireceğim ama haberin içerisinde Can Atalay var İmamoğlu haberi var
+Erdoğan CHP'yi eleştirdi bu haber var bir haberin sansür yolculuğu Türkiye'de Medya nasıl işliyor
+onu da anlatacağım sizlere Ama önce Narin diyeceğim sizlere Çünkü bu cinayet bu katliam Aslında
+unutturulmaya çalışılacak gördüğümüzde o bakın 8 yaşındaki bir çocuk katledildi bu çocuk bir şey
+bildiği için değil Çünkü 8 yaş Aki bir çocuğun beyni bir şey bilmek veya bir şeyleri Eee ayırt
+edebilmek için veya yorum yapabilmek için tam gelişmiş değildir ama mutlaka bu çocuk öldürülmeden
+önce bir şey gördü ne gördüğünü soruyoruz Peki ne olacak derseniz bu cinayetin sonrasında işi
+siyasete Kadar Siyaset mekanizması içinde siyasetçiler de işin içine dahil olduğu için işte Galip
+ensaroğlu destek veriyor bizim arkadaşımızdı dostumuzdur gibilerinden üstünü çok büyük ihtimal
+kapatacaklar Narin güran 8 yaşında hayattan koparıldı Ailesi soruşturmanın ana aktörlerini
+oluşturuyor şüpheli Nevzat Bahtiyar ifadesinde narinin amcasını işaret etti cansız bedenini bana
+Salim verdi Dedi yatağına gömen ve soruşturmanın önemli kilit isimlerinden biri olan itirafçı Nevzat
+Bahtiyar bugün jandarmadaki sorgusunun ardından sıkı güvenlik önlemleri altında Diyarbakır adliyesi
+getirilerek burada soruşturmayı yürüten savcılara uzun süre ifade verdi mahkeme amca Salim güran'ın
+bir kez daha ifadesini aldı amca bazı sorulara yanıt vermedi nar'ın babası olma olasılığınız var mı
+Yoktur Yok öyle bir şey ganı siz mi öldürdünüz Yok öyle bir şey ben öldürmedim sizin kullandığınız
+araçta neden diğer yeğenlerinizdir im ben gözünün içindeki morluğu sordum amca gözüme Mısır geldi
+kendimi ısırdım diye yanıt verdi Dedi cennete Uçan narimi son yolculuğuna uğurlamak üzere buradayız
+gözaltına alınanlar Şimdilik öldüren yardım eden ve delilleri saklayan olarak ü ayrı kategoriye
+ayrılmış durumda yanıtlanmasının başka biri olup olmadığına da odaklandı soruşturmayı etkileyen en
+önemli Kanıt da dosyaya dahil edildi narini dereye gömdüğünü itiraf eden Nevzat Bahtiyar'ın kırmızı
+renkli aracının narinin kaybolduğu gün saat 15
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 76
+**Retention**: 58.46%
+
+Öğrencilerin barınma sorunları, ekonomik koşulların etkisiyle daha da derinleşiyor. Yurtlarda tadilat sürecinin uzun sürmesi, öğrencilerin alternatif barınma seçeneklerine yönelmesine neden oluyor. Tarikat yurtlarında sunulan yıllık 15,000 TL gibi cazip teklifler, mevcut ekonomik durumun bir yansıması olarak değerlendiriliyor. 
+
+Ayrıca, konut piyasasında yaşanan sıkıntılar, kiraların artmasına yol açıyor. Öğrencilerin karşılaştığı yüksek kiralar, talebi karşılayacak uygun fiyatlı evlerin bulunmamasıyla birleşince, barınma sorununu daha da karmaşık hale getiriyor. Bu durum, eğitim hakkının yanı sıra ekonomik eşitsizlikleri de gözler önüne seriyor.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 109
+**Retention**: 33.44%
+
+Kıyma esnafı, kıyma fiyatlarının 650 lira olduğunu belirtti. Lahmacunun fiyatı ise ortalama 100 lira olarak ifade ediliyor. Turistik ilçelerde lahmacun fiyatları 1000 liraya kadar çıkabiliyor. Bu durum, esnafın malzemeden kısmak zorunda kalmasına neden oluyor; bazıları kıymasız lahmacun satmayı tercih ediyor. Kıyma almanın zorlaştığını ve evine et sokamadığını söyleyen esnaf, fiyatların artışından şikayetçi. 
+
+Ayvalık Belediyesi, öğrencilere yönelik bir lokanta açarak 30 lira karşılığında üç çeşit yemek ve meyve sunacak. Bu, yerel ekonomiye katkı sağlayacak bir gelişme olarak değerlendirilebilir. 
+
+Apple'ın yeni iPhone 16 modelinin Türkiye fiyatı 906 dolar olarak belirlendi. Türkiye, dünyanın en pahalı iPhone'un satıldığı ülke olmaya devam ediyor. Bu fiyat artışları, tüketicilerin alım gücünü etkileyen önemli bir ekonomik faktör.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 74
+**Retention**: 54.81%
+
+Türkiye'de iPhone 16 Pro Max'ın fiyatı yaklaşık 100.000 lira, bu da yurt dışındaki fiyatının neredeyse iki katı. Bunun sebebi, üstüne eklenen vergiler ve kayıt parası. Türkiye'de yeni bir iPhone almak isteyenler, yaklaşık 7 asgari ücret ödemek zorunda. Bazı vatandaşlar, telefon fiyatlarının ev kiralarından bile pahalı olduğunu belirtiyor. Örneğin, emekli maaşları 12.000 lira iken, ev kiraları 30.000 liraya kadar çıkabiliyor. Bu durum, halkın alım gücünü ciddi şekilde etkiliyor ve birçok kişi temel ihtiyaçlarını karşılamakta zorlanıyor.
+
+================================================================================
+
+## Economic Segment 6
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 140
+**Retention**: 40.46%
+
+Üçtür beştir ne atıyorsun cüzdan taşımayın Bonus flashla ödeyin Bonus flashla temassız alışverişlerinizde toplam 300 liraya varan Bonus kazanın. Üstelik başka banka kartlarıyla kusursuz ödeme deneyimi Bonus flashla 300 alt kozmetik ürünleri, 400 alt giyim ürünleri, 600 TL6 ev ürünleri. Mega Eylül'de seni bekliyor. Üstelik 10-15 Eylül'de her gün kazandıran çarkı çevirenler sürpriz indirimler kazanıyor. Akıllıca alışveriş için sen de hemen Trend yola gel. 
+
+E-ticaret nedir? Bence e-ticaret siteni tık diye açmaktır; tek ekrandan tüm dünyaya satış yapas, satışlarınız katlanarak artmasıdır. E-ticarete 724 yanında ikas başla. 
+
+Hülya bir oda için gecelik 3700 TL ödüyor, fena sayılmaz. Euro aynı oda için 2750 ödüyor. Nasıl mı? Trivago dünya çapındaki yüzlerce rezervasyon sitesinden fiyatları karşılaştırır. Bu sayede oteliniz için daha iyi fırsatı bulursunuz. 
+
+Eylül indirimlerini kaçırma; ev tekinden mutfak ürünlerine, mobilyadan aydınlatmaya tüm indirimlere indirimi yakala. Üstelik şimdi al, ay sonra taksitle öde.
+
+================================================================================
+

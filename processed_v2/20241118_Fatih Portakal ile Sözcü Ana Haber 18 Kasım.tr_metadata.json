@@ -1,0 +1,118 @@
+{
+  "file_path": "news/SozcuTV/20241118_Fatih Portakal ile Sözcü Ana Haber 18 Kasım.tr.txt",
+  "processing_timestamp": "2025-07-22T17:34:51.696330",
+  "original_word_count": 6927,
+  "filtered_word_count": 575,
+  "retention_ratio": 0.08300851739569799,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 100,
+      "start_sentence": "İyi akşamlar Ben Fatih Portakal Türkiye'nin en farklı ana haber...",
+      "description": "\"İyi akşamlar Ben Fatih Portakal Türkiye'nin en farklı ana haber...\" - The presenter introduces himself and welcomes viewers to the news program, setting the tone for the broadcast.",
+      "end_pos": 689
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 689,
+      "start_sentence": "Peki tabela ne diyeceksiniz Yani herkesin zihniyeti tabii ki farklı...",
+      "description": "\"Peki tabela ne diyeceksiniz Yani herkesin zihniyeti tabii ki farklı...\" - The segment transitions into discussing various news topics, including tweets from public figures and educational policies, indicating the start of the actual news content.",
+      "end_pos": 1566
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 1566,
+      "start_sentence": "Tüm zorluklara katlan tabii ki ama bence güzel bir şeydir yani bilmediğin denizlere açılmak...",
+      "description": "\"Tüm zorluklara katlan tabii ki ama bence güzel bir şeydir yani bilmediğin denizlere açılmak...\" - This section serves as a brief transition where the presenter reflects on a quote and its implications, leading into the next news story.",
+      "end_pos": 1855
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1855,
+      "start_sentence": "geldik YouTube kapak YouTube kapakta önemli bir Ekonomist Türkiye'de dedi ki e...",
+      "description": "\"geldik YouTube kapak YouTube kapakta önemli bir Ekonomist Türkiye'de dedi ki e...\" - The presenter continues with another news story, discussing statements made by an economist, indicating a continuation of the news content.",
+      "end_pos": 48006
+    }
+  ],
+  "news_segments_count": 21,
+  "economic_segments_count": 8,
+  "economic_segments": [
+    {
+      "segment_id": "100_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 92,
+      "filtered_length": 92,
+      "retention_ratio": 1.0,
+      "section_description": "\"İyi akşamlar Ben Fatih Portakal Türkiye'nin en farklı ana haber...\" - The presenter introduces himself and welcomes viewers to the news program, setting the tone for the broadcast."
+    },
+    {
+      "segment_id": "1855_0",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 93,
+      "filtered_length": 48,
+      "retention_ratio": 0.5161290322580645,
+      "section_description": "\"geldik YouTube kapak YouTube kapakta önemli bir Ekonomist Türkiye'de dedi ki e...\" - The presenter continues with another news story, discussing statements made by an economist, indicating a continuation of the news content."
+    },
+    {
+      "segment_id": "1855_7",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 50,
+      "filtered_length": 50,
+      "retention_ratio": 1.0,
+      "section_description": "\"geldik YouTube kapak YouTube kapakta önemli bir Ekonomist Türkiye'de dedi ki e...\" - The presenter continues with another news story, discussing statements made by an economist, indicating a continuation of the news content."
+    },
+    {
+      "segment_id": "1855_9",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 70,
+      "filtered_length": 64,
+      "retention_ratio": 0.9142857142857143,
+      "section_description": "\"geldik YouTube kapak YouTube kapakta önemli bir Ekonomist Türkiye'de dedi ki e...\" - The presenter continues with another news story, discussing statements made by an economist, indicating a continuation of the news content."
+    },
+    {
+      "segment_id": "1855_12",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 143,
+      "filtered_length": 117,
+      "retention_ratio": 0.8181818181818182,
+      "section_description": "\"geldik YouTube kapak YouTube kapakta önemli bir Ekonomist Türkiye'de dedi ki e...\" - The presenter continues with another news story, discussing statements made by an economist, indicating a continuation of the news content."
+    },
+    {
+      "segment_id": "1855_14",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 180,
+      "filtered_length": 104,
+      "retention_ratio": 0.5777777777777777,
+      "section_description": "\"geldik YouTube kapak YouTube kapakta önemli bir Ekonomist Türkiye'de dedi ki e...\" - The presenter continues with another news story, discussing statements made by an economist, indicating a continuation of the news content."
+    },
+    {
+      "segment_id": "1855_15",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 54,
+      "filtered_length": 36,
+      "retention_ratio": 0.6666666666666666,
+      "section_description": "\"geldik YouTube kapak YouTube kapakta önemli bir Ekonomist Türkiye'de dedi ki e...\" - The presenter continues with another news story, discussing statements made by an economist, indicating a continuation of the news content."
+    },
+    {
+      "segment_id": "1855_17",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 183,
+      "filtered_length": 64,
+      "retention_ratio": 0.34972677595628415,
+      "section_description": "\"geldik YouTube kapak YouTube kapakta önemli bir Ekonomist Türkiye'de dedi ki e...\" - The presenter continues with another news story, discussing statements made by an economist, indicating a continuation of the news content."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

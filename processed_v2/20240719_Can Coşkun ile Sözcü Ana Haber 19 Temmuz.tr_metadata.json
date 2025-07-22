@@ -1,0 +1,80 @@
+{
+  "file_path": "news/SozcuTV/20240719_Can Coşkun ile Sözcü Ana Haber 19 Temmuz.tr.txt",
+  "processing_timestamp": "2025-07-22T17:46:02.644496",
+  "original_word_count": 6669,
+  "filtered_word_count": 157,
+  "retention_ratio": 0.023541760383865646,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "ilk kez alınan demeçler yine sokağa yani sizlere gerçekten konuşması gerekenlere uzatılan...",
+      "description": "\"ilk kez alınan demeçler yine sokağa yani sizlere gerçekten konuşması gerekenlere uzatılan...\" - This section serves as the opening of the broadcast, introducing the topic and setting the stage for the discussion.",
+      "end_pos": 295
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 295,
+      "start_sentence": "Peki bugün karşımızda bir kriz var Bu kriz belki hala kimi firmalar tarafından sürüyor...",
+      "description": "\"Peki bugün karşımızda bir kriz var Bu kriz belki hala kimi firmalar tarafından sürüyor...\" - This section contains the main news content, discussing various crises affecting the economy and society, including technological and global crises.",
+      "end_pos": 978
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 978,
+      "start_sentence": "Şimdi soruyoruz Elbette Bu yazılım hatası gerçekleşti dünya genelinde bu Siber Kaos yaşandı...",
+      "description": "\"Şimdi soruyoruz Elbette Bu yazılım hatası gerçekleşti dünya genelinde bu Siber Kaos yaşandı...\" - This brief transition leads into a new topic or segment related to the previous news content, indicating a shift in focus.",
+      "end_pos": 1366
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1366,
+      "start_sentence": "Sonuçta insan yapım mı deyip geçiyor musunuz Bir de x anketimiz var o da gelsin hızlıca...",
+      "description": "\"Sonuçta insan yapım mı deyip geçiyor musunuz Bir de x anketimiz var o da gelsin hızlıca...\" - This section continues with more news content, specifically discussing surveys and public opinion regarding economic issues and retirement age.",
+      "end_pos": 1850
+    },
+    {
+      "type": "5. **OUTRO**",
+      "start_pos": 1850,
+      "start_sentence": "emekliyi çıldırtacak mı diyorsunuz ve son ş...",
+      "description": "\"emekliyi çıldırtacak mı diyorsunuz ve son ş...\" - This section serves as the closing remarks, wrapping up the discussion and hinting at the conclusion of the program.",
+      "end_pos": 47721
+    }
+  ],
+  "news_segments_count": 8,
+  "economic_segments_count": 3,
+  "economic_segments": [
+    {
+      "segment_id": "295_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 95,
+      "filtered_length": 46,
+      "retention_ratio": 0.4842105263157895,
+      "section_description": "\"Peki bugün karşımızda bir kriz var Bu kriz belki hala kimi firmalar tarafından sürüyor...\" - This section contains the main news content, discussing various crises affecting the economy and society, including technological and global crises."
+    },
+    {
+      "segment_id": "1366_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 74,
+      "filtered_length": 64,
+      "retention_ratio": 0.8648648648648649,
+      "section_description": "\"Sonuçta insan yapım mı deyip geçiyor musunuz Bir de x anketimiz var o da gelsin hızlıca...\" - This section continues with more news content, specifically discussing surveys and public opinion regarding economic issues and retirement age."
+    },
+    {
+      "segment_id": "1850_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 70,
+      "filtered_length": 47,
+      "retention_ratio": 0.6714285714285714,
+      "section_description": "\"emekliyi çıldırtacak mı diyorsunuz ve son ş...\" - This section serves as the closing remarks, wrapping up the discussion and hinting at the conclusion of the program."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

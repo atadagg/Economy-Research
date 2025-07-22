@@ -1,0 +1,33 @@
+# Economic Content from: 20240831_Damla Doğan Tuncel ile Hafta Sonu Ana Haber.tr.txt
+# Processed: 2025-07-22T18:00:50.521420
+# Original: 5674 words → Filtered: 185 words (3.26% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 61
+**Retention**: 59.22%
+
+Cumhurbaşkanı Erdoğan ekonomik zorlukları gelip geçici olarak nitelendirdi ve hepsine bir şekilde çözüm bulunur dedi. Bugün mikrofon uzattığımız yurttaşlar, ekonomik sıkıntıların devam ettiğini ifade ediyor. Devletin ekonomik politikaları ve bu politikaların toplum üzerindeki etkileri üzerine tartışmalar sürüyor. Ekonomik veriler ve istatistikler, bu zorlukların ne kadar süreceği konusunda önemli bir gösterge sunuyor. Uzmanlar, mevcut ekonomik durumun iyileşmesi için atılması gereken adımları değerlendiriyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 124
+**Retention**: 44.93%
+
+Kahramanmaraş'ta karpuz üreticisi ürününü satamadı, bu durum tarım sektöründeki ekonomik sıkıntıları gözler önüne seriyor. Üreticiler, ürünlerini tarlada bırakmak zorunda kalıyor ve bu durum, tarımsal üretimin sürdürülebilirliği açısından endişe verici. 
+
+Cumhurbaşkanı Erdoğan, Zafer Bayramı Resepsiyonu'nda ekonomiye dair değerlendirmelerde bulundu ve ekonomik sıkıntıların geçici olduğunu belirtti. Bu tür açıklamalar, hükümetin ekonomik politikalarının geleceği hakkında ipuçları veriyor. 
+
+Tarım Kredi Kooperatifi marketlerinde fiyatların değişimi de dikkat çekici. Üreticilerin yaşadığı zorluklar, tüketici fiyatlarına yansıyor. Örneğin, Cumhurbaşkanı Erdoğan'ın Ekim 2021'de 100 TL ödediği sepetin bugünkü fiyatı, enflasyon ve maliyet artışları nedeniyle daha yüksek olabilir. Bu durum, enflasyonun ve fiyat artışlarının halk üzerindeki etkisini gösteriyor. 
+
+Ekonomik veriler ve fiyat istikrarı, hükümetin alacağı önlemlerle doğrudan ilişkilidir. Bu bağlamda, hükümetin ekonomik politikaları ve piyasa dinamikleri, üreticilerin ve tüketicilerin karşılaştığı zorlukları etkileyen önemli faktörlerdir.
+
+================================================================================
+

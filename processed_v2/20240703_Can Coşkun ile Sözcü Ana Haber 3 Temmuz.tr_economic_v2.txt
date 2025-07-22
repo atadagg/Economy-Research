@@ -1,0 +1,60 @@
+# Economic Content from: 20240703_Can Coşkun ile Sözcü Ana Haber 3 Temmuz.tr.txt
+# Processed: 2025-07-22T18:07:12.074574
+# Original: 6768 words → Filtered: 391 words (5.78% retention)
+# Economic segments: 5
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 78
+**Retention**: 120.00%
+
+Sıradaki hedefinde de yanında 3 Temmuz Çarşamba Sözcü ana haberle karşınızdayız. Çarşamba gününe taşan gündemler oldu. Bugünkü tabelam aslında çok net; baz etkisi diye anlatılan enflasyon meselesinde bugün yüzleştiğim gerçekler bir kaz etkisine işaret ediyor. Enflasyon verileri, ekonomik göstergeler açısından önemli bir tartışma konusu haline geldi. Bu bağlamda, fiyat artışlarının ve maliyetlerin etkileri üzerinde durmak gerekiyor. Ekonomik veriler, piyasalardaki dalgalanmaları ve yatırım kararlarını doğrudan etkiliyor. Bu nedenle, hükümetin ekonomik politikaları ve enflasyonla mücadele stratejileri büyük bir önem taşıyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 85
+**Retention**: 55.56%
+
+3 73 lir hesabı tutmaya devam. 6 aylık bekleyiş sona erdi. TÜİK, enflasyon verilerini açıkladı; 4 milyona yakın emeklinin maaşı değişmedi. Enflasyon verileri, memur ve emeklilerin maaşlarını etkiledi. Yeni zamla birlikte emekliler maaşlarından memnun mu? Enflasyon, beklentilerin altında olarak %1,64 olarak açıklandı. Böylece 6 aylık enflasyon farkı %24,75, yıllık enflasyon ise %71,67 olarak belirlendi. 9.950 lira olan kök maaş, yapılan hesaplamalarla 11.850 liraya geliyor. Emekli maaşıyla zamlar hakkında ne düşünüyorsun? Yeterli mi? Yeterli değil. 12.500 lira ile nasıl geçinecek? Kök maaşı 8.000 lira olan emekli...
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 41
+**Retention**: 60.29%
+
+Bu da yaklaşık 4 milyon kişinin maaşında değişiklik olmaması demek. Memur ve memur emeklileri % 19,31 enflasyon farkı alacak. En düşük memur emeklisi 14,741 TL alıyor. Bu, 1,474,1 lirayı 1,587 liraya çıkarıyor. En düşük memur maaşı da 32,000 TL seviyelerine ulaşacak.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 106
+**Retention**: 34.19%
+
+Enflasyon verileri birçok kalemde ücret artışına sebep oldu. 65 yaş aylığı 3.926 liradan 4.187 liraya çıkarken, bedelli askerlik ücreti de 18.260,9 liradan 21.787 liraya yükseldi. Evde bakım yardımı da 7.608 liradan 9.077 liraya geldi. Sendikaların gündemi de enflasyon üzerine yoğunlaşmış durumda. Geçtiğimiz yıl 9 liradan karpuz alırken, şu anda kilo fiyatı 18 lira. Şehir içi yolcu taşımaları da 6 liradan 18 liraya yükseldi. Yıllık enflasyon %71 olarak kaydedildi. TÜİK yetkilileri baz etkisi olduğunu belirtse de, bu durumun gerçekliği sorgulanıyor. Önümüzdeki dönemde ekonomik koşulların daha da zorlaşacağı öngörülüyor. Kira zammı ve genel fiyat artışları, İstanbul'daki yaşam maliyetlerini artırıyor. Asgari ücretin yıl sonuna kadar 17.700 liraya ulaşması bekleniyor.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 81
+**Retention**: 47.09%
+
+Temmuz 1 itibarıyla kiralara % 65 zam yapılabileceği açıklandı. TÜİK'e göre, Haziran ayında 12 aylık TÜFE ortalaması % 65,00 olarak belirlendi. Bu durumda, Temmuz'da sözleşmesi yenilenecek olan kiracılara ev sahipleri yasal olarak % 65 zam yapabilecek. İstanbul'da 21 dairenin ortalama kirası 15.000 lira olarak kaydedildi. 15.000 lira ödeyen bir kiracı, bu ay sözleşmesini yenilediğinde en az 24.760 lira kira ödeyecek. Asgari ücret ise 17.700 lira olarak belirlenmiş durumda. Bu yüksek kira artışları, emeklilerin ve düşük gelirli bireylerin yaşam standartlarını olumsuz etkileyebilir.
+
+================================================================================
+

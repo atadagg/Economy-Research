@@ -1,0 +1,110 @@
+# Economic Content from: 20240820_Can Coşkun ile Sözcü Ana Haber.tr.txt
+# Processed: 2025-07-22T17:44:11.686667
+# Original: 7174 words → Filtered: 646 words (9.00% retention)
+# Economic segments: 8
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 52
+**Retention**: 100.00%
+
+olağanüstü toplantılar var dökülen kanlar var Hepsini konuşacağız gerek duyuyorsak kıyaslayacak
+hepsinin üzerine gideceğiz tabelam Bugün çok net Aslında zararına zararına iş yapan esnaf zararına
+yaşayan emekli Asgari ücretli yine hak talepleri bu Tabelada buluşacak ıskaladı mız Gündem olursa
+hatırlatma vesilesiyle de elbette iki de anketimiz var önce YouTube gelsin görmeye başlayalım
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 62
+**Retention**: 106.90%
+
+Son 5 yılda resmi rakamlara göre 2.3 milyon öğrenci okulu bıraktı. Bu durum, eğitim sektöründe ciddi bir sorun olduğunu gösteriyor. Kira desteği şart, yurt kapasitesi artmalı. Eğitimde yaşanan bu kriz, gelecekte iş gücü piyasasında da olumsuz etkilere yol açabilir. Ekonomik açıdan, eğitimdeki bu kayıplar, ülkenin iş gücü kalitesini ve rekabetçiliğini etkileyebilir. Yetkililerin bu duruma çözüm bulması, ekonomik istikrar açısından büyük önem taşıyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 95
+**Retention**: 51.35%
+
+3 milyon öğrenci, barınma başta olmak üzere çeşitli sorunlarla okulu bırakmış durumda. Bu durum, ekonomik koşulların ve barınma krizinin etkisiyle ortaya çıkıyor. Öğrencilerin yaşadığı bu barınma krizi, göç krizinin bir sonucu olarak değerlendiriliyor. Barınma sorunları, üniversite öğrencilerinin eğitim hayatlarını olumsuz etkiliyor ve birçok öğrenci temel insani koşulları sağlayamadığı için okula devam edemiyor. 
+
+Ayrıca, Türkiye'nin yüksek öğrenci yurt kapasitesine sahip olduğu iddiaları, mevcut barınma sorunlarıyla çelişiyor. Bu durum, hükümetin eğitim politikalarının ve barınma alanındaki yatırımlarının sorgulanmasına neden oluyor. Ekonomik zorluklar, öğrencilerin eğitimlerine devam etme şansını azaltırken, bu durumun çözülmesi için acil önlemler alınması gerektiği ifade ediliyor.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 94
+**Retention**: 47.24%
+
+3 milyon öğrenci okulu bıraktı ya da bırakmak zorunda kaldı; sebebi ise eğitimin her yıl artan maliyeti. Öğrencilerin eğitim masrafları, ailelerin bütçelerini zorlamakta ve bu durum, birçok öğrencinin iş bulma zorunluluğunu artırmaktadır. Barınma sorunu da peşinden geliyor; KYK yurtları sınırlı kapasiteye sahip ve mevcut yurtların durumu yeni döneme hazır değil. Özel yurtların fiyatları ise bazıları 10.000 liradan başlamakta, bu da ailelerin ekonomik durumunu daha da zorlaştırmaktadır. Eğitim öğretim yılına sayılı zaman kala, KYK yurtlarına başvurular başladı ancak tadilatların bitip bitmeyeceği belirsiz. Bu durum, öğrencilerin eğitim hayatlarını olumsuz etkileyebilir ve ekonomik açıdan ailelerin yükünü artırabilir.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 105
+**Retention**: 30.88%
+
+İstanbul'daki kiralar malum, öğrenciler büyük bir çıkmazla karşı karşıya. Belki son bütçe problemi burada kon edilebilir; bu bütçenin harcandığı yerler sadece biraz bakış açınızı değiştirerek öğrenciye çevirirseniz kolaylıkla çözülebilir diye düşünüyoruz. 
+
+Okul müdürlerinin söyledikleri var; bütçeden o kadar kısılarak bir tadilat yapacak para bulamıyoruz, tek gelir kaynağımız zorunlu bağış adı altında kimden ne alabilirsek. Bu ülkenin müdürleri, zorunlu bağış adı altında toplanan paraların okulun giderlerini karşılamak için gerekli olduğunu ifade ediyorlar. 
+
+Milli Eğitim Bakanı Yusuf Tekin kayıt ücreti ya da bağış yok demeye devam ediyor, ancak İstanbul'da semtlere göre kayıt ücret tarifesi var. Bu durum, eğitimdeki maliyetlerin ve bütçe yönetiminin ne kadar önemli olduğunu gösteriyor.
+
+================================================================================
+
+## Economic Segment 6
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 66
+**Retention**: 37.71%
+
+Maltepe'de 40,000, Beşiktaş'ta 240,000 istenen bu ücretlerin adı bağış olarak geçiyor. Devlet okullarında velilerden zorunlu bağış istendiği belirtiliyor çünkü okulun eksiklikleri var. Bu durum, eğitim sisteminin yeterli olamamasıyla ilgili bir sorun olarak öne çıkıyor. İstanbul'da devlet okullarında kayıt dönemi, özel okulları aratmayacak şekilde bağış pazarlıklarıyla geçiyor. Velilerden bağış adı altında 100,000 lira talep ediliyor. Bu uygulamalar, eğitimdeki finansal yüklerin artmasına ve ailelerin bütçelerini zorlamasına neden oluyor.
+
+================================================================================
+
+## Economic Segment 7
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 76
+**Retention**: 48.41%
+
+Fahiş ücretler eğitimde fırsat eşitliğini parayla satın alınır hale getiriyor. Ana sınıfından başlayarak ilk ve ortaokullarda istenen ücretler dudak uçuklatıyor. Maltepe'deki bazı devlet okullarında kayıt ücreti 40,000 liradan başlıyor. Beşiktaş'ta bir okulda ikiz kardeşler için istenen kayıt ücreti ise tam 240,000 lira. Okul yönetimleri ve okul aile birlikleri, Milli Eğitim Bakanlığı'nın okul giderlerini karşılamadığını öne sürüyor. Ücretsiz olması gereken devlet okulları, İstanbul'da özel okullarla yarışıyor. Veliler, zorunlu kayıt ücretlerini ödememek için mahalle muhtarlarından yardım ister durumda.
+
+================================================================================
+
+## Economic Segment 8
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 96
+**Retention**: 100.00%
+
+000 liradan satılıyor
+susturuculu suikast silahlarının ilanı da grupta yer alıyor tam otomatik silahlardan piyade
+tüfeklerine kadar onlarca ateşli silah mesajlaşma gruplarından satışa sunuluyor bu silahların
+çoğunun Kaçak ya da adli olaylarda kullanılmış olduğunu tahmin etmek güç değil satıcıların alışveriş
+için tek koşulu İsa referans Öncelikle sosyal medya alanında birtakım düzenlemelere girmesi
+gerektiği çok aşikar Eee bunun yanında halkın neden silahlanmaya ihtiyaç duyduğunu da ortaya
+çıkarmak gerekiyor Umut Vakfı verilerine göre tde 2023 yılında 3773 silahlı şiddet olayı yaşandı
+2318 kişi silahlı saldırılarda yaşamını yitirdi son 10 yıld İsa 34197 silahlı şiddet Vakası kayda
+geçti 21
+
+================================================================================
+

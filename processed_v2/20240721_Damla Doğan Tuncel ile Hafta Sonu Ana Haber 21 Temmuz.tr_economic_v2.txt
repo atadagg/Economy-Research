@@ -1,0 +1,83 @@
+# Economic Content from: 20240721_Damla Doğan Tuncel ile Hafta Sonu Ana Haber 21 Temmuz.tr.txt
+# Processed: 2025-07-22T17:39:46.430277
+# Original: 11814 words → Filtered: 601 words (5.09% retention)
+# Economic segments: 6
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 105
+**Retention**: 64.42%
+
+2024 emeklilerin yılı olarak öne çıkıyor. Milyonlar, emekli maaşlarına yapılacak zamları bekliyordu; ancak sadece en düşük emekli maaşı 12,500 liraya yükseltildi. Bu durumun bütçe üzerindeki yükü de vurgulandı. Özgür Özel, emekliye zam verilmemesi durumunda seçimlerin olumsuz etkiler yaratabileceğini belirtti. Cumhurbaşkanı Erdoğan ise muhalefetin eleştirilerine yanıt vererek, emekli maaşlarının artırılması gerektiğini ifade etti. 
+
+Emekli maaşına yapılan zam oranı, siyasetin en sıcak başlıklarından biri haline geldi. Muhalefetin itirazları sürerken, Cumhurbaşkanı Erdoğan, asgari ücretin 1.5 katı olması gerektiğini savundu. Bu bağlamda, en düşük emekli maaşının 25,000 lira olması gerektiği vurgulandı. Emekli maaşlarına yapılan zam, ekonomik istikrar ve bütçe dengesi açısından önemli bir konu olarak gündemde kalmaya devam ediyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 81
+**Retention**: 31.89%
+
+Emeklilikte köklü değişiklikler iddiası gündemde. Emeklilik gün sayısına göre maaş formülü, emeklilik yaşının yükseltilmesi ve kök maaş düzenlemesini de içeren önemli adımların atılacağı konuşuluyor. Erdoğan, bu söylentilere kapıyı kapattı ama yeni yasama dönemini işaret etti. Biz, ekonomik dengeleri bozmayacak biçimde bu işi nasıl götüreceğimizi ölçüyoruz ve adımlarımızı buna göre atıyoruz. Yeni yasama döneminde bu konuyu gündeme almayı planlıyoruz. Emekli maaşıyla ilgili sorunlar, geçim sıkıntısı ve seçim arasındaki ilişki de dikkat çekiyor. Emekliye zam verilmediği takdirde, bu durumun seçim sonuçlarını etkileyeceği öngörülüyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 58
+**Retention**: 72.50%
+
+Emekliler, 500 lirayla haftanın sonunu nasıl getireceklerini düşünüyor. Türkiye Cumhuriyeti Sosyal Güvenlik Kurumu, emeklilere yönelik tavsiyelerde bulunuyor. Bu tavsiyeler, emeklilerin mali durumunu iyileştirmeye yönelik. Ekonomik zorluklar nedeniyle, birçok kişi gıda fiyatlarının artışından şikayetçi. Son dönemde et fiyatlarının yükselmesi, tüketim alışkanlıklarını etkiliyor. Bu durum, emeklilerin harcama gücünü azaltıyor ve yaşam standartlarını düşürüyor. Ekonomik koşullar, emeklilerin günlük yaşamlarını doğrudan etkiliyor.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 109
+**Retention**: 52.15%
+
+Milyonlarca emekli, geçim sıkıntısı içinde zor günler geçirirken, emeklilere yönelik tavsiyelerin yer aldığı internet sitesinde sağlıklı beslenme önerileri sunuluyor. Ancak emekliler, mevcut ekonomik koşullar nedeniyle bu önerilere uymanın imkansız olduğunu belirtiyor. Şu anki emeklilere verilen maaşlar, temel ihtiyaçları karşılamaktan uzak. Örneğin, 1 kilo etin fiyatı 650 liraya yükselmişken, emeklilerin sağlıklı beslenmesi için önerilen 5 porsiyon sebze ve meyve tüketimi, bütçeleriyle örtüşmüyor. 
+
+Fiyatların artışı, gıda enflasyonunun ne denli yüksek olduğunu gösteriyor; fasulye fiyatları %260 oranında yükselmiş durumda. Bu koşullar altında, emeklilerin sağlıklı beslenmesi mümkün görünmüyor. Cumhurbaşkanı Erdoğan'a yönelik tepkiler de, bu ekonomik sıkıntılara işaret ediyor. Emekliler, mevcut enflasyon ve yaşam standartları nedeniyle hükümetin politikalarına karşı duydukları hayal kırıklığını dile getiriyor.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 112
+**Retention**: 36.01%
+
+Şanlıurfa Büyükşehir Belediyesi'nin başkanı Kasım Gülpınar, ekonomik durumu ele alarak, yerel seçimlerde yaşanan tartışmaların ardından belediyenin mali kaynaklarını nasıl yöneteceği konusunda endişelerini dile getirdi. Yeni atanan Çevre Bakanı Murat Kurum'un katıldığı toplantıda yaşanan protokol krizi, yerel yönetimlerin ekonomik işleyişine dair sorunları da gündeme getirdi. 
+
+Belediye Başkanı Gülpınar, yerel yönetimlerin mali kaynaklarının etkin kullanımı ve ekonomik kalkınma için işbirliği yapmaları gerektiğini vurguladı. Bu tür protokol krizlerinin, yerel yönetimlerin ekonomik karar alma süreçlerini olumsuz etkileyebileceği konusunda uyarılarda bulundu. 
+
+Şanlıurfa'daki ekonomik durum ve yerel yönetimlerin mali yönetimi üzerine yapılan bu tartışmalar, bölgedeki yatırım ve ticaret potansiyelini de etkileyebilir. Ekonomik verilerin ve yerel yönetimlerin mali durumlarının, bölgedeki iş yapma kolaylığı üzerinde önemli bir etkisi olduğu belirtiliyor.
+
+================================================================================
+
+## Economic Segment 6
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 136
+**Retention**: 41.85%
+
+Emeklilerin durumu üzerine yapılan değerlendirmelerde, SGK'nın emeklilere yönelik tavsiyeleri dikkat çekiyor. Bu tavsiyeler arasında sağlıklı beslenme önerileri yer alıyor; günde beş porsiyon sebze ve meyve tüketilmesi, iki porsiyon et yenilmesi gerektiği vurgulanıyor. Ancak, bu önerilerin arka planında emeklilerin yaşadığı ekonomik zorluklar bulunuyor. Fiyatların artışı ve enflasyon, emeklilerin yaşam standartlarını doğrudan etkiliyor. 
+
+Cumhurbaşkanı Erdoğan, emekli maaşlarına yapılacak zamlarla ilgili olarak muhalefetin eleştirilerine yanıt verdi. Emeklilere seyyanen bir artış yapılmasının ekonomik etkilerini değerlendirerek, bu tür artışların ülke ekonomisinde olumsuz sonuçlar doğurabileceğini ifade etti. Ayrıca, emekli maaşlarının geçmişteki asgari ücretle karşılaştırılması, ekonomik politikaların ve hükümetin emeklilere yönelik yaklaşımının sorgulanmasına neden oluyor. 
+
+Bu bağlamda, hükümetin emeklilere yönelik politikalarının, ekonomik verilerle desteklenmesi gerektiği ve emeklilerin yaşam standartlarının iyileştirilmesi için daha somut adımlar atılması gerektiği öne sürülüyor. Ekonomik veriler ve istatistikler, emeklilerin karşılaştığı zorlukları daha iyi anlamak için önemli bir temel oluşturuyor.
+
+================================================================================
+

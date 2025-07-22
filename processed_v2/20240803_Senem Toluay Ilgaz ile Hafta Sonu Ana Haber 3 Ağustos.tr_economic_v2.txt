@@ -1,0 +1,49 @@
+# Economic Content from: 20240803_Senem Toluay Ilgaz ile Hafta Sonu Ana Haber 3 Ağustos.tr.txt
+# Processed: 2025-07-22T17:56:18.523758
+# Original: 5755 words → Filtered: 316 words (5.49% retention)
+# Economic segments: 4
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 67
+**Retention**: 57.76%
+
+Çünkü hikaye paylaşamıyoruz artık biliyorsunuz sebebi Instagram yasağı bir sosyal medya platformu. Bir taraftan da Siyasette hala SGK borçları meselesi var. AKP döneminde unutulan belediyelerin SGK borçları CHP'nin kazanmasıyla hatırlandı. Bu durum, yerel yönetimlerin mali durumunu etkileyen önemli bir konu. Tansiyon yüksek, dün geceyi dünya diken üzerinde geçirdi. Ancak, asıl derdimiz elbette geçim. Vatandaş geçim derdindeyken olup bitenlerin hepsi hikaye. Ekonomik zorluklar, halkın yaşam standartlarını doğrudan etkiliyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 114
+**Retention**: 77.55%
+
+9 milyar TL ve bilgi teknolojileri Kurumu Instagram yasağıyla şimdi bu ticareti de vurdu ve bu arada Instagram'da tabii ki kazanıyordu, onun da günlük zararı 1,5 milyon dolar. Instagram'a erişim kapatıldı, e-ticaret tek değere uğradı, günlük zarar 1,9 milyar TL e-ticaret Türkiye'deki Gayri safi yurt içi hasılatın % 6'sına gelmiş durumdayım. Ticari kayıpların bir boyutu hayli büyük; Instagram'ın kapatılması sadece influencerları değil, e-ticaretle uğraşan kişi ve kurumları da vurdu. Türkiye'de e-ticaretin % 10'luk kısmı sosyal medya platformlarından sağlanıyor. Kişi ya da kurumların günlük ticaret hacmi 930 milyon TL, bu rakama influencerlara eklenince 1,9 milyar lira oluyor, yani yaklaşık 63 milyon dolar. Toplam e-ticaret hacmi 2024'te Ticaret Bakanlığı'nın resmi açıkladığı hedef ve gidişata göre baktığımızda.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 69
+**Retention**: 44.52%
+
+3 milyar lira borcu olduğunu açıkladı SGK gibi Türkiye'nin de kötü yönetildiğini söyledi. İBB başkanı Türkiye Belediyeler Birliği çatısı altında belediyelerin SGK borçları ile ilgili çözüm için çalıştıklarını da vurguladı. SGK borçları emekli maaşlarıyla ilişkilendiriliyor. İktidar tarafından emekli maaşlarının yükselmesini istiyorsanız borçları ödeyin denildi. CHP lideri Özgür Özel, asgari ücret seviyesine çıkarılması gerektiğini ifade etti. Evet, gerçekten de herkesin derdi geçim ve haklarını alabilme meselesi. Bütçe yok, para yok.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 66
+**Retention**: 64.08%
+
+2024'te 91 milyar 824 milyon 85 000 L bütçe verildi. Ocak-Haziran döneminde Diyanet, bütçesinin % 51'ini harcadı. Yıl sonuna kadar toplam 96 milyar 264 m615 b000 lira harcayacağını açıkladı. Diyanet'e yıl sonunda 4 milyar lira daha aktarılacak. Harcamaların % 197,29'u personel gideri olarak yer aldı ve 2023'ün aynı dönemine göre personel giderlerinde % 149,71 artış olduğu görüldü. 2023'ün ilk 6 ayında Diyanet'e ayrılan ödeneklerin % 40'ı...
+
+================================================================================
+

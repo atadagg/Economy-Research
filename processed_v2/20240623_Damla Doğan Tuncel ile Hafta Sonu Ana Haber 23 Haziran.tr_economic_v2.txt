@@ -1,0 +1,45 @@
+# Economic Content from: 20240623_Damla Doğan Tuncel ile Hafta Sonu Ana Haber 23 Haziran.tr.txt
+# Processed: 2025-07-22T17:33:05.374873
+# Original: 5691 words → Filtered: 184 words (3.23% retention)
+# Economic segments: 3
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 53
+**Retention**: 100.00%
+
+trans Onur haftası kapsamında Bugün Taksim'de Onur yürüyüşü yapılmak isteniyor isteniyor diyorum
+Çünkü her yıl olduğu gibi yine bu sene de Taksim Meydanı abluka altında polis barikatları la
+çevrilmiş durumda Meydan metro finik hattı saatler öncesinden kapatıldı hemen Taksim'e dönelim Meral
+Danyıldız Sıra Selviler Caddesi'nde bizi bekliyor Neler görüyorsun Neler anlatırsın bize Yürüyüş
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 69
+**Retention**: 100.00%
+
+için Taksim'e çıkmaya çalışan çıkabilen gruplar var mı Meral Evet dam önce sorduğun son soruyla
+başlayım ne yazık ki o yürüyüşler ne ancak yine translar Onur haftası kapsamında çeşitli ilçelerde
+eylemlerini gerçekleştirdiler ve yine bu anlamda eylemlerini orada yaptılar şimdi kameraman
+arkadaşım Agit took Az önce senin de bahsettiğin o ablukayı göstersin biraz Biz bugün özellikle Sıra
+Selviler Caddesi'ni tercih ettik Çünkü Sıraselviler Caddesi Bu anlamda çok anlamlı geçtiğimiz
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 62
+**Retention**: 38.99%
+
+Gelir İdaresi Başkanlığının hazırladığı öneriler bayramda basına sızınca tepkiler arka arkaya geldi. Bayram tatili yeni vergi paketi gündemiyle geçerken, en çok tartışılan maddelerden biri yurt dışı çıkış harcındaki artış oldu. 150 lira olan harcın taslakta 3,000 lira olarak öngörülmesi tartışma yarattı. Ekonomistler, her şeye vergi yerine kayıt dışını yakalamak gerektiğini savunuyor. Bu düzenlemenin Anayasaya aykırı olduğu yönünde bazı hukukçuların görüşleri de mevcut.
+
+================================================================================
+

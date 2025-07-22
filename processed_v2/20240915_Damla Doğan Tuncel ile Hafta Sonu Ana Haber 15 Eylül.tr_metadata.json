@@ -1,0 +1,89 @@
+{
+  "file_path": "news/SozcuTV/20240915_Damla Doğan Tuncel ile Hafta Sonu Ana Haber 15 Eylül.tr.txt",
+  "processing_timestamp": "2025-07-22T17:45:44.187072",
+  "original_word_count": 5739,
+  "filtered_word_count": 596,
+  "retention_ratio": 0.10385084509496428,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "Merhaba ben daml Doğan Tuncel 15 Eylül Pazar...",
+      "description": "\"Merhaba ben daml Doğan Tuncel 15 Eylül Pazar...\" - The presenter introduces themselves and the date, setting the stage for the news broadcast.",
+      "end_pos": 50
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 50,
+      "start_sentence": "Kördüğüm 8 yaşındaki Narin Cinayeti kör düğüm oldu bir türlü çözülemiyor...",
+      "description": "\"Kördüğüm 8 yaşındaki Narin Cinayeti kör düğüm oldu bir türlü çözülemiyor...\" - This section contains the main news stories, including the ongoing investigation into the murder of a child and the explosion at a pasta factory.",
+      "end_pos": 591
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 591,
+      "start_sentence": "ama bugünün sıcak gelişmesi sıcak haberi Sakarya'dan geldi...",
+      "description": "\"ama bugünün sıcak gelişmesi sıcak haberi Sakarya'dan geldi...\" - A brief transition that introduces a new news story about the explosion at the pasta factory, indicating a shift in focus.",
+      "end_pos": 591
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 591,
+      "start_sentence": "hendek'teki bir makarna fabrikası Patlama meydana geldi ardından yangın çıktı...",
+      "description": "\"hendek'teki bir makarna fabrikası Patlama meydana geldi ardından yangın çıktı...\" - Continuation of the news content detailing the explosion and its aftermath, including injuries and responses from officials.",
+      "end_pos": 1268
+    },
+    {
+      "type": "5. **TRANSITION**",
+      "start_pos": 1268,
+      "start_sentence": "bunun yanında Düzce'de Hendek'te ve Akyazı'da da diğer yaralılarımız tedavisine devam etmekte...",
+      "description": "\"bunun yanında Düzce'de Hendek'te ve Akyazı'da da diğer yaralılarımız tedavisine devam etmekte...\" - Another transition that connects the ongoing news about the injuries to other locations where victims are being treated.",
+      "end_pos": 41312
+    }
+  ],
+  "news_segments_count": 8,
+  "economic_segments_count": 4,
+  "economic_segments": [
+    {
+      "segment_id": "50_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 80,
+      "filtered_length": 80,
+      "retention_ratio": 1.0,
+      "section_description": "\"Kördüğüm 8 yaşındaki Narin Cinayeti kör düğüm oldu bir türlü çözülemiyor...\" - This section contains the main news stories, including the ongoing investigation into the murder of a child and the explosion at a pasta factory."
+    },
+    {
+      "segment_id": "1268_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 200,
+      "filtered_length": 200,
+      "retention_ratio": 1.0,
+      "section_description": "\"bunun yanında Düzce'de Hendek'te ve Akyazı'da da diğer yaralılarımız tedavisine devam etmekte...\" - Another transition that connects the ongoing news about the injuries to other locations where victims are being treated."
+    },
+    {
+      "segment_id": "1268_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 285,
+      "filtered_length": 245,
+      "retention_ratio": 0.8596491228070176,
+      "section_description": "\"bunun yanında Düzce'de Hendek'te ve Akyazı'da da diğer yaralılarımız tedavisine devam etmekte...\" - Another transition that connects the ongoing news about the injuries to other locations where victims are being treated."
+    },
+    {
+      "segment_id": "1268_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 103,
+      "filtered_length": 71,
+      "retention_ratio": 0.6893203883495146,
+      "section_description": "\"bunun yanında Düzce'de Hendek'te ve Akyazı'da da diğer yaralılarımız tedavisine devam etmekte...\" - Another transition that connects the ongoing news about the injuries to other locations where victims are being treated."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

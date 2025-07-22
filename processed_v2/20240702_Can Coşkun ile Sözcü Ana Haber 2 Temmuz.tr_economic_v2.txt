@@ -1,0 +1,63 @@
+# Economic Content from: 20240702_Can Coşkun ile Sözcü Ana Haber 2 Temmuz.tr.txt
+# Processed: 2025-07-22T17:23:02.760275
+# Original: 7218 words → Filtered: 350 words (4.85% retention)
+# Economic segments: 5
+
+## Economic Segment 1
+
+**Method**: pattern_validated
+**Confidence**: 0.75
+**Word Count**: 54
+**Retention**: 100.00%
+
+soruları da belki de onlardan biri Tabelada yazıyor kimin eseri 2 Temmuz salı Sözcü ana haberin
+sorusu Tabelada kimin eseri hangi konu ekonomi siyaset yargı dış politika hepsine dair sorularınızı
+görüşlerinizi yorumlarınızı ekranlara taşıyacağız iki de anketimiz var gelsin ilki görmeye
+başlayalım x hesabından sorduk bakanların değişimine yorumunuz nedir diye ne değişecek ki değişim
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 58
+**Retention**: 72.50%
+
+Bence asgari ücretten daha fazla olması lazım emekliler için. Ülkede TÜİK'in açıkladığı 47.000 Lira civarında yoksulluk sınırı var. Emekli için bu yoksulluk sınırı oldukça önemli bir gösterge. Sayın Erdoğan'ın açıklamaları, emeklilerin geçim sıkıntısını göz önünde bulundurması gerektiğini ortaya koyuyor. Ekonomik koşullar altında, 10.000 Lira ile geçinmek oldukça zor. Bu durum, emeklilerin yaşam standartlarını doğrudan etkileyen bir ekonomik gerçeklik.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 79
+**Retention**: 52.67%
+
+İnsanlar eskiden böyle edinmek istedikleri süper güçlere ilişkin rüyalar görürdü işte uçarken gördüm kendimi diye arkadaşına heyecanla anlatırdın ya da çok uçuk rüyalar gerçekli hiç bağdaşmayacak. Şimdi 11 000 liralık elektrik faturası, bu durum ekonomik zorlukları gözler önüne seriyor. Niye zam geliyor? Elektriğe gelen son zam milyonlarca haneyi düşündürür. Aile ve Sosyal Hizmetler Bakanlığı'nın verileri acı gerçeği ortaya çıkardı; elektrik faturası için sosyal yardım alan hane sayısı 2024 Ocak-Nisan ayları arasında 4 milyona dayandı. Bu rakam 2019'da 2,2 milyondu.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 97
+**Retention**: 46.41%
+
+Şimdi ben emekliyim, ancak elektrik % 38 zam yaptı ve bu zam temmuzda geçerli oldu. Bu durum, 6 aylık enflasyona yansımasın diye önceden belliydi. Diğer yandan, % 45 suya zam geldi. Her şeye zam var, ancak emekliye zam yok. Yaklaşık 4 milyon hanenin elektriği yardımla aydınlandı, ancak başvurduğu halde sonuç alamayanlar da var. Yüksek gelen elektrik faturaları ve artan maliyetler, ekonomik durumun kötüleştiğini gösteriyor. Bugün etin kilosu 6700 lira oldu. Elektrik, iktidarın tasarruf politikasına dahil edilebilecek bir kalem değil, çünkü tasarruf için karanlıkta oturmak gerekiyor. Durumumuz hiç iyi değil; zamlar sürekli artıyor ve tasarruf etme imkanı kalmıyor.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 62
+**Retention**: 64.58%
+
+Türkiye'de fiyatlar genel olarak artış göstermekte ve bu durum hem yerli hem de yabancı turistler arasında şikayetlere yol açmaktadır. Özellikle, bazı bölgelerde, örneğin Çeşme ve Bodrum'da, harcama limitleri ve servis ücretleri eklendiğinde, tatilcilerin bütçeleri zorlanmaktadır. Bu bağlamda, Türkiye'nin genel ekonomik durumu ve fiyat seviyeleri, Amerikan seviyesine yaklaşmış durumda. Ekonomik veriler, bu artışların yerel ve uluslararası turizm üzerindeki etkilerini de gözler önüne sermektedir.
+
+================================================================================
+

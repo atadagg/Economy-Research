@@ -1,0 +1,64 @@
+# Economic Content from: 20240920_Fatih Portakal ile Sözcü Ana Haber 20 Eylül.tr.txt
+# Processed: 2025-07-22T17:22:16.385392
+# Original: 6891 words → Filtered: 416 words (6.04% retention)
+# Economic segments: 5
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 65
+**Retention**: 30.23%
+
+Asgari ücret çok konuşulan bir konu. Vatandaş her şeyin farkında. Zor geçiniyoruz, geçim yapamıyoruz. Borçlarımı ödeyemez hale geldik. En düşük kira 12 ile 15 bin lira arasında. Bu durum, ekonomik zorlukların ve artan yaşam maliyetlerinin bir yansıması. Eğitimde yaşanan sorunlar da ekonomik etkiler yaratıyor; ücretsiz taşıma kaldırıldığı için 500 öğrenci eğitime ulaşamıyor. Bu tür gelişmeler, toplumun genel ekonomik durumunu etkileyen önemli faktörler arasında yer alıyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 99
+**Retention**: 61.11%
+
+Asgari ücret alıp 12 000 kira veren bir insan geçinmekte zorlanıyor. Elektrik, doğalgaz, gıda ve ulaşım gibi her bir kalemin fiyatı günden güne artıyor, ancak asgari ücret sabit kalıyor. Yüksek enflasyon, 177 000 lirayı daha cebe girmeden eritiyor. Derin yoksulluk ve açlık var; bu durum, milyonlarca insanı derinleşen darboğazın gölgesinde yeni rakamları beklemeye itiyor. Ara zamın uğramadığı asgari ücret günden güne erirken, en fazla 30 000 lira gibi bir artış yapılabileceği öngörülüyor. Ancak bu artışın da yetersiz kalacağı ve her şeyin fiyatının artmaya devam edeceği düşünülüyor. Bir ailenin rahat geçinmesi için asgari ücretin 30 milyon olması gerektiği ifade ediliyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 78
+**Retention**: 56.93%
+
+2025 yılının asgari ücretinin gerçekçi olmayan enflasyon ile tahminler üzerinden konuşulmasını doğru bulmuyoruz; asgari ücret en düşük kamu işçisi maaşına göre belirlenmeli. Türkiye'de asgari ücrete ara zam uygulanmazken, Kuzey Kıbrıs Türk Cumhuriyeti'nde asgari ücret 3. kez zamlandı ve yeni rakam 3,518 lira oldu. Alım gücü 13,000 lira olarak belirlenirken, bu durum işçi ve çalışanların geçimlerini etkileyen önemli bir ekonomik faktör. Ekim, Kasım ve Aralık aylarında asgari ücretin durumu belirsizliğini koruyor; bu da iş gücü piyasasında dalgalanmalara yol açabilir.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 115
+**Retention**: 58.08%
+
+İstanbul'da mağazaların önünde kuyruklar var. Yaklaşık 500 kişi iPhone'un en ucuz modelini almak için bekliyor. Bu yıl da iPhone alımında çılgınlık devam ediyor. İnsanlar, yüksek fiyatlar nedeniyle uzun süre beklemek zorunda kalıyor. Örneğin, bir poğaça bile 40 liraya satılıyor. Bu durum, genel fiyat artışlarının ve enflasyonun bir yansıması olarak değerlendirilebilir. 
+
+Kadıköy'deki mağaza önünde bekleyiş bir gün öncesinden başladı. İki asgari ücret tutarında bir farkla, eski kullanıcılar yeni model için ödeme yapıyor. Bu da, tüketicilerin teknolojiye olan talebinin ve ekonomik durumlarının nasıl etkilendiğini gösteriyor. 
+
+Ayrıca, bu tür bekleyişler, insanların harcama alışkanlıklarını ve ekonomik koşulları nasıl etkilediğini ortaya koyuyor. Ekonomik veriler, bu tür tüketim davranışlarının artış gösterdiğini ve insanların yüksek fiyatlara rağmen teknolojiye yatırım yapma isteğini gösteriyor.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 59
+**Retention**: 48.36%
+
+iPhone 16 için en düşük fiyat 64,999 lira. Telefonun fiyatı hafıza kapasitesi ve ekran boyutuna göre artış gösteriyor. En pahalısı 119,999 lirayla 1 TB'lık Pro Max modeli. Şu an iPhone 16 Pro Max'te çok talep var. Düşünsenize, bir telefon alıyorsunuz 120,000 lira; bu, 76 gün çalışmanız gerektiği anlamına geliyor. Bu fiyatlar, tüketicilerin alım gücünü etkileyen önemli bir ekonomik gösterge.
+
+================================================================================
+

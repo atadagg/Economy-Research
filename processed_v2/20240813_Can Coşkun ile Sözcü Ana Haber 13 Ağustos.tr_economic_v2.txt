@@ -1,0 +1,49 @@
+# Economic Content from: 20240813_Can Coşkun ile Sözcü Ana Haber 13 Ağustos.tr.txt
+# Processed: 2025-07-22T17:41:41.333735
+# Original: 6939 words → Filtered: 281 words (4.05% retention)
+# Economic segments: 4
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 62
+**Retention**: 51.67%
+
+Milli Eğitim Bakanı Yusuf Tekin, okullarımızda kayıt ücreti yok dedi. Ancak, velilerin zorunlu bağış almaya çalıştıkları yönünde yetkili kurumlara ihbarlar yapıldığı bildiriliyor. Bu durum, eğitimdeki mali yükümlülüklerin ve sosyal devlet anlayışının sorgulanmasına neden oluyor. Eğitimdeki bu tür uygulamalar, ailelerin bütçelerini etkileyerek ekonomik bir sorun haline geliyor. Eğitimdeki finansal yükümlülüklerin artması, ailelerin ekonomik durumunu zorlaştırıyor ve bu durum, toplumda geniş bir tartışma yaratıyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 71
+**Retention**: 62.83%
+
+2024-2025 eğitim öğretim yılı için servis ücretleri belli oldu. Buna göre rehber personel masrafı dahil edilince en kısa mesafe yıllık yaklaşık 23,000 lira, en uzun mesafe ise yaklaşık 55,000 lira olarak belirlendi. Bu fiyat artışları, özel okulların sunduğu ekstra hizmetlerle birlikte 70,000 liraya kadar çıkabiliyor. Ekonomik koşullar ve ailelerin bütçeleri üzerinde önemli bir etki yaratıyor. Özel okula giden öğrencilerin aileleri, bu yüksek maliyetler karşısında nasıl bir çözüm bulacaklarını düşünmek zorunda kalıyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 68
+**Retention**: 64.76%
+
+Ekonomik zor şartlarda aileler mutlaka daha çok zorlanacaklardır. Bazı özel okullarda yapılan zam oranı % 180'e kadar çıkmıştır. Bu durum, ailelerin özel okullara yönelmesini zorlaştırmakta ve eğitim maliyetlerini artırmaktadır. Özel okul seviyesinde eğitim almak isteyenler için fiyatlar oldukça yükselmiştir. Örneğin, bir zincir özel okulda geçen sene yıllık 39,000 lira olan en kısa mesafe ücreti bu sene 71,000 liraya çıkmıştır. Bu artış, eğitim harcamalarının aile bütçeleri üzerindeki etkisini artırmaktadır.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 80
+**Retention**: 47.34%
+
+Çiftçiler emeğini karşılığını alamadı ve bu durum ekonomik sıkıntılara yol açtı. Bir yıl boyunca girmedikleri masraf kalmadı; birçok çiftçi varını yoğunu tarlasına yatırdı. Ancak, biber fiyatı 2 liraya düşerken, domates için 4-5 liradan taahhüt aldılar. Çiftçilerin yaşadığı bu ekonomik zorluklar, Balıkesir'de de kendini gösteriyor. Manisalı çiftçiler de mağdur durumda; 220 dönüm alana kavun ve karpuz eken üreticiler 1,5 milyon lira harcama yaptı. Tüccarların fiyatları düşürmesi, çiftçilerin maliyetlerini karşılamasını zorlaştırıyor. Bu durum, tarımsal üretimin sürdürülebilirliği açısından endişe verici bir tablo oluşturuyor.
+
+================================================================================
+

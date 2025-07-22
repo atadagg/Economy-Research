@@ -1,0 +1,89 @@
+{
+  "file_path": "news/SozcuTV/20240827_Can Coşkun ile Sözcü Ana Haber 27 Ağustos.tr.txt",
+  "processing_timestamp": "2025-07-22T18:07:35.563707",
+  "original_word_count": 6885,
+  "filtered_word_count": 371,
+  "retention_ratio": 0.05388525780682643,
+  "structure_sections": [
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 0,
+      "start_sentence": "raporda toplumun artan yoksulluktan adaletsizlikten Erdoğan'ı da sorumlu tutmaya başladığı...",
+      "description": "\"raporda toplumun artan yoksulluktan adaletsizlikten Erdoğan'ı da sorumlu tutmaya başladığı...\" - This section contains the actual news content, discussing various issues such as poverty, public sentiment towards Erdoğan, and economic conditions in Turkey. It includes multiple news stories and analyses.",
+      "end_pos": 760
+    },
+    {
+      "type": "4. **ADS**",
+      "start_pos": 760,
+      "start_sentence": "Bozcaada CZ Festivali paribu ana sponsorluğunda 6 7 8 Eylül'de...",
+      "description": "\"Bozcaada CZ Festivali paribu ana sponsorluğunda 6 7 8 Eylül'de...\" - This section includes promotional content for an upcoming festival, serving as a commercial break or sponsor message within the broadcast.",
+      "end_pos": 855
+    },
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 855,
+      "start_sentence": "Sözcü ana haberle saatler 19'u gösterirken karşınızdayız efendim...",
+      "description": "\"Sözcü ana haberle saatler 19'u gösterirken karşınızdayız efendim...\" - This section serves as the opening of the broadcast, where the presenter introduces the program and outlines the topics to be discussed, setting the stage for the news content.",
+      "end_pos": 1054
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 1054,
+      "start_sentence": "Yani bildiğiniz gibi ülkemizin gerçeklerinin peşine Düşeceğiz...",
+      "description": "\"Yani bildiğiniz gibi ülkemizin gerçeklerinin peşine Düşeceğiz...\" - This brief transition connects the introduction of the news topics to the specific discussions and analyses that follow, indicating a shift in focus to the details of the news stories.",
+      "end_pos": 1250
+    },
+    {
+      "type": "5. **OUTRO**",
+      "start_pos": 1250,
+      "start_sentence": "Ayrı Dünyalar tabelası ile ilerleyeceğiz bugün iki de anketimiz var görelim...",
+      "description": "\"Ayrı Dünyalar tabelası ile ilerleyeceğiz bugün iki de anketimiz var görelim...\" - This section provides closing remarks and hints at the continuation of discussions or surveys, signaling the end of the main news content and a transition to further engagement with the audience.",
+      "end_pos": 49977
+    }
+  ],
+  "news_segments_count": 9,
+  "economic_segments_count": 4,
+  "economic_segments": [
+    {
+      "segment_id": "1250_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 193,
+      "filtered_length": 67,
+      "retention_ratio": 0.3471502590673575,
+      "section_description": "\"Ayrı Dünyalar tabelası ile ilerleyeceğiz bugün iki de anketimiz var görelim...\" - This section provides closing remarks and hints at the continuation of discussions or surveys, signaling the end of the main news content and a transition to further engagement with the audience."
+    },
+    {
+      "segment_id": "1250_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 59,
+      "filtered_length": 53,
+      "retention_ratio": 0.8983050847457628,
+      "section_description": "\"Ayrı Dünyalar tabelası ile ilerleyeceğiz bugün iki de anketimiz var görelim...\" - This section provides closing remarks and hints at the continuation of discussions or surveys, signaling the end of the main news content and a transition to further engagement with the audience."
+    },
+    {
+      "segment_id": "1250_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 188,
+      "filtered_length": 188,
+      "retention_ratio": 1.0,
+      "section_description": "\"Ayrı Dünyalar tabelası ile ilerleyeceğiz bugün iki de anketimiz var görelim...\" - This section provides closing remarks and hints at the continuation of discussions or surveys, signaling the end of the main news content and a transition to further engagement with the audience."
+    },
+    {
+      "segment_id": "1250_6",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 113,
+      "filtered_length": 63,
+      "retention_ratio": 0.5575221238938053,
+      "section_description": "\"Ayrı Dünyalar tabelası ile ilerleyeceğiz bugün iki de anketimiz var görelim...\" - This section provides closing remarks and hints at the continuation of discussions or surveys, signaling the end of the main news content and a transition to further engagement with the audience."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

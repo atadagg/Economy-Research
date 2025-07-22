@@ -1,0 +1,85 @@
+{
+  "file_path": "news/SozcuTV/20240908_Damla Doğan Tuncel ile Hafta Sonu Ana Haber 8 Eylül.tr.txt",
+  "processing_timestamp": "2025-07-22T18:10:40.439176",
+  "original_word_count": 5723,
+  "filtered_word_count": 184,
+  "retention_ratio": 0.032150969771099075,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "ben Damla Doğan Tuncel 8 Eylül Pazar...",
+      "description": "\"ben Damla Doğan Tuncel 8 Eylül Pazar...\" - The presenter introduces themselves and the date, setting the stage for the news broadcast.",
+      "end_pos": 99
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 99,
+      "start_sentence": "Bu sabah 8 yaşındaki Narin'in Narin çocuğun cansız...",
+      "description": "\"Bu sabah 8 yaşındaki Narin'in Narin çocuğun cansız...\" - The main news content begins with the tragic story of an 8-year-old child named Narin, detailing the circumstances of her disappearance and subsequent discovery.",
+      "end_pos": 291
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 291,
+      "start_sentence": "Evet siyaset bugün Elbette yine gündemimizde olacak...",
+      "description": "\"Evet siyaset bugün Elbette yine gündemimizde olacak...\" - A brief transition indicating a shift in focus to political news, suggesting that there will be more news stories to follow.",
+      "end_pos": 486
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 486,
+      "start_sentence": "Narin güran 8 yaşında 21 Ağustos'ta kayb olmuştu...",
+      "description": "\"Narin güran 8 yaşında 21 Ağustos'ta kayb olmuştu...\" - Continuation of the news segment, providing further details about Narin's case and the ongoing investigation.",
+      "end_pos": 878
+    },
+    {
+      "type": "5. **TRANSITION**",
+      "start_pos": 878,
+      "start_sentence": "Tüm Türkiye'nin gözü kulağı Diyarbakır'da Ken...",
+      "description": "\"Tüm Türkiye'nin gözü kulağı Diyarbakır'da Ken...\" - Another transition that emphasizes the national attention on the case, leading into more specific details about the investigation.",
+      "end_pos": 1372
+    },
+    {
+      "type": "6. **NEWS**",
+      "start_pos": 1372,
+      "start_sentence": "Jandarma AFAD Özel Harekat ve Sualtı arama kurtarma timleri seferber oldu...",
+      "description": "\"Jandarma AFAD Özel Harekat ve Sualtı arama kurtarma timleri seferber oldu...\" - Further news content detailing the search efforts and the involvement of various agencies in the investigation.",
+      "end_pos": 1749
+    },
+    {
+      "type": "7. **OUTRO**",
+      "start_pos": 1749,
+      "start_sentence": "amca tutuklandıktan hemen sonra geçtiğimiz hafta içerisinde babası...",
+      "description": "\"amca tutuklandıktan hemen sonra geçtiğimiz hafta içerisinde babası...\" - The closing remarks that summarize the situation and hint at the ongoing developments in the case.",
+      "end_pos": 40695
+    }
+  ],
+  "news_segments_count": 8,
+  "economic_segments_count": 2,
+  "economic_segments": [
+    {
+      "segment_id": "1749_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 112,
+      "filtered_length": 112,
+      "retention_ratio": 1.0,
+      "section_description": "\"amca tutuklandıktan hemen sonra geçtiğimiz hafta içerisinde babası...\" - The closing remarks that summarize the situation and hint at the ongoing developments in the case."
+    },
+    {
+      "segment_id": "1749_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 166,
+      "filtered_length": 72,
+      "retention_ratio": 0.43373493975903615,
+      "section_description": "\"amca tutuklandıktan hemen sonra geçtiğimiz hafta içerisinde babası...\" - The closing remarks that summarize the situation and hint at the ongoing developments in the case."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

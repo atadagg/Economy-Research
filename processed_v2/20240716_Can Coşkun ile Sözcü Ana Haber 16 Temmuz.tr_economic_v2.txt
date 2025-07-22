@@ -1,0 +1,130 @@
+# Economic Content from: 20240716_Can Coşkun ile Sözcü Ana Haber 16 Temmuz.tr.txt
+# Processed: 2025-07-22T18:04:39.174189
+# Original: 6770 words → Filtered: 785 words (11.60% retention)
+# Economic segments: 10
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 76
+**Retention**: 78.35%
+
+Güler'in Adalet ve Kalkınma Partisi adına emekli zammını duyururken söyledikleri, 12.500 ilanı her emekliye uygulansa adaletsizlik ortadan kalkmaya bir adım daha yakınlaşmak mıydı sorusu üzerine de bütçe yetersiz söylemi, ekonomik verilerin ve bütçe dengelerinin sorgulanmasına neden oluyor. Emekliler, asgari ücretliler ve dar gelirli kesimler adına adalet arayışı yükseliyor. Bu durum, ekonomik eşitsizliklerin ve gelir dağılımındaki adaletsizliklerin daha fazla tartışılmasına yol açıyor. Ekonomik politikaların bu gruplar üzerindeki etkileri, toplumun farklı kesimlerinde büyük bir merak ve endişe yaratıyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 59
+**Retention**: 100.00%
+
+sırası buna dair özel harekat başkanı gündeme geldi el öpme fotoğrafıyla şimdi CHP lideri Özgür Özel
+ne dedi tırnak içinde ismine gönderme yaparak Sayın Bahçeli'nin devletler karışmış mealinde bir
+açıklama yaptı şıklardan biri o biri vardır yine bir mesajı bir diğeri saygıdan öpmüşler sonuncusu
+ise Güç gösterisi bakalım hangi cevaba yoğunlaşacak Sözcü izleyicileri Bir de cebimiz hesabı yine x
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 64
+**Retention**: 32.16%
+
+En düşük emekli maaşının 12,500 liraya çıkartılmasının müjde olarak duyurulduğu gün emekli masası bir kez daha toplandı. AKP grup başkanı Abdullah Güler, en düşük emekli maaşının 10,000 liradan 12,500 liraya yükseldiğini açıkladı. Bu karar, 3.7 milyon emekliyi doğrudan etkiliyor. Emekliler, bu artışın yeterli olup olmadığını sorguluyor ve yaşadıkları zorlukları dile getiriyor. Ekonomik koşullar altında, emeklilerin alım güçlerinin ne kadar etkilendiği önemli bir tartışma konusu.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 74
+**Retention**: 40.22%
+
+500 Çok komik bir rakam. 50 liranın altında meyve yok. Açıklama sonrası yüzler düştü çünkü beklenti farklıydı. Yapılan 2,500 liralık zam emeklileri mutlu etmedi. Hayatlarını yaşadıklarını anlattılar; torunlarının yüzüne bakamayacak hale geldiklerini ifade ettiler. Çünkü mahkum edildikleri bu maaşlar, hayat standartlarını karşılamaktan uzak. Her şey ateş pahası. AKP grup başkanı Güler, emeklilerin zam teklifi hakkında açıklamalarda bulundu. Emeklilerin maaşlarının asgari ücretin üstüne çıkması gerektiği vurgulandı. En az 20 lira kadar bir artış talep ediliyor.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 71
+**Retention**: 44.10%
+
+Emeklinin cebinden 5 kilo kıyma parası çalıyorsunuz. 6 ay önce 25 kilo alan 10,000 lira, bugün 12,500 lira. 20 kilo alıyorsa bunun adı zam değil, emekliye ihanettir. Emekliye verdiklerinin 12,500 lira olduğunu öğrenmiş olduk. Hem muhalefet hem de sokak, emekli maaşını asgari ücrete yakın tutarda zam talep ediyordu ancak öyle olmadı. Açlık sınırı 19,000 lira iken asgari ücreti 17,700 lira da bırakanlara bu ülke bugünlere gelsin diye dirsek çürütenlere dikkat çekiliyor.
+
+================================================================================
+
+## Economic Segment 6
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 73
+**Retention**: 96.05%
+
+500 lirayı reva görenlere Diyoruz ki biz Cumhuriyet Halk Partisi olarak bu milleti sizin elinizden kurtaracağız ve biz den Parti Olarak emekli maaşının yoksulluk sınırının yarısı kadar olması gerektiğinin altını defaatle çizdik. Ana muhalefet CHP ve den partinin zam kapısı kapanan Asgari ücretli için de eleştirileri vardı. Bugünkü 177,000 ocaktaki 133,000 liranın alım gücünde 4,000 L eridi asgari ücret ve bu gidişle aralığa kadar zam yapılmazsa şu ana kadar eridiği kadar erise 99.
+
+================================================================================
+
+## Economic Segment 7
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 71
+**Retention**: 51.08%
+
+Asgari ücretin 000 liraya düşeceği belirtiliyor. Bu durum, yoksulluk ve güvencesizlik gibi ekonomik sorunları derinleştiriyor. Ekonomik zorluklar, halkın geçim sıkıntısını artırırken, bu duruma karşı mücadele çağrıları yapılıyor. 
+
+Bir ekonomist, pahalılığın sebeplerini sorgularken, "Bu ekonomik zorluğu ne zaman yaşayacak?" diye sormuş. Ayrıca, bütçelerin patronların bütçesi olduğunu vurgulayan izleyiciler, "Bizim bütçemiz olsaydı bu kadarına müsaade edilmezdi" şeklinde eleştirilerde bulunuyor. 
+
+Bu bağlamda, hükümetin ekonomik politikalarının ve bütçe yönetiminin halk üzerindeki etkileri tartışılmaya devam ediyor.
+
+================================================================================
+
+## Economic Segment 8
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 156
+**Retention**: 132.20%
+
+The text provided primarily discusses housing and construction in the context of a disaster recovery effort, which may not directly relate to broader economic themes. However, I will filter it to retain any economic implications while maintaining the natural flow.
+
+---
+
+2025 yılına geldiğimizde deprem bölgesinde evine girmeyen tek bir afetzede kalmayacak. Erdoğan, bir yılda 650.000 konut yapacağız demişti; ancak 1,5 yılda sadece 76.000 konut yapıldı. Şimdi, 2025 sonu itibarıyla tüm konutların tamamlanacağı belirtiliyor. Depremin üzerinden 1,5 yıla yakın zaman geçti ve verilen konut sözü yılan hikayesine döndü. Deprem bölgesinde 650.000 yeni konut yapma hedefi var; bunun 319 binini bir yıl içinde tamamlayacağız deniliyor. 300 binden fazla inşaatın en geç bir yıl içerisinde bitmesi bekleniyor. Yıl sonuna kadar 200.000 konutun 11 ilimizde teslim edilmesi planlanıyor. 
+
+---
+
+This filtered text retains the economic context related to housing and construction efforts in the aftermath of a disaster, focusing on the implications for the economy and the housing market.
+
+================================================================================
+
+## Economic Segment 9
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 86
+**Retention**: 34.13%
+
+Emekli maaşlarına yapılan zam, ekonomik veriler ve bütçe dengeleri açısından önemli bir konu. Emeklilerin maaşlarının en düşüğüne yapılan bu zam, bütçe üzerindeki yükü artırıyor. Vatandaşlar, bu zamların kimin bütçesi üzerinden yapıldığını sorguluyor. Ekonomik analizler, emeklilere yapılması gereken zam oranının %144 olması gerektiğini belirtiyor. Ancak mevcut durum, emeklilerin yaşam standartlarını yeterince iyileştirmiyor. Ekonomik koşullar, emeklilerin alım gücünü etkileyen önemli bir faktör olarak öne çıkıyor. Bu bağlamda, hükümetin bütçe politikaları ve sosyal yardımların artırılması gerektiği yönünde görüşler var. Ekonomik veriler, emeklilerin yaşadığı zorlukları daha iyi anlamamıza yardımcı oluyor.
+
+================================================================================
+
+## Economic Segment 10
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 55
+**Retention**: 54.46%
+
+Samsung Galaxy m34 8999 hua laptop 17999 üründe en en en iyi taksitli fiyat garantisini kaçırma. Akbank, KOBİ'lerin yanında olarak 31 Temmuz'a kadar kampanya düzenliyor. 6 ürünü kullanan KOBİ'ler 15,000 çip para kazanıyor. Üstelik ilk 3 ay EFT ve havaleye de ücret ödemiyor. Ekonomi gündeminde emekli zammı ile ilgili gelişmeler de önemli bir yer tutuyor.
+
+================================================================================
+

@@ -1,0 +1,68 @@
+# Economic Content from: 20240915_Damla Doğan Tuncel ile Hafta Sonu Ana Haber 15 Eylül.tr.txt
+# Processed: 2025-07-22T17:45:44.187072
+# Original: 5739 words → Filtered: 596 words (10.39% retention)
+# Economic segments: 4
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 80
+**Retention**: 100.00%
+
+etiketimiz Kördüğüm 8 yaşındaki Narin Cinayeti
+kör düğüm oldu bir türlü çözülemiyor Küçücük bir çocuk öldürüldü bir köy sus pus uzun süredir böyle
+bir cinayet soruşturması görmedik diyor uzman herkes onlarca gözaltından sonra elimizde şu an 11
+kişinin tutuklandığı bilgisi var 267 ifade alındı şu ana kadar 3 kişi daha sonradan dün itibariyle
+gözaltına alınmış durumda artık çözülsün bu düğün bunu bekliyoruz bunu ümit ediyoruz takipteyiz
+gelişmeleri vakit kaybetmeden hemen Detaylara geçelim Ana Haber başlıyor yüksek ses Narin ile ilgili
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 200
+**Retention**: 100.00%
+
+500
+lir oldu Ancak o maaş Artık huzurevi ücretini bile karşılamıyor Aile ve Sosyal Politikalar Bakanlığı
+huzurevi ücretlerine % 300'e yakın zam yaptı çok kötü bir şey yani herhalde paramız olmasa ortada
+kalacağız demektir devlet Huzur evine gitmek bile artık herhalde çok zor Cumhuriyet Halk Partisi
+huzur evlerine gelen zamma itiraz etti CHP'li ayrin nazz Aka sözcüye yaptığı açıklamada Bakanlığın
+zam oranını düşürmeye hazırlandığını belirtti huzur evi zammının geri çekilmesi için çağrılar yaptık
+Aslında bu faiş zam oranları tümüyle iptal edilmeli Sonuçta Bakanlığın zam oranını azaltmayı
+gündemini aldığını öğrendik dedi bayağı yüksek bir fiyat artık huzurevindeki vatandaşların da o
+fiyatta orada yaşayamayacağı bir gerçek yani dışarıda da öyle İçeride de öyle yani Nereye gitsen
+yüksek fiyat kiraların cep yaktığı Bugünlerde emekliler huzurevi zamına tepki gösterdi iddiaya göre
+Aile ve Sosyal Politikalar Bakanlığı Zam konusunda geri adım atmaya hazırlanıyor adam 10 lira kirada
+oturuyorsa 20 olsa g 30 lira yapıyor bizde bizden kalmamış yenim Bakanı olmayan durumu zayıf olan
+insanlar o evlerde o insanlar o evlerdeki parayı da ödeyemezse ne yapacağız dışarılarda mı kalsınlar
+Biz ülke olarak büyük demize sahip çıkamıyoruz hakikaten zaten Eee 12 500 lirayla geçinmek mümkün
+değil ayın sonunu geçirmek mümkün değil evi olmayan ne yapacak kiraya 12
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 245
+**Retention**: 85.96%
+
+Tepesinde bir dam olsun bir yerde kalabilsek istiyorlar ama işte %300'lük fahiş bir zamdan bahsediyoruz. Umarım bir an önce geri adım atılır, biraz da tarıma bakalım, üreticinin durumuna bakalım. İşte domatesi konuşuyoruz, patatesi konuşuyoruz, karpuzu, üzümü, çayı konuşuyoruz; üreticiler isyan ediyor. Sürekli şimdi onlara mandalina üreten çiftçiler de eklendi. Marketlerde 35-40 lira ama tüccar bizden 7 liraya almak istiyor diyorlar. Mazot, gübre, ilaç bir senede maliyetler ikiye, üçe katlandı ama kazançlar yerinde saydı. Çiftçi kazanmaktan vazgeçse, zararını azaltmanın yollarını arıyor. Üretici isyanlarında son adres Osmaniye, Kadirli narenciye üreticisiyiz. Tüccar çağırıyoruz, tüccar dalında 7 lira, 8 lira para veriyor; girdiler 23 katına çıktı. Biz de bu şekilde yolda kendi malımızı kesip, yani bir şekilde kar etmeye, malımızı değerlendirmeye çalışıyoruz. Geçen sene de malımız aynı fiyattı, bu sene de malımız aynı fiyat. Mandalina üreticisi mahsulüm 7 lira ediyorsa tezgahta neden 40 lira pahalı diye soruyor. Marketlerde şu an 35-40 lira olan mandalin burada bizden tüccar 7 liraya almak istiyor. Biz de vermiyoruz; yani 7 liraya verdiğimiz zaman emek kurtarmıyor, masrafımız çıkaramıyoruz. Şu an burada en az 15 lira olması lazım dalında tüccara verebilmemiz için. Böyle giderse, yani kendimiz değerlendirmeye çalışıyoruz. Eğer değerlendiremezsek, mecbur bahçelerimizi sökeceğiz. Yıllar içinde doğru tarım politikaları uygulanacağına, fiyatlar her arttığında ithalat kartı oynandığı için bugün tarım bitme noktasına geldi. Tarlada 7 lira olan ürün tezgahta 40 liraya satılıyor. Üreticiler haftalardır isyanda; aynısı hayvancılık için de geçerli. Besici maliyetlerini milyonlarca ineğini kesime gönderdi. Geçtiğimiz yıl en büyük gider kalemlerinden biri de çoban maliyeti oldu.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 71
+**Retention**: 68.93%
+
+Çobanlar için 000 liralar konuşuluyor ve daha da kötüsü çoban bulunamıyor. Tarım ve Orman Bakanlığı, bu soruna çözümü ithalatta bulmuş gibi görünüyor. Yurt dışından ithal çoban bir kez daha gündemde. Tarlada kalan mahsul ve pazarda cep yakan gıda ürünleri, tarımdaki plansızlık nedeniyle Türkiye'de sorun yaratıyor. Türkiye'nin çoban ihtiyacının 150.000 olduğunu vurgulayan İŞKUR verileri, koyun ve keçi yetiştiricileri Merkez Birliği tarafından paylaşıldı. Bu durum, besiciler için önemli bir ekonomik sorun teşkil ediyor.
+
+================================================================================
+

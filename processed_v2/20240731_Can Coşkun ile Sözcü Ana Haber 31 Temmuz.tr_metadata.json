@@ -1,0 +1,89 @@
+{
+  "file_path": "news/SozcuTV/20240731_Can Coşkun ile Sözcü Ana Haber 31 Temmuz.tr.txt",
+  "processing_timestamp": "2025-07-22T17:36:43.698217",
+  "original_word_count": 6826,
+  "filtered_word_count": 260,
+  "retention_ratio": 0.03808965719308526,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "sıradaki Hedef Team paribu sıradaki hedefinde de yanında",
+      "description": "\"sıradaki Hedef Team paribu sıradaki hedefinde de yanında\" - This section serves as the opening of the broadcast, introducing the program and setting the stage for the news content that follows.",
+      "end_pos": 95
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 95,
+      "start_sentence": "haftanın ortasındayız günü bitiriyoruz özet geçeceğiz",
+      "description": "\"haftanın ortasındayız günü bitiriyoruz özet geçeceğiz\" - This section contains the main news content, discussing various topics including foreign policy, recent events, and political developments. It includes multiple news stories and analysis.",
+      "end_pos": 787
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 787,
+      "start_sentence": "Peki konuşma şansı bu konuyu irdeleme şansı",
+      "description": "\"Peki konuşma şansı bu konuyu irdeleme şansı\" - This brief transition connects different parts of the news segment, moving from one topic to another within the broader news discussion.",
+      "end_pos": 1370
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1370,
+      "start_sentence": "Hamas lideri hanii sorduk Elbette İran'da öldürülmesi",
+      "description": "\"Hamas lideri hanii sorduk Elbette İran'da öldürülmesi\" - This is another segment of news content that continues the discussion on the implications of the assassination and public opinion regarding it.",
+      "end_pos": 1864
+    },
+    {
+      "type": "5. **OUTRO**",
+      "start_pos": 1864,
+      "start_sentence": "batının sessizliği vahim diyenlerden misiniz yoksa son şık",
+      "description": "\"batının sessizliği vahim diyenlerden misiniz yoksa son şık\" - This section serves as a closing remark, wrapping up the discussion and inviting viewer engagement on the topics covered.",
+      "end_pos": 49151
+    }
+  ],
+  "news_segments_count": 12,
+  "economic_segments_count": 4,
+  "economic_segments": [
+    {
+      "segment_id": "95_0",
+      "method": "pattern_validated",
+      "confidence": 0.75,
+      "original_length": 51,
+      "filtered_length": 51,
+      "retention_ratio": 1.0,
+      "section_description": "\"haftanın ortasındayız günü bitiriyoruz özet geçeceğiz\" - This section contains the main news content, discussing various topics including foreign policy, recent events, and political developments. It includes multiple news stories and analysis."
+    },
+    {
+      "segment_id": "1864_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 142,
+      "filtered_length": 95,
+      "retention_ratio": 0.6690140845070423,
+      "section_description": "\"batının sessizliği vahim diyenlerden misiniz yoksa son şık\" - This section serves as a closing remark, wrapping up the discussion and inviting viewer engagement on the topics covered."
+    },
+    {
+      "segment_id": "1864_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 132,
+      "filtered_length": 55,
+      "retention_ratio": 0.4166666666666667,
+      "section_description": "\"batının sessizliği vahim diyenlerden misiniz yoksa son şık\" - This section serves as a closing remark, wrapping up the discussion and inviting viewer engagement on the topics covered."
+    },
+    {
+      "segment_id": "1864_5",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 104,
+      "filtered_length": 59,
+      "retention_ratio": 0.5673076923076923,
+      "section_description": "\"batının sessizliği vahim diyenlerden misiniz yoksa son şık\" - This section serves as a closing remark, wrapping up the discussion and inviting viewer engagement on the topics covered."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

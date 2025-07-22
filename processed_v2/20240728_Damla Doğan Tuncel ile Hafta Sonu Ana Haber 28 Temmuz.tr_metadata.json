@@ -1,0 +1,131 @@
+{
+  "file_path": "news/SozcuTV/20240728_Damla Doğan Tuncel ile Hafta Sonu Ana Haber 28 Temmuz.tr.txt",
+  "processing_timestamp": "2025-07-22T17:40:10.615277",
+  "original_word_count": 5536,
+  "filtered_word_count": 328,
+  "retention_ratio": 0.059248554913294796,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "milletvekilleri Can dostlarımızın kaderini belirlemek için...",
+      "description": "\"milletvekilleri Can dostlarımızın kaderini belirlemek için...\" - The program begins with a discussion about the legislative session concerning animal welfare, setting the stage for the news content to follow.",
+      "end_pos": 83
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 83,
+      "start_sentence": "Sokak hayvanlarının kaderi vekillerin elinde...",
+      "description": "\"Sokak hayvanlarının kaderi vekillerin elinde...\" - This section contains the main news stories, including the legislative discussions on animal welfare and political developments regarding local municipalities.",
+      "end_pos": 392
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 392,
+      "start_sentence": "Diğer yandan siyaset AK Parti'nin belediyelere yönelik hamlesini konuşuyor...",
+      "description": "\"Diğer yandan siyaset AK Parti'nin belediyelere yönelik hamlesini konuşuyor...\" - This brief transition indicates a shift from one news topic to another, specifically moving from animal welfare to political actions by the AK Party.",
+      "end_pos": 392
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 392,
+      "start_sentence": "AK Parti ise salvolar devam ediyor...",
+      "description": "\"AK Parti ise salvolar devam ediyor...\" - This section continues with the news content, detailing the financial penalties imposed on local municipalities and the political implications of these actions.",
+      "end_pos": 594
+    },
+    {
+      "type": "5. **TRANSITION**",
+      "start_pos": 594,
+      "start_sentence": "İstanbul Büyükşehir Belediyesi'nden karşı bir atak var...",
+      "description": "\"İstanbul Büyükşehir Belediyesi'nden karşı bir atak var...\" - Another transition that signals a change in focus to the response from the Istanbul Metropolitan Municipality.",
+      "end_pos": 690
+    },
+    {
+      "type": "6. **NEWS**",
+      "start_pos": 690,
+      "start_sentence": "hepsi ve daha fazlası için Ana Haber başlıyor...",
+      "description": "\"hepsi ve daha fazlası için Ana Haber başlıyor...\" - This section resumes the news content, summarizing the topics that will be covered in the program.",
+      "end_pos": 690
+    },
+    {
+      "type": "7. **TRANSITION**",
+      "start_pos": 690,
+      "start_sentence": "yüksek Sesu bugün etiketimiz sizin elinizde dedik...",
+      "description": "\"yüksek Sesu bugün etiketimiz sizin elinizde dedik...\" - A transition that introduces viewer engagement and sets the tone for the upcoming discussions.",
+      "end_pos": 787
+    },
+    {
+      "type": "8. **NEWS**",
+      "start_pos": 787,
+      "start_sentence": "Milletvekilleri ne karar verecek onu bekliyoruz...",
+      "description": "\"Milletvekilleri ne karar verecek onu bekliyoruz...\" - This section continues the news coverage, focusing on the ongoing legislative discussions and the expectations surrounding the voting process.",
+      "end_pos": 885
+    },
+    {
+      "type": "9. **TRANSITION**",
+      "start_pos": 885,
+      "start_sentence": "hemen meclise gidelim muhabirimiz İlknur yumli...",
+      "description": "\"hemen meclise gidelim muhabirimiz İlknur yumli...\" - A transition that directs attention to the live report from the parliament, indicating a shift to on-the-ground reporting.",
+      "end_pos": 1180
+    },
+    {
+      "type": "10. **NEWS**",
+      "start_pos": 1180,
+      "start_sentence": "genel kurul bugün saat 14'te başladı...",
+      "description": "\"genel kurul bugün saat 14'te başladı...\" - This section provides detailed updates on the parliamentary proceedings, including the discussions and debates taking place.",
+      "end_pos": 1953
+    },
+    {
+      "type": "11. **OUTRO**",
+      "start_pos": 1953,
+      "start_sentence": "eee meclis başkan vekili Bekir Bozdağ e usul tartışmasına ilişkin de şu cümleleri sarf etti...",
+      "description": "\"eee meclis başkan vekili Bekir Bozdağ e usul tartışmasına ilişkin de şu cümleleri sarf etti...\" - The program begins to wrap up with remarks from the parliamentary vice president, indicating",
+      "end_pos": 40223
+    }
+  ],
+  "news_segments_count": 11,
+  "economic_segments_count": 4,
+  "economic_segments": [
+    {
+      "segment_id": "1953_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 125,
+      "filtered_length": 106,
+      "retention_ratio": 0.848,
+      "section_description": "\"eee meclis başkan vekili Bekir Bozdağ e usul tartışmasına ilişkin de şu cümleleri sarf etti...\" - The program begins to wrap up with remarks from the parliamentary vice president, indicating"
+    },
+    {
+      "segment_id": "1953_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 131,
+      "filtered_length": 99,
+      "retention_ratio": 0.7557251908396947,
+      "section_description": "\"eee meclis başkan vekili Bekir Bozdağ e usul tartışmasına ilişkin de şu cümleleri sarf etti...\" - The program begins to wrap up with remarks from the parliamentary vice president, indicating"
+    },
+    {
+      "segment_id": "1953_5",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 92,
+      "filtered_length": 44,
+      "retention_ratio": 0.4782608695652174,
+      "section_description": "\"eee meclis başkan vekili Bekir Bozdağ e usul tartışmasına ilişkin de şu cümleleri sarf etti...\" - The program begins to wrap up with remarks from the parliamentary vice president, indicating"
+    },
+    {
+      "segment_id": "1953_7",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 79,
+      "filtered_length": 79,
+      "retention_ratio": 1.0,
+      "section_description": "\"eee meclis başkan vekili Bekir Bozdağ e usul tartışmasına ilişkin de şu cümleleri sarf etti...\" - The program begins to wrap up with remarks from the parliamentary vice president, indicating"
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

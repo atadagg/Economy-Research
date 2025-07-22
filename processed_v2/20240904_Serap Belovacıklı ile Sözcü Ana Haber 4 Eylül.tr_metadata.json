@@ -1,0 +1,103 @@
+{
+  "file_path": "news/SozcuTV/20240904_Serap Belovacıklı ile Sözcü Ana Haber 4 Eylül.tr.txt",
+  "processing_timestamp": "2025-07-22T17:41:13.505299",
+  "original_word_count": 7371,
+  "filtered_word_count": 221,
+  "retention_ratio": 0.029982363315696647,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "bunlar her zaman gündemimiz ama ekonomi geçinemeyen vatandaş...",
+      "description": "\"bunlar her zaman gündemimiz ama ekonomi geçinemeyen vatandaş...\" - This section introduces the program, setting the stage for the discussion on economic issues and inviting audience participation.",
+      "end_pos": 287
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 287,
+      "start_sentence": "Tabii ki zam bekleyenler var hafife alma hashtagiyle bizlerle paylaşın...",
+      "description": "\"Tabii ki zam bekleyenler var hafife alma hashtagiyle bizlerle paylaşın...\" - This section contains the main news content, discussing political statements, economic conditions, and public sentiment regarding potential early elections and government spending.",
+      "end_pos": 1049
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 1049,
+      "start_sentence": "Tabii x Platformu üzerinden de bir anket açtık...",
+      "description": "\"Tabii x Platformu üzerinden de bir anket açtık...\" - This brief transition connects different parts of the news segment, indicating a shift to audience engagement through polls and comments.",
+      "end_pos": 1149
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1149,
+      "start_sentence": "belovacıklı Serap Serap belovacıklı üzerinden hazine Bakanlığının ın 24 milyon liraya VC tuvalet tadilatı yaptığını hatırlıyoruz...",
+      "description": "\"belovacıklı Serap Serap belovacıklı üzerinden hazine Bakanlığının ın 24 milyon liraya VC tuvalet tadilatı yaptığını hatırlıyoruz...\" - This section continues with specific news stories, focusing on government spending and economic policies, particularly highlighting the contrast between government calls for austerity and actual expenditures.",
+      "end_pos": 1551
+    },
+    {
+      "type": "6. **NEWS**",
+      "start_pos": 1551,
+      "start_sentence": "Diyanet işlerinde 91 milyar 2024 bütçesi Dünyada kaç tur attı b değil...",
+      "description": "\"Diyanet işlerinde 91 milyar 2024 bütçesi Dünyada kaç tur attı b değil...\" - This section continues to delve into specific budgetary issues and government spending, further elaborating on the economic situation and public response.",
+      "end_pos": 1751
+    },
+    {
+      "type": "5. **TRANSITION**",
+      "start_pos": 1751,
+      "start_sentence": "şimdi sırası mı birinci şıkkını tasarruf koca bir yalan...",
+      "description": "\"şimdi sırası mı birinci şıkkını tasarruf koca bir yalan...\" - This transition leads into audience interaction, prompting viewers to respond to questions related to the news discussed.",
+      "end_pos": 1941
+    },
+    {
+      "type": "7. **OUTRO**",
+      "start_pos": 1941,
+      "start_sentence": "şimdi bunları hatırl...",
+      "description": "\"şimdi bunları hatırl...\" - This section appears to wrap up the discussion, likely leading towards a conclusion or summary of the topics covered.",
+      "end_pos": 53247
+    }
+  ],
+  "news_segments_count": 10,
+  "economic_segments_count": 4,
+  "economic_segments": [
+    {
+      "segment_id": "287_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 110,
+      "filtered_length": 50,
+      "retention_ratio": 0.45454545454545453,
+      "section_description": "\"Tabii ki zam bekleyenler var hafife alma hashtagiyle bizlerle paylaşın...\" - This section contains the main news content, discussing political statements, economic conditions, and public sentiment regarding potential early elections and government spending."
+    },
+    {
+      "segment_id": "1941_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 70,
+      "filtered_length": 53,
+      "retention_ratio": 0.7571428571428571,
+      "section_description": "\"şimdi bunları hatırl...\" - This section appears to wrap up the discussion, likely leading towards a conclusion or summary of the topics covered."
+    },
+    {
+      "segment_id": "1941_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 142,
+      "filtered_length": 54,
+      "retention_ratio": 0.38028169014084506,
+      "section_description": "\"şimdi bunları hatırl...\" - This section appears to wrap up the discussion, likely leading towards a conclusion or summary of the topics covered."
+    },
+    {
+      "segment_id": "1941_5",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 83,
+      "filtered_length": 64,
+      "retention_ratio": 0.7710843373493976,
+      "section_description": "\"şimdi bunları hatırl...\" - This section appears to wrap up the discussion, likely leading towards a conclusion or summary of the topics covered."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

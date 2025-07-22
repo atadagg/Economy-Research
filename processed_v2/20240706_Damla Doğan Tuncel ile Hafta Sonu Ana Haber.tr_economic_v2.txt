@@ -1,0 +1,77 @@
+# Economic Content from: 20240706_Damla Doğan Tuncel ile Hafta Sonu Ana Haber.tr.txt
+# Processed: 2025-07-22T17:48:27.354751
+# Original: 5423 words → Filtered: 568 words (10.47% retention)
+# Economic segments: 6
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 57
+**Retention**: 86.36%
+
+Erdoğan, ekonomik veriler ve istatistikler üzerinde durarak, emeklilerin, sabit gelirli bireylerin ve asgari ücretlilerin durumunu ele aldı. Bu grupların 34 aylık maaşlarının artış göstermediği bir ortamda, hükümet yetkililerinin maaşlarına zam yapılmasının adaletsizliğine dikkat çekti. Ekonomik koşulların zorluğu, bu kesimlerin yaşam standartlarını olumsuz etkiliyor. Bu bağlamda, hükümetin ekonomik politikalarının ve maaş artışlarının toplum üzerindeki etkileri tartışılmaya devam ediyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 105
+**Retention**: 70.95%
+
+70 lir buğday fiyatları ton başına 9,8 liralara kadar düştü. Türkiye Ziraat Odaları Birliği Genel Başkanı Şemsi Bayraktar, fiyatlarda iyileştirme istedi. Bu olumsuz tablonun ortadan kaldırılması ve rekoltenin düşeceği göz önünde bulundurularak açıklanan müdahale alım fiyatlarının acilen revize edilmesi gerekiyor. Buğday için ton başına 1750 lira, arpa için ton başına 750 lira olan fark ödemesi desteğinin artırılması gerektiği ifade ediliyor. Niğde milletvekili Ömer Fethi Gürer, hububat üreticilerinin girdi maliyetlerinin çok arttığını belirtti. Çiftçiler, buğday fiyatının en az 15,000 ton seviyesine çıkarılmasını istiyorlar. Çünkü girdi maliyetleri çok yüksek. Niğde'de kavurucu sıcakta hasat yapan çiftçiler, artık tarlayı bırakmayı düşünüyor. Çalıştıkça kazanmak yerine daha da borçlandıklarını ifade ediyorlar.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 138
+**Retention**: 61.61%
+
+Gıda fiyatlarının düşmesi maalesef mümkün görünmüyor. Üstelik şimdi akaryakıta ve elektriğe gelen yeni zamlar var. Fiyatların daha da artması bekleniyor. Tesk başkanı Bendevi Palandöken, son yapılan zamlarla enflasyonun düşmesini beklemenin mümkün olmadığını belirtti. Asgari ücrete ara zam yok, memur ve emeklinin zamı da TÜİK'in sepeti belirsiz hesabıyla kırpıldığını ifade etti. Temmuz başında elektrik ve akaryakıta art arda zam geldi. Akaryakıta gelen zam, elektriğe gelen zam %38 oranında oldu. Doğalgaz ve diğer enerji zamları da göz önüne alındığında, hizmet sektöründe fiyatların geri gelmesi mümkün değil. Palandöken, elektrik ve akaryakıt zamları üzerinden eleştirilerde bulundu ve zam yaparak enflasyonu düşüremeyeceklerini vurguladı. Enflasyonun düşmesi için piyasalara güven verilmesi gerektiğini, yani zam yapılmaması gerektiğini söyledi. İki kalemin tüm sektörleri derinden etkilediğini belirtti. Ekonominin düzeldiği sinyali verilmeden, vatandaşların bu zamları karşılaması mümkün olmayacak. Çözüm için üretimin arttırılması ve temel girdi maliyetlerinin düşürülmesi gerektiğini vurguladı.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 73
+**Retention**: 69.52%
+
+Türkiye'de milyonlarca insan, düşük ücretler altında yaşamaya çalışıyor. Engelliler, market alışverişi yapabilmek için aylık bir ücret alıyorlar. Ancak, birçok engelli birey, geçimlerini sağlamak için çalışmak zorunda kalıyor. Örneğin, bir engelli birey simit satarak geçimini sağlamaya çalışıyor. Türkiye'de asgari ücret 177.000 TL iken, en düşük emekli maaşı sadece 10 TL olarak belirlenmiş durumda. Bu durum, emeklilerin ve düşük gelirli bireylerin yaşam standartlarını ciddi şekilde etkiliyor. Ekonomik koşullar, birçok insanın geçim sıkıntısı çekmesine neden oluyor.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 68
+**Retention**: 41.46%
+
+Dar gelirli ev almanın hayalini bile kuramaz hale geliyor. Asgari ücretle ev almak mümkün değil; şu fiyatlara zaten hiçbir yerde bir ev almazsınız. Maaşlar sabit dururken konut fiyatları yükselişte, yani dar gelirlinin konut sahibi olması günden güne zorlaşıyor. Türkiye'de ortalama konut metrekare fiyatı 32.4, 100 metrekare ev 3.250.000 TL. Merkez Bankası konut fiyatı endeksi böyle diyor. Türkiye'de şartlar böyle artık; 3 milyon TL'ye ev bulmak imkansız hale geldi.
+
+================================================================================
+
+## Economic Segment 6
+
+**Method**: simple_final
+**Confidence**: 0.50
+**Word Count**: 127
+**Retention**: 37.91%
+
+Ekonomik veriler ve istatistikler, Türkiye'deki ekonomik durumun zorluğunu gözler önüne seriyor. Ücretli çalışanlar ve esnaf, mevcut ekonomik koşullar nedeniyle tatile gidemiyor. İşsizlik ve alım gücündeki düşüş, birçok kişinin tatil planlarını etkiliyor. Hükümetin ekonomik politikaları, bu durumu daha da zorlaştırıyor. Dükkan sahipleri, kira ödemelerinde zorluk çekiyor ve iş bulmakta güçlük yaşıyor. 
+
+Türkiye İş Bankası'nın katkılarıyla gerçekleştirilen Bodrum Bale Festivali, ekonomik açıdan önemli bir etkinlik olarak öne çıkıyor. Bu tür organizasyonlar, yerel ekonomiye katkı sağlarken, aynı zamanda turizmi de canlandırma potansiyeline sahip. 
+
+Arçelik'in yaz kampanyası, beyaz eşya ve televizyon alışverişlerinde indirim fırsatları sunarak tüketici harcamalarını teşvik ediyor. Bu tür kampanyalar, ekonomik canlanma için önemli bir adım olarak değerlendiriliyor. 
+
+Sonuç olarak, Türkiye'deki ekonomik zorluklar, bireylerin ve işletmelerin günlük yaşamlarını etkilerken, bazı sektörlerdeki etkinlikler ve kampanyalar, ekonomik hareketliliği artırma çabası içinde.
+
+================================================================================
+
