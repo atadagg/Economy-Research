@@ -1,0 +1,18 @@
+# Economic Content from: 20240525_Show Ana Haber 25 Mayıs 2024.tr.txt
+# Processed: 2025-07-22T17:35:35.907787
+# Original: 3487 words → Filtered: 103 words (2.95% retention)
+# Economic segments: 1
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 103
+**Retention**: 66.88%
+
+Cumhurbaşkanı Erdoğan, enflasyonun düşüşü için kritik tarih açıklarken, "Geçici rahatlama değil, kalıcı düşüş hedefliyoruz" dedi. Ekonomi programımızın asli önceliği enflasyonu tek haneye indirmek suretiyle milletimizin refahını artırmaktır. Enflasyonda kalıcı düşüş hedefliyoruz ve bu konuda kararlıyız. Enflasyonun Mayıs ayında en yüksek seviyeye ulaşmasını ardından hızlı bir düşüşe geçmesini bekliyoruz. Yılın ikinci yarısından itibaren dezenflasyon dönemine gireceğiz. 
+
+Erdoğan, ekonomik mesajlarının ardından yerel seçim sürecine değinerek, muhalefeti eleştirdi. Ancak, ekonomik durumun ciddiyetine dikkat çekerek, "Düne kadar seçim meydanlarına bol keseden vaat dağıtanlar, bugün borç üstüne borç alıyor, zam üstüne zam yapıyorlar" ifadelerini kullandı. Bu bağlamda, hükümetin ekonomik politikalarının etkileri ve mali disiplin konusundaki tutumu önem kazanmaktadır.
+
+================================================================================
+

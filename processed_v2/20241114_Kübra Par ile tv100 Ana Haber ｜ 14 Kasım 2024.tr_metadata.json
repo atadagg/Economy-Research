@@ -1,0 +1,64 @@
+{
+  "file_path": "news/TV100/20241114_Kübra Par ile tv100 Ana Haber ｜ 14 Kasım 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T18:09:54.606387",
+  "original_word_count": 9796,
+  "filtered_word_count": 118,
+  "retention_ratio": 0.012045732952225397,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "TV1 ekranlarından Herkese iyi akşamlar ben Kübra Par...",
+      "description": "\"TV1 ekranlarından Herkese iyi akşamlar ben Kübra Par...\" - This section serves as the opening of the broadcast, where the presenter introduces herself and the program, setting the stage for the news content to follow.",
+      "end_pos": 195
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 195,
+      "start_sentence": "Cumhurbaşkanı Erdoğan'la Devlet Bahçeli bir araya geldiler görüşme Az önce başladı...",
+      "description": "\"Cumhurbaşkanı Erdoğan'la Devlet Bahçeli bir araya geldiler görüşme Az önce başladı...\" - This section contains the main news content, discussing significant political developments in Turkey, including the meeting between President Erdoğan and Devlet Bahçeli, as well as other political issues and public inquiries.",
+      "end_pos": 1543
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 1543,
+      "start_sentence": "Şimdi hemen beştepe'ye gidiyoruz Fatih Poyraz karşımızda...",
+      "description": "\"Şimdi hemen beştepe'ye gidiyoruz Fatih Poyraz karşımızda...\" - This brief transition indicates a shift from the main news discussion to a live report from a correspondent, signaling a change in focus while remaining within the news segment.",
+      "end_pos": 1837
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1837,
+      "start_sentence": "Evet Kübra Par Aslında o görüşme biraz erken başladı...",
+      "description": "\"Evet Kübra Par Aslında o görüşme biraz erken başladı...\" - This continues the news content, providing updates and insights from the correspondent regarding the ongoing meeting between the political leaders.",
+      "end_pos": 70747
+    }
+  ],
+  "news_segments_count": 9,
+  "economic_segments_count": 2,
+  "economic_segments": [
+    {
+      "segment_id": "195_1",
+      "method": "pattern_validated",
+      "confidence": 0.75,
+      "original_length": 128,
+      "filtered_length": 63,
+      "retention_ratio": 0.4921875,
+      "section_description": "\"Cumhurbaşkanı Erdoğan'la Devlet Bahçeli bir araya geldiler görüşme Az önce başladı...\" - This section contains the main news content, discussing significant political developments in Turkey, including the meeting between President Erdoğan and Devlet Bahçeli, as well as other political issues and public inquiries."
+    },
+    {
+      "segment_id": "1837_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 69,
+      "filtered_length": 55,
+      "retention_ratio": 0.7971014492753623,
+      "section_description": "\"Evet Kübra Par Aslında o görüşme biraz erken başladı...\" - This continues the news content, providing updates and insights from the correspondent regarding the ongoing meeting between the political leaders."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

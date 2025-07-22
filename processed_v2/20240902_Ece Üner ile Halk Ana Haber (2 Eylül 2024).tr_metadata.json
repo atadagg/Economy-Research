@@ -1,0 +1,80 @@
+{
+  "file_path": "news/Halk/20240902_Ece Üner ile Halk Ana Haber (2 Eylül 2024).tr.txt",
+  "processing_timestamp": "2025-07-22T17:00:22.666921",
+  "original_word_count": 12569,
+  "filtered_word_count": 281,
+  "retention_ratio": 0.022356591614289125,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "bana getir bunu bırakma anla kanay",
+      "description": "\"bana getir bunu bırakma anla kanay\" - The program begins with an introduction, setting the stage for the news content that follows. The presenter indicates the ongoing coverage of a significant event.",
+      "end_pos": 492
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 492,
+      "start_sentence": "Az önce mahkeme sonuçlandı Cumhuriyet başsavcılığına sevk edilmişti",
+      "description": "\"Az önce mahkeme sonuçlandı Cumhuriyet başsavcılığına sevk edilmişti\" - This section contains the main news story regarding the court proceedings and the details surrounding the arrest and charges against an individual. It includes specific information about the legal process and the implications of the case.",
+      "end_pos": 959
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 959,
+      "start_sentence": "tekrarlıyorum kasten adam öldürme suçundan tutuklandı",
+      "description": "\"tekrarlıyorum kasten adam öldürme suçundan tutuklandı\" - This brief transition indicates a shift in focus within the news story, emphasizing the seriousness of the charges and leading into further details about the case.",
+      "end_pos": 959
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 959,
+      "start_sentence": "ve az önce e ekipler tarafından burada yargılandı",
+      "description": "\"ve az önce e ekipler tarafından burada yargılandı\" - This continues the news segment, providing additional context and details about the court proceedings, including the involvement of security forces and the nature of the interrogation.",
+      "end_pos": 1914
+    },
+    {
+      "type": "5. **OUTRO**",
+      "start_pos": 1914,
+      "start_sentence": "kaç senane adam",
+      "description": "\"kaç senane adam\" - The closing remarks signal the end of the news segment, wrapping up the discussion and providing a final thought or summary related to the news story.",
+      "end_pos": 86968
+    }
+  ],
+  "news_segments_count": 15,
+  "economic_segments_count": 3,
+  "economic_segments": [
+    {
+      "segment_id": "492_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 67,
+      "filtered_length": 67,
+      "retention_ratio": 1.0,
+      "section_description": "\"Az önce mahkeme sonuçlandı Cumhuriyet başsavcılığına sevk edilmişti\" - This section contains the main news story regarding the court proceedings and the details surrounding the arrest and charges against an individual. It includes specific information about the legal process and the implications of the case."
+    },
+    {
+      "segment_id": "1914_7",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 145,
+      "filtered_length": 99,
+      "retention_ratio": 0.6827586206896552,
+      "section_description": "\"kaç senane adam\" - The closing remarks signal the end of the news segment, wrapping up the discussion and providing a final thought or summary related to the news story."
+    },
+    {
+      "segment_id": "1914_10",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 191,
+      "filtered_length": 115,
+      "retention_ratio": 0.6020942408376964,
+      "section_description": "\"kaç senane adam\" - The closing remarks signal the end of the news segment, wrapping up the discussion and providing a final thought or summary related to the news story."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

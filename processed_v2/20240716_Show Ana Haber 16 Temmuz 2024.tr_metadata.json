@@ -1,0 +1,98 @@
+{
+  "file_path": "news/Show/20240716_Show Ana Haber 16 Temmuz 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T17:48:57.746544",
+  "original_word_count": 2790,
+  "filtered_word_count": 386,
+  "retention_ratio": 0.13835125448028673,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "İyi akşamlar değerli izleyenler",
+      "description": "\"İyi akşamlar değerli izleyenler\" - The presenter, Hande Bayraktar, greets the viewers and introduces the program, indicating the start of the broadcast.",
+      "end_pos": 95
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 95,
+      "start_sentence": "fetöcü darbeciler için modern dönem haşhaşileri ifadesini kullandı",
+      "description": "\"fetöcü darbeciler için modern dönem haşhaşileri ifadesini kullandı\" - This section contains the main news content, discussing various topics including President Erdoğan's statements, economic issues, and political events.",
+      "end_pos": 194
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 194,
+      "start_sentence": "Cumhurbaşkanı beştepe'deki 15 Temmuz programında",
+      "description": "\"Cumhurbaşkanı beştepe'deki 15 Temmuz programında\" - This phrase indicates a shift to a different news story, transitioning from one topic to another within the news segment.",
+      "end_pos": 1272
+    },
+    {
+      "type": "4. **TRANSITION**",
+      "start_pos": 1272,
+      "start_sentence": "haftanın ik gününde de kabineyi topladı",
+      "description": "\"haftanın ik gününde de kabineyi topladı\" - Another transition indicating a change in focus to a different aspect of the news, specifically regarding the cabinet meeting.",
+      "end_pos": 1668
+    },
+    {
+      "type": "5. **NEWS**",
+      "start_pos": 1668,
+      "start_sentence": "CHP lideri Özgür Özel'den Özel Harekat polislerine el öpme tepkisi geldi",
+      "description": "\"CHP lideri Özgür Özel'den Özel Harekat polislerine el öpme tepkisi geldi\" - This part continues with additional news content, focusing on political reactions and events.",
+      "end_pos": 19437
+    }
+  ],
+  "news_segments_count": 10,
+  "economic_segments_count": 5,
+  "economic_segments": [
+    {
+      "segment_id": "194_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 145,
+      "filtered_length": 84,
+      "retention_ratio": 0.5793103448275863,
+      "section_description": "\"Cumhurbaşkanı beştepe'deki 15 Temmuz programında\" - This phrase indicates a shift to a different news story, transitioning from one topic to another within the news segment."
+    },
+    {
+      "segment_id": "1668_0",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 164,
+      "filtered_length": 65,
+      "retention_ratio": 0.39634146341463417,
+      "section_description": "\"CHP lideri Özgür Özel'den Özel Harekat polislerine el öpme tepkisi geldi\" - This part continues with additional news content, focusing on political reactions and events."
+    },
+    {
+      "segment_id": "1668_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 188,
+      "filtered_length": 77,
+      "retention_ratio": 0.4095744680851064,
+      "section_description": "\"CHP lideri Özgür Özel'den Özel Harekat polislerine el öpme tepkisi geldi\" - This part continues with additional news content, focusing on political reactions and events."
+    },
+    {
+      "segment_id": "1668_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 175,
+      "filtered_length": 70,
+      "retention_ratio": 0.4,
+      "section_description": "\"CHP lideri Özgür Özel'den Özel Harekat polislerine el öpme tepkisi geldi\" - This part continues with additional news content, focusing on political reactions and events."
+    },
+    {
+      "segment_id": "1668_6",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 132,
+      "filtered_length": 90,
+      "retention_ratio": 0.6818181818181818,
+      "section_description": "\"CHP lideri Özgür Özel'den Özel Harekat polislerine el öpme tepkisi geldi\" - This part continues with additional news content, focusing on political reactions and events."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

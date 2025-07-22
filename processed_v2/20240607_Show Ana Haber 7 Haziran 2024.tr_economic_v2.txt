@@ -1,0 +1,33 @@
+# Economic Content from: 20240607_Show Ana Haber 7 Haziran 2024.tr.txt
+# Processed: 2025-07-22T17:52:39.702144
+# Original: 2473 words → Filtered: 181 words (7.32% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 105
+**Retention**: 72.41%
+
+Cumhurbaşkanı Erdoğan, Türkiye'nin ekonomik büyüme hedeflerine vurgu yaparak, "28 Şubat artıklarına boyun eğmedik, bundan sonra da eğmeyiz" dedi. Bu bağlamda, hükümetin ekonomik politikalarının sürdürülebilirliği üzerinde durdu. Yeni eğitim müfredatının, ülkenin ekonomik kalkınmasına katkı sağlayacak bir nesil yetiştirmeyi amaçladığını belirtti. 
+
+Ayrıca, Türkiye'nin uluslararası eğitim standartlarına ulaşması için yapılan yatırımların önemine değindi. Eğitimdeki bu dönüşümün, iş gücü kalitesini artırarak ekonomik büyümeye katkıda bulunacağını ifade etti. 
+
+Cumhurbaşkanı, İstanbul'da düzenlenen programda, Türkiye'nin geleceği için gerekli olan ekonomik reformların hayata geçirilmesi gerektiğini vurguladı. Bu reformların, hem iç piyasayı canlandıracak hem de uluslararası yatırımcıların ilgisini çekeceğini belirtti. 
+
+Sonuç olarak, hükümetin eğitim politikalarının ekonomik hedeflerle uyumlu bir şekilde ilerlemesi gerektiğini ifade etti.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 76
+**Retention**: 75.25%
+
+Esenyurt'taki akraba ataması ile ilgili de konuştu, atamanın geri alındığını açıkladı. CHP lideri Özgür Özel, gündemdeki erken seçim tartışmaları için "Biz birinci partiyiz, iktidarı devralmak istiyoruz" ifadesini kullandı. Ekonomik veriler ve istatistikler, seçim sonuçlarının ardından Türkiye'nin ekonomik durumu üzerinde önemli bir etki yaratabilir. Ayrıca, Cumhurbaşkanı Erdoğan'a, "Önümüzdeki hafta millete bir müjde vermesini" talep etti. Bayram ikramiyesinin asgari ücrete eşdeğer bir miktarda olması, ekonomik rahatlama sağlayabilir. Bu durum, halkın alım gücünü artırarak, tüketim harcamalarını olumlu yönde etkileyebilir.
+
+================================================================================
+

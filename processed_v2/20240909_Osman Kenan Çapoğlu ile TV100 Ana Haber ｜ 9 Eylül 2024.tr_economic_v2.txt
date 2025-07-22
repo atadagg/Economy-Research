@@ -1,0 +1,46 @@
+# Economic Content from: 20240909_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 9 Eylül 2024.tr.txt
+# Processed: 2025-07-22T18:30:54.656088
+# Original: 10615 words → Filtered: 221 words (2.08% retention)
+# Economic segments: 3
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 86
+**Retention**: 100.00%
+
+000 lira para vereceğim diyor şimdi
+ifadesinin başında şuna değinmiş kendisinin evini yaptırmak için elektrik tesisatı yapması için bir
+yerden Eee malzeme almış ama parası başka parası olmadığı için sonra gittiğinde malzeme vermemiş
+yani paraya sıkışık olduğunu söylüyor yani ben bu parayı paraya sıkışık olduğum için kabul etmek
+zorunda kaldım diyor ama bu ngg olayın olduğu 21 Ağustos Jandarma tarafından sorgulanmış o zaman
+hiçbir şey söylememiş Evet E bunu da bu ifadede soruyor Eee kolluk gücü diyor ki Niye o zaman
+söylemedin korkuyordum diyor şimdi 200
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 68
+**Retention**: 57.14%
+
+Eee bu alanların hepsi bu ailenin sadece 10 dönüm yani Küçük Bir dönüm satması bile Zaten 10 milyon falan ediyor. Yani bu kadar büyük geniş arazileri olan bir adamdan Eee itirafçının da 200 000 liraya kalması gerçekten düşündürücü. Çünkü bu arazilerin hepsi onların ve çok yüksek uçuk rakamlar milyon dolar. Bakın bu ilk Narin yok kaybolduğu sıralarda villalarla alakalı bir alışveriş olması düşünülüyor. 150 milyonluk bir rakamdan bahsediliyordu.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_final
+**Confidence**: 0.50
+**Word Count**: 67
+**Retention**: 30.32%
+
+Bu yıl ilk yerleştirmede yurtlarımızda toplam 356 bin geçerli başvurudan 36 bin öğrencimizin yerleştirmesi ilk aşamada gerçekleşti. Hiçbir öğrencimiz mağdur edilmeyecek şekilde talep eden her öğrencimize barınma imkanı sunacağız. İş dünyasında gençlerimizin hak ettiği yerlere gelmesi için hiçbir fedakarlıktan kaçmıyoruz. Engelli gençlerimizin hayallerini gerçekleştirebilmesi ve hayatın her alanında engelsiz yer alabilmeleri için yoğun gayret sarf ediyoruz. 
+
+Bu düşüncelerle kabine toplantımızda aldığımız kararların milletimize tekrar hayırlı olmasını diliyorum.
+
+================================================================================
+

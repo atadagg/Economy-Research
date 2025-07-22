@@ -1,0 +1,62 @@
+{
+  "file_path": "news/AHaber/20241124_Yurtta şiddetli kar ve fırtına! A Haber karla mücadele noktalarında... ｜ A Haber.tr.txt",
+  "processing_timestamp": "2025-07-22T15:37:58.256470",
+  "original_word_count": 5501,
+  "filtered_word_count": 64,
+  "retention_ratio": 0.011634248318487547,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "İyi geceler değerli izleyenler A Haber ve A Haber radyo ortak yayınında...",
+      "description": "\"İyi geceler değerli izleyenler A Haber ve A Haber radyo ortak yayınında...\" - This section serves as the opening of the broadcast, welcoming viewers and introducing the program and its content.",
+      "end_pos": 197
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 197,
+      "start_sentence": "Tabii ki Narin güran cinayeti ile ilgili gelişmeleri de...",
+      "description": "\"Tabii ki Narin güran cinayeti ile ilgili gelişmeleri de...\" - This section contains the main news content, discussing various topics including the weather conditions and the Narin Güran murder case, along with reports from different correspondents.",
+      "end_pos": 679
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 679,
+      "start_sentence": "Önce Bolu'ya götüreceğiz sizleri meteoroloji 25 şehre sarı...",
+      "description": "\"Önce Bolu'ya götüreceğiz sizleri meteoroloji 25 şehre sarı...\" - This brief transition indicates a shift from the introduction of the news topics to a specific report about the weather in Bolu, signaling a change in focus.",
+      "end_pos": 1167
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1167,
+      "start_sentence": "Aslında sabah 8'den bu yana Bolu'ya dair havanın notlarını aktarmaya devam ediyoruz...",
+      "description": "\"Aslında sabah 8'den bu yana Bolu'ya dair havanın notlarını aktarmaya devam ediyoruz...\" - This section continues the news coverage, providing detailed information about the weather conditions in Bolu and the impact of snowfall.",
+      "end_pos": 1646
+    },
+    {
+      "type": "5. **TRANSITION**",
+      "start_pos": 1646,
+      "start_sentence": "Hatta sizlere şöyle gösterelim bakın gördüğünüz gibi bu noktalarda...",
+      "description": "\"Hatta sizlere şöyle gösterelim bakın gördüğünüz gibi bu noktalarda...\" - This transition leads into a more visual report, indicating a shift to a live update or visual demonstration related to the weather conditions.",
+      "end_pos": 39656
+    }
+  ],
+  "news_segments_count": 4,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "1167_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 64,
+      "filtered_length": 64,
+      "retention_ratio": 1.0,
+      "section_description": "\"Aslında sabah 8'den bu yana Bolu'ya dair havanın notlarını aktarmaya devam ediyoruz...\" - This section continues the news coverage, providing detailed information about the weather conditions in Bolu and the impact of snowfall."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

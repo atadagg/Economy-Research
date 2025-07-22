@@ -1,0 +1,98 @@
+{
+  "file_path": "news/TV100/20240729_Oya Çebi ile TV100 Ana Haber ｜ 29 Temmuz 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T18:53:41.468160",
+  "original_word_count": 11573,
+  "filtered_word_count": 545,
+  "retention_ratio": 0.047092370171951954,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "efendim İyi akşamlar TV3 ekranlarına hoş geldiniz",
+      "description": "\"efendim İyi akşamlar TV3 ekranlarına hoş geldiniz\" - The presenter introduces the program, welcomes viewers, and sets the context for the news broadcast.",
+      "end_pos": 0
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 0,
+      "start_sentence": "Efendim İsrail Lübnan gerginliği dünyanın gündeminde",
+      "description": "\"Efendim İsrail Lübnan gerginliği dünyanın gündeminde\" - The main news content begins, discussing the tensions between Israel and Lebanon, including updates on the situation and reactions from various parties.",
+      "end_pos": 686
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 686,
+      "start_sentence": "Ama dediğim gibi birazdan önce şunu yapacağız",
+      "description": "\"Ama dediğim gibi birazdan önce şunu yapacağız\" - A brief transition indicating a shift in focus to specific details about the Israel-Lebanon conflict before continuing with the news.",
+      "end_pos": 1185
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1185,
+      "start_sentence": "Şimdi biz İsrail Filistin arasındaki biliyorsunuz Savaşı konuşuyorduk",
+      "description": "\"Şimdi biz İsrail Filistin arasındaki biliyorsunuz Savaşı konuşuyorduk\" - Continuation of the news segment, elaborating on the ongoing conflict and its implications, including specific incidents and responses.",
+      "end_pos": 1478
+    },
+    {
+      "type": "5. **NEWS**",
+      "start_pos": 1478,
+      "start_sentence": "Hizbullah hafta sonu İsrail'in golan tepelerindeki üstlerine vurdu",
+      "description": "\"Hizbullah hafta sonu İsrail'in golan tepelerindeki üstlerine vurdu\" - Further details on the conflict, including specific events and their consequences, maintaining the focus on the Israel-Lebanon situation.",
+      "end_pos": 82315
+    }
+  ],
+  "news_segments_count": 14,
+  "economic_segments_count": 5,
+  "economic_segments": [
+    {
+      "segment_id": "1478_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 208,
+      "filtered_length": 120,
+      "retention_ratio": 0.5769230769230769,
+      "section_description": "\"Hizbullah hafta sonu İsrail'in golan tepelerindeki üstlerine vurdu\" - Further details on the conflict, including specific events and their consequences, maintaining the focus on the Israel-Lebanon situation."
+    },
+    {
+      "segment_id": "1478_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 153,
+      "filtered_length": 145,
+      "retention_ratio": 0.9477124183006536,
+      "section_description": "\"Hizbullah hafta sonu İsrail'in golan tepelerindeki üstlerine vurdu\" - Further details on the conflict, including specific events and their consequences, maintaining the focus on the Israel-Lebanon situation."
+    },
+    {
+      "segment_id": "1478_7",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 186,
+      "filtered_length": 67,
+      "retention_ratio": 0.3602150537634409,
+      "section_description": "\"Hizbullah hafta sonu İsrail'in golan tepelerindeki üstlerine vurdu\" - Further details on the conflict, including specific events and their consequences, maintaining the focus on the Israel-Lebanon situation."
+    },
+    {
+      "segment_id": "1478_8",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 191,
+      "filtered_length": 127,
+      "retention_ratio": 0.6649214659685864,
+      "section_description": "\"Hizbullah hafta sonu İsrail'in golan tepelerindeki üstlerine vurdu\" - Further details on the conflict, including specific events and their consequences, maintaining the focus on the Israel-Lebanon situation."
+    },
+    {
+      "segment_id": "1478_9",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 176,
+      "filtered_length": 86,
+      "retention_ratio": 0.48863636363636365,
+      "section_description": "\"Hizbullah hafta sonu İsrail'in golan tepelerindeki üstlerine vurdu\" - Further details on the conflict, including specific events and their consequences, maintaining the focus on the Israel-Lebanon situation."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

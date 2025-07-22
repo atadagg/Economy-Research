@@ -1,0 +1,49 @@
+# Economic Content from: 20241102_Nilüfer Özkan ile tv100 Ana Haber ｜ 2 Kasım 2024.tr.txt
+# Processed: 2025-07-22T18:44:08.433006
+# Original: 5608 words → Filtered: 467 words (8.33% retention)
+# Economic segments: 4
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 169
+**Retention**: 69.26%
+
+9 milyar dolarlık bir kredi çekilmişti. Dünya Bankası'nın daha önce % 144'lük bir önerisi vardı; ancak bu öneriyi son alınan kredi ile beraber % 25'e kadar yükseltmişti. Bu sene konuşulan asgari ücret artışının, gerçekleşen enflasyon üzerinden mi yoksa 2025 yılında öngörülen enflasyon üzerinden mi olacağı tartışılıyor. Geçtiğimiz yıllarda asgari ücret artışları hep gerçekleşen enflasyon üzerinden belirlenmişti. Hatta geçen yıl Temmuz-Aralık döneminde % 37 olan enflasyon oranındaki artışın daha üstünde % 49'luk bir asgari ücret artışı olmuştu. Bu, işçinin kayıplarının telafi edilmesi açısından önemliydi. Maliye Bakanımız Sayın Mehmet Şimşek, asgari ücret tespit Komisyonu'nun belirleyeceğini ifade etti. Ancak piyasanın dengesini bozmayacak bir asgari ücret olacağını düşündüğünü belirtti. Sayın Bakan, asgari ücretin ne çok düşük ne de enflasyonu tetikleyecek kadar yüksek olmasını umduğunu söyledi. Geçtiğimiz yıllardaki verilere göre, enflasyonun ilk 9 aydaki verisi % 35 olarak gerçekleşti. Yıl sonundaki hedeflenen enflasyon ise Merkez Bankası ve Orta Vadeli Planda ortalama olarak % 42-43 seviyelerinde gerçekleşecek. Piyasa, enflasyonla beraber asgari ücret artışının en azından kaybedilenlerin telafi edilmesi noktasında % 38'lik bir artışla olacağını öngörüyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 120
+**Retention**: 61.54%
+
+500 liralık 2025 yılının Ocak ayında bir asgari ücret olacağını öngörebilmek, enflasyon artışını da dikkate alan bir artış olacak diyor Hazine ve Maliye Bakanı Mehmet Şimşek. Cumhurbaşkanı Erdoğan, vatandaşları enflasyona ezdirmeyeceklerini sıkça vurguluyor. Ekonomi yönetimi % 25 enflasyon tahmininde bulunurken, AK Parti yönetimi % 28-30 civarında bir artış öngörüyor. Bu durum, işçiyi ve işvereni mutlu eder mi? Sayın Cumhurbaşkanımızın % 25'lik bir oranı kabul etmeyeceğini ve buna müdahale edeceğini düşünüyorum çünkü işçiyi enflasyon karşısında ezdirmeyeceklerini belirtiyorlar. Yıl sonunda bir enflasyon açıklanırsa ve işçi kesimine % 25'lik bir artış olursa, bu artış mevcut yaşam koşullarına geçilmesini mümkün kılmayabilir. Eylül ayında Türk İş'in açıkladığı açlık sınırı 19,800 lira olarak belirlenmişti ve önümüzdeki 3 ay içinde bu rakamın daha yüksek değerlere ulaşması bekleniyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 84
+**Retention**: 73.68%
+
+Ben % 25 her ne kadar konuşulsa da bunun hükümet tarafından olmayacağını düşünüyorum. Yani bir asgari ücret tespit komisyonu elbette ki çıkacak, orada hükümet bir hakem heyeti olarak masada dursa da müdahale edileceğini düşünüyorum. Yani benim öngörüm en azından enflasyonun yakın oranda bir asgari ücret artışını düşündürüyor. Evet, peki emekli maaşlarına ilişkin de tabii değerlendirmeler yapılıyor. Bir taraftan yıl sonu enflasyon oranına göre o da netlik kazanacak. Elbette ama emekli maaşlarında nasıl bir tablo bekliyoruz, özellikle de mevcut en düşük emekli maaşı malumunuz 12.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 94
+**Retention**: 83.19%
+
+Evet, hükümet bunu da değerlendirmeye alıyor. Emekli maaş zammı oranları ile ilgili olarak, emekliler enflasyon farkını alıyorlar. Şu anda ilk 9 ayda Temmuz, Ağustos ve Eylül'de % 99'luk 3 aylık enflasyonu almış durumdalar. Ocak ayındaki zamları garanti altına almış oldular. Önümüzde Ekim, Kasım ve Aralık enflasyonları da açıklanacak. Burada son Temmuz-Aralık ayı enflasyonu için % 13,5 civarı bir beklentimiz var. Bunun % 115 civarında emeklilere yansıyacağını ve en azından % 5'lik bir refah payı ilave edilerek % 120'lik bir emekliye artış olacağını düşünüyorum. En düşük emekli aylığında da 12,500 liradan 15,000 liraya çıkması bekleniyor.
+
+================================================================================
+

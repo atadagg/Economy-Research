@@ -1,0 +1,75 @@
+{
+  "file_path": "news/Show/20240517_Show Ana Haber 17 Mayıs 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T17:20:18.179782",
+  "original_word_count": 3735,
+  "filtered_word_count": 398,
+  "retention_ratio": 0.10655957161981258,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "İyi akşamlar sayın seyirciler",
+      "description": "\"İyi akşamlar sayın seyirciler\" - The presenter, Pınar Erbaş Ersoy, opens the broadcast, greeting the viewers and introducing the program's focus on the day's significant developments.",
+      "end_pos": 99
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 99,
+      "start_sentence": "tarım ve hayvancılık Kredi desteklerinde limitler arttırıldı",
+      "description": "\"tarım ve hayvancılık Kredi desteklerinde limitler arttırıldı\" - The main content of the broadcast includes various news stories, starting with updates on agricultural credit support limits announced by President Erdoğan, followed by discussions on meat prices and political reactions to recent legal decisions.",
+      "end_pos": 1175
+    },
+    {
+      "type": "3. **OUTRO**",
+      "start_pos": 1175,
+      "start_sentence": "Bunun yerine eleştirel ama daha yapıcı Bir anlayışın ikame edilmesi",
+      "description": "\"Bunun yerine eleştirel ama daha yapıcı Bir anlayışın ikame edilmesi\" - The closing remarks summarize the discussions and provide a final thought on the need for constructive criticism in politics, signaling the end of the program.",
+      "end_pos": 26669
+    }
+  ],
+  "news_segments_count": 10,
+  "economic_segments_count": 4,
+  "economic_segments": [
+    {
+      "segment_id": "99_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 137,
+      "filtered_length": 91,
+      "retention_ratio": 0.6642335766423357,
+      "section_description": "\"tarım ve hayvancılık Kredi desteklerinde limitler arttırıldı\" - The main content of the broadcast includes various news stories, starting with updates on agricultural credit support limits announced by President Erdoğan, followed by discussions on meat prices and political reactions to recent legal decisions."
+    },
+    {
+      "segment_id": "1175_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 92,
+      "filtered_length": 92,
+      "retention_ratio": 1.0,
+      "section_description": "\"Bunun yerine eleştirel ama daha yapıcı Bir anlayışın ikame edilmesi\" - The closing remarks summarize the discussions and provide a final thought on the need for constructive criticism in politics, signaling the end of the program."
+    },
+    {
+      "segment_id": "1175_6",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 160,
+      "filtered_length": 91,
+      "retention_ratio": 0.56875,
+      "section_description": "\"Bunun yerine eleştirel ama daha yapıcı Bir anlayışın ikame edilmesi\" - The closing remarks summarize the discussions and provide a final thought on the need for constructive criticism in politics, signaling the end of the program."
+    },
+    {
+      "segment_id": "1175_7",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 124,
+      "filtered_length": 124,
+      "retention_ratio": 1.0,
+      "section_description": "\"Bunun yerine eleştirel ama daha yapıcı Bir anlayışın ikame edilmesi\" - The closing remarks summarize the discussions and provide a final thought on the need for constructive criticism in politics, signaling the end of the program."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

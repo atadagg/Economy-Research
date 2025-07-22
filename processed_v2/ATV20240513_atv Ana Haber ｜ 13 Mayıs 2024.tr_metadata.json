@@ -1,0 +1,71 @@
+{
+  "file_path": "news/ATV/ATV20240513_atv Ana Haber ｜ 13 Mayıs 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T16:49:02.730448",
+  "original_word_count": 4583,
+  "filtered_word_count": 218,
+  "retention_ratio": 0.04756709578878464,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 23,
+      "start_sentence": "İyi akşamlar Bugün 13 Mayıs 2024 Pazartesi...",
+      "description": "\"İyi akşamlar Bugün 13 Mayıs 2024 Pazartesi...\" - The opening of the broadcast where the presenter greets the audience and introduces the date and context of the news.",
+      "end_pos": 75
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 75,
+      "start_sentence": "komşu yunanistan'la yeni dönem kapsamında önemli bir ziyaret gerçekleşiyor...",
+      "description": "\"komşu yunanistan'la yeni dönem kapsamında önemli bir ziyaret gerçekleşiyor...\" - The main news content discussing the visit of the Greek Prime Minister to Turkey, the discussions held between the leaders, and the topics covered, including bilateral relations and regional issues.",
+      "end_pos": 91
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 91,
+      "start_sentence": "Cumhurbaşkanı Erdoğan konuğuna Gazze'de yaşanan zulmü de hatırlattı...",
+      "description": "\"Cumhurbaşkanı Erdoğan konuğuna Gazze'de yaşanan zulmü de hatırlattı...\" - A brief transition within the news segment that shifts focus from the bilateral discussions to the issue of Gaza, indicating a change in topic while still within the news content.",
+      "end_pos": 386
+    },
+    {
+      "type": "5. **OUTRO**",
+      "start_pos": 386,
+      "start_sentence": "bölgesel konular başlığı altındaya İsrail'in Gazze katliamı en sıcak başlıktır...",
+      "description": "\"bölgesel konular başlığı altındaya İsrail'in Gazze katliamı en sıcak başlıktır...\" - The closing remarks that summarize the key points discussed and highlight the ongoing issues, leading towards the end of the news segment.",
+      "end_pos": 965
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 965,
+      "start_sentence": "Türkiye Yunanistan arasındaki ikili ilişkiler ayrıntılarıyla gözden geçirildi...",
+      "description": "\"Türkiye Yunanistan arasındaki ikili ilişkiler ayrıntılarıyla gözden geçirildi...\" - Continuation of the news segment detailing the outcomes of the meeting, including agreements on trade and cooperation on various issues.",
+      "end_pos": 33310
+    }
+  ],
+  "news_segments_count": 10,
+  "economic_segments_count": 2,
+  "economic_segments": [
+    {
+      "segment_id": "965_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 201,
+      "filtered_length": 91,
+      "retention_ratio": 0.4527363184079602,
+      "section_description": "\"Türkiye Yunanistan arasındaki ikili ilişkiler ayrıntılarıyla gözden geçirildi...\" - Continuation of the news segment detailing the outcomes of the meeting, including agreements on trade and cooperation on various issues."
+    },
+    {
+      "segment_id": "965_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 189,
+      "filtered_length": 127,
+      "retention_ratio": 0.671957671957672,
+      "section_description": "\"Türkiye Yunanistan arasındaki ikili ilişkiler ayrıntılarıyla gözden geçirildi...\" - Continuation of the news segment detailing the outcomes of the meeting, including agreements on trade and cooperation on various issues."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

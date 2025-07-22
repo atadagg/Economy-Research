@@ -1,0 +1,49 @@
+# Economic Content from: 20240904_Ece Üner ile Halk Ana Haber (4 Eylül 2024).tr.txt
+# Processed: 2025-07-22T16:56:39.102312
+# Original: 11771 words → Filtered: 302 words (2.57% retention)
+# Economic segments: 4
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 75
+**Retention**: 44.38%
+
+Bugün ekonomik verilerle ilgili önemli gelişmeler yaşanıyor. Ekonomi kötü, emekliler direniyor ve bu durum, toplumun genel ekonomik durumunu yansıtıyor. Emekliler, geçim sıkıntısı nedeniyle protesto ediyorlar ve bu durum, ekonomik koşulların ne kadar zorlayıcı olduğunu gösteriyor. Ekonomik veriler, insanların yaşam standartlarını doğrudan etkiliyor. Ayrıca, hükümetin ekonomik politikaları da bu durumu şekillendiriyor. Ekonomik göstergeler, toplumun genel refah düzeyini belirlemede kritik bir rol oynuyor. Bu bağlamda, emeklilerin yaşadığı zorluklar, ülkenin ekonomik yapısının ne kadar kırılgan olduğunu ortaya koyuyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 72
+**Retention**: 36.36%
+
+Fiyatlar ve peşin fiyatına 6 taksit fırsatıyla evlerinize geliyor. Ekonomik veriler ve istatistikler, tüketici harcamalarının artışını gösteriyor. Doğan İnşaat, Türkiye'nin 81 ilinde hizmet veren çözüm ortağınız olarak inşaat sektöründe önemli bir rol oynamaktadır. İnşaat ve çatı izolasyonunda kalite ve estetiğin adresi olan Doğan İnşaat, profesyonel ekibiyle projeleri zamanında teslim etmeyi taahhüt ediyor. Bu tür yatırımlar, inşaat sektöründeki büyümeyi destekliyor. Ekonomik analizler, inşaat sektöründeki bu gelişmelerin genel ekonomik büyümeye olumlu katkı sağladığını göstermektedir.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 89
+**Retention**: 69.53%
+
+Özel okula çocuğunu gönderen bir ailenin bu dönem karşısına çıkan sadece çocuğunun kitap ücreti 40 ila 50.000 lira. Resmi gazetede yayınlanan düzenlemeye göre özel okullarda bakanlık tarafından ücretsiz dağıtılan kitapların okutulması zorunlu, ancak bazı özel okullar bu yönetmeliğe uymuyor. Yeni eğitim yılı öncesinde velilerden fahiş oranda kitap ücreti talep ediliyor. İstenilen kitap fiyatları 40 ila 50.000 lira bandında, bu rakam geçtiğimiz yıl 6 ila 10.000 lira arasındaydı ve neredeyse 5 katına yükseldi. Bazı aileler özel okullardan alıp çocuklarını devlet okullarına kayıt ettirmeye ya da başka bir okul arayışına girdi.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 66
+**Retention**: 42.31%
+
+Çiğdem ormanı arazisi yapılaşmaya açılıyor ve özelleştirme kapsamına alındı. 2023'te özelleştirilen Çiftliğin arazisinde yer alan Çiğdem ormanı için ihaleye çıkıldı. 104 metrekarelik alana 12 katlı devasa binaların ve alışveriş merkezinin yapılması planlanıyor. Proje 9 Ağustos'ta Erdoğan tarafından onaylandı ve alanın özelleştirildiği resmi gazetede duyuruldu. İhale için son teklif 25 Eylül'de alınacak. Sözcü gazetesinin haberine göre, arazinin satışından elde edilen gelirle Dışişleri Bakanlığı'na yeni hizmet binaları yapılacak.
+
+================================================================================
+

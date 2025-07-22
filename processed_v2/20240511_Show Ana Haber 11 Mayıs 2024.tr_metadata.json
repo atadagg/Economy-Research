@@ -1,0 +1,71 @@
+{
+  "file_path": "news/Show/20240511_Show Ana Haber 11 Mayıs 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T17:27:52.519745",
+  "original_word_count": 3478,
+  "filtered_word_count": 175,
+  "retention_ratio": 0.05031627372052904,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "İyi akşamlar değerli izleyenler",
+      "description": "\"İyi akşamlar değerli izleyenler\" - The presenter introduces herself and indicates the start of the program, mentioning that she will convey the important headlines of the day.",
+      "end_pos": 92
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 92,
+      "start_sentence": "öğretmenlerimize rahat ve güvenli ortamı sunmak",
+      "description": "\"öğretmenlerimize rahat ve güvenli ortamı sunmak\" - This section contains the main news content, discussing various topics including violence against teachers, statements from President Erdoğan, and legislative changes regarding education and safety for teachers.",
+      "end_pos": 1166
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 1166,
+      "start_sentence": "MHP lideri Devlet Bahçeli",
+      "description": "\"MHP lideri Devlet Bahçeli\" - This marks a transition to a new news story about a meeting between political leaders at a funeral, indicating a shift in focus from the previous topic.",
+      "end_pos": 1166
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1166,
+      "start_sentence": "CHP'nin Eski Genel Başkanı Kemal Kılıçdaroğlu",
+      "description": "\"CHP'nin Eski Genel Başkanı Kemal Kılıçdaroğlu\" - This section continues with the news content, detailing the interactions between political figures at a memorial service and the atmosphere during the event.",
+      "end_pos": 1837
+    },
+    {
+      "type": "5. **NEWS**",
+      "start_pos": 1837,
+      "start_sentence": "Cumhurbaşkanı Özel Kalem Müdürü Hasan Doğan'ın vefat eden babası",
+      "description": "\"Cumhurbaşkanı Özel Kalem Müdürü Hasan Doğan'ın vefat eden babası\" - This part continues the news segment, likely discussing another significant event related to a political figure's family.",
+      "end_pos": 24204
+    }
+  ],
+  "news_segments_count": 7,
+  "economic_segments_count": 2,
+  "economic_segments": [
+    {
+      "segment_id": "1837_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 172,
+      "filtered_length": 53,
+      "retention_ratio": 0.3081395348837209,
+      "section_description": "\"Cumhurbaşkanı Özel Kalem Müdürü Hasan Doğan'ın vefat eden babası\" - This part continues the news segment, likely discussing another significant event related to a political figure's family."
+    },
+    {
+      "segment_id": "1837_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 282,
+      "filtered_length": 122,
+      "retention_ratio": 0.4326241134751773,
+      "section_description": "\"Cumhurbaşkanı Özel Kalem Müdürü Hasan Doğan'ın vefat eden babası\" - This part continues the news segment, likely discussing another significant event related to a political figure's family."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

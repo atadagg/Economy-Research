@@ -1,0 +1,38 @@
+# Economic Content from: ATV20240531_atv Ana Haber ｜ 31 Mayıs 2024.tr.txt
+# Processed: 2025-07-22T16:15:21.303046
+# Original: 4744 words → Filtered: 230 words (4.85% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 146
+**Retention**: 100.00%
+
+yerleşti yarın Başkan Erdoğan bir açılış konuşması olacak kampa tasarruf tedbirleri damga vurdu öyle
+başlayalım vekiller AK Parti Genel Merkezinin önünden otobüslerle kampın yapılacağı otele
+ulaştırıldı kampa Bu yıl aileler de davet edilmedi başka tedbirler de var işte ilk günden kameralara
+yansıyanlar yorulan arkadaşlarımız motivasyonunu yitiren arkadaşlarımız varsa onları dinlenmeye
+alacağız yeni heyecanlı dinamik arkadaşlarımızla kadromuzu güçlendirerek yolumuza devam edeceğiz
+değişimin sinyalini bu sözlerle vermişti AK Parti yerel seçimlerin ardından yeni rotasını belirlemek
+için Kızılca hamam'da kampa giriyor AK Parti'de kamp mesaisi başlıyor yeni yol haritasının
+belirleneceği kampa tasarruf tedbirler damga vuracak tasarruf her alanda kendini hissettirdi
+milletvekilleri için genel merkezden otobüs kaldırıldı beraber kalacak katılımcılarımız olacak 34
+arkadaşımız beraber gelenler vesa aileler yok işte eşler çocuklar kampa vekiller daha önce olduğu
+gibi aileleriyle katılmayacak tasarruf tedbirleri kapsamında her odayı iki vekil paylaşacak kamu
+kurumlarının milletimize ve iş dünyamıza tasarruf kültüründe de örnek olmasını rehberlik etmesini
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 84
+**Retention**: 49.41%
+
+Piyasalar için önemli bir veri geldi bugün ayın son günü 2024 yılı ilk çeyrek büyüme rakamlarını açıkladı. Türkiye ekonomisi ilk çeyrekte bir önceki yılın aynı ayına göre % 5,7 büyüme kaydetti. Hazine ve Maliye Bakanı Mehmet Şimşek, hedefimize kararlı adımlarla ilerliyoruz diyor. Bütün amaç tabii sürdürülebilir yüksek büyüme. Ekonomi reçetesi sahaya yansımaya başladı. Türkiye 2024 yılının ilk çeyreğinde % 5,7 büyüdü. TÜİK'in verilerine göre 2023 yılının ilk çeyreğinde % 4 olarak ölçülen büyüme oranı, 2024 yılının ilk 3 aylık raporunda % 5 olarak güncellendi.
+
+================================================================================
+

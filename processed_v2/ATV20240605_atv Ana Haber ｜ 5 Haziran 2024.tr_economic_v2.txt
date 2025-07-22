@@ -1,0 +1,43 @@
+# Economic Content from: ATV20240605_atv Ana Haber ｜ 5 Haziran 2024.tr.txt
+# Processed: 2025-07-22T16:30:57.851415
+# Original: 4544 words → Filtered: 266 words (5.85% retention)
+# Economic segments: 3
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 83
+**Retention**: 100.00%
+
+kabul etmesi sürpriz oldu Evet akşener'i uzun zamandır görmüyorduk Bu da ayrı bir sürpriz oldu
+aslında en son 27 Nisan tarihindeki kurultayda koltuğu Derviş oğluna devrettiği gün görmüştük
+Çiftlik evine kapandı torununu seviyor yakınları dışında kimseyle görüşmüyor iddiaları vardı ki bu
+bu iddiaların ardından Yani 3540 günün ardından siyaset arenasında yeni imajıyla gördük akşener'i Bu
+da bir diğer sürpriz oldu açıkçası yeni imajı sanırım seyircilerimiz de dikkatinden kaçmamıştır
+hatta şu an fotoğrafı da görüyoruz ekranda ilk dikkat çeken saçları oldu Meclis Başkan vekilliği
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 104
+**Retention**: 40.47%
+
+Peki kimler yararlanabilecek bu destekten başvurular nasıl yapılacak işte yanıtlar. Çalışan annelere 325 Euro destek sağlanacak ancak projenin bazı şartları var. Buradaki en önemli şart annenin halen çalışıyor olması ve SSK'lı olması. Bu anlamda 325 euroluk destekten faydalanacaktır. Bu desteğin süresi bir yıl yani 12 ayla sınırlı ve başvuru şartları çocuğun en fazla 2 yaşında olması gerekiyor. Proje şimdilik sadece Ankara ve İzmir'de oturan anneleri kapsıyor. Başvurular nasıl yapılacak istenilen tüm şartlara uygun bir anne ile beraberiz ve destek programına beraber ön kayıt yapacağız. Önce e-devlet üzerinden giriş yapıyorsunuz, ardından sizi sosyal güvenlik kurumunun bu sayfasına yönlendirecek. Burada istenilen bilgileri girdikten sonra başvurunuzu tamamlayabiliyorsunuz.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 79
+**Retention**: 38.54%
+
+Ülkemizde tuz tüketiminde nasıl bir tablo var? Rakamlar ürkütücü. İngiltere'de yapılan bir araştırmanın sonucu, bu rakamların ne kadar büyük bir tehlike oluşturduğunu bir kez daha ortaya koydu. Tuz tüketiminin sağlığa zararlı olduğu biliniyor ve Avrupa'da tuza bağlı rahatsızlıklar yüzünden günde 10 kişi hayatını kaybediyor. Bu durum, sağlık harcamalarını artırarak ekonomik yük oluşturuyor. Ekonomik analizler, sağlıklı beslenmenin ve tuz tüketiminin kontrol altına alınmasının, sağlık sistemine olan yükü azaltabileceğini gösteriyor. Bu nedenle, hükümetin tuz tüketimini azaltmaya yönelik politikalar geliştirmesi önem taşıyor.
+
+================================================================================
+

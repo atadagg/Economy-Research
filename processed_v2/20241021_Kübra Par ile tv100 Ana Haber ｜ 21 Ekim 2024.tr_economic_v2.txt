@@ -1,0 +1,73 @@
+# Economic Content from: 20241021_Kübra Par ile tv100 Ana Haber ｜ 21 Ekim 2024.tr.txt
+# Processed: 2025-07-22T18:21:25.198467
+# Original: 9917 words → Filtered: 429 words (4.33% retention)
+# Economic segments: 6
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 87
+**Retention**: 47.80%
+
+Bu hafta emeklilerimizle ilgili özel bir dosya açıyoruz. Geçinemeyen emeklilerin mesajları, ekonomik zorlukları gözler önüne seriyor. Türkiye'de ekonomik piramidin en altında yer alan emekliler, geçim derdiyle karşı karşıya. Şu anda 12,500 lirayla geçinmeye çalışan büyük bir kesim var. Ay sonunu zor getiren milyonlarca emekli, aldıkları maaşlarla geçinmekte zorlanıyor. Emekli maaşları, birçok kişi için yetersiz kalıyor. Örneğin, 30 sene 4 ay 25 gün prim ödeyerek emekli olan bir kişi, aldığı maaşın geçim için yeterli olmadığını belirtiyor. Bu durum, Türkiye'deki ekonomik koşulların ve emeklilik sisteminin yeniden değerlendirilmesi gerektiğini gösteriyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 70
+**Retention**: 56.91%
+
+2024 yılının ilk yarısında emekliye % 49 zam yapıldı ancak Temmuz ayına gelindiğinde bu zam eridi gitti. Yılın ikinci yarısında yapılan % 24,73'lük zamda sokakta hissedilen enflasyona yenik düştü. Domatesin kilosu 60.000 liraya yükseldi. Şu anda 3 tane emekli maaşından geçinemiyoruz; kira, doğalgaz, elektrik ve su fiyatları da cep yakıyor. Türkiye İşçi Sendikaları Konfederasyonu (Türk-İş) tarafından açıklanan verilere göre, açlık sınırı 19.000 lirayı aştı, yoksulluk sınırı ise 65.000 liraya ulaştı.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 57
+**Retention**: 35.19%
+
+Mutfak enflasyonu yıllık ortalama % 70 arttı. Emekli maaşlarının düşük gitmesi gerçekten bir beka sorunu haline gelebilir. En düşük emekli maaşının 25,000 L ile 30,000 L bandına yükselmesi gerektiği yönünde ortak bir talep var. Ancak uzmanlara göre emeklilere yeni yılda yapılabilecek zam oranı % 155'i geçmeyecek. Bu durumda en düşük emekli maaşı en fazla 15,000 L olacak.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 52
+**Retention**: 68.42%
+
+Geçim derdine düşen emekli, ilerleyen yaşına rağmen çalışmak zorunda kalıyor. Bu durum, Türkiye'de çalışan emekli sayısının ilk defa 2 milyonu aşmasına neden oldu. Emekli maaşlarının açlık sınırının üzerine çıkarılması gerektiği vurgulanıyor. Ekonomik koşullar, emeklilerin yaşam standartlarını doğrudan etkiliyor. Bu bağlamda, en düşük emekli maaşlarının artırılması talebi, ekonomik bir gereklilik olarak öne çıkıyor.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 69
+**Retention**: 55.65%
+
+İstanbul'da yoksulluk oranı her geçen gün artıyor; istatistikler acı gerçeği ortaya çıkarıyor. İstanbul Planlama Ajansı yoksulluk istatistikleri raporunu yayınladı. Raporda 2023 yılındaki yoksulluk oranının önceki seneye göre artış göstererek % 118,119 olduğu belirtiliyor. % 34'ü ise taze sebze meyveye bile günlük olarak erişemiyor. Verilerde İstanbul nüfusunun % 58'inin 2 günde bir et, tavuk ya da balıktan oluşan yemek yiyemediği ifade ediliyor. Eylül 2024 için açıklanan yoksulluk sınırı ise 64.
+
+================================================================================
+
+## Economic Segment 6
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 94
+**Retention**: 58.02%
+
+Bazen bu ülkedeki bürokratlar acaba halkın neye kızıp neye kızmadığını hiç takip etmiyor mu diye sorasım geliyor. Türkiye'deki sığınmacı ve yabancı sayısı, ekonomik etkileri nedeniyle önemli bir konu haline geldi. Türkiye'de yabancı öğrenci sayısı 340,000'e ulaşmış durumda ve hedefler 500,000 olarak belirlenmiş. Bu durum, eğitim sektöründeki yatırımların ve uluslararası rekabetin artırılması açısından kritik bir öneme sahip. 
+
+Sayın YÖK başkanına şöyle bir çağrım var: Türkiye'deki yabancı öğrencilerin sayısını 500,000 çıkarırken, dünyada ilk 500'e giren üniversitelerimizin sayısını arttırmaya odaklanmalıyız. Bu ülkenin artık daha fazla yabancı nüfusa değil, daha kaliteli eğitime ve daha kaliteli üniversitelere ihtiyacı var.
+
+================================================================================
+

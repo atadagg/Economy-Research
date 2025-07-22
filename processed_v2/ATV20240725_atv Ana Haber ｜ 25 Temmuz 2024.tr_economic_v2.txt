@@ -1,0 +1,36 @@
+# Economic Content from: ATV20240725_atv Ana Haber ｜ 25 Temmuz 2024.tr.txt
+# Processed: 2025-07-22T16:06:20.314512
+# Original: 4731 words → Filtered: 143 words (3.02% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: pattern_validated
+**Confidence**: 0.75
+**Word Count**: 60
+**Retention**: 100.00%
+
+vermişlerdi şimdi sorduğunuzda yanlıştı deyip geçiyorlar Tıpkı hiroshima ve nagazaki attıkları atom
+bombalarında yaptıkları ür filmini çek özür dile bakalım Bu utanç verici alkış için ne zaman çıkıp
+özür dileyecekler Ne var ki en can sıkıcı olan da bu zaten unutuyoruz bu kez unutmayalım hitleri
+unutmadığımız gibi Gazze kasabı ve ona destek veren o takım elbiseli Azmi bizim düşmanlarımız Sizin
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_final
+**Confidence**: 0.50
+**Word Count**: 83
+**Retention**: 100.00%
+
+000 K yol yaparak eşsiz bir deneyim yaşayan örnek togu Avrupalıların hırsızlıkla
+beklediğinin altını çizdi şarz ederken geliyor araca bakıyorlar kontrol ediyorlar telefondan
+bakıyorlar bana gelip soruyorlar ne kadar menzile gidebiliyor ne kadar e kuvvetli hareketli konforlu
+bunlar hep sorgulamasını yaptılar bende ve Hepsine de tek tek oturup anlattım Ana Haberin Sonuna
+Geldik Az sonra Atv'nin sevilen yarışması alan ekranlarınızda olacak şimdi kısa bir ara kapanış için
+birazdan yeniden burada olacağız ana haber bültenimiz in sonuna geldik yarın akşam görüşmek üzere
+iyi akşamlar
+
+================================================================================
+

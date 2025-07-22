@@ -1,0 +1,93 @@
+{
+  "file_path": "news/TV100/20240814_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 14 Ağustos 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T18:11:15.937875",
+  "original_word_count": 11398,
+  "filtered_word_count": 517,
+  "retention_ratio": 0.04535883488331286,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "Mutlu akşamlar 14 Ağustos Çarşamba hafta ortasında...",
+      "description": "\"Mutlu akşamlar 14 Ağustos Çarşamba hafta ortasında...\" - The opening segment introduces the program, the date, and the presenter, setting the stage for the news content to follow.",
+      "end_pos": 99
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 99,
+      "start_sentence": "Bugün siyasi arenada önemli bir gündü...",
+      "description": "\"Bugün siyasi arenada önemli bir gündü...\" - This section contains the main news content, discussing significant political events, particularly focusing on the 23rd anniversary of the ruling party and statements made by President Erdoğan.",
+      "end_pos": 886
+    },
+    {
+      "type": "3. **OUTRO**",
+      "start_pos": 886,
+      "start_sentence": "Bu sözlerle başladı konuşmasına Cumhurbaşkanı Recep Tayyip Erdoğan...",
+      "description": "\"Bu sözlerle başladı konuşmasına Cumhurbaşkanı Recep Tayyip Erdoğan...\" - The closing remarks summarize the key points made during the news segment and provide a conclusion to the broadcast.",
+      "end_pos": 82274
+    }
+  ],
+  "news_segments_count": 16,
+  "economic_segments_count": 6,
+  "economic_segments": [
+    {
+      "segment_id": "886_5",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 194,
+      "filtered_length": 66,
+      "retention_ratio": 0.3402061855670103,
+      "section_description": "\"Bu sözlerle başladı konuşmasına Cumhurbaşkanı Recep Tayyip Erdoğan...\" - The closing remarks summarize the key points made during the news segment and provide a conclusion to the broadcast."
+    },
+    {
+      "segment_id": "886_6",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 299,
+      "filtered_length": 128,
+      "retention_ratio": 0.4280936454849498,
+      "section_description": "\"Bu sözlerle başladı konuşmasına Cumhurbaşkanı Recep Tayyip Erdoğan...\" - The closing remarks summarize the key points made during the news segment and provide a conclusion to the broadcast."
+    },
+    {
+      "segment_id": "886_7",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 112,
+      "filtered_length": 72,
+      "retention_ratio": 0.6428571428571429,
+      "section_description": "\"Bu sözlerle başladı konuşmasına Cumhurbaşkanı Recep Tayyip Erdoğan...\" - The closing remarks summarize the key points made during the news segment and provide a conclusion to the broadcast."
+    },
+    {
+      "segment_id": "886_10",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 190,
+      "filtered_length": 75,
+      "retention_ratio": 0.39473684210526316,
+      "section_description": "\"Bu sözlerle başladı konuşmasına Cumhurbaşkanı Recep Tayyip Erdoğan...\" - The closing remarks summarize the key points made during the news segment and provide a conclusion to the broadcast."
+    },
+    {
+      "segment_id": "886_11",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 229,
+      "filtered_length": 111,
+      "retention_ratio": 0.4847161572052402,
+      "section_description": "\"Bu sözlerle başladı konuşmasına Cumhurbaşkanı Recep Tayyip Erdoğan...\" - The closing remarks summarize the key points made during the news segment and provide a conclusion to the broadcast."
+    },
+    {
+      "segment_id": "886_13",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 80,
+      "filtered_length": 65,
+      "retention_ratio": 0.8125,
+      "section_description": "\"Bu sözlerle başladı konuşmasına Cumhurbaşkanı Recep Tayyip Erdoğan...\" - The closing remarks summarize the key points made during the news segment and provide a conclusion to the broadcast."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

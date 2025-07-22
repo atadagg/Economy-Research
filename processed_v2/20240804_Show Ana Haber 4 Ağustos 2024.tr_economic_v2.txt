@@ -1,0 +1,16 @@
+# Economic Content from: 20240804_Show Ana Haber 4 Ağustos 2024.tr.txt
+# Processed: 2025-07-22T17:49:31.349895
+# Original: 2930 words → Filtered: 71 words (2.42% retention)
+# Economic segments: 1
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 71
+**Retention**: 40.57%
+
+Bolu Belediyesi, daha temiz bir şehir arzusu ile yeni kararlar almış ve sigara izmariti, çekirdek kabuğu ve çöp atan kişilere ceza uygulayacağını duyurmuştur. Bu karar, şehirdeki temizlik ve düzenin sağlanması açısından önemli bir adım olarak değerlendirilmektedir. Zabıta ekipleri, bu kurallara uymayanları tespit edip ceza kesmeye başlamıştır. Bu tür uygulamalar, yerel yönetimlerin ekonomik kaynaklarını daha verimli kullanabilmesi için gereklidir. Şehirdeki temizlik hizmetlerinin artırılması, uzun vadede sağlık harcamalarını azaltabilir ve yaşam kalitesini yükseltebilir.
+
+================================================================================
+

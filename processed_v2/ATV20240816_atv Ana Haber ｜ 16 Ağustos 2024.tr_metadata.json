@@ -1,0 +1,48 @@
+{
+  "file_path": "news/ATV/ATV20240816_atv Ana Haber ｜ 16 Ağustos 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T16:25:21.358830",
+  "original_word_count": 4986,
+  "filtered_word_count": 79,
+  "retention_ratio": 0.015844364219815485,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 23,
+      "start_sentence": "İyi akşamlar Bugün 16 Ağustos 2024 Cuma...",
+      "description": "\"İyi akşamlar Bugün 16 Ağustos 2024 Cuma...\" - This section serves as the opening of the broadcast, where the presenter greets the audience and provides the date and context for the news.",
+      "end_pos": 77
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 77,
+      "start_sentence": "Cumhurbaşkanı Erdoğan jandarma ve Sahi güvenlik akademisi'nde mezuniyet törenine katıldı...",
+      "description": "\"Cumhurbaşkanı Erdoğan jandarma ve Sahi güvenlik akademisi'nde mezuniyet törenine katıldı...\" - This section contains the main news content, detailing President Erdoğan's participation in a graduation ceremony and his statements regarding security and terrorism.",
+      "end_pos": 297
+    },
+    {
+      "type": "3. **OUTRO**",
+      "start_pos": 297,
+      "start_sentence": "Eren bülbül ile Jandarma assubay Ferhat Gedi rahmetle ediyorum...",
+      "description": "\"Eren bülbül ile Jandarma assubay Ferhat Gedi rahmetle ediyorum...\" - This section includes closing remarks, where the presenter reflects on the events covered and pays tribute to individuals mentioned in the news.",
+      "end_pos": 35674
+    }
+  ],
+  "news_segments_count": 8,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "297_5",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 194,
+      "filtered_length": 79,
+      "retention_ratio": 0.4072164948453608,
+      "section_description": "\"Eren bülbül ile Jandarma assubay Ferhat Gedi rahmetle ediyorum...\" - This section includes closing remarks, where the presenter reflects on the events covered and pays tribute to individuals mentioned in the news."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

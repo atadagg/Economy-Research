@@ -1,0 +1,69 @@
+{
+  "file_path": "news/ATV/ATV20240712_atv Ana Haber ｜ 12 Temmuz 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T16:02:26.525705",
+  "original_word_count": 4535,
+  "filtered_word_count": 86,
+  "retention_ratio": 0.01896361631753032,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 23,
+      "start_sentence": "İyi akşamlar Bugün 12 Temmuz 2024 Cuma bültenimize...",
+      "description": "\"İyi akşamlar Bugün 12 Temmuz 2024 Cuma bültenimize...\" - The opening of the broadcast where the presenter greets the audience and introduces the date and the program.",
+      "end_pos": 93
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 93,
+      "start_sentence": "yazık ki acı bir haberle başlıyoruz pençe kelit Harekat bölgesinden geldi o haber...",
+      "description": "\"yazık ki acı bir haberle başlıyoruz pençe kelit Harekat bölgesinden geldi o haber...\" - The main news content begins with a report on a tragic event related to military operations, detailing the loss of a soldier and subsequent military actions.",
+      "end_pos": 387
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 387,
+      "start_sentence": "ve tabii acı haberin ardından hemen aktaralım Irak'ın kuzeyinde devam eden...",
+      "description": "\"ve tabii acı haberin ardından hemen aktaralım Irak'ın kuzeyinde devam eden...\" - A brief transition phrase that indicates a shift from the initial tragic news to ongoing military operations in Iraq.",
+      "end_pos": 387
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 387,
+      "start_sentence": "pençe harekatında pençe kilit harekatında ise kilidin kapanması artık an meselesi...",
+      "description": "\"pençe harekatında pençe kilit harekatında ise kilidin kapanması artık an meselesi...\" - Continuation of the news segment, providing detailed updates on military operations, including the capture of ammunition depots and the status of terrorist activities.",
+      "end_pos": 1648
+    },
+    {
+      "type": "5. **TRANSITION**",
+      "start_pos": 1648,
+      "start_sentence": "hakura düzenlenen operasyonda İsa örgütün keskin nişancısı öldürüldü...",
+      "description": "\"hakura düzenlenen operasyonda İsa örgütün keskin nişancısı öldürüldü...\" - Another transition phrase that introduces a specific operation and its outcome, indicating a shift in focus within the news segment.",
+      "end_pos": 1844
+    },
+    {
+      "type": "6. **NEWS**",
+      "start_pos": 1844,
+      "start_sentence": "washington'daki liderler Zirvesi sona erdi Cumhurbaşk...",
+      "description": "\"washington'daki liderler Zirvesi sona erdi Cumhurbaşk...\" - The news segment continues with a report on an international event, indicating a new story within the overall news content.",
+      "end_pos": 33054
+    }
+  ],
+  "news_segments_count": 10,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "1844_7",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 95,
+      "filtered_length": 86,
+      "retention_ratio": 0.9052631578947369,
+      "section_description": "\"washington'daki liderler Zirvesi sona erdi Cumhurbaşk...\" - The news segment continues with a report on an international event, indicating a new story within the overall news content."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

@@ -1,0 +1,107 @@
+# Economic Content from: 20241014_Kübra Par ile tv100 Ana Haber ｜ 14 Ekim 2024.tr.txt
+# Processed: 2025-07-22T18:07:59.946499
+# Original: 8256 words → Filtered: 742 words (8.99% retention)
+# Economic segments: 8
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 79
+**Retention**: 77.45%
+
+Bugün ekonomiye dair önemli bir gelişme yaşandı. Dünyaca ünlü ekonomist Profesör Doktor Daron Acemoğlu, Nobel ekonomi ödülünü kazandı. Bu ödülü, birlikte kitaplar yazdığı iki ekonomist olan Simon Johnson ve James Robinson ile paylaştı. Nobel komitesi, bu üç ekonomisti hukukun üstünlüğünün zayıf olduğu kurumsal yapıların halkı sömürdüğü toplumlarda büyüme ve daha iyiye doğru değişim gerçekleşmez tezini nedenleriyle birlikte ortaya koydukları için ekonomi alanında Nobel ile ödüllendirdi. Bu başarı, ekonomik gelişmelerin ve kurumsal yapıların önemini bir kez daha gözler önüne seriyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 110
+**Retention**: 56.70%
+
+Cevdet Yılmaz, kredi kartı limitini 100.000 liranın üzerinde olanlardan yıllık 750 TL savunma sanayine katkı payı alınacağını açıkladı. Bu düzenleme, kredi kartı limiti 100.000 lira ve üzeri olan kart sahiplerinden 750 lira katkı payı alınmasına ilişkin bir düzenleme olarak duyuruldu. Ak Parti grup başkanı Abdullah Güler, savunma sanayi destekleme fonu kaynaklarının artırılması için yapılan çalışmaları anlattı. 
+
+Bu düzenlemenin ardından birçok kart sahibi, limitlerini 100.000 liranın altına çekme yoluna gitti. Kredi kartı sahiplerinin, belirlenen 750 liralık bu verginin her bir kartlarından ayrı ayrı alınması planlanıyor. Yasa yürürlüğe girdikten sonra, kart sahiplerinin ödediği ücret geri iade edilmeyecek. Ayrıca, fiziki kartlara bağlı ek kart veya sanal kartlar için ayrıca pay alınmayacağı da belirtildi.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 77
+**Retention**: 54.61%
+
+Bankalara müşterilerine uyarılarda bulundu. 126 milyona yakın bir kredi kartı sayısı var, yani 60 milyon civarının limiti de 100.000 liranın üzerinde. Böylece 45 milyar TL'lik bir kaynak aslında ortaya çıkıyor. Bankalar böyle bir şey talep etmezler. Kredi kartı limiti 100.000 liranın üzerinde olması, o insanın 100.000 lirayı harcadığı anlamına gelmez. Harcanamayan bir şey üzerinden vergi alınamayacağı için, bu durum belki de katılma payı olarak isimlendirildi ve değerlendirildi. Aldığımız 12.000 lira maaşla geçiniyoruz, benim 100.000 liralık limitim var.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 85
+**Retention**: 45.95%
+
+Kredi kartı limitinin vatandaşlar tarafından belirlendiği ve özel bankalarla ilişki içinde olduğu bir ödeme aracı olduğu belirtiliyor. Kredi kartlarımızın durumu, ekonomik verilerin ve finansal sistemin nasıl işlediğine dair önemli bir gösterge. Milli Savunma sanayinin önemi pek çok kişi tarafından fark ediliyor, ancak bu alanda yapılacak katkıların nasıl toplanacağı ve dağıtılacağı konusunda tartışmalar sürüyor. Yüksek gelirli vatandaşların, ülke için hangi alanda katkıda bulunmak istediklerine göre kesinti yapılmasını kabul edebilecekleri bir sistem önerisi gündeme gelebilir. Bu tür bir sistem, ekonomik katkıların daha adil bir şekilde toplanmasını sağlayabilir.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 128
+**Retention**: 37.65%
+
+Türkiye'de bir Çelik kubbe yapma hazırlığında olduğu belirtiliyor. Cevdet Yılmaz, savunma sanayi icra komitesinin birçok kritik projenin yanı sıra katmanlı hava savunma sistemleri ile tüm algılayıcı ve silahların bir ağ yapısı altında entegre çalışması için bir Çelik kubbe yapılmasını karara bağladığını ifade etti. Alınan bu kararın savunma sanayini güçlendirmeye yönelik olduğu vurgulandı. Ayrıca, savunma sanayi fonu destek amaçlı bir paket teklif edildiği ve bu pakette bütçeye tek bir kuruş bile gitmeyeceği belirtildi. Cevdet Yılmaz, bu alandaki çalışmaların Çelik kubbe projesinden diğer kritik teknolojilere kadar varlığın daha da güçlendirilmesine yönelik olduğunu söyledi. 
+
+Bu bağlamda, Türkiye'nin savunma sanayisinde yaptığı yatırımlar ve projeler, ekonomik büyüme ve istihdam açısından önemli bir yere sahip. Çelik kubbe projesinin, Türkiye'nin savunma sanayisindeki yerini güçlendireceği ve bu alandaki ekonomik etkilerinin göz önünde bulundurulması gerektiği ifade ediliyor.
+
+================================================================================
+
+## Economic Segment 6
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 38
+**Retention**: 43.68%
+
+The filtered text focusing on economics, finance, and business is as follows:
+
+Devlete 750 lira savunma sanayine destek verecek. Bu milletin ve devletin onun gibi düşünenlerin parasına ihtiyacı yok. Başta devlet bankalarımız olmak üzere tüm milli bankalarımız çağrımızdır.
+
+================================================================================
+
+## Economic Segment 7
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 135
+**Retention**: 43.13%
+
+Bugünkü kabine toplantımızda, gıda konusunda süregiden tartışmalarda güvenilir mevzuatta belirlenen şartlara uygun şekilde imal edilmiş gıdaya erişimini temin etmek önemli bir konu olarak ele alındı. Tarım Bakanlığımızın yaptığı denetimlerin gayesi budur. Gıda kontrol ekiplerimiz geçen yıl 1,3 milyon denetim gerçekleştirmiştir ve bu yıl şimdiye kadar 999 denetim yapılmıştır. Bu denetimlerin artırılması, gıda güvenliğini sağlamak ve fiyat istikrarını korumak açısından kritik öneme sahiptir. 
+
+Ayrıca, son dönemde milletimizde serzenişlere sebep olan cezasızlık algısının ortadan kaldırılması için gereken kanuni düzenlemeleri mutlaka hayata geçireceğiz. İlgili bakanlıklarımız ve AK Parti meclis grubumuz, Cumhur İttifakındaki ortaklarımızla beraber çalışarak hukuki adımların atılmasını sağlayacak. Bu adımlar, ekonomik istikrarı sağlamak ve yatırım ortamını iyileştirmek amacıyla atılacaktır. 
+
+Önümüzdeki dönemde, Balkan coğrafyasındaki diğer ülkelerle işbirliğimizi ilerletecek bu anlayışla ekonomik ilişkilerimizi güçlendireceğiz. Türk Devletleri Teşkilatı bünyesinde ilişkilerimiz sürekli gelişiyor ve bu durum, ticaret hacmimizi artırma potansiyeli taşımaktadır.
+
+================================================================================
+
+## Economic Segment 8
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 90
+**Retention**: 51.14%
+
+The filtered text focusing on economics, finance, and business is as follows:
+
+AKP'nin hazırladığı yasa teklifine göre birçok işlemden savunma sanayi katılma payı alınacak. Biz vergide adalet olsun, çok kazananlardan az vergi alınsın, vatandaş vergilerin altında ezilmesin diyoruz. Ancak, toplumda oluşan cezasızlık algısı yıllardır süregelen bir cezasızlık durumu var. Bu durum, ekonomik istikrarı olumsuz etkileyebilir. 
+
+Cumhurbaşkanı Erdoğan kabine sonrası normalleşme iklimine nasıl sahip çıktıklarından söz etmişti. Normalleşme, ekonomik faaliyetlerin canlanmasına katkı sağlayabilir. Özgür Özel, normalleşmenin CHP'ye yarayacağını belirtti. Bu durum, siyasi istikrarın ekonomik büyümeye etkisi açısından önemli bir gösterge olabilir.
+
+================================================================================
+

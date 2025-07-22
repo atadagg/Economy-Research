@@ -1,0 +1,78 @@
+{
+  "file_path": "news/ATV/ATV20240531_atv Ana Haber ｜ 31 Mayıs 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T16:15:21.303046",
+  "original_word_count": 4744,
+  "filtered_word_count": 230,
+  "retention_ratio": 0.048482293423271504,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 23,
+      "start_sentence": "İyi akşamlar Bugün 31 Mayıs 2024 Cuma",
+      "description": "\"İyi akşamlar Bugün 31 Mayıs 2024 Cuma\" - The opening of the broadcast, where the presenter greets the audience and introduces the date and context of the news.",
+      "end_pos": 75
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 75,
+      "start_sentence": "AK Parti'de yerel seçimlerin ardından yeni yol haritasının belirleneceği 31 istişare ve değerlendirme kampı Kızılca hamam'da başladı",
+      "description": "\"AK Parti'de yerel seçimlerin ardından yeni yol haritasının belirleneceği 31 istişare ve değerlendirme kampı Kızılca hamam'da başladı\" - The main news content discussing the AK Party's evaluation camp following local elections, detailing the participants, the significance of the camp, and the measures being taken.",
+      "end_pos": 295
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 295,
+      "start_sentence": "Kampa tasarruf tedbirleri damga vurdu",
+      "description": "\"Kampa tasarruf tedbirleri damga vurdu\" - A brief transition that introduces the focus on cost-saving measures within the context of the camp.",
+      "end_pos": 1456
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1456,
+      "start_sentence": "Kamp Cumhurbaşkanı Erdoğan'ın açılış konuşmasıyla resmen başlayacak",
+      "description": "\"Kamp Cumhurbaşkanı Erdoğan'ın açılış konuşmasıyla resmen başlayacak\" - Continuation of the news segment detailing the agenda of the camp, including the opening speech by President Erdoğan and the topics to be discussed.",
+      "end_pos": 1644
+    },
+    {
+      "type": "5. **TRANSITION**",
+      "start_pos": 1644,
+      "start_sentence": "kampta bilgilendirme amaçlı hazırlanan metinler basılı doküman olarak katılımcılara ulaştırılmaya",
+      "description": "\"kampta bilgilendirme amaçlı hazırlanan metinler basılı doküman olarak katılımcılara ulaştırılmaya\" - Another transition that shifts focus to the materials being provided to participants during the camp.",
+      "end_pos": 1942
+    },
+    {
+      "type": "6. **NEWS**",
+      "start_pos": 1942,
+      "start_sentence": "İsrail'in Filisti",
+      "description": "\"İsrail'in Filisti\" - This appears to be the beginning of a new news story, although the content is cut off. It indicates a shift to a different topic related to Israel.",
+      "end_pos": 33954
+    }
+  ],
+  "news_segments_count": 6,
+  "economic_segments_count": 2,
+  "economic_segments": [
+    {
+      "segment_id": "295_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 146,
+      "filtered_length": 146,
+      "retention_ratio": 1.0,
+      "section_description": "\"Kampa tasarruf tedbirleri damga vurdu\" - A brief transition that introduces the focus on cost-saving measures within the context of the camp."
+    },
+    {
+      "segment_id": "1942_0",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 170,
+      "filtered_length": 84,
+      "retention_ratio": 0.49411764705882355,
+      "section_description": "\"İsrail'in Filisti\" - This appears to be the beginning of a new news story, although the content is cut off. It indicates a shift to a different topic related to Israel."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

@@ -1,0 +1,51 @@
+# Economic Content from: 20240924_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 24 Eylül 2024.tr.txt
+# Processed: 2025-07-22T18:40:00.800806
+# Original: 9134 words → Filtered: 388 words (4.25% retention)
+# Economic segments: 4
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 158
+**Retention**: 79.80%
+
+02 liradan sene başında 17 2 liraya yükselen asgari ücret 2025 Ocak'ta ne kadar olacak, nasıl bir artış bekleniyor? 7 milyon asgari ücretlinin maaş artışı için tablo netleşiyor. Ocak ayında asgari ücret % 49 artışla net 17 2 liraya çıkacak. Yeni ücret görüşmeleri Aralık ayında yapılacak. Asgari ücret tespit Komisyonu, 6 aylık enflasyonu dikkate alarak yeni ücreti belirleyecek. İşçi ve işveren kesiminin de masada olduğu bir ortamda, devletin moderatörlüğünde bir komisyon tarafından belirleniyor. İşçi kesimi genelde daha yüksek asgari ücret istiyor, işveren kesimi daha düşük istiyor. Devlet de o sene ekonomik politikaları gereğince hangisine uygun görüyorsa o tarafta tavır alarak karar veriyor. Asgari ücretin neti 2025 yılında geçerli olacak. Asgari ücret için piyasa beklentileri oldukça yüksek. Orta vadeli programa göre yıl sonu enflasyon beklentisi % 41,5. Uzmanlar da asgari ücrete enflasyonun altında zam yapılmayacağını öngörüyor. Merkez Bankası'nın bu seneki beklediği enflasyon % 41,5 civarında. Asgari ücret bir kere enflasyondan daha düşük olamaz. İlk 6 aylık enflasyon % 24.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 91
+**Retention**: 68.42%
+
+7 Daha sonrasında 3 32 ve 247 geldi yıl sonu hedefi 41 5 4 aylık bir enflasyon verisi var şu anda açıklanmayan 1 Ocak 2024 itibaren geçerli olan. 17 2 liralık asgari ücrete piyasa beklentileri dahilinde artış yapılırsa ücret ne kadara yükselecek. Cumhurbaşkanının devamlı söylediğinin arkasında durarak biz hiçbir zaman için ücretliyi dar gelirliyi enflasyon karşısında ezdirmeyeceğiz şeklinde bir söylemi var. Enflasyon 41,5 seviyesinde çıktığında yıl sonunda beklentilerde orantılı olarak asgari ücretin de %45 seviyesinde bir rakama gelmesi gerektiğini düşünüyorum. Merkez Bankası enflasyon hedefi 42 seviyesinde olursa %24 000 liraya geliyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 89
+**Retention**: 59.33%
+
+Asgari ücret bir yıldır 000 lirada sabit kalırken, özel sektör ve kamu maaşları arasındaki makas giderek açılıyor. En düşük memur aylığı bile asgari ücretin iki katını aşıyor. Bu durum, üniversite mezunu gençlerin memur olma talebini artırıyor. Özel sektörde çalışanlar da sürekli iş değiştirmeye başladılar; bu ekonomi şartlarında devlet bünyesinde çalışmak daha cazip hale geliyor. 
+
+Altın fiyatları da dikkat çekici bir artış gösteriyor; haftanın ikinci gününde ons altın fiyatı tarihi seviyelere yükseldi ve gram altın fiyatı yeni bir rekora imza attı. Yıl sonunda gram altın fiyatının 3,000 lirayı görmesi bekleniyor.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 50
+**Retention**: 45.45%
+
+Altın fiyatları uçuşa geçti, piyasa hareketlendi ve en çok artış gram altında görüldü. Daha sene sonuna gelmeden gram altın 3,000 lira seviyelerine yaklaştı. Yıl sonu beklentimiz 2,600 dolar seviyesine kadar. Merkez bankalarının fiyatlandırmaları da bu durumu etkiliyor. Ekonomik veriler ve piyasa dinamikleri, altın için konuşulan kısa vadede 300'ler olduğunu gösteriyor.
+
+================================================================================
+

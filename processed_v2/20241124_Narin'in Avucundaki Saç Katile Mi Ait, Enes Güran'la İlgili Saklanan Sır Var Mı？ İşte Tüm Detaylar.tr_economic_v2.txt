@@ -1,0 +1,20 @@
+# Economic Content from: 20241124_Narin'in Avucundaki Saç Katile Mi Ait, Enes Güran'la İlgili Saklanan Sır Var Mı？ İşte Tüm Detaylar.tr.txt
+# Processed: 2025-07-22T15:52:32.844372
+# Original: 16827 words → Filtered: 120 words (0.71% retention)
+# Economic segments: 1
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 120
+**Retention**: 62.83%
+
+Erdoğan, son 20 yılda eğitime ayrılan bütçenin 1 trilyon milyar liraya ulaştığını vurguladı. 20 yılda eğitimde gerçekleştirilen reformlara değindi; görevi devraldıkları dönemde 367 bin olan derslik sayısının bugün resmi ve özel olmak üzere toplam 735 bine çıktığını belirtti. Bu gelişmeler, eğitim alanındaki yatırımların ve hükümetin ekonomik politikalarının bir yansıması olarak değerlendirilebilir. 
+
+Başkan Erdoğan, Marif modeliyle sorgulayıp düşünen nesiller yetiştirmeyi amaçladıklarını vurguladı. Yeni müfredatın, öğrencileri akademik anlamda donanımlı kılmanın ötesinde, okuyan, düşünen ve sorumluluk bilinci yüksek kuşaklar olarak yetiştirmeyi hedeflediğini ifade etti. Bu tür eğitim reformları, uzun vadede iş gücü kalitesini artırarak ekonomik büyümeye katkıda bulunabilir. 
+
+Hükümetin eğitim alanındaki bu yatırımları, Türkiye'nin ekonomik geleceği açısından kritik bir öneme sahiptir. Eğitimdeki bu gelişmeler, aynı zamanda iş gücü piyasasında da olumlu etkiler yaratabilir.
+
+================================================================================
+

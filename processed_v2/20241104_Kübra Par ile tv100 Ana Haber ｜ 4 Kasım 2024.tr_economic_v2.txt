@@ -1,0 +1,38 @@
+# Economic Content from: 20241104_Kübra Par ile tv100 Ana Haber ｜ 4 Kasım 2024.tr.txt
+# Processed: 2025-07-22T18:37:05.020683
+# Original: 9215 words → Filtered: 292 words (3.17% retention)
+# Economic segments: 3
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 113
+**Retention**: 58.55%
+
+Kümülatif olarak 12,06 civarında bir 4 aylık enflasyon gerçekleşmesi var. Ekim ayı enflasyonu, ekonomistlerin tahminlerinin üzerine çıkarak yıllık bazda % 48,58 gerçekleşmiş oldu. Böylelikle Ekim ayının verilerinin açıklanmasıyla şu ana kadar hak edilen zam oranı % 12,206 oldu. Bu yılın son çeyreğinde Ekim ayı enflasyon verisi % 2,88 olarak kayıtlara geçti. 2024 yılının son çeyreğinde 4 aylık enflasyon oranının netleşmesi ile 2025 yılında alınacak zam oranları hesaplanmaya başladı. En düşük memur aylığının % 12,2 artması durumunda, 40.000 olan memur aylığının 45.719 liraya yükselebileceği tahmin ediliyor. Uzmanların beklentisi ise bu yıl için bir refah payının olmayacağı yönünde. Ekim ayındaki % 2,88 olarak açıklanan enflasyon, kira zam oranlarını nasıl etkileyecek, bu da önemli bir konu.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 64
+**Retention**: 43.84%
+
+Ekim ayı enflasyonu açıklandı, yıllık kira artışı ise %62,02 olarak belirlendi. Şu anda Türkiye'de ortalama kira 18.750 civarında. Yılbaşında açıklanacak asgari ücret zammı, Türkiye'deki ortalama kirayı da belirleyecek. Kiralar hangi yönde ilerleyecek? Ekonomik veriler, ev sahibi ve kiracılar arasındaki ilişkiyi etkileyen önemli bir faktör. Ekim ayı enflasyonu %2,88 olarak açıklandı. Bu veriler, kiracıları ve ev sahiplerini yakın vadede nelerin beklediğine dair önemli ipuçları sunuyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 115
+**Retention**: 86.47%
+
+Son bir yıldaki artış % 47, baktığınız zaman % 60'lık 65'lik bir enflasyon ortalamasına bakarsanız, enflasyonun aslında altında kaldığını göreceksiniz. Son 2 yıllık artış zaten % 240 civarında. Yani biz aslında enflasyonu % 25'lik sınırlamaya çalıştık ama yine % 240'a vurdu. Ev kirasında 2 yıllık artış, sezon kapandığı için durumu fırsat olarak görüyor. Buradaki en düşük kira Türkiye'de Muş ilimizde 7600 lirayla olurken, en yüksek kira 25 500 lirayla Muğla'da oldu. Türkiye'nin en önemli kenti İstanbul'da şu anda metrekare kira fiyatı 230-240 TL'ler civarında. Yani ortalama 100 metrekare bir evin kirası 23 000-24 000 TL civarında. Yeni yılda gerçekleşecek asgari ücret zammıyla ortalama kiranın 30 000 TL olması bekleniyor. Türkiye genelinde bizim beklentimiz ortalama 18.
+
+================================================================================
+

@@ -1,0 +1,16 @@
+# Economic Content from: 20240323_Show Ana Haber 23 Mart 2024.tr.txt
+# Processed: 2025-07-22T17:47:33.032584
+# Original: 2069 words → Filtered: 92 words (4.45% retention)
+# Economic segments: 1
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 92
+**Retention**: 67.65%
+
+Otobüs firmaları kışın rekabet etmek için fiyatları aşağı çekmişti. Ancak bayram öncesi talep artınca fiyatlar yeniden yükselişe geçti. Bayram telaşı ile birlikte bazı güzergahlarda fiyatların iki katına çıktığı belirtiliyor. Fiyatlar % 10000 gibi görünüyor ama aslında 15 gün önce 1 milyar olan fiyat şimdi 1300 olmuş durumda. Bayram öncesi otobüs biletlerine talep artınca indirimli fiyatlar birden normale döndü. İzmir'de normal fiyat şu anda 600 TL iken bayramda 1050 TL'ye kadar çıkıyor. Akaryakıta gelen zam da bu fiyat artışında etkili. Ulaşım Bakanlığına bildirilen fiyat 1100 TL iken, bazı firmalar 700 TL'ye bilet kesiyor.
+
+================================================================================
+

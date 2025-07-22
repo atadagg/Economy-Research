@@ -1,0 +1,55 @@
+# Economic Content from: 20241111_Kübra Par ile tv100 Ana Haber ｜ 11 Kasım 2024.tr.txt
+# Processed: 2025-07-22T18:13:49.433670
+# Original: 9960 words → Filtered: 465 words (4.67% retention)
+# Economic segments: 4
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 112
+**Retention**: 32.28%
+
+Şu anda yurt dışında olduğu için gözaltına alınamadı hakkında Eee arama kararı var devam edelim. Muzaffer Zor bey Erkoçlar 2 milyon takipçisi var. Kendini iş insanı olarak tanıtıyor. Dünyaca ünlü ekonomi dergilerinden Forbes'e konuk oldu. 
+
+Legal bahis siteleri, özellikle maçlarla ilgili tahmin siteleri, daha fazla kazandırmasıyla Eee legal bahse göre daha cazip görünüyor. Oyun çeşitliliği fazla, yani seçenekler de fazla. Türkiye'de kumar yasak ama mobilde bazı uygulamalara para yüklüyorsunuz. 
+
+Bir genci kandırmak için önce gençlerin hesabına kredi yüklüyorlar. İlk oynadığınızda kazandırıyorlar, bir daha oynuyorsunuz yine kazandırıyorlar. Bu süreçte, belli bir meblağdan sonra tüm kazandıklarınızı kaybettiriyorlar. 
+
+Krediyle oynatıyorlar ve bu borçlar işin içine mafya giriyor. Yasa dışı bahis mevzusu, özellikle pandemi sonrasında arttı.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 145
+**Retention**: 76.32%
+
+Cuma günü eleştirmişti Mansur Yavaş, 127 milyar 844 milyon lira para harcamışız konser harcamaları için. Bu 127 milyarın içerisinde oran nedir acaba? Evet, % bile değil. Pazartesiyi bekleyin dedi tartışma yaratan konser harcamalarına ilişkin sessizliğini bozdu. 17, 18, 19'da 3 adet konser teknik kurulum 48 milyon lira sanatçılara ve ekiplerine ödenen paralar da 30 milyon lira. 30 Ağustos'ta gene tam Taşçı konserine kurulumla beraber 41 milyon 950 bin lira ödenmiş. Bu şahısların kendine bu kadar para ödendiği iddiası tamamen yalandır. Ankara Büyükşehir Belediye Başkanı Mansur Yavaş, kameraların karşısındaydı ve 19 Mayıs Atatürk'ü Anma Gençlik ve Spor Bayramında 71 milyon lira ödendiği iddiasını yalanladı. Gülşen, Murat Boz ve Mor ve Ötesi konserlerinde sanatçılara toplam 30 milyon lira verildiğini belirtti. Ses, sahne, ışık, dekor gibi hizmet kalemleri için 31 milyon 680 bin lira harcandı. Bunun içerisinde Ebru Gündeş'in bütün ekibine ödenen para 4 milyon 750 bin lira.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 93
+**Retention**: 69.40%
+
+Merkez Bankası enflasyon tahminini yükseltti, asgari ücrette de beklentiler yukarı yönlü güncellendi. Orta vadeli programa göre 2024 yıl sonu enflasyon beklentisi % 41,5 ancak Merkez Bankası bunu % 44'e yükseltti. Bu artışın ardından tüm ücretleri ilgilendiren asgari ücrette de beklentiler yukarıya çıktı. Ocak ayında, bugüne kadar zaten enflasyon asgari ücretin üzerinden bir silindir gibi geçiyor; % 45 civarında bir enflasyonla yıl sonunda buluşacağız. Asgari ücret Komisyonu Aralık ayının ilk haftasında işçi, işveren ve hükümetin moderatörlüğünde toplanacak ve artış oranları belirlenecek. Eğer asgari ücrete % artış yapılırsa, 17,2 liralık asgari ücret 22,12 liraya yükselecek.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 115
+**Retention**: 71.43%
+
+95 liraya 40 yapılsa 23802 liraya 45 yapılsa ki ben artık buraların yapılacağını düşünüyorum. Hedef enflasyon şu anda 44 civarında. Yıl sonu enflasyon beklentisi % 41,5. % 44'e yükseldikten sonra asgari ücrete de enflasyonun altında bir zam yapılmayacağı öngörülüyor. Eğer öyle olursa % 45'lik bir artış yapılması gerekir. % 45'lik bir artış olduğunda 17,2 liralık asgari ücretin 24,6 liraya yükselmesi bekleniyor. Geçtiğimiz yıl nasıl ki enflasyonun üzerinde bir zam yapıldı, bu yıl da ben o şekilde olacağını düşünüyorum. Ancak geçtiğimiz günlerde Merkez Bankası başkanı Cevdet Akçay kritik bir açıklama yaptı. Akçay, asgari ücret artışının 2024 yıl sonu enflasyon beklentisi olan % 44 üzerinden değil, 2025 yılı enflasyon hedefi olan % 21 oranında artırılması gerektiğini belirtti.
+
+================================================================================
+

@@ -1,0 +1,16 @@
+# Economic Content from: 20240904_Show Ana Haber 4 Eylül 2024.tr.txt
+# Processed: 2025-07-22T17:24:39.318710
+# Original: 3689 words → Filtered: 72 words (1.95% retention)
+# Economic segments: 1
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 72
+**Retention**: 36.18%
+
+Ağustos ayında en büyük fiyat farkı limonda gözlemlendi. Üretici ve market fiyatları karşılaştırıldığında, ürünlerin tarladan tüketiciye gelene kadar fiyatının katlandığı rakamlarla ortaya kondu. Limon fiyatları bir zamanlar 80 lira iken, şu anda 30 lira seviyesine düştü. Ancak bu ayda ne üreticinin ne de tüketicinin yüzünü güldürdü. Üretici ve market fiyatları arasındaki makas Ağustos ayında en çok limonda açıldı; limondaki fiyat farkı %370 buldu. Limonu sırasıyla havuç, kuru soğan ve kabak takip etti.
+
+================================================================================
+

@@ -1,0 +1,71 @@
+{
+  "file_path": "news/Show/20240712_Show Ana Haber 12 Temmuz 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T17:31:55.593663",
+  "original_word_count": 2417,
+  "filtered_word_count": 129,
+  "retention_ratio": 0.05337194869673149,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "İyi akşamlar değerli izleyenler",
+      "description": "\"İyi akşamlar değerli izleyenler\" - The presenter, Hande Bayraktar, greets the viewers and introduces the program, indicating the start of the broadcast.",
+      "end_pos": 95
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 95,
+      "start_sentence": "Suriye ile normalleşme için Dışişleri bakanını görevlendirdiğini açıkladı",
+      "description": "\"Suriye ile normalleşme için Dışişleri bakanını görevlendirdiğini açıkladı\" - The main content of the broadcast begins with news about Turkey's foreign policy regarding Syria, including statements from President Erdoğan and discussions about NATO.",
+      "end_pos": 181
+    },
+    {
+      "type": "5. **OUTRO**",
+      "start_pos": 181,
+      "start_sentence": "Cumhurbaşkanı Erdoğan'ın Nato zirvesi için gittiği abd'den talimat verdiği",
+      "description": "\"Cumhurbaşkanı Erdoğan'ın Nato zirvesi için gittiği abd'den talimat verdiği\" - The closing remarks summarize the key points discussed and hint at future developments, marking the end of the program.",
+      "end_pos": 1058
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 1058,
+      "start_sentence": "Şimdi sözü Ukrayna devlet başkanına vermek istiyorum",
+      "description": "\"Şimdi sözü Ukrayna devlet başkanına vermek istiyorum\" - A brief transition occurs as the presenter shifts focus to another news topic, specifically addressing the Ukrainian president.",
+      "end_pos": 1258
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1258,
+      "start_sentence": "Efendim yaklaşık 1.on 800.000 emekli en düşük emekli aylığına yapılacak zam için",
+      "description": "\"Efendim yaklaşık 1.on 800.000 emekli en düşük emekli aylığına yapılacak zam için\" - The news segment continues with updates on pension increases and related political discussions, indicating ongoing news coverage.",
+      "end_pos": 16648
+    }
+  ],
+  "news_segments_count": 7,
+  "economic_segments_count": 2,
+  "economic_segments": [
+    {
+      "segment_id": "181_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 118,
+      "filtered_length": 56,
+      "retention_ratio": 0.4745762711864407,
+      "section_description": "\"Cumhurbaşkanı Erdoğan'ın Nato zirvesi için gittiği abd'den talimat verdiği\" - The closing remarks summarize the key points discussed and hint at future developments, marking the end of the program."
+    },
+    {
+      "segment_id": "1258_0",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 136,
+      "filtered_length": 73,
+      "retention_ratio": 0.5367647058823529,
+      "section_description": "\"Efendim yaklaşık 1.on 800.000 emekli en düşük emekli aylığına yapılacak zam için\" - The news segment continues with updates on pension increases and related political discussions, indicating ongoing news coverage."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

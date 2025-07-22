@@ -1,0 +1,71 @@
+{
+  "file_path": "news/AHaber/20241219_PKK⧸YPG'liler SMO'ya teslim oldu - Gece Ajansı - 19.12.2024 ｜ A Haber.tr.txt",
+  "processing_timestamp": "2025-07-22T15:41:00.962599",
+  "original_word_count": 17917,
+  "filtered_word_count": 235,
+  "retention_ratio": 0.013116035050510687,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "İyi geceler Efendim hoş geldiniz gece ajansına...",
+      "description": "\"İyi geceler Efendim hoş geldiniz gece ajansına...\" - This section serves as the opening of the broadcast, where the presenter welcomes viewers and introduces the program's theme and topics for discussion.",
+      "end_pos": 66
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 66,
+      "start_sentence": "Bugün manşe temiz geri dönüşler Suriyelilerin geri dönüşlerini konuşacağız...",
+      "description": "\"Bugün manşe temiz geri dönüşler Suriyelilerin geri dönüşlerini konuşacağız...\" - This section contains the main news content, discussing various topics related to the return of Syrians, the situation with PKK and YPG, and includes specific reports and statements from officials.",
+      "end_pos": 676
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 676,
+      "start_sentence": "Ama önce müsaadelerinize bu gece konuklarımıza Hoş bulduk...",
+      "description": "\"Ama önce müsaadelerinize bu gece konuklarımıza Hoş bulduk...\" - This brief transition introduces the upcoming segment featuring visuals and statements from captured terrorists, signaling a shift in focus within the news content.",
+      "end_pos": 1150
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1150,
+      "start_sentence": "Kontrol noktasında aldı eğitime götürdüler Haval çand...",
+      "description": "\"Kontrol noktasında aldı eğitime götürdüler Haval çand...\" - This section continues the news content, providing detailed accounts of the situation in the region, including descriptions of tunnels and activities of terrorist groups.",
+      "end_pos": 1539
+    },
+    {
+      "type": "5. **OUTRO**",
+      "start_pos": 1539,
+      "start_sentence": "Çünkü PKK terör örgütü üyeleri münbiçin altında yeni bir mümbiç daha inşa ettiklerini biliyoruz...",
+      "description": "\"Çünkü PKK terör örgütü üyeleri münbiçin altında yeni bir mümbiç daha inşa ettiklerini biliyoruz...\" - This section wraps up the discussion, summarizing the ongoing situation and hinting at future developments, although it may not be a formal closing.",
+      "end_pos": 119459
+    }
+  ],
+  "news_segments_count": 18,
+  "economic_segments_count": 2,
+  "economic_segments": [
+    {
+      "segment_id": "1539_11",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 51,
+      "filtered_length": 51,
+      "retention_ratio": 1.0,
+      "section_description": "\"Çünkü PKK terör örgütü üyeleri münbiçin altında yeni bir mümbiç daha inşa ettiklerini biliyoruz...\" - This section wraps up the discussion, summarizing the ongoing situation and hinting at future developments, although it may not be a formal closing."
+    },
+    {
+      "segment_id": "1539_12",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 184,
+      "filtered_length": 184,
+      "retention_ratio": 1.0,
+      "section_description": "\"Çünkü PKK terör örgütü üyeleri münbiçin altında yeni bir mümbiç daha inşa ettiklerini biliyoruz...\" - This section wraps up the discussion, summarizing the ongoing situation and hinting at future developments, although it may not be a formal closing."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "file_path": "news/ATV/ATV20240729_atv Ana Haber ｜ 29 Temmuz 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T16:16:35.590879",
+  "original_word_count": 4582,
+  "filtered_word_count": 499,
+  "retention_ratio": 0.10890440855521606,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "Duydum ki sefere çıkmaya azmediyorsun...",
+      "description": "\"Duydum ki sefere çıkmaya azmediyorsun...\" - The program opens with a poetic introduction, followed by a transition into the news segment. It sets the tone for the broadcast and introduces the audience to the news content.",
+      "end_pos": 875
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 875,
+      "start_sentence": "Cumhurbaşkanı Erdoğan Gazi'ye yönelik insanlık dışı saldırılarını durdurmayan...",
+      "description": "\"Cumhurbaşkanı Erdoğan Gazi'ye yönelik insanlık dışı saldırılarını durdurmayan...\" - This section contains the main news stories, including statements from President Erdoğan regarding Israel and the situation in Gaza, as well as reactions from various political figures. It provides detailed coverage of current events.",
+      "end_pos": 875
+    },
+    {
+      "type": "3. **OUTRO**",
+      "start_pos": 875,
+      "start_sentence": "Cumhurbaşkanı Erdoğan bir kez daha gazze'yi işgal eden...",
+      "description": "\"Cumhurbaşkanı Erdoğan bir kez daha gazze'yi işgal eden...\" - The closing remarks summarize the key points discussed in the news segment and provide a final thought or call to action, marking the end of the program.",
+      "end_pos": 32986
+    }
+  ],
+  "news_segments_count": 9,
+  "economic_segments_count": 4,
+  "economic_segments": [
+    {
+      "segment_id": "875_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 190,
+      "filtered_length": 112,
+      "retention_ratio": 0.5894736842105263,
+      "section_description": "\"Cumhurbaşkanı Erdoğan bir kez daha gazze'yi işgal eden...\" - The closing remarks summarize the key points discussed in the news segment and provide a final thought or call to action, marking the end of the program."
+    },
+    {
+      "segment_id": "875_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 77,
+      "filtered_length": 61,
+      "retention_ratio": 0.7922077922077922,
+      "section_description": "\"Cumhurbaşkanı Erdoğan bir kez daha gazze'yi işgal eden...\" - The closing remarks summarize the key points discussed in the news segment and provide a final thought or call to action, marking the end of the program."
+    },
+    {
+      "segment_id": "875_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 199,
+      "filtered_length": 121,
+      "retention_ratio": 0.6080402010050251,
+      "section_description": "\"Cumhurbaşkanı Erdoğan bir kez daha gazze'yi işgal eden...\" - The closing remarks summarize the key points discussed in the news segment and provide a final thought or call to action, marking the end of the program."
+    },
+    {
+      "segment_id": "875_6",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 205,
+      "filtered_length": 205,
+      "retention_ratio": 1.0,
+      "section_description": "\"Cumhurbaşkanı Erdoğan bir kez daha gazze'yi işgal eden...\" - The closing remarks summarize the key points discussed in the news segment and provide a final thought or call to action, marking the end of the program."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

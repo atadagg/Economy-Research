@@ -1,0 +1,48 @@
+{
+  "file_path": "news/TV100/20240809_Oya Çebi ile TV100 Ana Haber ｜ 9 Ağustos 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T18:04:26.662397",
+  "original_word_count": 10888,
+  "filtered_word_count": 57,
+  "retention_ratio": 0.00523512123438648,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "efendim İyi akşamlar TV3 ekranlarına hoş geldiniz",
+      "description": "\"efendim İyi akşamlar TV3 ekranlarına hoş geldiniz\" - The presenter welcomes viewers to the program, introduces the date, and outlines the topics that will be covered during the broadcast.",
+      "end_pos": 299
+    },
+    {
+      "type": "3. **OUTRO**",
+      "start_pos": 299,
+      "start_sentence": "Ve tabii ki emeklileri ilgilendiren gelişmelerimiz var Hepsini paylaşacağız 2 saat boyunca sizlerle",
+      "description": "\"Ve tabii ki emeklileri ilgilendiren gelişmelerimiz var Hepsini paylaşacağız 2 saat boyunca sizlerle\" - The closing remarks are made, summarizing the topics to be discussed and indicating the end of the program.",
+      "end_pos": 396
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 396,
+      "start_sentence": "Ama önce Ankara diyeceğiz neden diyecek olursanız Türkiye'nin yüreğini yakan haber",
+      "description": "\"Ama önce Ankara diyeceğiz neden diyecek olursanız Türkiye'nin yüreğini yakan haber\" - The main news segment begins with a report on a tragic bus accident in Ankara, detailing the incident, casualties, and ongoing investigations.",
+      "end_pos": 78812
+    }
+  ],
+  "news_segments_count": 13,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "396_11",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 57,
+      "filtered_length": 57,
+      "retention_ratio": 1.0,
+      "section_description": "\"Ama önce Ankara diyeceğiz neden diyecek olursanız Türkiye'nin yüreğini yakan haber\" - The main news segment begins with a report on a tragic bus accident in Ankara, detailing the incident, casualties, and ongoing investigations."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

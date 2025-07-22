@@ -1,0 +1,99 @@
+{
+  "file_path": "news/ATV/ATV20240905_atv Ana Haber ｜ 5 Eylül 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T16:42:28.399145",
+  "original_word_count": 5077,
+  "filtered_word_count": 160,
+  "retention_ratio": 0.0315146740200906,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 23,
+      "start_sentence": "İyi akşamlar Yine Dop dolu bir bültenle karşınızdayız",
+      "description": "\"İyi akşamlar Yine Dop dolu bir bültenle karşınızdayız\" - The program opens with a greeting and an introduction to the broadcast, setting the stage for the news content.",
+      "end_pos": 82
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 82,
+      "start_sentence": "Bugün 5 Eylül 2024 Perşembe günü Cumhurbaşkanı Erdoğan'ın hız kazanan Diplomasi trafiğinde Ankara",
+      "description": "\"Bugün 5 Eylül 2024 Perşembe günü Cumhurbaşkanı Erdoğan'ın hız kazanan Diplomasi trafiğinde Ankara\" - This section contains the main news content, discussing President Erdoğan's diplomatic activities, including the visit of Egyptian President Sisi and the implications for Turkey-Egypt relations.",
+      "end_pos": 96
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 96,
+      "start_sentence": "Cumhurbaşkanı Erdoğan ve s ilişkilerde yeni dönemin şifrelerini sadece değil bölgesel meselelerde işbirliği olarak vermişti",
+      "description": "\"Cumhurbaşkanı Erdoğan ve s ilişkilerde yeni dönemin şifrelerini sadece değil bölgesel meselelerde işbirliği olarak vermişti\" - This continues the news content, elaborating on the implications of the diplomatic visit and the evolving relationship between Turkey and Egypt.",
+      "end_pos": 194
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 194,
+      "start_sentence": "Mısır Cumhurbaşkanı sisi'nin 12 yıl aranın ardından Ankara'ya yaptığı o ziyaret dünya basınında Gündem oldu",
+      "description": "\"Mısır Cumhurbaşkanı sisi'nin 12 yıl aranın ardından Ankara'ya yaptığı o ziyaret dünya basınında Gündem oldu\" - This brief transition introduces a specific aspect of the news story, focusing on the significance of Sisi's visit.",
+      "end_pos": 968
+    },
+    {
+      "type": "5. **TRANSITION**",
+      "start_pos": 968,
+      "start_sentence": "mısır'la istişareler imizi güçlendirme noktasında kararlıyız",
+      "description": "\"mısır'la istişareler imizi güçlendirme noktasında kararlıyız\" - Another transition that emphasizes Turkey's commitment to strengthening consultations with Egypt.",
+      "end_pos": 968
+    },
+    {
+      "type": "8. **NEWS**",
+      "start_pos": 968,
+      "start_sentence": "Türkiye ve mısır Filistin meselesinde ortak bir duruşa",
+      "description": "\"Türkiye ve mısır Filistin meselesinde ortak bir duruşa\" - This section discusses the shared stance of Turkey and Egypt on the Palestinian issue, further elaborating on the news content.",
+      "end_pos": 1164
+    },
+    {
+      "type": "6. **NEWS**",
+      "start_pos": 1164,
+      "start_sentence": "külliyedeki tarihi zirveyi ABD merkezli Bloomberg Sisi Erdoğan'la anlaşmazlığı onarmak için Türkiye'yi ziyaret etti",
+      "description": "\"külliyedeki tarihi zirveyi ABD merkezli Bloomberg Sisi Erdoğan'la anlaşmazlığı onarmak için Türkiye'yi ziyaret etti\" - This section continues to provide detailed news about the diplomatic meeting and its coverage by international media.",
+      "end_pos": 1364
+    },
+    {
+      "type": "7. **TRANSITION**",
+      "start_pos": 1364,
+      "start_sentence": "Londra merkezli Middle East A Haber sitesi ise Mısır'a hürjet satışı iki ülkenin ilişkileri konusunda dönüm noktası olacak dedi",
+      "description": "\"Londra merkezli Middle East A Haber sitesi ise Mısır'a hürjet satışı iki ülkenin ilişkileri konusunda dönüm noktası olacak dedi\" - A transition that introduces another perspective on the news, focusing on military sales and their significance.",
+      "end_pos": 1762
+    },
+    {
+      "type": "9. **OUTRO**",
+      "start_pos": 1762,
+      "start_sentence": "Türkiye'nin doğalgaz ve nükleer enerji konusunda mısır'la daha derin Bağlar istediğini söyledi",
+      "description": "\"Türkiye'nin doğalgaz ve nükleer enerji konusunda mısır'la daha derin Bağlar istediğini söyledi\" - The closing remarks",
+      "end_pos": 35999
+    }
+  ],
+  "news_segments_count": 11,
+  "economic_segments_count": 2,
+  "economic_segments": [
+    {
+      "segment_id": "194_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 108,
+      "filtered_length": 73,
+      "retention_ratio": 0.6759259259259259,
+      "section_description": "\"Mısır Cumhurbaşkanı sisi'nin 12 yıl aranın ardından Ankara'ya yaptığı o ziyaret dünya basınında Gündem oldu\" - This brief transition introduces a specific aspect of the news story, focusing on the significance of Sisi's visit."
+    },
+    {
+      "segment_id": "1762_0",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 204,
+      "filtered_length": 87,
+      "retention_ratio": 0.4264705882352941,
+      "section_description": "\"Türkiye'nin doğalgaz ve nükleer enerji konusunda mısır'la daha derin Bağlar istediğini söyledi\" - The closing remarks"
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

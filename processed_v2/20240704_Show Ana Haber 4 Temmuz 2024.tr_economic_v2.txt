@@ -1,0 +1,40 @@
+# Economic Content from: 20240704_Show Ana Haber 4 Temmuz 2024.tr.txt
+# Processed: 2025-07-22T17:51:14.717298
+# Original: 3069 words → Filtered: 247 words (8.05% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 115
+**Retention**: 79.31%
+
+Cumhurbaşkanı Erdoğan, dünya liderleriyle yoğun diplomasi trafiği yürüttü. Astana'da gerçekleştirilen zirve sırasında, Türkiye'nin geçici koruma altındaki Suriyeliler dahil olmak üzere 4 milyondan fazla yerinden edilmiş insana ev sahipliği yaptığı belirtildi. Bu durum, Türkiye'nin ekonomik yükünü artırmakta ve uluslararası toplumun dikkatini çekmektedir. 
+
+Ayrıca, Cumhurbaşkanı Erdoğan, ekonomik istikrarın sağlanması için uluslararası işbirliğinin önemine vurgu yaptı. Türkiye'nin, mülteci krizinin ekonomik etkileriyle başa çıkabilmesi için daha fazla destek alması gerektiği ifade edildi. Bu bağlamda, liderler arasında yapılan görüşmelerde, ekonomik işbirliği ve ticaretin artırılması konuları da gündeme geldi. 
+
+Zirve oturumunda, Türkiye'nin ekonomik durumu ve dış ticaret ilişkileri üzerine yapılan değerlendirmeler, ülkeler arası işbirliğinin güçlendirilmesi gerektiğini ortaya koydu. Ekonomik verilerin ve istatistiklerin paylaşılması, ülkelerin ekonomik politikalarını şekillendirmede önemli bir rol oynamaktadır.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 132
+**Retention**: 100.00%
+
+360 lir para cezası kesildi İstanbul esenlerdeki bir sokakta dün gece büyük panik
+yaşandı daha önceden hasarlı olduğu söylenen bir bina korkunç bir gürültüyle sarsıldı apartman
+tedbir amaçlı boşaltıldı mahalle sakinleri o Binay la ilgili korkunç iddialar söyledi bilmiyorum
+yarın ne olacak bu gece ne olacak alacağız galiba belliydi böyle bir şey bekliyorduk Yani biz bina
+eskidi duvarlar çatladı felaket adım adım yaklaşsa da kimse tek bir adım atmadı büyük faciadan ön
+iddiaya göre bitişikteki temel kazısı son anda darbeyi vurunca hepsi evlerini terk etmek zorunda
+kaldı sokakta kalacağız galiba hem fazla kat var hem Bina eski aynı zamanda yokuşta Önceden alarm
+verdiği söylenen o apartman Esenlerde 110 sokaktaydı bu binadan dolayı buraya bir müteahit girmek
+istemedi tahmin ettiler Yani yıkılacağını tıpkı söylendiği gibi bitişikteki arsada temel kazıldıktan
+sonra dün gece 10
+
+================================================================================
+

@@ -1,0 +1,71 @@
+{
+  "file_path": "news/TV100/20241011_Kübra Par ile tv100 Ana Haber ｜ 11 Ekim 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T18:24:32.272852",
+  "original_word_count": 8888,
+  "filtered_word_count": 124,
+  "retention_ratio": 0.01395139513951395,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "TV1 ekranlarından Herkese iyi akşamlar ben Kübra Par...",
+      "description": "\"TV1 ekranlarından Herkese iyi akşamlar ben Kübra Par...\" - The presenter introduces herself and the program, mentioning the significance of the day (International Day of the Girl Child) and setting the tone for the broadcast.",
+      "end_pos": 52
+    },
+    {
+      "type": "5. **OUTRO**",
+      "start_pos": 52,
+      "start_sentence": "Ana Haber başlıyor...",
+      "description": "\"Ana Haber başlıyor...\" - The closing remarks and transition to the next segment or end of the program, indicating the conclusion of the news broadcast.",
+      "end_pos": 578
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 578,
+      "start_sentence": "Dolayısıyla Bugün ben kız çocuklarımız için önce...",
+      "description": "\"Dolayısıyla Bugün ben kız çocuklarımız için önce...\" - This section serves as a transition between the introduction and the first news story, linking the theme of the day to the upcoming news content.",
+      "end_pos": 1527
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 1527,
+      "start_sentence": "Tarım Bakanlığı gıda teröristlerini ifşa etmeye devam ediyor...",
+      "description": "\"Tarım Bakanlığı gıda teröristlerini ifşa etmeye devam ediyor...\" - The main news content begins, discussing various topics including food safety issues and government actions against fraudulent practices in the food industry.",
+      "end_pos": 1527
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1527,
+      "start_sentence": "vatandaşa domuz at eşek yedirenler ifşa aları ne olacak...",
+      "description": "\"vatandaşa domuz at eşek yedirenler ifşa aları ne olacak...\" - Continuation of the news segment, detailing specific cases of food fraud and the government's response.",
+      "end_pos": 62592
+    }
+  ],
+  "news_segments_count": 13,
+  "economic_segments_count": 2,
+  "economic_segments": [
+    {
+      "segment_id": "1527_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 57,
+      "filtered_length": 57,
+      "retention_ratio": 1.0,
+      "section_description": "\"vatandaşa domuz at eşek yedirenler ifşa aları ne olacak...\" - Continuation of the news segment, detailing specific cases of food fraud and the government's response."
+    },
+    {
+      "segment_id": "1527_9",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 73,
+      "filtered_length": 67,
+      "retention_ratio": 0.9178082191780822,
+      "section_description": "\"vatandaşa domuz at eşek yedirenler ifşa aları ne olacak...\" - Continuation of the news segment, detailing specific cases of food fraud and the government's response."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

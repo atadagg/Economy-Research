@@ -1,0 +1,56 @@
+# Economic Content from: ATV20240630_atv Ana Haber ｜ 30 Haziran 2024.tr.txt
+# Processed: 2025-07-22T16:50:40.258213
+# Original: 4603 words → Filtered: 358 words (7.78% retention)
+# Economic segments: 3
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 58
+**Retention**: 100.00%
+
+akşam saatlerinde
+İzmir Menderes ve Selçuk'ta peş peşe orman yangınları çıktı selçuk'taki Yangın rüzgarın etkisiyle
+kuş Adası'na sıçradı yerleşim yerlerini tehdit eden yangınlar nedeniyle bazı evler ve i Otel tahliye
+edildi tarım ve orman Bakanı İbrahim Yumaklı yangınların sigara izmaritiyle hobi bahçesinde yakılan
+ateşten çıktığını söyledi her iki ilçede çıkan Yangınlarda 500 hektarlık alan küle döndü or kamp
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 156
+**Retention**: 50.32%
+
+Ekonomi kurmaylarının masasındaki yurt dışı çıkış harcının yeni ücreti ile ilgili iki alternatif üzerinde duruluyor. Bunlardan ilki 150 lira olan yurt dışı çıkış harcının 1000 ya da 2000 liraya çıkartılması. İkinci alternatif ise yurt dışı çıkış harcı ile ilgili maddelerin paketten tamamen çıkartılması yönünde. Alınan kararın Ekim ayında meclis açılır açılmaz yapılacak ilk ekonomi paketi ile yasalaşması bekleniyor. 
+
+Konut kiralarına % 25 zam sınırı 8 Haziran 2022 yılında getirilmişti. Aradan 2 yıl geçti ve bu dönem artık kapanıyor. Yarından itibaren konut kiralarına yapılacak zamlar yeniden tüketici fiyat endeksine göre ayarlanacak. Zam sınırının kalkması, kiracıları ve ev sahiplerini etkileyen büyük problemler yaşanmasına neden oluyordu. 
+
+Hazine ve Maliye Bakanlığı, kirada tavan sınırı uygulaması yani % 25 zam sınırı getirmişti. Bu uygulama 1 Temmuz'da sona eriyor. Yenilenen kira dönemi 1 Temmuz olan sözleşmelerdeki mal sahipleri %60 civarında bir artış yapacak. Temmuz ayının kira artış oranı 3 Temmuz'da enflasyon rakamlarıyla netleşecek ve Temmuz ayında TÜFE artış oranının %60 gelmesi bekleniyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 144
+**Retention**: 100.00%
+
+30'a kadar sürüyor bunun önüne geçemiyoruz çözüm bulamıyoruz korkuyorum başka
+bir şey mi var ne oluyor Neden böyle oluyor Sürekli her sabah aynı saatte aynı saatte elerim çalıyor
+sabahın 8'inde başlıyor Neredeyse 1 buçuk saat hiç durmadan aralıksız çalıyor Mahalleli sesten ayağa
+kalkıyor ama bir tek telefonun sahibi yanı başında çalan alarmı duymuyor artık rahatsız edici olmaya
+başlıyor güven bir şey Abi vallahi bize uyku haram oldu Nasıl uyanmıyor uyanmıyor Onu bilmiyorum n
+Siz uyanıyor musunuz Evet hatta Mahalle de uyanıyor diyebilirim ama ama kendisi uyanmıyor Burası
+Maltepe'ye Aydınevler saatler 88'i gösteriyor geceden kurulan alarm devreye komşular da kayda
+giriyor Maltepe'de yiz bir acayip görüntüden bahsedeceğim burada bir dairede bir kişi her sabah
+yaklaşık 1 bir bu5 yıldır sabah 88'de alarmı çalıyor çalıyor çalıyor çalıyor susmuyor susmadığı gibi
+de kendisi de uyanmıyor kendisi uyanmıyor ama bütün mahalle uyanıyor Üstelik o alarm sabah 8'den
+9
+
+================================================================================
+

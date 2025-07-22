@@ -1,0 +1,48 @@
+{
+  "file_path": "news/Show/20240512_Show Ana Haber 12 Mayıs 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T17:32:18.771125",
+  "original_word_count": 2809,
+  "filtered_word_count": 86,
+  "retention_ratio": 0.030615877536489856,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "İyi akşamlar değerli izleyenler...",
+      "description": "\"İyi akşamlar değerli izleyenler...\" - The presenter, Hande Bayraktar, opens the program and introduces the main topics of the day.",
+      "end_pos": 92
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 92,
+      "start_sentence": "Cumhurbaşkanı Erdoğan Yunanistan başbakanı...",
+      "description": "\"Cumhurbaşkanı Erdoğan Yunanistan başbakanı...\" - The segment covers various news stories, including President Erdoğan's messages regarding Turkey-Greece relations, military exercises, and political discussions surrounding the CHP party's internal guidelines.",
+      "end_pos": 950
+    },
+    {
+      "type": "3. **OUTRO**",
+      "start_pos": 950,
+      "start_sentence": "Bunu devam ettirmek niyetindeyiz dedi...",
+      "description": "\"Bunu devam ettirmek niyetindeyiz dedi...\" - The program concludes with closing remarks, summarizing the key points discussed and bidding farewell to the viewers.",
+      "end_pos": 19706
+    }
+  ],
+  "news_segments_count": 4,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "950_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 186,
+      "filtered_length": 86,
+      "retention_ratio": 0.46236559139784944,
+      "section_description": "\"Bunu devam ettirmek niyetindeyiz dedi...\" - The program concludes with closing remarks, summarizing the key points discussed and bidding farewell to the viewers."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "file_path": "news/Show/20240713_Show Ana Haber 13 Temmuz 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T17:30:08.933783",
+  "original_word_count": 1374,
+  "filtered_word_count": 167,
+  "retention_ratio": 0.1215429403202329,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "İyi akşamlar değerli izleyenler",
+      "description": "\"İyi akşamlar değerli izleyenler\" - The presenter introduces herself and the program, signaling the start of the broadcast.",
+      "end_pos": 0
+    },
+    {
+      "type": "- **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "İyi akşamlar değerli izleyenler",
+      "description": "\"İyi akşamlar değerli izleyenler\" - The presenter introduces herself and the program, signaling the start of the broadcast.",
+      "end_pos": 92
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 92,
+      "start_sentence": "Irak'ın kuzeyinden acı haber geldi",
+      "description": "\"Irak'ın kuzeyinden acı haber geldi\" - The main news content begins with a report on a soldier who was killed in action, detailing the circumstances and emotional responses surrounding the event.",
+      "end_pos": 92
+    },
+    {
+      "type": "- **NEWS**",
+      "start_pos": 92,
+      "start_sentence": "Irak'ın kuzeyinden acı haber geldi",
+      "description": "\"Irak'ın kuzeyinden acı haber geldi\" - The main news content begins with a report on a soldier who was killed in action, detailing the circumstances and emotional responses surrounding the event.",
+      "end_pos": 288
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 288,
+      "start_sentence": "Evet bir adım geri arka taraf",
+      "description": "\"Evet bir adım geri arka taraf\" - A brief transition occurs as the broadcast shifts from the first news story about the soldier to another news story involving a celebrity couple and their legal troubles.",
+      "end_pos": 288
+    },
+    {
+      "type": "- **TRANSITION**",
+      "start_pos": 288,
+      "start_sentence": "Evet bir adım geri arka taraf",
+      "description": "\"Evet bir adım geri arka taraf\" - A brief transition occurs as the broadcast shifts from the first news story about the soldier to another news story involving a celebrity couple and their legal troubles.",
+      "end_pos": 967
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 967,
+      "start_sentence": "hocam dediği güzellik sektörünün patroniçesi",
+      "description": "\"hocam dediği güzellik sektörünün patroniçesi\" - The second news story discusses the arrest of a celebrity couple involved in financial misconduct, providing details about their situation and public reactions.",
+      "end_pos": 967
+    },
+    {
+      "type": "- **NEWS**",
+      "start_pos": 967,
+      "start_sentence": "hocam dediği güzellik sektörünün patroniçesi",
+      "description": "\"hocam dediği güzellik sektörünün patroniçesi\" - The second news story discusses the arrest of a celebrity couple involved in financial misconduct, providing details about their situation and public reactions.",
+      "end_pos": 1651
+    },
+    {
+      "type": "5. **OUTRO**",
+      "start_pos": 1651,
+      "start_sentence": "İyiler Kötüler ayıklanacak",
+      "description": "\"İyiler Kötüler ayıklanacak\" - The closing remarks reflect on the ongoing investigations and the presenter wraps up the news segment, signaling the end of the program.",
+      "end_pos": 1651
+    },
+    {
+      "type": "- **OUTRO**",
+      "start_pos": 1651,
+      "start_sentence": "İyiler Kötüler ayıklanacak",
+      "description": "\"İyiler Kötüler ayıklanacak\" - The closing remarks reflect on the ongoing investigations and the presenter wraps up the news segment, signaling the end of the program.",
+      "end_pos": 9637
+    }
+  ],
+  "news_segments_count": 7,
+  "economic_segments_count": 2,
+  "economic_segments": [
+    {
+      "segment_id": "967_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 99,
+      "filtered_length": 99,
+      "retention_ratio": 1.0,
+      "section_description": "\"hocam dediği güzellik sektörünün patroniçesi\" - The second news story discusses the arrest of a celebrity couple involved in financial misconduct, providing details about their situation and public reactions."
+    },
+    {
+      "segment_id": "1651_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 146,
+      "filtered_length": 68,
+      "retention_ratio": 0.4657534246575342,
+      "section_description": "\"İyiler Kötüler ayıklanacak\" - The closing remarks reflect on the ongoing investigations and the presenter wraps up the news segment, signaling the end of the program."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "file_path": "news/TV100/20240628_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 28 Haziran 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T18:31:33.010089",
+  "original_word_count": 8632,
+  "filtered_word_count": 577,
+  "retention_ratio": 0.06684430027803522,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "Efendim Mutlu akşamlar 28 Haziran Cuma...",
+      "description": "\"Efendim Mutlu akşamlar 28 Haziran Cuma...\" - The opening segment introduces the program, the date, and sets the context for the news broadcast.",
+      "end_pos": 197
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 197,
+      "start_sentence": "Bundan sonraki süreçte de o adımların devamı da gelecek gibi duruyor...",
+      "description": "\"Bundan sonraki süreçte de o adımların devamı da gelecek gibi duruyor...\" - This section contains the main news content, discussing political developments, particularly regarding Turkey and Syria, and includes statements from key political figures.",
+      "end_pos": 590
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 590,
+      "start_sentence": "Cumhurbaşkanı Erdoğan'a O soru yöneltildi...",
+      "description": "\"Cumhurbaşkanı Erdoğan'a O soru yöneltildi...\" - This brief transition indicates a shift in focus to a specific question posed to President Erdoğan, signaling a change in the news topic.",
+      "end_pos": 590
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 590,
+      "start_sentence": "Cumhurbaşkanı Erdoğan siyasi arenada nasıl normalleşme adımlarına el verdi...",
+      "description": "\"Cumhurbaşkanı Erdoğan siyasi arenada nasıl normalleşme adımlarına el verdi...\" - This continues the news content, elaborating on Erdoğan's responses and actions regarding the normalization of relations with Syria.",
+      "end_pos": 1861
+    },
+    {
+      "type": "5. **OUTRO**",
+      "start_pos": 1861,
+      "start_sentence": "Cumhur ittifakın geleceği hakkında konuştu...",
+      "description": "\"Cumhur ittifakın geleceği hakkında konuştu...\" - The closing remarks summarize the discussions and provide a conclusion to the news segment, indicating the end of the program.",
+      "end_pos": 62236
+    }
+  ],
+  "news_segments_count": 13,
+  "economic_segments_count": 7,
+  "economic_segments": [
+    {
+      "segment_id": "197_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 52,
+      "filtered_length": 52,
+      "retention_ratio": 1.0,
+      "section_description": "\"Bundan sonraki süreçte de o adımların devamı da gelecek gibi duruyor...\" - This section contains the main news content, discussing political developments, particularly regarding Turkey and Syria, and includes statements from key political figures."
+    },
+    {
+      "segment_id": "1861_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 118,
+      "filtered_length": 53,
+      "retention_ratio": 0.4491525423728814,
+      "section_description": "\"Cumhur ittifakın geleceği hakkında konuştu...\" - The closing remarks summarize the discussions and provide a conclusion to the news segment, indicating the end of the program."
+    },
+    {
+      "segment_id": "1861_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 187,
+      "filtered_length": 86,
+      "retention_ratio": 0.45989304812834225,
+      "section_description": "\"Cumhur ittifakın geleceği hakkında konuştu...\" - The closing remarks summarize the discussions and provide a conclusion to the news segment, indicating the end of the program."
+    },
+    {
+      "segment_id": "1861_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 199,
+      "filtered_length": 148,
+      "retention_ratio": 0.7437185929648241,
+      "section_description": "\"Cumhur ittifakın geleceği hakkında konuştu...\" - The closing remarks summarize the discussions and provide a conclusion to the news segment, indicating the end of the program."
+    },
+    {
+      "segment_id": "1861_5",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 189,
+      "filtered_length": 58,
+      "retention_ratio": 0.30687830687830686,
+      "section_description": "\"Cumhur ittifakın geleceği hakkında konuştu...\" - The closing remarks summarize the discussions and provide a conclusion to the news segment, indicating the end of the program."
+    },
+    {
+      "segment_id": "1861_6",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 66,
+      "filtered_length": 55,
+      "retention_ratio": 0.8333333333333334,
+      "section_description": "\"Cumhur ittifakın geleceği hakkında konuştu...\" - The closing remarks summarize the discussions and provide a conclusion to the news segment, indicating the end of the program."
+    },
+    {
+      "segment_id": "1861_8",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 208,
+      "filtered_length": 125,
+      "retention_ratio": 0.6009615384615384,
+      "section_description": "\"Cumhur ittifakın geleceği hakkında konuştu...\" - The closing remarks summarize the discussions and provide a conclusion to the news segment, indicating the end of the program."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

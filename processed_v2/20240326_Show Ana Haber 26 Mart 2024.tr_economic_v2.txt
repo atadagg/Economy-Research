@@ -1,0 +1,85 @@
+# Economic Content from: 20240326_Show Ana Haber 26 Mart 2024.tr.txt
+# Processed: 2025-07-22T17:41:10.401905
+# Original: 3222 words → Filtered: 606 words (18.81% retention)
+# Economic segments: 4
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 47
+**Retention**: 55.29%
+
+Cumhurbaşkanı Erdoğan, yüksek enflasyon için "Dipsiz Kuyu" benzetmesi yaptı. Yüksek enflasyon ortamında ne verirsek verelim kaybolup gidiyor. Önce enflasyonu kontrol altına almamız gerekiyor. Allah'ın izniyle bunu başaracak programa ve kararlılığa sahibiz. Emekli maaşlarına yeni düzenleme için yeni yılı işaret etmişti. Bir kez daha enflasyon vurgusu yaparak konuştu.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 114
+**Retention**: 48.10%
+
+Türkiye pazar günü yerel seçime gidiyor. Bu süreçte ekonomik veriler ve istatistikler de gündemde. İstanbul adayları arasında mal beyanı tartışması, ekonomik şeffaflık açısından önemli bir konu. Ekrem İmamoğlu, mal beyanında villayı gizlediği iddialarına yanıt vererek, İstanbul'un kaynaklarının yönetimi konusunda eleştirilerde bulundu. 
+
+Ankara adayları arasında da mal beyanı ile ilgili tartışmalar sürüyor. Cumhur İttifakı adayı Turgut Altınok, Antalya'da 600 konutunun bulunduğuna ilişkin iddiaları yalanladı ve bu durum, gayrimenkul piyasasındaki güvenilirlik açısından dikkat çekici. Ayrıca, Mansur Yavaş, Londra'daki evin satın alma belgelerini açıklayarak, ekonomik şeffaflık konusundaki tartışmalara katkıda bulundu. 
+
+Bu gelişmeler, yerel seçimlerin ekonomik etkileri ve adayların mali durumları üzerine yapılan analizlerle destekleniyor. Seçim sürecinin, ekonomik göstergeler ve piyasa dinamikleri üzerindeki etkileri de merakla takip ediliyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 288
+**Retention**: 100.00%
+
+000 L para verelim bunun 340 000
+lirasını veriyorlar geri kalan da iş bitiminde vermek üzere iddiaların hedefindeki eski eş
+ekibimizin telefonlarını açma mesajlara yanıt vermedi kendisine dedim ki bak bu yanlış işler
+yapıyorsun bu kiralık katildir Şudur budur uzak dur dedim kendisi birden Parladı seni zaten yatalak
+bıraktıracak dedi soruşturma devam ediyor Biz huzur istiyoruz Başka hiçbir şey istemiyoruz evi için
+internet aboneliği aldı ve bilgileri çalınınca adına 3 abonelik daha açıldı talihsiz adam şoke eden
+Gerçi evine gelen icra kağıtlarıyla öğrendi isyanı İsa O yanlışlığın bir türlü düzelti Şu an ben
+açık açık dolandırılıyor ve o GSM şirketi de buna çanak tutuyor bir borç var ortada Ama bu bana
+kesinlikle ait değil benim de başıma gelebileceği hiç aklıma gelmedi ama aklına gelmeyen başına
+geldi bilgileri çalındı adına ü ayrı abonelik açıldı acı gerçeği icralık olunca öğrendi hiç benim
+haberim olmadan Benim adıma nasıl abonelik açabiliyorlar bu bilgileri nasıl alıyorlar bunlar Bu
+kadar basit şeyler mi yıllardır de internet aboneliği vardı ödemesi gereken miktarı da hiç
+aksatmadan günü gününe yatırdı ancak birkaç gün arayla gelen üç ayrı icra kağıdından sonra Neye
+uğradığını şaşırdı Ben şok oldum yani hayatımın şokunu yaşadım evine internet sağlayan firmada
+toplam 4 aboneliği görünüyordu üçünün borcu aylardır ödenmemiş benim kendi evimde kullandığım
+internet de aynı şirkete aitti Ben kiminle sözleşme imzalamış bu bayi kimmiş bana herhangi bir bilgi
+vermiyorlar haberi olmadan Erdem Dinç'in adına aynı firmadan Bolu Darıca ve Tuzla olmak üzere üç
+ayrı internet aboneliği açıldı ev ikametim Çayırova Cumhuriyet Mahallesi'ndeyim kesinlikle
+bilmiyorum kesinlikle olaydan haberim yok Bolu'ya da hiç gitmedim Memleketim Malatya Üstelik
+iddiasına göre yetkili kurum hiçbir şekilde yardımcı olmadı GSM şirketinin genel merkezine kadar
+gittim ama güvenlikçiler beni kapıdan geri çevirdiler herhangi bir muhatap bulamadım galiba üçünün
+toplamı 20
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 157
+**Retention**: 100.00%
+
+5 lirayı sahibine ulaştırdı Dün gece çok Ağım bir miktar para
+buldum ben bir poşette bir para vardı aşkımı süpürmüşler onun süpürdüğü şarkıdaki gibi aşk değil
+Asgari ücretin 2 buçuk katından fazla paraydı temizlik işçisi harama el uzatmak yerine kendine
+yakışanı yaptı poşete baktım para bir şeytan hiç girmedi mi aklınıza Hayır hiç hiç hiç Biz
+küçüklükten beri böyle yetiştik Helal olsun vallahi insanlık ölmemiş dedirten olay İstanbul'da
+yaşandı Orhan bina Yaklaşık 5 yıldır Küçükçekmece Belediyesi'nde temizlik görevlisi olarak çalışıyor
+Geçtiğimiz günlerde yine kendi mıntıkasına temizlediği sırada yerde bir poşet gördü ve hiç
+düşünmeden onu çöp diye süpürdü aşkımı süpürmüşler 2 T Aşık Veysel caddesini süpürürken gece 312
+vinde cadde üzerinde bir miktar para buldum önce süpürdüm içine attım ben anlamadım bir baktım para
+Orhan Binay süpürdüğü o poşetin içine baktığında gözlerine İnanamadı Çünkü poşetin içinde balya
+balya para vardı Hiç düşünmeden önce amirine sonra da polise gitti tüm parayı eksiksiz teslim etti
+parayı yanımda saydılar 48
+
+================================================================================
+

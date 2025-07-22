@@ -1,0 +1,80 @@
+{
+  "file_path": "news/ATV/ATV20241018_atv Ana Haber ｜ 18 Ekim 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T16:48:14.021928",
+  "original_word_count": 4761,
+  "filtered_word_count": 258,
+  "retention_ratio": 0.05419029615626969,
+  "structure_sections": [
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 93,
+      "start_sentence": "manşet Dün iddia olarak paylaştığımız bir haber gün içinde Hamas kaynakları da liderleri Yahya...",
+      "description": "\"manşet Dün iddia olarak paylaştığımız bir haber gün içinde Hamas kaynakları da liderleri Yahya...\" - This section contains the main news content, discussing various developments related to Hamas and the ongoing conflict, including specific incidents and reactions.",
+      "end_pos": 678
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 678,
+      "start_sentence": "Peki bu gelişme sahada ve batı dünyasında nasıl yankılandı olası sonuçları neler olabilir...",
+      "description": "\"Peki bu gelişme sahada ve batı dünyasında nasıl yankılandı olası sonuçları neler olabilir...\" - This brief transition connects different parts of the news story, indicating a shift in focus to the implications of the news being reported.",
+      "end_pos": 876
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 876,
+      "start_sentence": "Ölmekten korkuyorum yatağımda ölmekten kalp krizinden ya da trafik kazasıyla Ölmekten korkuyorum...",
+      "description": "\"Ölmekten korkuyorum yatağımda ölmekten kalp krizinden ya da trafik kazasıyla Ölmekten korkuyorum...\" - This continues the news segment, providing personal accounts and further details about the situation, including quotes and reactions from individuals involved.",
+      "end_pos": 1653
+    },
+    {
+      "type": "5. **NEWS**",
+      "start_pos": 1653,
+      "start_sentence": "Hamas doğrulamadan önce cen camilerden y anları gelmee başlamıştı bile işini kolaylaştırmak isteyen Biden...",
+      "description": "\"Hamas doğrulamadan önce cen camilerden y anları gelmee başlamıştı bile işini kolaylaştırmak isteyen Biden...\" - This section continues to elaborate on the news, discussing international reactions and political implications related to the events reported earlier.",
+      "end_pos": 1945
+    },
+    {
+      "type": "6. **OUTRO**",
+      "start_pos": 1945,
+      "start_sentence": "Oysa Gazze kasabı Filistin toprakl...",
+      "description": "\"Oysa Gazze kasabı Filistin toprakl...\" - This section appears to conclude the news segment, summarizing the situation and possibly hinting at future developments or the end of the broadcast.",
+      "end_pos": 33717
+    }
+  ],
+  "news_segments_count": 10,
+  "economic_segments_count": 3,
+  "economic_segments": [
+    {
+      "segment_id": "1945_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 57,
+      "filtered_length": 57,
+      "retention_ratio": 1.0,
+      "section_description": "\"Oysa Gazze kasabı Filistin toprakl...\" - This section appears to conclude the news segment, summarizing the situation and possibly hinting at future developments or the end of the broadcast."
+    },
+    {
+      "segment_id": "1945_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 152,
+      "filtered_length": 102,
+      "retention_ratio": 0.6710526315789473,
+      "section_description": "\"Oysa Gazze kasabı Filistin toprakl...\" - This section appears to conclude the news segment, summarizing the situation and possibly hinting at future developments or the end of the broadcast."
+    },
+    {
+      "segment_id": "1945_6",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 248,
+      "filtered_length": 99,
+      "retention_ratio": 0.39919354838709675,
+      "section_description": "\"Oysa Gazze kasabı Filistin toprakl...\" - This section appears to conclude the news segment, summarizing the situation and possibly hinting at future developments or the end of the broadcast."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

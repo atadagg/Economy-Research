@@ -1,0 +1,64 @@
+{
+  "file_path": "news/TV100/20240906_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 6 Eylül 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T18:13:12.576205",
+  "original_word_count": 10828,
+  "filtered_word_count": 187,
+  "retention_ratio": 0.01727004063538973,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "Efendim Mutlu akşamlar 6 Eylül Cuma...",
+      "description": "\"Efendim Mutlu akşamlar 6 Eylül Cuma...\" - The opening of the broadcast where the presenter greets the audience, introduces the date, and sets the stage for the news content.",
+      "end_pos": 195
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 195,
+      "start_sentence": "Hindistan yolcu uçağı bomba ihbarı üzerine...",
+      "description": "\"Hindistan yolcu uçağı bomba ihbarı üzerine...\" - The main news segment that covers multiple stories, starting with the incident involving a passenger plane and continuing with various updates and reports.",
+      "end_pos": 1355
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 1355,
+      "start_sentence": "Cumhurbaşkanı Erdoğan 2024 2025 eğitim öğretim yılının açılış töreninde ydi...",
+      "description": "\"Cumhurbaşkanı Erdoğan 2024 2025 eğitim öğretim yılının açılış töreninde ydi...\" - A brief transition that introduces a new news topic related to President Erdoğan's comments on digital games, indicating a shift from the previous story.",
+      "end_pos": 1355
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1355,
+      "start_sentence": "dijital oyunlardan bahsetti gündemine aldı...",
+      "description": "\"dijital oyunlardan bahsetti gündemine aldı...\" - Continuation of the news segment focusing on President Erdoğan's remarks about the impact of digital games on youth, further elaborating on the topic.",
+      "end_pos": 75989
+    }
+  ],
+  "news_segments_count": 6,
+  "economic_segments_count": 2,
+  "economic_segments": [
+    {
+      "segment_id": "1355_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 165,
+      "filtered_length": 111,
+      "retention_ratio": 0.6727272727272727,
+      "section_description": "\"dijital oyunlardan bahsetti gündemine aldı...\" - Continuation of the news segment focusing on President Erdoğan's remarks about the impact of digital games on youth, further elaborating on the topic."
+    },
+    {
+      "segment_id": "1355_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 138,
+      "filtered_length": 76,
+      "retention_ratio": 0.5507246376811594,
+      "section_description": "\"dijital oyunlardan bahsetti gündemine aldı...\" - Continuation of the news segment focusing on President Erdoğan's remarks about the impact of digital games on youth, further elaborating on the topic."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

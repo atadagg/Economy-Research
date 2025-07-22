@@ -1,0 +1,16 @@
+# Economic Content from: 20240602_Show Ana Haber 2 Haziran 2024.tr.txt
+# Processed: 2025-07-22T17:43:04.397085
+# Original: 2448 words → Filtered: 84 words (3.43% retention)
+# Economic segments: 1
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 84
+**Retention**: 55.26%
+
+Cumhurbaşkanı Erdoğan, Kızılca Hamam kampında ekonomi ve terörle mücadele gibi kritik başlıkların masada olduğunu belirtti. Kızılca Hamam kampında kongre süreci, yerel seçim sonuçları ve 2028 seçimleri gibi konuların yanı sıra ekonomik veriler ve istikrar da önemli bir gündem maddesi olarak öne çıkıyor. Ekonomik verilerin ve istatistiklerin doğru bir şekilde değerlendirilmesi, Türkiye'nin geleceği açısından büyük önem taşıyor. Bu bağlamda, hükümetin ekonomik politikaları ve stratejileri, yatırım ortamını etkileyecek unsurlar arasında yer alıyor. Ayrıca, Türkiye'nin ekonomik büyüme hedefleri doğrultusunda, iş dünyası ve şirket gelişmeleri de dikkatle izleniyor.
+
+================================================================================
+

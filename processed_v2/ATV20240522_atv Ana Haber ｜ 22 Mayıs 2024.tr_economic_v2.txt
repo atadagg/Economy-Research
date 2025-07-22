@@ -1,0 +1,51 @@
+# Economic Content from: ATV20240522_atv Ana Haber ｜ 22 Mayıs 2024.tr.txt
+# Processed: 2025-07-22T16:04:39.946752
+# Original: 4725 words → Filtered: 219 words (4.63% retention)
+# Economic segments: 3
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 98
+**Retention**: 31.01%
+
+Fatura ödeme merkezinde dolandırıcılık olayları yaşanıyor. Dolandırıcılar, müşterilere sahte ödeme dekontları vererek paralarını kendi hesaplarına aktarıyor. Mağdurlar, kendilerine borç ödenmedi mesajı gelene kadar dolandırıldıklarını anlamıyor. Bu durum, finansal güvenliği tehdit eden bir sorun olarak öne çıkıyor.
+
+Ayrıca, Sabancı ailesine ait olan tarihi atlı köşkün 48/1 hissesinin icra yoluyla satılacağı bildirildi. İstanbul Gayrimenkul Satış İcra Dairesi, bu hisse için 62 bin TL değer biçti. Bu tür icra satışları, gayrimenkul piyasasında önemli bir gelişme olarak değerlendiriliyor. 
+
+Bu olaylar, ekonomik açıdan dolandırıcılık ve gayrimenkul değerleri üzerine etkiler yaratabilir. Dolandırıcılık vakaları, finansal sistemin güvenilirliğini sorgulatırken, icra yoluyla satışlar da piyasa dinamiklerini etkileyebilir.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 60
+**Retention**: 100.00%
+
+000
+liralık hediye de var ne yapıyor ki İsmail Demir 50 000 liralık hediye gönderiliyor ona diyorum
+sadece müzik dinleyip eğleniyorduk mügeanlı dikkat çeken o ayrıntının üstünde durdu vesileye
+inanıyorsunuz ama bana inanmıyorsunuz konumuz bu değil diyorum bası toz işinden beraber olduğu kadın
+altın işinden bahsediyorsa Siz de gelip 50 000 liralık hediyelerden bahsediyorsanız Ben de diyorum
+ki o 50
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 61
+**Retention**: 100.00%
+
+500 tde birikmiş rakamı onlar kalmaya devam
+ettikleri için rakam daha da fazla arttı ve 45 000 lirayı buldu Arnavutköy'deki otelin sahibi
+çiftten parasını alabilmek için ailenin diğer fertlerine de ulaştı ama sonuç alamadı babası
+haberinin olmadığını oğlunun öyle bir şey yapmayacağını söyledi akıl almaz Olay işte Tam da bu adada
+gerçekleşti çift tam 81 gece bu odada kaldı yaklaşık 45
+
+================================================================================
+

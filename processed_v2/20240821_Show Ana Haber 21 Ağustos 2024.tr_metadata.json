@@ -1,0 +1,59 @@
+{
+  "file_path": "news/Show/20240821_Show Ana Haber 21 Ağustos 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T17:31:03.270635",
+  "original_word_count": 2579,
+  "filtered_word_count": 339,
+  "retention_ratio": 0.13144629701434665,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "İyi akşamlar değerli izleyenler",
+      "description": "\"İyi akşamlar değerli izleyenler\" - The presenter, Hande Bayraktar, greets the viewers and introduces the program, indicating the start of the broadcast and the main topics to be covered.",
+      "end_pos": 95
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 95,
+      "start_sentence": "Haftanın 3 mesai gününde CHP lideri Özgür özerle MHP lideri Devlet Bahçeli",
+      "description": "\"Haftanın 3 mesai gününde CHP lideri Özgür özerle MHP lideri Devlet Bahçeli\" - This section contains the main news content, discussing the funeral of a soldier, political reactions, and ongoing military operations against terrorism.",
+      "end_pos": 18092
+    }
+  ],
+  "news_segments_count": 6,
+  "economic_segments_count": 3,
+  "economic_segments": [
+    {
+      "segment_id": "95_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 238,
+      "filtered_length": 136,
+      "retention_ratio": 0.5714285714285714,
+      "section_description": "\"Haftanın 3 mesai gününde CHP lideri Özgür özerle MHP lideri Devlet Bahçeli\" - This section contains the main news content, discussing the funeral of a soldier, political reactions, and ongoing military operations against terrorism."
+    },
+    {
+      "segment_id": "95_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 58,
+      "filtered_length": 58,
+      "retention_ratio": 1.0,
+      "section_description": "\"Haftanın 3 mesai gününde CHP lideri Özgür özerle MHP lideri Devlet Bahçeli\" - This section contains the main news content, discussing the funeral of a soldier, political reactions, and ongoing military operations against terrorism."
+    },
+    {
+      "segment_id": "95_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 145,
+      "filtered_length": 145,
+      "retention_ratio": 1.0,
+      "section_description": "\"Haftanın 3 mesai gününde CHP lideri Özgür özerle MHP lideri Devlet Bahçeli\" - This section contains the main news content, discussing the funeral of a soldier, political reactions, and ongoing military operations against terrorism."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

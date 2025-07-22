@@ -1,0 +1,38 @@
+# Economic Content from: 20240724_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 24 Temmuz 2024.tr.txt
+# Processed: 2025-07-22T18:30:40.863459
+# Original: 8853 words → Filtered: 188 words (2.12% retention)
+# Economic segments: 3
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 70
+**Retention**: 116.67%
+
+Cumhurbaşkanı Erdoğan'ın açıklamalarıyla başlayalım. Ekonomik gündemde önemli konular var. Hükümetin ekonomik politikaları ve bu politikaların piyasalara etkisi üzerine tartışmalar sürüyor. Ekonomik veriler ve istatistikler, yatırımcıların kararlarını etkileyen önemli unsurlar arasında yer alıyor. Ayrıca, enflasyon oranları ve fiyat artışları, halkın alım gücünü doğrudan etkileyen faktörler olarak gündemde. Bu bağlamda, hükümetin alacağı önlemler ve uygulayacağı politikalar, ekonomik istikrar açısından kritik öneme sahip. Ekonomik analizler, piyasa dinamiklerini anlamak için önemli bir kaynak oluşturuyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 62
+**Retention**: 83.78%
+
+Tabii ki başlıca konulardan biri enflasyon için en kötüsü geride kaldı. Cumhurbaşkanı Erdoğan, bu sorunu çözmemizi istiyor. Ekonomik veriler ve istatistikler, enflasyonun kontrol altına alınması gerektiğini gösteriyor. Hükümetin ekonomik politikaları, fiyat istikrarını sağlamak amacıyla çeşitli önlemler almayı hedefliyor. Bu bağlamda, enflasyon oranlarının düşürülmesi için atılacak adımlar, piyasalarda olumlu bir etki yaratabilir. Ekonomik analizler, bu tür önlemlerin uzun vadede ekonomik büyümeyi destekleyeceğini öngörüyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 56
+**Retention**: 40.88%
+
+000 liradan 12 500 liraya çıkarıldı % 25 oranında bir artış 2 500 liralık bir artış ama bu artış için yetersiz dedi. İyi Parti Genel Başkanı Müsavat Dervişoğlu en düşük emekli aylığına yapılan zamı yetersiz bulduğunu bir kez daha vurguladı. Emekliye verilen zammın yıllık maliyeti 66 milyar lira. Kur korumalı mevduat garabetin ülkemize maliyeti ise 2.
+
+================================================================================
+

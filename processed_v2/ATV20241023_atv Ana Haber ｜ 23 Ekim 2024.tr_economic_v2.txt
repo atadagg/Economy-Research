@@ -1,0 +1,24 @@
+# Economic Content from: ATV20241023_atv Ana Haber ｜ 23 Ekim 2024.tr.txt
+# Processed: 2025-07-22T16:23:45.417068
+# Original: 6398 words → Filtered: 115 words (1.80% retention)
+# Economic segments: 1
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 115
+**Retention**: 72.33%
+
+The text primarily discusses a fraudulent investment scheme rather than providing substantial economic or financial content. However, I can extract the relevant economic aspects while maintaining the context:
+
+---
+
+Yatırımcılardan paraları toplamıyla devam etmişti sistem enerji tarlası adı altında kuruldu. Şirket, Anadolu'nun dört bir yanından ucuza arazi aldı ve pek çok kişiye 25 metrekarelik arazileri 25,000 liradan sattı. İddiaları şuydu; o satılan bölgelere güneş enerjisi panelleri kurulacaktı ve onlardan elde edilen ücreti de kendi kiracılarına verecekti. Güneş tarlası projesi yapacağız dediler, ancak verilen taahhütler bir türlü yerine getirilmedi. Ödemeler aksayınca yatırımcılar soluğu savcılıkta aldı.
+
+--- 
+
+This filtered content retains the economic context related to the investment scheme and the financial implications for the investors involved.
+
+================================================================================
+

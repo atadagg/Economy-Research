@@ -1,0 +1,39 @@
+# Economic Content from: ATV20240926_atv Ana Haber ｜ 26 Eylül 2024.tr.txt
+# Processed: 2025-07-22T16:10:08.030228
+# Original: 4956 words → Filtered: 185 words (3.73% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 97
+**Retention**: 64.67%
+
+Erdoğan, küresel inovasyon göstergeleri 2024 yılı raporu tanıtım etkinliğinde video mesaj gönderdi. Adım adım hayata geçirdiğimiz Vizyon sayesinde küresel yenilik endeksi sıralamasında son 11 yılda 31 basamak yükselmiş durumdayız. Konuşmasında milli teknoloji hamlesine vurgu yaptı. Milli teknoloji hamlesi yaklaşımımız da bugün ileri teknolojileri kendi imkan ve kabiliyetleri ile geliştirip üretebilen bir noktaya ulaştık. Küresel yenilik ekosisteminde daha üst sıralarda yer alma noktasında kararlı olduğumuzu bir kez daha ifade etmek istiyorum. 
+
+Bu bağlamda, Türkiye'nin ekonomik büyüme hedefleri ve teknoloji yatırımları, uluslararası rekabet gücünü artırma çabalarıyla desteklenmektedir. Ekonomik veriler ve istatistikler, bu hedeflere ulaşma yolunda önemli bir rol oynamaktadır.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 88
+**Retention**: 59.06%
+
+The filtered text focusing on economics, finance, and business is as follows:
+
+---
+
+İsrail'in ölüm saçan saldırıları sonrası kara harekatı sinyali vermesi batı dünyasında bir paniğe yol açtı. Amerikan öncülüğündeki 10 ülke hemen bir araya geldi bir toplantı yaptı müzakere için 21 günlük bir ateşkes çağrısında bulundu. Bu durum, uluslararası ticaret ve ekonomik ilişkiler üzerinde belirsizlik yaratabilir. 
+
+Kara harekatını Genelkurmay Başkanı bile dile getirince batı dünyası panikledi. Bu tür askeri hareketlerin, bölgedeki ekonomik istikrarı olumsuz etkileyebileceği düşünülüyor. 
+
+---
+
+This version retains the economic context while removing unrelated content.
+
+================================================================================
+

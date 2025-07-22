@@ -1,0 +1,119 @@
+{
+  "file_path": "news/TV100/20241029_Kübra Par ile tv100 Ana Haber ｜ 29 Ekim 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T18:19:54.944386",
+  "original_word_count": 8262,
+  "filtered_word_count": 428,
+  "retention_ratio": 0.05180343742435246,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "Şimdi öncelikle İzmir'e gideceğiz sevgili izleyiciler...",
+      "description": "\"Şimdi öncelikle İzmir'e gideceğiz sevgili izleyiciler...\" - The program opens with a greeting to the viewers and introduces the location of the news segment, which is İzmir, setting the stage for the upcoming coverage.",
+      "end_pos": 0
+    },
+    {
+      "type": "- **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "Şimdi öncelikle İzmir'e gideceğiz sevgili izleyiciler...",
+      "description": "\"Şimdi öncelikle İzmir'e gideceğiz sevgili izleyiciler...\" - The program opens with a greeting and introduction to İzmir.",
+      "end_pos": 196
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 196,
+      "start_sentence": "Evet Kübra asında diyelim Çünkü biraz önce o Türk Hava kuvvetlerinin efsanevi gösteri ekibi...",
+      "description": "\"Evet Kübra asında diyelim Çünkü biraz önce o Türk Hava kuvvetlerinin efsanevi gösteri ekibi...\" - This section contains the main news content, detailing the events happening in İzmir, including the air show by the Turkish Air Force and the excitement of the crowd.",
+      "end_pos": 196
+    },
+    {
+      "type": "- **NEWS**",
+      "start_pos": 196,
+      "start_sentence": "Evet Kübra asında diyelim Çünkü biraz önce o Türk Hava kuvvetlerinin efsanevi gösteri ekibi...",
+      "description": "\"Evet Kübra asında diyelim Çünkü biraz önce o Türk Hava kuvvetlerinin efsanevi gösteri ekibi...\" - Main news content about the air show and crowd excitement.",
+      "end_pos": 586
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 586,
+      "start_sentence": "Şimdi de İşte gördüğünüz bu kalabalık Konak'taki saat kulesine doğru ilerliyor...",
+      "description": "\"Şimdi de İşte gördüğünüz bu kalabalık Konak'taki saat kulesine doğru ilerliyor...\" - This brief transition connects the excitement of the air show to the upcoming fener alayı (torchlight procession), indicating a shift in focus while maintaining the overall narrative.",
+      "end_pos": 586
+    },
+    {
+      "type": "- **TRANSITION**",
+      "start_pos": 586,
+      "start_sentence": "Şimdi de İşte gördüğünüz bu kalabalık Konak'taki saat kulesine doğru ilerliyor...",
+      "description": "\"Şimdi de İşte gördüğünüz bu kalabalık Konak'taki saat kulesine doğru ilerliyor...\" - Transitioning to the next event, the fener alayı.",
+      "end_pos": 1076
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1076,
+      "start_sentence": "Buradaki coşkuyu o solotürk'ün gösterisini sizlere ekranlarınıza getiremedik...",
+      "description": "\"Buradaki coşkuyu o solotürk'ün gösterisini sizlere ekranlarınıza getiremedik...\" - This continues the news coverage, discussing the crowd's enthusiasm and the significance of the events taking place in İzmir.",
+      "end_pos": 1076
+    },
+    {
+      "type": "- **NEWS**",
+      "start_pos": 1076,
+      "start_sentence": "Buradaki coşkuyu o solotürk'ün gösterisini sizlere ekranlarınıza getiremedik...",
+      "description": "\"Buradaki coşkuyu o solotürk'ün gösterisini sizlere ekranlarınıza getiremedik...\" - Continued news coverage on the events in İzmir.",
+      "end_pos": 61350
+    }
+  ],
+  "news_segments_count": 8,
+  "economic_segments_count": 5,
+  "economic_segments": [
+    {
+      "segment_id": "196_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 61,
+      "filtered_length": 61,
+      "retention_ratio": 1.0,
+      "section_description": "\"Evet Kübra asında diyelim Çünkü biraz önce o Türk Hava kuvvetlerinin efsanevi gösteri ekibi...\" - Main news content about the air show and crowd excitement."
+    },
+    {
+      "segment_id": "586_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 68,
+      "filtered_length": 68,
+      "retention_ratio": 1.0,
+      "section_description": "\"Şimdi de İşte gördüğünüz bu kalabalık Konak'taki saat kulesine doğru ilerliyor...\" - Transitioning to the next event, the fener alayı."
+    },
+    {
+      "segment_id": "1076_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 270,
+      "filtered_length": 109,
+      "retention_ratio": 0.40370370370370373,
+      "section_description": "\"Buradaki coşkuyu o solotürk'ün gösterisini sizlere ekranlarınıza getiremedik...\" - Continued news coverage on the events in İzmir."
+    },
+    {
+      "segment_id": "1076_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 178,
+      "filtered_length": 93,
+      "retention_ratio": 0.5224719101123596,
+      "section_description": "\"Buradaki coşkuyu o solotürk'ün gösterisini sizlere ekranlarınıza getiremedik...\" - Continued news coverage on the events in İzmir."
+    },
+    {
+      "segment_id": "1076_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 142,
+      "filtered_length": 97,
+      "retention_ratio": 0.6830985915492958,
+      "section_description": "\"Buradaki coşkuyu o solotürk'ün gösterisini sizlere ekranlarınıza getiremedik...\" - Continued news coverage on the events in İzmir."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

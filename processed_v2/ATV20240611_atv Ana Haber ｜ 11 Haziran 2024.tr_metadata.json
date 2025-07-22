@@ -1,0 +1,50 @@
+{
+  "file_path": "news/ATV/ATV20240611_atv Ana Haber ｜ 11 Haziran 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T16:17:22.046256",
+  "original_word_count": 4854,
+  "filtered_word_count": 140,
+  "retention_ratio": 0.0288421920065925,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "haberi merkezinden Atv Haber merkezinden İyi akşamlar",
+      "description": "\"haberi merkezinden Atv Haber merkezinden İyi akşamlar\" - This section serves as the opening of the broadcast, where the presenter greets the audience and introduces the program.",
+      "end_pos": 45
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 45,
+      "start_sentence": "Bugün 11 Haziran 2024 salı Türk siyaset tarihi",
+      "description": "\"Bugün 11 Haziran 2024 salı Türk siyaset tarihi\" - This section contains the main news content, discussing significant political events in Turkey, particularly the meeting between President Erdoğan and CHP leader Özgür Özel.",
+      "end_pos": 34737
+    }
+  ],
+  "news_segments_count": 3,
+  "economic_segments_count": 2,
+  "economic_segments": [
+    {
+      "segment_id": "45_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 207,
+      "filtered_length": 100,
+      "retention_ratio": 0.4830917874396135,
+      "section_description": "\"Bugün 11 Haziran 2024 salı Türk siyaset tarihi\" - This section contains the main news content, discussing significant political events in Turkey, particularly the meeting between President Erdoğan and CHP leader Özgür Özel."
+    },
+    {
+      "segment_id": "45_2",
+      "method": "simple_final",
+      "confidence": 0.5,
+      "original_length": 76,
+      "filtered_length": 40,
+      "retention_ratio": 0.5263157894736842,
+      "section_description": "\"Bugün 11 Haziran 2024 salı Türk siyaset tarihi\" - This section contains the main news content, discussing significant political events in Turkey, particularly the meeting between President Erdoğan and CHP leader Özgür Özel."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

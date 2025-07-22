@@ -1,0 +1,59 @@
+# Economic Content from: ATV20240524_atv Ana Haber ｜ 24 Mayıs 2024.tr.txt
+# Processed: 2025-07-22T16:29:27.736725
+# Original: 4547 words → Filtered: 373 words (8.20% retention)
+# Economic segments: 4
+
+## Economic Segment 1
+
+**Method**: pattern_validated
+**Confidence**: 0.75
+**Word Count**: 75
+**Retention**: 60.98%
+
+Cuma Cumhurbaşkanı Erdoğan İstanbul'da ilk kez düzenlenen İslami Finans zirvesine katıldı. Konuşmasında, dünyada gelir adaletinin bozulduğunu ve küresel sistemin yeniden dizayn edilmesi gerektiğini vurguladı. Bu bağlamda, ekonomik verilerin ve istatistiklerin adaletsizliğine dikkat çekti. Ayrıca, küresel düzenin adaletsizliğinin, ekonomik etkilerinin yanı sıra, uluslararası ticaret ve finansal sistem üzerindeki olumsuz etkilerini de ele aldı. Erdoğan, mevcut ekonomik sistemin değişmesine olan acil ihtiyacı dile getirerek, bu durumun hem yerel hem de uluslararası düzeyde ekonomik istikrarı tehdit ettiğini belirtti.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: pattern_validated
+**Confidence**: 0.75
+**Word Count**: 63
+**Retention**: 73.26%
+
+Cumhurbaşkanı Erdoğan, İstanbul'da düzenlenen İslami Finans zirvesinde ekonomik eşitsizliklere dikkat çekti. Günümüzde servet eşitsizliği, dünyada tarihi bakımdan en yüksek seviyesine çıktı. Dünyadaki en zengin %1'lik kesim, toplam küresel servetin neredeyse yarısına sahip. Bu durum, kapitalist sistemin zayıfları daha da zayıflattığını ve fakirleri daha da fakirleştirdiğini gösteriyor. Daha dengeli, daha adilane ve daha kuşatıcı bir ekonomik sistemin ihdası için hep beraber el ele vermeliyiz.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 131
+**Retention**: 39.34%
+
+The filtered text focusing on economics, finance, and business is as follows:
+
+Mersin'de yaşayan Çiğdem Ailesi, geçen hafta Silifke'den Tarsus'a dönerken bir kaza geçirdi. Bu tür kazaların artışı, toplumda güvenli sürüş ve trafik güvenliği konularında ekonomik kayıplara yol açabilir. Ayrıca, kazaların neden olduğu sağlık harcamaları ve kayıplar, yerel ekonomiyi olumsuz etkileyebilir.
+
+Seçil Erzan, sahte fon vadiyle dolandırıcılık yaptığı iddia edilen bir kişi olarak, bugün 5. kez hakim karşısına çıktı. Duruşma, Erzan'ı taşıyan aracın kaza yapması nedeniyle 2 saat rötarlı başladı. Milyonlarca dolar vurgun yaptığı iddia edilen Erzan, duruşmada banka çalışanlarıyla yüzleşti. Bu durum, finansal sistemde güven sorunlarına yol açabilir ve dolandırıcılık vakalarının artışı, yatırımcı güvenini sarsabilir.
+
+Bu olaylar, ekonomik istikrar ve güvenin sağlanması açısından önemli birer örnek teşkil ediyor. Ekonomik analizler, bu tür dolandırıcılıkların önlenmesi için daha sıkı düzenlemelerin gerekliliğini vurguluyor.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 104
+**Retention**: 61.18%
+
+Son aylarda kira ödemeleriyle ilgili sorunlar artış gösterdi. Kiracıların ödemelerini yapmaması, ev sahiplerini dava yoluna gitmeye zorladı. Özellikle, 18 aydır kira ödemesi yapmayan kiracılar, ev sahipleriyle karşı karşıya gelmekte. Bu durum, gayrimenkul piyasasında kiraların tahsil edilmesi konusunda ciddi sorunlar yaşandığını gösteriyor. 
+
+Ev sahipleri, kiracıların bu tür davranışlarının bir yaşam tarzı haline geldiğini ifade ediyor. Kiraların ödenmemesi, hem ev sahiplerinin mali durumunu olumsuz etkiliyor hem de gayrimenkul sektöründe belirsizlik yaratıyor. Bu tür gelişmeler, ekonomik istikrar açısından önemli bir gösterge olarak değerlendirilebilir. 
+
+Ayrıca, kiraların artışı ve ödenmemesi, genel ekonomik koşulların bir yansıması olarak da görülebilir. Bu durum, konut piyasasında fiyatların nasıl şekilleneceği konusunda endişelere yol açıyor.
+
+================================================================================
+

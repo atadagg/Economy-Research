@@ -1,0 +1,62 @@
+{
+  "file_path": "news/Show/20240710_Show Ana Haber 10 Temmuz 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T17:43:31.690444",
+  "original_word_count": 2329,
+  "filtered_word_count": 78,
+  "retention_ratio": 0.03349076857020181,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "İyi akşamlar değerli izleyenler...",
+      "description": "\"İyi akşamlar değerli izleyenler...\" - The presenter, Hande Bayraktar, opens the broadcast and introduces the main topics of the day.",
+      "end_pos": 92
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 92,
+      "start_sentence": "Cumhurbaşkanı Erdoğan Nato zirvesi için...",
+      "description": "\"Cumhurbaşkanı Erdoğan Nato zirvesi için...\" - The main news content begins, detailing President Erdoğan's participation in the NATO summit, including various diplomatic activities and significant events related to the summit.",
+      "end_pos": 973
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 973,
+      "start_sentence": "Erdoğan hızla Diplomasi trafiğine de başladı...",
+      "description": "\"Erdoğan hızla Diplomasi trafiğine de başladı...\" - A brief transition occurs as the news shifts focus to Erdoğan's diplomatic engagements following the NATO summit.",
+      "end_pos": 1350
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1350,
+      "start_sentence": "CHP lideri Özgür Özel'in çağrısına uyanlar...",
+      "description": "\"CHP lideri Özgür Özel'in çağrısına uyanlar...\" - The news segment continues with coverage of a protest organized by the CHP leader, detailing the actions taken by party members across Turkey.",
+      "end_pos": 1826
+    },
+    {
+      "type": "5. **OUTRO**",
+      "start_pos": 1826,
+      "start_sentence": "Saatler 21'i gösterirken...",
+      "description": "\"Saatler 21'i gösterirken...\" - The closing remarks begin, summarizing the events and providing a conclusion to the news broadcast.",
+      "end_pos": 16363
+    }
+  ],
+  "news_segments_count": 8,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "1826_0",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 202,
+      "filtered_length": 78,
+      "retention_ratio": 0.38613861386138615,
+      "section_description": "\"Saatler 21'i gösterirken...\" - The closing remarks begin, summarizing the events and providing a conclusion to the news broadcast."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

@@ -1,0 +1,105 @@
+# Economic Content from: 20240920_Ece Üner ile Halk Ana Haber (20 Eylül 2024).tr.txt
+# Processed: 2025-07-22T16:59:56.509891
+# Original: 11490 words → Filtered: 657 words (5.72% retention)
+# Economic segments: 8
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 80
+**Retention**: 41.03%
+
+Apple'ın yeni iPhone 16 modeli, Türkiye'de 65.000 ile 120.000 lira arasında değişen fiyatlarla satışa sunuldu. Bu yüksek fiyatlar, orta sınıf tüketiciler üzerinde ekonomik bir baskı oluşturuyor. Türkiye'deki tüketiciler, yeni model için mağaza önlerinde uzun kuyruklar oluşturdu. Ekonomik koşullar, bu tür lüks tüketim ürünlerine olan talebi etkileyebilir. 
+
+Ayrıca, iPhone 16'nın tanıtımında yapay zeka özellikleri vurgulandı ve bu durum, teknoloji sektöründeki rekabeti artırabilir. Türkiye'deki fiyatlar, döviz kurlarındaki dalgalanmalara bağlı olarak değişiklik gösterebilir, bu da tüketicilerin satın alma gücünü etkileyen önemli bir faktördür.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 119
+**Retention**: 38.51%
+
+Türkiye'de akıllı telefon fiyatları, vergi ve ek maliyetlerle birlikte 27,000 ile 40,000 lira arasında değişiyor. Ülkeye giren akıllı telefonlardan önce %1 Kültür Bakanlığı Payı, ardından % TRT bandrol ücreti kesiliyor. Tüm bu rakamların üzerinden % ÖTV ekleniyor ve oluşan rakamın üzerinden %18 KDV bedeli eklenince fiyatlar tam iki katına çıkıyor. 
+
+Kent lokantalarının amacı, insanların makul bir öğle yemeğini 45-50 liraya yiyebilmesini sağlamak. Ancak, yoksul kesim için bu fiyatlar yüksek olduğu için Kent lokantalarında askıda yemek uygulaması başlatıldı. Bu uygulama, bir kişinin yemeğini ödeyemediği durumlarda başka bir kişinin onun yerine ödeme yaparak faydalanmasını sağlıyor. 
+
+Buca Belediyesi de bu uygulamayı hayata geçirerek, askıda yemek hizmetini başlattı. Bu tür uygulamalar, ekonomik zorluklar yaşayan kesimlerin daha uygun fiyatlarla yemek yemelerini sağlamak amacıyla geliştiriliyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 40
+**Retention**: 39.22%
+
+Ülkenin % 75'i açlık ve yoksulluk sınırının altında yaşıyor. Emeklinin asgari ücretinin hayatını çökerttiler; bu ifade o kadar önemli ki hayatını çökerttiler. Gerçekten, bir ülkede yoksulluk sınırı 63.000 TL üzeri iken emekli aylığı 12.500 TL, asgari ücret ise 17.700 TL.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 99
+**Retention**: 30.65%
+
+500 TL'den başlayan fiyatlar ve peşin fiyatına 6 taksit fırsatıyla evlerinize geliyor. Anahtar teslim inşaatta Türkiye'nin çözüm ortağı Doğan İnşaat, 81 ilde temelden çatıya kadar kaliteli bir şekilde villa, yazlık, bina tadilat, dekorasyon, dış cephe, ısı yalıtımı, mantolama ve pergola işlerinizi temelden çatıya kadar inşa ediyor ve yeniliyoruz. Sıfır çatı, kiremit çatı, sandviç panel çatı projelerinizi gününde ve zamanında teslim ediyoruz. Hayalinizdeki villayı bizlere vereceğiniz bir vekaletle belediyelerdeki resmi işlemleri, plan, proje ve tüm mühendislik işlemlerini güvenle başlatıyoruz. 
+
+Arçelik'ten yeni sezona yakışır kampanya, seçili beyaz eşya alışverişlerinize bulaşık ya da kurutma makinelerinde % varan indirim fırsatı sunuyor. Detaylar arcelik.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 110
+**Retention**: 40.59%
+
+Arçelik mağazalarında bir çocuğa bakmak başka, doğaya bakmak başka, ancak ekonomik veriler ve piyasa dinamikleri her zaman dikkatimizi çekiyor. Akbank'tan geçiyor, sen de Akbank mobil'den hisse senedi hesabı açarak güncel piyasa verilerinden faydalanabilirsin. Halka arzlar katıl, Ak yatırım tarafından hazırlanan model portföye ulaşarak yatırımlarını mobilden yönet. 
+
+Vodafone Business Metro ethernet ile işletmelere özel altyapı hız garantisi ve kesintisiz internet sunuluyor. Üstelik şimdi tüm indirimlere ek, ilk 3 ay % indirimle sahip olabilirsin. Dijital dönüşüm süreçlerini tamamlamak için hemen başvur. 
+
+Güncel haberlere anında erişmek artık çok kolay; ekonomik gelişmeleri takip etmek için WhatsApp'ı aç ve güncellemeler sekmesini ara. Ekonomik veriler ve piyasa hareketleri hakkında bilgi almak için bu kaynakları kullanmak önemli.
+
+================================================================================
+
+## Economic Segment 6
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 72
+**Retention**: 59.50%
+
+iPhone'un son çıkardığı modeli almak için oluşan kuyruk, Türkiye'deki ekonomik durumu da gözler önüne seriyor. Telefonun fiyatları modele göre 65,000 ile 120,000 lira arasında değişiyor. Bu fiyatlar, Türkiye'deki enflasyon ve tüketici harcamaları üzerindeki baskıyı yansıtıyor. Yapay Zeka Türkiye'de fiyatı 65,000 liradan başlıyor ve 120,000 liraya kadar çıkıyor. ABD'deki fiyatları ise 799 dolarla 1,199 dolar arasında, yani 27,000 ile 40,000 lira arasında değişiyor. Bu durum, döviz kurlarının ve yerel ekonomik koşulların etkisini gösteriyor.
+
+================================================================================
+
+## Economic Segment 7
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 74
+**Retention**: 55.22%
+
+Türkiye'de işin içine vergi girince fiyat iki katına çıkıyor. Ülkeye giren akıllı telefonlardan önce %1 Kültür Bakanlığı payı ardından % bandrol ücreti kesiliyor. Tüm bu rakamların üzerinden % ÖTV ekleniyor, oluşan rakamın üzerinden % KDV bedeli ile rakam tam ikiye katlanmış oluyor. Kent lokantalarında askıda yemek uygulaması devam ediyor. Fiyatlar gerçekten çok iyi; 45 liraya herhangi bir yerde sadece içecek alınabiliyor. Burada 4 çeşit yemek sunuluyor, bu da ekonomik açıdan önemli bir avantaj sağlıyor.
+
+================================================================================
+
+## Economic Segment 8
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 63
+**Retention**: 36.21%
+
+Ato'nun verileri, bir adet simidin 15 lira olduğunu gösteriyor. Ato'nun tarifesine göre çay fiyatı ise 50 lira. Çay simitle yapılan bir öğün masrafı 260 lira. Öyle olunca, bir günlük çay simit maliyeti 780 lira oluyor. Bir aylık çay simit maliyeti ise 23,400 lira. 2024 yılı net asgari ücret 17,200 lira olarak belirlenmiş. Yani, asgari ücretle bir aylık çay simit maliyetini karşılamak mümkün olmuyor.
+
+================================================================================
+

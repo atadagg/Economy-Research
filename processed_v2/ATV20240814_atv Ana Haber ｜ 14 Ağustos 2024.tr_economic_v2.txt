@@ -1,0 +1,66 @@
+# Economic Content from: ATV20240814_atv Ana Haber ｜ 14 Ağustos 2024.tr.txt
+# Processed: 2025-07-22T16:21:23.424055
+# Original: 5128 words → Filtered: 442 words (8.62% retention)
+# Economic segments: 4
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 68
+**Retention**: 44.74%
+
+Boğazdaki kanlıca'daki o eşsiz Yalı son dönemde ailesine kiracılar yüzünden büyük sıkıntı çektiriyor. İddiaya göre, 24 yıldır orada oturan iş insanı Ali Karacan tam 9 yıldır kirasını doğru düzgün ödemiyor. Üstüne üstlük, tahliye kararı çıkmasına rağmen evi boşaltmıyor. Kirasını ödemekte zorluk çekiyor. Bu süreç bir hayli uzadığı için Zeynep Hanım, sağlığından oldu. 17 Mayıs'ta tahliye kararı alındı. Ancak, icra memuru 8 dakikada yeni bir karar alıp tahliyeyi durdurdular.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 60
+**Retention**: 33.33%
+
+Özel yurt fiyatları uçuşa geçmiş durumda, rakam yıllık 350 000 liraya kadar çıkıyor. Araştırdık, fiyatlar yüksek. Yurtlarda oda ücretleri geçen yıl 8,500 lirayla 17,000 lira arasında değişiyordu. Ancak bu yıl fiyatlar %60'a varan oranda zamlandı. İstanbul'da özel öğrenci yurtlarının fiyatları ilçeden ilçeye değişiyor. Eğer üniversite kampüsüne yakınsa aylık 25,000-35,000 lira arasında, eğer kampüse uzaksa aylık 20,000 lirayı gözden çıkarmanız gerekiyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 82
+**Retention**: 62.60%
+
+Bir de öğrenciler için sosyal alanlar mevcut. Yıllık ücreti bu adanın 275.000 Lira, yaklaşık 204 ve 230.000 Lira arası değişkenlik gösteriyor. Özel yurt tercih etmeyenler de kiralık evlere yöneliyor; kiralık evlerde yine ilçeden ilçeye değişiyor. Şu an Beşiktaş'ta kiralar 45.000 Lira'ya kadar çıkıyor. Bir öğrencinin geliri ne kadar olsun ki bu kiraları ödeyebilir? Eğer öğrenciler ev alıyorlarsa hızlı bir şekilde hareket etmeleri lazım çünkü kiralığa talep çok. Öğrencinin zaten kira ödemesi imkansız hale geliyor; ailesi yardım etmezse çünkü İstanbul'da kiralar çok pahalı.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_final
+**Confidence**: 0.50
+**Word Count**: 232
+**Retention**: 100.00%
+
+000 bakalım bir yola
+adım attık İnşallah kolaylıklar diliyorum kendimize yani Karadeniz'de fındık hasadı devam ediyor Bir
+yandan da toplanan fındıkların kurutulma mesaisi var bölgede arazi engebeli olunca üretici her yıl
+olduğu gibi fındıkları Karadeniz sahil yolu kenarına Serdi ve yol kenarı fındık tarlasına döndü
+neden Karadeniz sahil yolunda kenas Neden mi şu dağlara baksana dimdik mecburen hiç düz bir alanımız
+olmadığı için fındık toplandı şimdi haram ğı kur düz alan bulamayan üretici her yı olduğu gibi
+soluğu Karadeniz sahil yolunda aldı şu anda hangi işlemi yapıyorsunuz şu anda fındığın içindeki
+çürükleri seçiyoruz Karadeniz'in yüksek dağları engebeli arazileri fındık üreticisini en fazla
+zorlayan sorun bu topladıkları fındıkları Karadeniz sahil yolunda bulunan bu kaldırımlara getirip
+burada kurutma işlemini yapıyorlar ve geceleri B fındığın başa nöbet tutuyorlar nöbet şat yani nöbet
+şat yolda bıraktığın zaman adam hevesi olmasa bile yemek için alır fındık tarlasını andıran
+Karadeniz sahil yolunda üreticileri en çok zorlaya kavurucu sıcak ve nem şimdi kurutuyoruz çok
+zahmetli çok zor iş Fındık İçi çok zor fındığı topladıktan sonra günün mahsulünü geliyoruz buraya
+seriyoruz sonrasında işte kuruyor fındık şimdi bunun bir iki günü daha var Ondan sonra da Patos
+vurulacak fındığın çalınma riskine karşı da üreticiler gece gündüz nöbet tutuyor bizim evimizde
+zaten hemen şurası olduğu için buradan kollayın o yönden güzel oluyor Ana Haberin sonuna geldik
+şimdi ekranlarınıza Rambo son kan gelecek kaçırmayın diyelim yarın akşam tekrar görüşmek üzere iyi
+akşamlar than
+
+================================================================================
+

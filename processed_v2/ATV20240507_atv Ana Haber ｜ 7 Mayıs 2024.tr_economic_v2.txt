@@ -1,0 +1,60 @@
+# Economic Content from: ATV20240507_atv Ana Haber ｜ 7 Mayıs 2024.tr.txt
+# Processed: 2025-07-22T16:53:02.739977
+# Original: 4518 words → Filtered: 280 words (6.20% retention)
+# Economic segments: 5
+
+## Economic Segment 1
+
+**Method**: pattern_validated
+**Confidence**: 0.75
+**Word Count**: 30
+**Retention**: 52.63%
+
+Cumhurbaşkanı Erdoğan, dünkü kabine toplantısının ardından önemli ekonomik mesajlar verdi. Mücadele ve enflasyon ile ilgili çarpıcı açıklamalarda bulundu. Bu bağlamda, hükümetin ekonomik politikaları ve enflasyonla mücadele stratejileri üzerine değerlendirmelerde bulundu.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: pattern_validated
+**Confidence**: 0.75
+**Word Count**: 56
+**Retention**: 32.37%
+
+Cumhurbaşkanı Erdoğan, enflasyonla mücadeleye dikkat çekerek, hayat pahalılığı ve geçim sıkıntısını çözmek için gerekli adımları attıklarını belirtti. Doğru politikalarla enflasyonu tek haneye düşürmekte kararlı olduklarını ifade etti. Yıllık enflasyonun yaz aylarından itibaren düşüşe geçeceğini umduğunu söyledi. "Bunu daha önce yaptık, inşallah yine başaracağız," dedi. Erdoğan, amacının 85 milyonun tamamı için kalıcı refah artışını sağlamak olduğunu vurguladı.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 48
+**Retention**: 54.55%
+
+Cumhurbaşkanı Erdoğan, öğretmen atamalarıyla ilgili müjdeyi verdi ve Milli Eğitim Bakanı Yusuf Tekin detayları açıkladı. Ekonomik açıdan, öğretmen atamaları, eğitim sektöründeki istihdamı artırarak ekonomik büyümeye katkıda bulunabilir. Hazine Bakanı ve ekonomi kurmayları, bu süreçte öğretmen adaylarının durumunu değerlendirdi. Eğitimdeki bu gelişmeler, iş gücü piyasasında önemli bir etki yaratabilir.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 86
+**Retention**: 48.31%
+
+Kurbanlık fiyatları geçen yıla göre artış gösterdi ve bu yıl fiyatlar %180 ile %100 arasında bir artışla belirlenmiş durumda. Şu anda en düşük hayvan fiyatı 140 liradan başlarken, en yüksek fiyat 240 lira arasında değişiyor. Geçen yıl bu hayvanı yaklaşık 80-85 lira satarken, şu anda fiyatlar 165 ila 170 lira arasında. Besicilerin ifadelerine göre, satışlar da geçen yıla göre artış göstermiş durumda. Geçen yıl 100-105 lira olan fiyatlar, bu yıl yaklaşık 210 lira seviyesine ulaşmış. Bu yıl kurbanlıklar daha hızlı satılmakta ve daha uygun fiyatlarla sunulmakta.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 60
+**Retention**: 55.56%
+
+İstanbul'un en büyük hayvanı şu anda 320 bin TL'ye satılmakta. Küçükbaş hayvanlardaki fiyat artışı, geçen yıla göre bir aylık dönemde %50'den fazla bir artış göstermiştir. Geçen seneye göre 50 kilo gelen bir koyunu şu an 10-11 bin TL'den aşağı veremiyoruz. Canlı koyunun fiyatı piyasa koşullarına göre 14 bin TL civarındadır. Erkek keçinin ortalama fiyatı ise 16 bin TL olarak belirlenmiştir.
+
+================================================================================
+

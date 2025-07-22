@@ -1,0 +1,107 @@
+{
+  "file_path": "news/TV100/20240919_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 19 Eylül 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T18:19:00.024002",
+  "original_word_count": 10809,
+  "filtered_word_count": 632,
+  "retention_ratio": 0.058469793690443146,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "İyi akşamlar 19 Eylül Perşembe TV1 an Haber'de...",
+      "description": "\"İyi akşamlar 19 Eylül Perşembe TV1 an Haber'de...\" - The presenter opens the broadcast, greeting the audience and introducing the program, indicating that they will cover the day's significant developments and breaking news.",
+      "end_pos": 93
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 93,
+      "start_sentence": "son 3 gündür yine Ortadoğu'da işler çığrından...",
+      "description": "\"son 3 gündür yine Ortadoğu'da işler çığrından...\" - The main news content begins, detailing the recent events in the Middle East, specifically focusing on the situation in Lebanon and the actions of Israel and Hezbollah. This section contains multiple news stories and updates.",
+      "end_pos": 285
+    },
+    {
+      "type": "5. **NEWS**",
+      "start_pos": 285,
+      "start_sentence": "Hizbullah da bu saldırılarda 26 mensubunu kaybettiğini...",
+      "description": "\"Hizbullah da bu saldırılarda 26 mensubunu kaybettiğini...\" - The news continues with additional information regarding the losses suffered by Hezbollah and the ongoing developments in the region.",
+      "end_pos": 966
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 966,
+      "start_sentence": "gidelim şimdi beyrut'a Sertaç Murat Koç...",
+      "description": "\"gidelim şimdi beyrut'a Sertaç Murat Koç...\" - A transition occurs as the presenter shifts the focus to a correspondent in Beirut, indicating a change in the location of the news coverage.",
+      "end_pos": 1457
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1457,
+      "start_sentence": "tabi bütün dünya hayretle şokta izliyor...",
+      "description": "\"tabi bütün dünya hayretle şokta izliyor...\" - The news segment continues with updates on the casualties and the impact of the recent attacks, providing further details on the situation in Lebanon.",
+      "end_pos": 77439
+    }
+  ],
+  "news_segments_count": 15,
+  "economic_segments_count": 6,
+  "economic_segments": [
+    {
+      "segment_id": "285_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 92,
+      "filtered_length": 92,
+      "retention_ratio": 1.0,
+      "section_description": "\"Hizbullah da bu saldırılarda 26 mensubunu kaybettiğini...\" - The news continues with additional information regarding the losses suffered by Hezbollah and the ongoing developments in the region."
+    },
+    {
+      "segment_id": "1457_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 87,
+      "filtered_length": 87,
+      "retention_ratio": 1.0,
+      "section_description": "\"tabi bütün dünya hayretle şokta izliyor...\" - The news segment continues with updates on the casualties and the impact of the recent attacks, providing further details on the situation in Lebanon."
+    },
+    {
+      "segment_id": "1457_5",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 87,
+      "filtered_length": 87,
+      "retention_ratio": 1.0,
+      "section_description": "\"tabi bütün dünya hayretle şokta izliyor...\" - The news segment continues with updates on the casualties and the impact of the recent attacks, providing further details on the situation in Lebanon."
+    },
+    {
+      "segment_id": "1457_7",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 110,
+      "filtered_length": 60,
+      "retention_ratio": 0.5454545454545454,
+      "section_description": "\"tabi bütün dünya hayretle şokta izliyor...\" - The news segment continues with updates on the casualties and the impact of the recent attacks, providing further details on the situation in Lebanon."
+    },
+    {
+      "segment_id": "1457_8",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 142,
+      "filtered_length": 73,
+      "retention_ratio": 0.5140845070422535,
+      "section_description": "\"tabi bütün dünya hayretle şokta izliyor...\" - The news segment continues with updates on the casualties and the impact of the recent attacks, providing further details on the situation in Lebanon."
+    },
+    {
+      "segment_id": "1457_12",
+      "method": "simple_final",
+      "confidence": 0.5,
+      "original_length": 233,
+      "filtered_length": 233,
+      "retention_ratio": 1.0,
+      "section_description": "\"tabi bütün dünya hayretle şokta izliyor...\" - The news segment continues with updates on the casualties and the impact of the recent attacks, providing further details on the situation in Lebanon."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

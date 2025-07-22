@@ -1,0 +1,27 @@
+# Economic Content from: ATV20240523_atv Ana Haber ｜ 23 Mayıs 2024.tr.txt
+# Processed: 2025-07-22T15:58:15.277439
+# Original: 4796 words → Filtered: 155 words (3.23% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 70
+**Retention**: 97.22%
+
+Geçen seneydi İzmir'deki bir özel okul yasal zam sınırı olan % 65'in çok üzerinde bir zam yaptı ücretlere. Oğuz Kul da o okulda çocuğu olan velilerden biriydi, hakem heyetine başvurdu ve haklılığını kanıtladı. Bu durum, eğitim sektöründeki fiyat artışlarının aileler üzerindeki ekonomik etkisini gözler önüne seriyor. Eğitim ve yemek bedelinin 98 99 000 L civarına çıkması, ailelerin bütçelerini zorlamaktadır. Bu tür zamlar, genel enflasyon ve yaşam maliyetleri ile doğrudan ilişkilidir.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 85
+**Retention**: 38.46%
+
+Otomotiv sektörü 7 Temmuz'a kilitlendi çünkü Genel Güvenlik yönetmeliği ile otomobil satışlarında yeni bir döneme girilecek. Temmuz ayında yürürlüğe girecek olan güvenlik donanımı zorunluluğu fiyatları dibe çekti. Bu nedenle otomobil devleri ellerindeki stokları eritmek için kampanya yarışına girdi. Sıfır araçların fiyatları son dönemde %120'ye kadar düştü. Markalar art arda müthiş bir indirim uygulamaya başladı. Bu ay otomotiv alımıyla ilgili kredi kampanyaları da devreye girdi. Bu aydan sonraki süreçte alım yapacaklar için %15-20 civarında bir fark oluşması bekleniyor. %20'lik indirim, alıcılar için iyi bir fırsat sunuyor.
+
+================================================================================
+

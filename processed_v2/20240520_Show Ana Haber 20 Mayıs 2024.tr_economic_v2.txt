@@ -1,0 +1,16 @@
+# Economic Content from: 20240520_Show Ana Haber 20 Mayıs 2024.tr.txt
+# Processed: 2025-07-22T17:30:52.853916
+# Original: 3521 words → Filtered: 59 words (1.68% retention)
+# Economic segments: 1
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 59
+**Retention**: 48.76%
+
+100 b000 lirayı faize koyduğunuzda bankadan bankaya değişiyor ama aylık getirisi 45-50.000 bandında. Hatta aylık faiz artıyor. Artan parayı da harcarız herhalde. Kendi aracım ondan dolayı servisten çıkamıyoruz. Satın almaktansa kiralamayı tercih edenler 3 aylık, 6 aylık ya da yıllık kiralayabiliyor. Tabii modelden modele de fiyatlar değişiyor. Şöyle bir otomobilin genelde iş için kullanılan bir model yıllık kirası 240.
+
+================================================================================
+

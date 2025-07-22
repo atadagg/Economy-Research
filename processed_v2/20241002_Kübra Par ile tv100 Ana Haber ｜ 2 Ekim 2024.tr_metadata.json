@@ -1,0 +1,98 @@
+{
+  "file_path": "news/TV100/20241002_Kübra Par ile tv100 Ana Haber ｜ 2 Ekim 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T18:10:25.464976",
+  "original_word_count": 5471,
+  "filtered_word_count": 455,
+  "retention_ratio": 0.08316578322061781,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "TV1 ekranlarından Herkese iyi akşamlar ben Kübra Par bir ana habere daha başlıyoruz",
+      "description": "\"TV1 ekranlarından Herkese iyi akşamlar ben Kübra Par bir ana habere daha başlıyoruz\" - The presenter introduces herself and the program, setting the stage for the news broadcast.",
+      "end_pos": 72
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 72,
+      "start_sentence": "Efendim Dün Siyasette ilkler yaşandı ülkemizdeki siyasi kutuplaşma buzulları",
+      "description": "\"Efendim Dün Siyasette ilkler yaşandı ülkemizdeki siyasi kutuplaşma buzulları\" - This section contains the main news content, discussing political events and reactions in Turkey, including statements from political leaders and the implications of their actions.",
+      "end_pos": 1052
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 1052,
+      "start_sentence": "işte bugünkü Hashtag imizi de tam da bundan hareketle birlik zamanı",
+      "description": "\"işte bugünkü Hashtag imizi de tam da bundan hareketle birlik zamanı\" - A brief transition that introduces the topic of social media engagement related to the news discussed, signaling a shift in focus within the news segment.",
+      "end_pos": 1622
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1622,
+      "start_sentence": "Zira bugün Ana Haberin ikinci bloğunda çok önemli bir konuğumuz var CHP lideri Özgür Özel",
+      "description": "\"Zira bugün Ana Haberin ikinci bloğunda çok önemli bir konuğumuz var CHP lideri Özgür Özel\" - This part continues the news segment, indicating the upcoming guest and topics to be discussed in the next part of the program.",
+      "end_pos": 1824
+    },
+    {
+      "type": "5. **OUTRO**",
+      "start_pos": 1824,
+      "start_sentence": "Hazırlanıyoruz birazdan kendisine başta dün yaşananlar olmak üzere geçtiğimiz hafta boyunca tartışma yaratan pek çok başlığı sorma",
+      "description": "\"Hazırlanıyoruz birazdan kendisine başta dün yaşananlar olmak üzere geçtiğimiz hafta boyunca tartışma yaratan pek çok başlığı sorma\" - The closing remarks that prepare the audience for the next segment, indicating the end of the current discussion and the transition to the guest interview.",
+      "end_pos": 38920
+    }
+  ],
+  "news_segments_count": 9,
+  "economic_segments_count": 5,
+  "economic_segments": [
+    {
+      "segment_id": "1052_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 80,
+      "filtered_length": 80,
+      "retention_ratio": 1.0,
+      "section_description": "\"işte bugünkü Hashtag imizi de tam da bundan hareketle birlik zamanı\" - A brief transition that introduces the topic of social media engagement related to the news discussed, signaling a shift in focus within the news segment."
+    },
+    {
+      "segment_id": "1824_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 67,
+      "filtered_length": 50,
+      "retention_ratio": 0.746268656716418,
+      "section_description": "\"Hazırlanıyoruz birazdan kendisine başta dün yaşananlar olmak üzere geçtiğimiz hafta boyunca tartışma yaratan pek çok başlığı sorma\" - The closing remarks that prepare the audience for the next segment, indicating the end of the current discussion and the transition to the guest interview."
+    },
+    {
+      "segment_id": "1824_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 196,
+      "filtered_length": 135,
+      "retention_ratio": 0.6887755102040817,
+      "section_description": "\"Hazırlanıyoruz birazdan kendisine başta dün yaşananlar olmak üzere geçtiğimiz hafta boyunca tartışma yaratan pek çok başlığı sorma\" - The closing remarks that prepare the audience for the next segment, indicating the end of the current discussion and the transition to the guest interview."
+    },
+    {
+      "segment_id": "1824_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 338,
+      "filtered_length": 122,
+      "retention_ratio": 0.3609467455621302,
+      "section_description": "\"Hazırlanıyoruz birazdan kendisine başta dün yaşananlar olmak üzere geçtiğimiz hafta boyunca tartışma yaratan pek çok başlığı sorma\" - The closing remarks that prepare the audience for the next segment, indicating the end of the current discussion and the transition to the guest interview."
+    },
+    {
+      "segment_id": "1824_5",
+      "method": "simple_final",
+      "confidence": 0.5,
+      "original_length": 177,
+      "filtered_length": 68,
+      "retention_ratio": 0.384180790960452,
+      "section_description": "\"Hazırlanıyoruz birazdan kendisine başta dün yaşananlar olmak üzere geçtiğimiz hafta boyunca tartışma yaratan pek çok başlığı sorma\" - The closing remarks that prepare the audience for the next segment, indicating the end of the current discussion and the transition to the guest interview."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

@@ -1,0 +1,60 @@
+# Economic Content from: 20240829_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 29 Ağustos 2024.tr.txt
+# Processed: 2025-07-22T18:52:42.699939
+# Original: 10849 words → Filtered: 362 words (3.34% retention)
+# Economic segments: 4
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 57
+**Retention**: 100.00%
+
+Yıldırım aynı açıklamayı yapmıştı çok yakınız diye bugün yarın bir haber gelebilir diye Şimdi hala
+yanıtı bulamadık ama akıllarda bir soru var o da Narine ne olduğu başlatılan soruşturmada önemli
+aşamalar kat edildi şüpheli bulunan sekiz kişiden biri gözaltına alındı o kişi Narin'in en
+yakınlarından biri 18 yaşındaki abyi kolunda ısırık izleri vardı tüm dikkatler üzerine çekildi
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 78
+**Retention**: 100.00%
+
+500 yeni taksi
+teklifi kabul edildi yeni bir uygulama hayata geçiriliyor onun adı uygulama tabanlı taksi
+taşımacılığı sistemi pek çok şartı var şimdi önce bir o sisteme bakalım şartlar neler kimler o
+şartları sağlayabiliyor nasıl olacak teknolojik taksi sistemi neleri getiriyor nasıl katkıları var
+biz artık istediğimiz noktadan istediğimiz gibi taksiye binebilecek miyiz bu 2500 taksinin dahil
+olmasıyla birlikte yaklaşık olarak rakam 18 5 19 000 L geliyor turkuaz ve lüks taksileri saydığımız
+zaman da 21 000 22
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 118
+**Retention**: 57.28%
+
+İstanbul'da kronikleşen taksi sorununu hafifletmek için yeni bir adım atıldı. Ulaştırma Bakanlığı, İstanbul Büyükşehir Belediyesi ve taksiciler odasının uzlaşısı sonucu kabul edilen teklif ile İstanbul için 2500 taksi daha hizmete giriyor. Uygulama tabanlı 2500 yeni taksi teklifi oy birliği ile kabul edildi. İstanbul Büyükşehir Belediyesi Ulaşım Koordinasyon Merkezi toplantısında gündem taksi çilesiydi. Bu sisteme göre yalnızca Büyükşehir Belediyesi lisanslı dijital taksi çağırma sistemi uygulaması kullanılacak. Ödemeler kredi kartı veya İstanbul kartla yapılacak, komisyon ücreti ise alınmayacak. Projeyle taksicilerin yolcu seçme şansı da kalmayacak. İlk aşamada bu sisteme 2500 adet taksi plakası dahil edilecek. Ancak bu plakalar mevcut plakalar arasından seçilmeyecek; İstanbul Büyükşehir Belediyesi ihaleye çıkacak. Ulaştırma ve Altyapı Bakanı Abdülkadir Uraloğlu, uygulama tabanlı taksi taşımacılığı sistemini onaylayacaklarını duyurdu.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 109
+**Retention**: 35.05%
+
+Bu araçların uygulama ile talep edilmesi, devletin vergi alması açısından önemli bir gelişme. Nakit ödeme sisteminin kalkması, devletin gelirlerini artıracak. Ayrıca, bu sistemle birlikte yolcu bilgileri ve araçların çalışma süreleri daha şeffaf hale gelecek. Kurumsal çalışma zorunluluğu, taksi hizmetlerinin düzenlenmesi ve denetlenmesi açısından kritik bir adım. Lisans bedellerinin belirlenmesi ve kurallara uyulması, sektördeki rekabeti artıracak ve haksız kazançların önüne geçecek. 
+
+Mevcut durumda, İstanbul'da 20 binden fazla taksi plakasının bulunduğu ve bu plakalardan bazıları etkin bir şekilde kullanılmadığı için, bu sistemin uygulanmasıyla birlikte daha verimli bir hizmet sunulması bekleniyor. Devletin bu alandaki denetim eksikliği, ekonomik kayıplara yol açıyordu. Bu yeni düzenlemeler, hem devletin gelirlerini artıracak hem de yolcu güvenliğini sağlayacak.
+
+================================================================================
+

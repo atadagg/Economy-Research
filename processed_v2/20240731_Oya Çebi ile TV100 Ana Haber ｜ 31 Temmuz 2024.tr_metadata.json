@@ -1,0 +1,121 @@
+{
+  "file_path": "news/TV100/20240731_Oya Çebi ile TV100 Ana Haber ｜ 31 Temmuz 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T18:47:33.736551",
+  "original_word_count": 12250,
+  "filtered_word_count": 397,
+  "retention_ratio": 0.03240816326530612,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "efendim İyi akşamlar TV3 ekranlarına hoş geldiniz",
+      "description": "\"efendim İyi akşamlar TV3 ekranlarına hoş geldiniz\" - The presenter welcomes viewers to the program, introduces the date, and sets the tone for a busy news agenda.",
+      "end_pos": 391
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 391,
+      "start_sentence": "Hamas lideri İsmail Haniye suikast sonucu öldürüldü",
+      "description": "\"Hamas lideri İsmail Haniye suikast sonucu öldürüldü\" - The segment discusses the assassination of Hamas leader Ismail Haniyeh and its implications, including live connections to reporters in the region and analysis from experts.",
+      "end_pos": 584
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 584,
+      "start_sentence": "Peki Hemen onları size takdim edeyim",
+      "description": "\"Peki Hemen onları size takdim edeyim\" - This phrase indicates a transition to introducing correspondents who will provide updates from the field.",
+      "end_pos": 881
+    },
+    {
+      "type": "4. **TRANSITION**",
+      "start_pos": 881,
+      "start_sentence": "Haniye öldürülmesine en yüksek sese tepki Türkiye'den geldi",
+      "description": "\"Haniye öldürülmesine en yüksek sese tepki Türkiye'den geldi\" - This sentence transitions to discussing the reactions to Haniyeh's assassination, indicating a shift in focus within the news segment.",
+      "end_pos": 1274
+    },
+    {
+      "type": "5. **TRANSITION**",
+      "start_pos": 1274,
+      "start_sentence": "Tabii ki stüdyoya döneceğim",
+      "description": "\"Tabii ki stüdyoya döneceğim\" - This indicates a transition back to the studio for further discussion and analysis.",
+      "end_pos": 1570
+    },
+    {
+      "type": "6. **NEWS**",
+      "start_pos": 1570,
+      "start_sentence": "şimdi hocam sizlerle birlikte aslında Hem bir haberlerimizi paylaşacağız",
+      "description": "\"şimdi hocam sizlerle birlikte aslında Hem bir haberlerimizi paylaşacağız\" - This section continues the news discussion, focusing on the implications of the events in the Middle East and inviting expert commentary.",
+      "end_pos": 1859
+    },
+    {
+      "type": "7. **OUTRO**",
+      "start_pos": 1859,
+      "start_sentence": "ama öncelikle şöyle yapalım bir Haberimiz v",
+      "description": "\"ama öncelikle şöyle yapalım bir Haberimiz v\" - This phrase suggests a closing remark or transition to the end of the program, indicating that the segment is wrapping up.",
+      "end_pos": 87769
+    }
+  ],
+  "news_segments_count": 11,
+  "economic_segments_count": 6,
+  "economic_segments": [
+    {
+      "segment_id": "881_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 51,
+      "filtered_length": 51,
+      "retention_ratio": 1.0,
+      "section_description": "\"Haniye öldürülmesine en yüksek sese tepki Türkiye'den geldi\" - This sentence transitions to discussing the reactions to Haniyeh's assassination, indicating a shift in focus within the news segment."
+    },
+    {
+      "segment_id": "1859_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 94,
+      "filtered_length": 59,
+      "retention_ratio": 0.6276595744680851,
+      "section_description": "\"ama öncelikle şöyle yapalım bir Haberimiz v\" - This phrase suggests a closing remark or transition to the end of the program, indicating that the segment is wrapping up."
+    },
+    {
+      "segment_id": "1859_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 175,
+      "filtered_length": 93,
+      "retention_ratio": 0.5314285714285715,
+      "section_description": "\"ama öncelikle şöyle yapalım bir Haberimiz v\" - This phrase suggests a closing remark or transition to the end of the program, indicating that the segment is wrapping up."
+    },
+    {
+      "segment_id": "1859_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 97,
+      "filtered_length": 63,
+      "retention_ratio": 0.6494845360824743,
+      "section_description": "\"ama öncelikle şöyle yapalım bir Haberimiz v\" - This phrase suggests a closing remark or transition to the end of the program, indicating that the segment is wrapping up."
+    },
+    {
+      "segment_id": "1859_6",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 216,
+      "filtered_length": 88,
+      "retention_ratio": 0.4074074074074074,
+      "section_description": "\"ama öncelikle şöyle yapalım bir Haberimiz v\" - This phrase suggests a closing remark or transition to the end of the program, indicating that the segment is wrapping up."
+    },
+    {
+      "segment_id": "1859_7",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 104,
+      "filtered_length": 43,
+      "retention_ratio": 0.41346153846153844,
+      "section_description": "\"ama öncelikle şöyle yapalım bir Haberimiz v\" - This phrase suggests a closing remark or transition to the end of the program, indicating that the segment is wrapping up."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

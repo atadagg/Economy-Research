@@ -1,0 +1,16 @@
+# Economic Content from: 20240615_Show Ana Haber 15 Haziran 2024.tr.txt
+# Processed: 2025-07-22T17:33:13.924165
+# Original: 3264 words → Filtered: 85 words (2.60% retention)
+# Economic segments: 1
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 85
+**Retention**: 63.91%
+
+Cumhurbaşkanı Erdoğan, ekonomik veriler ve istatistikler hakkında açıklamalarda bulundu. İtalya dönüşü uçakta yaptığı konuşmada, hükümetin ekonomik politikaları doğrultusunda duruşlarından asla taviz vermeyeceklerini vurguladı. Ayrıca, Türkiye'nin ekonomik durumu ve piyasalardaki gelişmelerle ilgili değerlendirmelerde bulundu. Ekonomik verilerin, milletin refahı üzerinde doğrudan etkisi olduğunu belirtti. Erdoğan, hükümetin izlediği mali politikaların, iş dünyası ve yatırımcılar üzerinde olumlu etkiler yaratacağını ifade etti. Bu bağlamda, iş dünyasındaki gelişmelerin ve şirketlerin performanslarının takip edilmesi gerektiğini söyledi. Ekonomik istikrarın sağlanması için gerekli adımların atılacağını ve bu süreçte tüm paydaşlarla iş birliği yapılacağını belirtti.
+
+================================================================================
+

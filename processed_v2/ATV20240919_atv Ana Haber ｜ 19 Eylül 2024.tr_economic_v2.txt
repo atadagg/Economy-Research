@@ -1,0 +1,83 @@
+# Economic Content from: ATV20240919_atv Ana Haber ｜ 19 Eylül 2024.tr.txt
+# Processed: 2025-07-22T16:42:55.133706
+# Original: 4913 words → Filtered: 539 words (10.97% retention)
+# Economic segments: 6
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 139
+**Retention**: 100.00%
+
+000 civarında para gidiyor hesabımda üzülmeye bile vaktim yok uyuyamıyorum günlerdir
+gözüne bir damla uyku girmiyor çünkü dolandırıcılar y binlerce liralık kredi çekti 300 000 tüketici
+kredisi çekilmiş onun geri ödemesi 41 000 gözüküyor 14 000 tde km tanımlanıp eksi hesaba düşülmüş
+550 000 TL civarında para gidiyor hesabımdan Nilay kırık Bahçelievler Devlet hastanesi'de
+fizyoterapist olarak görev yapıyor 11 Eylül gecesi dolandırıcılar kırığın İnterneti kapalı olmasına
+rağmen kurdukları sistemle uzaktan telefonuna bağlandı mobil bankacılığa girip üst üste ü kez işlem
+yapıp hesabından yüklü miktarda para çektiler ama o an bundan haberdar değildi farkına vardığında
+ise artık çok geçti hastanedeki görevime geldim sabah 99'da ard arda 6 adet mesaj geldi Şöyle
+mesajlar hesabınızda kam meaş tanımlanmıştır kredinizi kullanabilirsiniz ard arda mesajlar gelince
+Nilay kırık şüphelendi ve hemen mobil bankacılığına girdi mobil bankacılığına girdiğinde ise
+hayatının şokunu yaşadı Çünkü hesabından 300
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 66
+**Retention**: 44.59%
+
+Üsküdar'da bir bina ev sahibiyle kiracı arasında kira ücreti konusunda anlaşmazlık yaşandı. Ev sahibi, kirayı 12,000 TL'ye çıkarmak istedi, ancak kiracı bu rakamı kabul etmedi. Mahkemeye gidildi ve bilir kişi, kirayı 7,500 TL olarak belirledi. Ancak, o bölgede kira fiyatlarının 20,000 TL'nin üzerinde olduğunu biliyoruz. Bu durum, kiracı ve ev sahibi arasında yaşanan anlaşmazlıkların yanı sıra, genel olarak konut piyasasındaki fiyat artışlarını da gözler önüne seriyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 122
+**Retention**: 72.19%
+
+Hatta 60 000 yakın kitap ücreti isteyen okullar var. Bu rakamları ödemeye zorlayıp fahiş fiyatlara kitap satan o özel okulları bakanlık affetmedi. İyi yaptı ceza kesildi ama madem suçlu, herkese parasını iade edecek. Özel okullar velilere çocuğunu bu özel okulda okutmak istiyorsan bu kitap ücretini de ödemek ve bu kitapları bizden almak zorundasın dedi. Milli Eğitim Bakanlığı böyle 400 okula ceza yazdı. Okullara ceza kesilmesi iyi bir şey çünkü burada bir haksızlık olduğunu gösterir. Geçtiğimiz yıl 12 000 L olan kitap ücreti bu sene 450 000 liraya kadar çıktı. Hatta bazı özel okullarda bu rakam 70 000 lirayı da buluyor. Bir yıl öncesine kıyasla aradaki fark % 400-500 arasında. Bazı kurumlar sözle enflasyonu bahane ediyor ama böyle bir artış söz konusu değil.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 77
+**Retention**: 64.17%
+
+Bugünlerde altın yatırımcılarının yüzü gülüyor. Gram altın neredeyse 3.000 TL seviyelerine ulaştı. Bu durum, yatırımcılar arasında altın alım satımına olan ilgiyi artırdı. Ayrıca, özel okulların eğitimle ilgili harcamaları ve kitap fiyatları üzerine yapılan %300 zamlar, velilerin ekonomik yükünü artırdı. Veliler, ödedikleri paraların geri iade edilip edilmeyeceğini merak ediyor. Özel okulların eğitim odaklı olmaları ve ek gelir kaynakları yaratmamaları gerektiği konusunda velilerin talepleri var. Bu bağlamda, özel okullara kesilen cezaların, velilerin ekonomik çıkarlarını koruma adına önemli olduğu düşünülüyor.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 92
+**Retention**: 46.70%
+
+Amerika Merkez Bankası'nın faiz indirimleri, altın fiyatlarını etkileyerek gram altının 2890 TL'den satışa sunulmasına neden oldu. Çeyrek altın bir ay önce 4400 TL iken, şu anda 4700 TL seviyesinden işlem görüyor. Yarım altın fiyatı 8800 TL'den 9200 TL'ye yükseldi. Tam altın, yani zinet altını ise 17600 TL'den 18000 TL'ye çıktı. 
+
+Merkez Bankası'nın 50 baz puanlık faiz indirimleri, altın fiyatlarının yükselmesine yol açtı. Uzmanlar, gram altının önümüzdeki dönemde 3000-3500 TL seviyelerine ulaşabileceğini öngörüyor. Enflasyonun Amerika'da 2,5 seviyelerinde seyretmesi, faiz indirimlerinin etkilerini artırabilir. FED'in faiz indirimi kararından sonra gram altın fiyatları yükselmeye devam etti.
+
+================================================================================
+
+## Economic Segment 6
+
+**Method**: simple_final
+**Confidence**: 0.50
+**Word Count**: 43
+**Retention**: 33.86%
+
+Altın fiyatları, yatırımcıların yüzünü güldürdü. 2024 başından bu yana faiz, borsa ve fon yatırım getirilerini solladı. Uzmanlara göre, faiz indirimlerinin sürmesiyle yeni rekorların kapıda olduğu ve altının 300 TL'ye kadar çıkma ihtimalinin yüksek olduğu belirtiliyor. Uzun vadede altının ciddi bir rekor kıracağı düşünülüyor.
+
+================================================================================
+

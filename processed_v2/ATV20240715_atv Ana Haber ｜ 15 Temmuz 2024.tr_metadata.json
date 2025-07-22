@@ -1,0 +1,48 @@
+{
+  "file_path": "news/ATV/ATV20240715_atv Ana Haber ｜ 15 Temmuz 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T16:52:18.963560",
+  "original_word_count": 4302,
+  "filtered_word_count": 90,
+  "retention_ratio": 0.02092050209205021,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "8 yıl önce bugün Türk milleti Tek Yürek oldu...",
+      "description": "\"8 yıl önce bugün Türk milleti Tek Yürek oldu...\" - The opening remarks reflect on a significant historical event, setting the tone for the broadcast and introducing the topic of discussion.",
+      "end_pos": 97
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 97,
+      "start_sentence": "Cumhurbaşkanı Erdoğan da hain darbe girişiminin başladığı ilk noktalardan birinde...",
+      "description": "\"Cumhurbaşkanı Erdoğan da hain darbe girişiminin başladığı ilk noktalardan birinde...\" - This section contains the main news content, discussing the anniversary of a coup attempt, the president's messages, and reflections on the event's significance.",
+      "end_pos": 1831
+    },
+    {
+      "type": "3. **OUTRO**",
+      "start_pos": 1831,
+      "start_sentence": "Bugün bir kez daha teşekkür ediyorum milletimizin çıplak elleriyle...",
+      "description": "\"Bugün bir kez daha teşekkür ediyorum milletimizin çıplak elleriyle...\" - The closing remarks express gratitude and summarize the key messages of the broadcast, marking the end of the program.",
+      "end_pos": 30796
+    }
+  ],
+  "news_segments_count": 9,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "1831_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 151,
+      "filtered_length": 90,
+      "retention_ratio": 0.5960264900662252,
+      "section_description": "\"Bugün bir kez daha teşekkür ediyorum milletimizin çıplak elleriyle...\" - The closing remarks express gratitude and summarize the key messages of the broadcast, marking the end of the program."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

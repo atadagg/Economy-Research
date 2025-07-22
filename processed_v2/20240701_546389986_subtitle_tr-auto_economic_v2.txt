@@ -1,0 +1,100 @@
+# Economic Content from: 20240701_546389986_subtitle_tr-auto.txt
+# Processed: 2025-07-22T17:07:18.873279
+# Original: 4956 words → Filtered: 788 words (15.90% retention)
+# Economic segments: 7
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 64
+**Retention**: 33.16%
+
+Esenyurt'ta bir iş insanı, Daltonlar çetesinden kurtulamıyor. Çete, iş insanından 10 milyon lira haraç talep ediyor. Nisan ayında iş insanının evine ve iş yerine 4 kez kurşun yağdırıldı. Polis, bazı şüphelileri yakaladı ve saldırılardan sonra operasyon düzenledi. Saldırılar, operasyonun ardından bıçak gibi kesildi. İş yeri sahibi, çetenin haraç talebine karşılık vermediği için hedef alındı. Bu durum, iş insanının güvenliğini ve iş faaliyetlerini olumsuz etkiliyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 155
+**Retention**: 79.49%
+
+Asgari ücretle ilgili ara zam tartışmalarına Hazine ve Maliyet Bakanı Mehmet Şimşek'ten yeni bir açıklama geldi. Şimşek, yılbaşında yapılan zammı hatırlattı ve asgari ücret artışının enflasyonun üzerinde olduğunu belirtti. Yeni vergi paketiyle yurt dışı çıkış harçlarının da artırılacağını söyledi ama oran henüz belli değil. Gelişmekte olan ülkelerden en yüksek asgari ücret bizde; Türkiye'de asgari ücret düşük değildir. Asgari ücrete yılbaşında yapılan zammın yıl sonu enflasyon beklentilerinin üzerinde kalacağını söyledi. Şimşek, asgari ücret artışının yüzde 49 olacağını, ilk 6 aydaki enflasyonun yüzde 20'lerde olacağını ifade etti. Yılın sonunda piyasa, enflasyonun yüzde 43-44 olacağını öngörüyor. Bu seviyelerde dahi olsa, yüzde 45'in altında bir rakam bile real olarak yine büyümeden daha fazla asgari ücret artışına tekabül ediyor. Habertürk yayınında konuşan Şimşek'in gündeminde hazırlıkları devam eden vergi paketi de vardı. Paketin merak edilen başlıklarından biri de yurt dışı çıkış harçları; harç miktarı arttırılacak ama oran hala belli değil. Eğer uygun görülürse, bunun arttırılarak deprem için bir kaynağa dönüştürülmesi taraftarıyız.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 63
+**Retention**: 33.51%
+
+Kayıt dışı ile ilgili de net mesajlar verdi bakan Şimşek. Ortalama bir kuyumcunun aylık vergi matrağı 16 046 lira, doktorlarımızın aylık matrağı 27 376 lira. Bütün bu sektörlerde biz şunu yapacağız, yetki alacağız, kayıt dışı ile mücadele edeceğiz. Borsa kazançlarının vergilendirilmesi de gündemde ama o düzenleme bu pakette yer almayacak. Bahşişlerin vergilendirileceği iddiaları ile ilgili olarak da hiçbir zaman gündemimizde olmadı dedi Şimşek.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 137
+**Retention**: 68.84%
+
+Özel daha sonra da Didim Bodrum arası deniz otobüsü seferinin başlangıç törenine katıldı. Ekonomik veriler ve istatistikler, ülkenin ekonomik durumu hakkında önemli bilgiler sunmaktadır. Son dönemde enflasyon oranları ve mali istikrar konuları gündemde. Hükümetin ekonomik politikaları, yatırımcıların güvenini etkileyen önemli faktörler arasında yer alıyor. 
+
+Finansal piyasalarda dalgalanmalar gözlemleniyor; bu durum, yatırımcıların kararlarını doğrudan etkiliyor. İş dünyasında, şirket gelişmeleri ve yeni yatırımlar, ekonomik büyüme açısından kritik öneme sahip. Fiyatlar ve maliyetler, özellikle gıda ve enerji sektörlerinde artış göstermekte, bu da enflasyon üzerinde baskı yaratıyor. 
+
+Bankacılık sektörü, kredi politikaları ve para politikası uygulamaları ile ekonomik istikrarı sağlamaya çalışıyor. Ticaret verileri, ithalat ve ihracat rakamları, ülkenin dış ticaret dengesini belirleyen unsurlar arasında. Ekonomik analizler ve uzman görüşleri, piyasa trendlerini anlamak için önemli bir kaynak sunuyor. 
+
+Bu bağlamda, hükümetin alacağı yeni ekonomik önlemler, piyasalarda nasıl bir etki yaratacağı konusunda merakla bekleniyor.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 138
+**Retention**: 72.63%
+
+Şimdi bir ara verelim aranın ardından haberlerimizde tekrar burada olacağız. Devam ediyoruz. 
+
+Kanal D' Habere Amerikan polisi bir kere daha eleştirilerin hedefinde. Ekonomik veriler ve istatistikler, ülkedeki güvenlik durumunun yanı sıra, yatırımcıların piyasalara olan güvenini de etkiliyor. 
+
+Son dönemde, finansal piyasalarda dalgalanmalar gözlemleniyor. Uzmanlar, bu dalgalanmaların ekonomik büyüme üzerindeki etkilerini analiz ediyor. 
+
+Hükümetin ekonomik politikaları, özellikle enflasyon ve fiyat artışları ile ilgili olarak tartışma konusu. Yüksek enflasyon, hanelerin alım gücünü azaltırken, iş dünyasında da maliyet artışlarına yol açıyor. 
+
+Bankacılık sektörü, kredi faiz oranlarındaki değişikliklerle birlikte, yatırımcıların kredi alma kararlarını etkiliyor. Merkez bankasının para politikası, ekonomik istikrarı sağlamak adına büyük önem taşıyor. 
+
+Dış ticaret verileri, ülkenin ihracat ve ithalat dengesi hakkında önemli bilgiler sunuyor. Uzmanlar, ticaret açığının azaltılması için atılması gereken adımları değerlendiriyor. 
+
+Sonuç olarak, ekonomik analizler ve uzman görüşleri, piyasalardaki belirsizliklerin üstesinden gelinmesi için kritik bir rol oynuyor.
+
+================================================================================
+
+## Economic Segment 6
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 152
+**Retention**: 77.55%
+
+Şimdilerde hem ev hem de ikinci el araç fiyatlarında alıcının sesi daha gür çıkıyor. Özellikle konut bir dönem yatırım aracıydı. Daire fiyatları zirveye çıktı. Ama balon söndü, fiyatlar geriye çekildi. Birkaç yıl önce peynir ekmek gibi satılan evler, şimdilerde aylarca ilanda bekliyor. Yani önceden 15-20 gün süren ilanların süreleri 100 güne ulaştı. Tabi bu da alıcının elini iyice güçlendirdi. Artık fiyatta alıcı da söz sahibi oldu. Masaya oturduğunuzda size verilen fiyatın %20-25 altını rahatlıkla alabildiğiniz bir piyasa durumu söz konusu. Artık oyun kurucu olarak cebinde alma gücü olan müşteri güçlü ve söz hakkı var. Konut satışlarında durum nasıl tam tersine döndüyse ikinci el araç satışlarında da aynısı oldu. Eskiden fiyatı galerici belirlerdi, şimdiyse o pazarlık masasında güçlü olan taraf alıcı. İşlerimiz durgun. Yaklaşık 6 aydır piyasayı artık binici belirliyor. Öncesinde esnaf belirlerdi. Parası olan müşterimiz geliyor, ilanda yazan 1 milyonluk arabaya 9 bin liraya veriyorsan alırız diyor. Zararına satış yaptığımız bile oluyor.
+
+================================================================================
+
+## Economic Segment 7
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 79
+**Retention**: 40.31%
+
+Berberler, kuaförler ve güzellik salonları için Ticaret Bakanlığı tarafından haftada bir gün tatil kararı çıktı. Bu karar, özellikle hafta sonları yoğun çalışan emekçilerin dinlenmesi açısından önemli bir gelişme. Berberler, kuaförler ve güzellik salonları için ortak haftalık tatilin pazar günü olması öngörülüyor. Bu karar kesinleştiği takdirde, iş yerini açan esnafa ceza uygulanacak. Ekonomik açıdan, bu düzenleme esnafın iş yapma biçimini etkileyecek ve iş gücü maliyetlerini dolaylı olarak etkileyebilir. Ayrıca, bu tür düzenlemelerin sektördeki rekabet koşullarını nasıl etkileyeceği de merak ediliyor.
+
+================================================================================
+

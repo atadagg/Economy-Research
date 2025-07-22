@@ -1,0 +1,71 @@
+{
+  "file_path": "news/AHaber/20250119_Tişrin Barajı'nda Şiddetli Çatışma! Tişrin Barajı'nın Stratejik Önemi Ne？ l A Haber.tr.txt",
+  "processing_timestamp": "2025-07-22T15:45:15.756304",
+  "original_word_count": 18718,
+  "filtered_word_count": 210,
+  "retention_ratio": 0.011219147344801795,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "İyi geceler değerli izleyenler A Haber ve A Haber radyo ortak yayınında gece ajansına Hoş geldiniz",
+      "description": "\"İyi geceler değerli izleyenler A Haber ve A Haber radyo ortak yayınında gece ajansına Hoş geldiniz\" - This section serves as the opening of the broadcast, welcoming viewers and introducing the program.",
+      "end_pos": 90
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 90,
+      "start_sentence": "Artık yeni günün ilk dakikalarına yavaş yavaş gireceğiz gece ajansında Türkiye'nin ve dünyanın gündeminde neler yaşanıyor gece ajansında hepsini aktaracağız aşırı sağcıların baskılarına rağmen",
+      "description": "\"Artık yeni günün ilk dakikalarına yavaş yavaş gireceğiz gece ajansında Türkiye'nin ve dünyanın gündeminde neler yaşanıyor gece ajansında hepsini aktaracağız aşırı sağcıların baskılarına rağmen\" - This section contains the main news content, discussing various topics related to Turkey and global events, particularly focusing on the situation in Gaza.",
+      "end_pos": 777
+    },
+    {
+      "type": "5. **OUTRO**",
+      "start_pos": 777,
+      "start_sentence": "Bundan sonraki süreçte mutabakatın tüm aşamalarının hayata geçirilmesi ateşkesin kalıcı hale getirilmesi ve Gazze'ye acil İnsani Yardım ulaştırılmasının takipçisi olacağız",
+      "description": "\"Bundan sonraki süreçte mutabakatın tüm aşamalarının hayata geçirilmesi ateşkesin kalıcı hale getirilmesi ve Gazze'ye acil İnsani Yardım ulaştırılmasının takipçisi olacağız\" - This section provides closing remarks about the future steps regarding the ceasefire and humanitarian aid, signaling the end of the news segment.",
+      "end_pos": 970
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 970,
+      "start_sentence": "şimdi gözler detaylarda ve gazze'nin yeniden inşasında Prosedür kısmı kaldı",
+      "description": "\"şimdi gözler detaylarda ve gazze'nin yeniden inşasında Prosedür kısmı kaldı\" - This brief transition indicates a shift in focus to the details of the reconstruction process in Gaza.",
+      "end_pos": 1733
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1733,
+      "start_sentence": "anlaşmanın detaylarına gelince ABD Mısır ve Katar kahire'de bir araya gelerek anlaşmanın ve esir takaslar nasıl işleyeceğini konuşacak",
+      "description": "\"anlaşmanın detaylarına gelince ABD Mısır ve Katar kahire'de bir araya gelerek anlaşmanın ve esir takaslar nasıl işleyeceğini konuşacak\" - This section continues with further news content, detailing the discussions among the U.S., Egypt, and Qatar regarding the agreement and prisoner exchanges.",
+      "end_pos": 127967
+    }
+  ],
+  "news_segments_count": 15,
+  "economic_segments_count": 2,
+  "economic_segments": [
+    {
+      "segment_id": "1733_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 137,
+      "filtered_length": 109,
+      "retention_ratio": 0.7956204379562044,
+      "section_description": "\"anlaşmanın detaylarına gelince ABD Mısır ve Katar kahire'de bir araya gelerek anlaşmanın ve esir takaslar nasıl işleyeceğini konuşacak\" - This section continues with further news content, detailing the discussions among the U.S., Egypt, and Qatar regarding the agreement and prisoner exchanges."
+    },
+    {
+      "segment_id": "1733_7",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 181,
+      "filtered_length": 101,
+      "retention_ratio": 0.5580110497237569,
+      "section_description": "\"anlaşmanın detaylarına gelince ABD Mısır ve Katar kahire'de bir araya gelerek anlaşmanın ve esir takaslar nasıl işleyeceğini konuşacak\" - This section continues with further news content, detailing the discussions among the U.S., Egypt, and Qatar regarding the agreement and prisoner exchanges."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

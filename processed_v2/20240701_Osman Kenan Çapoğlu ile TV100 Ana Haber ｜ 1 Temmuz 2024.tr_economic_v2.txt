@@ -1,0 +1,74 @@
+# Economic Content from: 20240701_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 1 Temmuz 2024.tr.txt
+# Processed: 2025-07-22T18:15:13.257696
+# Original: 9383 words → Filtered: 619 words (6.60% retention)
+# Economic segments: 3
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 68
+**Retention**: 100.00%
+
+saatlik süren duruşmanın detaylarına bakacağız ve bir başka husus İzmir torbalıda Bir binanın zemin
+katında bulunan restoranda yaşanan tüp patlamasında 5 kişi Hayatını kaybetmişti 63 kişi yaralanmıştı
+felakette hayatını kaybedenlerden üçü Bugün toprağa verildi biri 4 aylık hamileydi TV1 muhabiri
+Başak Bilgin bugün ailelerin Acılarına ortak olduğu iki kişi gözaltında oradaki süreci de haberlerle
+An be an ekrana taşıyacağız gelişmeleri aktaracağız yeni Gelişmeler olursa onları da paylaşacağız üç
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 485
+**Retention**: 100.00%
+
+000 L ödeyen bir kiracının kirası 12 000 artış kaydedecek Haziran ayı enflasyon verileri de bu
+tabloya eklendiğinde artış yarı yarıya fazla olacak Ev sahipleri tüfenin 12 aylık ortalamasının
+üzerinde zam yapabilir mi Kiracıdan tüfeği Aşan oranda bir talepte bulunamazlar Nisan'dan Nisan'a
+yenilenen bir sözleşmeyi düşünürsek ev sahibi tüfenin 12 aylık ortalamasına göre zam yapmak istediği
+zaman hangi tarihi beklemek zorunda % 25 döneminde yaptığı için bir sene 12 ay yani gelecek sene
+2025 Nisanın kadar artık % 25 yapacak ya temmuzda kanun kalktı diye Temmuzun kirasını ya da
+Ağustosun kirasını TÜFE oranda artırmaya Haziran ayının zam şampiyonu limon hiçbir sebze ve meyveye
+kaptırmadı şampiyonluğu hem markette hem üreticide fiyatı en çok artan ürün zaten tarlada belli bir
+rakam oluyor ve tezgaha gelene kadar markete gelene kadar en az 45 katı fiyata çıkıyor bu bizi en
+çok yoran tablo Kirazda makas iyice açıldı üretici ile Market arasında fiyat farkı % 300 yani 4
+katına çıkmış durumda Türkiye Ziraat Odaları Birliği Başkanı Şemsi Bayraktar aşırı sıcaklar ve
+yangınlar nedeniyle ürünü zarar gören üretici için de bir çağrıda bulundu fiyat en fazla artan ürün
+hem markette hem de üreticide limon olurken fiyatı en fazla düşen ürün ise hem markette hem
+üreticide pates oldu Ne üreticide ne de reyonda birinciliği Kaptırdı haziranın zam şampiyonu limon
+oldu Limonda sezonun sonuna gelmesiyle üreticilerimizin elinde ürün azaldı ve fiyatlar arttı kirazın
+da fiyatı katlandıkça katlandı üreticiden sofraya gelene kadar % 304 zamlandı üreticide 25 lir olan
+Kiraz markette 101 liraya 8,5 lir olan havuç 33 liraya 115 lir olan kuru incir 4 liraya 250 lir olan
+Antep fıstığı 900 liraya satıldı Türkiye Ziraat Odaları Birliği üretici ve marketteki Haziran ayı
+fiyat değişimlerini açıkladı kirazdaki Fiyat farkını % 291 ile havuç % 284 le kuru incir % 260 ile
+Antep fıstığı takip etti özellikle kontrol altına alınamayan geniş alanlara suçlayan Yangınlarda
+ürünlerini hayvanlarını ve tarımsal varlıklarını kaybeden üreticilerimize devlet yardım yapmalıdır
+Başkan Şemsi Bayraktar yeni ayda sadece etiketlerdeki değişimi anlatmadı bunaltıcı sıcaklar ve
+meydana gelen yangınlar nedeniyle tarımsal üretiminde zarar gördüğüne dikkat çekti destek için
+hükümete Seslendi Bu yıl Tarsim teminatları arasında yer almayan ürünlerde yaşanan kayıplar devlet
+desteğiyle telafi edilmelidir az önce de ifade ettim 3 Temmuz önemli hem TÜFE belli olacak 12 aylık
+ortalamaya göre ve yeni sözleşmelerde kira sözleşmelerinde zam oranı netleşecek hem de Haziran
+enflasyonu La birlikte 6 aylık enflasyon ortaya çıkacak memur ve emekli maaş zammında netleşecek
+tablo kritik hafta bu hafta 3 Temmuz milyonlarca memur ve emeklinin maaşına yapılacak zam çarşamba
+günü açıklanacak yaklaşık 20 milyon bireysel olarak kişiyi ilgilendiriyor çok ciddi bir rakam bu
+Haziran ayı enflasyon rakamıyla birlikte 6 aylık enflasyon nereden nereye geldi ve emekli memur ne
+kadar zam oranıyla ne kadarlık bir ücret alacak bu kesinleşiyor memur ve emeklinin gözü 3 Temmuz'da
+açıklanacak Haziran ayı enflasyon verisiyle 6 aylık maaş zam oranı da netleşmiş olacak milyonlarca
+memur ve emeklisi bekliyor Oran ne olacak diye evet yani 5 aylık gerçekleşen enflasyon % 22
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 66
+**Retention**: 47.48%
+
+Enflasyon rakamı Temmuz ayında % 25-26 civarında bir rakama ulaşmış olacak. Sayın bakanımız Vedat Işıkkan, refah payı uygulamasının olmayacağını belirtti. Dolayısıyla gerçekleşen enflasyon rakamı üzerinden SSK ve Bağkur emeklilerimiz ücret zamlarını alacaklar. Memur maaşlarındaki hesaplama yöntemi farklı olduğu için, orada da % 21-22 seviyesinde bir artışı öngörüyoruz. Memur ve emeklisine yapılacak zam oranı birçok kalemi de etkileyecek. Kıdem tazminatı tabanımız 3,558 liradan 4,380 lira seviyesine gelecek.
+
+================================================================================
+

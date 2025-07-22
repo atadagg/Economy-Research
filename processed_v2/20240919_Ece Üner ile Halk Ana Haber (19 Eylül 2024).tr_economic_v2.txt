@@ -1,0 +1,16 @@
+# Economic Content from: 20240919_Ece Üner ile Halk Ana Haber (19 Eylül 2024).tr.txt
+# Processed: 2025-07-22T17:01:55.932474
+# Original: 11500 words → Filtered: 109 words (0.95% retention)
+# Economic segments: 1
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 109
+**Retention**: 40.07%
+
+Bitcoin 600 dolarla rekor kırdı ve 63,000 doların üzerine çıktı. Borsa endeksleri yükselişe geçti. Euro-dolar çaprazı 112'ye yaklaştı. Merkez Bankası, bugünkü toplantısında politika faizini sabit tutma kararı aldı. Merkez Bankası, 2023 yılının Haziran ayından itibaren faizleri artırmaya başladı ve toplam 4,150 baz puan faiz artırdı. Faizi %5'ten % seviyesine yükseltti. Son artış Mart ayında gerçekleştirilmişti ve Nisan ayından bu yana faizde değişikliğe gidilmedi. Eylül ayı ile birlikte Merkez Bankası, 6 kez % lik faiz oranını sabit tuttu. Merkez Bankası para politikası kurulunun karar metninde, ekonomik istikrarın sağlanması gerektiği vurgusu yapıldı. Karar sonrası döviz kuru yatay seyretti. Borsa İstanbul, bankacılık endeksi öncülüğünde yükselişe geçti ve bankacılık endeksi %3 prim yaptı.
+
+================================================================================
+

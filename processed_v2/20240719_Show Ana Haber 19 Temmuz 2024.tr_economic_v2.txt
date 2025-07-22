@@ -1,0 +1,16 @@
+# Economic Content from: 20240719_Show Ana Haber 19 Temmuz 2024.tr.txt
+# Processed: 2025-07-22T17:28:24.040201
+# Original: 3651 words → Filtered: 79 words (2.16% retention)
+# Economic segments: 1
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 79
+**Retention**: 84.95%
+
+Kadıköy'de elektrikçilik yapan esnafın alın teriyle kazandığı tüm birikimi ellerinden kayıp gitti. Sinan Bayram, dolandırıcıların telefonuna erişmesi sonucu birçok internet alışverişi yapıldığını öğrendi. Bankaya başvurduğunda, hesabında birçok işlem yapıldığını fark etti. Bu durum, dolandırıcılığın finansal piyasalarda yarattığı güven sorununu bir kez daha gözler önüne serdi. Dolandırıcılar, internet alışverişi yapmaya devam etti ve bu durum, bireylerin finansal güvenliğini tehdit eden bir sorun haline geldi. Sinan Bayram, yaklaşık 200 lira kaybetti. Bu tür dolandırıcılık olayları, bankaların güvenlik önlemlerini artırması gerektiğini gösteriyor.
+
+================================================================================
+

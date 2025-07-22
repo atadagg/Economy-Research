@@ -1,0 +1,55 @@
+{
+  "file_path": "news/AHaber/20241118_İşte Narin Güran Cinayetinden 1 Saat Önce Salim Güran! Narin Güran'ın Üzerinde Bulunan 3 Taş....tr.txt",
+  "processing_timestamp": "2025-07-22T15:49:37.737046",
+  "original_word_count": 16320,
+  "filtered_word_count": 158,
+  "retention_ratio": 0.009681372549019608,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "ah al bir kez daha iyi geceler değerli izleyenler",
+      "description": "\"ah al bir kez daha iyi geceler değerli izleyenler\" - The program begins with the presenter greeting the viewers and introducing the topic of discussion, which is the Narin Güran murder case. The presenter also introduces the guests who will participate in the discussion.",
+      "end_pos": 194
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 194,
+      "start_sentence": "Say müdürüm sizinle başlayalım isterseniz",
+      "description": "\"Say müdürüm sizinle başlayalım isterseniz\" - This brief transition indicates a shift in the discussion to a specific guest, inviting them to share their insights on the case. It serves as a segue between different parts of the news content.",
+      "end_pos": 387
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 387,
+      "start_sentence": "Narin günan cinayetini konuşmayı sürdüreceğiz",
+      "description": "\"Narin günan cinayetini konuşmayı sürdüreceğiz\" - This section contains the main content of the broadcast, focusing on the ongoing discussion about the murder case. It includes insights and comments from various guests, as well as the presentation of important information and evidence related to the case.",
+      "end_pos": 1566
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1566,
+      "start_sentence": "Şimdi şöyle Öncelikle Narin bulunmadan öncesiyle ilgili olarak",
+      "description": "\"Şimdi şöyle Öncelikle Narin bulunmadan öncesiyle ilgili olarak\" - This continues the news content, where the guests provide their analyses and opinions on the case, discussing various aspects and details that are relevant to the ongoing investigation.",
+      "end_pos": 108016
+    }
+  ],
+  "news_segments_count": 13,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "387_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 158,
+      "filtered_length": 158,
+      "retention_ratio": 1.0,
+      "section_description": "\"Narin günan cinayetini konuşmayı sürdüreceğiz\" - This section contains the main content of the broadcast, focusing on the ongoing discussion about the murder case. It includes insights and comments from various guests, as well as the presentation of important information and evidence related to the case."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

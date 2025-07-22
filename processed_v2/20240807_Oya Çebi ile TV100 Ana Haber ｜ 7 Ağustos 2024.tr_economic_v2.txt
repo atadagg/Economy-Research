@@ -1,0 +1,64 @@
+# Economic Content from: 20240807_Oya Çebi ile TV100 Ana Haber ｜ 7 Ağustos 2024.tr.txt
+# Processed: 2025-07-22T18:11:59.711727
+# Original: 11269 words → Filtered: 470 words (4.17% retention)
+# Economic segments: 5
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 60
+**Retention**: 51.72%
+
+5'lik rekor bir artıştan bahsediyor ve bu artışta velileri çıkmaza sürüklemiş durumda. Uzmanlar eğitim harcamalarının bu yıl velileri her zamankinden daha fazla zorlayacak söylüyor. Şu anda çocuklar okullarına kayıt yaptırma dönemleri. Ama bu kayıt dönemleri süresince başlıca sorun, kayıt ücretlerinin alınması. 2024 Temmuz ayı tüketici fiyat endeksi verilerini kamuoyu ile paylaşan TÜİK, Temmuz ayında en büyük artışın %1104 olduğunu açıkladı.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 72
+**Retention**: 32.73%
+
+Eğitim masraflarının yüksek artması, velilerin gelirlerindeki düşüşe de neden olacak. Eğitim harcamaları % 10000 üzerine çıktığı beyan ediliyor. Uzmanlar, zorlu bir eğitim öğretim sürecine girildiğini belirterek, bu süreçte kendilerini birçok sorunun beklediğini ifade ediyor. Bu sorunların başında okul kayıt dönemlerinde alınan ücretler ve kantinlerdeki fiyat artışları yer alıyor. Yurt dışından getirilen akıllı telefonların email kayıt ücretine büyük bir zam gelmesi bekleniyor. Yeniden değerleme oranı ile birlikte 2025 yılında email kayıt ücreti 45...
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 186
+**Retention**: 96.88%
+
+Türkiye'ye yurt dışından yolcu beraberinde getirilen telefonların IMEI kayıt ücreti 2024 yılı için 3,69 lira olarak belirlenmiştir. 2025 yılında bu ücretin artacağı öngörülmektedir. Yeniden değerleme oranı ile birlikte vergi uzmanı Ozan Bingöl, 2025 yılı için IMEI kayıt ücretinin 45,95 lira olabileceğini belirtmektedir. Türkiye'de vergi, ceza, harç, tarife ve benzeri kalemlerdeki maktu tutarlar, yeniden değerleme oranı esas alınarak belirlenmektedir. Yeniden değerleme yapılacak yılın Ekim ayında, bir önceki yılın aynı dönemine göre yurtiçi üretici fiyatları genel endeksi üzerinde meydana gelen ortalama fiyat artış oranına dayanarak hesaplanmaktadır. Bu yıl Ekim ayında belirlenen yeniden değerleme dolaylı olarak 2025 yılı vergi ve harç zamlarını da etkileyecektir. IMEI kayıt ücretlerine son yıllarda yaşanan artış dikkat çekici boyutta olup, sadece 10 yılda %35'e yakın bir artış görülmüştür. 2015 yılında sadece 131 lira olan IMEI kayıt ücreti, 2016 yılında 138 liraya, 2017 yılında ise 149 liraya yükseltilmiştir. 2018 yılında 500 lira olarak belirlenen ücret, 2019 yılında 1.000 liraya, 2020 yılında 838 liraya, 2021 yılında ise 2.600 liraya çıkarılmıştır. 2022 yılında 2.732 lira olan ücret, 2023'te iki kez değişerek önce 6.091 liraya, ardından 20.000 liraya yükselmiştir. 2024 yılı için güncel rakam 3,69 lira olarak belirlenmiştir.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 43
+**Retention**: 68.25%
+
+8 milyonu faize koymuş olsanız yaklaşık 250-300.000 lira arası bir gelir elde ediyorsunuz. 8 milyonluk bir evi alamazsınız; krediyle alacak olduğunuz takdirde 5 milyon kredi kullanacak olsanız da 156.000 lira kredi ödüyorsunuz. 8 milyonluk bir evde oturacak insan 150.000 lira ayda ödeyebilir mi?
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 109
+**Retention**: 41.13%
+
+Ekonomik veriler ve istatistikler günümüzde önemli bir tartışma konusu. Türkiye'de mühendislik ve inşaat sektörlerinde diploma kiralama uygulamaları, bu mesleklerin getirdiği yüksek gelirler nedeniyle artış göstermektedir. Kiralık diplomalar, dolandırıcılık olarak değerlendirilen bir durumdur ve bu durumun ekonomik etkileri göz önünde bulundurulmalıdır. 
+
+Mühendislik alanında bir inşaat yapma yetkisine sahip olmanın getirdiği kazanç, diploma kiralama fiyatlarının artmasına neden olmaktadır. Bu durum, Türkiye'deki iş gücü piyasasında da önemli bir etki yaratmaktadır. Ayrıca, Türkiye Büyük Millet Meclisi'ne yapılan başvurular arasında ekonomik talepler de bulunmaktadır. 
+
+Örneğin, toplu ulaşım ücretlerinin yolcuların ağırlıklarına göre alınması gibi öneriler, ekonomik düzenlemelerle ilgili ilginç talepler arasında yer almaktadır. Bu tür talepler, vatandaşların ekonomik koşullarını iyileştirme çabalarının bir parçası olarak değerlendirilebilir.
+
+================================================================================
+

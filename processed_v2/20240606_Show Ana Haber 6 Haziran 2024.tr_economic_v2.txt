@@ -1,0 +1,29 @@
+# Economic Content from: 20240606_Show Ana Haber 6 Haziran 2024.tr.txt
+# Processed: 2025-07-22T17:52:07.548331
+# Original: 2601 words → Filtered: 101 words (3.88% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 63
+**Retention**: 49.61%
+
+The filtered text focusing on economic content is as follows:
+
+Geçtiğimiz ay bankasının müşteri hizmetleri aradı ve bir önceki ay çekmiş olduğu kredinin son ödeme tarihinin geldiğini hatırlattılar. 187 000 liralık kredinin geri ödemesi 300 000 L borçlandığı toplamı faiziyle birlikte 300 binee yakın bir miktar ödenmesi gereken bir para var. Bu durum, bankacılık sistemindeki kredi süreçlerinin daha dikkatli yönetilmesi gerektiğini ortaya koyuyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 38
+**Retention**: 38.38%
+
+Üstelik o para cep telefonunun arızalandığı gün mobil bankacılık üzerinden çekilmişti. Muhtemelen telefonumuzda bir güvenlik açığı olduğu için bankanın gönderdiği maillerden haberdar olamadık. Şimdi, başkasının çektiği kredinin borcunu nasıl ödeyeceklerini düşünüyorlar. Bankanın burada bir güvenlik açığı olduğunu düşünüyorlar.
+
+================================================================================
+

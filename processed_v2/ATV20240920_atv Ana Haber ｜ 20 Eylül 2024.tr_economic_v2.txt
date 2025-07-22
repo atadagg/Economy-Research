@@ -1,0 +1,46 @@
+# Economic Content from: ATV20240920_atv Ana Haber ｜ 20 Eylül 2024.tr.txt
+# Processed: 2025-07-22T16:08:31.437110
+# Original: 4595 words → Filtered: 348 words (7.57% retention)
+# Economic segments: 3
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 110
+**Retention**: 51.40%
+
+Cuma jandarma ve emniyet teşkilatı filolarına bugün itibariyle tam 7204 yeni araç eklendi. Cumhurbaşkanı Erdoğan, bu araçların teslim töreninde yaptığı konuşmada, Türkiye'nin ekonomik bağımsızlığının önemine vurgu yaptı. Savunma sanayinde dışa bağımlılığımızı azaltmak için her türlü gayreti gösteriyoruz. Türkiye'nin huzurundan en ufak bir taviz veremeyiz. 
+
+Cumhurbaşkanı, savunma sanayinde bağımsızlığın sağlanmasının ekonomik açıdan kritik bir hedef olduğunu belirtti. Bu alanda yerli ve milli teknolojimizin kullanılması, ekonomik kalkınma açısından büyük önem taşıyor. Türkiye'nin tam bağımsızlık hedefine ulaşana kadar çalışmalarımızı sürdüreceğiz. 
+
+Ayrıca, güvenlik konusunun ekonomik istikrar üzerindeki etkilerine de dikkat çekti. Kamu düzenini bozanların, devletimizin gücüyle karşılaşacaklarını ifade etti. Bu bağlamda, güvenliğin sağlanmasının ekonomik büyüme ve yatırım ortamı için ne kadar hayati olduğunu vurguladı.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 160
+**Retention**: 49.69%
+
+Kalan ev ve işyeri sahipleri 75,000 ödeyerek borcunu kapamış olacak ve yaklaşık 162,000 konut ve işyeri sahibi indirimden yararlanabilecek. Geri ödeme taksitleri en geç 2023 yılı Haziran sonu itibariyle başlayanlar ve kalan taksit sayısı 12 aydan fazla olanlar da kampanyaya başvurabilecek. İndirim kampanyasından yararlanmak isteyen konut ve işyeri sahiplerinin belirlenen tarihler arasında satış işlemini gerçekleştirdikleri bankaya başvurmaları gerekiyor. Kampanyadan yararlanabilmek için borç kapama yapılan ayın taksidinin ödenmiş olması ve konut veya iş yerinin geriye dönük taksit ya da emlak vergisi borcunun bulunmaması da şartlar arasında. 
+
+Konut sahibi olmada kolaylık sağlayan devlet destekli konut hesabı programının yenilenmesi için de düğmeye basıldı. Konut sahibinin belirleyeceği ödeme düzeniyle % yakın devlet desteği verilecek. Devlet desteğinden faydalanmak isteyenler, konut hesabında en az 3 yıl boyunca Türk Lirası olarak parasını tutacak, ancak istediği zaman devlet katkısından vazgeçip yatırdığı parayı geri alabilecek. Henüz proje aşamasında olan çalışmada, ilk evini alacak ailelere % üzerinde destek sunulması da gündemde. Konut hesabı uygulamasının yıl sonuna kadar hayata geçirilmesi planlanıyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 78
+**Retention**: 41.94%
+
+The filtered text focusing on economics, finance, and business is as follows:
+
+Fiyatlar harbiden çok abartılı bir şekilde fahiş fiyatlar. Normalde biletlerin fiyat aralığı 1500 lirayla 24,000 lira arasındayken, kara borsaya düşmesinin ardından bilet fiyatları 120,000 lira ile 150,000 lira kadar ulaşabiliyor. Yasal satış fiyatı 1500 ile 24,000 lira arasındaki biletler, uyanıklar tarafından kara borsada 150,000 liraya kadar satışa çıkarıldı. Hatta VIP tribün bileti için 750,000 lira isteniyor. Bu fiyatlar, birçok kişinin bu etkinliğe katılmasını imkansız hale getiriyor.
+
+================================================================================
+

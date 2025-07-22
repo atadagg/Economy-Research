@@ -1,0 +1,156 @@
+{
+  "file_path": "news/TV100/20240719_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 19 Temmuz 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T18:17:11.966477",
+  "original_word_count": 9145,
+  "filtered_word_count": 641,
+  "retention_ratio": 0.07009294696555494,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "19 Temmuz Cuma haftanın son iş günü...",
+      "description": "\"19 Temmuz Cuma haftanın son iş günü...\" - The opening segment introduces the date and context of the news broadcast, setting the stage for the day's news.",
+      "end_pos": 0
+    },
+    {
+      "type": "- **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "19 Temmuz Cuma haftanın son iş günü...",
+      "description": "\"19 Temmuz Cuma haftanın son iş günü...\" - Introduction to the broadcast.",
+      "end_pos": 197
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 197,
+      "start_sentence": "Çünkü resmen dünya neredeyse tamamı çevrim dışı kaldı...",
+      "description": "\"Çünkü resmen dünya neredeyse tamamı çevrim dışı kaldı...\" - This section contains the main news content, detailing a global software outage and its effects on various sectors, including air travel, banking, and healthcare.",
+      "end_pos": 197
+    },
+    {
+      "type": "- **NEWS**",
+      "start_pos": 197,
+      "start_sentence": "Çünkü resmen dünya neredeyse tamamı çevrim dışı kaldı...",
+      "description": "\"Çünkü resmen dünya neredeyse tamamı çevrim dışı kaldı...\" - Main news content about the global software outage.",
+      "end_pos": 391
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 391,
+      "start_sentence": "Bir Anda Dünyayı yani neredeyse Tabiri caizse Taş devrine dönmüş gibi oldu...",
+      "description": "\"Bir Anda Dünyayı yani neredeyse Tabiri caizse Taş devrine dönmüş gibi oldu...\" - This brief transition leads into further details about the software issue and its implications, indicating a shift in focus within the news story.",
+      "end_pos": 391
+    },
+    {
+      "type": "- **TRANSITION**",
+      "start_pos": 391,
+      "start_sentence": "Bir Anda Dünyayı yani neredeyse Tabiri caizse Taş devrine dönmüş gibi oldu...",
+      "description": "\"Bir Anda Dünyayı yani neredeyse Tabiri caizse Taş devrine dönmüş gibi oldu...\" - Transition within the news story.",
+      "end_pos": 583
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 583,
+      "start_sentence": "temel sorun çözüldü 7 saatin sonunda...",
+      "description": "\"temel sorun çözüldü 7 saatin sonunda...\" - This continues the news content, discussing the resolution of the software issue and the ongoing effects, including specific incidents in Turkey.",
+      "end_pos": 583
+    },
+    {
+      "type": "- **NEWS**",
+      "start_pos": 583,
+      "start_sentence": "temel sorun çözüldü 7 saatin sonunda...",
+      "description": "\"temel sorun çözüldü 7 saatin sonunda...\" - Continuation of the news content.",
+      "end_pos": 980
+    },
+    {
+      "type": "5. **TRANSITION**",
+      "start_pos": 980,
+      "start_sentence": "Rusya'dan bir açıklama geldi...",
+      "description": "\"Rusya'dan bir açıklama geldi...\" - Another transition that introduces a new aspect of the news, focusing on Russia's response to the software issue.",
+      "end_pos": 980
+    },
+    {
+      "type": "- **TRANSITION**",
+      "start_pos": 980,
+      "start_sentence": "Rusya'dan bir açıklama geldi...",
+      "description": "\"Rusya'dan bir açıklama geldi...\" - Transition to a new aspect",
+      "end_pos": 1170
+    },
+    {
+      "type": "6. **NEWS**",
+      "start_pos": 1170,
+      "start_sentence": "bizim Pardus diye bir yazılımımız var fakat Türkiye'de kim biliyor...",
+      "description": "\"bizim Pardus diye bir yazılımımız var fakat Türkiye'de kim biliyor...\" - This section elaborates on the importance of local software solutions in the context of the global issue, providing additional news content.",
+      "end_pos": 1557
+    },
+    {
+      "type": "7. **OUTRO**",
+      "start_pos": 1557,
+      "start_sentence": "tabii Microsoft'un hisseleri ile ilgili tabloyu da değerlendiririz...",
+      "description": "\"tabii Microsoft'un hisseleri ile ilgili tabloyu da değerlendiririz...\" - The closing remarks hint at further analysis and wrap up the discussion, indicating the end of the news segment.",
+      "end_pos": 66373
+    }
+  ],
+  "news_segments_count": 15,
+  "economic_segments_count": 6,
+  "economic_segments": [
+    {
+      "segment_id": "583_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 53,
+      "filtered_length": 54,
+      "retention_ratio": 1.0188679245283019,
+      "section_description": "\"temel sorun çözüldü 7 saatin sonunda...\" - Continuation of the news content."
+    },
+    {
+      "segment_id": "1557_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 300,
+      "filtered_length": 92,
+      "retention_ratio": 0.30666666666666664,
+      "section_description": "\"tabii Microsoft'un hisseleri ile ilgili tabloyu da değerlendiririz...\" - The closing remarks hint at further analysis and wrap up the discussion, indicating the end of the news segment."
+    },
+    {
+      "segment_id": "1557_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 237,
+      "filtered_length": 147,
+      "retention_ratio": 0.620253164556962,
+      "section_description": "\"tabii Microsoft'un hisseleri ile ilgili tabloyu da değerlendiririz...\" - The closing remarks hint at further analysis and wrap up the discussion, indicating the end of the news segment."
+    },
+    {
+      "segment_id": "1557_5",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 216,
+      "filtered_length": 125,
+      "retention_ratio": 0.5787037037037037,
+      "section_description": "\"tabii Microsoft'un hisseleri ile ilgili tabloyu da değerlendiririz...\" - The closing remarks hint at further analysis and wrap up the discussion, indicating the end of the news segment."
+    },
+    {
+      "segment_id": "1557_6",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 193,
+      "filtered_length": 120,
+      "retention_ratio": 0.6217616580310881,
+      "section_description": "\"tabii Microsoft'un hisseleri ile ilgili tabloyu da değerlendiririz...\" - The closing remarks hint at further analysis and wrap up the discussion, indicating the end of the news segment."
+    },
+    {
+      "segment_id": "1557_7",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 271,
+      "filtered_length": 103,
+      "retention_ratio": 0.3800738007380074,
+      "section_description": "\"tabii Microsoft'un hisseleri ile ilgili tabloyu da değerlendiririz...\" - The closing remarks hint at further analysis and wrap up the discussion, indicating the end of the news segment."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "file_path": "news/TV100/20240626_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 26 Haziran 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T18:34:58.496233",
+  "original_word_count": 8920,
+  "filtered_word_count": 411,
+  "retention_ratio": 0.0460762331838565,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "Mutlu akşamlar 26 Haziran Çarşamba hafta ortasında...",
+      "description": "\"Mutlu akşamlar 26 Haziran Çarşamba hafta ortasında...\" - The opening segment where the presenter greets the audience, introduces the date, and sets the stage for the news broadcast.",
+      "end_pos": 100
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 100,
+      "start_sentence": "Cumhurbaşkanı Recep Tayyip Erdoğan MHP Genel Başkanı Devlet Bahçeli ile bir araya geldi...",
+      "description": "\"Cumhurbaşkanı Recep Tayyip Erdoğan MHP Genel Başkanı Devlet Bahçeli ile bir araya geldi...\" - The main news content discussing the meeting between President Erdoğan and MHP leader Bahçeli, detailing the context and implications of their discussions.",
+      "end_pos": 1558
+    },
+    {
+      "type": "3. **OUTRO**",
+      "start_pos": 1558,
+      "start_sentence": "Bu yıl 4ün kez gerçekleşen yüz yüze temasa Yaklaşık bir saat sürdü...",
+      "description": "\"Bu yıl 4ün kez gerçekleşen yüz yüze temasa Yaklaşık bir saat sürdü...\" - The closing remarks summarizing the news discussed and providing a final thought before the program ends.",
+      "end_pos": 64232
+    }
+  ],
+  "news_segments_count": 12,
+  "economic_segments_count": 5,
+  "economic_segments": [
+    {
+      "segment_id": "100_0",
+      "method": "pattern_validated",
+      "confidence": 0.75,
+      "original_length": 144,
+      "filtered_length": 119,
+      "retention_ratio": 0.8263888888888888,
+      "section_description": "\"Cumhurbaşkanı Recep Tayyip Erdoğan MHP Genel Başkanı Devlet Bahçeli ile bir araya geldi...\" - The main news content discussing the meeting between President Erdoğan and MHP leader Bahçeli, detailing the context and implications of their discussions."
+    },
+    {
+      "segment_id": "1558_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 63,
+      "filtered_length": 52,
+      "retention_ratio": 0.8253968253968254,
+      "section_description": "\"Bu yıl 4ün kez gerçekleşen yüz yüze temasa Yaklaşık bir saat sürdü...\" - The closing remarks summarizing the news discussed and providing a final thought before the program ends."
+    },
+    {
+      "segment_id": "1558_5",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 168,
+      "filtered_length": 75,
+      "retention_ratio": 0.44642857142857145,
+      "section_description": "\"Bu yıl 4ün kez gerçekleşen yüz yüze temasa Yaklaşık bir saat sürdü...\" - The closing remarks summarizing the news discussed and providing a final thought before the program ends."
+    },
+    {
+      "segment_id": "1558_6",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 275,
+      "filtered_length": 107,
+      "retention_ratio": 0.3890909090909091,
+      "section_description": "\"Bu yıl 4ün kez gerçekleşen yüz yüze temasa Yaklaşık bir saat sürdü...\" - The closing remarks summarizing the news discussed and providing a final thought before the program ends."
+    },
+    {
+      "segment_id": "1558_8",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 66,
+      "filtered_length": 58,
+      "retention_ratio": 0.8787878787878788,
+      "section_description": "\"Bu yıl 4ün kez gerçekleşen yüz yüze temasa Yaklaşık bir saat sürdü...\" - The closing remarks summarizing the news discussed and providing a final thought before the program ends."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

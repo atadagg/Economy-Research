@@ -1,0 +1,41 @@
+# Economic Content from: 20241010_Kübra Par ile tv100 Ana Haber ｜ 10 Ekim 2024.tr.txt
+# Processed: 2025-07-22T18:33:50.575511
+# Original: 8429 words → Filtered: 282 words (3.35% retention)
+# Economic segments: 3
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 53
+**Retention**: 100.00%
+
+kısık tı biraz dinlendim geri geldim şimdiden bütün izleyicilerimiz özür diliyorum Eğer size boğuk
+yansıyorsa Efendim Şimdi cezasızlık konuşuyoruz günlerdir köftelerin içine domuz eti karıştıranlar
+ceza almaktan korkmadık varı için buna cesaret edebiliyorlar onlarca suç kaydı olan Nasılsa yatar
+çıkarım diye düşünüyor Eee hapishanede tanışan üç hırsız bugün Bir Haberini vereceğiz çıkınca çete
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 164
+**Retention**: 69.79%
+
+89 faiz oranlarını düşürme kampanyası piyasalarda bir hareketlilik söz konusu oldu. Gayrimenkul sektöründe yaşanacak o hareketlilik ilerleyen süreçte fiyatlara yansıyabilir. Örnek veriyorum, bir gayrimenkulü var ve 3 milyon TL'ye satılık olan gayrimenkul düne kadar talep görmezken faiz oranlarının düşmesi ile beraber talep görmeye başlayacak. Kiralık evlerde oturanların sayısı da fiyatı da her geçen gün artıyor. Sektör temsilcileri de yıl bitmeden ev almak için en doğru zaman diyor. Kira rakamları çok yüksek İstanbul'da ve özellikle Bahçelievler, Bakırköy, Küçükçekmece gibi talep gören yerlerde rakamlar uçtu gitti. Birçok kişi kiralık rakamından uzaklaşıp evini terk edip artık kendi evine yerleşme isteğinde. Eğer gayrimenkul almak için bir arayış içerisindeyseniz hızlı bir şekilde hareket etmeniz gerekiyor. Konut almak için paranız varsa, belki de doğru yatırımdır. Neden mi? Çünkü Bahçeşehir Üniversitesi'nin bir raporuna göre son 7 yılda en çok kazandıran altın ve konut oldu. Son 7 yılda gram altın 18 kat, konut fiyatları ise 12,5 kat arttı. Uzmanlar ev alacaksanız şimdi alın diyor. Emeklilerimizin peşinde de bankalar var; promosyon yarışı başladı.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 65
+**Retention**: 53.28%
+
+Emekli banka promosyon tutarları güncellenmeye devam ediyor. Emekliler artık bankaların en önemli müşterileri arasında yer alıyor. O yüzden de bankalar arasında promosyon yarışı her geçen gün biraz daha kızışıyor. Şimdi promosyonlar yeniden güncellendi. Hatta 24.000 lira veren bankalar bile var. Kamu bankaları açıklamalarını yapmışlardı; en düşükte 8.000, en yüksekte de 12.000 liralık promosyonlarını açıklamışlardı. Bazı kamu bankalarında SGK emeklilerine 12.000 lira varan promosyona ek olarak...
+
+================================================================================
+

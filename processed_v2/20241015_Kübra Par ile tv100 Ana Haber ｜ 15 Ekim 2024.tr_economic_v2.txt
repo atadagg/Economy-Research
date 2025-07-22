@@ -1,0 +1,177 @@
+# Economic Content from: 20241015_Kübra Par ile tv100 Ana Haber ｜ 15 Ekim 2024.tr.txt
+# Processed: 2025-07-22T18:01:17.516046
+# Original: 9339 words → Filtered: 1277 words (13.67% retention)
+# Economic segments: 14
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 43
+**Retention**: 36.13%
+
+Mehmet Şimşek, bu sabah çıktığı bir yayında, kredi kartlarından 750 lira kesilmesi kararını savundu. Bu karar, Milli Savunma bütçesine katkı olarak limiti 100.000 lirayı geçen kredi kartlarından alınacak. Ekonomik etkileri üzerine tartışmalar devam ediyor. Ayrıca, bu kararın ertelenmesiyle ilgili sıcak bilgileri de aktaracağız.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 67
+**Retention**: 44.97%
+
+Kredi kartlarında 7,750 liralık limitin e savunma sanayi fonuna ödeneceği tartışmaları devam ediyor. Bu durum, muhalefet milletvekilleri tarafından eleştirildi ve bütçe görüşmelerinde de gündeme getirileceği ifade edildi. Özellikle, bu teklifin hızlıca getirilmesinin gerekliliği konusunda eleştiriler yapıldı. Ayrıca, kredi kartlarıyla ilgili düzenlemelerin yanı sıra, kol saatlerine ilişkin de fiyat düzenlemeleri yapılacağı belirtildi. Bu tür düzenlemelerin ekonomik etkileri ve bütçe üzerindeki yansımaları önemli bir tartışma konusu olmaya devam ediyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 75
+**Retention**: 37.88%
+
+Abdullah Güler, bütçeden sonra tekrar komisyona gelecek düzenlemenin 2025 yılında yapılabileceğini belirtti. Cumhurbaşkanı Erdoğan'ın talimatıyla görüşmeler tamamlandı ve bu haliyle görüşmelerin bitmesini istediğini ifade etti. Ayrıca, 100.000 liralık kredi kartı limitinin belki de 200.000 lira olarak revize edilebileceği kulislerden duyuldu. Bugün dünya gazetesinde yer alan bir habere göre, kredi kartlarında 100.000 L ve üstündeki kartlardan yıllık 750 lira katkı payı alınmasını istemeyen vatandaşlardan son 3 günde 1 milyona yakın kişi kart limitini 999.000 liraya düşürdü.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 71
+**Retention**: 46.10%
+
+Türkiye'de bankalar birliği verilerine göre 37 milyon 900 bin bireysel kredi kartı bulunuyor. Yaklaşık 20 milyon kredi kartının limiti ise 100 bin liranın üzerinde. Yani 20 milyon kişinin kredi kartından 1 milyonu hemen 2 gün içerisinde bankalara başvurarak, "ben istemiyorum" demiş. Hazine ve Maliye Bakanı Mehmet Şimşek, enflasyondan savunma sanayi fonu ve kamuda tasarrufa kadar ekonomi gündemine ilişkin pek çok konuda açıklamalar yaptı. Bakan Şimşek, ekonomide merak edilenlere ilişkin değerlendirmelerde bulundu.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 56
+**Retention**: 41.79%
+
+Türkiye'nin en çok para kazanan bankalarına gidip vergi borcunu ödemeyenlere artık bir ifşa yapılacak. Vergi yüzsüzleri listesi, vergilerini vermeyenlerin isimlerini içerecek. Bu liste tüm vergi dairelerinde 31 Ekim'e kadar yer alacak. Şu anda isimleri veremiyoruz ama ilk iki sırada borçları 205 milyon liralık iki isim var. Bu durum, hükümetin vergi politikalarının ve ekonomik düzenlemelerin etkisini göstermektedir.
+
+================================================================================
+
+## Economic Segment 6
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 136
+**Retention**: 62.39%
+
+15 Kasım tarihlerinde Gelir İdaresi Başkanlığının internet sitesinde yayınlanacak vergi yüzsüzleri listesinde 5 milyon ve üzeri veri borcu olan ve bu borçları 30 Eylül 2024 itibariyle hala ödememiş kişilerin isimleri yer alacak. 31 Aralık 2023'te vadesi gelen 30 Eylül 2024 itibariyle de 5 milyon lira ve üzeri vergi borcunu ödemeyenler listede yer alıyor. Ayrıca, hakkında vergi ve ceza hesaplanan mükelleflerden tarihi 1 Haziran 2023 - 31 Mayıs 2024 arasında kesinleşenler oluşuyor. 
+
+Halkın derdi memur, emekli ve asgari ücretlinin maaşları. Ocak ayında açıklanacak zam oranı ne olacak? Maaşlara ne kadar zam yapılacak? Zam oranlarında kritik öneme sahip enflasyon verilerine göre uzmanlarımız bir tahmin yaptı. Milyonlarca vatandaşın maaş artışlarında enflasyon rakamları kritik öneme sahip. SSK ve Bağkur emeklileri için Ocak ayında yapılacak zam da 1 Temmuz ile 31 Aralık arasındaki son 6 aylık gerçekleşen TÜFE rakamlarına baz alınıyor.
+
+================================================================================
+
+## Economic Segment 7
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 102
+**Retention**: 51.26%
+
+Eylül ayında SSK ve Bağkur emeklilerinin alacağı zam, 3 aylık enflasyon verilerine dayanarak hesaplandı. 2024 yıl sonu enflasyon hedefi %41,5 olarak belirlenirken, Ocak ve Temmuz ayındaki enflasyon rakamı %2,72 olarak öngörülüyor. Bu durumda, SSK ve Bağkur emeklileri için toplamda %16,7 ile %17 arasında bir zam yapılması bekleniyor. Eğer hükümet ekstra bir seyyanen zam vermezse, emeklilerin alacağı zam 1416 bandı arasında kalacak. Memur ve memur emeklileri ise toplu sözleşme artı enflasyon farkı oranında zam alacaklar ve bu dönemde SSK ve Bağkur emeklilerine göre daha düşük bir artışla 1112 bandında bir zam almaları öngörülüyor. En düşük memur maaşının ise 8.500 lira civarında olması bekleniyor.
+
+================================================================================
+
+## Economic Segment 8
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 66
+**Retention**: 100.00%
+
+500 lir ile 12 500 lira arasında olanlar yasal düzenlemede en düşük SSK Bağkur emekli aylığı 12 500 liranın altında olamaz şeklinde düzenleme olduğu için 12 500 lira alıyorlar. Enflasyon oranında zam yapılmazsa kök maaşı 11 000'in altında kalanlar zam almamış olacak. Eğer normal enflasyon kadar arttırılırsa, en düşük emekli aylığı 14 375 liraya çıkar. Bu durum, emekli maaşlarının alım gücünü etkileyen önemli bir ekonomik göstergedir.
+
+================================================================================
+
+## Economic Segment 9
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 174
+**Retention**: 63.97%
+
+1715 4348 6 lira eder en düşük memur emeklisi ise bugün 1758 lira alıyor. Bunu da % 111 civarında arttırdığımız varsayarsak 19500 2 lira en düşük memur emekli aylığı olur. Asgari ücrette hem işçi hem de işveren tarafının beklentileri farklı; işçi tarafı 2024 yıl sonu enflasyon hedefi olan % 41,5 oranında zam bekliyor. İşveren tarafı ise 2025 yılında gerçekleşmesi muhtemel % 17,5 olan oranın baz alınmasını bekliyor. Tabii burada oy çokluğuyla karar alındığı için işçi ve işveren tarafının birazcık makaslara açık olması nedeniyle hükümetin alacağı tavıra bağlı. 
+
+Şimdi gelelim biraz yine ekonomiden devam ediyoruz; bedelli askerlik ücretlerine. Yılbaşından sonra bedelli askerliğe bir zam gelecek. Uzmanlar enflasyon tahminlerine göre 2025'te bedelli askerlik ücretinin ne kadar olacağını hesapladı. Milyonların merak ettiği soru bedelli askerliğe ne kadar zam gelecek. Uzmanlar asker adayları için o artışı tahmin etti. Yeni yılla beraber gelecek zamlar arasında en çok merak edilen bedelli askerlik ücreti oldu. 2025 yılında memur maaş kat sayısındaki artışa bağlı olarak bedelli askerlik ücretinin yeniden artması bekleniyor. Enflasyonun % 41,5 olarak ölçülmesi halinde % 111,33 bir artış olacak.
+
+================================================================================
+
+## Economic Segment 10
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 107
+**Retention**: 40.07%
+
+Yeni yılın ilk yarısı için bedelli askerlik ücretinin 25,000 liraya yakın artacağı tahmin ediliyor. Bu orana göre 2025 bedelli askerlik ücretinin 22,555 lira seviyesine çıkaracağı öngörülüyor. Gözler şimdi Türkiye İstatistik Kurumu'nun 3 Ocak'ta açıklayacağı aralık ayı enflasyon verilerinde. Bu veriler, ekonomik durumun değerlendirilmesi açısından önemli bir gösterge olacak. 
+
+Ayrıca, Türkiye'deki ekonomik güven endeksi ve enflasyon oranları, halkın ekonomik algısını etkileyen önemli faktörler arasında yer alıyor. Ekonomik veriler, hükümetin alacağı yeni ekonomik politikaların belirlenmesinde de kritik bir rol oynayacak. Bu bağlamda, enflasyonun yükselmesi, maliyetlerin artmasına ve dolayısıyla tüketici fiyatlarının yükselmesine neden olabilir. 
+
+Sonuç olarak, ekonomik veriler ve hükümet politikaları, Türkiye'nin ekonomik geleceği üzerinde belirleyici bir etkiye sahip olacak.
+
+================================================================================
+
+## Economic Segment 11
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 121
+**Retention**: 39.93%
+
+Türkiye'nin ekonomik durumu ile ilgili veriler, son dönemde güvenlik tehditlerinin artmasıyla birlikte toplumun genelinde bir güvensizlik hissi yaratmıştır. Ekonomik göstergeler, özellikle işsizlik oranları ve enflasyon, halkın yaşam standartlarını doğrudan etkilemektedir. 
+
+Son yapılan anketlerde, vatandaşların %60'ının kendini güvende hissetmemesi, ekonomik istikrarın sağlanamadığını göstermektedir. Bu durum, hükümetin ekonomik politikalarının yeniden gözden geçirilmesi gerektiğini ortaya koymaktadır. 
+
+Ayrıca, gençlerin suç örgütlerine yönelmesi, ekonomik fırsatların kısıtlı olmasından kaynaklanıyor olabilir. Ekonomik koşullar, gençlerin iş bulma umudunu azaltırken, bu durum sosyal sorunları da beraberinde getiriyor. 
+
+Uzmanlar, bu tür sosyal sorunların çözümünde ekonomik reformların önemine dikkat çekiyor. Ekonomik büyüme ve istihdam yaratma politikalarının, toplumun güvenlik algısını olumlu yönde etkilemesi bekleniyor. 
+
+Sonuç olarak, Türkiye'nin ekonomik verileri ve hükümetin uyguladığı politikalar, toplumun genel güvenlik hissini doğrudan etkileyen unsurlar arasında yer alıyor.
+
+================================================================================
+
+## Economic Segment 12
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 74
+**Retention**: 37.00%
+
+Altın fiyatları rekor seviyelere ulaştı, ancak son dönemde bir durgunluk gözlemleniyor. Uzmanlar, yıl sonu için çarpıcı tahminlerde bulunuyor. Gram altının fiyatı 3,000 TL'ye kadar yükselebilir. Bu durum, yatırımcıların dikkatini çekiyor ve piyasalarda dalgalanmalara neden oluyor. Ayrıca, Türkiye'nin ekonomik durumu ve enflasyon oranları, altın talebini etkileyen önemli faktörler arasında yer alıyor. Ekonomik veriler, yatırımcıların kararlarını şekillendirmede kritik bir rol oynuyor. Bu bağlamda, hükümetin alacağı ekonomik önlemler ve para politikaları da piyasalarda önemli bir etki yaratabilir.
+
+================================================================================
+
+## Economic Segment 13
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 96
+**Retention**: 48.73%
+
+Altın fiyatları son iki haftadır yükseliş hızını azalttı ve yatırımcılar temkinli bir bekleme moduna geçti. Gram altın 3045 liradan işlem görmekte, serbest piyasalarda ons altın ise 2655 dolar seviyesinde. Bu hafta hem yurt dışı hem de yurt içi piyasalarda merkez bankalarının faiz kararlarına odaklandık. Uzmanlar yıl sonu için gram altının 3500 lira, çeyrek altının ise 5700 lira olmasını bekliyor. Düğün yapacaklar ve altın borcu olanlar, altın alım fırsatlarını iyi değerlendirmeli çünkü her ay rekor denemeleri devam edecek. 2025 yılı için altın fiyatlarının zirve seviyesinin 4500 lira olacağı öngörülüyor. Uzmanlar, yeni yılda yatırımcıların altınla borçlanmamaları gerektiğini vurguluyor.
+
+================================================================================
+
+## Economic Segment 14
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 89
+**Retention**: 54.27%
+
+Bu konuyu konuşurken, Türkiye'deki ekonomik durumun etkilerini de göz önünde bulundurmak gerekiyor. Sığınmacıların ucuz iş gücü olarak çalıştırılması, iş gücü piyasasında önemli bir etki yaratıyor. Son 10 yılda Suriyelilerden çalışma izni alanların sayısının 108,000'e yükselmesi, iş gücü talebinin artışını gösteriyor. Ancak, kaçak olarak çalışan sığınmacı sayısının çok daha fazla olduğu belirtiliyor. Bu durum, iş gücü arzında dengesizliklere yol açabilir ve yerel iş gücü üzerinde baskı oluşturabilir. 
+
+Ayrıca, sığınmacıların ekonomik entegrasyonu, Türkiye'nin genel ekonomik yapısını da etkileyebilir. Ekonomik veriler, bu durumun uzun vadeli etkilerini anlamak için önemli bir gösterge olacaktır.
+
+================================================================================
+

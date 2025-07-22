@@ -1,0 +1,48 @@
+{
+  "file_path": "news/ATV/ATV20240728_atv Ana Haber ｜ 28 Temmuz 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T16:27:37.962218",
+  "original_word_count": 4299,
+  "filtered_word_count": 110,
+  "retention_ratio": 0.025587345894394046,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 23,
+      "start_sentence": "İyi akşamlar Bugün 28 Temmuz 2024 pazar",
+      "description": "\"İyi akşamlar Bugün 28 Temmuz 2024 pazar\" - The opening of the broadcast where the presenter greets the audience and introduces the date and context of the program.",
+      "end_pos": 76
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 76,
+      "start_sentence": "Cumhurbaşkanı memleketi Rize'deki temaslarına dün akşam sivil toplum kuruluşları ve sektör temsilcileri buluşmasıyla devam etti",
+      "description": "\"Cumhurbaşkanı memleketi Rize'deki temaslarına dün akşam sivil toplum kuruluşları ve sektör temsilcileri buluşmasıyla devam etti\" - The main content of the news broadcast, covering various topics including the President's activities, international issues, and domestic politics.",
+      "end_pos": 958
+    },
+    {
+      "type": "3. **OUTRO**",
+      "start_pos": 958,
+      "start_sentence": "Sonra sözü Amerikan temsilciler meclisinde yaşanan skandala getirdi",
+      "description": "\"Sonra sözü Amerikan temsilciler meclisinde yaşanan skandala getirdi\" - The closing remarks of the program, summarizing the key points discussed and providing a final thought or message.",
+      "end_pos": 30781
+    }
+  ],
+  "news_segments_count": 3,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "76_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 110,
+      "filtered_length": 110,
+      "retention_ratio": 1.0,
+      "section_description": "\"Cumhurbaşkanı memleketi Rize'deki temaslarına dün akşam sivil toplum kuruluşları ve sektör temsilcileri buluşmasıyla devam etti\" - The main content of the news broadcast, covering various topics including the President's activities, international issues, and domestic politics."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

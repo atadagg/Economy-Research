@@ -1,0 +1,62 @@
+{
+  "file_path": "news/AHaber/20241210_Esad için kaçınılmaz son nasıl geldi？ - Gece Ajansı - 10.12.2024 ｜ A Haber.tr.txt",
+  "processing_timestamp": "2025-07-22T15:43:06.653348",
+  "original_word_count": 17333,
+  "filtered_word_count": 74,
+  "retention_ratio": 0.004269312871401373,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "gece ajansına Hoş geldiniz",
+      "description": "\"gece ajansına Hoş geldiniz\" - The opening of the broadcast, welcoming viewers and introducing the program's focus on the situation in Syria.",
+      "end_pos": 52
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 52,
+      "start_sentence": "Bugün yeni Suriye hashtagi ile birlikte",
+      "description": "\"Bugün yeni Suriye hashtagi ile birlikte\" - The main content of the broadcast, discussing the current events in Syria, particularly focusing on the conditions in prisons and the plight of detainees.",
+      "end_pos": 682
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 682,
+      "start_sentence": "şimdi O noktalar var ya az önce gösterdik",
+      "description": "\"şimdi O noktalar var ya az önce gösterdik\" - Continuation of the news segment, providing further details and descriptions of the prison conditions and the experiences of the detainees.",
+      "end_pos": 1057
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 1057,
+      "start_sentence": "şimdi ama Bakın size bir şey göstermek istiyorum",
+      "description": "\"şimdi ama Bakın size bir şey göstermek istiyorum\" - A brief transition within the news segment, indicating a shift to a specific visual or detail related to the ongoing discussion about the prisons.",
+      "end_pos": 1839
+    },
+    {
+      "type": "5. **TRANSITION**",
+      "start_pos": 1839,
+      "start_sentence": "devam edelim",
+      "description": "\"devam edelim\" - Another transition phrase indicating the continuation of the discussion or movement to another aspect of the news story.",
+      "end_pos": 115824
+    }
+  ],
+  "news_segments_count": 8,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "1057_0",
+      "method": "pattern_validated",
+      "confidence": 0.75,
+      "original_length": 74,
+      "filtered_length": 74,
+      "retention_ratio": 1.0,
+      "section_description": "\"şimdi ama Bakın size bir şey göstermek istiyorum\" - A brief transition within the news segment, indicating a shift to a specific visual or detail related to the ongoing discussion about the prisons."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

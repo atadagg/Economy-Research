@@ -1,0 +1,38 @@
+# Economic Content from: ATV20240805_atv Ana Haber ｜ 5 Ağustos 2024.tr.txt
+# Processed: 2025-07-22T16:41:38.367801
+# Original: 4496 words → Filtered: 187 words (4.16% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 106
+**Retention**: 48.85%
+
+Pazartesi Cumhurbaşkanı Erdoğan, yeni haftaya önemli mesajlarla başladı. Küresel sistemin iflas bayrağını çektiğini belirterek, ekonomik durumu eleştirdi. Ekonomik veriler ve istatistikler üzerinden değerlendirmelerde bulunarak, Türkiye'nin ekonomik hassasiyetlerine dikkat çekti. 
+
+Cumhurbaşkanı Erdoğan, Gazze'deki insanlık dramının yanı sıra, batılı ülkelerin ekonomik politikalarını da sert bir dille eleştirdi. Bu bağlamda, uluslararası ticaretin ve ekonomik ilişkilerin nasıl etkilendiğine dair yorumlarda bulundu. 
+
+Ayrıca, hükümetin ekonomik politikaları ve bunların yerel ve küresel piyasalara etkisi üzerine de görüşlerini paylaştı. Ekonomik krizlerin ve savaşların, ticaret ve yatırım ortamını nasıl şekillendirdiğine dair analizler yaptı. 
+
+Erdoğan, Türkiye'nin ekonomik durumu ve uluslararası ilişkilerdeki yeri hakkında önemli bilgiler vererek, bu konuların gelecekteki ekonomik gelişmelere nasıl yön vereceğini vurguladı.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 81
+**Retention**: 100.00%
+
+000 alırlar daşı
+buradaki bizden aldıkları ücret 29 000 Kayaşehir 7 bölgedeyiz iddiaya göre işte burada bulunan
+selerin dış cephesi ve çatıları yenilenmesi için yönetim bir firmayla anlaştı ve o firma bu siteler
+için bu dış cepheler için 39 milyon fiyat verdi başka yan sitelerden 4 bölgede Boya badana yapıyor
+aynı firma yapıyor bu firma öbür tarafta daire başı 18 000 alırken aynı çapta aynı boyda binalar den
+aldıkları ücret 29 000 totale vurduğunuz zaman da 1340 konut var 15 150
+
+================================================================================
+

@@ -1,0 +1,89 @@
+{
+  "file_path": "news/ATV/ATV20240515_atv Ana Haber ｜ 15 Mayıs 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T16:41:07.301023",
+  "original_word_count": 4668,
+  "filtered_word_count": 369,
+  "retention_ratio": 0.07904884318766067,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "haberin merkezinden Atv Haber merkezinden İyi akşamlar",
+      "description": "\"haberin merkezinden Atv Haber merkezinden İyi akşamlar\" - This section serves as the opening of the broadcast, where the presenter greets the audience and introduces the program.",
+      "end_pos": 84
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 84,
+      "start_sentence": "Dünden bu yana Ayhan Bor Kaplan suç örgütüne yapılan operasyon üzerinden devlete yönelik kumpas kurulduğu iddialarını konuşuyor",
+      "description": "\"Dünden bu yana Ayhan Bor Kaplan suç örgütüne yapılan operasyon üzerinden devlete yönelik kumpas kurulduğu iddialarını konuşuyor\" - This section contains the main news content, discussing various topics including operations against crime organizations and political implications.",
+      "end_pos": 291
+    },
+    {
+      "type": "5. **OUTRO**",
+      "start_pos": 291,
+      "start_sentence": "gün oldu vesayetçilik kanlı terör örgütlerine Meydan okuduk",
+      "description": "\"gün oldu vesayetçilik kanlı terör örgütlerine Meydan okuduk\" - This section wraps up the broadcast, summarizing the key messages and concluding the program.",
+      "end_pos": 389
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 389,
+      "start_sentence": "Cumhurbaşkanı Erdoğan suç örgütüne yapılan bir operasyon üzerinden devlete yönelik kumpas kurulduğu iddialarıyla ilgili konuştu",
+      "description": "\"Cumhurbaşkanı Erdoğan suç örgütüne yapılan bir operasyon üzerinden devlete yönelik kumpas kurulduğu iddialarıyla ilgili konuştu\" - This brief transition connects different parts of the news segment, specifically shifting focus to President Erdoğan's comments on the situation.",
+      "end_pos": 1269
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1269,
+      "start_sentence": "Çetin mücadeleler sonucu geril ettiğimiz etmesine fırsat vermeyiz",
+      "description": "\"Çetin mücadeleler sonucu geril ettiğimiz etmesine fırsat vermeyiz\" - This continues the news content, elaborating on the government's stance and actions regarding the ongoing issues.",
+      "end_pos": 33631
+    }
+  ],
+  "news_segments_count": 7,
+  "economic_segments_count": 4,
+  "economic_segments": [
+    {
+      "segment_id": "1269_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 288,
+      "filtered_length": 106,
+      "retention_ratio": 0.3680555555555556,
+      "section_description": "\"Çetin mücadeleler sonucu geril ettiğimiz etmesine fırsat vermeyiz\" - This continues the news content, elaborating on the government's stance and actions regarding the ongoing issues."
+    },
+    {
+      "segment_id": "1269_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 197,
+      "filtered_length": 134,
+      "retention_ratio": 0.6802030456852792,
+      "section_description": "\"Çetin mücadeleler sonucu geril ettiğimiz etmesine fırsat vermeyiz\" - This continues the news content, elaborating on the government's stance and actions regarding the ongoing issues."
+    },
+    {
+      "segment_id": "1269_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 101,
+      "filtered_length": 60,
+      "retention_ratio": 0.594059405940594,
+      "section_description": "\"Çetin mücadeleler sonucu geril ettiğimiz etmesine fırsat vermeyiz\" - This continues the news content, elaborating on the government's stance and actions regarding the ongoing issues."
+    },
+    {
+      "segment_id": "1269_5",
+      "method": "simple_final",
+      "confidence": 0.5,
+      "original_length": 201,
+      "filtered_length": 69,
+      "retention_ratio": 0.34328358208955223,
+      "section_description": "\"Çetin mücadeleler sonucu geril ettiğimiz etmesine fırsat vermeyiz\" - This continues the news content, elaborating on the government's stance and actions regarding the ongoing issues."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

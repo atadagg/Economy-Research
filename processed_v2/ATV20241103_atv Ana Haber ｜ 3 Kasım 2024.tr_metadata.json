@@ -1,0 +1,57 @@
+{
+  "file_path": "news/ATV/ATV20241103_atv Ana Haber ｜ 3 Kasım 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T16:07:08.226346",
+  "original_word_count": 4641,
+  "filtered_word_count": 134,
+  "retention_ratio": 0.02887308769661711,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "haberi merkezinden Atv Haber Merkez'den İyi akşamlar",
+      "description": "\"haberi merkezinden Atv Haber Merkez'den İyi akşamlar\" - The opening of the broadcast where the presenter greets the audience and introduces the program.",
+      "end_pos": 72
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 72,
+      "start_sentence": "Cumhurbaşkanı Erdoğan'ın her fırsatta kararlılık vurgusu yaptığı terörle mücadelede kritik bir eşik daha aşıldı",
+      "description": "\"Cumhurbaşkanı Erdoğan'ın her fırsatta kararlılık vurgusu yaptığı terörle mücadelede kritik bir eşik daha aşıldı\" - The main content of the news broadcast, discussing various aspects of Turkey's military operations and political developments.",
+      "end_pos": 72
+    },
+    {
+      "type": "3. **OUTRO**",
+      "start_pos": 72,
+      "start_sentence": "Cumhurbaşkanı Erdoğan Kasım ayında yapacağı yurtdışı ziyaretlerinde de terörle mücadelede kararlılığın altını çizecek",
+      "description": "\"Cumhurbaşkanı Erdoğan Kasım ayında yapacağı yurtdışı ziyaretlerinde de terörle mücadelede kararlılığın altını çizecek\" - The closing remarks of the broadcast, summarizing the key points and indicating future events related to the news discussed.",
+      "end_pos": 32561
+    }
+  ],
+  "news_segments_count": 4,
+  "economic_segments_count": 2,
+  "economic_segments": [
+    {
+      "segment_id": "72_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 66,
+      "filtered_length": 66,
+      "retention_ratio": 1.0,
+      "section_description": "\"Cumhurbaşkanı Erdoğan Kasım ayında yapacağı yurtdışı ziyaretlerinde de terörle mücadelede kararlılığın altını çizecek\" - The closing remarks of the broadcast, summarizing the key points and indicating future events related to the news discussed."
+    },
+    {
+      "segment_id": "72_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 165,
+      "filtered_length": 68,
+      "retention_ratio": 0.4121212121212121,
+      "section_description": "\"Cumhurbaşkanı Erdoğan Kasım ayında yapacağı yurtdışı ziyaretlerinde de terörle mücadelede kararlılığın altını çizecek\" - The closing remarks of the broadcast, summarizing the key points and indicating future events related to the news discussed."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

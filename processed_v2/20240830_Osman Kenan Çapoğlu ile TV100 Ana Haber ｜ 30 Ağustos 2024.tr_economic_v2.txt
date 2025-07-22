@@ -1,0 +1,38 @@
+# Economic Content from: 20240830_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 30 Ağustos 2024.tr.txt
+# Processed: 2025-07-22T18:07:16.498339
+# Original: 5782 words → Filtered: 281 words (4.86% retention)
+# Economic segments: 3
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 73
+**Retention**: 60.33%
+
+Evet Avrupa'da 6065 yaş emeklilik uygulamaları mevcut, Türkiye'de ise emeklilik konusu çalışma şartları nedeniyle önemli bir hale geliyor. Türkiye'de 32 milyonun üzerinde çalışan bulunuyor ve bu çalışanların yaklaşık 12,5 milyonu doğrudan maaş alıyor. Emekli maaşlarının düzeltilmesi gerektiği vurgulanıyor. Bu durum, ekonomik verilerin ve istihdam oranlarının iyileştirilmesi açısından kritik bir öneme sahip. Ayrıca, asgari ücretin 20,000 liraya ulaşması, açlık sınırı ile ilgili ekonomik bir göstergedir ve bu durumun kıyaslanması, ekonomik iyileştirmelerin gerekliliğini ortaya koyuyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 99
+**Retention**: 55.93%
+
+500 lira en düşük emekli maaşı SSK ve Bağkur'da büyükşehirlerde. SGK'nın gelirlerinin artırılması gerekiyor. Kayıt dışı olarak çalışan kişilerin kayda alınması, sosyal güvenlik sisteminin sürdürülebilirliği açısından önemlidir. Ülkemizde aylık bağlama oranlarının çok düşük olmasından dolayı, e gününü tamamlayan insanların bir kısmı sistemden dışarı çıkıyorlar ve kayıt dışı çalışıyorlar. Bugün itibariyle kayıt dışı çalışma oranı yaklaşık olarak dört çalışandan birinin kayıt dışı olduğunu göstermektedir. Kayıt dışı çalışanların sisteme dahil edilmesi, Sosyal Güvenlik sisteminin güçlenmesi açısından kritik bir adım olacaktır. Bu durum, 32 milyon çalışan arasında 8 milyon civarında yeni katılım anlamına gelebilir. Kayıt dışı çalışmanın ülkemizde mutlaka ele alınması gerekiyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 109
+**Retention**: 44.31%
+
+Osman Bey, stajer ve çırakların sistemin içine alınmasının yıllık olarak 170 milyar TL ve devamlı bir gelir anlamına geldiğini belirtti. İstanbul Ticaret Odası ve Ankara Ticaret Odası, bu konuda önerilerini sundular ve işverenlerin bu duruma hazır olduklarını ifade ettiler. Ayrıca, geçmişten gelen staj ve çıraklık mağduriyetinin 40 milyar TL'nin üzerinde bir borçlanma ile sonuçlandığına dikkat çekildi. Kayıt dışı çalışanların sisteme dahil edilmesi, SGK bütçesini güçlendirecek bir durum olarak değerlendiriliyor. Aylık bağlama oranlarının artırılması ve denetimlerin artırılması, bu sürecin en önemli faktörleri arasında yer alıyor. TÜİK, stajer ve çırakları çalışan olarak tanımlarken, Çalışma Bakanlığı onları öğrenci olarak nitelendiriyor. Ancak, işverenlerin bu kişileri sisteme dahil etmeye hazır olmaları, sürecin kolaylaşmasını sağlıyor.
+
+================================================================================
+

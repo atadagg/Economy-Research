@@ -1,0 +1,111 @@
+# Economic Content from: 20240703_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 3 Temmuz 2024.tr.txt
+# Processed: 2025-07-22T17:56:18.763662
+# Original: 8336 words → Filtered: 970 words (11.64% retention)
+# Economic segments: 9
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 43
+**Retention**: 74.14%
+
+Memur ve emeklinin maaşları için zam oranları belli oldu; %120 ile %25 arasında değişen oranlar şekillendi. Bu durum birçok kalemi etkiliyor. Özellikle %25 sınırının kalkmasıyla birlikte kira fiyatları üzerinde de etkiler görülecek. Önümüzdeki ay sözleşme yapacak olanlar, ne kadar ödeme yapacaklarını detaylıca değerlendirecekler.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 216
+**Retention**: 75.52%
+
+Temmuzda bir aşağı yönlü eğilim bekleniyor. Yıllık enflasyon bazında enflasyon oranındaki artış sürecek ama enflasyonun artış hızı azalacak. Haziran'da tüketici enflasyonu % 1,64 oldu ve bu, son dönemdeki en düşük oranlardan biri. Mehmet Şimşek, verilerin beklentilerle uyumlu olduğunu belirtti ve yılın ikinci yarısı itibarıyla dezenflasyon sürecinin başladığını ifade etti. Haziranda yıllık enflasyon % 71,6'ya indi, aylık bazda ise % 1,64 oldu. Bu veri, bir yılın en düşük aylık enflasyonu olarak kayda geçti. Dezenflasyon süreci başladı ve mevsimsel düzeltilmiş 3 aylık hareketli ortalamanın yıllıklandırılmış değerinin ima ettiği enflasyon eğilimi, yıl sonu hedefimizle uyumludur. Finansal istikrar, sürdürülebilir cari açık, rezerv birikimi ve gri listeden çıkış gibi birçok alanda elde ettiğimiz başarı, programımızın ana hedefi olarak dezenflasyon sürecinde belirgin bir şekilde görülecek. Fiyat istikrarına ulaşana kadar programımızı kararlılıkla uygulayarak refah artışını sağlayacağız. Türkiye İstatistik Kurumu'nun açıkladığı verileri Hazine ve Maliye Bakanı Mehmet Şimşek sosyal medya hesabından yorumladı ve dezenflasyon sürecinin başladığına dikkat çekti. 2024'te yıllık enflasyonun % 67 seviyesinde karşılanması bekleniyor. Haziranda aylık artışın en yüksek olduğu ana grup konut oldu ve % 3,79 yükseldi. Geçen yılın aynı ayına göre ana gruplar arasında en yüksek artış % 107,1 ile eğitimde görüldü. Üretici fiyat endeksi ise sert düşüş yaşadı; Mayısta yıllık % 57,58 gören ÜFE, % 1,38 arttı. Haziran ayı enflasyonu açıklandı ve yıllık enflasyon oranı % 71 olarak belirlendi.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 96
+**Retention**: 60.00%
+
+6 yıllık TÜFE'ye baktığımızda, konut kiralarında % 25 tavan zam oranının kaldırılması ve Haziran ayı enflasyonunun açıklanması ile birlikte konut ve iş yerlerine yapılacak kira artış oranı da belirlendi. 3 Temmuz Çarşamba günü TÜİK tarafından belirlenen enflasyon oranı ile emekli ve memur zammı belirlenirken, kira artış oranı da belli oldu. Buna göre, 12 aylık ortalama baz alınarak belirlenen kira artış oranı % 65'e varan bir artış oranı söz konusu. Uzmanlar, ev sahiplerine karşı uyardı; yasa kalktı ve eğer TÜFE oranında ekstra zam yapın diye gelirse, mülk sahipleri asla zam yapmamalıdır. Zaten zam yılda bir kere yapılır.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 55
+**Retention**: 49.55%
+
+Kira artış oranını belirleyen en önemli faktörlerden biri yıllık enflasyon artışıdır. Kira artış oranı, 10,000 TL kira ödeyen bir vatandaşın, bugünkü Temmuz ayı TÜFE artış oranıyla çarpılmasıyla hesaplanmaktadır. Bu hesaplama sonucunda bulunan rakam, 650 TL artış oranı çıkmaktadır. Kira artış oranı, enflasyon verileriyle doğrudan ilişkilidir ve bu durum, kiracıların maliyetlerini etkileyen önemli bir ekonomik göstergedir.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 109
+**Retention**: 55.05%
+
+SSK ve Bağkur memur emeklisi ve memur maaşlarında da bir değişiklik var; bu 6 aylık enflasyon baz alındığında, o değişiklik kadar bir artış söz konusu olacak. Yaklaşık % 120 oranında bir artış memurları kapsayacak. Emekli maaşlarında da % 25'i buluyor bu oran. Haziran ayının enflasyon oranının belli olmasıyla birlikte, bu oran neleri beraberinde getiriyor? SSK ve Bağkur emeklisine % 24,75, memur ve memur emeklisine % 1,31 zam yapılacak. Ocakla Haziran arasında gerçekleşen enflasyon % 24,7 olarak gerçekleşmiş oldu ve şu anda SSK ve Bağkur emeklileri Temmuz ayı aylıklarını % 2,73 artışla alacaklar. Bu durumda 10,000 TL maaş alan bir SSK ve Bağkur emeklisi zamla birlikte yaklaşık 12,000 TL alacak.
+
+================================================================================
+
+## Economic Segment 6
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 194
+**Retention**: 100.52%
+
+500 L alacak işte bu rakam cepte ancak gözler hükümette. Taban maaş şu anda 10 000 lira, bu rakam değişecek mi? Eğer değişmezse, milyonlarca emeklinin cebine giren para değişmeyecek. Eğer 10 000 liralık taban sınırına zam gelmezse, milyonlarca emekli zam olmasına rağmen aynı maaşı alacak. Mesela, diyelim ki sizin kök maaşınız 7 000 liraydı zam öncesinde ve 6 aylık enflasyon farkına baktığımızda % 24,75. Yani bu zamdan sonra sizin alacağınız rakam 1750 lira maaşınız olacak. Dolayısıyla 8 750 lira çıkmış olacak. Yani bu ne demek oluyor? Siz yine zam olmasına rağmen 10 000 maaş alacaksınız. 
+
+Soru işaretlerinden biri de refah payında. 2023 Ocak ayında mevcut gerçekleşen enflasyona ilave olarak 14,41 saat emeklisinin zammı da 6 aylık enflasyon farkıyla ortaya çıkmış oldu. En düşük memur emeklisi 14 740 lira alıyordu, 19,3 artarak 1 58 7 liraya çıktı. Bu da en düşük memur aylığı biliyorsunuz 32 860 lira, yani çocuksuz bekar bir memur için bu da 39 20 lira olarak gerçekleşmiş oldu. 8'in birindeki bir öğretmen 3 892 lira alıyordu, bu durumda 41 60 lira garanti olmuş oldu. Hemşire 8'in birindeki 37 4 44 lira alıyordu, 44 674 liraya çıktı. Normalde memur dediğimiz idari memur 31...
+
+================================================================================
+
+## Economic Segment 7
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 110
+**Retention**: 59.14%
+
+Enflasyonun açıklanmasıyla birlikte sosyal yardım ödemeleri, engelli, dul, yetim ve 65 yaş aylığı bedelleri değişti. Enflasyon rakamları açıklandı ve memur ile emeklilerin maaş farkları belli oldu. TÜİK verilerine göre, memur ve emeklisi %9,1 oranında maaş farkı alacak. Emeklinin kesinleşen zam oranı, 5 önemli kalemde de artışa sebep oldu. Kıdem tazminatı tavanı şu anda 3.58 lirayken %119,800 liraya yükseldi. 65 yaş üzeri emekli olamayanlar için yaşlılık aylığı, aylık 3504 TL olarak belirlenmişti. Memur ve memur emeklisi zamma olan %199,31 ile aylık 676 TL artış aldı. Böylece her ay 4,180 TL olarak maaşlarını almaya devam edecekler. Artış yaşanan başka bir kalem ise evde bakım yardımı; evde bakım parasının tutarı 7608 TL oldu.
+
+================================================================================
+
+## Economic Segment 8
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 71
+**Retention**: 59.66%
+
+En düşük emekli aylığına yapılan artış, memur emeklisinin zammıyla birlikte 1.046 TL'lik bir artışla 3.076 TL'ye ulaştı. Engelli aylığı ise %40 ve üzeri engeli olan bireyler için 4.196 TL'ye çıkarken, 18 yaş altı engelli bireyler için 3.338 TL oldu. Bu artışlar, ekonomik koşullar ve enflasyon ile doğrudan ilişkilidir. Ayrıca, bedelli askerlik ücretlerinde de 19,3 oranında bir artış kaydedildi. Bu durum, devletin sosyal harcamalarını ve bütçe dengelerini etkileyecek önemli bir ekonomik gelişmedir.
+
+================================================================================
+
+## Economic Segment 9
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 76
+**Retention**: 100.00%
+
+000 kişiyi ağırladı Doğa turizmine yoğun bir talep olunca hedefler
+de büyümüş durumda muhteşem Yer Gök Yem yeşil Muhteşem Olağanüstü bir yer gü yemyeşil doğası
+görenleri büyülüyor çok güzel umduğumuz güzelmiş yeşilin Hani 100 tonu insan şaşırıyor kalıyor Mena
+Şelalesi Burası Artvin doğa harikası Arhavi ilçesi arhavi'deki kamilet Vadisi doğa ve tarihin
+bütünleştiği dokusuyla yerli ve yabancı turistlerin gözdesi olmaya aday ilçede Doğa turizmine yoğun
+bir talep var mençuna bugün markalaşmış vaziyette bir yıl içerisinde 65
+
+================================================================================
+

@@ -1,0 +1,85 @@
+{
+  "file_path": "news/TV100/20241007_Kübra Par ile tv100 Ana Haber ｜ 7 Ekim 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T18:12:28.647261",
+  "original_word_count": 12411,
+  "filtered_word_count": 212,
+  "retention_ratio": 0.017081621142534847,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "TV1 ekranlarından Herkese iyi akşamlar ben Kübra Par bir ana habere daha başlıyoruz",
+      "description": "\"TV1 ekranlarından Herkese iyi akşamlar ben Kübra Par bir ana habere daha başlıyoruz\" - This section serves as the opening of the broadcast, where the presenter introduces herself and indicates the start of the main news program.",
+      "end_pos": 90
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 90,
+      "start_sentence": "Gündem üzgün olacağımız kadar kötü kadınlar olarak Tedirgin",
+      "description": "\"Gündem üzgün olacağımız kadar kötü kadınlar olarak Tedirgin\" - This section contains the main news content, discussing issues related to women's safety and societal concerns, including personal anecdotes and broader societal implications.",
+      "end_pos": 859
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 859,
+      "start_sentence": "Peki Bütün bunların temelinde Ne yatıyor",
+      "description": "\"Peki Bütün bunların temelinde Ne yatıyor\" - This brief transition leads into a deeper discussion about the underlying issues of education and impunity related to the topics previously mentioned.",
+      "end_pos": 952
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 952,
+      "start_sentence": "Hani günlerdir 3 gündür konuşuyoruz ya asıl konuşmamız gereken şey eğitimsizlik ve cezasızlık",
+      "description": "\"Hani günlerdir 3 gündür konuşuyoruz ya asıl konuşmamız gereken şey eğitimsizlik ve cezasızlık\" - This section continues the news content, focusing on the themes of education and legal consequences related to societal issues.",
+      "end_pos": 1440
+    },
+    {
+      "type": "5. **NEWS**",
+      "start_pos": 1440,
+      "start_sentence": "geçen hafta söz verdim ne dedim biz TV1 an haberde sos sorunları ısrarla gündeme getireceğiz",
+      "description": "\"geçen hafta söz verdim ne dedim biz TV1 an haberde sos sorunları ısrarla gündeme getireceğiz\" - This part elaborates on the commitment of the news program to address social issues, referencing past reports and ongoing concerns.",
+      "end_pos": 1440
+    },
+    {
+      "type": "6. **NEWS**",
+      "start_pos": 1440,
+      "start_sentence": "geçen haftaki özel haberlerimiz bir tanesi öğrencilerin okula gitmeyen öğrencilerin ailelerine hiçbir ceza verilmemesi",
+      "description": "\"geçen haftaki özel haberlerimiz bir tanesi öğrencilerin okula gitmeyen öğrencilerin ailelerine hiçbir ceza verilmemesi\" - This section presents specific news stories, highlighting the issue of school attendance and the consequences of educational neglect.",
+      "end_pos": 1635
+    },
+    {
+      "type": "7. **NEWS**",
+      "start_pos": 1635,
+      "start_sentence": "13 yaşındaki bir çocuğumuz okulda olması gereken bir çocuğumuz fırında çalışırken kolunu Kaptırdı",
+      "description": "\"13 yaşındaki bir çocuğumuz okulda olması gereken bir çocuğumuz fırında çalışırken kolunu Kaptırdı\" - This part concludes the news segment with a specific incident involving a child, emphasizing the severity of the situation and the need for societal reflection.",
+      "end_pos": 87042
+    }
+  ],
+  "news_segments_count": 8,
+  "economic_segments_count": 2,
+  "economic_segments": [
+    {
+      "segment_id": "90_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 103,
+      "filtered_length": 103,
+      "retention_ratio": 1.0,
+      "section_description": "\"Gündem üzgün olacağımız kadar kötü kadınlar olarak Tedirgin\" - This section contains the main news content, discussing issues related to women's safety and societal concerns, including personal anecdotes and broader societal implications."
+    },
+    {
+      "segment_id": "1635_5",
+      "method": "simple_final",
+      "confidence": 0.5,
+      "original_length": 327,
+      "filtered_length": 109,
+      "retention_ratio": 0.3333333333333333,
+      "section_description": "\"13 yaşındaki bir çocuğumuz okulda olması gereken bir çocuğumuz fırında çalışırken kolunu Kaptırdı\" - This part concludes the news segment with a specific incident involving a child, emphasizing the severity of the situation and the need for societal reflection."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

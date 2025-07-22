@@ -1,0 +1,27 @@
+# Economic Content from: 20240712_Show Ana Haber 12 Temmuz 2024.tr.txt
+# Processed: 2025-07-22T17:31:55.593663
+# Original: 2417 words → Filtered: 129 words (5.34% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 56
+**Retention**: 47.46%
+
+Cumhurbaşkanı Erdoğan, Türkiye'nin ekonomik durumu hakkında önemli mesajlar verdi. 2026 yılında Türkiye'de yapılacak NATO zirvesinin, ülkenin uluslararası ekonomik ilişkilerini güçlendireceği öngörülüyor. Bu tür büyük organizasyonlar, Türkiye'nin ekonomik potansiyelini sergileme fırsatı sunuyor. Ayrıca, Suriye ile normalleşme sürecinin, bölgedeki ticaret ve ekonomik işbirliklerini artırabileceği değerlendiriliyor. Ekonomik istikrarın sağlanması, yatırımcı güvenini artıracak ve finansal piyasalarda olumlu bir etki yaratacaktır.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 73
+**Retention**: 53.68%
+
+Maliye Bakanı Mehmet Şimşek'in yapacağı toplantı ertelendi ve gözler en düşük emekli aylığına yapılacak zam için yeni haftaya çevrildi. Cumhurbaşkanı Erdoğan'ın talimatıyla bu konunun çözülmesi bekleniyor. Önümüzdeki günlerde yapılacak toplantıda, 6 aylık enflasyon rakamlarının açıklanmasıyla birlikte, kök maaşı 7,710 liranın altında kalan 1.8 milyon emekli zam şoku yaşamıştı. Seyyanen zam yapılarak en düşük emekli aylığının 10,000 lira ile 12,000 lira arasında olacağı öngörülüyor. Bu karar verildikten sonra, mecliste gerekli değerlendirmelerin hızlıca yapılması planlanıyor.
+
+================================================================================
+

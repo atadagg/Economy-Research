@@ -1,0 +1,69 @@
+{
+  "file_path": "news/Show/20240501_Show Ana Haber 1 Mayıs 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T17:18:28.794875",
+  "original_word_count": 1992,
+  "filtered_word_count": 120,
+  "retention_ratio": 0.060240963855421686,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 3,
+      "start_sentence": "İyi akşamlar sayın seyirciler",
+      "description": "\"İyi akşamlar sayın seyirciler\" - The presenter introduces herself and sets the stage for the news broadcast, mentioning the focus on the day's significant developments.",
+      "end_pos": 97
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 97,
+      "start_sentence": "Efendim ve bugün 1 Mayıs İşçi ve Emekçi Bayramı",
+      "description": "\"Efendim ve bugün 1 Mayıs İşçi ve Emekçi Bayramı\" - The main news content begins, detailing the events and issues surrounding the May Day celebrations in Istanbul, including security measures and the impact on public transportation.",
+      "end_pos": 291
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 291,
+      "start_sentence": "Taksim'deki otellerde kalan turistler de zor anlar yaşadı",
+      "description": "\"Taksim'deki otellerde kalan turistler de zor anlar yaşadı\" - The news segment continues, highlighting the challenges faced by tourists in Taksim due to the same security measures affecting locals.",
+      "end_pos": 472
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 472,
+      "start_sentence": "Ne yapalım yaniya gidiyorum abi",
+      "description": "\"Ne yapalım yaniya gidiyorum abi\" - This phrase indicates a shift in focus within the news segment, as it transitions from discussing the general situation to specific experiences of individuals affected by the closures.",
+      "end_pos": 1338
+    },
+    {
+      "type": "5. **NEWS**",
+      "start_pos": 1338,
+      "start_sentence": "Burası da kapatıldığı için şu anda İnsanlar burada ve mağdur durumda",
+      "description": "\"Burası da kapatıldığı için şu anda İnsanlar burada ve mağdur durumda\" - Further elaboration on the difficulties faced by people trying to commute, emphasizing the ongoing issues related to transportation and access.",
+      "end_pos": 1634
+    },
+    {
+      "type": "6. **OUTRO**",
+      "start_pos": 1634,
+      "start_sentence": "Evet aldınız patlıcanları",
+      "description": "\"Evet aldınız patlıcanları\" - This phrase suggests a closing remark or wrap-up of the news segment, although it may not be a formal goodbye, it indicates the end of the current news discussion.",
+      "end_pos": 14176
+    }
+  ],
+  "news_segments_count": 4,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "472_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 120,
+      "filtered_length": 120,
+      "retention_ratio": 1.0,
+      "section_description": "\"Ne yapalım yaniya gidiyorum abi\" - This phrase indicates a shift in focus within the news segment, as it transitions from discussing the general situation to specific experiences of individuals affected by the closures."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

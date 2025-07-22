@@ -1,0 +1,57 @@
+{
+  "file_path": "news/ATV/ATV20240609_atv Ana Haber ｜ 9 Haziran 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T16:07:35.235495",
+  "original_word_count": 4406,
+  "filtered_word_count": 163,
+  "retention_ratio": 0.03699500680889696,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 23,
+      "start_sentence": "İyi akşamlar Bugün 9 Haziran 2024 pazar ana habere",
+      "description": "\"İyi akşamlar Bugün 9 Haziran 2024 pazar ana habere\" - The opening of the broadcast where the presenter greets the audience and introduces the date and the main news segment.",
+      "end_pos": 82
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 82,
+      "start_sentence": "Ankara'nın kitlendiği görüşmenin ayrıntılarıyla başlıyoruz",
+      "description": "\"Ankara'nın kitlendiği görüşmenin ayrıntılarıyla başlıyoruz\" - The main news content begins, detailing the upcoming meeting between President Erdoğan and CHP leader Özgür Özel, along with various political topics and developments.",
+      "end_pos": 295
+    },
+    {
+      "type": "3. **OUTRO**",
+      "start_pos": 295,
+      "start_sentence": "Görüşme öncesi CHP'nin külliyeden bir talepte bulunduğu ortaya çıktı",
+      "description": "\"Görüşme öncesi CHP'nin külliyeden bir talepte bulunduğu ortaya çıktı\" - This section wraps up the news content, summarizing the key points discussed and providing a closing remark about the political situation.",
+      "end_pos": 30921
+    }
+  ],
+  "news_segments_count": 5,
+  "economic_segments_count": 2,
+  "economic_segments": [
+    {
+      "segment_id": "295_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 95,
+      "filtered_length": 95,
+      "retention_ratio": 1.0,
+      "section_description": "\"Görüşme öncesi CHP'nin külliyeden bir talepte bulunduğu ortaya çıktı\" - This section wraps up the news content, summarizing the key points discussed and providing a closing remark about the political situation."
+    },
+    {
+      "segment_id": "295_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 91,
+      "filtered_length": 68,
+      "retention_ratio": 0.7472527472527473,
+      "section_description": "\"Görüşme öncesi CHP'nin külliyeden bir talepte bulunduğu ortaya çıktı\" - This section wraps up the news content, summarizing the key points discussed and providing a closing remark about the political situation."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

@@ -1,0 +1,39 @@
+# Economic Content from: ATV20241025_atv Ana Haber ｜ 25 Ekim 2024.tr.txt
+# Processed: 2025-07-22T15:55:56.740543
+# Original: 4651 words → Filtered: 274 words (5.89% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 193
+**Retention**: 100.00%
+
+000 euroluk makine aldık ve artık sahte altınlar
+ondan bile geçiyor gerçek altını sahtesinden ayırt edebilmenin en bilinen yolu bu aslında bunu eğ
+leyerek olduğu yeri açarak oraya makineyi vurarak oradaki ayarı alabiliyoruz şu an kazıyarak yani
+kazıyarak Ama artık bunu aır etek cihazlar için bile zor 22 ayar 22 ayar bunun kaplaması çok iyi
+olduğu için bu 22 ayar gösteriyor Fakat bu gerçek altınla arasında hiçbir fark yok yani şimdi bu 22
+ayar değil miy 22 ayar değil Bunu erittikten sonra şu şekilde Gümüş halinde olduğu zaten tespit
+ediliyor Yani siz biraz önce Sahte altın mı verdiniz sahte Altın Evet ama 22 ayar göster 22 ayar
+gösteriyor kaplaması Çünkü çok iyi yapılmış yanılttı Çünkü şundan ötürü Biz burayı eğemez yapmazsak
+üü kapl oldğu için ayar makinesi bunu 22 ayar verir Sarraf Selim Bey o sahte Altın zinciri yaklaşık
+bir dakikadır kazıyor ve altındaki metal anca gözükmeye başladı çünkü dolandırıcılar kuyumcuları
+kandırabilir dikkatiyle ortaya çıktı çete üyelerinden biri yakalandı diğer Adını da verdi
+bulunmaları an meselesi 60 000 civarında bir zararımız oldu bunu bir chete Sadece bize değil Burada
+45 tane esnafa da aynı şekilde götürmüşler sırada yurttan haber turu var saat 14
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 81
+**Retention**: 55.86%
+
+Deprem konutları inşaatı, Türkiye'nin ekonomik toparlanma sürecinin bir parçası olarak değerlendiriliyor. TOKİ, deprem sonrası konut ihtiyacını karşılamak amacıyla binlerce konut inşa etti. Bugüne dek teslim edilen konut sayısı, ekonomik istikrarın sağlanmasına katkıda bulunuyor. Cumhurbaşkanı Recep Tayyip Erdoğan, tamamlanan konutların anahtarlarını hak sahiplerine teslim edecek. Bu tür projeler, inşaat sektöründeki büyümeyi destekleyerek istihdam yaratıyor ve yerel ekonomilere olumlu etkilerde bulunuyor. Deprem bölgesinde toplamda 2891 konut daha tamamlanarak hak sahiplerine sunulacak. Bu gelişmeler, Türkiye'nin ekonomik verimliliğini artırma çabalarının bir parçası olarak öne çıkıyor.
+
+================================================================================
+

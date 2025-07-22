@@ -1,0 +1,121 @@
+{
+  "file_path": "news/ATV/ATV20241118_atv Ana Haber ｜ 18 Kasım 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T15:54:52.892504",
+  "original_word_count": 4768,
+  "filtered_word_count": 528,
+  "retention_ratio": 0.11073825503355705,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 23,
+      "start_sentence": "İyi akşamlar Bugün 18 Kasım 2024 Pazartesi...",
+      "description": "\"İyi akşamlar Bugün 18 Kasım 2024 Pazartesi...\" - The opening of the broadcast where the presenter greets the audience and introduces the date and context of the news.",
+      "end_pos": 101
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 101,
+      "start_sentence": "Cumhurbaşkanı Erdoğan da e Emine Erdoğan Dışişleri Bakanı Hakan Fidan...",
+      "description": "\"Cumhurbaşkanı Erdoğan da e Emine Erdoğan Dışişleri Bakanı Hakan Fidan...\" - The main news content discussing the G20 summit in Brazil, including details about President Erdoğan's participation and the themes of the summit, as well as various international issues being addressed.",
+      "end_pos": 591
+    },
+    {
+      "type": "5. **TRANSITION**",
+      "start_pos": 591,
+      "start_sentence": "Liderler Zirvesi ise modern sanat Müzesinde resmi karşılamaya başladı...",
+      "description": "\"Liderler Zirvesi ise modern sanat Müzesinde resmi karşılamaya başladı...\" - Another transition that indicates a shift to the formal proceedings of the summit, including the setting and activities taking place.",
+      "end_pos": 1174
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 1174,
+      "start_sentence": "Erdoğan Brezilya devlet başkanı kabana kalesinde bir araya geldi...",
+      "description": "\"Erdoğan Brezilya devlet başkanı kabana kalesinde bir araya geldi...\" - A brief transition within the news segment that shifts focus from the summit's themes to specific interactions between leaders, particularly Erdoğan's meeting with the Brazilian president.",
+      "end_pos": 1272
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1272,
+      "start_sentence": "Türkiye'nin başta İsrail'e silah ve mühimmat ambargosu olmak üzere...",
+      "description": "\"Türkiye'nin başta İsrail'e silah ve mühimmat ambargosu olmak üzere...\" - Continuation of the news segment detailing Turkey's actions regarding Israel and the broader implications of the summit discussions.",
+      "end_pos": 1460
+    },
+    {
+      "type": "6. **NEWS**",
+      "start_pos": 1460,
+      "start_sentence": "Açlık ve yoksulluğa karşı küresel ittifak tanıtımı yapıldı...",
+      "description": "\"Açlık ve yoksulluğa karşı küresel ittifak tanıtımı yapıldı...\" - Further news content focusing on the discussions around global alliances against hunger and poverty, as well as the participation of various leaders.",
+      "end_pos": 1765
+    },
+    {
+      "type": "7. **OUTRO**",
+      "start_pos": 1765,
+      "start_sentence": "İstanbul Büyükşehir Belediye başkanı Ekrem İmamoğlu Yüksek Seçim Kurulu üyelerine hakaret etti...",
+      "description": "\"İstanbul Büyükşehir Belediye başkanı Ekrem İmamoğlu Yüksek Seçim Kurulu üyelerine hakaret etti...\" - The closing remarks that introduce a new topic, indicating the end of the main news segment and potentially leading into other stories or concluding the broadcast.",
+      "end_pos": 33509
+    }
+  ],
+  "news_segments_count": 17,
+  "economic_segments_count": 6,
+  "economic_segments": [
+    {
+      "segment_id": "101_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 72,
+      "filtered_length": 70,
+      "retention_ratio": 0.9722222222222222,
+      "section_description": "\"Cumhurbaşkanı Erdoğan da e Emine Erdoğan Dışişleri Bakanı Hakan Fidan...\" - The main news content discussing the G20 summit in Brazil, including details about President Erdoğan's participation and the themes of the summit, as well as various international issues being addressed."
+    },
+    {
+      "segment_id": "1765_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 61,
+      "filtered_length": 47,
+      "retention_ratio": 0.7704918032786885,
+      "section_description": "\"İstanbul Büyükşehir Belediye başkanı Ekrem İmamoğlu Yüksek Seçim Kurulu üyelerine hakaret etti...\" - The closing remarks that introduce a new topic, indicating the end of the main news segment and potentially leading into other stories or concluding the broadcast."
+    },
+    {
+      "segment_id": "1765_8",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 189,
+      "filtered_length": 165,
+      "retention_ratio": 0.873015873015873,
+      "section_description": "\"İstanbul Büyükşehir Belediye başkanı Ekrem İmamoğlu Yüksek Seçim Kurulu üyelerine hakaret etti...\" - The closing remarks that introduce a new topic, indicating the end of the main news segment and potentially leading into other stories or concluding the broadcast."
+    },
+    {
+      "segment_id": "1765_9",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 72,
+      "filtered_length": 70,
+      "retention_ratio": 0.9722222222222222,
+      "section_description": "\"İstanbul Büyükşehir Belediye başkanı Ekrem İmamoğlu Yüksek Seçim Kurulu üyelerine hakaret etti...\" - The closing remarks that introduce a new topic, indicating the end of the main news segment and potentially leading into other stories or concluding the broadcast."
+    },
+    {
+      "segment_id": "1765_12",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 179,
+      "filtered_length": 82,
+      "retention_ratio": 0.4581005586592179,
+      "section_description": "\"İstanbul Büyükşehir Belediye başkanı Ekrem İmamoğlu Yüksek Seçim Kurulu üyelerine hakaret etti...\" - The closing remarks that introduce a new topic, indicating the end of the main news segment and potentially leading into other stories or concluding the broadcast."
+    },
+    {
+      "segment_id": "1765_13",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 134,
+      "filtered_length": 94,
+      "retention_ratio": 0.7014925373134329,
+      "section_description": "\"İstanbul Büyükşehir Belediye başkanı Ekrem İmamoğlu Yüksek Seçim Kurulu üyelerine hakaret etti...\" - The closing remarks that introduce a new topic, indicating the end of the main news segment and potentially leading into other stories or concluding the broadcast."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

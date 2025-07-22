@@ -1,0 +1,35 @@
+# Economic Content from: 20250126_Yangın faciasında Bolu Belediye Başkan Yardımcısı ve İtfaiye Müdür Vekili de tutuklandı! ｜ A Haber.tr.txt
+# Processed: 2025-07-22T15:47:47.065097
+# Original: 4638 words → Filtered: 136 words (2.93% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 68
+**Retention**: 100.00%
+
+tutuklanarak cezaev gönderildi Tabii aynı zamanda Siz de Eee Grand Hotel'in tam önünden Eee sizlere
+bilgilerimi aktaracağım birazdan Eee Şöyle ki Soruşturma derinleşti sizin dediğinizde gibi ve devam
+da Ediyor Eee Sabah saatlerinde emekli Mimar İstanbul'da gözaltına alınıp Bolu Adalet Sarayı'na
+getirilmişti e ve sorgusunun ardından da adli kontrol şartıyla serbest bırakılmıştı ve içeride
+sorgusu devam eden 3 kişi vardı Öğle saatlerinde sorguları başlamıştı ve ifadeleri alınmaya devam
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 68
+**Retention**: 100.00%
+
+devam ediyordu Bizler de gelişmeleri sizlere aktarmıştı kartalkaya'daki yangına ilişkin tutuklu
+sayısı dediğimiz gibi 19'a yükseldi Gazelle Otel e Gazel Resort Otel Genel Müdürü Ahmet Demir de
+tutuklandı Bolu Kartal Kaya kayak merkezindeki 78 kişinin yaşamını yitirdiği Otel yangınına ilişkin
+gözaltına alınan bu Belediye Başkan Yardımcısı selhat Gülener itfaiye müdür vekili Kenan Coşkun
+Gazelle Otel Genel Müdürü Ahmet Demir ve itfaye personeli İrfan Acar tutuklandı tutuklu sayısı 19'a
+
+================================================================================
+

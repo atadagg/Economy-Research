@@ -1,0 +1,93 @@
+# Economic Content from: 20240902_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 1 Eylül 2024.tr.txt
+# Processed: 2025-07-22T18:36:13.144695
+# Original: 10566 words → Filtered: 635 words (6.01% retention)
+# Economic segments: 6
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 55
+**Retention**: 100.00%
+
+Canan Buyur söz sende Osman Kenan Çapoğlu 21 Ağustos'ta Narin kayb olmuştu ardından hem Tavşantepe
+köyünde aramalar devam ederken Diyarbakır Cumhuriyet Başsavcılığı da geniş kapsamlı bir soruşturma
+başlatmıştı bu soruşturma kapsamında jandarma her noktadan deliller alıyordu ifadeler alıyordu ve bu
+ifadeler kapsamında amca s'nin de ifadesi alınmıştı ama kendisi O gün eee ninin kaybolduğu saatlerde
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 47
+**Retention**: 61.84%
+
+İki öğrenciniz mi var? Evet, dördü de okula gidiyor. Tabii dördüne de beslenme çantası koyuyor musunuz? Evet, evet koyacağız. Tabii mecburen, günlük 800 lira gideriniz mi var? Evet, rahat. Sadece öğrencinin beslenme maliyeti ekrana geldi. Yani ortalama minimize ederseniz, her öğrencinin beslenme maliyeti yaklaşık olarak 200 lira.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 76
+**Retention**: 30.04%
+
+Kırtasiye, forma, üniforma ve ayakkabı gibi okul malzemelerinin maliyetleri aileler için önemli bir yük oluşturuyor. Bu yıl, çocuk okutan ailelerin masrafları arttı ve alışveriş telaşı başladı. Bir çantanın fiyatı 450 lira, kalem kutusu 180 lira, beslenme çantası 175 lira, 12'li kalem seti 95 lira, sulu boya 248 lira ve silinebilir keçeli kalem 158 lira olarak belirlendi. Tüm bu masraflar, ailelerin bütçelerini zorlayacak şekilde artış gösteriyor. Eğitim sezonunun başlamasıyla birlikte kırtasiye masraflarının yıl boyunca devam edeceği öngörülüyor.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 74
+**Retention**: 37.19%
+
+Üniversite öğrencilerinin ev bulma telaşı ile birlikte, ev döşemenin maliyeti de önemli bir konu haline geldi. İkinci el pazarlarda ev döşemenin maliyeti en az 25,000 lirayı buluyor. Örneğin, bulaşık makineleri 3,500 liraya kadar satılmakta. Buzdolaplarının fiyatları ise 10,000 liradan başlayıp, 99,000 liraya kadar çıkabiliyor. Yatak, baza, başlık, koltuk takımı ve televizyon gibi eklemelerle birlikte fiyatlar artıyor. Bu fiyatlar, ürünlerin kalitesine ve büyüklüğüne göre değişiklik göstermekte. Öğrencilere yönelik koltuk modellerinin fiyatları da 8,000 liradan başlamakta.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 108
+**Retention**: 37.37%
+
+Fiyatlar, ikinci el pazarlarında 10.000 TL'ye kadar değişiklik gösteriyor. Bu durum, bütçelerine uygun ev bulabilen vatandaşlar için pratik bir çözüm sunarken, ilerleyen dönemlerde ek maliyetler ya da kullanım zorlukları yaşatabilir. İkinci el eşya alırken dikkat edilmesi gereken önemli hususlar bulunuyor. Ayrıca, yeni eğitim öğretim dönemi başlayacak ve bu süreçte servis ücretleri gündeme geldi. Belirlenen ücretlerin çok daha üzerinde, 4 katı veya 5 katı isteyen servisler mevcut. Bu durum, kayıt dışı bir ekonomik tablo oluşturuyor ve talep de görüyor. İstanbul'da 59,400 servis aracı trafiğe çıkacak, ancak korsan taşımacılığın bazı bölgelerde yoğun olarak yapıldığına dair şikayetler var. Bu durum, veliler arasında endişe yaratıyor ve ekonomik etkileri de göz önünde bulundurulmalı.
+
+================================================================================
+
+## Economic Segment 6
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 275
+**Retention**: 100.00%
+
+000 ladan başlıyor 15 000 laya kadar çili hizmetine sokakta tepki veren de var
+haklı bulan da barlarda da Sema yapıldığını gördük çay bahçelerinde var Sultan Ahmet'te ben kafamı
+çevirip bakmıyorum bile günah Çünkü Mevlana'nın ruhunu bilmek lazım Yunus Emre'yi Yusuf hasp Ahmet
+Yesevi'nin bana göre vermiş oldukları mesajı tamamen maddiyata çeviriyorlar yani yanlış para
+vermeden de iş oluyor mu ve olmuyor olmad göre bir şey vereceksin cebine bir şey sokacaksın muhakkak
+ki yani her şey ticarete döküldüyse O da dökülebilir yani normal bir şey bir şey hatırlatır belki
+birini Mevlana'yı sevmesine bir vesile olur merak eder Öyle bakmak gerek Anadolu kökenli bir insan
+olarak ben bu yapılan hareketi doğru bulmuyorum y İlahiyatçı Mehmet uyansa yapılan organizasyonun
+niyetine dikkat çekti Eğer kültürel bir şeyse bunun dini bir boyutunu aramak sadece davet edenlerin
+ya da gidenlerin bunu ne niyetle yaptıklarıyla ilişkili olur Eğer dini bir boyut Yoksa sadece
+kültürel bir işlem kişiler ücreti alırlar almazlar o onların bileceği iştir ama dini bir duyguyla
+yapılıyorsa Bundan kesin ve kesin olarak ücret almamak gerekir belediye skandal bir olayla sarsıldı
+kültür işleri Müdürlüğünde saha personeli olarak çalışan bir kişi belediyeye işe alma vaadiyle
+onlarca kişiyi kandırdı onların paralarını topladı kayıplara karıştı dolandırıcının belediyeyle
+ilişkisi kesildi hakkında da Hem belediye hem de mağdurlar suç duyurusunda bulundu belediyede önemli
+bir pozisyonda çalışıyorum toplu işe alım olacak isteyene Yardımcı olurum dedi iş vaadinde bulunduğu
+insanların parasını aldı skandal İstanbul Küçükçekmece Belediyesi'nde yaşandı kültür işleri
+Müdürlüğünde saha personeli olarak çalışan Ferdi adlı kişi çevresindekilere kendini üst düzey
+yönetici diye tanıttı belediyede toplu işe alım yapılacak isteyenlere yardımcı olabilirim dedi kısa
+süre birçok kişi ulaştı ona Ferdi işlerini çözeceğini söyleyip hepsinden 40 la 50
+
+================================================================================
+

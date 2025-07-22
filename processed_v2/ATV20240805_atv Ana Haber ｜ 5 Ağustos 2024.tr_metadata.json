@@ -1,0 +1,57 @@
+{
+  "file_path": "news/ATV/ATV20240805_atv Ana Haber ｜ 5 Ağustos 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T16:41:38.367801",
+  "original_word_count": 4496,
+  "filtered_word_count": 187,
+  "retention_ratio": 0.04159252669039146,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "haberi merkezinden Atv Haber merkezinden İyi akşamlar",
+      "description": "\"haberi merkezinden Atv Haber merkezinden İyi akşamlar\" - This section serves as the opening of the broadcast, where the presenter greets the audience and introduces the program.",
+      "end_pos": 75
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 75,
+      "start_sentence": "Cumhurbaşkanı Erdoğan AK Parti insan hakları eğitim programı ile başladı",
+      "description": "\"Cumhurbaşkanı Erdoğan AK Parti insan hakları eğitim programı ile başladı\" - This section contains the main news content, discussing President Erdoğan's statements and actions regarding various political issues, including the situation in Gaza and the assassination of Hamas leader Ismail Haniye.",
+      "end_pos": 1761
+    },
+    {
+      "type": "3. **OUTRO**",
+      "start_pos": 1761,
+      "start_sentence": "Bu ilgiyi hazm edemedi ya biz sizden mi izin alıp da bunların kararını verecek",
+      "description": "\"Bu ilgiyi hazm edemedi ya biz sizden mi izin alıp da bunların kararını verecek\" - This section marks the closing remarks of the broadcast, where the presenter summarizes the key points and bids farewell to the audience.",
+      "end_pos": 32579
+    }
+  ],
+  "news_segments_count": 7,
+  "economic_segments_count": 2,
+  "economic_segments": [
+    {
+      "segment_id": "75_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 217,
+      "filtered_length": 106,
+      "retention_ratio": 0.48847926267281105,
+      "section_description": "\"Cumhurbaşkanı Erdoğan AK Parti insan hakları eğitim programı ile başladı\" - This section contains the main news content, discussing President Erdoğan's statements and actions regarding various political issues, including the situation in Gaza and the assassination of Hamas leader Ismail Haniye."
+    },
+    {
+      "segment_id": "1761_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 81,
+      "filtered_length": 81,
+      "retention_ratio": 1.0,
+      "section_description": "\"Bu ilgiyi hazm edemedi ya biz sizden mi izin alıp da bunların kararını verecek\" - This section marks the closing remarks of the broadcast, where the presenter summarizes the key points and bids farewell to the audience."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

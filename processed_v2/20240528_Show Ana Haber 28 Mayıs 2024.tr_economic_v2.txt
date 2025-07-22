@@ -1,0 +1,35 @@
+# Economic Content from: 20240528_Show Ana Haber 28 Mayıs 2024.tr.txt
+# Processed: 2025-07-22T17:35:57.651503
+# Original: 2704 words → Filtered: 221 words (8.17% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 134
+**Retention**: 51.34%
+
+Bahçeli, hükümetin ekonomik politikaları hakkında sert eleştirilerde bulundu. Ekonomik veriler ve istatistikler ışığında, Türkiye'nin mevcut ekonomik durumu hakkında endişelerini dile getirdi. Ayrıca, hükümetin mali yönetimi ve bütçe politikaları üzerine değerlendirmelerde bulundu. 
+
+CHP lideri Özgür Özel, emeklilerin sorunlarını gündeme getirerek, ekonomik sıkıntıların çözülmesi gerektiğini vurguladı. Emeklilerin yaşam standartlarının yükseltilmesi için gerekli adımların atılmasını talep etti. 
+
+Bahçeli, Türkiye'nin ekonomik bağımsızlığını koruması gerektiğini belirterek, dış ticaretin ve yerli üretimin önemine dikkat çekti. İthalat ve ihracat rakamlarının, ülkenin ekonomik sağlığı açısından kritik olduğunu ifade etti. 
+
+Ayrıca, Türkiye'nin enflasyon oranları ve mali istikrar konularında uzman görüşlerine yer vererek, bu durumun halk üzerindeki etkilerini analiz etti. Ekonomik büyüme hedeflerinin gerçekleştirilmesi için daha fazla yatırım yapılması gerektiğini savundu. 
+
+Son olarak, Türkiye'nin bankacılık sistemi ve kredi politikaları üzerine de yorumlar yapıldı. Ekonomik istikrarın sağlanması için güçlü bir bankacılık sistemine ihtiyaç duyulduğu vurgulandı.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 87
+**Retention**: 53.37%
+
+Kesinlikle en az % 5'e denk geliyor bu durum hiç hoş değil, bankaların koymuş olduğu komisyon çok yüksek. Kartla alışveriş artık pahalıya patlıyor. Kredi kartıyla yapılan alışverişlerde postla ödeme yapıldığında alınan komisyon arttı. Hal böyle olunca esnaf o farkı fiyatlara yansıttı. Kredi kartı farkı olunca 50 liraya kadar çıkıyor yani % 5'e varan komisyonlardan tüketici kadar esnaf da şikayetçi. Komisyonlar böyle olunca biz de mağdur oluyoruz, müşteri de mağdur oluyor. İşlerimiz çok hızlı olduğu dönemlerde benim 67 tane post makinem vardı, burada ben şu anda 3'e düşürdüm.
+
+================================================================================
+

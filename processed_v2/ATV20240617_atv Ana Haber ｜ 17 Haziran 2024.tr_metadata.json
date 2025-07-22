@@ -1,0 +1,48 @@
+{
+  "file_path": "news/ATV/ATV20240617_atv Ana Haber ｜ 17 Haziran 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T16:41:22.801279",
+  "original_word_count": 4721,
+  "filtered_word_count": 93,
+  "retention_ratio": 0.019699216267739884,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 23,
+      "start_sentence": "İyi akşamlar Bugün 17 Haziran 2024 Pazartesi...",
+      "description": "\"İyi akşamlar Bugün 17 Haziran 2024 Pazartesi...\" - The opening of the broadcast where the presenter greets the audience and introduces the date and context of the program.",
+      "end_pos": 77
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 77,
+      "start_sentence": "Cumhurbaşkanı Erdoğan bayramın ikinci gününde Partililerle bayramlaştı...",
+      "description": "\"Cumhurbaşkanı Erdoğan bayramın ikinci gününde Partililerle bayramlaştı...\" - The main news content discussing President Erdoğan's video conference with party members, his comments on political normalization, and various political issues including the situation in Gaza and economic developments.",
+      "end_pos": 1862
+    },
+    {
+      "type": "3. **OUTRO**",
+      "start_pos": 1862,
+      "start_sentence": "Cumhurbaşkanı ekonomideki gelişmelere de değindi...",
+      "description": "\"Cumhurbaşkanı ekonomideki gelişmelere de değindi...\" - The closing remarks of the program, summarizing the key points discussed and providing a final statement before ending the broadcast.",
+      "end_pos": 33752
+    }
+  ],
+  "news_segments_count": 7,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "77_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 225,
+      "filtered_length": 93,
+      "retention_ratio": 0.41333333333333333,
+      "section_description": "\"Cumhurbaşkanı Erdoğan bayramın ikinci gününde Partililerle bayramlaştı...\" - The main news content discussing President Erdoğan's video conference with party members, his comments on political normalization, and various political issues including the situation in Gaza and economic developments."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

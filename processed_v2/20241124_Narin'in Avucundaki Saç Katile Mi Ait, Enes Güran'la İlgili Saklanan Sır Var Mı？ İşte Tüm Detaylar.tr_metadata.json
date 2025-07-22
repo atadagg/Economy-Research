@@ -1,0 +1,76 @@
+{
+  "file_path": "news/AHaber/20241124_Narin'in Avucundaki Saç Katile Mi Ait, Enes Güran'la İlgili Saklanan Sır Var Mı？ İşte Tüm Detaylar.tr.txt",
+  "processing_timestamp": "2025-07-22T15:52:32.844372",
+  "original_word_count": 16827,
+  "filtered_word_count": 120,
+  "retention_ratio": 0.0071313959707612765,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "İyi geceler değerli izleyenler A Haber ve A Haber radyo ortak yayınında gece ajansına Hoş geldiniz",
+      "description": "\"İyi geceler değerli izleyenler A Haber ve A Haber radyo ortak yayınında gece ajansına Hoş geldiniz\" - This section serves as the opening of the broadcast, welcoming viewers and introducing the program.",
+      "end_pos": 86
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 86,
+      "start_sentence": "Türkiye'nin ve dünyanın gündeminde çok önemli gelişmeler var Gece a şansında sizlerle paylaşacağız",
+      "description": "\"Türkiye'nin ve dünyanın gündeminde çok önemli gelişmeler var Gece a şansında sizlerle paylaşacağız\" - This section contains the actual news content, discussing significant developments in Turkey and around the world, including weather conditions and specific news stories.",
+      "end_pos": 198
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 198,
+      "start_sentence": "İstanbul'da sağanak ve lodosun ardından yüksek kesimlerde kar yağışı etkili oldu",
+      "description": "\"İstanbul'da sağanak ve lodosun ardından yüksek kesimlerde kar yağışı etkili oldu\" - This section continues with detailed news coverage about the weather in Istanbul, including reports from correspondents in the field.",
+      "end_pos": 198
+    },
+    {
+      "type": "6. **NEWS**",
+      "start_pos": 198,
+      "start_sentence": "İstanbul'da şu saat itibariyle tekrar yağmur başladı ki Nitekim bununla alakalı da Meteoroloji Genel Müdürlüğü uyarıda bulunmuştu",
+      "description": "\"İstanbul'da şu saat itibariyle tekrar yağmur başladı ki Nitekim bununla alakalı da Meteoroloji Genel Müdürlüğü uyarıda bulunmuştu\" - This section continues the news coverage, focusing on the current weather situation in Istanbul and related warnings from the meteorological authority.",
+      "end_pos": 493
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 493,
+      "start_sentence": "Şimdi A1 ekipleri yağışın etkili olduğu bölgelerde bizi bekliyor",
+      "description": "\"Şimdi A1 ekipleri yağışın etkili olduğu bölgelerde bizi bekliyor\" - This brief transition indicates a shift to different reporters in various locations, preparing to cover specific news stories related to the weather.",
+      "end_pos": 780
+    },
+    {
+      "type": "5. **TRANSITION**",
+      "start_pos": 780,
+      "start_sentence": "Haber bültenler de takip etmişsinizdir A haber muhabiri Ahmet Nazif bural havanın notlarını bizlerle paylaşacak",
+      "description": "\"Haber bültenler de takip etmişsinizdir A haber muhabiri Ahmet Nazif bural havanın notlarını bizlerle paylaşacak\" - Another transition that introduces a specific reporter who will provide further details on the weather conditions.",
+      "end_pos": 1467
+    },
+    {
+      "type": "7. **OUTRO**",
+      "start_pos": 1467,
+      "start_sentence": "Bunu da dile getirelim Eee tabii İstanbul'da şu an sıcaklık dereceler Yaklaşık 4 dereceyi göster",
+      "description": "\"Bunu da dile getirelim Eee tabii İstanbul'da şu an sıcaklık dereceler Yaklaşık 4 dereceyi göster\" - This section wraps up the news discussion, summarizing the current temperature and weather conditions before concluding the broadcast.",
+      "end_pos": 110331
+    }
+  ],
+  "news_segments_count": 9,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "1467_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 191,
+      "filtered_length": 120,
+      "retention_ratio": 0.6282722513089005,
+      "section_description": "\"Bunu da dile getirelim Eee tabii İstanbul'da şu an sıcaklık dereceler Yaklaşık 4 dereceyi göster\" - This section wraps up the news discussion, summarizing the current temperature and weather conditions before concluding the broadcast."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

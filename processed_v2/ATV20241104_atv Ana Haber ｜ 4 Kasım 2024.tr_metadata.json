@@ -1,0 +1,75 @@
+{
+  "file_path": "news/ATV/ATV20241104_atv Ana Haber ｜ 4 Kasım 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T16:50:16.789703",
+  "original_word_count": 4526,
+  "filtered_word_count": 461,
+  "retention_ratio": 0.10185594343791428,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "haberin merkezinden Atv Haber Merkez'den İyi akşamlar",
+      "description": "\"haberin merkezinden Atv Haber Merkez'den İyi akşamlar\" - The opening of the broadcast where the presenter greets the audience and introduces the program.",
+      "end_pos": 73
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 73,
+      "start_sentence": "Cumhurbaşkanı Erdoğan İslam İşbirliği Teşkilatı toplantısında konuştu",
+      "description": "\"Cumhurbaşkanı Erdoğan İslam İşbirliği Teşkilatı toplantısında konuştu\" - The main news content discussing President Erdoğan's speech at the Islamic Cooperation Organization meeting, including details about his statements regarding the situation in Gaza and Palestine.",
+      "end_pos": 1926
+    },
+    {
+      "type": "3. **OUTRO**",
+      "start_pos": 1926,
+      "start_sentence": "Diğer türlü İsrail'in Gazze'de yaktığı",
+      "description": "\"Diğer türlü İsrail'in Gazze'de yaktığı\" - The closing remarks of the broadcast, summarizing the key points discussed and providing a final message to the audience.",
+      "end_pos": 32293
+    }
+  ],
+  "news_segments_count": 10,
+  "economic_segments_count": 4,
+  "economic_segments": [
+    {
+      "segment_id": "1926_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 187,
+      "filtered_length": 155,
+      "retention_ratio": 0.8288770053475936,
+      "section_description": "\"Diğer türlü İsrail'in Gazze'de yaktığı\" - The closing remarks of the broadcast, summarizing the key points discussed and providing a final message to the audience."
+    },
+    {
+      "segment_id": "1926_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 73,
+      "filtered_length": 70,
+      "retention_ratio": 0.958904109589041,
+      "section_description": "\"Diğer türlü İsrail'in Gazze'de yaktığı\" - The closing remarks of the broadcast, summarizing the key points discussed and providing a final message to the audience."
+    },
+    {
+      "segment_id": "1926_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 223,
+      "filtered_length": 175,
+      "retention_ratio": 0.7847533632286996,
+      "section_description": "\"Diğer türlü İsrail'in Gazze'de yaktığı\" - The closing remarks of the broadcast, summarizing the key points discussed and providing a final message to the audience."
+    },
+    {
+      "segment_id": "1926_6",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 102,
+      "filtered_length": 61,
+      "retention_ratio": 0.5980392156862745,
+      "section_description": "\"Diğer türlü İsrail'in Gazze'de yaktığı\" - The closing remarks of the broadcast, summarizing the key points discussed and providing a final message to the audience."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

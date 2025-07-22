@@ -1,0 +1,16 @@
+# Economic Content from: ATV20240812_atv Ana Haber ｜ 12 Ağustos 2024.tr.txt
+# Processed: 2025-07-22T16:14:33.223463
+# Original: 4995 words → Filtered: 110 words (2.20% retention)
+# Economic segments: 1
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 110
+**Retention**: 80.88%
+
+700,000 L kredi ve diğer her konut için 1,400,000 L kredi veriliyor. Dükkan dönüşümünde ise 350,000 L hibe ve 350,000 L kredi, diğer her bir dükkan için 700,000 L kredi desteği sağlanıyor. Kredi için gelir şartı da aranmıyor. Riskli yapıda oturan tüm hak sahiplerinin bir yüklenici ile anlaşmasını, sonrasında proje ruhsat ve kat ittifakı süreçlerini tamamlamasını bekliyoruz. İnşaat yapımını hızlandırmak için yüklenici firmalara ilk ödeme oranı %110'dan 30'a yükseltildi. Bu durum, piyasaya çok ciddi bir hareket katacaktır. Kentsel dönüşüm, insanlar artık sağlam evlerde oturmak istiyorlar. Kampanya kapsamında bir defaya mahsus 100,000 L taşınma desteği veriliyor. Yenilenecek olan konut veya iş yerinde oturan kişinin ev sahibi veya kiracı olması fark etmiyor.
+
+================================================================================
+

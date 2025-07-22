@@ -1,0 +1,73 @@
+{
+  "file_path": "news/TV100/20241030_Kübra Par ile tv100 Ana Haber ｜ 30 Ekim 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T18:44:28.251888",
+  "original_word_count": 9766,
+  "filtered_word_count": 347,
+  "retention_ratio": 0.03553143559287324,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "TV1 ekranlarından Herkese iyi akşamlar...",
+      "description": "\"TV1 ekranlarından Herkese iyi akşamlar...\" - The program begins with a greeting and an introduction to the news segment, setting the stage for the evening's broadcast.",
+      "end_pos": 69
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 69,
+      "start_sentence": "Bugün tam manasıyla kaynıyor güne CHP'li...",
+      "description": "\"Bugün tam manasıyla kaynıyor güne CHP'li...\" - This section contains the main news content, discussing various political events, reactions from political figures, and implications of recent developments in Turkish politics.",
+      "end_pos": 1458
+    },
+    {
+      "type": "4. **OUTRO**",
+      "start_pos": 1458,
+      "start_sentence": "Ben de size yorumlarımı anlatacağım ama sizden gelen mesajları da oldukça merak ediyorum...",
+      "description": "\"Ben de size yorumlarımı anlatacağım ama sizden gelen mesajları da oldukça merak ediyorum...\" - The closing remarks where the presenter invites audience interaction and wraps up the news segment.",
+      "end_pos": 1655
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 1655,
+      "start_sentence": "Ama öncelikle Cumhurbaşkanı Erdoğan'ın O grup konuşmasındaki sözlerini dinleyeceğiz...",
+      "description": "\"Ama öncelikle Cumhurbaşkanı Erdoğan'ın O grup konuşmasındaki sözlerini dinleyeceğiz...\" - A brief transition indicating a shift to a specific segment of news focusing on President Erdoğan's statements, serving as a bridge between different news topics.",
+      "end_pos": 68590
+    }
+  ],
+  "news_segments_count": 10,
+  "economic_segments_count": 3,
+  "economic_segments": [
+    {
+      "segment_id": "1655_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 109,
+      "filtered_length": 90,
+      "retention_ratio": 0.8256880733944955,
+      "section_description": "\"Ama öncelikle Cumhurbaşkanı Erdoğan'ın O grup konuşmasındaki sözlerini dinleyeceğiz...\" - A brief transition indicating a shift to a specific segment of news focusing on President Erdoğan's statements, serving as a bridge between different news topics."
+    },
+    {
+      "segment_id": "1655_5",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 235,
+      "filtered_length": 191,
+      "retention_ratio": 0.8127659574468085,
+      "section_description": "\"Ama öncelikle Cumhurbaşkanı Erdoğan'ın O grup konuşmasındaki sözlerini dinleyeceğiz...\" - A brief transition indicating a shift to a specific segment of news focusing on President Erdoğan's statements, serving as a bridge between different news topics."
+    },
+    {
+      "segment_id": "1655_6",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 83,
+      "filtered_length": 66,
+      "retention_ratio": 0.7951807228915663,
+      "section_description": "\"Ama öncelikle Cumhurbaşkanı Erdoğan'ın O grup konuşmasındaki sözlerini dinleyeceğiz...\" - A brief transition indicating a shift to a specific segment of news focusing on President Erdoğan's statements, serving as a bridge between different news topics."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

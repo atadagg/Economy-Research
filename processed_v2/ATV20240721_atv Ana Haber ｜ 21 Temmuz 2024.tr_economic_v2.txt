@@ -1,0 +1,16 @@
+# Economic Content from: ATV20240721_atv Ana Haber ｜ 21 Temmuz 2024.tr.txt
+# Processed: 2025-07-22T16:02:54.382506
+# Original: 4575 words → Filtered: 105 words (2.30% retention)
+# Economic segments: 1
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 105
+**Retention**: 53.30%
+
+Cumhurbaşkanı Erdoğan, emekli zamları ile ilgili değerlendirme yaptı ve "enflasyonu ezdirmeyeceğiz" dedi. Emekliler için atılacak adımların ipuçlarını veren Erdoğan, "engelleri aşmayı kendimize şiar edinmiş bir iktidar olarak sürekli tüm vatandaşlarımızın refahını artırmak için yeni yol haritaları oluşturuyoruz" şeklinde konuştu. Ekonomik istikrardan taviz vermeden, popülizm tuzaklarına düşmeden en rasyonel adımı atma anlayışı içinde hareket ettiklerini belirtti. En düşük emekli maaşının 12.500 olacağına dikkat çekerken, muhalefetten gelen tepkilere de değindi. Emeklilik düzenlemesi için yeni yasama yılını işaret etti. "Biz ölçüyoruz biçiyoruz, nasıl bu işe ekonomik dengeleri bozmayacak biçimde götürürüz, buna bakıyoruz" dedi. Adımlarını buna göre atacaklarını vurguladı ve yeni yasama döneminde bu konuyu gündeme alacaklarını ifade etti.
+
+================================================================================
+

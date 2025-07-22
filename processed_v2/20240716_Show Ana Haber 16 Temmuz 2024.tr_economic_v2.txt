@@ -1,0 +1,62 @@
+# Economic Content from: 20240716_Show Ana Haber 16 Temmuz 2024.tr.txt
+# Processed: 2025-07-22T17:48:57.746544
+# Original: 2790 words → Filtered: 386 words (13.84% retention)
+# Economic segments: 5
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 84
+**Retention**: 57.93%
+
+Cumhurbaşkanı Erdoğan, ekonomik verilerle ilgili kritik mesajlar verdi. Bir dolar çıkışı dikkat çekti. Bu durum, piyasalarda dalgalanmalara neden olabilir. Ayrıca, hükümetin ekonomik politikaları ve bunların etkileri üzerine de değerlendirmelerde bulundu. Ekonomik göstergeler, yatırımcıların kararlarını etkileyen önemli faktörler arasında yer alıyor. Türkiye'nin ekonomik durumu ve geleceği hakkında yapılan analizler, yatırımcıların dikkatini çekiyor. Özellikle döviz kurlarındaki dalgalanmalar, ticaret ve ihracat üzerinde doğrudan etkili olmaktadır. Ekonomik istikrar sağlanmadığı takdirde, fiyatlar ve enflasyon üzerinde olumsuz etkiler görülebilir. Bu bağlamda, hükümetin alacağı önlemler ve uygulayacağı politikalar büyük önem taşıyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 65
+**Retention**: 39.63%
+
+MHP lideri Bahçeli, en düşük emekli maaşını 12,500 liraya çıkaran düzenlemeyi eleştirdi. Bu düzenleme, emekli maaşlarının artırılmasıyla ilgili önemli bir ekonomik gelişme olarak değerlendiriliyor. Ayrıca, hükümetin ekonomik politikaları ve sosyal yardımlar üzerindeki etkisi de tartışma konusu. Ekonomik veriler, emekli maaşlarının artırılmasının enflasyon ve yaşam standartları üzerindeki etkilerini gözler önüne seriyor. Bu bağlamda, hükümetin mali politikalarının ve sosyal güvenlik sisteminin sürdürülebilirliği üzerine uzman görüşleri önem kazanıyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 77
+**Retention**: 40.96%
+
+Cumhurbaşkanı Erdoğan onayladığı en düşük emekli aylığını 10,000 liradan 12,500 liraya çıkaran düzenleme meclise sunuldu. Düşük emekli düzenlemesinde rakam sonunda belli olurken düzenlemeden 3,700,000 emekli faydalanacak. Düzenlemenin toplam bütçeye maliyeti de bu 6 aylık dönemde 33 milyar 200 milyon TL'dir. Asgari ücret komisyon çalışmalarının tamamlanmasıyla düzenleme genel kurula gelecek ve genel kurulda tartışıldıktan sonra oylama yapılarak kabul edilecek. Ancak en düşük emekli aylığı için yapılan bu düzenleme bu ayki maaşlara yetişmeyecek; emeklilere daha sonra fark ödemesi yapılacak.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 70
+**Retention**: 40.00%
+
+The filtered text focusing on economics, finance, and business is as follows:
+
+Nuri Alço, yaşadığı evin satıldığını emlakçıdan gelen telefonla öğrendi. Üstelik daireyi satın alan kişi bir alt katında kiracıyı barındırıyordu. Düşünebiliyor musun, aynı yerde oturuyoruz ama yüzünü görmedik. İki yılın sonunda da Nuri Alço'nun evden çıkmasını istedi. Ancak sonra anlaştılar; 5,000 lira olan kirayı 10,000'e çıkaracak ve bir yıl daha oturacaktır. Yatırım bankaya dedi ki, "Tamam, bir kontrat yapın."
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 90
+**Retention**: 68.18%
+
+Bodrum'da uçuk fiyatlar göz korkutsa da aslında uygun seçenekler de var. Çünkü bazı işletmeler yaşanan farka rağmen hala fiyatlarını koruyor. İşte dileyenin daha hesaplı tatil yapabileceği o seçenekler. Üstelik sanılanın aksine oldukça da hesaplı Bodrum'da da kaliteli ve ekonomik tatil yapılabilir. Türkiye'de bu yaz gözde tatil merkezleri yine cep yakıyor. En pahalı rotalarda biri Bodrum olsa da uygun fiyata tatil yapmakta mümkün. Bodrum küçük bük Mahallesinde denize sıfır önünde iskelesi olan plajı olan bir otel hesaplı tatil isteyenlere birçok seçenek sunuyor. Oda fiyatları 4 kişilik bir aile odası 6,000 TL.
+
+================================================================================
+

@@ -1,0 +1,90 @@
+{
+  "file_path": "news/Show/20240416_Show Ana Haber 16 Nisan 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T17:50:42.380912",
+  "original_word_count": 2582,
+  "filtered_word_count": 53,
+  "retention_ratio": 0.020526723470178157,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "İyi akşamlar sayın seyirciler...",
+      "description": "\"İyi akşamlar sayın seyirciler...\" - The opening of the broadcast where the presenter greets the audience and introduces the program, setting the stage for the news content.",
+      "end_pos": 0
+    },
+    {
+      "type": "- **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "İyi akşamlar sayın seyirciler...",
+      "description": "\"İyi akşamlar sayın seyirciler...\" - The opening of the broadcast where the presenter greets the audience and introduces the program, setting the stage for the news content.",
+      "end_pos": 95
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 95,
+      "start_sentence": "Yılın 4 kabine toplantısı yerel seçim molasının ardından yapıldı...",
+      "description": "\"Yılın 4 kabine toplantısı yerel seçim molasının ardından yapıldı...\" - The main news content begins here, detailing various topics discussed in the cabinet meeting, including the Iran-Israel tension, pension issues, and inflation.",
+      "end_pos": 95
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 95,
+      "start_sentence": "Cumhurbaşkanı Erdoğan bu ay içinde Iran başkenti Bağdat'a resmi ziyaret yapacak...",
+      "description": "\"Cumhurbaşkanı Erdoğan bu ay içinde Iran başkenti Bağdat'a resmi ziyaret yapacak...\" - This section serves as a transition within the news segment, moving from one topic to another, specifically discussing the upcoming visit to Iraq.",
+      "end_pos": 95
+    },
+    {
+      "type": "- **NEWS**",
+      "start_pos": 95,
+      "start_sentence": "Yılın 4 kabine toplantısı yerel seçim molasının ardından yapıldı...",
+      "description": "\"Yılın 4 kabine toplantısı yerel seçim molasının ardından yapıldı...\" - The main news content begins here, detailing various topics discussed in the cabinet meeting, including the Iran-Israel tension, pension issues, and inflation.",
+      "end_pos": 95
+    },
+    {
+      "type": "- **TRANSITION**",
+      "start_pos": 95,
+      "start_sentence": "Cumhurbaşkanı Erdoğan bu ay içinde Iran başkenti Bağdat'a resmi ziyaret yapacak...",
+      "description": "\"Cumhurbaşkanı Erdoğan bu ay içinde Iran başkenti Bağdat'a resmi ziyaret yapacak...\" - This section serves as a transition within the news segment, moving from one topic to another, specifically discussing the upcoming visit to Iraq.",
+      "end_pos": 1156
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1156,
+      "start_sentence": "Hayat pahalılığı la mücadele için atılacak adımlar konuşulurken...",
+      "description": "\"Hayat pahalılığı la mücadele için atılacak adımlar konuşulurken...\" - This continues the news segment, focusing on measures to combat the cost of living and the political commentary from MHP leader Devlet Bahçeli.",
+      "end_pos": 1156
+    },
+    {
+      "type": "- **NEWS**",
+      "start_pos": 1156,
+      "start_sentence": "Hayat pahalılığı la mücadele için atılacak adımlar konuşulurken...",
+      "description": "\"Hayat pahalılığı la mücadele için atılacak adımlar konuşulurken...\" - This continues the news segment, focusing on measures to combat the cost of living and the political commentary from MHP leader Devlet Bahçeli.",
+      "end_pos": 1351
+    },
+    {
+      "type": "5. **OUTRO**",
+      "start_pos": 1351,
+      "start_sentence": "MHP lideri Devlet Bahçeli yerel seçim değerlendirmesini Grup kürsüsünden yaptı...",
+      "description": "\"MHP lideri Devlet Bahçeli yerel seçim değerlendirmesini Grup kürsüsünden yaptı...\" - The closing remarks of the news segment, summarizing the political commentary and evaluations made by Bahçeli.",
+      "end_pos": 18498
+    }
+  ],
+  "news_segments_count": 3,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "95_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 141,
+      "filtered_length": 53,
+      "retention_ratio": 0.375886524822695,
+      "section_description": "\"Cumhurbaşkanı Erdoğan bu ay içinde Iran başkenti Bağdat'a resmi ziyaret yapacak...\" - This section serves as a transition within the news segment, moving from one topic to another, specifically discussing the upcoming visit to Iraq."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

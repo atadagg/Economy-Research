@@ -1,0 +1,64 @@
+# Economic Content from: 20240729_Oya Çebi ile TV100 Ana Haber ｜ 29 Temmuz 2024.tr.txt
+# Processed: 2025-07-22T18:53:41.468160
+# Original: 11573 words → Filtered: 545 words (4.71% retention)
+# Economic segments: 5
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 120
+**Retention**: 57.69%
+
+3 milyar lira prim borcu bulunmaktadır bir şirket için harekete geçtiler ancak diğer şirketler için de bu sürecin devamını bekliyoruz. Ödenmeyen borçlar için icra yönetimi uygulanacağının da altını çizdi. Belediyelerin özellikle belediye şirketlerine ait borçlarının ödenmemesi yönünde bir direnç yeri var. Ancak tahsil yöntemlerine biraz değinmeden ve yöntemleri paylaşmamıza rağmen, eğer ödememek ısrar ederlerse tüm belediyeler için icra yöntemine başvurmak zorunda kalacağız. 
+
+Ankara Büyükşehir Belediye Başkanı Mansur Yavaş, SGK borcu tartışmalarına ilişkin konuştu. Kamu kurumlarının da kendilerine borcu olduğunu belirtti. Yavaş, son günlerde yapılan açıklamalardaki amacın Cumhuriyet Halk Partili belediyeleri itibarsızlaştırmak olduğunu düşündüğünü ifade etti. Çalışma ve Sosyal Güvenlik Bakanı Vedat Işık'a çağrı yaparak, borçlarının ana parasının 1,5 milyar lira olduğunu söyledi. Bu durum, tüm belediyelerin omzuna yük olduğunu vurguladı.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 145
+**Retention**: 94.77%
+
+594 570 lira para çıkışı olduğu bunun 2023'te 2 98 7 80 liraya ulaştığı tespit edildi. Para girişinin de aynı oranda yükseldiği raporda yer aldı. İlayda Topal'ın 2022'de bir güzellik ve kozmetik şirketinde büro işçisi olarak SGK kaydının olduğu ortaya çıktı. Daha sonra kozmetik ürünleri şirketi sahibi olan Topal'ın para hareketlerinin ise binlerden milyonlara arttığı dikkat çekti. Haklarında vergi incelemesi yapılan Polatların şirketlerinde ise kayıt dışı para hareketlerine de rastlandı. Dilen Polat'a ait Dipomed isimli şirketin cihaz satışı ve şube açılış bedeli de incelendi. Toplam kayıt ve beyan dışı bırakılan tutar listelendi. 2021'de cihaz satışı ve şube açılışından elde edilen gelir 2 2150 lirayken, 2023'te ise bu rakamın 178 70676 olduğu belirlendi. Polatların şirketlerinin 2020-2023 dönemlerinde post makineleri aracılığıyla 90 537 984 lira kredi kartı tahsilatı yapıldığı tespit edildi. Ener mer siteleri post makinesi ve EFT havale üzerinden toplamda 1 272 862 lira işlem gerçekleştirdi.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 67
+**Retention**: 36.02%
+
+Türkiye Büyük Millet Meclisi tarafından kabul edilen düzenleme ile en düşük emekli maaşı 10,000 liradan 12,500 liraya çıkarıldı. Bu düzenleme, emeklilere yılda iki defa yapılan zamların bir parçası olarak, Temmuz ayı itibariyle birçok emekli aylığını etkiledi. 3,780,000 emekliyi ilgilendiren emekli aylığı düzenlemesi meclisten geçti. Hazine desteği ise 2,521 lira olarak belirlendi. Bu değişiklik, emeklilerin alacakları maaşların yanı sıra, genel ekonomik durumu da etkileyecek bir gelişme olarak değerlendiriliyor.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 127
+**Retention**: 66.49%
+
+1731 lir geldi oradaki kök aylık 8731 L oldu. Bundan sonraki dönemde hazineden buraya 3769 lira eklentisiyle 12 500 lir üzerinden devam edecek. Emeklilerin ücret farkları gelecek günlerde ek ödeme ile hesaplarına yatırılacak. Süreçler tamamlandıktan sonra bu farklar yatırılacak. Büyük ihtimalle bu ay sonuna kadar torba yasayla netleşecek ve Ağustos maaşlarına eklenti olacak. 
+
+Yeni yıl öncesi pek çok çalışan emeklilik hesabı yapıyor. Uzmanlar, 2024 yılında emekli olmanın 2025 yılına göre daha avantajlı olduğunu belirtiyor. 2024 yılında emekli olmakla 2025 yılında emekli olmak arasında bir fark oluştu. Bu farkın sebebi, güncelleme oranının 2024 yılında daha yüksek olması ve 2025'te hedeflenen enflasyonun daha düşük olmasından kaynaklanıyor. Emekli maaşlarına etki eden en önemli faktörlerden biri enflasyon rakamlarıdır. 2025 yılı içinde düşük enflasyon hedeflendiği için maaşların da daha düşük olması öngörülüyor.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 86
+**Retention**: 48.86%
+
+Emeklilere 2023 yılı güncelleme katsayısı 66,112 olarak belirlenmiştir. 2024'te ve 2025'te emekli maaşlarında 10,80'lik bir artış beklenmektedir. Uzmanlara göre, emekli olmak için Aralık ayında dilekçe vermek daha avantajlıdır çünkü bu yıl emekli olacaklar için 2023 yılının enflasyon ve büyüme rakamları baz alınacaktır. 2024 ile 2025 arasında emekli maaşları açısından önemli bir fark olacaktır; 2024 yılında emekli olanlar, 2025 yılına göre daha yüksek maaş alacaklardır. Örneğin, 2024 yılında emekli maaşı 15,800 lira iken, 2025 yılında bu rakam 11,600 liraya düşecektir. Bu durum, emekli maaşları arasındaki farkı artırmaktadır.
+
+================================================================================
+

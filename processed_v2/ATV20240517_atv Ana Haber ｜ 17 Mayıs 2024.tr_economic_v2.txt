@@ -1,0 +1,55 @@
+# Economic Content from: ATV20240517_atv Ana Haber ｜ 17 Mayıs 2024.tr.txt
+# Processed: 2025-07-22T16:13:32.586747
+# Original: 4733 words → Filtered: 362 words (7.65% retention)
+# Economic segments: 4
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 115
+**Retention**: 97.46%
+
+Cuma Cumhurbaşkanı Erdoğan İstanbul'da Tarım zirvesinde çiftçilere müjde üstüne müjde verdi. Hem tarım destek kredilerinde hem de proje bazlı hibe desteklerinde limitler artırıldı. Küçükbaşta kredi limiti 600.000 liraya, büyükbaşta ise 1,5 milyon liraya yükseldi. Erdoğan, yeni bir tarım kırsal kalkınma süreci başlatıyoruz cümlesini kurdu. Küçük ekipman kredisinin limitini 150.000 liradan 250.000 liraya çıkarıyoruz. Küçükbaş hayvan üreticilerine işlerini büyütmeleri amacıyla verilen kredinin limitini de 400.000 liradan 600.000 liraya getiriyoruz. Büyükbaş süt hayvancılığı ile iştigal eden üreticilerimiz için bu rakamı 1 milyon liradan 1,5 milyon liraya yükseltiyoruz. Cumhurbaşkanı Erdoğan, tarım zirvesinde çiftçiye müjde üstüne müjde verdi; kredi ve hibe limitleri artırıldı. Kadın ve genç çiftçileri desteklemek için verilen kredi limiti 1,5 milyon liradan 25 milyon liraya çıkarıldı.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 90
+**Retention**: 100.00%
+
+2 km mesafede
+14 dakika sonra burada olacağını görüyoruz Biz şu anda e geliyordu neden geri döndünüz yazıyorum
+çünkü beyefendi geri döndü 900 metreydi Evet şu an kaça çıktı Görev hemen bakalım şu anda 3 2 kreye
+çıktı bu nasıl oluyor Ben bunu anlamadım ne yazmış Bakalım Kusura bakma kardeşim buraları bilmiyorum
+kafam karıştı neden geri dönüp yolu uzattınız daha fazla para alacak Tabii ki yolcudan Bence en son
+kardeşim Tamam iptal ediyorum Başka taksi çağır dedi ben Ama bunu Çünkü biz sadece 900 met kalan yol
+nasıl birdenbire 3
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 107
+**Retention**: 42.97%
+
+Birçok özel okul, devletin belirlediği zam sınırına uymayan fiyatlarla velileri zor durumda bırakıyor. Yapılan bir hesaplamaya göre, anaokulundan lise son sınıfa kadar 13 yıl özel okulda okumanın maliyeti şu anda yaklaşık 31 milyon lira. Enflasyonun üzerinde fiyatların artışı, özelde çocuk okutmanın maliyetinin katlanarak arttığını gösteriyor. Özel okullarda fiyat skalası oldukça değişken; neredeyse her kurum kendine göre bir raiç belirliyor. Bu noktada, özel okullara eğitim değil, ticaret peşinde oldukları eleştirisi yapılıyor. Özel okullar, eğitimde eşitlik sağlamak yerine fiyat skalasına odaklanmış durumdalar. Bazı özel okullar, erken kayıt almaya Ocak ayında başlamış ve her ay yemek ücreti, eğitim ücreti ve diğer ücretlere farklı zamlar yaparak velilerden ek ücret talep ediyor.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 50
+**Retention**: 66.67%
+
+Şimdi ise yani mayıs ayı için 39 500 L ücret istiyor. Bu kadar faiş fiyatın olması, velilerin köşeye sıkışmış durumda olduğunu gösteriyor. Bu sene eğitim ücretlerini ödeyen aileler, bir dahaki sene ne yapacaklarını bilmiyorlar. Özel okullardaki eğitim ücretine zam sınırı getirilmişti ve bu zam sınırı ise % 6 olarak belirlenmişti.
+
+================================================================================
+

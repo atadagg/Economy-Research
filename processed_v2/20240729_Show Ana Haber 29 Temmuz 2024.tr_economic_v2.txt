@@ -1,0 +1,16 @@
+# Economic Content from: 20240729_Show Ana Haber 29 Temmuz 2024.tr.txt
+# Processed: 2025-07-22T17:15:59.563502
+# Original: 3531 words → Filtered: 78 words (2.21% retention)
+# Economic segments: 1
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 78
+**Retention**: 51.32%
+
+Müşteriler durgunluğu fırsata çevirmek isterken, galericiler yaşananları sıfır araçlardaki kampanyalara bağladı. Fiyatlar şu anda makul seviyelerde, ancak ikinci el pazarı son 5 yılın en durgun haziran ayını yaşadı. İkinci el araçlarda dibin dibi görüldü; öyle ki son 5 yılın en düşük Haziran ayı yaşandı. Ana sebep tamamen krediye bağlı; hem krediye ulaşılabilirlik problemleri hem de faizlerin yüksekliği, sıfırda bir bolluk yaşanmasına neden oldu. Tüik'in verilerine göre, Haziran'da ikinci el otomobil pazarında bir önceki yıla göre %25 daralma oldu.
+
+================================================================================
+

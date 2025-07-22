@@ -1,0 +1,27 @@
+# Economic Content from: 20240406_Show Ana Haber 6 Nisan 2024.tr.txt
+# Processed: 2025-07-22T17:21:24.262485
+# Original: 3667 words → Filtered: 139 words (3.79% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 82
+**Retention**: 102.50%
+
+Son dönemde kredi kartı talep ve harcamaları artarken, yapılan son düzenlemeyle kart işlemlerinde azami faiz % 3,66 yerine % 4,25 olarak uygulanacak. Bu yeni faiz oranı ile birlikte, bir tüketici 10.000 liralık harcama yaptığında ve bunun yalnızca asgari ödemesini, yani 2.000 lirasını yatırdığında, sonraki aya yansıyacak faiz yükü artacaktır. Bu durum, kredi kartı kullanıcıları için maliyetleri artırırken, bankaların da kredi kartı işlemlerinden elde ettikleri gelirleri etkileyecektir. Ekonomik veriler, kredi kartı harcamalarının artışını gösterirken, bu durumun tüketici harcamaları üzerindeki etkileri de dikkatle izlenmektedir.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 57
+**Retention**: 34.34%
+
+4 kişilik bir aile 600 lira bir para harcaması lazım ki bu kahvaltıyı etsin. Şu an bir sandaletin fiyatı 500-600 lira arasıdır. Normalde 200 olması lazım, çünkü birkaç yıl önce o civardaydı. Fiyatların bu kadar artması, enflasyon ve maliyet artışlarıyla ilgili bir durum olarak değerlendirilebilir. Bu tür fiyat artışları, tüketici harcamalarını etkileyerek genel ekonomik durumu da yansıtıyor.
+
+================================================================================
+

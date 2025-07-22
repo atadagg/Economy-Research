@@ -1,0 +1,71 @@
+{
+  "file_path": "news/Show/20240406_Show Ana Haber 6 Nisan 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T17:21:24.262485",
+  "original_word_count": 3667,
+  "filtered_word_count": 139,
+  "retention_ratio": 0.037905644941368964,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 3,
+      "start_sentence": "İyi akşamlar sayın seyirciler",
+      "description": "\"İyi akşamlar sayın seyirciler\" - The presenter introduces herself and sets the stage for the news broadcast, indicating that she will share the day's most significant developments.",
+      "end_pos": 97
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 97,
+      "start_sentence": "Cumhurbaşkanı Erdoğan 31 Mart yerel seçiminin hem Bir dönüm noktası",
+      "description": "\"Cumhurbaşkanı Erdoğan 31 Mart yerel seçiminin hem Bir dönüm noktası\" - This section contains the main news content, discussing various topics including statements from President Erdoğan about local elections, a tragic fire incident in Beşiktaş, and reactions to international events.",
+      "end_pos": 1162
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 1162,
+      "start_sentence": "Daha sonra da kur'an-ı Kerim'i güzel okuma yarışmaları",
+      "description": "\"Daha sonra da kur'an-ı Kerim'i güzel okuma yarışmaları\" - This brief transition indicates a shift in focus from one news topic to another, specifically moving from political commentary to a cultural event.",
+      "end_pos": 1262
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1262,
+      "start_sentence": "İsrail'in Gazze zulmüne tepki gösterdi",
+      "description": "\"İsrail'in Gazze zulmüne tepki gösterdi\" - This part continues the news content, addressing international issues, specifically the situation in Gaza and the implications of local election results.",
+      "end_pos": 1553
+    },
+    {
+      "type": "5. **NEWS**",
+      "start_pos": 1553,
+      "start_sentence": "Yüksek Seçim Kurulu van'la ilgili gerekçeli kararını açıkladı",
+      "description": "\"Yüksek Seçim Kurulu van'la ilgili gerekçeli kararını açıkladı\" - This section further elaborates on the electoral process and the decisions made by the electoral authority, continuing the news narrative.",
+      "end_pos": 25785
+    }
+  ],
+  "news_segments_count": 7,
+  "economic_segments_count": 2,
+  "economic_segments": [
+    {
+      "segment_id": "1553_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 80,
+      "filtered_length": 82,
+      "retention_ratio": 1.025,
+      "section_description": "\"Yüksek Seçim Kurulu van'la ilgili gerekçeli kararını açıkladı\" - This section further elaborates on the electoral process and the decisions made by the electoral authority, continuing the news narrative."
+    },
+    {
+      "segment_id": "1553_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 166,
+      "filtered_length": 57,
+      "retention_ratio": 0.3433734939759036,
+      "section_description": "\"Yüksek Seçim Kurulu van'la ilgili gerekçeli kararını açıkladı\" - This section further elaborates on the electoral process and the decisions made by the electoral authority, continuing the news narrative."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

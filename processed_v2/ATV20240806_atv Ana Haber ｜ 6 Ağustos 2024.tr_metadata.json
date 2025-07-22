@@ -1,0 +1,85 @@
+{
+  "file_path": "news/ATV/ATV20240806_atv Ana Haber ｜ 6 Ağustos 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T16:09:30.718383",
+  "original_word_count": 4891,
+  "filtered_word_count": 242,
+  "retention_ratio": 0.04947863422612962,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 23,
+      "start_sentence": "İyi akşamlar Bugün 6 Ağustos 2024 salı...",
+      "description": "\"İyi akşamlar Bugün 6 Ağustos 2024 salı...\" - The opening of the broadcast where the presenter greets the audience and introduces the date and context of the news.",
+      "end_pos": 76
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 76,
+      "start_sentence": "dünkü kabine toplantısından sıcak kararlar ve önemli mesajlar çıktı...",
+      "description": "\"dünkü kabine toplantısından sıcak kararlar ve önemli mesajlar çıktı...\" - The main content of the news broadcast, detailing various news stories including decisions from the cabinet meeting, international legal actions, and significant political developments.",
+      "end_pos": 289
+    },
+    {
+      "type": "5. **TRANSITION**",
+      "start_pos": 289,
+      "start_sentence": "Hamas lideri İsmail Haniye suikastı da vardı...",
+      "description": "\"Hamas lideri İsmail Haniye suikastı da vardı...\" - Another transition that introduces a new topic related to the assassination of a Hamas leader, indicating a shift in the news focus.",
+      "end_pos": 581
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 581,
+      "start_sentence": "Aile Destek paketi ile ilgili de Müjde verdi...",
+      "description": "\"Aile Destek paketi ile ilgili de Müjde verdi...\" - A brief transition within the news segment that shifts focus from one news topic to another, specifically moving from the cabinet decisions to the family support package.",
+      "end_pos": 765
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 765,
+      "start_sentence": "Türkiye Uluslararası Adalet divanında İsrail aleyhine açılan soykırım davasına müdahil olacak...",
+      "description": "\"Türkiye Uluslararası Adalet divanında İsrail aleyhine açılan soykırım davasına müdahil olacak...\" - Continuation of the news content discussing Turkey's involvement in the international court case against Israel.",
+      "end_pos": 1545
+    },
+    {
+      "type": "6. **NEWS**",
+      "start_pos": 1545,
+      "start_sentence": "Savaşı bu yana kayda geçen en büyük Rehine takası ifadelerini kullandığı...",
+      "description": "\"Savaşı bu yana kayda geçen en büyük Rehine takası ifadelerini kullandığı...\" - Further news content discussing a significant hostage exchange and the role of Turkey's intelligence agency.",
+      "end_pos": 1845
+    },
+    {
+      "type": "7. **OUTRO**",
+      "start_pos": 1845,
+      "start_sentence": "ekonomi mesajlarına İsa ihracat rekoruyla başladı...",
+      "description": "\"ekonomi mesajlarına İsa ihracat rekoruyla başladı...\" - The closing remarks of the broadcast, summarizing the economic messages and possibly leading towards the end of the program.",
+      "end_pos": 35400
+    }
+  ],
+  "news_segments_count": 6,
+  "economic_segments_count": 2,
+  "economic_segments": [
+    {
+      "segment_id": "1845_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 194,
+      "filtered_length": 83,
+      "retention_ratio": 0.42783505154639173,
+      "section_description": "\"ekonomi mesajlarına İsa ihracat rekoruyla başladı...\" - The closing remarks of the broadcast, summarizing the economic messages and possibly leading towards the end of the program."
+    },
+    {
+      "segment_id": "1845_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 213,
+      "filtered_length": 159,
+      "retention_ratio": 0.7464788732394366,
+      "section_description": "\"ekonomi mesajlarına İsa ihracat rekoruyla başladı...\" - The closing remarks of the broadcast, summarizing the economic messages and possibly leading towards the end of the program."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

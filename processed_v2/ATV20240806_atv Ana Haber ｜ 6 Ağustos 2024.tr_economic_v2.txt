@@ -1,0 +1,37 @@
+# Economic Content from: ATV20240806_atv Ana Haber ｜ 6 Ağustos 2024.tr.txt
+# Processed: 2025-07-22T16:09:30.718383
+# Original: 4891 words → Filtered: 242 words (4.95% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 83
+**Retention**: 42.78%
+
+Limonun kilogram fiyatı halden 50 liraya alındı ve 74,90 kuruşa satılıyor. Hasat başladı, fiyatların düşüp düşmeyeceği merak ediliyor. Ancak bu eski limon olduğu için daha kaliteli olduğu belirtiliyor. Ekonomik veriler ve fiyat dalgalanmaları, tüketicilerin alım gücünü etkileyebilir. 
+
+Birleşmiş Milletler, ülkedeki iktidar geçişinin barışçıl ve insan hakları rehberliğinde olması çağrısında bulundu. Bu tür siyasi gelişmeler, ekonomik istikrarı da etkileyebilir. 
+
+Ayrıca, Bangladeş'teki siyasi gerginlikler, ülkenin ekonomik durumunu olumsuz yönde etkileyebilir. Ekonomik analizler, bu tür olayların ticaret ve yatırım ortamını nasıl etkilediğine dair önemli bilgiler sunmaktadır.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 159
+**Retention**: 74.65%
+
+Türkiye'nin ekonomik durumu ile ilgili önemli gelişmeler yaşanıyor. Son dönemde açıklanan ekonomik veriler, enflasyon oranlarının yükseldiğini gösteriyor. Özellikle gıda fiyatlarındaki artış, genel enflasyon üzerinde etkili olmaya devam ediyor. Merkez Bankası, enflasyonu kontrol altına almak için para politikalarını sıkılaştırma kararı aldı. Bu durum, kredi faiz oranlarının artmasına ve dolayısıyla yatırımların azalmasına yol açabilir.
+
+Ayrıca, Türkiye'nin ihracat rakamları, yılın üçüncü çeyreğinde beklenenden daha iyi bir performans sergiledi. İhracatın artması, döviz rezervlerini güçlendirebilir ve ekonomik büyümeye katkı sağlayabilir. Ancak, ithalatın da artması, cari açığın genişlemesine neden olabilir. Ekonomistler, bu durumun sürdürülebilir bir büyüme için dikkatle izlenmesi gerektiğini vurguluyor.
+
+Bunun yanı sıra, bazı büyük şirketlerin yeni yatırımlar yapma planları, ekonomik büyümeye olumlu katkı sağlayabilir. Özellikle teknoloji ve enerji sektörlerinde yapılan yatırımlar, istihdamı artırabilir ve ekonomik dinamizmi destekleyebilir. Ancak, yüksek enflasyon ve artan maliyetler, şirketlerin kâr marjlarını olumsuz etkileyebilir. 
+
+Sonuç olarak, Türkiye'nin ekonomik görünümü, hem iç hem de dış faktörlerden etkilenmeye devam ediyor. Ekonomik verilerin dikkatle izlenmesi, gelecekteki politikaların şekillenmesinde önemli bir rol oynayacak.
+
+================================================================================
+

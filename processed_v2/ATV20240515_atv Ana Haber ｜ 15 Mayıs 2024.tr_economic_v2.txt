@@ -1,0 +1,51 @@
+# Economic Content from: ATV20240515_atv Ana Haber ｜ 15 Mayıs 2024.tr.txt
+# Processed: 2025-07-22T16:41:07.301023
+# Original: 4668 words → Filtered: 369 words (7.90% retention)
+# Economic segments: 4
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 106
+**Retention**: 36.81%
+
+Benzin istasyonundaki benzin ya da mazot fiyat farkı zaten çok büyük yoktu ama aradaki incelik farkı daha iyi oldu. Enerji Piyasası Düzenleme Kurulu, firmalara akaryakıtın yüksek kalitede verilmesini gerekçe gösterdi. Önceden iki isim adı altında motorin satışımız vardı, şimdi o tek tipe döndü. Bu düzenleme ile birlikte tek tip ve tek fiyat uygulaması başladı. Akaryakıt fiyatlarının sabit olması, müşterilerin kafasını karıştırmaktan kurtaracak. 
+
+Kırmızı etteki fahiş fiyat artışını önlemek için bir dizi önlem alındı. Cumhurbaşkanı Erdoğan, yeni adımların atılacağını sinyalini vermişti. Üretimin artırılması, fiyatları aşağı çekecek en önemli adımlardan biriydi. Trakya'da dev bir tesis kuruluyor ve bu arazi Çevre ve Şehircilik Bakanlığı tarafından Tarım Kredi grubuna kiralandı.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 134
+**Retention**: 68.02%
+
+Gayri safi milli hasılaya yıllık 200 milyon dolar cari işlemlere de yıllık yaklaşık 75 milyon dolar bunun katkısı olacak. Tarım Kredi grubu artan et fiyatlarını düşürmek için harekete geçti. Trakya'da kurulacak tesis için kollar sıvandı; burada yılda 1 milyon ton sperma ve embriyo üretimi yapılacak. Bu sayede hem ithalatı kısmış olacağız hem de daha ekonomik bir üretim gerçekleştirmiş olacağız. Yıllık 5,000-10,000 üretim yapmayı hedefliyoruz. Etin fiyatı malum, ucuz mal satamıyoruz; maliyetler yüksek. Avrupa'dan gelen ürünlerin fiyatları arasında %0 ile %40'lık bir fark bulunuyor. İleri dönemde bu durum hem esnaflar hem de tüketiciler için olumlu sonuçlar doğurabilir. Aldığımız karkas fiyatları düşecek ve bu, tezgahımıza yansıyacak. Böylece vatandaşımıza daha uygun fiyatlı et sunabileceğiz. Türkiye, Avrupa Birliği ülkeleri arasında hayvan varlığıyla önde; 2022 verilerine göre AB ülkelerinde toplam büyükbaş hayvan sayısı 74,799,000 iken Türkiye'nin sayısı 17,24 milyon.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 60
+**Retention**: 59.41%
+
+Burası Erzurum'daki canlı hayvan pazarı. Kurban Bayramı yaklaştıkça pazardaki hareketlilik de arttı. İşte bu kurbanlık 650 kilo, fiyatı ise 160.000 lira. Ancak bu kurbanlık İstanbul'a gönderilirse fiyatı 200.000 lira kadar çıkabiliyor. Nakliyesi, çadır parası ve çoban parası gibi ek maliyetler de bulunuyor. Biz buradan hayvan yolladık İstanbul'a, bu nedenle ek masraflarımız oldu. Küçükbaş hayvan fiyatları ise ortalama 10.000 lira seviyelerinde.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_final
+**Confidence**: 0.50
+**Word Count**: 69
+**Retention**: 34.33%
+
+Fiyatların Bayram yaklaştıkça artması bekleniyor. Ekonomik veriler, fiyat artışlarının enflasyon üzerindeki etkisini gösteriyor. Bayram döneminde tüketici harcamalarının artması, perakende sektöründe hareketlilik yaratabilir. Bu durum, özellikle gıda fiyatları üzerinde baskı oluşturabilir. Ekonomik analizler, bu tür dönemsel artışların genel enflasyon oranlarını etkileyebileceğini öne sürüyor. Ayrıca, hükümetin alacağı önlemler, fiyat istikrarını sağlamak açısından kritik önem taşıyor. Tüketici güven endeksinin yükselmesi, yatırımcıların piyasalara olan ilgisini artırabilir. Bu bağlamda, finansal piyasalarda dalgalanmalar yaşanması muhtemel.
+
+================================================================================
+

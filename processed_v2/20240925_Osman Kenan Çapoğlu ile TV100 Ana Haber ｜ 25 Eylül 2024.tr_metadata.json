@@ -1,0 +1,86 @@
+{
+  "file_path": "news/TV100/20240925_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 25 Eylül 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T18:40:39.523761",
+  "original_word_count": 10861,
+  "filtered_word_count": 573,
+  "retention_ratio": 0.05275757296749839,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "İyi akşamlar 25 Eylül Çarşamba TV1 an Haber'de...",
+      "description": "\"İyi akşamlar 25 Eylül Çarşamba TV1 an Haber'de...\" - The opening segment introduces the program, the date, and the presenter, setting the stage for the news content to follow.",
+      "end_pos": 93
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 93,
+      "start_sentence": "Birleşmiş Milletler genel kuruluna hitap etti Cumhurbaşkanı Recep Tayyip Erdoğan...",
+      "description": "\"Birleşmiş Milletler genel kuruluna hitap etti Cumhurbaşkanı Recep Tayyip Erdoğan...\" - This section contains the main news stories, including President Erdoğan's statements at the UN General Assembly, his views on Hamas, and the situation regarding Ukraine's NATO membership, as well as updates on the Israel-Hezbollah conflict.",
+      "end_pos": 77903
+    }
+  ],
+  "news_segments_count": 14,
+  "economic_segments_count": 6,
+  "economic_segments": [
+    {
+      "segment_id": "93_5",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 186,
+      "filtered_length": 92,
+      "retention_ratio": 0.4946236559139785,
+      "section_description": "\"Birleşmiş Milletler genel kuruluna hitap etti Cumhurbaşkanı Recep Tayyip Erdoğan...\" - This section contains the main news stories, including President Erdoğan's statements at the UN General Assembly, his views on Hamas, and the situation regarding Ukraine's NATO membership, as well as updates on the Israel-Hezbollah conflict."
+    },
+    {
+      "segment_id": "93_6",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 98,
+      "filtered_length": 77,
+      "retention_ratio": 0.7857142857142857,
+      "section_description": "\"Birleşmiş Milletler genel kuruluna hitap etti Cumhurbaşkanı Recep Tayyip Erdoğan...\" - This section contains the main news stories, including President Erdoğan's statements at the UN General Assembly, his views on Hamas, and the situation regarding Ukraine's NATO membership, as well as updates on the Israel-Hezbollah conflict."
+    },
+    {
+      "segment_id": "93_7",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 280,
+      "filtered_length": 113,
+      "retention_ratio": 0.4035714285714286,
+      "section_description": "\"Birleşmiş Milletler genel kuruluna hitap etti Cumhurbaşkanı Recep Tayyip Erdoğan...\" - This section contains the main news stories, including President Erdoğan's statements at the UN General Assembly, his views on Hamas, and the situation regarding Ukraine's NATO membership, as well as updates on the Israel-Hezbollah conflict."
+    },
+    {
+      "segment_id": "93_8",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 156,
+      "filtered_length": 64,
+      "retention_ratio": 0.41025641025641024,
+      "section_description": "\"Birleşmiş Milletler genel kuruluna hitap etti Cumhurbaşkanı Recep Tayyip Erdoğan...\" - This section contains the main news stories, including President Erdoğan's statements at the UN General Assembly, his views on Hamas, and the situation regarding Ukraine's NATO membership, as well as updates on the Israel-Hezbollah conflict."
+    },
+    {
+      "segment_id": "93_9",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 114,
+      "filtered_length": 90,
+      "retention_ratio": 0.7894736842105263,
+      "section_description": "\"Birleşmiş Milletler genel kuruluna hitap etti Cumhurbaşkanı Recep Tayyip Erdoğan...\" - This section contains the main news stories, including President Erdoğan's statements at the UN General Assembly, his views on Hamas, and the situation regarding Ukraine's NATO membership, as well as updates on the Israel-Hezbollah conflict."
+    },
+    {
+      "segment_id": "93_10",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 158,
+      "filtered_length": 137,
+      "retention_ratio": 0.8670886075949367,
+      "section_description": "\"Birleşmiş Milletler genel kuruluna hitap etti Cumhurbaşkanı Recep Tayyip Erdoğan...\" - This section contains the main news stories, including President Erdoğan's statements at the UN General Assembly, his views on Hamas, and the situation regarding Ukraine's NATO membership, as well as updates on the Israel-Hezbollah conflict."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

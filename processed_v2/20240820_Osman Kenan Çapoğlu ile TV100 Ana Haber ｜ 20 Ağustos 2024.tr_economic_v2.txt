@@ -1,0 +1,117 @@
+# Economic Content from: 20240820_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 20 Ağustos 2024.tr.txt
+# Processed: 2025-07-22T18:45:15.709076
+# Original: 10996 words → Filtered: 832 words (7.57% retention)
+# Economic segments: 10
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 85
+**Retention**: 54.84%
+
+Özel okul servisleri, belirlenen fiyata rağmen bazı okullardaki servis şirketlerinin mesafe ücretine uymadığını gösteriyor. Velilerden fahiş oranda fiyatlar talep edilmeye başlandı. Çoğu özel okulun talep ettiği servis ücretlerinin fahiş olduğunu biliyoruz. UKOME'nin belirlediği kriterlere göre, 50.000 TL tutacak bir okul servis ücretini 100.000 TL olarak talep ettiklerini görüyoruz. Bu durum, okul yemek ve kırtasiye masraflarına ek olarak, bütçeyi zorlamaktadır. Velilerin, ödedikleri fahiş ücretleri en yüksek oranda faizi ile birlikte iade alabilecekleri belirtiliyor. Eğer okul yönetimi bu durumu çözmezse, velilerin tüketici hakem heyetlerine başvurma hakları bulunmaktadır.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 81
+**Retention**: 56.25%
+
+Evet, bu faiş fiyatları özellikle okullar için konuşmaya devam edeceğiz. Okul servis ücretleri uçtu gitti. Kamuya göre rakamlara baktığımızda, şimdi bilançoyu daha net görüyoruz. Servis ücretleri değil, okulun kendisi, yemek ve kırtasiye giderleri derken milyonu bulan bir bütçe gerekiyor. Derya Hanım, bu hususu değerlendireceğiz. Geçtiğimiz yıl da benzer bir senaryo vardı. Şimdi artık servis ücretleri ya da herhangi bir ücrete baktığımızda, fiyat algısı tamamen ortadan kalktı. Ukome'nin aldığı karara baktığımızda, en kısa mesafe 23.000 TL diyor, en uzun mesafe 55.000 TL.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 58
+**Retention**: 58.59%
+
+İstanbul Büyükşehir Belediyesi'nin toplu ulaşım Müdürlüğünün 29 Temmuz 2024 tarihinden itibaren geçerli olan okul servisleri taşımacılığı ücret tarifesine baktığımızda, bu tarifenin dışında ücret talep edilemeyeceği belirtiliyor. Faiş ücretler söz konusu olduğunda, İstanbul Büyükşehir Belediyesi'nin toplu ulaşım müdürlüğüne şikayet oluşturulacak ve 104.000 TL'nin üzerindeki uyuşmazlıklarda tüketici mahkemesine başvurulacak. Bu durum, tüketicilerin haklarını koruma açısından önemli bir adım olarak değerlendiriliyor.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 104
+**Retention**: 52.53%
+
+Bu süreç ne kadar bir zaman dilimini kapsıyor? Şimdi ben mağdur oldum, parayı da ödemek istemiyorum. Uygulamada ödemeden mağdur olma söz konusu olduğundan dolayı veliler ödeyip sonrasında hakem heyetine başvurabilirler. Peki, ne kadar bir süreyi kapsıyor? Yani başvurduktan sonra kısa vadede bu iş çözümleniyor mu? Evet, tüketici hakem heyetlerinde yaklaşık 15 gün 30 gün içerisinde cevaplar oluyor. Tüketici mahkemelerinde ne yazık ki yargı yükünün ağır olması ve birtakım süreçlerin yavaş ilerlemesinden kaynaklı olarak mahkeme süreçleri yavaş ilerliyor. Bunun için en az bir yıl mahkeme kararını bekliyor oluruz. Ama dediğim gibi, bu tüketici hakem heyetine söz konusu olacağından dolayı miktar bakımından kısa sürede sonuç alınır.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 67
+**Retention**: 34.72%
+
+İstanbul'da geçen yılın aynı dönemine göre %150 artan fiyatlar aileleri isyan ettiriyor. Anaokullarında 177.000 ile yaklaşık 32.000-35.000 bandı arasında bir rakam söz konusu. Kimi aileler maddi imkanları zorluyor, anaokulu ya da bakıcı tercih ediyor. Uzmanlar, pahalılığın aileleri anneanne ve babaanne seçeneğine yönlendirdiğini belirtiyor. Anaokulu yetkilileri, çocukların akranlarıyla sosyalleşmesinin önemine vurgu yapıyor. Bu durum, ailelerin çocuk bakımı için harcadıkları bütçeyi etkileyen önemli bir ekonomik faktör olarak öne çıkıyor.
+
+================================================================================
+
+## Economic Segment 6
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 58
+**Retention**: 30.69%
+
+Özel yurt fiyatları geçen yıla göre %50'nin üzerinde artış gösterdi. İstanbul'da özel yurt ücretleri en düşük 85,000 TL olurken en yüksek 410,000 TL'ye kadar çıkıyor. Bu durum, öğrencilerin barınma seçeneklerini zorlaştırıyor ve çoğu öğrenci yurtları tercih etse de özel yurt fiyatlarının yüksekliği endişe yaratıyor. Ekonomik koşullar nedeniyle, kiralık evlere ulaşmak da zorlaştı; öğrenciler, barınma sorunlarıyla karşı karşıya kalıyor.
+
+================================================================================
+
+## Economic Segment 7
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 38
+**Retention**: 55.07%
+
+İstanbul'da kazanmam gerekiyor kesinlikle 100 000 çok uçuk bir fiyat olabilir ama ev kiraları da çok yüksek. Öğrenciler çoğunlukla tercihlerini İzmir, Ankara gibi büyükşehirlerden yana kullanıyor. İzmir'de en düşük özel yurt fiyatları 110 000'den başlarken, Ankara'da 90 000'dir.
+
+================================================================================
+
+## Economic Segment 8
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 105
+**Retention**: 55.26%
+
+9 olarak açıklandı. Kiracılar bu artışa rağmen çok geride. Düşünün ki, eski kiracının %6593 normal olması gereken kiranızda artış yapıyorsunuz. Her şey sistematik ve yeni kiranız 10.000 TL olduğunu düşünelim. Ancak sitede aynı sitede 50.000 TL'ye kiralıklar var, yani 5 katı makas bile oldu. Mal sahibi gerçekten bu konuda mağdur olduğu bir süreç yaşıyor. Devletin şu anda yapmış olduğu bu yaptırımla, 5 yıla kadar her ay açıklanmış olan TK verilerin ortalaması kadar artış yapabilirsin, üst sınırın ancak bu kadar olur. 65.9'un üzerine çıktığınızda, bununla ilgili dava bile açılamıyor. Mal sahipleri mağdur, ama 5 yıl sonrasında durum tersine dönüyor. Bu sefer yeni kirayı konuşmak zorunda kalıyorsunuz.
+
+================================================================================
+
+## Economic Segment 9
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 77
+**Retention**: 60.16%
+
+Ekonomik veriler ve istatistikler, piyasa dinamikleri ve şirket gelişmeleri üzerine yapılan değerlendirmeler, ekonomik içerik açısından önemlidir. Örneğin, metrekare fiyatlarının 450.000 L civarında olduğu belirtiliyor. Bu durumda, fiyatların minimum 20.000 - 30.000 L artırılması gerektiği ifade ediliyor. Ancak, uzlaşma sağlanamadığı takdirde, kira tespit davası açılması durumunda, devlet tarafından belirlenen kira bedeli 30.000 L olarak karar verildiğinde, geriye kalan 20.000 L'lik fark önemli bir mali yük oluşturabilir. Bu tür durumlar, ekonomik istikrar ve piyasa dengeleri açısından kritik öneme sahiptir.
+
+================================================================================
+
+## Economic Segment 10
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 159
+**Retention**: 41.41%
+
+Dün bir kiralama oldu ve 250.000 L rakam gerçekten eskiden bu rakama araba da alınırdı, ev de alınırdı. Kiracılar da mutsuz, mal sahipleri de mutsuz; çünkü düzenli bir şekilde kirasını ödeyenler makbul. Mal sahipleri, ister 300 de ister 500 de ister ama düzenli kim ödeyecek bunları? Ekonominin bu süreçte, şu an 1 t bile değerliyken mal sahipleri de bu konuda geriye gelmeli. Orta ölçek ve dar gelirli aileler hakikaten barınma sorunu yaşıyor. İstanbul'un çok uzak mesafelerinde oturmak zorunda kalanlar, ulaşım araçlarıyla iş yerlerine gelmekte zorlanıyor. 
+
+Eski binalarda, özellikle 40 yılı geçmiş binalarda metrekare birim fiyatları çok daha düşük. Ancak insanlar, en azından bir çatım olsun diye kiraya bile verilmeyen, üzerinde yıkım kararı olan kentsel dönüşüm bekleyen evlerde oturmak zorunda kalıyor. Bu durum, piyasada bir şişkinlik söz konusu olmasına neden oldu. Sıfır evlere olan talep, fiyat dengesizliğini ortaya çıkarıyor. İnsanların alım gücünün zayıflamasıyla kiralığa yöneldikleri görülüyor. Kredi faiz oranlarının düştüğü bir dönemde, bu durumun etkileri daha da belirgin hale geliyor.
+
+================================================================================
+

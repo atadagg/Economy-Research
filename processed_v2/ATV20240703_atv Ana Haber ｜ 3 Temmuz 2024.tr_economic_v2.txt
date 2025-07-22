@@ -1,0 +1,38 @@
+# Economic Content from: ATV20240703_atv Ana Haber ｜ 3 Temmuz 2024.tr.txt
+# Processed: 2025-07-22T16:04:13.589814
+# Original: 4682 words → Filtered: 256 words (5.47% retention)
+# Economic segments: 3
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 120
+**Retention**: 78.43%
+
+Türkiye İstatistik Kurumu Haziran ayı enflasyonunu % 1,64 olarak açıkladı. Böylece emekli ve memurun 6 aylık zam oranı da belli oldu. SSK ve Bağkur emeklilerinin Temmuz ayı aylık artışları % 24,75 oranında gerçekleşti. Bu zam kök maaşlara eklenecek. Örneğin kök maaşı 8.000 L olan bir emeklinin maaşına % 2,73 oranında zam eklendiğinde yeni kök maaşı 9.978 lira oluyor. En düşük emekli aylığı arttırılması kök maaşı 8.000 L'nin altında olan emekliler 10.000 L almaya devam edecek. 10.000 L maaş alan bir emeklinin ise yeni zamla birlikte temmuzda hesabına yatacak olan rakam 12.000 L olacak. 15.000 L maaş alan bir emeklinin yeni maaşı ise 18.879 liraya çıkacak. 20.000 L aylık alanların maaşı 24.000 L'ye, 25.000 L maaş alanların ise 31.000 L'ye yükselecek.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 68
+**Retention**: 70.83%
+
+12 liraya çıkacak. Temmuz ayı zam oranları belli olan memurların yeni maaşları, toplu sözleşme ve enflasyon farkıyla belirleniyor. Maaş ve aylık artışları %19,31 oranında gerçekleşecek. Haziran enflasyonu ile birlikte en düşük memur maaşı 34,235 liradan 40,484 liraya yükseldi. Hemşire maaşları 47,95 liraya, öğretmen maaşı 47,462 liraya, polis maaşları 52,844 liraya, kamuda çalışan mühendislerin maaşları ise 60,691 liraya yükseldi. En düşük emekli devlet memuru maaşı da 14,740 liradan 1.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 68
+**Retention**: 49.28%
+
+Zarar vermiş oluyor ekonomik mod ve start stop ikisi de yakıt tasarrufu için çok tercih ediliyor. Ancak doğru ve yerinde kullanılmazsa fatura sürücüye daha pahalıya patlıyor. Ekonomik mod adından da anlaşıldığı gibi daha az yakıt tüketilmesini sağlıyor; ancak uzun yolda işler değişiyor. Örneğin, şehirlerarası kullanımda araç sahibine zararı en az 100 lira civarında olabiliyor. Bu durum, yakıt fiyatlarının artışıyla birlikte sürücülerin maliyetlerini etkileyen önemli bir faktör haline geliyor.
+
+================================================================================
+

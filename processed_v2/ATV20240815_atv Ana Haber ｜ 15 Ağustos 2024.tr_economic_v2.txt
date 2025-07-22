@@ -1,0 +1,29 @@
+# Economic Content from: ATV20240815_atv Ana Haber ｜ 15 Ağustos 2024.tr.txt
+# Processed: 2025-07-22T16:20:38.901764
+# Original: 5201 words → Filtered: 234 words (4.50% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 133
+**Retention**: 66.50%
+
+Peki geçen yıl ben bu ürünleri almak isteseydim ne kadara alırdım geçen yıl 1150 arasında değişebilirdi. Geçen yıl ne kadar tutmuştu alışverişleriniz ortalama 2 000 lira kadar falan değil. Yani bir öğrenciye belki 1000 lira ya da 1250 falan tutmuştur. Baktığımız zaman % 100'e yakın bir zam. Genel anlamda dükkanın kira oranları ve personellerin asgari ücret artış nedenleri bunlara ekleniyor. Emekli maaşlarına yapılan zamın ardından bankalar da promosyonlarını artırdı. Öyle ki 12 500 lira maaş alan bir emekliye 20 000 liraya kadar promosyon ödenebiliyor. Geçen sene 10 lira promosyon 22 000 en düşük emekli maaşı 12 500 oldu. Bankaların promosyon yarışı hızlandı; emekliye önerilen promosyon ücreti 20 000 lirayı aştı. Maaşa göre 5 000 lira ve 12 000 lira daha az promosyon verilemeyecek ama bankalar rekabet ortamında bunu 24 000 liraya kadar çıkartıyorlar.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 101
+**Retention**: 72.14%
+
+Emekli maaşlarına yönelik bankalar tarafından sunulan promosyonlar, 12,500 TL ile 15,000 TL arasında maaşı olan emekliler için 8,000 TL'den başlayarak, 15,000 TL ile 20,000 TL arasında maaşı olanlar için 22,000 TL'ye kadar çıkabiliyor. Bankalar, 20,000 TL'nin üzerinde maaşı olan emeklilere en yüksek 24,000 TL promosyon sunuyor. 
+
+Bu durum, emeklilerin bankalarını değiştirme kararlarını etkileyebilir. Halihazırda promosyon alan emeklilerin, yeni bir promosyon için maaşlarını başka bir bankaya taşıma süreci de önemli bir konu. Bir yıllık promosyon alan emekliler, bu promosyonu 3 yıl boyunca kullanma hakkına sahip. Eğer bir emekli, 6,000 TL promosyon aldıysa, bu durumda cayma hakkını kullanarak başka bir bankaya geçiş yapabilir.
+
+================================================================================
+

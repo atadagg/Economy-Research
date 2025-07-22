@@ -1,0 +1,71 @@
+{
+  "file_path": "news/TV100/20240614_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 14 Haziran 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T18:23:39.108039",
+  "original_word_count": 9307,
+  "filtered_word_count": 153,
+  "retention_ratio": 0.016439239282260664,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "Mutlu akşamlar değerli izleyenler...",
+      "description": "\"Mutlu akşamlar değerli izleyenler...\" - The presenter greets the viewers and introduces the program, indicating the start of the news broadcast.",
+      "end_pos": 98
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 98,
+      "start_sentence": "Bayram tatili o 9 günlük süreç...",
+      "description": "\"Bayram tatili o 9 günlük süreç...\" - The main content of the broadcast begins, focusing on the traffic situation in Istanbul and the effects of the holiday period, detailing the current traffic conditions and movements in the city.",
+      "end_pos": 1153
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 1153,
+      "start_sentence": "Bakın ben konuşurken dakikalar içerisinde...",
+      "description": "\"Bakın ben konuşurken dakikalar içerisinde...\" - A brief transition occurs as the presenter shifts focus to specific traffic conditions at the Fatih Sultan Mehmet Bridge, indicating a change in the topic within the news segment.",
+      "end_pos": 1643
+    },
+    {
+      "type": "5. **OUTRO**",
+      "start_pos": 1643,
+      "start_sentence": "Beni uyardılar...",
+      "description": "\"Beni uyardılar...\" - The closing remarks are made as the presenter wraps up the discussion on traffic and prepares to conclude the segment.",
+      "end_pos": 1739
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1739,
+      "start_sentence": "Evet arkama da hemen volede yansıttılar...",
+      "description": "\"Evet arkama da hemen volede yansıttılar...\" - The news segment continues with a visual update on the traffic situation, providing further details and observations about the current state of traffic in Istanbul.",
+      "end_pos": 66408
+    }
+  ],
+  "news_segments_count": 9,
+  "economic_segments_count": 2,
+  "economic_segments": [
+    {
+      "segment_id": "98_0",
+      "method": "pattern_validated",
+      "confidence": 0.75,
+      "original_length": 103,
+      "filtered_length": 73,
+      "retention_ratio": 0.7087378640776699,
+      "section_description": "\"Bayram tatili o 9 günlük süreç...\" - The main content of the broadcast begins, focusing on the traffic situation in Istanbul and the effects of the holiday period, detailing the current traffic conditions and movements in the city."
+    },
+    {
+      "segment_id": "1739_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 72,
+      "filtered_length": 80,
+      "retention_ratio": 1.1111111111111112,
+      "section_description": "\"Evet arkama da hemen volede yansıttılar...\" - The news segment continues with a visual update on the traffic situation, providing further details and observations about the current state of traffic in Istanbul."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

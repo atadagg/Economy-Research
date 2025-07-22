@@ -1,0 +1,43 @@
+# Economic Content from: 20241007_Kübra Par ile tv100 Ana Haber ｜ 7 Ekim 2024.tr.txt
+# Processed: 2025-07-22T18:12:28.647261
+# Original: 12411 words → Filtered: 212 words (1.71% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 103
+**Retention**: 100.00%
+
+yoğun
+Gündem üzgün olacağımız kadar kötü kadınlar olarak Tedirgin Kimimiz akşam belli bir saatten sonra
+tek başımıza sokakta yürümekten korkuyoruz Kimimiz arkamızdan yaklaşan kişi elinde bir bıçakla
+saldıracak mı Ya da duvara sıkıştırıp Taciz mi etmeye çalışacak bilmiyoruz Hatta öyle bir hale
+geldik ki bazılarımız hayatımızı paylaştığımız erkeklere bile güvenmiyor sevgilimiz eşimiz
+arkadaşımız dediğimiz erkekler boğazımızı mı kesecek diye düşünmeden edemiyoruz Kimimiz başımıza
+kötü bir şey geldiğinde de susuyor Örneğin sokak ortasında taciz edildiğimiz de polise gitmeye
+çekiniyor e yıl dava uğraşacağız sürekli duruşmalar adres bilgilerimiz saldırganın avukatlarıyla
+paylaşılacak işin sonunda O belki hapse bile girmeyecek ama biz daha da çok Tedirgin olacağız
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_final
+**Confidence**: 0.50
+**Word Count**: 109
+**Retention**: 33.33%
+
+The filtered text focusing on economics, finance, and business is as follows:
+
+---
+
+İzmir Körfezi raporu ortada ortama arıtılmamış atık su girdisinin olduğu tespit edildi. Acil eylem planı için ilk etap tamamlandı; başta atık su altyapısının iyileştirilmesi kararı alındı. Arıtma tesislerinin çevre mevzuatına uygun olarak iyileştirilmesi, körfeze ulaşan derelerde rüsubat kontrolü ve temizlik çalışmalarının yapılması öncelikli olarak belirlenmiştir. İzmir Körfezi toplu balık ölümleri ve kirli görüntüsüyle çevre felaketini yaşadı. Bilim insanları 28 Ağustos ve 9 Eylül tarihlerinde Koca Piri Reis araştırma gemisi ile İzmir Körfezi'ne açıldı; belirlenen 11 noktada numuneler alındı. 
+
+---
+
+This version retains the economic context related to environmental policies and infrastructure improvements while removing unrelated content.
+
+================================================================================
+

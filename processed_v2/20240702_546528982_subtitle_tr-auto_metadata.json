@@ -1,0 +1,123 @@
+{
+  "file_path": "news/KanalD/20240702_546528982_subtitle_tr-auto.txt",
+  "processing_timestamp": "2025-07-22T17:13:02.914112",
+  "original_word_count": 4841,
+  "filtered_word_count": 767,
+  "retention_ratio": 0.15843833918611858,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "İyi akşamlar sevgili seyirciler...",
+      "description": "\"İyi akşamlar sevgili seyirciler...\" - The presenter introduces the program and welcomes viewers, indicating the start of the news broadcast.",
+      "end_pos": 95
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 95,
+      "start_sentence": "Bültenimize kabinedeki değişiklikle başlayacağız...",
+      "description": "\"Bültenimize kabinedeki değişiklikle başlayacağız...\" - This section contains the main news content, discussing changes in the cabinet, including new appointments and related events.",
+      "end_pos": 95
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 95,
+      "start_sentence": "İki yeni bakan devir teslim törenlerinin ardından mecliste yemin etti...",
+      "description": "\"İki yeni bakan devir teslim törenlerinin ardından mecliste yemin etti...\" - This continues the news segment, detailing the swearing-in of the new ministers and the topics discussed in their first cabinet meeting.",
+      "end_pos": 777
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 777,
+      "start_sentence": "Bir başka devir teslim töreni ise Çevre Şehircilik ve Eklim Değişikliği Bakanlığı’ndaydı...",
+      "description": "\"Bir başka devir teslim töreni ise Çevre Şehircilik ve Eklim Değişikliği Bakanlığı’ndaydı...\" - This brief transition introduces a new topic related to the cabinet changes, specifically focusing on the handover ceremony at the Ministry of Environment, Urbanization, and Climate Change.",
+      "end_pos": 1529
+    },
+    {
+      "type": "6. **OUTRO**",
+      "start_pos": 1529,
+      "start_sentence": "Ve kabine yeni bakanlarla ilk toplantısını yaptı...",
+      "description": "\"Ve kabine yeni bakanlarla ilk toplantısını yaptı...\" - This section wraps up the news stories, summarizing the cabinet's first meeting and its agenda, leading towards the conclusion of the broadcast.",
+      "end_pos": 1661
+    },
+    {
+      "type": "5. **NEWS**",
+      "start_pos": 1661,
+      "start_sentence": "Kayseri'deki taciz iddiası sonrası Türkiye'nin pek çok şehrinde çıkan olaylarla birlikte...",
+      "description": "\"Kayseri'deki taciz iddiası sonrası Türkiye'nin pek çok şehrinde çıkan olaylarla birlikte...\" - This part introduces another news story regarding incidents in various cities following an allegation, indicating ongoing national issues.",
+      "end_pos": 35786
+    }
+  ],
+  "news_segments_count": 27,
+  "economic_segments_count": 7,
+  "economic_segments": [
+    {
+      "segment_id": "1661_0",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 162,
+      "filtered_length": 63,
+      "retention_ratio": 0.3888888888888889,
+      "section_description": "\"Kayseri'deki taciz iddiası sonrası Türkiye'nin pek çok şehrinde çıkan olaylarla birlikte...\" - This part introduces another news story regarding incidents in various cities following an allegation, indicating ongoing national issues."
+    },
+    {
+      "segment_id": "1661_6",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 195,
+      "filtered_length": 70,
+      "retention_ratio": 0.358974358974359,
+      "section_description": "\"Kayseri'deki taciz iddiası sonrası Türkiye'nin pek çok şehrinde çıkan olaylarla birlikte...\" - This part introduces another news story regarding incidents in various cities following an allegation, indicating ongoing national issues."
+    },
+    {
+      "segment_id": "1661_7",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 199,
+      "filtered_length": 88,
+      "retention_ratio": 0.44221105527638194,
+      "section_description": "\"Kayseri'deki taciz iddiası sonrası Türkiye'nin pek çok şehrinde çıkan olaylarla birlikte...\" - This part introduces another news story regarding incidents in various cities following an allegation, indicating ongoing national issues."
+    },
+    {
+      "segment_id": "1661_11",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 196,
+      "filtered_length": 75,
+      "retention_ratio": 0.3826530612244898,
+      "section_description": "\"Kayseri'deki taciz iddiası sonrası Türkiye'nin pek çok şehrinde çıkan olaylarla birlikte...\" - This part introduces another news story regarding incidents in various cities following an allegation, indicating ongoing national issues."
+    },
+    {
+      "segment_id": "1661_15",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 194,
+      "filtered_length": 177,
+      "retention_ratio": 0.9123711340206185,
+      "section_description": "\"Kayseri'deki taciz iddiası sonrası Türkiye'nin pek çok şehrinde çıkan olaylarla birlikte...\" - This part introduces another news story regarding incidents in various cities following an allegation, indicating ongoing national issues."
+    },
+    {
+      "segment_id": "1661_16",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 197,
+      "filtered_length": 197,
+      "retention_ratio": 1.0,
+      "section_description": "\"Kayseri'deki taciz iddiası sonrası Türkiye'nin pek çok şehrinde çıkan olaylarla birlikte...\" - This part introduces another news story regarding incidents in various cities following an allegation, indicating ongoing national issues."
+    },
+    {
+      "segment_id": "1661_20",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 196,
+      "filtered_length": 97,
+      "retention_ratio": 0.49489795918367346,
+      "section_description": "\"Kayseri'deki taciz iddiası sonrası Türkiye'nin pek çok şehrinde çıkan olaylarla birlikte...\" - This part introduces another news story regarding incidents in various cities following an allegation, indicating ongoing national issues."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

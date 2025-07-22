@@ -1,0 +1,35 @@
+# Economic Content from: ATV20240625_atv Ana Haber ｜ 25 Haziran 2024.tr.txt
+# Processed: 2025-07-22T16:26:26.046895
+# Original: 4672 words → Filtered: 183 words (3.92% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 112
+**Retention**: 100.00%
+
+000 L gönderen Keskin hiç beklemediği bir tepkiyle
+karşılaştı 10 000 gönderim şimdi hepsini gönder diyor sakaı gönderiyorsun diyor dolandırıcılar
+10 000 lirayı az buldu Saka mı gönderi tam istedi buı abi dolandırıcılar Antalya'da yaşayan Mehmet
+Keskin polisiz diye aradı kimlik bilgilerinin çalındığını söyledi abi i yer arı Pol kimlikler
+kopyalamışlar o sırada dolandırıcılarla konuşan Mehmet Keskin arayan kızı şü ığını düşünerek Polise
+haber verdi üzerinize hat çıkarmışlar ailenizin bütün şeylerini kopyalamışlar İş yerinden izin al
+gel bankada paranı işte gönder dolandırıcılara inanan Keskin ilk etapta 10 000 L gönderdi ama
+dolandırıcılar sadaka mı gönderiyorsun diyerek bütün parasını istedi hesabındaki paranın tamamını
+gönderiyordu ki son anda polis engelledi kaç para göndermiştin 10
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 71
+**Retention**: 54.20%
+
+Ekonomik veriler ve istatistikler, taşınma süreçlerinde maliyetlerin artmasına neden oluyor. Taşınma ücretleri, eşyaların sayısı ve kat yüksekliğine göre değişiklik gösteriyor. Uzmanlar, ev taşıma süreçlerinde mutlaka taşıma sözleşmesi yapılması gerektiğini vurguluyor. Bu durum, hem mal sahipleri hem de taşımacılar arasında yaşanan sorunları azaltabilir. Yaz aylarının gelmesiyle birlikte ev taşıyanların sayısında ciddi bir artış gözlemleniyor. Şehir içindeki taşınma ücretleri 50.000 liraya kadar çıkabiliyor. Bu fiyat aralıkları, taşınma sürecinin maliyetini etkileyen önemli bir faktör.
+
+================================================================================
+

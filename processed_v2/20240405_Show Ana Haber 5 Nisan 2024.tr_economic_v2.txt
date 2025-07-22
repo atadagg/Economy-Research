@@ -1,0 +1,42 @@
+# Economic Content from: 20240405_Show Ana Haber 5 Nisan 2024.tr.txt
+# Processed: 2025-07-22T17:19:23.421029
+# Original: 2995 words → Filtered: 296 words (9.88% retention)
+# Economic segments: 3
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 130
+**Retention**: 65.00%
+
+Milyonlarca emeklinin gözü kulağı banka promosyonlarında. Kamu bankalarının promosyon miktarını 12 bin liraya çıkardığı bildirildi. Bu durum, emeklilerin alım güçlerini artırmayı hedefliyor. Ayrıca, emeklilere yönelik yapılan bu promosyon artışı, bankalar arasındaki rekabeti de artıracak gibi görünüyor. Ekonomik veriler, emeklilerin harcama gücünün yükselmesiyle birlikte, tüketim harcamalarında bir artış olabileceğini gösteriyor. 
+
+Son dönemde enflasyon oranlarının yükselmesi, özellikle gıda fiyatlarında ciddi artışlara neden oldu. Bu durum, hanelerin bütçelerini zorlamaya devam ediyor. Uzmanlar, enflasyonun kontrol altına alınması için hükümetin daha sıkı mali politikalar uygulaması gerektiğini vurguluyor. Ayrıca, döviz kurlarındaki dalgalanmalar, ithalat maliyetlerini artırarak, genel fiyat seviyelerini etkiliyor. 
+
+Bunların yanı sıra, Türkiye'nin dış ticaret verileri de dikkat çekici. İhracatın artması, ekonomik büyümeye olumlu katkı sağlarken, ithalatın yüksek seyri cari açığı artırma riski taşıyor. Ekonomik analizler, bu dengenin sağlanması için stratejik adımlar atılması gerektiğini ortaya koyuyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 92
+**Retention**: 51.40%
+
+Bazı özel bankalar promosyonları 20,000 L seviyesine yükseltti. Kamu bankalarından sonra özel bankalar da promosyon yarışına girdi; pek çok banka tarifesinde değişikliğe gitti. Devlet bankalarında olan promosyon miktarı 12,000 lirayken, özel bankalarda bu rakam 20,000 liraya kadar çıkmış durumda. Geçtiğimiz günlerde kamu bankaları promosyon miktarını güncellemiş, yeni promosyonlar da 28 Mart'tan itibaren hesaplara yatmaya başlamıştı. Emeklilere, 3 yıl boyunca aynı bankadan maaş alanlara promosyon veriliyor; emekli, isterse aynı bankada promosyon güncellemesi yaparak devam edebiliyor. Promosyonda miktar, otomatik ödeme talimatı verilmesi veya kredi kartından her ay belli bir harcama yapma sözü verilmesiyle yükselebiliyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 74
+**Retention**: 72.55%
+
+Ekonomik tatil yapmak isteyen yurtiçi tatilciler özellikle kültür turlarına yoğun ilgi gösterdiler. Kapadokya turuna katılmak isteyen bir aile, iki gece üç günlük Kapadokya turu için 3500 liradan başlayan fiyatlarla bayram döneminde tur yapabiliyor. Eğer Avrupa ülkelerini gezmek isterseniz, fiyatlar biraz yüksek; İtalya turları için 21 000 liradan başlayan fiyatlarla üç gece dört günlük turlara katılabilirler. Fransa turlarına gitmek isteyen tatilciler de benzer fiyatlarla karşılaşacaklar. Bu fiyatlar, turizm sektöründeki talep ve ekonomik koşullarla doğrudan bağlantılı.
+
+================================================================================
+

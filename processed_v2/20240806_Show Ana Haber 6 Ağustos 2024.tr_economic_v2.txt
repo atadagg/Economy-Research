@@ -1,0 +1,34 @@
+# Economic Content from: 20240806_Show Ana Haber 6 Ağustos 2024.tr.txt
+# Processed: 2025-07-22T17:19:58.349964
+# Original: 2860 words → Filtered: 206 words (7.20% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 92
+**Retention**: 100.00%
+
+divanına teslim edecektir Türkiye resmi başvurusunu Yarın yapıyor lahey'deki soykırım davasına
+müdahil oluyor o adım kabine toplantısında da öncelikli başlıktır Türkiye Varlık yokluk mücadelesi
+verdiği bu zor günlerinde Filistin'in yanında fli kardeşlerine sahip çıkmaktadır Cumhurbaşkanı
+Erdoğan İsrail Dışişleri bakanının Türkiye'yi hedef alan sözlerine de tepki gösterdi klavye
+soytarılığı özenenlere şunu söylemek isterim Bayrağımıza ve bağımsızlığımıza dil uzatan sosyal medya
+şarlatanların rahatsız etmeyi sürdüreceğiz ekonomideki gelişmeleri rakamlarla anlattı Temmuz ayı
+enflasyona dikkat ümitlerimiz arttı dedi sene sonunda enflasyonu hedeflerimizle uyumlu oranlara
+mutlaka indireceğiz amacımız enflasyonu düşürerek kalıcı refah artışını sağlamaktır ciddi aşama K
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_final
+**Confidence**: 0.50
+**Word Count**: 114
+**Retention**: 79.17%
+
+Türkiye'nin birçok noktasında başgösteren konut sıkıntısı artarak devam ediyor. Uzmanlar, faiş kiralara karşı tavan ve taban fiyat uygulamasının bir an önce hayata geçmesi gerektiğini vurguluyor. Taban fiyatın semtine göre değişmesi, sınıfsal bir ayrılığa yol açmış oldu. Bu şekilde bir düzenleme yapılırsa hem ev sahibini hem de kiracıları korumuş olur. Bölgesel kira artışı önerisine göre Türkiye'deki her ilçenin enflasyonu kendi içinde hesaplanacak. Bu hesaplamaya göre de tavan ve taban fiyatı uygulaması belirlenecek. Belki bu, bir ilaç olabilir. Avrupa'da bölgesel fiyat uygulaması bazı ülkelerde var. Türkiye'de ise tavan ve tabanın hayata geçmesini isteyen kiracı da var, istemeyen de. Bu uygulama, ilçelerde ve evlerde sınırlama getirebilir ve bu durum ekonomik denge açısından çok daha iyi sonuçlar doğurabilir.
+
+================================================================================
+

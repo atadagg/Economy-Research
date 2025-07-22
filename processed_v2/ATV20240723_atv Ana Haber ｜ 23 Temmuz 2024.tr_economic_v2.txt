@@ -1,0 +1,45 @@
+# Economic Content from: ATV20240723_atv Ana Haber ｜ 23 Temmuz 2024.tr.txt
+# Processed: 2025-07-22T15:59:46.958608
+# Original: 4725 words → Filtered: 274 words (5.80% retention)
+# Economic segments: 3
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 100
+**Retention**: 100.00%
+
+000 TL olarak 7 seferde 100 000 TL şeklinde hiç tanımadığın bilmediğin insanların hesabına
+havale edilmiş gözüküyor krediyi çekiyorlar Ondan sonra bir hesaba EFT ediyorlar Bir gece ansızın
+hesaplarından krediler çekildi Ne onay kodu ne de bildirim geldi Her şeyi siz yapmışsınız diyor ama
+benim hiçbir şeyden haberim yok uyandıklarında İsa artık çok geçti 100 000 Kredi 50 000 artı para
+iznimiz onayım olmadan tanımadığımız kişilere EFT yapılmış özel bir bankanın müşterileri son
+günlerde aynı şikayetle çaldı savcılığın kapısını toplamda 5595 mağduriyetim oluştu Kredi kullanıldı
+para transferleri yapıldığı 5 ayın 10'unda gece saat 2 30'da hesabıma girilmiş mobil hesabıma
+275
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 55
+**Retention**: 100.00%
+
+İstanbul'da bulunan bir özel üniversite geçen yıl eğitim ücreti için 530.000 TL istemişken, bu yeni dönem için eğitim ücretine faiş zam yaparak 1.750.000 TL ücret talep ediyor. Ankara'da bulunan bir başka özel üniversite ise geçen yıl eğitim ücreti 310.000 TL iken, şimdi 620.000 TL talep ediyor. Bu artışlar, eğitim sektöründeki maliyetlerin ve enflasyonun etkilerini yansıtıyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 119
+**Retention**: 46.48%
+
+Üniversitelerin fiyat artışları, TÜİK'in açıkladığı enflasyonun üzerinde gerçekleşiyor. YÖK başkanı, vakıf üniversitelerine enflasyon üzerinde zam yapılmaması için bir tavsiyede bulunmuştur. İkinci el araçların fiyatları, sıfır araç fiyatlarını geçtiği dönemler yaşandı, özellikle pandemide etkileri uzun süre devam etti. Ancak son bir yıldır fiyatlarda büyük bir düşüş söz konusu. İkinci el piyasasındaki son durumu araştıran arkadaşlarımız, şu anda tam alım fırsatı olduğunu düşünüyor. İkinci elde fiyatlar çakıldı ve galericiler son 5 yılın en düşük satışını yaşıyor. Geçen seneye göre bu sene, krediye ulaşmanın zorluğu ve yüksek kredi faizleri, ikinci el piyasasının durgunluğuna sebep oluyor. Geçtiğimiz yıla göre fiyatlar düşerken, galericiler eski kazançlarını sağlayamıyor. Galericiler, alım fırsatının devam edeceğini belirtiyor. Fiyatların düştüğü söyleniyor ve bu durumun bir ay daha devam etmesi bekleniyor.
+
+================================================================================
+

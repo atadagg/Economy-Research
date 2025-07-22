@@ -1,0 +1,140 @@
+# Economic Content from: 20240710_Oya Çebi ile TV100 Ana Haber ｜ 10 Temmuz 2024.tr.txt
+# Processed: 2025-07-22T18:39:20.822600
+# Original: 10135 words → Filtered: 1104 words (10.89% retention)
+# Economic segments: 11
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 107
+**Retention**: 64.46%
+
+En düşük emekli aylığının artırılması masaya yatırılacak ve konuşulan tutarlar var. En az 12,000 lira olması gündemde. Bu da merak konusu. Uzman konuğumuzla birlikte uzun uzadıya yorumlayacağız. Çalışma devam ediyor, herhangi bir karar verilmiş değil. Yüz binler gözünü Ankara'ya çevirdi. Beştepe kritik zirveye ev sahipliği yapacak. Cumhurbaşkanı yardımcısı Cevdet Yılmaz, Hazine ve Maliye Bakanı Mehmet Şimşek, AK Parti Genel Başkan Vekili Mustafa Elitaş ile AK Parti grup başkan vekili Abdullah Güler bir araya gelecek. Masada en düşük emekli aylığının artırılması var. Toplantıda bütçe imkanları ele alınacak, bakanlıklardan gelen etki analizleri ve raporlar görüşülecek. En düşük emekli maaşına yapılacak artış belli olacak. Bu çalışma bu şekilde devam edecek.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 103
+**Retention**: 51.76%
+
+Türkiye İstatistik Kurumu verilerine göre 6 aylık enflasyon % 24,75 oldu. SSK ve Bağkur emeklileri aylıklarına bu oranda zam aldı. Emekli Sandığı emeklisi de toplu sözleşme kapsamında % 19,31 zamdan faydalandı. Ancak kök maaşı 8.000 Lira ve altında kalan 1.780.000 emekli, söz konusu artışa rağmen en düşük aylık olan 10.000 liranın altında kaldı. Düzenleme ile bu mağduriyetlerin giderilmesi amaçlanıyor. 
+
+Ekonomi yönetimi son kararını artık verecek. Yarın bir araya gelecek olan Hazine ve Maliye Bakanı Mehmet Şimşek, Cumhurbaşkanı yardımcısı Cevdet Yılmaz, Parti Genel Başkan Vekili Mustafa Elitaş ve AK Parti grup başkan vekili Abdullah Güler'in toplantısı, özellikle emekliler için önemli bir gelişme olarak değerlendiriliyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 74
+**Retention**: 51.39%
+
+Emekliler için ekonomik durum oldukça zorlayıcı hale geldi. Büyük şehirlerde bile kira fiyatları, emeklilerin geçimlerini sağlamada yetersiz kalıyor. 2024 yılı için memur ve memur emeklilerine yılda iki defa zam yapılması planlanıyor; bu zamlar Ocak ve Temmuz aylarında gerçekleşecek. 2024'te memur ve SSK emeklilerine verilecek maaş farkları belirlenmiş durumda. Memur ve memur emeklilerinin maaşları, %24,7 oranında bir artışla güncellenecek. Bu artış, toplu sözleşme çerçevesinde değerlendiriliyor ve emeklilerin alacakları ek ödemelerle birlikte toplamda 10,017 TL'ye ulaşacak.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 108
+**Retention**: 67.08%
+
+Dolayısıyla bu da sıfır zam alma riskini ortaya çıkarmış oldu. Bununla alakalı hükümet kanadı özellikle ekonomi ile ilgili olan bakanlıklar, keza Çalışma Bakanlığı, bir toplantı düzenlenmesi söz konusu. Buradan çıkacak olan kararda iki tane alternatif konuşuluyor. Buradaki alternatiflere bakılınca bir tanesi 11,500, 12,000 ve 12,500 lira; diğeri ise 12,000, 12,500 ve 13,000 lira. Bunların olası görüyorsunuz. Kamuoyuna sızan haberlerde 12,000 ile çıktı ama minimum 12,500 lira olması gerektiğini düşünüyorum. Neden 12,500? Çünkü %24,7 enflasyon verisi varsa minimum 10,000 liraya da %25'lik bir fark gelmesi lazım. Geçen Ocak döneminde bu şekilde olmamıştı; o dönemde %37,57'lik bir enflasyon verisi açıklanmıştı. O zaman da taban aylık 7,500 liraydı, 10,000 lira yükseltildi.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 93
+**Retention**: 47.21%
+
+Eee ilave fark elde etmişti. Umarım bu dönem minimum % 25 olur. Oya Çebi, açlık sınırının 19 000 civarında olduğu bir durumdan bahsediyoruz. 10 000 - 12 000 civarı yeterli olmayacaktır ama en azından bir nevi yaralara merhem olacaktır diye düşünüyoruz. Şunu da merak ediyorum, 12 500 gibi rakamlar telaffuz ediliyor ama tüm emeklileri kapsar mı acaba? Sadece kök maaşı 10 000 liranın altında olanlar mı bundan yararlanır? Geçmiş döneme bakıldığı zaman, SSK Bağkur emeklisi ile E memur emeklisinin maaşları eşitlenmişti. Memurlarımıza herhangi bir düzenleme yapılmamıştı çünkü onlara 8077'lik seyyanen bir zam verilmişti.
+
+================================================================================
+
+## Economic Segment 6
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 118
+**Retention**: 64.48%
+
+Ekonomik veriler ve istatistikler incelendiğinde, emekli maaşları ile ilgili önemli bir durum ortaya çıkmaktadır. Emekli maaşlarının sürekli tabanla iyileştirilmesi, maaş adaletinde sıkıntılara yol açabilir. Özellikle 3600 gün üzerinden emekli olanlar ile 99,000 gün prim ödemiş Bağkur emeklileri aynı maaşı alırken, mevcut kök aylıklar arasında büyük farklılıklar bulunmaktadır. Örneğin, Bağkur tarım emeklisi 4,000 lira olan kök aylıkla karşılaştırıldığında, 5,500 lira olan asgari ücret üzerinden ödenen primlerle daha yüksek bir maaş alabilmektedir. 
+
+Bu durum, emekli maaşlarının 10,000 liraya tamamlanması ve sonrasında 12,000 liraya çıkarılması gibi müdahalelerle daha da karmaşık hale gelebilir. İlk başta 10,000 liranın altında 3,800,000 emekli bulunurken, 1,780,000 kişinin de %24 zam alma durumu söz konusudur. Bu tür ekonomik düzenlemelerin, emeklilerin yaşam standartları üzerinde önemli etkileri olacağı öngörülmektedir.
+
+================================================================================
+
+## Economic Segment 7
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 47
+**Retention**: 51.65%
+
+2008 yılında söz konusu değişiklikler olsaydı, TÜİK'in verileriyle bugün en düşük emekli maaşı 32,000 Lira civarında olacaktı. Kadın Kolları Başkanlığı da konuyla ilgili bir rapor hazırladı ve o rapordaki başlıklardan biri doğum parasının güncellenmesi. Bu durum, ekonomik koşullar ve ailelerin mali durumu üzerinde önemli bir etki yaratabilir.
+
+================================================================================
+
+## Economic Segment 8
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 142
+**Retention**: 57.26%
+
+İstanbul'da güzel bir kahvaltı yapmanın tek kişilik maliyeti ortalama 500 liradan başlıyor. Kahvaltıda semtlere göre fiyatlar da değişiyor. Örneğin, şu anda Mecidiyeköy'de bir mekanda ikişilik kahvaltı 750 lirayken, 4 kişi olduğunuzda fiyat 1400 liranın üzerine çıkıyor. Bu ücrete dahil sınırsız şey var; istediğiniz kadar içebilirsiniz. Deniz manzaralı mekanlarda fiyatlar biraz daha artıyor. İki kişilik serpme kahvaltının tek kişilik fiyatı 620 lira, iki kişi olduğunuzda fiyat 1200 lira oluyor. Buna sınırsız çay da dahil. Ayrıca, bir de sucuk tava istendiğinde ek olarak 250 lira daha ödenmesi gerekiyor. Yanına 4 tane pişi istenirse, o zaman 110 lira daha ekleniyor. Sadece menemen istediğinizde ise ortalama 200 lira ödemeniz gerekiyor. Kuş sütü eksik kahvaltılar yerini çay ve simite bıraktığında, ödeyeceğiniz rakam 30 lira çay, 15 lira simit, 15 lira oluyor. Ancak bu seyyar satıcı fiyatları fırınlarda çikolatalı ya da kaşarlı simitin fiyatı 50 liraya kadar çıkabiliyor.
+
+================================================================================
+
+## Economic Segment 9
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 60
+**Retention**: 43.17%
+
+Maliyetlerimiz çok yükseliyor ve her hafta değişen fiyatlar var. Bir sene önce aldığımız malzemeyi şu anda %300 ile alıyoruz; maliyetler arttığı için bunu mecburen fiyatlara yansıtıyoruz. Bunu fiyatlara yansıtırken minimumda tutmaya çalışıyoruz. Emeklilik hakkı kazanıp hala bekleyenler için 2024 yerine 2025 yılında emekli olursanız emekli maaşınız daha az olacak. 2024'te emekli olmak neden daha avantajlı, bu konuda uzman görüşleri önemli.
+
+================================================================================
+
+## Economic Segment 10
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 113
+**Retention**: 57.36%
+
+2024 yılında emekli aylığı hesaplanırken prim ödenen gün sayısı büyük önem taşıyor. Talep dilekçesinin verilme zamanı da aylığın miktarını değiştiriyor. 2024'te emekli olmayı planlayanlar için, emekli maaşları enflasyonla birlikte seyyanen zamla birlikte artacak. 2024'te başvuran bir kişinin aylığı 20,000 L olarak hesaplandığında, bu aylığa Ocak ayında %49.5 oranında bir zam yapılmıştı. Eğer ilave bir şey gelmezse, Temmuz ayında %24.7 oranında bir artış daha sağlanacak. Kümülatif olarak toplamda %6 oranında bir zam yapılmış oluyor. Öte yandan, emeklilik yılındaki ekonomik göstergeler de tüm rakamları etkiliyor. Hedeflere göre 2025 yılında enflasyonun düşmesi bekleniyor, bu da emekli maaşlarını etkileyecek. 2024'te emekli olursanız alacağınız aylık 37,231 L olacakken, 2025'te emekli olursanız alacağınız aylık ise 28,000 L olarak hesaplanıyor.
+
+================================================================================
+
+## Economic Segment 11
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 139
+**Retention**: 100.00%
+
+840410 fatih' de yabancı
+uyruklu iki kişi bir iş yeri sahibini dolandırmak için ancak filmlerde olacak bir plan yaptı Son ana
+kadar Aslında her şey istedikleri gibi gitti diyebiliriz ancak hesaba katmadıkları bir nokta onları
+ele verdi şimdi Neydi o nokta diye merak ediyorsunuz o ilginç olayın detaylarını TV1 özel haber
+ekibinden Yunus Emre Şeker'in haberinde izliyoruz bu kadarı şeytanın bile aklına gelmez dedirtecek
+cinsten bir plan aksiyon sahnelerini aratmayan bir kovalamaca amaçları işyeri sahibinin 125 000
+dolarını dolandırıp kaçmaktı ama olmadı çevredeki vatandaşlar yakaladı polise teslim etti İstanbul
+Fatih'te yaşandı olay yabancı uyruklu bir kişi para transfer merkezine gitti 125 000 dolarlık Kripto
+varlık almak istediğini söyledi İş yeri sahibi AG ile anlaştı para yanımda değil gidip alayım deyip
+oradan ayrıldı ve suç ortağıyla oturup konuştu şeytanın bile aklına gelmeyecek o planı yaptı bir
+çanta alıp içine 125
+
+================================================================================
+

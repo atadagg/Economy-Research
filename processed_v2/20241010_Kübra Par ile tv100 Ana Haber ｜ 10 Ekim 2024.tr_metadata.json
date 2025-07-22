@@ -1,0 +1,94 @@
+{
+  "file_path": "news/TV100/20241010_Kübra Par ile tv100 Ana Haber ｜ 10 Ekim 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T18:33:50.575511",
+  "original_word_count": 8429,
+  "filtered_word_count": 282,
+  "retention_ratio": 0.03345592596986594,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "TV1 ekranlarından Herkese iyi akşamlar ben Kübra Par bir ana habere daha başlıyoruz...",
+      "description": "\"TV1 ekranlarından Herkese iyi akşamlar ben Kübra Par bir ana habere daha başlıyoruz...\" - The presenter introduces herself and the program, setting the stage for the news broadcast.",
+      "end_pos": 96
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 96,
+      "start_sentence": "Efendim Şimdi cezasızlık konuşuyoruz günlerdir köftelerin içine domuz eti karıştıranlar...",
+      "description": "\"Efendim Şimdi cezasızlık konuşuyoruz günlerdir köftelerin içine domuz eti karıştıranlar...\" - This section contains the main news content, discussing various topics such as crime, education, and societal issues in Turkey.",
+      "end_pos": 491
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 491,
+      "start_sentence": "öte yandan bir de eğitimsizliği daha doğrusu eğitime katılamayan çocukları konuşuyoruz...",
+      "description": "\"öte yandan bir de eğitimsizliği daha doğrusu eğitime katılamayan çocukları konuşuyoruz...\" - A brief transition that shifts the focus from one news topic (crime) to another (education), indicating a change in the subject matter.",
+      "end_pos": 590
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 590,
+      "start_sentence": "Geçen hafta özel haberler yapmıştık 13 yaşında bir çocuğumuz hatırlayın fırında çalışırken kolunu makineye kaptırdı...",
+      "description": "\"Geçen hafta özel haberler yapmıştık 13 yaşında bir çocuğumuz hatırlayın fırında çalışırken kolunu makineye kaptırdı...\" - Continuation of the news content, detailing specific incidents related to education and child welfare.",
+      "end_pos": 1287
+    },
+    {
+      "type": "5. **TRANSITION**",
+      "start_pos": 1287,
+      "start_sentence": "Bir Bakışta eğitim raporuna göre Türkiye'de her ü gençten biri ne okulda ne de işte...",
+      "description": "\"Bir Bakışta eğitim raporuna göre Türkiye'de her ü gençten biri ne okulda ne de işte...\" - Another transition that introduces a new aspect of the education issue, referencing a report and statistics.",
+      "end_pos": 1386
+    },
+    {
+      "type": "6. **NEWS**",
+      "start_pos": 1386,
+      "start_sentence": "Aslında hani bu eğitimsizlik le cezasızlık iki ayrı şeymiş gibi günlerdir konuşuyoruz ya...",
+      "description": "\"Aslında hani bu eğitimsizlik le cezasızlık iki ayrı şeymiş gibi günlerdir konuşuyoruz ya...\" - Further elaboration on the connection between education and crime, continuing the news discussion.",
+      "end_pos": 1780
+    },
+    {
+      "type": "7. **OUTRO**",
+      "start_pos": 1780,
+      "start_sentence": "işte bunu düşündüğümüz için yeni bir bugünkü Hashtag imiz az eğitim Eee çok suç...",
+      "description": "\"işte bunu düşündüğümüz için yeni bir bugünkü Hashtag imiz az eğitim Eee çok suç...\" - The closing remarks that summarize the discussion and introduce a hashtag related to the topics covered.",
+      "end_pos": 59826
+    }
+  ],
+  "news_segments_count": 8,
+  "economic_segments_count": 3,
+  "economic_segments": [
+    {
+      "segment_id": "96_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 53,
+      "filtered_length": 53,
+      "retention_ratio": 1.0,
+      "section_description": "\"Efendim Şimdi cezasızlık konuşuyoruz günlerdir köftelerin içine domuz eti karıştıranlar...\" - This section contains the main news content, discussing various topics such as crime, education, and societal issues in Turkey."
+    },
+    {
+      "segment_id": "1780_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 235,
+      "filtered_length": 164,
+      "retention_ratio": 0.6978723404255319,
+      "section_description": "\"işte bunu düşündüğümüz için yeni bir bugünkü Hashtag imiz az eğitim Eee çok suç...\" - The closing remarks that summarize the discussion and introduce a hashtag related to the topics covered."
+    },
+    {
+      "segment_id": "1780_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 122,
+      "filtered_length": 65,
+      "retention_ratio": 0.5327868852459017,
+      "section_description": "\"işte bunu düşündüğümüz için yeni bir bugünkü Hashtag imiz az eğitim Eee çok suç...\" - The closing remarks that summarize the discussion and introduce a hashtag related to the topics covered."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "file_path": "news/KanalD/20240628_546097036_subtitle_tr-auto.txt",
+  "processing_timestamp": "2025-07-22T17:06:09.797961",
+  "original_word_count": 5064,
+  "filtered_word_count": 888,
+  "retention_ratio": 0.17535545023696683,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "İyi akşamlar sevgili seyirciler...",
+      "description": "\"İyi akşamlar sevgili seyirciler...\" - The presenter welcomes viewers to the news program and introduces themselves, marking the start of the broadcast.",
+      "end_pos": 0
+    },
+    {
+      "type": "- **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "İyi akşamlar sevgili seyirciler...",
+      "description": "\"İyi akşamlar sevgili seyirciler...\" - The presenter welcomes viewers to the news program and introduces themselves, marking the start of the broadcast.",
+      "end_pos": 13
+    },
+    {
+      "type": "5. **OUTRO**",
+      "start_pos": 13,
+      "start_sentence": "Sevgili seyirciler...",
+      "description": "\"Sevgili seyirciler...\" - The closing remarks of the program, where the presenter wraps up the news and bids farewell to the viewers.",
+      "end_pos": 13
+    },
+    {
+      "type": "- **OUTRO**",
+      "start_pos": 13,
+      "start_sentence": "Sevgili seyirciler...",
+      "description": "\"Sevgili seyirciler...\" - The closing remarks of the program, where the presenter wraps up the news and bids farewell to the viewers.",
+      "end_pos": 99
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 99,
+      "start_sentence": "Türkiye terörizmin finansmanı ve kara paranın aklanmasıyla mücadelede gereken adımları atarak...",
+      "description": "\"Türkiye terörizmin finansmanı ve kara paranın aklanmasıyla mücadelede gereken adımları atarak...\" - This section contains the main news content, discussing Turkey's removal from the grey list by the Financial Action Task Force and its implications for the economy, including statements from the Minister of Finance.",
+      "end_pos": 99
+    },
+    {
+      "type": "- **NEWS**",
+      "start_pos": 99,
+      "start_sentence": "Türkiye terörizmin finansmanı ve kara paranın aklanmasıyla mücadelede gereken adımları atarak...",
+      "description": "\"Türkiye terörizmin finansmanı ve kara paranın aklanmasıyla mücadelede gereken adımları atarak...\" - This section contains the main news content, discussing Turkey's removal from the grey list by the Financial Action Task Force and its implications for the economy, including statements from the Minister of Finance.",
+      "end_pos": 388
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 388,
+      "start_sentence": "Peki gri listeden çıkış ne anlama geliyor...",
+      "description": "\"Peki gri listeden çıkış ne anlama geliyor...\" - This brief transition introduces a new aspect of the news story, shifting focus to the implications of Turkey's removal from the grey list.",
+      "end_pos": 388
+    },
+    {
+      "type": "- **TRANSITION**",
+      "start_pos": 388,
+      "start_sentence": "Peki gri listeden çıkış ne anlama geliyor...",
+      "description": "\"Peki gri listeden çıkış ne anlama geliyor...\" - This brief transition introduces a new aspect of the news story, shifting focus to the implications of Turkey's removal from the grey list.",
+      "end_pos": 1749
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1749,
+      "start_sentence": "Cumhurbaşkanı Erdoğan Suriye ile ilişkilerde normalleşme sinyali verdi...",
+      "description": "\"Cumhurbaşkanı Erdoğan Suriye ile ilişkilerde normalleşme sinyali verdi...\" - This section continues with another news story about President Erdoğan signaling normalization in relations with Syria, indicating a shift to a different topic.",
+      "end_pos": 1749
+    },
+    {
+      "type": "- **NEWS**",
+      "start_pos": 1749,
+      "start_sentence": "Cumhurbaşkanı Erdoğan Suriye ile ilişkilerde normalleşme sinyali verdi...",
+      "description": "\"Cumhurbaşkanı Erdoğan Suriye ile ilişkilerde normalleşme sinyali verdi...\" - This section continues with another news story about President Erdoğan signaling normalization in relations with Syria, indicating a shift to a different topic.",
+      "end_pos": 37463
+    }
+  ],
+  "news_segments_count": 28,
+  "economic_segments_count": 10,
+  "economic_segments": [
+    {
+      "segment_id": "388_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 181,
+      "filtered_length": 114,
+      "retention_ratio": 0.6298342541436464,
+      "section_description": "\"Peki gri listeden çıkış ne anlama geliyor...\" - This brief transition introduces a new aspect of the news story, shifting focus to the implications of Turkey's removal from the grey list."
+    },
+    {
+      "segment_id": "1749_0",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 188,
+      "filtered_length": 69,
+      "retention_ratio": 0.3670212765957447,
+      "section_description": "\"Cumhurbaşkanı Erdoğan Suriye ile ilişkilerde normalleşme sinyali verdi...\" - This section continues with another news story about President Erdoğan signaling normalization in relations with Syria, indicating a shift to a different topic."
+    },
+    {
+      "segment_id": "1749_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 192,
+      "filtered_length": 109,
+      "retention_ratio": 0.5677083333333334,
+      "section_description": "\"Cumhurbaşkanı Erdoğan Suriye ile ilişkilerde normalleşme sinyali verdi...\" - This section continues with another news story about President Erdoğan signaling normalization in relations with Syria, indicating a shift to a different topic."
+    },
+    {
+      "segment_id": "1749_8",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 191,
+      "filtered_length": 75,
+      "retention_ratio": 0.39267015706806285,
+      "section_description": "\"Cumhurbaşkanı Erdoğan Suriye ile ilişkilerde normalleşme sinyali verdi...\" - This section continues with another news story about President Erdoğan signaling normalization in relations with Syria, indicating a shift to a different topic."
+    },
+    {
+      "segment_id": "1749_9",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 195,
+      "filtered_length": 64,
+      "retention_ratio": 0.3282051282051282,
+      "section_description": "\"Cumhurbaşkanı Erdoğan Suriye ile ilişkilerde normalleşme sinyali verdi...\" - This section continues with another news story about President Erdoğan signaling normalization in relations with Syria, indicating a shift to a different topic."
+    },
+    {
+      "segment_id": "1749_11",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 200,
+      "filtered_length": 82,
+      "retention_ratio": 0.41,
+      "section_description": "\"Cumhurbaşkanı Erdoğan Suriye ile ilişkilerde normalleşme sinyali verdi...\" - This section continues with another news story about President Erdoğan signaling normalization in relations with Syria, indicating a shift to a different topic."
+    },
+    {
+      "segment_id": "1749_18",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 198,
+      "filtered_length": 73,
+      "retention_ratio": 0.3686868686868687,
+      "section_description": "\"Cumhurbaşkanı Erdoğan Suriye ile ilişkilerde normalleşme sinyali verdi...\" - This section continues with another news story about President Erdoğan signaling normalization in relations with Syria, indicating a shift to a different topic."
+    },
+    {
+      "segment_id": "1749_19",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 140,
+      "filtered_length": 54,
+      "retention_ratio": 0.38571428571428573,
+      "section_description": "\"Cumhurbaşkanı Erdoğan Suriye ile ilişkilerde normalleşme sinyali verdi...\" - This section continues with another news story about President Erdoğan signaling normalization in relations with Syria, indicating a shift to a different topic."
+    },
+    {
+      "segment_id": "1749_20",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 194,
+      "filtered_length": 179,
+      "retention_ratio": 0.9226804123711341,
+      "section_description": "\"Cumhurbaşkanı Erdoğan Suriye ile ilişkilerde normalleşme sinyali verdi...\" - This section continues with another news story about President Erdoğan signaling normalization in relations with Syria, indicating a shift to a different topic."
+    },
+    {
+      "segment_id": "1749_26",
+      "method": "simple_final",
+      "confidence": 0.5,
+      "original_length": 163,
+      "filtered_length": 69,
+      "retention_ratio": 0.4233128834355828,
+      "section_description": "\"Cumhurbaşkanı Erdoğan Suriye ile ilişkilerde normalleşme sinyali verdi...\" - This section continues with another news story about President Erdoğan signaling normalization in relations with Syria, indicating a shift to a different topic."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

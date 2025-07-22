@@ -1,0 +1,109 @@
+{
+  "file_path": "news/Halk/20241007_Ece Üner ile Halk Ana Haber (7 Ekim 2024).tr.txt",
+  "processing_timestamp": "2025-07-22T16:57:13.021954",
+  "original_word_count": 11698,
+  "filtered_word_count": 944,
+  "retention_ratio": 0.08069755513763037,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 1064,
+      "start_sentence": "Merhabalar halk an haber",
+      "description": "\"Merhabalar halk an haber\" - The presenter welcomes the viewers and introduces the program, setting the stage for the news content.",
+      "end_pos": 1263
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 1263,
+      "start_sentence": "Şu aralar haberlerden de takip ediyorsunuz",
+      "description": "\"Şu aralar haberlerden de takip ediyorsunuz\" - This section contains the main news content, discussing various issues such as drug use among youth, political decisions, and the situation in Beirut.",
+      "end_pos": 1745
+    },
+    {
+      "type": "4. **OUTRO**",
+      "start_pos": 1745,
+      "start_sentence": "Bizi boşver Asıl siz dışarıda",
+      "description": "\"Bizi boşver Asıl siz dışarıda\" - This closing remark wraps up the discussion and signals the end of the program.",
+      "end_pos": 1843
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 1843,
+      "start_sentence": "HK TV ekibi Beyrut'ta gelişmeleri sıcağı sıcağına",
+      "description": "\"HK TV ekibi Beyrut'ta gelişmeleri sıcağı sıcağına\" - A brief transition that indicates a shift to reporting from the field, specifically from Beirut, before returning to the main news content.",
+      "end_pos": 82404
+    }
+  ],
+  "news_segments_count": 18,
+  "economic_segments_count": 7,
+  "economic_segments": [
+    {
+      "segment_id": "1843_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 121,
+      "filtered_length": 121,
+      "retention_ratio": 1.0,
+      "section_description": "\"HK TV ekibi Beyrut'ta gelişmeleri sıcağı sıcağına\" - A brief transition that indicates a shift to reporting from the field, specifically from Beirut, before returning to the main news content."
+    },
+    {
+      "segment_id": "1843_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 186,
+      "filtered_length": 133,
+      "retention_ratio": 0.7150537634408602,
+      "section_description": "\"HK TV ekibi Beyrut'ta gelişmeleri sıcağı sıcağına\" - A brief transition that indicates a shift to reporting from the field, specifically from Beirut, before returning to the main news content."
+    },
+    {
+      "segment_id": "1843_5",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 324,
+      "filtered_length": 106,
+      "retention_ratio": 0.3271604938271605,
+      "section_description": "\"HK TV ekibi Beyrut'ta gelişmeleri sıcağı sıcağına\" - A brief transition that indicates a shift to reporting from the field, specifically from Beirut, before returning to the main news content."
+    },
+    {
+      "segment_id": "1843_6",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 196,
+      "filtered_length": 63,
+      "retention_ratio": 0.32142857142857145,
+      "section_description": "\"HK TV ekibi Beyrut'ta gelişmeleri sıcağı sıcağına\" - A brief transition that indicates a shift to reporting from the field, specifically from Beirut, before returning to the main news content."
+    },
+    {
+      "segment_id": "1843_8",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 319,
+      "filtered_length": 319,
+      "retention_ratio": 1.0,
+      "section_description": "\"HK TV ekibi Beyrut'ta gelişmeleri sıcağı sıcağına\" - A brief transition that indicates a shift to reporting from the field, specifically from Beirut, before returning to the main news content."
+    },
+    {
+      "segment_id": "1843_12",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 79,
+      "filtered_length": 55,
+      "retention_ratio": 0.6962025316455697,
+      "section_description": "\"HK TV ekibi Beyrut'ta gelişmeleri sıcağı sıcağına\" - A brief transition that indicates a shift to reporting from the field, specifically from Beirut, before returning to the main news content."
+    },
+    {
+      "segment_id": "1843_14",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 255,
+      "filtered_length": 147,
+      "retention_ratio": 0.5764705882352941,
+      "section_description": "\"HK TV ekibi Beyrut'ta gelişmeleri sıcağı sıcağına\" - A brief transition that indicates a shift to reporting from the field, specifically from Beirut, before returning to the main news content."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

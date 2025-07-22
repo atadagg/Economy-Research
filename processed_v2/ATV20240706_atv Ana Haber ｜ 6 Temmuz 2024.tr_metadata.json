@@ -1,0 +1,87 @@
+{
+  "file_path": "news/ATV/ATV20240706_atv Ana Haber ｜ 6 Temmuz 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T16:55:07.298486",
+  "original_word_count": 4603,
+  "filtered_word_count": 400,
+  "retention_ratio": 0.08689984792526613,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 23,
+      "start_sentence": "İyi akşamlar Bugün 6 Temmuz 2024...",
+      "description": "\"İyi akşamlar Bugün 6 Temmuz 2024...\" - The opening of the broadcast where the presenter greets the audience and introduces the date and context of the program, setting the stage for the news content.",
+      "end_pos": 92
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 92,
+      "start_sentence": "maça şu dakikadan itibaren tam 3 saat var...",
+      "description": "\"maça şu dakikadan itibaren tam 3 saat var...\" - The main news content discussing the upcoming football match between Turkey and the Netherlands, including details about player Merih Demiral and reactions from President Erdoğan, as well as broader implications for the national team.",
+      "end_pos": 673
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 673,
+      "start_sentence": "Cumhurbaşkanı Erdoğan da 2024 Avrupa şampiyonasında...",
+      "description": "\"Cumhurbaşkanı Erdoğan da 2024 Avrupa şampiyonasında...\" - A brief transition that connects the discussion about the match to President Erdoğan's involvement and support for the national team, indicating a shift in focus within the news segment.",
+      "end_pos": 772
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 772,
+      "start_sentence": "Türkiye Hollanda maçını izlemek için Berlin'e gitti...",
+      "description": "\"Türkiye Hollanda maçını izlemek için Berlin'e gitti...\" - Continuation of the news segment detailing President Erdoğan's decision to travel to Berlin to support the national team, further elaborating on the significance of the match and the political context surrounding it.",
+      "end_pos": 1354
+    },
+    {
+      "type": "5. **NEWS**",
+      "start_pos": 1354,
+      "start_sentence": "Bozkurt hareketi nedeniyle milli futbolcu Merih Demiral...",
+      "description": "\"Bozkurt hareketi nedeniyle milli futbolcu Merih Demiral...\" - Another segment of news focusing on the controversy surrounding Merih Demiral's actions and the UEFA's decision, including reactions and statements from various political figures.",
+      "end_pos": 1934
+    },
+    {
+      "type": "6. **OUTRO**",
+      "start_pos": 1934,
+      "start_sentence": "inşallah Biz H...",
+      "description": "\"inşallah Biz H...\" - The closing remarks of the broadcast, where the presenter may summarize the key points discussed and provide a final message to the audience, although the text cuts off before a complete conclusion.",
+      "end_pos": 32128
+    }
+  ],
+  "news_segments_count": 12,
+  "economic_segments_count": 3,
+  "economic_segments": [
+    {
+      "segment_id": "1934_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 131,
+      "filtered_length": 119,
+      "retention_ratio": 0.9083969465648855,
+      "section_description": "\"inşallah Biz H...\" - The closing remarks of the broadcast, where the presenter may summarize the key points discussed and provide a final message to the audience, although the text cuts off before a complete conclusion."
+    },
+    {
+      "segment_id": "1934_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 191,
+      "filtered_length": 178,
+      "retention_ratio": 0.9319371727748691,
+      "section_description": "\"inşallah Biz H...\" - The closing remarks of the broadcast, where the presenter may summarize the key points discussed and provide a final message to the audience, although the text cuts off before a complete conclusion."
+    },
+    {
+      "segment_id": "1934_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 214,
+      "filtered_length": 103,
+      "retention_ratio": 0.48130841121495327,
+      "section_description": "\"inşallah Biz H...\" - The closing remarks of the broadcast, where the presenter may summarize the key points discussed and provide a final message to the audience, although the text cuts off before a complete conclusion."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

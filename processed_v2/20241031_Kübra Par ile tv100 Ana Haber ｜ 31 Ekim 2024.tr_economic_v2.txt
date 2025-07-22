@@ -1,0 +1,61 @@
+# Economic Content from: 20241031_Kübra Par ile tv100 Ana Haber ｜ 31 Ekim 2024.tr.txt
+# Processed: 2025-07-22T17:59:09.962773
+# Original: 9676 words → Filtered: 375 words (3.88% retention)
+# Economic segments: 4
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 40
+**Retention**: 54.05%
+
+Kısacası enflasyon farkın altında kalmayacaklar bütün yıl hesaba katıldığında kalmayacak. Ancak 6 ay ele alındığında durum farklı. Temmuz ayı enflasyonum % 3,23 olarak gerçekleşti. Aylık olarak ağustos ayı % 2,47, Eylül ayı % 2,97. Kümülatif olarak 3 aylık farkımız 8.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 114
+**Retention**: 61.96%
+
+Ekim, Kasım ve Aralık aylarına ilişkin enflasyon aylık enflasyon farklarımız yok. Yıllık enflasyon ortada Merkez Bankası'nın tahmini % 42. İşte bu oran memur maaşı zammını ele veriyor. O zaman da tahmini olarak 6 aylık enflasyon farkının % 144 olmasını bekliyoruz memurlar için ve memur emekliler için toplu sözleşme zammı var. Dikkati çeken bir şey var ki o da enflasyon farkı 6 aylık enflasyon farkına baktığımızda % 13 % 114 gibi ancak zamdan ise % 6. Yani öyle görünüyor ki bu rakamlar tutarsa zam oranı 6 aylık enflasyon farkının altında kalacak. Toplamda 6 aylık zam farkı % olarak karşımıza çıkıyor. Şu anda en düşük memur maaşı 4,824 alıyor. % 10'luk bir fark olursa 4,496 yükselecek.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 112
+**Retention**: 61.54%
+
+The filtered text focusing on economics, finance, and business is as follows:
+
+---
+
+Lübnan'da İsrail'in Siber saldırısı, ekonomik güvenlik açısından önemli bir konu haline geldi. Bu durum, bankaların ve finansal kurumların siber güvenlik önlemlerini artırmalarını gerektiriyor. Siber güvenlik, artık sadece bireylerin değil, aynı zamanda şirketlerin ve devlet kurumlarının da öncelikli meselesi. 
+
+Üniversitelerde yaşanan siber saldırılar, kişisel verilerin çalınmasıyla birlikte, bu kurumların güvenilirliğini ve dolayısıyla ekonomik durumlarını etkileyebilir. Özellikle eğitim sektöründeki bu tür saldırılar, öğrenci sayısını ve dolayısıyla gelirleri etkileyebilir. 
+
+Siber güvenlik açıkları, bankacılık ve finans sektöründe de ciddi riskler oluşturuyor. Dolandırıcılıklara karşı alınacak önlemler, ekonomik istikrarı sağlamak için kritik öneme sahip. 
+
+--- 
+
+This version retains the economic context while removing unrelated content.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_final
+**Confidence**: 0.50
+**Word Count**: 109
+**Retention**: 53.69%
+
+Peki şimdi ne olacak? Siber saldırganlar ele geçirdikleri bu verilerle ne yapacak, olası riskler neler? Bu ele geçirilen kişisel veriler, öğrencilere burs imkanı gibi sunulan ek iş fırsatıyla ya da daha uygun fiyatlara barındırma hizmetiyle karşı karşıya kalmalarına neden olabilecektir. Geçmişte, ölmüş kişilerin diplomalarının satıldığı ile ilgili haberler yine karşımıza çıkmıştı. Binlerce öğrencinin kişisel verilerini barındıran üniversitelerde siber güvenlik uzmanı bulunması, siber saldırıların önüne büyük oranda geçebiliyor. Bu tarz sorunlarla karşılaşmamak için aslında barındırma hizmetlerini doğrudan kendi bünyelerinde kullanıyor olabilirler. Birçok üniversite bünyesinde siber güvenlik uzmanları barındırmıyor. Siber güvenlik uzmanlarının olduğu ortamların hacklenme olasılığı çok çok daha düşük olacaktır. Ekonomi haberlerini verdik ve arkasından diğer haberleri de sizlerle paylaştık.
+
+================================================================================
+

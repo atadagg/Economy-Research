@@ -1,0 +1,35 @@
+# Economic Content from: 20240902_Show Ana Haber 2 Eylül 2024.tr.txt
+# Processed: 2025-07-22T17:27:08.351446
+# Original: 2733 words → Filtered: 173 words (6.33% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 75
+**Retention**: 41.21%
+
+Döviz kuru arttı, dolarla çalışan yabancı uyruklu bakıcıların maaşları 55.000 lirayı aştı. Bakıcı maaşları, asgari ücretin neredeyse 3 katına kadar çıktı. Dolar arttıkça adayların da zaman zaman ücret talepleri artış gösteriyor. En düşük bakıcı maaşı 1.100 dolar, en yükseği ise 00 dolar. Türk lirasına vurduğumuzda, en yüksek bakıcı maaşı 55.000 liraya kadar çıkıyor. Filipinli adaylarımızın maaş talepleri en az 00 dolardan başlıyor. Türkmenistanlı ya da Özbekistanlı adayların maaş talepleri de şu anda 00 dolardan başlıyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 98
+**Retention**: 42.24%
+
+The filtered text focusing on economics, finance, and business is as follows:
+
+---
+
+Kadın boşanmaya karar verdi ve mahkemeden tazminat talep etti. Kocasının evlilik sürecinde kendisinden habersiz kredi çektiğini söyledi. Eşinin borçlarından haberinin olmadığını belirtti. Sonuçta ortak sorumlulukları dahilinde aynı borcun altına girmiş oluyorlar. Yargıtay kadının kişilik haklarının saldırıya uğradığını söyledi. Eşinden habersiz kredi çekip icralık olan kocaya tam kusurlu denildi ve o erkeğin tazminat ödemesine hükmedildi. Bence haklı bir karar; borca kendi onaylı bir şekilde girilmemiş. Borçlanma da mal edinme gibi ortaklaşa alınması gereken bir durumdur.
+
+--- 
+
+This version retains the economic context while removing irrelevant content.
+
+================================================================================
+

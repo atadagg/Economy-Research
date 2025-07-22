@@ -1,0 +1,62 @@
+{
+  "file_path": "news/ATV/ATV20240628_atv Ana Haber ｜ 28 Haziran 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T16:26:05.839895",
+  "original_word_count": 4431,
+  "filtered_word_count": 105,
+  "retention_ratio": 0.023696682464454975,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 23,
+      "start_sentence": "İyi akşamlar Bugün 28 Haziran Cuma...",
+      "description": "\"İyi akşamlar Bugün 28 Haziran Cuma...\" - The opening of the broadcast where the presenter greets the audience and introduces the date and context of the program.",
+      "end_pos": 98
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 98,
+      "start_sentence": "Cumhurbaşkanı Erdoğan'dan geldi konu Suriye...",
+      "description": "\"Cumhurbaşkanı Erdoğan'dan geldi konu Suriye...\" - The main news content discussing President Erdoğan's statements regarding diplomatic relations with Syria, including responses to journalists' questions and commentary on the situation in Syria.",
+      "end_pos": 494
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 494,
+      "start_sentence": "Bakalım Bu açıklamalar Suriye ve Rusya cephesinde nıl yan bulacak...",
+      "description": "\"Bakalım Bu açıklamalar Suriye ve Rusya cephesinde nıl yan bulacak...\" - A brief transition that indicates a shift in focus or topic within the news segment, leading to further discussion on related issues.",
+      "end_pos": 1274
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1274,
+      "start_sentence": "İstanbul'da bir bir çöken binalar gündemindeydi...",
+      "description": "\"İstanbul'da bir bir çöken binalar gündemindeydi...\" - Continuation of the news segment, focusing on the issue of collapsing buildings in Istanbul and the implications of urban development and construction regulations.",
+      "end_pos": 1757
+    },
+    {
+      "type": "5. **OUTRO**",
+      "start_pos": 1757,
+      "start_sentence": "Bundan sonraki süreçte de eğer biz kentsel dönüşümle...",
+      "description": "\"Bundan sonraki süreçte de eğer biz kentsel dönüşümle...\" - Closing remarks that summarize the discussion and provide a forward-looking statement regarding urban transformation and construction practices.",
+      "end_pos": 31054
+    }
+  ],
+  "news_segments_count": 6,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "1757_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 121,
+      "filtered_length": 105,
+      "retention_ratio": 0.8677685950413223,
+      "section_description": "\"Bundan sonraki süreçte de eğer biz kentsel dönüşümle...\" - Closing remarks that summarize the discussion and provide a forward-looking statement regarding urban transformation and construction practices."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

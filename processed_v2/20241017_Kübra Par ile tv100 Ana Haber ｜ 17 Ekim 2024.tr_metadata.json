@@ -1,0 +1,78 @@
+{
+  "file_path": "news/TV100/20241017_Kübra Par ile tv100 Ana Haber ｜ 17 Ekim 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T18:38:20.749941",
+  "original_word_count": 9933,
+  "filtered_word_count": 221,
+  "retention_ratio": 0.02224906876069667,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "TV1 ekranlarından Herkese iyi akşamlar ben Kübra Par bir ana habere daha başlıyoruz...",
+      "description": "\"TV1 ekranlarından Herkese iyi akşamlar ben Kübra Par bir ana habere daha başlıyoruz...\" - This section serves as the opening of the broadcast, where the presenter introduces herself and sets the stage for the news program.",
+      "end_pos": 67
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 67,
+      "start_sentence": "Türkiye'nin maalesef gündeminde uyuşturucu var siyaseti konuşuruz...",
+      "description": "\"Türkiye'nin maalesef gündeminde uyuşturucu var siyaseti konuşuruz...\" - This section contains the main news content, focusing on the issue of drug use among youth in Turkey, including personal stories and societal implications.",
+      "end_pos": 96
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 96,
+      "start_sentence": "Ama bu ana haberde biz özellikle gençlerimizi çocuklarımızı her her şeyin önüne koyuyoruz...",
+      "description": "\"Ama bu ana haberde biz özellikle gençlerimizi çocuklarımızı her her şeyin önüne koyuyoruz...\" - This brief transition indicates a shift in focus to the specific topic of drug issues affecting children and youth, preparing the audience for the detailed discussion that follows.",
+      "end_pos": 189
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 189,
+      "start_sentence": "Uyuşturucu meselesi maalesef Anneleri İsyan noktasına getiriyor biliyorsunuz her hafta Tonlarca...",
+      "description": "\"Uyuşturucu meselesi maalesef Anneleri İsyan noktasına getiriyor biliyorsunuz her hafta Tonlarca...\" - This continues the news segment, elaborating on the impact of drug addiction on families, particularly mothers, and includes specific anecdotes and statistics.",
+      "end_pos": 1065
+    },
+    {
+      "type": "5. **NEWS**",
+      "start_pos": 1065,
+      "start_sentence": "Şimdi bugün o annelere ünlü bir isim de katıldı şarkıcı Umut Akyürek sosyal medya hesabından...",
+      "description": "\"Şimdi bugün o annelere ünlü bir isim de katıldı şarkıcı Umut Akyürek sosyal medya hesabından...\" - This part of the news introduces a new angle by mentioning a celebrity's involvement in the discussion about drug addiction, further emphasizing the societal concern.",
+      "end_pos": 1265
+    },
+    {
+      "type": "6. **OUTRO**",
+      "start_pos": 1265,
+      "start_sentence": "Kısacası uyuşturucu kullanan gençlerin Anneleri çaresizce yardım çığlığı atıyor o yüzden bugün bir kere önceliğimiz...",
+      "description": "\"Kısacası uyuşturucu kullanan gençlerin Anneleri çaresizce yardım çığlığı atıyor o yüzden bugün bir kere önceliğimiz...\" - This section wraps up the discussion, summarizing the urgency of the issue and the need for awareness and action, leading towards a conclusion.",
+      "end_pos": 69799
+    }
+  ],
+  "news_segments_count": 8,
+  "economic_segments_count": 2,
+  "economic_segments": [
+    {
+      "segment_id": "1265_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 213,
+      "filtered_length": 91,
+      "retention_ratio": 0.4272300469483568,
+      "section_description": "\"Kısacası uyuşturucu kullanan gençlerin Anneleri çaresizce yardım çığlığı atıyor o yüzden bugün bir kere önceliğimiz...\" - This section wraps up the discussion, summarizing the urgency of the issue and the need for awareness and action, leading towards a conclusion."
+    },
+    {
+      "segment_id": "1265_6",
+      "method": "simple_final",
+      "confidence": 0.5,
+      "original_length": 232,
+      "filtered_length": 130,
+      "retention_ratio": 0.5603448275862069,
+      "section_description": "\"Kısacası uyuşturucu kullanan gençlerin Anneleri çaresizce yardım çığlığı atıyor o yüzden bugün bir kere önceliğimiz...\" - This section wraps up the discussion, summarizing the urgency of the issue and the need for awareness and action, leading towards a conclusion."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

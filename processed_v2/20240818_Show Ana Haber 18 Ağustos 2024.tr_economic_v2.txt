@@ -1,0 +1,46 @@
+# Economic Content from: 20240818_Show Ana Haber 18 Ağustos 2024.tr.txt
+# Processed: 2025-07-22T17:37:25.580673
+# Original: 3215 words → Filtered: 305 words (9.49% retention)
+# Economic segments: 3
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 99
+**Retention**: 100.00%
+
+bir kez daha karşınızdayız Süper Lig'in 2 haftasında Göztepe'ye konuk olan Fenerbahçe'de Başkan Ali
+Koç saldırıya uğradı olaylı maç sonrası Ali Koç suç duyurusunda bulunurken O saldırgana ev hapsi
+cezası verildi Yaral kastım yoktu dedi Fenerbahçe başkanı Ali koçu arkadan iterek düşürdü İzmir'de
+tansiyon bir anda yükseldi stattan ayrılan o saldırgan yeni günde gözaltına alındı Göztepe
+Fenerbahçe maç Başkan Ali Koç deplasman tribününde su şişeleri ve yabancı maddeler atılınca protokol
+tribününe doğru yola çıkmıştı işte ne olduysa o anlarda oldu yaşanan arbede sırasında Başkan Ali Koç
+arkadan itildi ve yere düştü o saldırgan Göztepe'nin taraftardan sorumlu yöneticisi Fatih Özkan'ı
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 84
+**Retention**: 70.00%
+
+Yarın bakacağız olaylar nasıl gelişti futbol kuralları için yapılanlar doğru mudur hepsini inceleyeceğiz hiç kimsenin şüphesi olmasın olaylı maç sonrası Fenerbahçe'den sert bir açıklama gelirken Başkan Ali Koç'un o saldırgandan ve ihmali olan tüm yetkililer hakkında suç duyurusunda bulunduğu bildirildi. 
+
+Son aylarda kiracılar % 65'lik zamlarla karşı karşıya kalmıştı. Uzmanlardan yurtiçi üretici fiyat endeksine dönüş çağrısı geldi. Tekrar ÜFE'ye dönülmesi doğru bir karar olur. Kimse kira fiyatlarını düşürmek istemiyor. Tüketici fiyat endeksi yüksek, endeksi düşük çıktı. Kira hesaplamasında bu durum önemli bir etki yaratıyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 122
+**Retention**: 64.55%
+
+Türkiye'de kira zam hesaplamaları 5 yıl öncesine kadar yurtiçi üretici fiyat endeksi (ÜFE) olan yi ÜFE'ye göre hesaplanıyordu. Ancak 2017'den 2019'a kadar oranları artınca bu endeksin bir akşamda tüfeğe dönüldü. Şu anda TÜFE çok yüksek oranlarda çıkıyor. 12 aylık ortalama TÜFE artışı Haziran'da %65,00 olarak gerçekleşirken, Temmuz'da bu rakam %65,93'e çıktı. Yurt içi üretici fiyat endeksi (ÜFE) ise Haziran'da %vir0s çıktı. TÜFE oranını eklediğimiz zaman bir yıl içinde kiraya verilen yerin artışla birlikte geldiği rakam piyasa değerinin üstünde oluyor. Bu uçurumu kapatmanın faydası olacağını zannetmiyorum. TÜFE ile ÜFE arasındaki farkı bir örnekle anlatmak gerekirse, geçen Ağustos ayında bir eve taşındığınızda kirası 10.000 liraydı. Bu Ağustos ayında gelecek zamla beraber o evin kirası 16.590 liraya çıkmış olacaktı. Ancak ÜFE uygulansaydı o artış 14.
+
+================================================================================
+

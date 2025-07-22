@@ -1,0 +1,38 @@
+# Economic Content from: 20241107_Kübra Par ile tv100 Ana Haber ｜ 7 Kasım 2024.tr.txt
+# Processed: 2025-07-22T18:23:15.655874
+# Original: 10247 words → Filtered: 220 words (2.15% retention)
+# Economic segments: 3
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 51
+**Retention**: 37.23%
+
+İstanbul'da 4 kişilik bir ailenin ortalama yaşam maliyeti 739 lira oldu; bu rakam, asgari ücretin 4,5 katını bile geçiyor. İstanbul'da yaşamak için insanlar epey bir mücadele veriyor, özellikle ev kiraları ve hastaneler oldukça pahalı durumda. İstanbul'da yaşamak zor mu? Evet, zor. Çalışan anne baba olarak en az 100 lira harcamak zorundayız.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 100
+**Retention**: 56.50%
+
+İstanbul'da yaşamanın maliyeti geçen yılın aynı ayına göre % 6,46 arttı. Bir dolabı doldurmak sadece 10 milyardan başlıyor. Marketlerde fiyatlar hızla artıyor; bir peyniri 100 liraya alıyorsak ertesi gün 120 lira olabiliyor. Asgari ücret tartışmaları başladı. Merkez Bankası'nın açıkladığı yıl sonu enflasyonu kadar, yani % 44,1 zam verilirse asgari ücretin yeni 177,000 liradan 24,500 liraya çıkması bekleniyor. Eğer % 5'lik bir zam daha gelirse, 25,351 liraya çıkması öngörülüyor. Ancak bu zayıf bir ihtimal. Vedat Işıkan daha önceki gün yaptığı açıklamada % 25'lik bir zamma işaret etmişti. CHP ise % 30 demişti. Yabancı kuruluşlardan IMF sadece % 14,4 zam yapılmasını önerdi.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 69
+**Retention**: 53.49%
+
+E % 144'lü bir artış öngörülür. Eğer % 30 olursa, 22 03 liraya çıkacak. Merkez Bankası ve Hazine ve Maliye Bakanının açıkladığı Orta vadeli programda öngörülen yıl sonu enflasyon tutarı yani % 41.5 verilirse, 4058 liraya olacak. Türkiye'ye dair % 30'luk bir asgari ücret artışı beklediğini söyledi. O durumda da 22 12 liraya çıkacak asgari ücret hangisi olmalı? Yani en büyük zam olan % 44 geldiğinde ne oluyor? Gördük.
+
+================================================================================
+

@@ -1,0 +1,69 @@
+{
+  "file_path": "news/AHaber/20250116_İsrail medyasında Türkiye paniği! Türkiye-İsrail savaşı çıkar mı？  ｜ A Haber.tr.txt",
+  "processing_timestamp": "2025-07-22T15:42:00.495153",
+  "original_word_count": 8891,
+  "filtered_word_count": 103,
+  "retention_ratio": 0.011584748622202226,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "bu ateşkesi aslında gazzeliler zaferi olarak yorumladık",
+      "description": "\"bu ateşkesi aslında gazzeliler zaferi olarak yorumladık\" - The program begins with a discussion about the ceasefire and its implications, setting the stage for the news content that follows.",
+      "end_pos": 44
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 44,
+      "start_sentence": "Geride bıraktığımız gün ki gazzeliler de bunu böyle görüyor",
+      "description": "\"Geride bıraktığımız gün ki gazzeliler de bunu böyle görüyor\" - This section contains the main news content, discussing the situation in Gaza, the impact of the ceasefire, and various statistics related to casualties and destruction.",
+      "end_pos": 512
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 512,
+      "start_sentence": "Ama bu bölgede ilan edilen ateşkesle birlikte gazzeliler nasıl rahat nefes alacak bunları konuşacağız",
+      "description": "\"Ama bu bölgede ilan edilen ateşkesle birlikte gazzeliler nasıl rahat nefes alacak bunları konuşacağız\" - This continues the news content, elaborating on the ceasefire and its potential effects on the people of Gaza.",
+      "end_pos": 584
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 584,
+      "start_sentence": "Şimdi gazelin tamamı yerle bir edildi",
+      "description": "\"Şimdi gazelin tamamı yerle bir edildi\" - This brief transition leads into a more detailed discussion about the ceasefire and its implications, indicating a shift in focus within the news segment.",
+      "end_pos": 1176
+    },
+    {
+      "type": "5. **NEWS**",
+      "start_pos": 1176,
+      "start_sentence": "Şimdi Tabii öncelikle bu ateşkesle beraber İsrail siyasetinde değim yerindeyse bir deprem etkisi olduğu çok açık",
+      "description": "\"Şimdi Tabii öncelikle bu ateşkesle beraber İsrail siyasetinde değim yerindeyse bir deprem etkisi olduğu çok açık\" - This part further discusses the political implications of the ceasefire in Israel, providing analysis and commentary on the situation.",
+      "end_pos": 1372
+    },
+    {
+      "type": "6. **OUTRO**",
+      "start_pos": 1372,
+      "start_sentence": "Dolayısıyla Bu yönüyle baktığınız vakit işte bunu kabineye getirip getirmemek le ilgili olarak",
+      "description": "\"Dolayısıyla Bu yönüyle baktığınız vakit işte bunu kabineye getirip getirmemek le ilgili olarak\" - The program concludes with remarks that summarize the discussion and provide final thoughts on the ongoing situation.",
+      "end_pos": 62112
+    }
+  ],
+  "news_segments_count": 7,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "1372_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 249,
+      "filtered_length": 103,
+      "retention_ratio": 0.41365461847389556,
+      "section_description": "\"Dolayısıyla Bu yönüyle baktığınız vakit işte bunu kabineye getirip getirmemek le ilgili olarak\" - The program concludes with remarks that summarize the discussion and provide final thoughts on the ongoing situation."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

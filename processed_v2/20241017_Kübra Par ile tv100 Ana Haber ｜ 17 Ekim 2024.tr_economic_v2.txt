@@ -1,0 +1,31 @@
+# Economic Content from: 20241017_Kübra Par ile tv100 Ana Haber ｜ 17 Ekim 2024.tr.txt
+# Processed: 2025-07-22T18:38:20.749941
+# Original: 9933 words → Filtered: 221 words (2.22% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 91
+**Retention**: 42.72%
+
+Sivas'ta meydana gelen depremler, yerel ekonomiyi etkileyebilir. Depremler sonrası, iş yerlerinin hasar görmesi ve eğitim öğretime ara verilmesi, ekonomik faaliyetleri olumsuz yönde etkileyebilir. İçişleri Bakanı Ali Yerlikaya, afatın ve diğer kurumların sahada tarama çalışmalarına başladığını belirtti. İlk belirlemelere göre herhangi bir olumsuz durum bulunmadığı açıklandı, ancak bu tür doğal afetlerin ekonomik etkileri uzun vadede hissedilebilir.
+
+Ayrıca, Türkiye'nin en bilinen GSM operatörlerinden birinin milletvekillerine özel indirimli paket çıkarması, sektördeki rekabeti artırabilir. Bu durum, tüketicilerin internet ve iletişim hizmetlerine erişimini etkileyebilir. Ekonomik veriler, bu tür gelişmelerin piyasa dinamikleri üzerindeki etkisini anlamak için önemlidir.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_final
+**Confidence**: 0.50
+**Word Count**: 130
+**Retention**: 56.03%
+
+The filtered text focusing on economics, finance, and business is as follows:
+
+Pelin Barlas, who moved from Antalya to Istanbul for university, faced challenges in the job market after graduating from a private university. Despite her efforts, she received no positive responses to her job applications. In light of this, she returned to her hometown and took over her family's idle farm, starting to raise buffaloes. Her father suggested that they should consider buffalo farming, as the number of buffaloes in Turkey has significantly decreased, and the milk produced is valuable. Initially starting with 11 buffaloes in 2019, the herd has now grown to 70. Barlas is also continuing her education in veterinary medicine and agricultural technology, indicating a commitment to improving her business and contributing to the agricultural sector.
+
+================================================================================
+

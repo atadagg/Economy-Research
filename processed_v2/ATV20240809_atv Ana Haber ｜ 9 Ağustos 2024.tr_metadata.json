@@ -1,0 +1,66 @@
+{
+  "file_path": "news/ATV/ATV20240809_atv Ana Haber ｜ 9 Ağustos 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T16:35:05.310532",
+  "original_word_count": 4564,
+  "filtered_word_count": 230,
+  "retention_ratio": 0.050394390885188434,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "haberin merkezinden Atv Haber merkezinden İyi akşamlar",
+      "description": "\"haberin merkezinden Atv Haber merkezinden İyi akşamlar\" - This section serves as the opening of the broadcast, where the presenter greets the audience and introduces the program.",
+      "end_pos": 90
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 90,
+      "start_sentence": "2024 yılının emekli yılı olacağını duyurmuştu hatırlayacaksınız ve birçok adım atıldı",
+      "description": "\"2024 yılının emekli yılı olacağını duyurmuştu hatırlayacaksınız ve birçok adım atıldı\" - This section contains the main news content, discussing the announcement regarding 2024 being declared the year for retirees and detailing various benefits and discounts for retirees across Turkey.",
+      "end_pos": 199
+    },
+    {
+      "type": "3. **OUTRO**",
+      "start_pos": 199,
+      "start_sentence": "emekliler için Yurtiçi ve yurt dışı uçu",
+      "description": "\"emekliler için Yurtiçi ve yurt dışı uçu\" - This section concludes the news segment, summarizing the benefits for retirees and providing a closing remark, although it is not a traditional closing as it seems to continue into further details.",
+      "end_pos": 32444
+    }
+  ],
+  "news_segments_count": 6,
+  "economic_segments_count": 3,
+  "economic_segments": [
+    {
+      "segment_id": "199_0",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 80,
+      "filtered_length": 44,
+      "retention_ratio": 0.55,
+      "section_description": "\"emekliler için Yurtiçi ve yurt dışı uçu\" - This section concludes the news segment, summarizing the benefits for retirees and providing a closing remark, although it is not a traditional closing as it seems to continue into further details."
+    },
+    {
+      "segment_id": "199_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 180,
+      "filtered_length": 117,
+      "retention_ratio": 0.65,
+      "section_description": "\"emekliler için Yurtiçi ve yurt dışı uçu\" - This section concludes the news segment, summarizing the benefits for retirees and providing a closing remark, although it is not a traditional closing as it seems to continue into further details."
+    },
+    {
+      "segment_id": "199_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 69,
+      "filtered_length": 69,
+      "retention_ratio": 1.0,
+      "section_description": "\"emekliler için Yurtiçi ve yurt dışı uçu\" - This section concludes the news segment, summarizing the benefits for retirees and providing a closing remark, although it is not a traditional closing as it seems to continue into further details."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

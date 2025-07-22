@@ -1,0 +1,85 @@
+{
+  "file_path": "news/ATV/ATV20240926_atv Ana Haber ｜ 26 Eylül 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T16:10:08.030228",
+  "original_word_count": 4956,
+  "filtered_word_count": 185,
+  "retention_ratio": 0.03732849071832123,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 23,
+      "start_sentence": "İyi akşamlar Bugün 26 Eylül Perşembe",
+      "description": "\"İyi akşamlar Bugün 26 Eylül Perşembe\" - The opening of the broadcast where the presenter greets the audience and introduces the date and context of the news.",
+      "end_pos": 70
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 70,
+      "start_sentence": "New York'taki Birleşmiş Milletler Genel Kurulu toplantıları sona erdi",
+      "description": "\"New York'taki Birleşmiş Milletler Genel Kurulu toplantıları sona erdi\" - The main content of the broadcast, detailing the events surrounding President Erdoğan's participation in the UN General Assembly and his diplomatic activities.",
+      "end_pos": 70
+    },
+    {
+      "type": "5. **TRANSITION**",
+      "start_pos": 70,
+      "start_sentence": "New York'taki son gününde döndüren bir Diplomasi trafiği vardı",
+      "description": "\"New York'taki son gününde döndüren bir Diplomasi trafiği vardı\" - Another transition that shifts the focus to Erdoğan's diplomatic meetings on his last day in New York.",
+      "end_pos": 93
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 93,
+      "start_sentence": "Cumhurbaşkanı Erdoğan'ın ABD temasları",
+      "description": "\"Cumhurbaşkanı Erdoğan'ın ABD temasları\" - A brief transition that introduces a new aspect of the news regarding Erdoğan's activities in the United States.",
+      "end_pos": 289
+    },
+    {
+      "type": "6. **NEWS**",
+      "start_pos": 289,
+      "start_sentence": "Erdoğan'ın İsrail'in hedefindeki Lübnan'ın başbakanı Necip mikati ile bir araya geldi",
+      "description": "\"Erdoğan'ın İsrail'in hedefindeki Lübnan'ın başbakanı Necip mikati ile bir araya geldi\" - Further news content discussing Erdoğan's meetings with various leaders and the topics discussed.",
+      "end_pos": 779
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 779,
+      "start_sentence": "Erdoğan Birleşmiş Milletler genel kurulunda gazze'nin sesi oldu",
+      "description": "\"Erdoğan Birleşmiş Milletler genel kurulunda gazze'nin sesi oldu\" - Continuation of the news segment focusing on Erdoğan's speech at the UN and his stance on international issues.",
+      "end_pos": 1926
+    },
+    {
+      "type": "7. **OUTRO**",
+      "start_pos": 1926,
+      "start_sentence": "Erdoğan küresel inovasyon göstergeleri 2024 yılı ra",
+      "description": "\"Erdoğan küresel inovasyon göstergeleri 2024 yılı ra\" - The closing remarks of the broadcast, summarizing the key points and possibly hinting at future topics.",
+      "end_pos": 34593
+    }
+  ],
+  "news_segments_count": 10,
+  "economic_segments_count": 2,
+  "economic_segments": [
+    {
+      "segment_id": "1926_0",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 150,
+      "filtered_length": 97,
+      "retention_ratio": 0.6466666666666666,
+      "section_description": "\"Erdoğan küresel inovasyon göstergeleri 2024 yılı ra\" - The closing remarks of the broadcast, summarizing the key points and possibly hinting at future topics."
+    },
+    {
+      "segment_id": "1926_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 149,
+      "filtered_length": 88,
+      "retention_ratio": 0.5906040268456376,
+      "section_description": "\"Erdoğan küresel inovasyon göstergeleri 2024 yılı ra\" - The closing remarks of the broadcast, summarizing the key points and possibly hinting at future topics."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

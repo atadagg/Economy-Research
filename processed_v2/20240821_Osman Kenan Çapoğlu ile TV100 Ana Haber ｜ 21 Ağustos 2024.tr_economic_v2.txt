@@ -1,0 +1,124 @@
+# Economic Content from: 20240821_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 21 Ağustos 2024.tr.txt
+# Processed: 2025-07-22T18:29:00.470062
+# Original: 11436 words → Filtered: 957 words (8.37% retention)
+# Economic segments: 10
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 72
+**Retention**: 124.14%
+
+Emekliler ve asgari ücretlilerin ekonomik durumu giderek zorlaşıyor. Türkiye İşçi Sendikaları Konfederasyonu (Türk-İş) 81 ilde ortak basın açıklaması yaparak, işçilerin taleplerini dile getirdi. Genel başkan Ergün Atalay, hükümete seslenerek, "Ocak ayında aldığımızı nisan ayında almıyoruz, nisan ayında aldığımızı temmuzda almıyoruz" dedi. Bu durum, işçi ücretlerinin zamanında ödenmemesi ve enflasyon karşısında alım gücünün düşmesi gibi ekonomik sorunları gündeme getiriyor. Ekonomik veriler, asgari ücretin yetersiz kaldığını ve emeklilerin yaşam standartlarının ciddi şekilde etkilendiğini gösteriyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 141
+**Retention**: 42.86%
+
+Çalışanlar 2025 yılı bütçesi mecliste görüşülmeye hazırlanıyor. Devlet, bu büyük şirketlerden asgari ücretlinin üzerinden kazanç elde edenlerden vergi almak durumunda. Son dönemde sosyal mecralarda bu husus çok konuşuluyor; büyük şirketlerin bilançolarına baktığınızda kar zarar durumu söz konusu olmuyor. SSK Bağkur memur emeklisi ne kadar zam alacak? Temmuzda zam olmayınca, özellikle asgari ücretli için tablo 2025 Ocak'a dönmüş durumda. Enflasyon tahmini %38 olarak açıklandı. Merkez Bankası'nın açıkladığı oranda bir oynaklık söz konusu değil. Eğer enflasyon %40'ların üzerine çıkarsa, SSK Bağkur ve memur emeklisi altında 6 aylık enflasyon farkı alacaklar. Hedef enflasyon üzerinden bir değerlendirme yapılırsa, 2025'te hedeflenen enflasyon %115 ile %120 bandında bir artış olur mu? Eğer böyle bir durumla karşı karşıya kalınırsa, alım gücü şu anda %30 eridiyse, %70-80 üzerindeki zamlarla birlikte birçok konu var konuşulacak. 2024 tahmini enflasyon oranı %38 olarak belirlendi. 2024 tahmini büyüme oranı %4 olarak yine belirlendi.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 119
+**Retention**: 63.98%
+
+Enflasyon oranı %7 olarak açıklandı. 2024 tahmini büyüme oranı %4 olarak belirlenirken, bu oranın %30'unu ekleyip toplam hesaplamayı 13,27 üzerinden yapmamız gerekiyor. Yaklaşık %14,4 civarında bir rakama ulaşıyoruz. Bugün en düşük emekli maaşı 12.500 TL olarak görünse de, cebe giren rakam yüz binlerce kişinin kök maaşı 8.500 TL. Önümüzdeki yıl bu oranlar gerçekleşirse, kök maaşlar 12.500 TL'nin altına çıkıyor. Eğer taban maaş uygulaması değişmezse, yine yüz binlerce kişi 12.500 TL maaş almış olacak. 2025 memur zam oranına baktığımızda, toplu sözleşmede %6 + %5 gibi bir oran belirlendi. İlk 6 aylık dönemi çıkardığımızda, aradaki fark %13,27'ye ulaşıyor. Hükümet, son 6 ayın ilk peşin ödemesi nedeniyle fark %3,27 kalıyor. %3,27'ye ilk 6 ay için geçerli olan %6'yı eklediğimizde toplam %9,27'ye ulaşıyoruz.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 91
+**Retention**: 77.12%
+
+605 TL olmasını bekliyoruz asgari ücret bu hesaplamaların dışında kalıyor ancak uzmanlara göre asgari ücret enflasyon oranıyla aynı yönde artacak, rakam 20,000 liraya aşacak. 2021 tahmini enflasyon oranı % 38 olarak açıklandığında, asgari ücrete yapılacak zam oranının da minimum % 38 olması gerektiğini ve olacağını düşünüyoruz. Bunu da hesapladığımızda, asgari ücretin netinin 17,000 TL olduğu düşünüldüğünde, yaklaşık 23,500 TL civarında bir rakama ulaşacağını düşünüyoruz. Evet, haberde olası senaryoları değerlendirdik ama bir de masaya yatırmak lazım. SGK uzmanı İsmet Çetinkaya ile birlikte konuşacağız, değerlendireceğiz. Şimdi TÜİK verilerine baktığımızda zaten halihazırda % 61.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 65
+**Retention**: 45.45%
+
+Yıl sonuna kadar enflasyonun nereye evrileceği belirsiz. SSK ve Bağkur emeklileri, 6 aylık enflasyon farkını alacaklar. Asgari ücrette nasıl bir tablo bekliyoruz? Hedef enflasyon, yıl sonu beklentisi % 38 iken, asgari ücrette % 40 bantlarında bir artış olabileceği öngörülüyor. Merkez Bankası'nın enflasyon beklentisi % 38, ancak piyasa katılımcıları anketine göre enflasyon oranı % 43 olarak belirlenmiş. Bu durum, tüm toplumu etkileyen önemli bir ekonomik parametre.
+
+================================================================================
+
+## Economic Segment 6
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 69
+**Retention**: 75.82%
+
+Merkez Bankası'nın 2025'te enflasyon oranının % 144, 2026'da ise % 30 seviyelerinde olacağını öngörüyor. Ancak piyasa katılımcıları anketi, enflasyon oranının biraz daha üstünde gözüküyor; 2024 sonu için % 43, 2025'te ise % 30 bekleniyor. Merkez Bankası'nın beklentilerine göre enflasyon % 38 olarak sonuçlanırsa, SSK ve Bağkur emeklilerinin Ocak ayında alacağı tahmini oran % 11.95 olacak. Ancak enflasyon oranı daha yüksek çıkarsa, piyasadaki beklentilere göre bu oran % 14'e yükselebilir.
+
+================================================================================
+
+## Economic Segment 7
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 139
+**Retention**: 43.71%
+
+Türkiye'de mevcut asgari ücret, işverenler için ciddi maliyet külfeti anlamına geliyor. %40-45'lik bir artış, işsizlikte de bir artışa yol açabilir. Asgari ücretin olması gerekenin biraz üstünde olduğu belirtiliyor, ancak maaşlar düşük. İşverenler açısından sosyal güvenlik primleri ve diğer maliyetler, vasıfsız işçilere bu maaşı vermeyi zorlaştırıyor. Son iki yılda %100'ün üzerinde artışlar yaşandı ve işverenler %38'lik artışa razı. Ancak devletin, işverenlere prim noktasında ciddi destekler vermesi gerekiyor. Şu anda işverenler, sıkı para politikası nedeniyle piyasada para döndüremiyor. Vergi borçları ve SSK borçları nedeniyle hesaplarına haciz uygulanan küçük işletmeler var. Devletin teşviklerini artırması gerektiği düşünülüyor ve sübvansiyonların devreye girmesi gerektiği vurgulanıyor. 
+
+Önümüzdeki süreçte, enflasyon verileri açıklanacak ve yıl sonunda nasıl bir tablo ile karşılaşılacağı belirsiz. Merkez Bankası'nın yıl sonu tahmini %38 olarak belirlenmişken, bu tahminin üst bandı %42 olarak belirlenmiştir. Son ay itibarıyla yapılan ankette katılımcıların tahminleri %43 olarak ortaya çıkmıştır.
+
+================================================================================
+
+## Economic Segment 8
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 78
+**Retention**: 100.00%
+
+000 lira tazminat talep etti Yargıtay kararında eşinin ailesiyle
+görüşmesini istemeyen erkeği ağır kusurlu saydı ancak ağır kusurlu sayılan eş karşı dava açtı eşini
+suçladı erkeğin açmış olduğu karşı davada da kadının birden fazla kez lüks taleplerde bulunduğunu
+hediyeler istediğini ve sürekli bir Eee kavga ortamı olduğunu bahsederek sürekli kendisini
+eleştirdiğini de söyleyerek karşı dava açmak suretiyle boşanma talebinde bulunuyor Aynı zamanda da
+tazminat da e talep ediyor suçlamalar havada kalınca ilk davayı açan kadın haklı bulundu 50
+
+================================================================================
+
+## Economic Segment 9
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 101
+**Retention**: 45.91%
+
+Ege'de ve Akdeniz'de 5 yıldızlı otellerde tatil fiyatları fahiş seviyelere ulaştı, bu durum tatilcilerin yönünü Karadeniz'e çevirmesine neden oldu. Karadeniz turu, Ege'deki tatilin yarı fiyatına gelince otellerin rezervasyonu %25 oranında arttı. Çeşme ve Bodrum'daki akşam yemeği fiyatları minimum 1500 lira civarındayken, tek bir kahve 200 lira civarında satılmakta. Bu fahiş fiyatlar, tatil tercihlerini değiştirdi ve Ege'ye gidemeyenlerin tercihi Karadeniz oldu. Yunanistan ile kıyaslandığında, tatilcilerin Karadeniz'i tercih etmesi, fiyatların artmasıyla doğrudan ilişkilidir. Karadeniz bölgesindeki otellerde rezervasyon sayıları artarken, Bodrum'a ve Çeşme'ye gidemeyenlerin bir kısmı Yunanistan'a yöneldi. Tatil bölgelerinde her şey dahil bir otelde iki kişinin bir hafta konaklama fiyatı 1000 lira civarında.
+
+================================================================================
+
+## Economic Segment 10
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 82
+**Retention**: 44.09%
+
+Karadeniz bölgesinde baktığımızda 3,000 TL'ye bir oda bulabiliyorsunuz ve 5 gece kalsanız 15,000 TL'ye iki kişi oda artı kahvaltı bazında konaklayabilirsiniz. Diğer masraflar hesaba katıldığında ortalama 50,000 TL ediyor. Fiyatlar çok pahalı diye insanlar Karadeniz'e yönelmiş durumda. 
+
+Yıldız Sarayı, uzun süren restorasyon çalışmalarının ardından ziyarete açıldı. Bu tür tarihi ve kültürel mirasların turizm açısından ekonomik katkısı büyük. Yıldız Sarayı, milli saraylar başkanlığına bağlı olarak kapılarını açtı ve 19 Temmuz'dan bu yana 197,000 ziyaretçi ağırladı. Bu durum, turizm sektöründe önemli bir hareketlilik yaratıyor.
+
+================================================================================
+

@@ -1,0 +1,125 @@
+{
+  "file_path": "news/TV100/20240611_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 11 Haziran 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T18:33:25.014063",
+  "original_word_count": 9067,
+  "filtered_word_count": 814,
+  "retention_ratio": 0.08977611117238336,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "11 Haziran Salı tv100 ana Haber'e Hoş geldiniz değerli izleyenler...",
+      "description": "\"11 Haziran Salı tv100 ana Haber'e Hoş geldiniz değerli izleyenler...\" - This section serves as the opening of the broadcast, welcoming viewers and introducing the program.",
+      "end_pos": 89
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 89,
+      "start_sentence": "bugün tarihi günlerden birini daha yaşadı Türk siyaseti gözü kulağı Türkiye'nin...",
+      "description": "\"bugün tarihi günlerden birini daha yaşadı Türk siyaseti gözü kulağı Türkiye'nin...\" - This section contains the main news content, discussing significant political events and details about the meeting between CHP leader Özgür Özel and President Erdoğan.",
+      "end_pos": 189
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 189,
+      "start_sentence": "Özgür özel ve Merkez yönetim kurulu üyeleri toplantı halindeler...",
+      "description": "\"Özgür özel ve Merkez yönetim kurulu üyeleri toplantı halindeler...\" - This continues the news segment, detailing the ongoing meeting and the expectations surrounding it.",
+      "end_pos": 382
+    },
+    {
+      "type": "5. **TRANSITION**",
+      "start_pos": 382,
+      "start_sentence": "Sonra da AK Parti Genel merkezine gideceğiz...",
+      "description": "\"Sonra da AK Parti Genel merkezine gideceğiz...\" - This transition indicates a move to cover the AK Party's response and activities following the earlier news.",
+      "end_pos": 1457
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 1457,
+      "start_sentence": "Şimdi Betül Araz bizi CHP genel merkezinde bekliyor...",
+      "description": "\"Şimdi Betül Araz bizi CHP genel merkezinde bekliyor...\" - This brief transition indicates a shift to a reporter on-site at the CHP headquarters, preparing to provide updates on the situation.",
+      "end_pos": 65185
+    }
+  ],
+  "news_segments_count": 13,
+  "economic_segments_count": 8,
+  "economic_segments": [
+    {
+      "segment_id": "382_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 150,
+      "filtered_length": 48,
+      "retention_ratio": 0.32,
+      "section_description": "\"Sonra da AK Parti Genel merkezine gideceğiz...\" - This transition indicates a move to cover the AK Party's response and activities following the earlier news."
+    },
+    {
+      "segment_id": "1457_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 180,
+      "filtered_length": 87,
+      "retention_ratio": 0.48333333333333334,
+      "section_description": "\"Şimdi Betül Araz bizi CHP genel merkezinde bekliyor...\" - This brief transition indicates a shift to a reporter on-site at the CHP headquarters, preparing to provide updates on the situation."
+    },
+    {
+      "segment_id": "1457_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 231,
+      "filtered_length": 163,
+      "retention_ratio": 0.7056277056277056,
+      "section_description": "\"Şimdi Betül Araz bizi CHP genel merkezinde bekliyor...\" - This brief transition indicates a shift to a reporter on-site at the CHP headquarters, preparing to provide updates on the situation."
+    },
+    {
+      "segment_id": "1457_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 142,
+      "filtered_length": 139,
+      "retention_ratio": 0.9788732394366197,
+      "section_description": "\"Şimdi Betül Araz bizi CHP genel merkezinde bekliyor...\" - This brief transition indicates a shift to a reporter on-site at the CHP headquarters, preparing to provide updates on the situation."
+    },
+    {
+      "segment_id": "1457_5",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 142,
+      "filtered_length": 112,
+      "retention_ratio": 0.7887323943661971,
+      "section_description": "\"Şimdi Betül Araz bizi CHP genel merkezinde bekliyor...\" - This brief transition indicates a shift to a reporter on-site at the CHP headquarters, preparing to provide updates on the situation."
+    },
+    {
+      "segment_id": "1457_6",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 189,
+      "filtered_length": 133,
+      "retention_ratio": 0.7037037037037037,
+      "section_description": "\"Şimdi Betül Araz bizi CHP genel merkezinde bekliyor...\" - This brief transition indicates a shift to a reporter on-site at the CHP headquarters, preparing to provide updates on the situation."
+    },
+    {
+      "segment_id": "1457_8",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 188,
+      "filtered_length": 67,
+      "retention_ratio": 0.35638297872340424,
+      "section_description": "\"Şimdi Betül Araz bizi CHP genel merkezinde bekliyor...\" - This brief transition indicates a shift to a reporter on-site at the CHP headquarters, preparing to provide updates on the situation."
+    },
+    {
+      "segment_id": "1457_10",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 170,
+      "filtered_length": 65,
+      "retention_ratio": 0.38235294117647056,
+      "section_description": "\"Şimdi Betül Araz bizi CHP genel merkezinde bekliyor...\" - This brief transition indicates a shift to a reporter on-site at the CHP headquarters, preparing to provide updates on the situation."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

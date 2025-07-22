@@ -1,0 +1,38 @@
+# Economic Content from: ATV20240603_atv Ana Haber ｜ 3 Haziran 2024.tr.txt
+# Processed: 2025-07-22T16:28:43.552881
+# Original: 4694 words → Filtered: 329 words (7.01% retention)
+# Economic segments: 3
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 76
+**Retention**: 56.30%
+
+Mayıs ayı enflasyonu % 3,37 olarak açıklandı. Çünkü 5 aylık enflasyon oranı % 2,72, yani SGK ve Bağkur emeklileri % 22,7 zammı şimdiden cebine koymuş oldu. Gözler 3 Temmuz'da açıklanacak Haziran enflasyonunda, bu rakam belli olduktan sonra Temmuz zamı da kesinleşmiş olacak. Peki tahminlere göre maaşlar ne kadar artabilir? Memur emekli milyonların gözü enflasyon rakamlarında. Yıllık enflasyonda % 75,5 olarak gerçekleşti. Bu enflasyon düşecek ve kalıcı olarak düşecek, ama zaman alacak; bütün aktörlerin sabırlı olması lazım.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 151
+**Retention**: 95.57%
+
+4 gibi bir enflasyon çok yüksek bir enflasyon. Fakat bu enflasyon 12 ay yansıtıyor. Temmuz zammını belirleyecek kritik orana bir adım daha yaklaşıldı. Yılbaşından itibaren 5 aylık enflasyon oranı belli oldu. Bu çerçevede 5 aylık TÜFE oranı % 2,72 oranında gerçekleşti. 5 aylık enflasyon % 2,72 olarak gerçekleşti. Bu da SSK, Bağkur ve tarım emeklileri için % 2,72 zam demek. Geriye sadece Haziran ayı enflasyon rakamı kaldı, o da 3 Temmuz'da açıklanacak. Tahminler şimdiden yapılmaya başlandı bile. Çeşitli enflasyon tahminlerine baktığımızda, Haziran ayı enflasyonu ile birlikte SSK ve Bağkur emeklilerinin yaklaşık olarak % 25 Temmuz ayında maaşlarının artmasını tahmin ediyoruz. 6 aylık enflasyon beklentisi % 25 olarak gerçekleşirse, Temmuz ayında SSK ve Bağkur emeklilerinin maaşları artacak. Bakalım hemen en düşük emekli maaşı 10,000 liradan 12,500 liraya yükselecek. 15,000 lira alan bir emeklinin maaşı 18,750 lira olacak. 20,000 lira maaş alan bir emekliye ise Temmuz ayında hesabına tam 2,500 lira eklenmiş olacak.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 102
+**Retention**: 82.26%
+
+Memur ve memur emeklisi, 5 aylık enflasyon farkı ve % 10'luk toplu sözleşme oranıyla % 17,3 zammı şimdiden hak etmiş oldu. Haziran ayı da ilave edilecek ve yapılan tahminlere göre memur ve memur emeklilerinin Temmuz ayında % 120 seviyelerinde bir artış alması bekleniyor. Memur maaşlarında % 120'lik bir artış yapılırsa, en düşük memur maaşı 34,235 liradan 41,082 liraya yükselecek. % 120'lik zam oranıyla hemşire maaşları 8,23 liraya, öğretmen maaşı 47,73 liraya, polis maaşları ise 53,50 liraya yükselecek. Kamuda çalışan mühendislerin maaşları da % 120'lik zam tahmini ile 6,142 liraya yükselecek. En düşük memur emeklisi aylığı da 1,474 liradan tahminlere göre artış gösterecek.
+
+================================================================================
+

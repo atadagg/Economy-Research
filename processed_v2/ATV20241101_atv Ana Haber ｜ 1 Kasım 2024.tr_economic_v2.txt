@@ -1,0 +1,31 @@
+# Economic Content from: ATV20241101_atv Ana Haber ｜ 1 Kasım 2024.tr.txt
+# Processed: 2025-07-22T16:19:28.283155
+# Original: 4644 words → Filtered: 239 words (5.15% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 107
+**Retention**: 74.31%
+
+Cuma Cumhurbaşkanı Erdoğan, İstanbul'da Irak Başbakanı Muhammed Şiya Sani'yi kabul etti. Bu görüşmede, iki ülkenin ekonomik iş birliği ve ticaret ilişkileri üzerinde duruldu. Özellikle, Türkiye'nin Irak ile olan ticaret hacminin artırılması gerektiği vurgulandı. Erdoğan, iki ülkenin huzur ve istikrarına hizmet edecek ekonomik projelerin önemine dikkat çekti. 
+
+Görüşme sırasında, Türkiye'nin bölgedeki ekonomik yatırımları ve bu yatırımların yerel ekonomilere katkısı ele alındı. Ayrıca, Türkiye'nin Irak'a yönelik ihracatının artırılması için atılacak adımlar üzerinde fikir alışverişinde bulunuldu. 
+
+Cumhurbaşkanı Erdoğan, yeni ekonomik müjdelerin yolda olduğunu belirtti ve bu müjdelerin iki ülke arasındaki ticaretin gelişmesine katkı sağlayacağını ifade etti. Ekonomik iş birliğinin güçlendirilmesi, her iki ülkenin de ekonomik istikrarı için kritik öneme sahip.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 132
+**Retention**: 44.90%
+
+Kasım ayının gelmesiyle alışveriş çılgınlığı başladı ve indirim fırsatlarından yararlanan sadece tüketiciler değil, dolandırıcılar da kendilerine gün doğduğunu düşünüyor. Araştırmalarda, insanların alışverişleri için Kasım ayını bekledikleri görülüyor. Bu ayda markalar ve firmalar indirim yarışına başladı; kampanyalar ve cazip fırsatlar ile tüketiciler online alışveriş furyasına kapıldılar. 2023 yılında Türkiye e-ticaret işlem hacmi yaklaşık 2 trilyon TL olarak gerçekleşti ve Kasım ayında diğer aylara göre %50'nin üzerinde bir işlem hacmi artışı görüyoruz. Bu durum, firmalar için büyük bir fırsat sunarken, dolandırıcılar da bu heyecanı fırsata çevirmeye çalışıyorlar. Dolandırıcılıktan dolayı bazı tüketiciler internet üzerinden alışveriş yapmayı tercih etmiyor. Kasım ayıyla birlikte dolandırıcılara da gün doğdu; bu dolandırıcılar bilinen markaların sitelerini kopyalayarak hayali satışlar yapıyorlar. Bu süreçte, kişisel ve kart bilgileri çalınabiliyor. Tüketicilerin, indirim mesajlarının kaynağına dikkat etmeleri ve yalnızca güvenilir e-ticaret markalarını kullanmaları tavsiye ediliyor.
+
+================================================================================
+

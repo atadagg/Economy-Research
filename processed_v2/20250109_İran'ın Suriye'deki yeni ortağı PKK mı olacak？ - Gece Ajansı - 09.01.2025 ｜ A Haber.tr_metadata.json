@@ -1,0 +1,71 @@
+{
+  "file_path": "news/AHaber/20250109_İran'ın Suriye'deki yeni ortağı PKK mı olacak？ - Gece Ajansı - 09.01.2025 ｜ A Haber.tr.txt",
+  "processing_timestamp": "2025-07-22T15:46:15.694708",
+  "original_word_count": 17725,
+  "filtered_word_count": 227,
+  "retention_ratio": 0.012806770098730607,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "İsrail hükümet komitesi netanyahu'ya...",
+      "description": "\"İsrail hükümet komitesi netanyahu'ya...\" - The program begins with a discussion of current geopolitical issues, setting the stage for the news content to follow. The presenter introduces the topics of the day and establishes the context for the broadcast.",
+      "end_pos": 94
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 94,
+      "start_sentence": "Türkiye ise savunma sanayinde çok önemli adımlar attı...",
+      "description": "\"Türkiye ise savunma sanayinde çok önemli adımlar attı...\" - This section contains the main news stories, including developments in Turkey's defense industry, political events in Iraq, and the situation in Gaza. It provides detailed information on various topics relevant to the audience.",
+      "end_pos": 942
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 942,
+      "start_sentence": "Şüphesiz ki tüm dünya gözlerini...",
+      "description": "\"Şüphesiz ki tüm dünya gözlerini...\" - This brief transition connects the discussion of international issues, particularly focusing on Syria and its implications, leading into the next news segment about Gaza.",
+      "end_pos": 1235
+    },
+    {
+      "type": "5. **OUTRO**",
+      "start_pos": 1235,
+      "start_sentence": "ama diğer taraftan İsrail vahşetini de sürdürüyor...",
+      "description": "\"ama diğer taraftan İsrail vahşetini de sürdürüyor...\" - The program concludes with remarks summarizing the news and possibly hinting at future discussions or ongoing coverage, although the exact closing statements are not provided in the excerpt.",
+      "end_pos": 1538
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1538,
+      "start_sentence": "Gazze'deki son durumu Öncelikle ekranlarınıza getirmek istiyoruz...",
+      "description": "\"Gazze'deki son durumu Öncelikle ekranlarınıza getirmek istiyoruz...\" - This part continues the news coverage, specifically detailing the dire situation in Gaza, including the humanitarian crisis and casualties resulting from ongoing conflicts.",
+      "end_pos": 122448
+    }
+  ],
+  "news_segments_count": 12,
+  "economic_segments_count": 2,
+  "economic_segments": [
+    {
+      "segment_id": "94_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 114,
+      "filtered_length": 126,
+      "retention_ratio": 1.105263157894737,
+      "section_description": "\"Türkiye ise savunma sanayinde çok önemli adımlar attı...\" - This section contains the main news stories, including developments in Turkey's defense industry, political events in Iraq, and the situation in Gaza. It provides detailed information on various topics relevant to the audience."
+    },
+    {
+      "segment_id": "1538_7",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 101,
+      "filtered_length": 101,
+      "retention_ratio": 1.0,
+      "section_description": "\"Gazze'deki son durumu Öncelikle ekranlarınıza getirmek istiyoruz...\" - This part continues the news coverage, specifically detailing the dire situation in Gaza, including the humanitarian crisis and casualties resulting from ongoing conflicts."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

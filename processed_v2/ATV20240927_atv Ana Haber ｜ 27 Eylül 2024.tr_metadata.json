@@ -1,0 +1,71 @@
+{
+  "file_path": "news/ATV/ATV20240927_atv Ana Haber ｜ 27 Eylül 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T16:37:28.657006",
+  "original_word_count": 4789,
+  "filtered_word_count": 211,
+  "retention_ratio": 0.04405930256838588,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 23,
+      "start_sentence": "İyi akşamlar Bugün 27 Eylül Cuma...",
+      "description": "\"İyi akşamlar Bugün 27 Eylül Cuma...\" - The program begins with a greeting and the date, introducing the main topic of discussion related to President Erdoğan's messages.",
+      "end_pos": 70
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 70,
+      "start_sentence": "Cumhurbaşkanı Erdoğan'ın mesajlarıyla başlayacağız...",
+      "description": "\"Cumhurbaşkanı Erdoğan'ın mesajlarıyla başlayacağız...\" - This section contains the actual news content, discussing President Erdoğan's statements regarding Turkey's efforts to become a permanent member of the UN Security Council and his comments on Israel.",
+      "end_pos": 392
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 392,
+      "start_sentence": "New York'ta yunanistan'la esen normalleşme rüzgarı soruldu...",
+      "description": "\"New York'ta yunanistan'la esen normalleşme rüzgarı soruldu...\" - A brief transition that shifts the focus from Erdoğan's statements to the topic of normalization with Greece.",
+      "end_pos": 1359
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1359,
+      "start_sentence": "Erdoğan ardından Dolmabahçe ofisine geçti...",
+      "description": "\"Erdoğan ardından Dolmabahçe ofisine geçti...\" - This section continues with further news content, detailing Erdoğan's meetings and comments, including his remarks about Netanyahu.",
+      "end_pos": 1939
+    },
+    {
+      "type": "5. **OUTRO**",
+      "start_pos": 1939,
+      "start_sentence": "bu vahşice katledilen bebeklerin çocukların anneleri...",
+      "description": "\"bu vahşice katledilen bebeklerin çocukların anneleri...\" - The closing remarks reflect on the serious implications of the discussed topics, serving as a conclusion to the news segment.",
+      "end_pos": 34123
+    }
+  ],
+  "news_segments_count": 6,
+  "economic_segments_count": 2,
+  "economic_segments": [
+    {
+      "segment_id": "1939_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 182,
+      "filtered_length": 147,
+      "retention_ratio": 0.8076923076923077,
+      "section_description": "\"bu vahşice katledilen bebeklerin çocukların anneleri...\" - The closing remarks reflect on the serious implications of the discussed topics, serving as a conclusion to the news segment."
+    },
+    {
+      "segment_id": "1939_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 188,
+      "filtered_length": 64,
+      "retention_ratio": 0.3404255319148936,
+      "section_description": "\"bu vahşice katledilen bebeklerin çocukların anneleri...\" - The closing remarks reflect on the serious implications of the discussed topics, serving as a conclusion to the news segment."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

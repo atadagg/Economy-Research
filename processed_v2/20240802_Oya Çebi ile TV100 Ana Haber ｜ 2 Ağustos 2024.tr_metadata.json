@@ -1,0 +1,105 @@
+{
+  "file_path": "news/TV100/20240802_Oya Çebi ile TV100 Ana Haber ｜ 2 Ağustos 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T18:02:28.771745",
+  "original_word_count": 11011,
+  "filtered_word_count": 517,
+  "retention_ratio": 0.04695304695304695,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "efendim İyi akşamlar TV ekranlarına hoş geldiniz",
+      "description": "\"efendim İyi akşamlar TV ekranlarına hoş geldiniz\" - The presenter welcomes viewers to the program, introduces themselves, and outlines the topics that will be covered, setting the stage for the news broadcast.",
+      "end_pos": 94
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 94,
+      "start_sentence": "Hani'nin cenazesine gideceğiz bugün Katar'da Doha'da neler yaşandı",
+      "description": "\"Hani'nin cenazesine gideceğiz bugün Katar'da Doha'da neler yaşandı\" - The main content of the broadcast begins here, detailing various news stories, starting with the funeral of Hamas leader Ismail Haniyeh, including significant events and reactions surrounding it.",
+      "end_pos": 94
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 94,
+      "start_sentence": "Hani'nin naşı tahran'daki törenin ardından doha'ya getirildi",
+      "description": "\"Hani'nin naşı tahran'daki törenin ardından doha'ya getirildi\" - The news segment continues with further details about the funeral, including the participation of notable figures and the atmosphere during the ceremony.",
+      "end_pos": 94
+    },
+    {
+      "type": "6. **NEWS**",
+      "start_pos": 94,
+      "start_sentence": "Hani'nin naşı dualar ve Sloganlar eşliğinde lusail kentindeki mezarlıkta toprağa verildi",
+      "description": "\"Hani'nin naşı dualar ve Sloganlar eşliğinde lusail kentindeki mezarlıkta toprağa verildi\" - The news segment continues with the conclusion of the funeral proceedings, providing details about the burial and the reactions of attendees.",
+      "end_pos": 677
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 677,
+      "start_sentence": "Bu arada bir yandan görüntüler gelecek ekranlarınıza",
+      "description": "\"Bu arada bir yandan görüntüler gelecek ekranlarınıza\" - This brief transition indicates a shift in focus within the news segment, as visuals are introduced to accompany the ongoing story about Haniyeh's funeral.",
+      "end_pos": 677
+    },
+    {
+      "type": "5. **TRANSITION**",
+      "start_pos": 677,
+      "start_sentence": "Bu arada Hamas lideri için cuma namazını müteakip cenaze namazı kılındı",
+      "description": "\"Bu arada Hamas lideri için cuma namazını müteakip cenaze namazı kılındı\" - Another transition within the news segment, indicating a shift to discussing the specific religious ceremonies that took place following the funeral.",
+      "end_pos": 77358
+    }
+  ],
+  "news_segments_count": 11,
+  "economic_segments_count": 5,
+  "economic_segments": [
+    {
+      "segment_id": "94_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 78,
+      "filtered_length": 91,
+      "retention_ratio": 1.1666666666666667,
+      "section_description": "\"Hani'nin naşı dualar ve Sloganlar eşliğinde lusail kentindeki mezarlıkta toprağa verildi\" - The news segment continues with the conclusion of the funeral proceedings, providing details about the burial and the reactions of attendees."
+    },
+    {
+      "segment_id": "677_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 140,
+      "filtered_length": 95,
+      "retention_ratio": 0.6785714285714286,
+      "section_description": "\"Bu arada Hamas lideri için cuma namazını müteakip cenaze namazı kılındı\" - Another transition within the news segment, indicating a shift to discussing the specific religious ceremonies that took place following the funeral."
+    },
+    {
+      "segment_id": "677_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 190,
+      "filtered_length": 94,
+      "retention_ratio": 0.49473684210526314,
+      "section_description": "\"Bu arada Hamas lideri için cuma namazını müteakip cenaze namazı kılındı\" - Another transition within the news segment, indicating a shift to discussing the specific religious ceremonies that took place following the funeral."
+    },
+    {
+      "segment_id": "677_5",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 198,
+      "filtered_length": 135,
+      "retention_ratio": 0.6818181818181818,
+      "section_description": "\"Bu arada Hamas lideri için cuma namazını müteakip cenaze namazı kılındı\" - Another transition within the news segment, indicating a shift to discussing the specific religious ceremonies that took place following the funeral."
+    },
+    {
+      "segment_id": "677_8",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 164,
+      "filtered_length": 102,
+      "retention_ratio": 0.6219512195121951,
+      "section_description": "\"Bu arada Hamas lideri için cuma namazını müteakip cenaze namazı kılındı\" - Another transition within the news segment, indicating a shift to discussing the specific religious ceremonies that took place following the funeral."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "file_path": "news/Show/20240703_Show Ana Haber 3 Temmuz 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T17:40:06.061522",
+  "original_word_count": 2635,
+  "filtered_word_count": 323,
+  "retention_ratio": 0.12258064516129032,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 4,
+      "start_sentence": "İyi akşamlar değerli izleyenler",
+      "description": "\"İyi akşamlar değerli izleyenler\" - The presenter introduces herself and sets the stage for the news broadcast, indicating the start of the program.",
+      "end_pos": 98
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 98,
+      "start_sentence": "Milli takım dün akşam destanlarına bir yenisini daha ekledi",
+      "description": "\"Milli takım dün akşam destanlarına bir yenisini daha ekledi\" - This section contains the main news content, detailing the Turkish national football team's victory over Austria and the subsequent reactions and events surrounding the match.",
+      "end_pos": 1662
+    },
+    {
+      "type": "3. **OUTRO**",
+      "start_pos": 1662,
+      "start_sentence": "Tüm bu sevince gölge düşüren haberse UEFA'dan geldi",
+      "description": "\"Tüm bu sevince gölge düşüren haberse UEFA'dan geldi\" - The closing remarks summarize the news and provide a final thought on the UEFA investigation, indicating the end of the news segment.",
+      "end_pos": 18503
+    }
+  ],
+  "news_segments_count": 10,
+  "economic_segments_count": 4,
+  "economic_segments": [
+    {
+      "segment_id": "1662_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 81,
+      "filtered_length": 74,
+      "retention_ratio": 0.9135802469135802,
+      "section_description": "\"Tüm bu sevince gölge düşüren haberse UEFA'dan geldi\" - The closing remarks summarize the news and provide a final thought on the UEFA investigation, indicating the end of the news segment."
+    },
+    {
+      "segment_id": "1662_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 165,
+      "filtered_length": 90,
+      "retention_ratio": 0.5454545454545454,
+      "section_description": "\"Tüm bu sevince gölge düşüren haberse UEFA'dan geldi\" - The closing remarks summarize the news and provide a final thought on the UEFA investigation, indicating the end of the news segment."
+    },
+    {
+      "segment_id": "1662_6",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 312,
+      "filtered_length": 114,
+      "retention_ratio": 0.36538461538461536,
+      "section_description": "\"Tüm bu sevince gölge düşüren haberse UEFA'dan geldi\" - The closing remarks summarize the news and provide a final thought on the UEFA investigation, indicating the end of the news segment."
+    },
+    {
+      "segment_id": "1662_7",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 55,
+      "filtered_length": 45,
+      "retention_ratio": 0.8181818181818182,
+      "section_description": "\"Tüm bu sevince gölge düşüren haberse UEFA'dan geldi\" - The closing remarks summarize the news and provide a final thought on the UEFA investigation, indicating the end of the news segment."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

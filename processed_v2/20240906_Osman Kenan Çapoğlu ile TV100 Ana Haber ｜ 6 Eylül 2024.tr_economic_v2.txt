@@ -1,0 +1,27 @@
+# Economic Content from: 20240906_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 6 Eylül 2024.tr.txt
+# Processed: 2025-07-22T18:13:12.576205
+# Original: 10828 words → Filtered: 187 words (1.73% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 111
+**Retention**: 67.27%
+
+L olan SSK ve Bağkur emeklisinin alacağı ücretin 14 180 liraya çıkacağını gösteriyor. Memur ve memur emeklisi aylığında da değişiklik olacak; memur emeklilerinin ücret artışı ise % 19,3 oranında kalıyor. Orta vadeli programa göre tahmini rakamlar 3 Ocak 2025'te belli olacak. Ancak, bugün maaşı 8 500 lira olan ve cebine giren para taban uygulaması nedeniyle 12 500 lira olan yüz binlerce kişi var. Eğer yeni dönemde taban uygulama artmazsa ve zam gelmezse, o kişiler yine 12 500 lira almaya devam edecekler. Geçtiğimiz yılın tablosuna bakınca, bakıcı ücretlerinin iki katına çıktığı görülüyor. Bu durum, ailelerin mali durumunu zorlaştırıyor ve çalışan anne babalar için çocuklarına bakmak ciddi bir ekonomik yük haline gelmiş durumda.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 76
+**Retention**: 55.07%
+
+Son dönemlerde bakıcı taleplerinin artması ile beraber ücretlerde de bir artış gözlemlendi. Bir bakıcının ortalama maaşı 1,000 dolar yani 50,000 lirayı buluyor. Bakıcıya ihtiyaç duyan aileler, bakıcı bulamamaktan ve ücretlerden yakınıyor. Geçen senelerde fiyatlar 800 dolar ile 900 dolar bandındayken, şu anda 1,000 dolar ile 1,200 dolar civarına yükseldi. Türkmen ve Özbek bakıcılar 1,000-1,200 dolar civarında çalışırken, Filipinli bakıcılar da 1,800 dolardan 2,200 dolara kadar ücret talep ediyorlar. Bu yüksek ücretler, ailelerin maliyetlerini önemli ölçüde artırıyor.
+
+================================================================================
+

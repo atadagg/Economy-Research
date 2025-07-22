@@ -1,0 +1,27 @@
+# Economic Content from: ATV20240611_atv Ana Haber ｜ 11 Haziran 2024.tr.txt
+# Processed: 2025-07-22T16:17:22.046256
+# Original: 4854 words → Filtered: 140 words (2.88% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 100
+**Retention**: 48.31%
+
+Kiraz üreticileri, kiraz toplama ile ilgili personel bulma konusunda büyük sıkıntı yaşıyor. İşçi sıkıntısı nedeniyle bazı bölgelerde günlük 2,000 lira verilmesine rağmen işçi bulunamıyor. Çanakkale'nin Lapseki ilçesi, Türkiye'nin önemli kiraz üretim merkezlerinden biri olarak, işçi sıkıntısı yaşanan bölgeler arasında yer alıyor. Tarımda çalışacak gençlerin ilgisi azalmış durumda, bu da üretim süreçlerini olumsuz etkiliyor. Bir işçinin günde 70-75 kilo kiraz toplaması gerektiği belirtiliyor, ancak bu hedefe ulaşmak için yeterli iş gücü sağlanamıyor. Malatya'nın meşhur Yeşilyurt dalbastı kirazında da hasat başladı, ancak orada da benzer bir işçi bulma sorunu yaşanıyor. Bu durum, tarım sektöründeki iş gücü maliyetlerini artırarak, üretim verimliliğini tehdit ediyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_final
+**Confidence**: 0.50
+**Word Count**: 40
+**Retention**: 52.63%
+
+Birçok bölgede kirazın dalda kalma riski var. Bu da fiyatların daha da artması anlamına geliyor. Çarşı pazarda fiyatların yüksek olmasının bir diğer sebebi de yüksek kar marjı koyan aracılar. Çiftçinin belki de 2 senede kazanmadığını, aracılar bir ayın içinde kazanmaktadır.
+
+================================================================================
+

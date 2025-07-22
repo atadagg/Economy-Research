@@ -1,0 +1,34 @@
+# Economic Content from: 20250201_Dünya Neyin Savaşına Hazırlanıyor？ Yeni Amerika Yeni Savaşlar Mı İstiyor？ I Gece Ajansı ｜ A Haber.tr.txt
+# Processed: 2025-07-22T15:48:41.792365
+# Original: 11491 words → Filtered: 117 words (1.02% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 54
+**Retention**: 100.00%
+
+edeceğiz Peki kimler bugün bizlerle hemen kendilerini takdim etmek istiyorum sizlere gazeteci Ekrem
+Kızıltaş Hoş geldiniz hoş bulduk efendim İyi yayınlar çok kıymetli Uluslararası Hukuk uzmanı Doktor
+Filiz değer Hoş geldiniz fiz hocam hoş bulduk i yayınlar Çok teşekkür ediyorum uluslararası
+ilişkiler uzmanı Doktor Canan Tercan Hoş geldiniz Teşekkür ediyorum Sağ olun ve uluslararası
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 63
+**Retention**: 100.00%
+
+ilişkiler uzmanı Doktor Günel Hoş geldiniz hoş bulduk İyi yayınlar Bey çok teşekkür ediyorum
+Şüphesiz ki dünyada konuşacağımız önemli başlıklar var Birazdan sizlerin kıymetli yorumlarını
+alacağım hem Amerika Birleşik Devletleri özerinde hem de bölgemizde Ortadoğu'da yaşananlarla ilgili
+ki artık konu Sadece bu bölgeyle sınırlı kalmadı Donald trump'ın mevcut açıklamaları göreve
+geldikten sonra yaptığı açıklamalar attığı adımlar tüm dünyayı kapsar vaziyete geldi dünyanın hemen
+
+================================================================================
+

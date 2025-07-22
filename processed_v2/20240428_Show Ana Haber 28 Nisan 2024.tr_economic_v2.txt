@@ -1,0 +1,16 @@
+# Economic Content from: 20240428_Show Ana Haber 28 Nisan 2024.tr.txt
+# Processed: 2025-07-22T17:52:50.666097
+# Original: 2949 words → Filtered: 96 words (3.26% retention)
+# Economic segments: 1
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 96
+**Retention**: 48.73%
+
+Milyonlar bir kez daha bu sorunun yanıtını merak ediyor. Bakan Işıkhan yine çok net konuşurken CHP grubundan da asgari ücret hamlesi geldi. Asgari ücrette herhangi bir artış düşünmüyoruz Temmuz'da. Asgari ücrette artış tartışması bir kez daha gündemde. Bakan Işıkhan, yapılan %49'luk Ocak ayı zamını hatırlatarak, Temmuz ayında zam yapılmayacağı göz önünde bulundurularak belirlenmişti dedi. Fiyatların durması lazım artık. Ocak ayında asgari ücret 600 küsür Euro yapıyordu, şu an 520 lira civarında. Asgari ücrette %49'luk artışla 5,600 lira zam yapılmış, işçinin en düşük maaşı 17,2 lira olmuştu. Işıkhan, "Ekonomi denge işidir. Biz kalıcı refah artışı derdindeyiz" dedi.
+
+================================================================================
+

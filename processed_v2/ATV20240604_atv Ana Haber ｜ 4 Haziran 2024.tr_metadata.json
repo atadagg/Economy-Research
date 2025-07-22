@@ -1,0 +1,85 @@
+{
+  "file_path": "news/ATV/ATV20240604_atv Ana Haber ｜ 4 Haziran 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T16:46:00.212974",
+  "original_word_count": 4874,
+  "filtered_word_count": 169,
+  "retention_ratio": 0.03467377923676652,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 23,
+      "start_sentence": "İyi akşamlar Bugün 4 Haziran 2024 salı...",
+      "description": "\"İyi akşamlar Bugün 4 Haziran 2024 salı...\" - The presenter opens the broadcast, greeting the audience and introducing the date and context of the news.",
+      "end_pos": 81
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 81,
+      "start_sentence": "Cumhurbaşkanı liderliğinde önemli bir toplantı gerçekleşti...",
+      "description": "\"Cumhurbaşkanı liderliğinde önemli bir toplantı gerçekleşti...\" - This section contains the main news content, discussing significant topics such as a meeting led by the president, issues related to terrorism, and economic updates, including news about holiday bonuses for retirees.",
+      "end_pos": 91
+    },
+    {
+      "type": "5. **TRANSITION**",
+      "start_pos": 91,
+      "start_sentence": "Bir de senin söylediğin konu var önemli...",
+      "description": "\"Bir de senin söylediğin konu var önemli...\" - Another transition that leads into a discussion about the potential extension of the holiday period.",
+      "end_pos": 283
+    },
+    {
+      "type": "6. **NEWS**",
+      "start_pos": 283,
+      "start_sentence": "Bayram tatili 9 güne çıkarılacak mı Malum e 15 Haziran itibariyle...",
+      "description": "\"Bayram tatili 9 güne çıkarılacak mı Malum e 15 Haziran itibariyle...\" - This section elaborates on the holiday schedule and the implications of the upcoming Bayram holiday.",
+      "end_pos": 382
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 382,
+      "start_sentence": "Biraz önce bitti ve Erdoğan kameralar karşısına geçti...",
+      "description": "\"Biraz önce bitti ve Erdoğan kameralar karşısına geçti...\" - This brief transition indicates a shift in focus to the president's statements following the meeting.",
+      "end_pos": 570
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 570,
+      "start_sentence": "Çünkü milyonların merakla beklediği özellikle emeklilerin merakla beklediği bir haber vardı...",
+      "description": "\"Çünkü milyonların merakla beklediği özellikle emeklilerin merakla beklediği bir haber vardı...\" - This part continues with more detailed news about the holiday bonuses for retirees, including specific amounts and payment dates.",
+      "end_pos": 1825
+    },
+    {
+      "type": "7. **OUTRO**",
+      "start_pos": 1825,
+      "start_sentence": "Eee 14'ünde 24'ü kadar 14 haziranla 24 Haziran tarihleri arasında...",
+      "description": "\"Eee 14'ünde 24'ü kadar 14 haziranla 24 Haziran tarihleri arasında...\" - The closing remarks summarize the information discussed and provide a final note on the holiday period.",
+      "end_pos": 34457
+    }
+  ],
+  "news_segments_count": 5,
+  "economic_segments_count": 2,
+  "economic_segments": [
+    {
+      "segment_id": "570_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 175,
+      "filtered_length": 75,
+      "retention_ratio": 0.42857142857142855,
+      "section_description": "\"Çünkü milyonların merakla beklediği özellikle emeklilerin merakla beklediği bir haber vardı...\" - This part continues with more detailed news about the holiday bonuses for retirees, including specific amounts and payment dates."
+    },
+    {
+      "segment_id": "1825_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 184,
+      "filtered_length": 94,
+      "retention_ratio": 0.5108695652173914,
+      "section_description": "\"Eee 14'ünde 24'ü kadar 14 haziranla 24 Haziran tarihleri arasında...\" - The closing remarks summarize the information discussed and provide a final note on the holiday period."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

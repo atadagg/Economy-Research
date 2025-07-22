@@ -1,0 +1,57 @@
+{
+  "file_path": "news/ATV/ATV20240811_atv Ana Haber ｜ 11 Ağustos 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T16:24:25.700404",
+  "original_word_count": 4658,
+  "filtered_word_count": 122,
+  "retention_ratio": 0.026191498497209104,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 23,
+      "start_sentence": "İyi akşamlar Bugün 11 ağustos 2024 pazar...",
+      "description": "\"İyi akşamlar Bugün 11 ağustos 2024 pazar...\" - The opening of the broadcast where the presenter greets the audience and introduces the date and significance of the news to be covered.",
+      "end_pos": 77
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 77,
+      "start_sentence": "Türkiye'nin değil dünyanın konuştuğu son 80 yılın en büyük esir takası ile ilgili yeni detaylar...",
+      "description": "\"Türkiye'nin değil dünyanın konuştuğu son 80 yılın en büyük esir takası ile ilgili yeni detaylar...\" - The main content of the broadcast, detailing the significant prisoner exchange that took place, including background information, key players, and the process involved.",
+      "end_pos": 380
+    },
+    {
+      "type": "3. **OUTRO**",
+      "start_pos": 380,
+      "start_sentence": "İşte bu dört ayak üzerine kuruldu takas diplomasisi...",
+      "description": "\"İşte bu dört ayak üzerine kuruldu takas diplomasisi...\" - The closing remarks summarizing the news story and possibly thanking the audience or providing a final thought before ending the program.",
+      "end_pos": 33594
+    }
+  ],
+  "news_segments_count": 9,
+  "economic_segments_count": 2,
+  "economic_segments": [
+    {
+      "segment_id": "380_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 149,
+      "filtered_length": 68,
+      "retention_ratio": 0.4563758389261745,
+      "section_description": "\"İşte bu dört ayak üzerine kuruldu takas diplomasisi...\" - The closing remarks summarizing the news story and possibly thanking the audience or providing a final thought before ending the program."
+    },
+    {
+      "segment_id": "380_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 72,
+      "filtered_length": 54,
+      "retention_ratio": 0.75,
+      "section_description": "\"İşte bu dört ayak üzerine kuruldu takas diplomasisi...\" - The closing remarks summarizing the news story and possibly thanking the audience or providing a final thought before ending the program."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

@@ -1,0 +1,38 @@
+# Economic Content from: 20240808_Show Ana Haber 8 Ağustos 2024.tr.txt
+# Processed: 2025-07-22T17:37:53.953214
+# Original: 2124 words → Filtered: 216 words (10.17% retention)
+# Economic segments: 3
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 56
+**Retention**: 65.12%
+
+Hay geçen yıl iki ülke arasında ticaret hacmi 1,3 milyar dolara ulaştı. İki liderin buluşmasında, Filistin'e insani yardımların ulaştırılması için iki ülkenin atacağı ortak adımlar da masaya yatırıldı. Bu tür işbirlikleri, ekonomik ilişkilerin güçlenmesine katkı sağlayabilir. Ayrıca, bölgedeki gerilimlerin ekonomik etkileri üzerinde de duruldu. Ekonomik veriler, ticaretin ve yatırımların artışını destekleyen bir ortamın sağlanması gerektiğini gösteriyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 58
+**Retention**: 36.94%
+
+Paris'teki İstanbul evinin haftalık maliyeti tartışmalara neden olmuştu. İstanbul Büyükşehir Belediyesi'nden dikkat çeken bir açıklama geldi. İstanbul evinin haftalık maliyetinin yarım milyon euroya yakın olduğu iddiaları da ortaya atılmıştı. Paris'teki İstanbul evinin maliyeti tartışılırken açıklama İmamoğlu'nun danışmanı Murat Ongun'dan geldi. Ongun, evin haftalık kirasının 249 bin euro olduğunu belirtti. Bu serginin bu yönüyle Paris'te çok değerli olduğunu düşünüyorum.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 102
+**Retention**: 72.86%
+
+Merkez Bankası yıl sonu enflasyon tahminini değiştirmedi. Milyonlara memur ve emeklinin Ocak ayında alacağı zamma kilitlendi. Peki % enflasyon tahmini tutarsa zamlı maaşlar ne kadara yükselecek? İşte o hesaplama: Merkez Bankası kritik veriyi açıkladı, yıl sonu enflasyon tahmini sabit kaldı. Gözlerse memur ve emeklinin maaş zammına çevrildi. Enflasyon hedefi için ne gerekiyorsa bunu yapmaya hazırız. Ocakta % 6,62 zam alacak bu durumda da en düşük memur maaşı 3917,7 liradan 4,77 L seviyesine yükselecek. En düşük memur emeklisi maaşı ise 17,587 liradan 18,75 L olacak. SSK ve Bağkur emeklisi de temmuzda % 2,73 zam alırken en düşük emekli aylığı da 10,000 lira olacak.
+
+================================================================================
+

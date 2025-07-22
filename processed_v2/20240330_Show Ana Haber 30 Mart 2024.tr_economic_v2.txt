@@ -1,0 +1,22 @@
+# Economic Content from: 20240330_Show Ana Haber 30 Mart 2024.tr.txt
+# Processed: 2025-07-22T17:16:55.002368
+# Original: 3889 words → Filtered: 126 words (3.24% retention)
+# Economic segments: 1
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 126
+**Retention**: 47.91%
+
+Ülkemizde ekonomik veriler ve istatistikler, iş dünyası üzerinde önemli bir etki yaratıyor. Özellikle son dönemde enflasyon oranları ve maliyet artışları, birçok işletmenin faaliyetlerini zorlaştırıyor. İşletmeler, artan maliyetler nedeniyle eleman çalıştırmakta zorluk çekiyor. 
+
+Ayrıca, dünya genelinde lüks tüketim ürünlerinin fiyatları dikkat çekiyor. Örneğin, bir ünlü marka tarafından tasarlanan ve koli bandından yapılan bir bileklik, 9638 liradan satışa sunuldu. Bu tür fiyatlandırmalar, tüketici davranışlarını ve lüks tüketim alışkanlıklarını etkileyebilir. 
+
+Ekonomik analizler, bu tür ürünlerin piyasada nasıl karşılandığını ve tüketicilerin harcama alışkanlıklarını etkileyen faktörleri incelemeye devam ediyor. Özellikle yüksek fiyatlı aksesuarların, tüketicilerin bütçeleri üzerindeki etkisi ve lüks tüketim anlayışı, ekonomide önemli bir tartışma konusu haline geldi. 
+
+Sonuç olarak, ekonomik veriler ve tüketici davranışları, iş dünyasında önemli değişimlere yol açmakta ve bu durum, şirketlerin stratejilerini yeniden gözden geçirmelerine neden olmaktadır.
+
+================================================================================
+

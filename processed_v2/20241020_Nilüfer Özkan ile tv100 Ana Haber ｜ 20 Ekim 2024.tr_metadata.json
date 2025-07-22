@@ -1,0 +1,69 @@
+{
+  "file_path": "news/TV100/20241020_Nilüfer Özkan ile tv100 Ana Haber ｜ 20 Ekim 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T18:41:40.066510",
+  "original_word_count": 6171,
+  "filtered_word_count": 53,
+  "retention_ratio": 0.008588559390698428,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "TV1 an Haber'e Hoş geldiniz değerli izleyenler",
+      "description": "\"TV1 an Haber'e Hoş geldiniz değerli izleyenler\" - The opening of the broadcast where the presenter welcomes viewers and introduces the program.",
+      "end_pos": 99
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 99,
+      "start_sentence": "malumunuz günlerdir Yenidoğan Çetesi skandalını konuşuyoruz",
+      "description": "\"malumunuz günlerdir Yenidoğan Çetesi skandalını konuşuyoruz\" - The main news content discussing the Yenidoğan Çetesi scandal, detailing the allegations and the ongoing investigation.",
+      "end_pos": 403
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 403,
+      "start_sentence": "şimdi bu konudaki haberimiz gelsin ekranlara",
+      "description": "\"şimdi bu konudaki haberimiz gelsin ekranlara\" - A brief transition phrase indicating that the next segment of news is about to begin, specifically related to the ongoing scandal.",
+      "end_pos": 497
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 497,
+      "start_sentence": "küçücük bebeklerin cenazelerini B satıa çıktı",
+      "description": "\"küçücük bebeklerin cenazelerini B satıa çıktı\" - Continuation of the news segment, providing further details about the scandal involving the alleged sale of deceased infants' bodies.",
+      "end_pos": 1074
+    },
+    {
+      "type": "5. **NEWS**",
+      "start_pos": 1074,
+      "start_sentence": "Bunlar abartıdan arayınca aile bir daha hastaneye gidiyor",
+      "description": "\"Bunlar abartıdan arayınca aile bir daha hastaneye gidiyor\" - Further elaboration on the scandal, including specific interactions between families and the alleged criminal organization.",
+      "end_pos": 1565
+    },
+    {
+      "type": "6. **OUTRO**",
+      "start_pos": 1565,
+      "start_sentence": "Evet ya bu akşam bir Galatasaray maçım var",
+      "description": "\"Evet ya bu akşam bir Galatasaray maçım var\" - Closing remarks where the presenter transitions to a lighter topic, indicating the end of the serious news segment.",
+      "end_pos": 44168
+    }
+  ],
+  "news_segments_count": 6,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "1565_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 51,
+      "filtered_length": 53,
+      "retention_ratio": 1.0392156862745099,
+      "section_description": "\"Evet ya bu akşam bir Galatasaray maçım var\" - Closing remarks where the presenter transitions to a lighter topic, indicating the end of the serious news segment."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

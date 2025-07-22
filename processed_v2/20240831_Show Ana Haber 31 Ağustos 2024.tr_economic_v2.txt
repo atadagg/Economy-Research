@@ -1,0 +1,44 @@
+# Economic Content from: 20240831_Show Ana Haber 31 Ağustos 2024.tr.txt
+# Processed: 2025-07-22T17:34:17.256988
+# Original: 2426 words → Filtered: 277 words (11.42% retention)
+# Economic segments: 3
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 94
+**Retention**: 120.51%
+
+Türkiye'nin ekonomik durumu ve gelişmeleri üzerine önemli veriler ve istatistikler paylaşılmaktadır. Cumhurbaşkanı Erdoğan, Türkiye'nin doğu ve batı ile ilişkilerini güçlendirerek ekonomik etkinliğini artırabileceğini vurguladı. Bu bağlamda, hükümetin ekonomik politikaları, ülkenin çıkarlarını koruma amacıyla kararlılıkla uygulanacaktır. 
+
+Ayrıca, Türk donanmasının güçlenmesi, savunma sanayisinin yanı sıra ekonomik büyümeye de katkı sağlayacaktır. Bu tür gelişmeler, yatırımcılar için önemli bir güven ortamı yaratmakta ve finansal piyasalarda olumlu bir etki yaratmaktadır. Türkiye'nin stratejik konumu, ticaret ve yatırım fırsatlarını artırarak ekonomik büyümeyi destekleyecektir. 
+
+Sonuç olarak, Türkiye'nin ekonomik hedefleri doğrultusunda atılan adımlar, hem iç hem de dış yatırımcılar için önemli fırsatlar sunmaktadır.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 121
+**Retention**: 35.28%
+
+Antalya Lara ve Konyaaltı'nda 13 yıldır faaliyet gösteren bir sanat merkezi, iddiaya göre 2 ay önce kapanmış ve eğitimlerine son vermişti. Mağdurlar, kayıt yaptıran ve parasını peşin ödeyenlerin haklarını talep etmekte. Son yılda kayıt yaptıran yaklaşık 800 kişi, cayma bedeli olarak 50 küsür bin lira talep edildiğini öğrenmiş durumda. 
+
+Düğün sektörü, artan maliyetlerden dolayı beklediğini bulamadı. Çiftler, yüksek enflasyon nedeniyle evlenme maliyetlerinin arttığını belirtirken, esnaf alışverişlerde taksit sayısının artırılmasını talep etti. Şu anda evlenmenin minimum maliyeti 1 milyon lira civarında. Düğün organizasyonları, eskisi gibi kalabalık değil; daha butik organizasyonlar tercih ediliyor. Artan maliyetler, evlenmek isteyen çiftleri zor durumda bırakıyor. Düğün salonu, organizasyon, hediyelikler, gelinlik ve damatlık ücretleri ile takı maliyetleri, evlilik sürecindeki masrafları katlanarak artırıyor. Ev eşyaları da yapılan zamlardan etkileniyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 62
+**Retention**: 78.48%
+
+Fiyatlar artınca çiftler evlilik kararını iki kere düşünmeye başladı. Çoğu kişi kredi çekip bu tür hazırlıklarını yapıyordu; krediler de hem çok yükseldi faiz oranları hem de düşük miktarlarda ekonomik zorluklar yaşanıyor. Bence evlenenlerin sayısı yaklaşık % 115 azaldı. Hal böyle olunca düğün sektöründeki 230 kalemde büyük zarar görüldü. 5 yıldızlı otellerde 100 kişilik bir düğün yapmayı düşünseniz şu anda maliyetler oldukça yüksek.
+
+================================================================================
+

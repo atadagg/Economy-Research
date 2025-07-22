@@ -1,0 +1,38 @@
+# Economic Content from: ATV20241015_atv Ana Haber ｜ 15 Ekim 2024.tr.txt
+# Processed: 2025-07-22T16:50:56.201225
+# Original: 4596 words → Filtered: 277 words (6.03% retention)
+# Economic segments: 3
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 52
+**Retention**: 82.54%
+
+Yıllık 750 lira katkı payı alınacak kredi kartları, 13.1 milyar lira destekte teklif yasalaşırsa Ocak ayının başında 100,000'den fazla limitli kredi kartlarında hizmet bedeli banka tarafından kesilecek ve fona aktarılacak. Yıl içinde limiti artan veya yeni alınan kartlardan da hizmet bedeli alınacak. Birden fazla kartı olan her kart için hizmet bedeli ödenecek.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 173
+**Retention**: 79.00%
+
+Merkez Bankasının faizi düşürmesi ile ilgili tartışmalar devam ederken bankalardan kredi kartları ve ihtiyaç kredileriyle ilgili önemli bir paket geldi. Borçlarını ödemekte zorlananlar için bir yapılandırma fırsatı sunuluyor. Bu %31'lik aylık faiz şu an yüksek gibi görünse de eğer faizler düşerse tüketicilere yeniden yapılandırma şansı verilecek. BDDK'nın yaptığı düzenleme, vatandaşları rahatlattığı gibi bankaları da rahatlatan bir düzenleme. Takibe düşmüş tüketici borçlarının toplamı 90 milyar lira yakın bir borç var; hem birikmiş ihtiyaç kredileri hem de kredi kartı borçları için fırsat başladı. Tüketiciler için başlatılan kredi yapılandırma kampanyalarında öncülüğü kamu bankaları yaptı. Özel bankalarda henüz uygulama başlamamıştı ama önümüzdeki günlerde onlar da bu 60 ay vadelendirme hayata geçireceklerdir. Kredi kartı ve ihtiyaç kredi borçlarını ödeyemeyenler toplam borcunu 60 aya kadar vadelendiriliyor ve kamu bankasında yapılandırılan tutar şimdi de 1,5 milyarı buldu. İhtiyaç kredisi ve kredi kartı borç yapılandırması için faiz oranı %3,11 olarak belirlenmiş. İlk bakışta yüksek gibi gözükse de uzmanlara göre bu oran düşebilir, yani ödenecek borç da azalabilir. Faiz, kredi kartı borçları için uygulanacak faiz oranı 3,11 olarak belirlenmiş. Eğer faiz düşerse...
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 52
+**Retention**: 71.23%
+
+100,000 TL borcun 60 ay ve %3,11 faiz oranına göre yapılandırılması halinde aylık taksitler 3,698 TL'ye denk geliyor. Toplam ödenecek borç miktarı ise 221,000 TL. Aynı şekilde, 50,000 TL'lik borcun yeni düzenlemeye göre yapılandırılması durumunda aylık taksit 2,222 TL olacaktır. 50,000 TL'lik borcu 60 ay vadeyle yapılandırdığınızda toplam rakam 13,000 TL olacaktır.
+
+================================================================================
+

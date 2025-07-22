@@ -1,0 +1,68 @@
+{
+  "file_path": "news/ATV/(controled) ATV20240118_atv Ana Haber ｜ 18 Ocak 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T15:55:17.022937",
+  "original_word_count": 4562,
+  "filtered_word_count": 320,
+  "retention_ratio": 0.07014467338886453,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "Haberin merkezinden Atv Haber merkezinden İyi akşamlar",
+      "description": "\"Haberin merkezinden Atv Haber merkezinden İyi akşamlar\" - This section serves as the opening of the broadcast, where the presenter greets the audience and introduces the program.",
+      "end_pos": 46
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 46,
+      "start_sentence": "Bugün 18 Ocak 2024 Perşembe AK Parti aday tanıtım toplantısının ikincisini düzenledi",
+      "description": "\"Bugün 18 Ocak 2024 Perşembe AK Parti aday tanıtım toplantısının ikincisini düzenledi\" - This section contains the main news content, detailing the announcement of candidates by the AK Party and the statements made by President Erdoğan regarding various political issues.",
+      "end_pos": 32350
+    }
+  ],
+  "news_segments_count": 8,
+  "economic_segments_count": 4,
+  "economic_segments": [
+    {
+      "segment_id": "46_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 155,
+      "filtered_length": 80,
+      "retention_ratio": 0.5161290322580645,
+      "section_description": "\"Bugün 18 Ocak 2024 Perşembe AK Parti aday tanıtım toplantısının ikincisini düzenledi\" - This section contains the main news content, detailing the announcement of candidates by the AK Party and the statements made by President Erdoğan regarding various political issues."
+    },
+    {
+      "segment_id": "46_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 161,
+      "filtered_length": 77,
+      "retention_ratio": 0.4782608695652174,
+      "section_description": "\"Bugün 18 Ocak 2024 Perşembe AK Parti aday tanıtım toplantısının ikincisini düzenledi\" - This section contains the main news content, detailing the announcement of candidates by the AK Party and the statements made by President Erdoğan regarding various political issues."
+    },
+    {
+      "segment_id": "46_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 151,
+      "filtered_length": 105,
+      "retention_ratio": 0.695364238410596,
+      "section_description": "\"Bugün 18 Ocak 2024 Perşembe AK Parti aday tanıtım toplantısının ikincisini düzenledi\" - This section contains the main news content, detailing the announcement of candidates by the AK Party and the statements made by President Erdoğan regarding various political issues."
+    },
+    {
+      "segment_id": "46_5",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 89,
+      "filtered_length": 58,
+      "retention_ratio": 0.651685393258427,
+      "section_description": "\"Bugün 18 Ocak 2024 Perşembe AK Parti aday tanıtım toplantısının ikincisini düzenledi\" - This section contains the main news content, detailing the announcement of candidates by the AK Party and the statements made by President Erdoğan regarding various political issues."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

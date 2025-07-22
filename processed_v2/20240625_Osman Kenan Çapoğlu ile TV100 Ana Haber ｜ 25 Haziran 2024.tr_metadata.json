@@ -1,0 +1,41 @@
+{
+  "file_path": "news/TV100/20240625_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 25 Haziran 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T18:51:07.596478",
+  "original_word_count": 8217,
+  "filtered_word_count": 134,
+  "retention_ratio": 0.016307654861871728,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "Mutlu akşamlar 25 Haziran Salı TV1 Ana Haber'de sizlerle birlikteyiz...",
+      "description": "\"Mutlu akşamlar 25 Haziran Salı TV1 Ana Haber'de sizlerle birlikteyiz...\" - The opening segment where the presenter greets the audience and introduces the program.",
+      "end_pos": 93
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 93,
+      "start_sentence": "Cumhurbaşkanı Recep Tayyip Erdoğan Rusya devlet başkanı Vladimir putin'le bir telefon görüşmesi gerçekleştirdi...",
+      "description": "\"Cumhurbaşkanı Recep Tayyip Erdoğan Rusya devlet başkanı Vladimir putin'le bir telefon görüşmesi gerçekleştirdi...\" - The main news content covering various stories, including the phone call between Erdoğan and Putin, discussions on terrorism, and the situation in Gaza.",
+      "end_pos": 58950
+    }
+  ],
+  "news_segments_count": 9,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "93_7",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 249,
+      "filtered_length": 134,
+      "retention_ratio": 0.5381526104417671,
+      "section_description": "\"Cumhurbaşkanı Recep Tayyip Erdoğan Rusya devlet başkanı Vladimir putin'le bir telefon görüşmesi gerçekleştirdi...\" - The main news content covering various stories, including the phone call between Erdoğan and Putin, discussions on terrorism, and the situation in Gaza."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

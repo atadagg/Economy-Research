@@ -1,0 +1,71 @@
+# Economic Content from: 20241115_Kübra Par ile tv100 Ana Haber ｜ 15 Kasım 2024.tr.txt
+# Processed: 2025-07-22T18:01:52.262344
+# Original: 10727 words → Filtered: 546 words (5.09% retention)
+# Economic segments: 5
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 92
+**Retention**: 115.00%
+
+Kübra  
+Bugünün ekonomik gündeminde, hükümetin ekonomik politikaları ve bütçe harcamaları üzerine tartışmalar öne çıkıyor. Özellikle, yerel yönetimlerin bütçeleri ve harcama kalemleri, ekonomik veriler açısından önemli bir konu. Ekrem İmamoğlu'nun eleştirileri, yerel yönetimlerin mali yönetimi ve kaynak kullanımı üzerine yapılan değerlendirmeleri etkiliyor. Mansur Yavaş'ın, eğitim politikaları çerçevesinde ücretsiz yemek uygulaması ile ilgili görüşleri, devletin sosyal harcamaları ve bütçe dengeleri açısından dikkat çekici. Çocuklara yönelik ücretsiz yemek uygulaması, sosyal yardımların ekonomik etkileri ve bütçe üzerindeki yükümlülükler açısından tartışılmakta. Bu konular, yerel yönetimlerin mali sürdürülebilirliği ve devletin sosyal politikaları ile ilgili önemli ekonomik göstergeler sunuyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 141
+**Retention**: 48.12%
+
+Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar'dan aldığı bilgileri genel kurulda anlattı. Özlem Zengin, firmalarla görüşüldüğünü ve İsrail'e petrol satılmadığını söylese de tansiyonu düşürmek kolay olmadı. Bu durum, uluslararası hukuka uygun bir sözleşme olduğunu ve buradan İsrail'e giden bir petrol geçmediğini bakanımız adına söylüyorum. 
+
+TUSAŞ Genel Müdürü Mehmet Demiroğlu, Savunma Sanayi Kocaeli İl buluşmasında önemli bir mesaj verdi. Dedi ki, Hüccet eğitim uçağı Okyanus ötesinden sipariş aldı. Bu arada iki prototip de başarıyla uçtu ve B seri üretime başladık. 17 tane siparişimiz var, bunun 13 tanesini hava kuvvetlerimize vereceğiz. Ancak bu ilk başlangıç diye bakıyoruz; 100'e kadar çıkması bekleniyor. 
+
+Şu anda hem Avrupa hem de Kuzey Afrika'da ve Orta Asya'da Türk Cumhuriyetlerinde ciddi talep var. Onlarla görüşmelerimizde epeyce ilerledi. Hatta dün Okyanus aşırı diyebileceğimiz bir müşteriyle de epeydir görüştüğümüz bir müşterimizle ilerlemeler kaydediyoruz. Bunları zamanı geldikçe durum daha netleştiğinde sizlerle paylaşacağız.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 85
+**Retention**: 48.02%
+
+Ekimde enflasyon revize edildi ve son 6 ayda yaklaşık %17,8'lik bir enflasyon gerçekleşmesi bekleniyor. Bu durumda, en düşük SSK Bağkur aylığı minimum %116 artarak 14,500 TL olması gerekiyor. Şu anda en düşük olanlar 8,400 TL civarında kök aylığa sahip. Kök maaşı 8,400 TL olanlar tahmini rakam üzerinden zam alırlarsa, her türlü taban maaşın altındaki rakamda kalacaklar. Bugün ne alıyorlarsa yeni yılda da aynı maaşı alacaklar. 10,850 TL ile 12,500 TL arasında olanlar da kısmi zam alacaklar. Uzmanlara göre, taban maaşa zam bu yıl da yapılacak.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 191
+**Retention**: 62.83%
+
+Milyonlar merakla yeni yılda geçerli olacak olan asgari ücreti bekliyor. Hükümet işçi ve işveren Aralık ayının ilk haftası masaya oturacak, ardından zam pazarlığı başlayacak. Tespit komisyonunun çalışanlar tarafını temsil eden Türkiye İşçi Sendikaları Konfederasyonu (Türk-İş), görüşmeler öncesinde dikkat çeken bir açıklamaya imza attı. Enflasyonla mücadele için düşük asgari ücret gerektiği yaklaşımını reddettiklerini duyurdular. 2025 yılı için asgari ücret, işçi ve ailesinin günlük ekonomik ve sosyal şartlarına göre insanca yaşamasını mümkün kılacak bir düzeyde tespit edilmelidir. 
+
+Herhangi bir rakam telaffuz edilmedi ancak asgari ücretin insanlık onuruyla bağdaş düzeyde tespit edilmesi gerektiği vurgulandı. Türk-İş Başkanlar Kurulu Toplantısı, konfederasyon genel merkezinde gerçekleştirildi. Yayınlanan sonuç bildirisinde önemli tespitlere yer verildi. Gelir ve vergide adalet çağrısı bir kez daha yapıldı. Bu konuda işçi konfederasyonlarının ortak görüşünün desteklendiği vurgulandı. 
+
+Sendikalar şimdi bütçe görüşmeleri sürerken Türkiye Büyük Millet Meclisi'nde yapmaya hazırlanıyor. Türk-İş, HAK-İŞ ve DİSK genel başkanları 1920 Kasım'da siyasi partilerin grup başkan vekillerini ziyaret edecek. Plan ve Bütçe Komisyonu Başkanı Mehmet Muş'la da görüşme gerçekleştirecekler. Yeni yılın yaklaşması ile birlikte bütün ücretleri etkileyen asgari ücretle ilgili senaryolar yavaş yavaş netleşiyor. Ekonomistler ve piyasa analistleri ortalama tahminlerini paylaştı. 
+
+2024 yılının Ocak ayında asgari ücrete %49 zam yapılması bekleniyor.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 37
+**Retention**: 60.66%
+
+2025 yılında geçerli olacak asgari ücret şu an merak edilirken yapay zekada hem enflasyon oranlarını hem de uzman yorumlarını harmanlayarak bir tahminde bulunuyor. O zaman biz de yapay zekaya soralım, 2025 yılında asgari ücret ne kadar olacak?
+
+================================================================================
+

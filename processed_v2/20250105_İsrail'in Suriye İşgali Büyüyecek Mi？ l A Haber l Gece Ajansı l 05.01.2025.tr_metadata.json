@@ -1,0 +1,57 @@
+{
+  "file_path": "news/AHaber/20250105_İsrail'in Suriye İşgali Büyüyecek Mi？ l A Haber l Gece Ajansı l 05.01.2025.tr.txt",
+  "processing_timestamp": "2025-07-22T15:39:55.020852",
+  "original_word_count": 17027,
+  "filtered_word_count": 239,
+  "retention_ratio": 0.014036530216714629,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "Ferdi Tayfur'un anısına İşte bu kliple başladık...",
+      "description": "\"Ferdi Tayfur'un anısına İşte bu kliple başladık...\" - The program opens with a tribute to Ferdi Tayfur, introducing the theme of the broadcast and setting the emotional tone.",
+      "end_pos": 91
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 91,
+      "start_sentence": "Usta sanatçı Ferdi Tayfur Son yolculuğuna uğurlandı...",
+      "description": "\"Usta sanatçı Ferdi Tayfur Son yolculuğuna uğurlandı...\" - This section contains the main news content, detailing the funeral of Ferdi Tayfur, the reactions of fans and notable figures, and the emotional impact of his passing.",
+      "end_pos": 1278
+    },
+    {
+      "type": "3. **OUTRO**",
+      "start_pos": 1278,
+      "start_sentence": "Ben de özledim diyeceğiz güldürmeyi çok severdi...",
+      "description": "\"Ben de özledim diyeceğiz güldürmeyi çok severdi...\" - The closing remarks reflect on the legacy of Ferdi Tayfur and the emotional connection people have with his music, concluding the program.",
+      "end_pos": 116787
+    }
+  ],
+  "news_segments_count": 9,
+  "economic_segments_count": 2,
+  "economic_segments": [
+    {
+      "segment_id": "1278_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 193,
+      "filtered_length": 165,
+      "retention_ratio": 0.8549222797927462,
+      "section_description": "\"Ben de özledim diyeceğiz güldürmeyi çok severdi...\" - The closing remarks reflect on the legacy of Ferdi Tayfur and the emotional connection people have with his music, concluding the program."
+    },
+    {
+      "segment_id": "1278_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 80,
+      "filtered_length": 74,
+      "retention_ratio": 0.925,
+      "section_description": "\"Ben de özledim diyeceğiz güldürmeyi çok severdi...\" - The closing remarks reflect on the legacy of Ferdi Tayfur and the emotional connection people have with his music, concluding the program."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

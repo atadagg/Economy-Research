@@ -1,0 +1,31 @@
+# Economic Content from: 20241101_Kübra Par ile tv100 Ana Haber ｜ 1 Kasım 2024.tr.txt
+# Processed: 2025-07-22T18:52:14.119068
+# Original: 8870 words → Filtered: 163 words (1.84% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 99
+**Retention**: 110.00%
+
+Bugün ekim ayını geride bıraktık. Ekonomik veriler ve istatistikler, Türkiye'nin ekonomik durumu hakkında önemli bilgiler sunuyor. Son dönemde enflasyon oranları ve fiyat artışları, hanehalkının alım gücünü etkileyen önemli faktörler arasında yer alıyor. Ayrıca, döviz kurlarındaki dalgalanmalar, finansal piyasalarda belirsizlik yaratıyor ve yatırımcıların kararlarını etkiliyor. 
+
+Hükümetin ekonomik politikaları, özellikle mali disiplin ve enflasyonla mücadele konularında önemli değişiklikler içeriyor. Bu bağlamda, Merkez Bankası'nın para politikası ve faiz oranları, ekonomik istikrarı sağlamak için kritik bir rol oynuyor. 
+
+Son olarak, ticaret verileri ve dış ticaret dengesi, Türkiye'nin uluslararası ekonomik ilişkilerini ve rekabet gücünü belirleyen unsurlar arasında. Uzmanlar, bu verilerin dikkatle izlenmesi gerektiğini vurguluyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 64
+**Retention**: 59.26%
+
+Ankara'da otogaz fiyatlarının 25 liraya, İzmir'de ise 25,75 liraya yükselmesi bekleniyor. Hazine ve Maliye Bakanlığı, vergi borçlularının isimlerini açıklayarak kamuoyunda "vergi yüzsüzleri" olarak bilinen bir liste yayınladı. Bu listede 36,801 mükellef yer aldı ve ödenmemiş vergi ve cezaların toplam tutarı 9,149 milyar lira olarak belirlendi. Hazine ve Maliye Bakanlığı Gelir İdaresi Başkanlığı, 5 milyon lirayı aşan vergi ve ceza borcu bulunan mükelleflerin listesini yayınladı.
+
+================================================================================
+

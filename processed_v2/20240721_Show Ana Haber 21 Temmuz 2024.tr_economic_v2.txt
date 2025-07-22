@@ -1,0 +1,59 @@
+# Economic Content from: 20240721_Show Ana Haber 21 Temmuz 2024.tr.txt
+# Processed: 2025-07-22T17:51:58.337891
+# Original: 3252 words → Filtered: 319 words (9.81% retention)
+# Economic segments: 4
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 70
+**Retention**: 34.65%
+
+Cumhurbaşkanı Erdoğan, emeklilik sistemindeki değişiklik iddialarına yanıt vererek, "İmkanlar dahilinde emekli için en iyisini yapmaya çalışıyoruz" dedi. CHP lideri Özgür Özel, en düşük emekli maaşının asgari ücret seviyesine çıkarılması gerektiğini vurguladı. Ekonomik koşulların zorlayıcı olduğunu belirten Özel, "Geçim olmazsa seçim olur" ifadesini kullandı. En düşük emekli maaşının 12 bin TL olması gerektiğini savundu. Bu bağlamda, emeklilik maaşlarının artırılması, ekonomik istikrar ve sosyal refah açısından önemli bir konu olarak öne çıkıyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 71
+**Retention**: 41.28%
+
+CHP lideri Özgür Özel, en düşük emekli maaşının 25,000 TL olması gerektiğini belirtti. Bugün en düşük emekli maaşına asgari ücret yapılmasını talep etti. Yaklaşık 4 milyon emekli, en düşük emekli maaşı düzenlemesinin meclisten geçmesini beklerken, maaş farklarının ödeme tarihleri de merak konusu oldu. Meclis Plan ve Bütçe Komisyonu'nda 10,000 TL olan en düşük emekli aylığının 12,500 TL'ye yükseltilmesi planlanıyor. Ak Parti grup başkanı Abdullah Güler, emeklinin zam farkını alacağı tarihi netleştirdi.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 66
+**Retention**: 100.00%
+
+000 L 15 gr altın istenilen paraların sonu gelmeyince Hamza Bey
+dolandırıldığını anladı 2 saat geçtikten sonra bana dedi ki bazı cinleri yakamı bir üst kademede bir
+şeyler almamız lazım bir 10 gram daha istedi Ben de veremeyeceğimi söylediğim anda işte o dakikadan
+sonra da tehditler başladı karşı tarafın bilgilerini attı bana dedi ki sizi karşı tarafa
+söyleyeceğim ailenize söyleyeceğim dedi hem Hayallerinden hem de 4
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 112
+**Retention**: 40.29%
+
+Antalya'da buğday hasatı bitti. Boş tarlaları milyonluk halılar kapladı. Türkiye'nin her yerinden getirilen el dokuması binlerce halıyı sol aşamasında korumak için sabaha kadar süren nöbet de başladı. Antalya'da buğdaylar hasat edildi, tarlalar yerini renk cümbüşüne bıraktı. 
+
+Buğday hasadının ardından, tarım ürünlerinin fiyatları üzerinde etkili olabilecek gelişmeler yaşanıyor. Halı üretimi ve satışı, yerel ekonomiye önemli katkılar sağlıyor. Türkiye'nin farklı bölgelerinden toplanan halılar, hem iç piyasada hem de ihracatta talep görüyor. 
+
+Bu süreçte, tarım sektöründeki gelişmelerin yanı sıra, fiyatların artışı ve enflasyon üzerindeki etkileri de dikkat çekiyor. Ekonomik veriler, tarım ürünlerinin fiyatlarının yükselmesiyle birlikte, genel enflasyon oranlarını etkileyebilir. 
+
+Uzmanlar, buğday hasadının ardından tarım ürünleri fiyatlarının seyrinin, önümüzdeki dönemde ekonomik istikrar açısından önemli olacağını belirtiyor.
+
+================================================================================
+

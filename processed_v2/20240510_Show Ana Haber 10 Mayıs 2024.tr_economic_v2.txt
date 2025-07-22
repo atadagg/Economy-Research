@@ -1,0 +1,38 @@
+# Economic Content from: 20240510_Show Ana Haber 10 Mayıs 2024.tr.txt
+# Processed: 2025-07-22T17:36:43.420308
+# Original: 3154 words → Filtered: 205 words (6.50% retention)
+# Economic segments: 3
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 72
+**Retention**: 69.23%
+
+Son günlerde kabinede değişim iddiaları sıkça konuşulurken, kamuda tasarruf tedbirleri ekonomi ve terörle mücadele gibi başlıkların yanı sıra, ekonomik veriler ve istatistikler de gündemde. Bu bağlamda, hükümetin ekonomi politikaları ve mali istikrarı sağlama çabaları dikkat çekiyor. Ekonomik analizler, bu değişimlerin piyasalara olan etkilerini ve yatırımcı güvenini nasıl şekillendirebileceğini vurguluyor. Ayrıca, fiyatlar ve enflasyon konuları da tartışmaların merkezinde yer alıyor. Bu gelişmeler, Türkiye'nin ekonomik durumu ve geleceği açısından önemli bir dönüm noktası olabilir.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 59
+**Retention**: 60.82%
+
+CHP lideri Özgür Özel, kamuda tasarruf tedbirlerine tepki gösterdi ve ekonomiyi bu hale getirenin ne emekliler ne de çiftçiler olduğunu belirtti. Özel, Hazine ve Maliye Bakanı Mehmet Şimşek'e vergi adaleti çağrısında bulundu. Tasarruf adımlarını açıklamaya hazırlanan Hazine ve Maliye Bakanı'nın IMF'yi Türkiye'nin üzerindeki bir hayalete benzettiği ifade edildi. Özel, vergi adaleti talep etti ve bu durumun ekonomik etkilerini vurguladı.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 74
+**Retention**: 38.74%
+
+Mehmet Akyürek'in başına gelen her şey Şubat ayında başladı; emekli maaşını çekmek için bankaya gittiğinde hesabına bloke konulduğunu fark etti. Ardından, bir ek hesabından 75.000 Lira kredi çekildiğini öğrendi. Adli süreci hemen başlatan 65 yaşındaki adam, giden 75.000 liranın mahkeme aracılığıyla tekrar geri dönmesini bekliyor. Ancak, 3 ay sonra bankanın Genel Müdürlüğünden aradığını söyleyen kişiler dolandırıcıydı ve o sırada hesapları boşaltılmaya başlanmıştı. Bu durum, bankacılık sisteminin güvenliği ve dolandırıcılık vakalarının artışı üzerine endişeleri artırıyor.
+
+================================================================================
+

@@ -1,0 +1,86 @@
+# Economic Content from: 20240705_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 5 Temmuz 2024.tr.txt
+# Processed: 2025-07-22T18:34:29.715727
+# Original: 9424 words → Filtered: 699 words (7.42% retention)
+# Economic segments: 6
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 77
+**Retention**: 73.33%
+
+Emeklilere maaş zammı yapıldıktan sonra maaşlar arttı. Enflasyon rakamları açıklandı ve memur ile emeklinin alacağı zam oranı belli oldu. Ancak asgari ücrete bir zam yapılmayacak, bu durum özel sektördeki banka promosyonlarının da hareketlenmesine sebep oldu. Bankalar emeklilerin peşine düştü; A Bankası EFT havalesi ücretsiz, aidatsız kredi kartı sunuyor ve 15.000 TL promosyon veriyor. B Bankası ise %51 vadeli faizle başlıyor, yine aidatsız kredi kartı sunuyor ve 15.000 TL promosyon artı 2.500 TL de kredi kartına para yüklüyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 158
+**Retention**: 56.03%
+
+3 yıla kadar emekli maaşını bankadan almaya söz veren vatandaşlar, ilk maaştan birkaç gün sonra promosyonları alıyor. Peki, vatandaş promosyon alacağı bankayı seçerken nelere dikkat etmeli? Sosyal Güvenlik uzmanına sorduk; sadece parası için bir bankayı promosyon olarak seçmek çok doğru değil, onun yanında başka kriterler de var. Bankanın Türkiye'deki şube sayısı ve müşterilere karşı davranışı önemli. Eğer çok az ATM'si olan veya ortak ATM'si olmayan bir bankaya geçerseniz, yarın bir gün bir şehir değiştirdiğinizde o bankadan parayı çekmek için yüksek komisyonlar ödeyebilirsiniz.
+
+Ev hanımlarının emekliliği ile ilgili çalışmalar hız kazanmış durumda. Çalışma ve Sosyal Güvenlik Bakanı Vedat Işık, ev hanımlarına emeklilik imkanı getirecek bir sistemin gündemde olduğunu açıkladı. 5 yıllık plan çerçevesinde ev kadınlarına emeklilik imkanı sağlanacak. Ev kadınları isteğe bağlı Bağkur statüsünde prim ödeyebilecek ve bu primlerin bir kısmı devlet tarafından teşvik edilecek. Yani, bir kısmını devlet ödeyecek. Düzenleme kabul edilirse, devlet desteği ile ev hanımlarının emeklilik primlerinin üçte biri ödenecek. Böylelikle ev hanımları da emekli olabilecek.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 161
+**Retention**: 58.33%
+
+Türkiye'de otomobil piyasası durağanlaştı, özellikle ikinci el lüks araçlara talep duyan bir kesim var. Türkiye'deki ikinci el lüks otomobillerin Avrupa'ya göre fiyat farkları dikkat çekti; aynı modeller yurt dışında 1 liraysa Türkiye'de 4 lira, yani dört katı fiyata satılıyor. Türkiye'de ikinci el otomobil piyasasındaki durgunluk neredeyse her gün gündeme geliyor. Otogaleri esnafları, araçların ellerinde kaldığını ve piyasanın gittikçe kötüleştiğini şikayet ediyor. İlan listelerinde bireysel satış ilanları da artıyor. Bu dönemde ikinci el lüks otomobildeki fiyat farkları karşılaştırıldı; Almanya'nın Düsseldorf şehrindeki en işlek ikinci el otomobil galerisindeki fiyatlarla Türkiye'deki fiyatlar arasında fark göze çarptı. Örnek olarak, 2003 model lüks araç Almanya'da 4,2 milyon liraya alıcı ararken, Türkiye'deki aynı model araç 15,5 milyon lira olarak ilana konuluyor. Türkiye'de Haziran ayında sıfır olarak üretilen lüks marka araç satışı gerçekleşti. Ocak-Haziran döneminde ise milyonluk 30 araç yeni kullanıcısıyla buluştu. Genel olarak otomobil satışları Ocak-Haziran döneminde geçen yıla göre %7,3 oranında artarak 6295 adet oldu. Hafif ticari araç pazarı ise % azalarak 11526 adet olarak gerçekleşti.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 36
+**Retention**: 48.00%
+
+Aslında bu araçların kısa süre içerisinde satılması, ekonomiye kazandırılacak. Otoparklarda muhafaza edilen araçların yığılması, ekonomik bir sorun oluşturuyor. Yemin'deki araçlara gelecek düzenleme ile birlikte, sahibi olmayan ya da trafikten men edilmiş otomobillerin satılması, ekonomiye katkı sağlayacak.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 84
+**Retention**: 37.00%
+
+Eğer mecliste kabul edilirse bunun akabinde trafikten herhangi bir sebeple çekilen araçlar otoparka çekilen araçlar bu yasa kapsamında 6 ay süresince sahipleri tarafından alınmadığı takdirde bunları Milli Emlak Genel Müdürlüğü'ne verilen yetkiyle araçların satış yoluna başvurulacak. Buradaki amaç, otoparklarda bekleyen yığılan araçların satışını sağlamak ve bunları ekonomiye kazandırmak. Haciz ya da şerhin kalkması için ödenen tutar 5 yıllık sürecin ardından devlete kalacak. Sıra cetvelinden sonra kalan bir para olursa bunlar emanet hesabında kalınacak ve 5 yıl süreyle emanet hesabında nemalandırılması hazineye gelir olarak kalacaktır.
+
+================================================================================
+
+## Economic Segment 6
+
+**Method**: simple_final
+**Confidence**: 0.50
+**Word Count**: 183
+**Retention**: 100.00%
+
+000 L ödülün de sahibi oluyor sürpriz ödüllerin de yer alacağı Alf
+pekte yarışmacılar hem keyif alıyor hem ödülleri topluyor kendisi eski yarışmacımız bırakmıştı çok
+güzel yarışmış lardı ama pratikte küçük bir hata yapıp süreyi iyi ayarlayamadı şimdi işte o yarım
+kalan şarkıyı tamamlamak için bir araya geldik burada olmak çok keyifli Ali ihan beyi yeniden görmek
+çok güzel Bakalım yani eğlenelim istiyorum Alfa Petek hafta içi her gün 1930'da TV 100'de
+yayınlanıyor kelime sevgisi olan herkesi ekrana kilitliyor bir taraftan açıp dinleyebiliyor
+dinlerken kendilerini deneye sonrasında tekrar 23 45'te izleyip ilk bölümü Daha doğrusu ilk yayını
+izlemeyenlere hava atanlar olduğunu da öğrendik programa başvurmak isteyenler için fotoğraflı bir
+özgeçmişle alek tv com tr adresine başvurmaları yeterli geldik buralara yüzümüzü güldürdük gibi
+düşünüyorum Ne dersiniz Kesinlikle öyle biz de çok memnun olduk Son soru Son cevap inanılmazsın
+Hakikaten çok güzel yarıştı bir alkış rica efendim biz bugünü ve haftayı noktaladı an haberde bizden
+hemen sonra saatler birazdan 1930'dan varol'a Alfa Petek sizlerle birlikte olacak Önümüzdeki hafta
+kısa bir molayı 15 Temmuz Pazartesi yeniden görüşmek dileğiyle mutlu hafta sonları iyi akşamlar
+Hoşça kalın h
+
+================================================================================
+

@@ -1,0 +1,55 @@
+# Economic Content from: ATV20240716_atv Ana Haber ｜ 16 Temmuz 2024.tr.txt
+# Processed: 2025-07-22T16:42:04.138182
+# Original: 4698 words → Filtered: 366 words (7.79% retention)
+# Economic segments: 4
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 98
+**Retention**: 41.88%
+
+Hükümet, en düşük emekli maaşının 10.000 liradan 12.500 liraya yükseltilmesi kararlaştırdı. Emekli maaşları ile ilgili düzenlemenin de içinde olduğu 53 maddelik vergi paketini meclise sunan Ak Parti grup başkanı Abdullah Güler, 16 milyonun üzerinde emeklinin 6 aylık enflasyon zamının %24,3 olduğunu açıkladı. Ancak bu oran kök maaşlara eklendiği için 8.000 liranın altında kök maaşı olan emekliler, 10.000 liranın altında kalacak ve hiç zam almamış gibi olacaktı. AK Parti, bu durumun önüne geçmek için en düşük emekli aylığını 12.500 liraya yükseltecek kanun teklifini meclise sundu. Böylelikle sıfır zam tehlikesiyle karşı karşıya kalan milyonlarca emekli, emekli maaşlarına zam almış olacak.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 54
+**Retention**: 65.06%
+
+Önümüzdeki dönem emeklilik sisteminde daha dengeli ve daha adil bir uygulamayı hayata geçirmemiz gerekiyor. Bu konuda da çalışmalarımız devam ediyor. Zamlı maaşlara bir sonraki ay farklarıyla birlikte ödenecek. 53 maddelik vergi paketinde kayıt dışılığın önüne geçebilmek için dikkat çeken önlemler alındı. Başkasına ait IBAN numarası kullananlara verilecek cezalar arttırılacak. IBAN para göndermenin cezası 30.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 128
+**Retention**: 39.51%
+
+Yıl sonuna kadar teslim edilen konut sayısının 200,000 bulması planlanıyor. Türkiye'de konut piyasası, deprem sonrası yeniden şekilleniyor ve bu durum ekonomik göstergeleri etkiliyor. Uzmanlar, akıllı ilaçların sağlık sektöründeki gelişmelerin yanı sıra, bu alandaki yatırımların da artacağını öngörüyor. 
+
+Özellikle akciğer kanseri tedavisinde kullanılan yeni yöntemler, sağlık harcamalarını ve ilaç maliyetlerini etkileyebilir. Bu durum, sağlık sektöründeki şirketlerin finansal performansını da doğrudan etkileyebilir. 
+
+Velilerin özel okul zammı, eğitim sektöründeki maliyet artışlarını gözler önüne seriyor. Geçtiğimiz yıl, ders kitabı ücretleriyle birlikte eğitim masraflarındaki artış, ailelerin bütçelerini zorlayabilir. Eğitim harcamalarındaki bu artış, genel enflasyon oranlarıyla da bağlantılıdır ve ekonomik istikrarı etkileyebilir. 
+
+Bu bağlamda, hükümetin eğitim politikaları ve mali destek programları, ailelerin eğitim masraflarını hafifletmek için önemli bir rol oynayabilir. Eğitim sektöründeki bu gelişmeler, ekonomik büyüme ve istihdam üzerindeki etkileri açısından da dikkatle izlenmelidir.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 86
+**Retention**: 58.50%
+
+Özel okul fiyatları zaten yüksek, kitaplar daha da yüksek. Uzmanların tahmini korkutucu; bazı kurumlar velilere 4.000 lira fatura çıkarmaya hazırlanıyor. Özel öğretim kurumları, ilk öğretim sisteminde kitaplar bedava olmasına rağmen, tüm öğrenci velilerine kendi bastırdıkları özel kitapları satıyorlar. Özel okullar sadece eğitim ücretine zam yapmıyor, yemek ve servis ücretlerinden sonra sıra ders kitaplarına geldi. Geçen sene ders kitap setleri 6.000 ila 10.000 lira arasındayken, bu yıl 30.000 lirayı geçeceği tahmin ediliyor. Geçen sene 7.000 liraya alınan kitaplar için bu sene istenen bedeller 35.000-40.000 lira arasında değişiyor.
+
+================================================================================
+

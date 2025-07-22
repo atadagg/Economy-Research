@@ -1,0 +1,62 @@
+{
+  "file_path": "news/Show/20240609_Show Ana Haber 9 Haziran 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T17:49:13.355537",
+  "original_word_count": 2988,
+  "filtered_word_count": 73,
+  "retention_ratio": 0.024431057563587683,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 4,
+      "start_sentence": "İyi akşamlar değerli izleyenler",
+      "description": "\"İyi akşamlar değerli izleyenler\" - The presenter, Hande Bayraktar, greets the viewers and introduces the program, indicating the start of the broadcast.",
+      "end_pos": 99
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 99,
+      "start_sentence": "tüm Türkiye dün akşam Habertürk ekranlarına kilitlendi",
+      "description": "\"tüm Türkiye dün akşam Habertürk ekranlarına kilitlendi\" - The main content of the news segment begins, discussing the live confrontation between Ali Koç and Aziz Yıldırım regarding the Fenerbahçe presidency, including details of their debate and the atmosphere surrounding the election.",
+      "end_pos": 486
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 486,
+      "start_sentence": "Başkan bu tarihi anada Habertürk TV ekranlarında",
+      "description": "\"Başkan bu tarihi anada Habertürk TV ekranlarında\" - A brief transition occurs as the discussion shifts to the historical significance of the meeting and the ongoing debate between the candidates.",
+      "end_pos": 976
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 976,
+      "start_sentence": "Fenerbahçe başkanı Ali Koç diğer tarafta başkan adayı Aziz Yıldırım",
+      "description": "\"Fenerbahçe başkanı Ali Koç diğer tarafta başkan adayı Aziz Yıldırım\" - The news segment continues with more details about the candidates, their positions, and the reactions from supporters, maintaining the focus on the election and the candidates' interactions.",
+      "end_pos": 1841
+    },
+    {
+      "type": "5. **TRANSITION**",
+      "start_pos": 1841,
+      "start_sentence": "Buraya gelmiyor Siz rahatsınız",
+      "description": "\"Buraya gelmiyor Siz rahatsınız\" - Another transition occurs as the narrative shifts slightly to the security measures in place and the atmosphere outside the venue, indicating a change in focus within the ongoing news story.",
+      "end_pos": 20845
+    }
+  ],
+  "news_segments_count": 7,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "486_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 73,
+      "filtered_length": 73,
+      "retention_ratio": 1.0,
+      "section_description": "\"Başkan bu tarihi anada Habertürk TV ekranlarında\" - A brief transition occurs as the discussion shifts to the historical significance of the meeting and the ongoing debate between the candidates."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

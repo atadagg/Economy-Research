@@ -1,0 +1,16 @@
+# Economic Content from: 20240509_Show Ana Haber 9 Mayıs 2024.tr.txt
+# Processed: 2025-07-22T17:26:41.434463
+# Original: 3366 words → Filtered: 56 words (1.66% retention)
+# Economic segments: 1
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 56
+**Retention**: 56.57%
+
+Son yıllarda ciddi anlamda en durgun dönemi yaşıyoruz. Ocak ayında 1.400 L'ye aldığım aracın şu anda 1.200 L'ye satılması bekleniyor. Eskiden 3 günde elden çıkarılabilen araçlar, şu anda 3 aydır kapıda bekliyor ve satılmıyor. Bu aracın girdi maliyeti 780 L iken, fiyatı 660.000 L olarak belirlenmiş. Bu durum, piyasalardaki talep düşüklüğünü ve fiyatların nasıl etkilendiğini gösteriyor.
+
+================================================================================
+

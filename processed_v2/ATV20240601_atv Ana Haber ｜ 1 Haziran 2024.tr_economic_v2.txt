@@ -1,0 +1,27 @@
+# Economic Content from: ATV20240601_atv Ana Haber ｜ 1 Haziran 2024.tr.txt
+# Processed: 2025-07-22T16:32:16.500155
+# Original: 4742 words → Filtered: 175 words (3.69% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 71
+**Retention**: 42.51%
+
+Özel okul öğretmenlerinin maaşları, en alt sınıra iniyor. Özel öğretim kurumlarını temsil eden dernekler, özel okul öğretmenlerinin geçen yılki Eylül maaşlarına göre %10.000 üzerinde bir zam yapıldığını açıkladı. Ancak öğretmenler, bu açıklamanın gerçeklikle bağının olmadığını belirtiyor. Öğretmenlerin maaşları, asgari ücretin altında kalıyor ve bu durumun ekonomik bir karşılığı yok. 2024-2025 yılı için de maaşların 20.000 TL olacağı ifade ediliyor. Bu durum, eğitim sektöründeki mali sıkıntıları ve öğretmenlerin yaşam standartlarını olumsuz etkiliyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 104
+**Retention**: 53.89%
+
+Haziran'da başlayacak olan Kurban bayramına 2 hafta kaldı ve büyükbaş hayvanlar da İstanbul'a giriş yaptı. Fiyatlar canlı 280 civarı. Erzurum'un verimli meralarında beslenen kurbanlıkların tıra yüklenme işlemi zor oldu ama tamamlandı. Kurbanlıklar İstanbul İl Tarım ve Orman Müdürlüğü ekiplerinin kontrollerinden geçip kurban pazarlarındaki yerlerini aldı. Şu an Sultangazi kurban pazarındayız ve yaklaşık buraya 180 çadır kuruldu. Bugün sabah çadırlar büyükbaş hayvanlarla dolmaya başladı. Fiyatlarını bilmiyorum ama ortalama 220.000 - 230.000 TL civarında. Maliyeti var, bu hayvanlar beslenmiyor. Bütçemiz 150.000 - 160.000 TL var mı peki? Var, 150.000 - 160.000 TL'ye de var, 125.000 - 130.000 TL'ye de var, 230.000 - 250.000 TL'ye de var.
+
+================================================================================
+

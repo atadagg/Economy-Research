@@ -1,0 +1,60 @@
+# Economic Content from: ATV20240908_atv Ana Haber ｜ 8 Eylül 2024.tr.txt
+# Processed: 2025-07-22T16:36:31.176445
+# Original: 4629 words → Filtered: 307 words (6.63% retention)
+# Economic segments: 4
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 63
+**Retention**: 100.00%
+
+ile karşınızdayız Türkiye'nin gözü
+kulağı günlerdir Diyarbakır'da kaybolan narin'den gelecek İyi bir haber deydi Ama ne yazık ki olmadı
+umutlu bekleyiş bugün gelen acı haberle bitti 19 gündür her yerde aranan küçük kızın cansız bedeni
+kaybolduğu den 1 k mesafedeki dere kenarında çuval içinde bulundu çuvalın üzeri ise taş ve ağaç
+yapraklarıyla kapatılmıştı cinayete kurban giden küçük narenin cansız bedeni adli tıp kurumuna
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 81
+**Retention**: 100.00%
+
+dalları ve şüphe uyandırmayacak şekilde ve doğal bir görüntü verilerek kapatıldığı anlaşılmıştır 8
+yaşındaki Narin 21 Ağustos günü Diyarbakır'ın Bağlar ilçesindeki Tavşantepe mahallesindeki evinden
+Kur'an kursuna gitmek için 13 eli evden çıkmış saat 15 15'te kuzenleriyle Eve Dönüş yolunda
+kameralara böyle takılmıştı dedi anne 4E kadar ders var 4an Sonra da ben amcam güle gideceğim görgü
+tanıklarının ifadesine göre 8 yaşındaki Narin 1740 sıralarında evinin 300 metre uzağındaki caminin
+çevresinde görülmüş sonrasında büyük amcasının evine gidip kuzenleriyle kapı önünde sohbet etmişti
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 88
+**Retention**: 40.18%
+
+İstanbul'da neredeyse semt semt ayrışan bir yağış yaşandı. Bazı noktalarda sağanak o kadar şiddetliydi ki, evleri su bastı. Meteoroloji günler öncesinden uyarmıştı. Bu durum, inşaat sektöründe de bazı olumsuz etkilere yol açtı. Eyüp Sultan'da bir inşaatın duvarı çöktü ve bu durum, bölgedeki gayrimenkul değerlerini olumsuz etkileyebilir. 
+
+Ayrıca, hem yurt hem de kiralık evlerin faiz fiyatları yükselmeye başladı. Bu durumu fırsat bilen bazı kişiler, kiralık yatak ilanları vermeye başladı. Ranza kiralamanın ücreti 18 bin liraya kadar yükseldi. Bu tür gelişmeler, konut piyasasında dalgalanmalara neden olabilir ve ekonomik istikrarı etkileyebilir.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 75
+**Retention**: 39.06%
+
+Özel yurtların fahiş fiyatları ev kiralarıyla yarışıyor. Bu durumu gören bazı ev sahipleri ve kiracılar, odalarını kiraya vermeye başladılar. Öyle ki, odalara birden fazla ranza yerleştirerek karlarını artırıyorlar ve yüksek gelir elde ediyorlar. Ev sahipleri, öğrencilere yardımcı olacağı yerde, odalara ranza atarak daha fahiş fiyatlarla daha çok para kazanmak için öğrencileri mağdur ediyorlar. Yani, ev sahibi en az iki katı daha fazla bir kar elde ediyor; 25-30,000 TL'ye vereceği bir evi 50-60,000 TL'ye kiraya veriyor.
+
+================================================================================
+

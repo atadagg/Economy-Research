@@ -1,0 +1,20 @@
+# Economic Content from: 20240809_Oya Çebi ile TV100 Ana Haber ｜ 9 Ağustos 2024.tr.txt
+# Processed: 2025-07-22T18:04:26.662397
+# Original: 10888 words → Filtered: 57 words (0.52% retention)
+# Economic segments: 1
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 57
+**Retention**: 100.00%
+
+400 000 liralık saatini internet üzerinden satmak
+istedi dolandırıcıların ağına düştü maalesef saati sahtesiyle değ değiştirildiğini anlayan adam
+polisin yolunu tuttu 4 şüpheli kısa sürede yakalandılar onu söyleyelim ve tutuklanarak da cezaevine
+gönderildiler tek amacı saatini satmaktır dolandırıcıların hedefi oldu o şüpheliler kısa sürede
+yakalandı olay 30 Temmuz salı günü İstanbul Bakırköy'de meydana geldi piyasa değeri 1
+
+================================================================================
+

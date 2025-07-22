@@ -1,0 +1,85 @@
+{
+  "file_path": "news/Show/20240502_Show Ana Haber 2 Mayıs 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T17:22:11.282870",
+  "original_word_count": 3160,
+  "filtered_word_count": 226,
+  "retention_ratio": 0.07151898734177216,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "İyi akşamlar sayın seyirciler",
+      "description": "\"İyi akşamlar sayın seyirciler\" - The presenter introduces herself and sets the stage for the news broadcast, indicating the start of the program.",
+      "end_pos": 60
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 60,
+      "start_sentence": "günün en sıcak gelişmelerini aktaracağız",
+      "description": "\"günün en sıcak gelişmelerini aktaracağız\" - This section contains the main news content, discussing significant political events, including a meeting between party leaders and various political topics.",
+      "end_pos": 293
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 293,
+      "start_sentence": "Cumhurbaşkanı Erdoğan CHP lideri özür Öz partiyi genel merkezinde kabul etti",
+      "description": "\"Cumhurbaşkanı Erdoğan CHP lideri özür Öz partiyi genel merkezinde kabul etti\" - This continues the news content, detailing the meeting's context and the discussions that took place.",
+      "end_pos": 389
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 389,
+      "start_sentence": "Merhabalar Hoş bulduk",
+      "description": "\"Merhabalar Hoş bulduk\" - This phrase indicates a transition within the news segment, as it shifts focus to the details of the meeting and the participants involved.",
+      "end_pos": 676
+    },
+    {
+      "type": "5. **TRANSITION**",
+      "start_pos": 676,
+      "start_sentence": "Özgür Özel Erdoğan'la Buluşmadan önce",
+      "description": "\"Özgür Özel Erdoğan'la Buluşmadan önce\" - Another transition that leads into further details about the political discussions and actions taken by the leaders.",
+      "end_pos": 1258
+    },
+    {
+      "type": "6. **NEWS**",
+      "start_pos": 1258,
+      "start_sentence": "tarihi zirvede karşılıklı hediyeler de verildi",
+      "description": "\"tarihi zirvede karşılıklı hediyeler de verildi\" - This part continues to elaborate on the outcomes of the meeting, including the exchange of gifts and the topics discussed.",
+      "end_pos": 1932
+    },
+    {
+      "type": "7. **OUTRO**",
+      "start_pos": 1932,
+      "start_sentence": "CHP kaynakları görüşmenin",
+      "description": "\"CHP kaynakları görüşmenin\" - This indicates the closing remarks of the news segment, summarizing the information shared and potentially leading to the end of the program.",
+      "end_pos": 22140
+    }
+  ],
+  "news_segments_count": 6,
+  "economic_segments_count": 2,
+  "economic_segments": [
+    {
+      "segment_id": "1258_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 94,
+      "filtered_length": 54,
+      "retention_ratio": 0.574468085106383,
+      "section_description": "\"tarihi zirvede karşılıklı hediyeler de verildi\" - This part continues to elaborate on the outcomes of the meeting, including the exchange of gifts and the topics discussed."
+    },
+    {
+      "segment_id": "1932_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 172,
+      "filtered_length": 172,
+      "retention_ratio": 1.0,
+      "section_description": "\"CHP kaynakları görüşmenin\" - This indicates the closing remarks of the news segment, summarizing the information shared and potentially leading to the end of the program."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

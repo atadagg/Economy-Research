@@ -1,0 +1,27 @@
+# Economic Content from: 20240613_Show Ana Haber 13 Haziran 2024.tr.txt
+# Processed: 2025-07-22T17:30:46.510407
+# Original: 3530 words → Filtered: 132 words (3.74% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 32
+**Retention**: 61.54%
+
+Ortalama bir klima bakımı 1000 lira ile 2000 lira arasında değişiyor. İş yerleri, lokantalar, restoranlar ve mağazalar, sıcak havalarda klima bakımına daha fazla talep gösteriyor. Bu durum, hizmet sektöründeki işletmelerin maliyetlerini etkileyebilir.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 100
+**Retention**: 84.03%
+
+Çeşme'de 32,000 lira, Antalya'da 55,000 lira ve 78,000 liralık bir alternatifin benzer bir tesisi belki 34,000 liraya farklı bölgelerde bulma imkanı mevcut. Popüler tatil beldelerindeki rezervasyonlar neredeyse doldu; boşta kalan yerlerin fiyatlarına yaklaşmak mümkün değil. Hal böyle olunca, henüz tatil programı yapamayanlar alternatif ve daha uygun fiyatlı bölgelere bakmaya başladı. Bu durum, tatil sektöründe fiyatların artmasına neden oluyor. Özellikle Balıkesir gibi bölgelerde, konaklama maliyetleri daha uygun hale geliyor. Örneğin, Erdek'te gece konaklamanın maliyeti 12,000 lira olarak belirlenmişken, daha uygun fiyatlı otellerin yarı fiyatına konaklama imkanı sunması dikkat çekiyor. Bu fiyat değişiklikleri, tatil planlaması yapanlar için önemli bir ekonomik faktör oluşturuyor.
+
+================================================================================
+

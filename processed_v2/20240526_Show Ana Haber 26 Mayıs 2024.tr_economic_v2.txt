@@ -1,0 +1,40 @@
+# Economic Content from: 20240526_Show Ana Haber 26 Mayıs 2024.tr.txt
+# Processed: 2025-07-22T17:38:29.640152
+# Original: 3310 words → Filtered: 289 words (8.73% retention)
+# Economic segments: 3
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 56
+**Retention**: 43.75%
+
+CHP lideri Özgür Özel, emeklinin hakkını söke söke alacağız diyerek, milyonların refah seviyesinin artması için bazı önerilerde bulundu. Emeklinin ekonomisinin normalleşmesi gerektiğini vurguladı. Özel, asgari ücret seviyesine çıkarılması ve intibak yasası gibi önerileri iktidara iletti. Ayrıca, kredi ve kredi kartı borçlarının bir sefere mahsus bütün faizlerinin silinmesini talep etti. Bu öneriler, emeklilerin ekonomik durumunu iyileştirmeyi hedefliyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 132
+**Retention**: 81.99%
+
+Çalışma ve Sosyal Güvenlik Bakanı Vedat Işıkhan, kök maaş ve refah payı ile ilgili açıklamalarda bulundu. Işıkhan, her iki düzenleme için gündemde yok ifadesini kullanırken, olası düzenleme için Temmuz ayını işaret etti. Emeklilerin 6 aylık enflasyonla birlikte refah payı alıp almayacağı ve kök maaş düzenlemesiyle taban aylıkların yükselip yükselemeyeceği merak ediliyor. Bakan, şu an için bu çalışmaların gündemde olmadığını belirtti ve her şey için çok erken olduğunu ifade etti. Temmuz ayında SSK ve Bağkur emeklilerinin zam alması bekleniyor. Zam oranı kadar milyonlarca emekli, kök maaş düzenlemesinin de hayata geçmesini bekliyor. Bakan Işıkhan, 10,000 liranın altında olan 3.6 milyon emeklinin bulunduğunu belirtti ve taban maaş artışı ile refah payı gibi konuların Temmuz'da değerlendirileceğini söyledi. Taban maaş düzenlemesi hayata geçmezse, 8,000 lira ve altında kök aylığı olanlar 6 aylık enflasyonun %25 seviyesinde çıkmasıyla etkilenebilir.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 101
+**Retention**: 35.19%
+
+Hazine Bakanı Mehmet Şimşek, 2 yıldır uygulamada olan konut kirasından kısıtlamasının kalkacağı sinyalini çok net vermişti. Ev sahipleri hemen harekete geçti; % 25 zam sınırının kalkacak olması pek çok ev sahibini harekete geçirdi ve satılık ilanları vermeye başladılar. Onların beklentisi, ilerideki zam oranları ile beraber tatmin edici bir kiraya kavuşmak. Mülk sahipleri, artışın tekrar yüksek oranlardan olacağı inancıyla beklemeye geçti. 
+
+Kiracıları ise Ağustos korkusu sardı; özellikle Ağustos ayında TÜFE oranında yapılacak zam, Mayıs ayında % 59,60 olan TÜFE oranlarının % 70'lere çıkması bekleniyor. Bu durumda, kiralarda yapılacak artışın % 70 olacağı öngörülüyor. Kiracıların bu durumu ödeyemeyecekleri endişesiyle ciddi sıkıntılar yaşayacakları düşünülüyor.
+
+================================================================================
+

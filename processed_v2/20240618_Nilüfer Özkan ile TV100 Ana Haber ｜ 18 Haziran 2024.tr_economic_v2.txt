@@ -1,0 +1,88 @@
+# Economic Content from: 20240618_Nilüfer Özkan ile TV100 Ana Haber ｜ 18 Haziran 2024.tr.txt
+# Processed: 2025-07-22T17:57:05.876355
+# Original: 8717 words → Filtered: 467 words (5.36% retention)
+# Economic segments: 5
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 54
+**Retention**: 100.00%
+
+19'u gösterirken
+Türkiye'nin ve dünyanın öne çıkan gelişmeleri ile karşınızdayız hemen en sıcak gelişmeyle başlayalım
+Türkiye'nin gözü kulağı Almanya'da Avrupa şampiyonasında sahne sırası bugün ay yıldızlı milli takıma
+geldi rakibimiz gistan Dortmund şehrindeki maçta milli marşlar okundu maç başlamak üzere maç öncesi
+Dortmund şehri kırmızı beyazdı Türk taraftarlar maçın coşkusunu Sabahın ilk saatlerinden itibaren
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 104
+**Retention**: 45.02%
+
+The filtered text focusing on economics, finance, and business is as follows:
+
+Kapadokya bölgesindeki turistik konaklama tesisleri ile butik oteller bayram nedeniyle % 70 doluluğa ulaştı. Bu, bölgedeki turizm sektörünün bayram döneminde önemli bir ekonomik hareketlilik yaşadığını gösteriyor. Ayrıca, tatilcilerin Akdeniz sahillerine olan ilgisi, yerel ekonomilere katkı sağlıyor. 
+
+Kurban Bayramı tatili ve sıcak havaların etkisiyle tatilcilerin akınına uğrayan Hazar Gölü kıyıları, bölgedeki turizm gelirlerini artırıyor. Isparta'da vatandaşların Eğirdir Gölü'ne olan ilgisi, yerel işletmeler için ekonomik fırsatlar yaratıyor. 
+
+Balıkesir'in Ayvalık ilçesinden Yunan adalarına geçenlerin sayısının 8000'e yaklaşması, bölgedeki turizm ve ulaşım sektörlerinde önemli bir hareketliliği işaret ediyor. Bu tür gelişmeler, yerel ekonomilerin canlanmasına katkıda bulunuyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 53
+**Retention**: 40.46%
+
+Kurban pazarlarında bayramın 3 günü sakinlik hakimdi, bu durum fiyatlara da yansıdı. %40'lara varan indirimler yapan hayvan sahipleri bile satışların geçen yıla göre düşük kaldığını söyledi. Fiyatların düşmesini bekleyenler, bayram sona ermeden kurbanlıklara son kez göz attı. Bayram öncesinde 10 ila 15,000 L arasında değişen küçükbaş fiyatları, bayramın sonuna yaklaşırken yarı yarıya azaldı.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 160
+**Retention**: 100.00%
+
+311 araç denetlendi 23 85 araca hız ve radar işlemi yapıı ifadelerini kand yarıda kaldı değerli
+izleyenler taraflar arasında tartışma çıktı birbirlerine sopayla saldırdılar o kavga çevredekilerin
+müdahalesiyle son buldu yaşananlar cep telefonu kamerasına kaydedildi piknik keyfi kavgayla bitti
+biri sopayla diğeri Kırdığı cam şişeyle saldırmak istedi iki aile birbirine girdi adresi İstanbul
+Avcılar piknik yapan iki aile arasında bir anda tartışma çıktı gerilim arttı o tartışma kavgaya
+dönüştü sopalar konuştu piknik keyfi yarıda kaldı taraflardan biri sopayla karşı tarafa saldırdı
+Diğeri ise eline geçirdiği cam şişeyi kırdı karşılık vermeye çalıştı ama fırsatı olmadı Park
+içerisinde kısa süreli kovalamaca yaşandı çevredekiler araya girdi Kavga son buldu O anlar cep
+telefonu kamerasına yansıdı Adana'da Bir kadın daha önce kendisini darb eden saldırgan tarafından
+hayatının şokunu yaşamış o zorba yan balkondan kadının evine atlamıştı o anlarda güvenlik kamerası
+kayıttaydı saldırgan Cebir kullanarak ve gece vakti konut dokunulmazlığını ihlal etme suçundan bir
+yıl 3 ay hapis kadına karşı basit yaralama suçundan da 3
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 96
+**Retention**: 100.00%
+
+000 L para cezasına çarptırıldı önce
+asansörde darp etti yetmedi yan dairenin balkonundan atladığı evin salonuna girdi hakim karşısına
+çıkan o saldırgana ceza çıktı Adana'da bir kadın bir süre görüştüğü Gökhan Kızılyer tarafından
+saldırıya uğradı kadın daha önce Kızılyer tarafından oturduğu apartmanın asansöründe darp edildi
+ardından da yaşadığı evde saldırıya maruz kaldı Gökhan Kızılyer tehdit ve darp ettiği kadının evine
+balkondan girdi yan daireden atlayan saldırgan kadının evine Pencereden girdi o anlar güvenlik
+kamerası tarafından da kaydedildi olayın ardından soruşturma başlatıldı Şüpheli Gökhan Kızılyer
+aylar sonra hakim karşısına çıktı saldırgana kadına karşı basit yaralama suçundan 3
+
+================================================================================
+

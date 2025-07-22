@@ -1,0 +1,80 @@
+{
+  "file_path": "news/ATV/ATV20240823_atv Ana Haber ｜ 23 Ağustos 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T16:51:49.826353",
+  "original_word_count": 4850,
+  "filtered_word_count": 209,
+  "retention_ratio": 0.043092783505154636,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 23,
+      "start_sentence": "İyi akşamlar Bugün 23 Ağustos Cuma...",
+      "description": "\"İyi akşamlar Bugün 23 Ağustos Cuma...\" - The opening of the broadcast where the presenter greets the audience and introduces the date and main topic of the program.",
+      "end_pos": 72
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 72,
+      "start_sentence": "Cumhurbaşkanı Erdoğan yoğun bir mesaiye başlıyor...",
+      "description": "\"Cumhurbaşkanı Erdoğan yoğun bir mesaiye başlıyor...\" - The main content of the news broadcast, covering various stories including political events, diplomatic visits, and discussions regarding Turkey and Egypt relations.",
+      "end_pos": 72
+    },
+    {
+      "type": "5. **NEWS**",
+      "start_pos": 72,
+      "start_sentence": "Cumhurbaşkanı Erdoğan Cuma namazını İsa Muğla'nın Marmaris ilçesi...",
+      "description": "\"Cumhurbaşkanı Erdoğan Cuma namazını İsa Muğla'nın Marmaris ilçesi...\" - Further news content detailing President Erdoğan's activities, including his attendance at a mosque and interactions with the public.",
+      "end_pos": 680
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 680,
+      "start_sentence": "Selamünaleyküm selamünaleyküm...",
+      "description": "\"Selamünaleyküm selamünaleyküm...\" - A brief transition within the news segment, indicating a shift in focus to another aspect of the news, specifically regarding the relationship between Turkey and Egypt.",
+      "end_pos": 1245
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1245,
+      "start_sentence": "İsrail'in bombaları altındaki Gazze'de yaşanan insanlık dramı...",
+      "description": "\"İsrail'in bombaları altındaki Gazze'de yaşanan insanlık dramı...\" - Continuation of the news segment discussing the humanitarian situation in Gaza and Turkey's stance on the matter.",
+      "end_pos": 34347
+    }
+  ],
+  "news_segments_count": 9,
+  "economic_segments_count": 3,
+  "economic_segments": [
+    {
+      "segment_id": "72_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 76,
+      "filtered_length": 59,
+      "retention_ratio": 0.7763157894736842,
+      "section_description": "\"Cumhurbaşkanı Erdoğan Cuma namazını İsa Muğla'nın Marmaris ilçesi...\" - Further news content detailing President Erdoğan's activities, including his attendance at a mosque and interactions with the public."
+    },
+    {
+      "segment_id": "1245_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 192,
+      "filtered_length": 83,
+      "retention_ratio": 0.4322916666666667,
+      "section_description": "\"İsrail'in bombaları altındaki Gazze'de yaşanan insanlık dramı...\" - Continuation of the news segment discussing the humanitarian situation in Gaza and Turkey's stance on the matter."
+    },
+    {
+      "segment_id": "1245_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 199,
+      "filtered_length": 67,
+      "retention_ratio": 0.33668341708542715,
+      "section_description": "\"İsrail'in bombaları altındaki Gazze'de yaşanan insanlık dramı...\" - Continuation of the news segment discussing the humanitarian situation in Gaza and Turkey's stance on the matter."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

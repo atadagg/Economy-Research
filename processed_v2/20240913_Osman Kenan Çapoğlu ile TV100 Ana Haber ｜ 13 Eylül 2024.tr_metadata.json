@@ -1,0 +1,96 @@
+{
+  "file_path": "news/TV100/20240913_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 13 Eylül 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T18:30:25.309699",
+  "original_word_count": 11001,
+  "filtered_word_count": 260,
+  "retention_ratio": 0.02363421507135715,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "İyi akşamlar 13 Eylül Cuma TV1 an haberde...",
+      "description": "\"İyi akşamlar 13 Eylül Cuma TV1 an haberde...\" - The opening segment introduces the program, the date, and the main topics to be covered, setting the stage for the news broadcast.",
+      "end_pos": 101
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 101,
+      "start_sentence": "Narin cinayetine ilişkin önemli bilgiler belgeler söz konusu...",
+      "description": "\"Narin cinayetine ilişkin önemli bilgiler belgeler söz konusu...\" - This section contains the main news content, discussing the developments in the Narin murder case, including details about suspects, evidence, and ongoing investigations.",
+      "end_pos": 592
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 592,
+      "start_sentence": "Canan'a gidelim Canan Altıntaş bizi bekliyor...",
+      "description": "\"Canan'a gidelim Canan Altıntaş bizi bekliyor...\" - A brief transition that shifts the focus from the presenter to the correspondent on-site, indicating a change in the news story being covered.",
+      "end_pos": 976
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 976,
+      "start_sentence": "Evet Osman Kenan Çapoğlu üst üste sıcak gelişme...",
+      "description": "\"Evet Osman Kenan Çapoğlu üst üste sıcak gelişme...\" - This continues the news segment, providing further details about the investigation, including specific actions taken by law enforcement and the implications of the findings.",
+      "end_pos": 1263
+    },
+    {
+      "type": "5. **TRANSITION**",
+      "start_pos": 1263,
+      "start_sentence": "İşte bu sorunun cevapları aranıyordu...",
+      "description": "\"İşte bu sorunun cevapları aranıyordu...\" - Another transition that leads into a deeper exploration of the investigation, indicating a shift in focus to the technical aspects of the case.",
+      "end_pos": 1263
+    },
+    {
+      "type": "6. **NEWS**",
+      "start_pos": 1263,
+      "start_sentence": "Siber ekipler çözmeye çalışıyordu hem İl Jandarma Komutanlığına bağlı...",
+      "description": "\"Siber ekipler çözmeye çalışıyordu hem İl Jandarma Komutanlığına bağlı...\" - This section continues to elaborate on the ongoing investigation, detailing the efforts of cyber teams and the significance of the evidence being gathered.",
+      "end_pos": 77377
+    }
+  ],
+  "news_segments_count": 10,
+  "economic_segments_count": 4,
+  "economic_segments": [
+    {
+      "segment_id": "101_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 70,
+      "filtered_length": 70,
+      "retention_ratio": 1.0,
+      "section_description": "\"Narin cinayetine ilişkin önemli bilgiler belgeler söz konusu...\" - This section contains the main news content, discussing the developments in the Narin murder case, including details about suspects, evidence, and ongoing investigations."
+    },
+    {
+      "segment_id": "592_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 53,
+      "filtered_length": 53,
+      "retention_ratio": 1.0,
+      "section_description": "\"Canan'a gidelim Canan Altıntaş bizi bekliyor...\" - A brief transition that shifts the focus from the presenter to the correspondent on-site, indicating a change in the news story being covered."
+    },
+    {
+      "segment_id": "1263_5",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 139,
+      "filtered_length": 79,
+      "retention_ratio": 0.5683453237410072,
+      "section_description": "\"Siber ekipler çözmeye çalışıyordu hem İl Jandarma Komutanlığına bağlı...\" - This section continues to elaborate on the ongoing investigation, detailing the efforts of cyber teams and the significance of the evidence being gathered."
+    },
+    {
+      "segment_id": "1263_6",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 118,
+      "filtered_length": 58,
+      "retention_ratio": 0.4915254237288136,
+      "section_description": "\"Siber ekipler çözmeye çalışıyordu hem İl Jandarma Komutanlığına bağlı...\" - This section continues to elaborate on the ongoing investigation, detailing the efforts of cyber teams and the significance of the evidence being gathered."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

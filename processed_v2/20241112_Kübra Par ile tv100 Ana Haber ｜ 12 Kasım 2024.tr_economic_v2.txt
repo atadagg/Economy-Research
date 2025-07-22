@@ -1,0 +1,153 @@
+# Economic Content from: 20241112_Kübra Par ile tv100 Ana Haber ｜ 12 Kasım 2024.tr.txt
+# Processed: 2025-07-22T18:06:55.829048
+# Original: 9763 words → Filtered: 1168 words (11.96% retention)
+# Economic segments: 9
+
+## Economic Segment 1
+
+**Method**: pattern_validated
+**Confidence**: 0.75
+**Word Count**: 81
+**Retention**: 100.00%
+
+ne yasa dışı bahis ne konserlere ödenen Milyonlar hiçbiri Ama hiçbiri önemli değil Çünkü bugün
+İzmir'de Anneleri hurda toplamaya giden beş çocuğumuzun elektrik sobasından çıkan yangında hayatını
+kaybetmesini ağlıyoruz aslında Sadece ağlamıyor aynı zamanda insanlığımızdan utanıyoruz babaları
+cezaevinde anne çaresiz bir iddiaya göre uyuşturucu kullanıyor güvenebildiğin Hiç kimsesi yok Bir
+komşuya bile emanet edemiyor ve kimse zarar vermesin diye kapıyı üstlerine kilitleyip gidiyor ve o
+masum Periler ki birinin adı gerçekten Peri o çıkan yangında Can veriyorlar Peki yoksulluk mu vurdum
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: pattern_validated
+**Confidence**: 0.75
+**Word Count**: 114
+**Retention**: 100.00%
+
+duymazlık mı ihmalkarlık mı şimdi Aile ve Sosyal Hizmetler Bakanlığı açıklama yapıyor Kaymakamlık
+Biz Görevimizi yaptık imajı veriyor belediyeler peş peşe başsağlığı ve üzüntü mesajları yayınlıyor
+Peki gerçek Suçlu kim yoksullukla mücadele edemeyen ve şimdi be çocuğunu birden kaybeden anne mi
+yoksa yoksulluğu görüp de o eve defalarca gidip de kalıcı bir çözüm üretemeyen yetkililer mi kimdir
+bu felaketin sorumlusu açık açık konuşacağız bizi affedin çocuklar bu toplum bu devlet sizi
+koruyamadı o yüzden bugünkü Hashtag imiz de bizi affedin çocuklar bizi affedin çocuklar etiketiyle
+siz de bize yazın Sizce bu olayın sorumlusu kim Kim bu olayın sorumlusu ve bundan sonra başka
+çocuklarımızı böyle korkunç felaketlerde kaybetmemek için ne yapıyoruz ve ne yapamıyoruz hepsini
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 80
+**Retention**: 60.61%
+
+Barış arkadaş Gürkan, Taksim Meydanı programında önemli ekonomik verilerle ilgili bilgiler paylaştı. Ekrem İmamoğlu'nun asgari ücretle ilgili açıklamaları, emekli maaşlarının asgari ücrete eşitlenmesi gerektiğini vurguladı. Bu durum, hem işçi hem de emekli kesimi için önemli bir ekonomik gelişme olarak değerlendiriliyor. Ayrıca, asgari ücretin artırılması, genel fiyat seviyeleri ve enflasyon üzerinde de etkili olabilir. Ekonomik verilerin bu şekilde tartışılması, CHP'nin iç tartışmalarının yanı sıra, seçmen güvenini de etkileyebilir. Bu bağlamda, hükümetin ekonomik politikalarının ve sosyal yardımların gözden geçirilmesi gerektiği ifade ediliyor.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 125
+**Retention**: 54.11%
+
+The filtered text focusing on economics, finance, and business is as follows:
+
+Türkiye'nin Rüzgar ve Güneş enerjisi kurulu gücünü 2035 yılında 120.000 MW'a çıkarma hedefi, enerji sektöründeki büyüme ve yatırımlar açısından önemli bir ekonomik gelişmedir. Bu hedef, ülkenin enerji bağımsızlığına katkıda bulunacak ve yenilenebilir enerji kaynaklarına yapılan yatırımları artıracaktır. 
+
+Ayrıca, Türkiye ile Amerika Birleşik Devletleri arasında ekonomik ilişkilerin güçlendirilmesi gerektiği vurgulanmaktadır. İki ülke arasında dostluk ve müttefiklik hukukunun doğasına uygun hareket edilmesi, ticaret ve yatırım fırsatlarını artırabilir. 
+
+Bu bağlamda, yeni Washington yönetimi ile Türkiye arasında ekonomik işbirliğini artıracak yeni bir sayfa açılması gerektiği ifade edilmektedir. Ekonomik politikaların bu tür uluslararası ilişkilerdeki etkisi, iki ülkenin de ekonomik büyümesine katkı sağlayabilir. 
+
+Sonuç olarak, Türkiye'nin enerji hedefleri ve uluslararası ekonomik ilişkileri, ülkenin ekonomik geleceği açısından kritik öneme sahiptir.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 107
+**Retention**: 59.12%
+
+200 b000 kişi destek almak için İŞKUR'un kapısını çalmasına rağmen yarısından fazlası işsizlik maaşı almaya hak kazanamadı. Resmi verilere göre işsiz sayısı azaldı ancak işsizlik ödeneğine başvuranların sayısı katlandı. Yılbaşından Eylül ayına kadar olan sürede 1 200 b000 kişi işsizlik maaşı başvurusu yaptı. Söz konusu kişilerden % 48'i ödenek almaya hak kazandı. Eylül ayında işsizlik ödeneğine 138 479 kişi başvurdu, 6822 kişi faydalandı. Ödeneğe başvuran her 100 kişiden 22'si 25-29 yaş grubundaki genç işsizler oluşturdu. Bu yaş grubunda iş için bekleyenlerin 2838'i kadın, aynı yaş grubundaki erkeklerde ise kayıtlı işsiz sayısı 3964. Türkiye'deki işsizlik oranları ve genç işsizlik durumu, ekonomik istikrar açısından önemli bir gösterge olarak değerlendiriliyor.
+
+================================================================================
+
+## Economic Segment 6
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 140
+**Retention**: 81.87%
+
+200 b000 de işe girmiş sonrasında işten çıkmak zorunda kalmış bu bize neyi gösteriyor? Üniversite mezunu gençlerin iş bulamadığını gösteriyor. Bu bize gençlerimize istihdam yaratamadığımızı gösteriyor. Gerçekten bu veriyi alıp şöyle önümüze koyup bu ülkenin geleceğini emanet ettiğimiz gençlerin ne kadar kötü bir durumda olduğunu düşünmemiz lazım. Çok acı bir tablo bunun üzerine daha çok konuşacağız. Altın fiyatları, yatırımcının yüzünü epeyce bir güldürmüş, yükseldikçe yükselmişti. Küresel ekonomideki gelişmelerin de parlak olmaması nedeniyle altın fiyatları düşmeye başladı. Yatırımcı bekleme moduna geçti; nakite ihtiyacı olmayan yatırımcının bu düşüşlerin bitmesini beklemediği görülüyor. Düşüşler çünkü kalıcı değildir; yatırımcı güvenli limanı terk ediyor. Altın fiyatlarında düşüş trendi sürüyor, altın fiyatlarındaki düşüş trendi ikinci haftasına girdi ve sert düşüşler halen devam ediyor. Yatırımcının güvenli limanı altında düşüş devam ediyor. Küresel ekonomideki sorunlar fiyatları baskılayıcı; altın yatırımcısı bekleme moduna geçti. Şu anda ons altın 2605 dolar seviyesinde.
+
+================================================================================
+
+## Economic Segment 7
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 394
+**Retention**: 100.00%
+
+15 lir seviyesinde yaklaşık 2 haftalık süreç içerisinde gram altında 175
+lira ons altında 185 dolarlık bir düşüş gördük düşüş nedenleri arasında politik sebepler ve Kripto
+para yatırımları var düşüşlerin Nedeni şu özellikle Donald trump'ın tekrar seçilmesiyle birlikte
+savaşları bitireceğim söylemi burada çok etkili oldu Kripto paralarda yaşanan 90 000 dolar seviyesi
+bu yükselişler özellikle altın satıp Kripto para piyasasına geçenler Çok etkili oldu piyasa
+uzmanları altındaki bu düşüşün uzun vadeli olacağını düşünmüyor oluşan bu iklim yatırımcı için bir
+alım fırsatı olabilir bu düşüşler eee bir hafta daha devam edebilir kısa vadede veya bu hafta için
+devam edebilir Ama bu haftayı bir alım fırsat olarak değerlendirmek gerekiyor Düğün yapacaklar altın
+borcu olanlar altının düşüşünü fırsat olarak kollayan artık bu tarafta Eee alımlarını yavaş yavaş
+başlatabilir bu düşüşlerin çok kalıcı olacağını tahmin etmiyorum tekrar yükseliş trendi aralık ayı
+itibariyle başlayabilir piyasa uzmanları yeni yıldan umutlu altın piyasasında yeni Rekorlar
+bekleniyor hem savaşlar hem jeol politik gerilimlerin bölgesel savaşlara dönüşmesi beraberinde
+küresel ekonomiye dair belirsizliğin biraz daha artması Merkez bankalarının faiz indirimini tekrar
+sürdürmesi gibi etkenler Altın fiyatlarını yine pozitif yönde desteklemesini bekliyoruz Öyle
+vergiler var ki hani bir araba alırken Bir tane de devlete alıyoruz bir de telefon alırken bir
+kendimize bir de devlete alıyoruz Bu yüzden de vergiler bu kadar yüksek olduğu için kaşak telefon
+sayısı da tam 3,5 milyona çıkmış bu durum yıllık 30 milyar lira vergi kaybına yol açıyor
+biliyorsunuz vergiler telefonda çok yüksek olunca Kaçak telefona başvuruyor insanlar Peki Normalde
+biliyorsunuz hat kapanıyor nasıl üstesinden geliyorlar izleyelim bir cep telefonu alırken D ayrı
+vergiden bahsediyoruz esasında devletin şu anda uygulamış olduğu kayıt ücretlerinin çok fazla olması
+ve haliyle ekonominin de biraz sıkıntılı olmasından dolayı özellikle Genç nesil şu anda Kaçak
+telefona yöneliyor sayıları her gün artıyor daha uygun fiyatlı olduğu için tercih ediliyor
+telefonların pahalılığı yüksek vergiler Kaçak cihazların sayısını arttırdı rakamlar tam 3,5 milyona
+çıktı bu durum yıllık 30 milyar TL vergi kaybına yol açtı vergi ödememek için aslında kayıt
+ettirmemek için bir yol Fakat bu da devletimize zarar veriyor gerçekten ama insanlar şu anda çaresiz
+öyle bir duruma geldik ki herkes Kaçak telefona yönelmiş durumda Tabii % 35 nispetinde kayıt dışılık
+barındıran sektör açısından firmalar birçok olumsuzluklar yaşarken beraberinde hazine açısından da
+ciddi anlamda bir vergi kaybı söz konusu pahalılık Kaçak telefonlara rağbeti arttırdı vatandaş
+yüksek vergi oranlarından dolayı yurt dışı telefonlara yönelmiş durumda şu and ücreti yaklaşık
+17
+
+================================================================================
+
+## Economic Segment 8
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 57
+**Retention**: 86.36%
+
+Uzmanlar telefon fiyatları ve vergilerde indirime gidilmediği takdirde kaçak cihaz sorununun çözüleceğini düşünmüyor. Kayıt ücreti şu anda 35 000 küsur TL, yılbaşından sonra 45 000 TL gibi olacağı söyleniyor. Bu telefonun yurt dışı fiyatı şu anda 6 000 TL civarında. Dolayısıyla 60 000 liraya almak gerekirken insanlar Türkiye'de 100 000 - 110 000 TL gibi fiyatlarla karşılaşıyorlar.
+
+================================================================================
+
+## Economic Segment 9
+
+**Method**: simple_final
+**Confidence**: 0.50
+**Word Count**: 70
+**Retention**: 33.98%
+
+BBDK'nın cep telefonu alımlarında kredi kartlarına yönelik olarak taksit sınırlandırması getirmesi, ancak en önemli sebebin vergi yükü olduğunu çok rahatlıkla söyleyebiliriz. Bu durumun önüne geçmek güç; alım gücünün iyileştirilmiş telefonların piyasada önemli bir oranda olması bekleniyor. Vergide adalet sağlanmazsa, bu kadar pahalıya telefon almak zorunda kalırsak, bir yandan da kredi kartına taksiti engellenmiş oluyor. Bu durum, vatandaşların alternatif yollar aramasına neden oluyor. Sorun vergi sisteminde; buraya da bir bakmak lazım.
+
+================================================================================
+

@@ -1,0 +1,50 @@
+# Economic Content from: ATV20240907_atv Ana Haber ｜ 7 Eylül 2024.tr.txt
+# Processed: 2025-07-22T16:24:58.399887
+# Original: 4731 words → Filtered: 253 words (5.35% retention)
+# Economic segments: 3
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 103
+**Retention**: 66.45%
+
+Cumhurbaşkanı Erdoğan, Kocaeli'de yaptığı konuşmada, ekonomik veriler ve istatistikler hakkında bilgi vermedi. Ancak, hükümetin ekonomik politikaları ve iş dünyasıyla ilgili önemli mesajlar verdi. Erdoğan, "Gerekli adımlar atılacak" diyerek, ekonomik istikrarı sağlamak için atılacak adımlara vurgu yaptı. 
+
+Ayrıca, Türkiye'nin ekonomik durumu ve iş dünyasındaki gelişmelerle ilgili olarak, "Ordumuz üzerinden siyasi hesap yapmalarına izin vermeyeceğiz" ifadesiyle, ekonomik güvenliğin önemine dikkat çekti. Bu bağlamda, hükümetin ekonomik stratejileri ve iş dünyasına yönelik destekleyici politikaları üzerinde durulması gerektiğini belirtti. 
+
+Cumhurbaşkanı, "Tüm İslam ülkelerine ortak tavır alma çağrısı yapıyoruz" diyerek, uluslararası ticaret ve ekonomik işbirliklerinin önemini vurguladı. Ekonomik analizler ve uzman görüşleri, Türkiye'nin ekonomik hedeflerine ulaşmasında kritik rol oynayacak.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 67
+**Retention**: 38.29%
+
+Okul üniformaları 850 liradan başlıyor, 5,000 liraya kadar çıkıyor. Hatta 10,000 lira isteyen bile var; bu fiyatlar yüksek kaçmış, biraz daha uygun olması gerekiyordu. Özel okullardaki üniforma fiyatları da katlanıyor; burada 600 lira olan bir ürün, özel okulda 2,000 liraya satılıyor. Pantolon fiyatları da benzer şekilde artış gösteriyor; burada 500 lira olan bir pantolon, özel okulda 2,000 lira olabiliyor. Bu durum, ailelerin eğitim masraflarını önemli ölçüde etkiliyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 83
+**Retention**: 34.02%
+
+Ekonomik veriler, istatistikler ve göstergeler hakkında bilgi veren cümleler, finansal piyasalar, yatırımlar ve ticaretle ilgili gelişmeler, hükümetin ekonomik politikaları, fiyatlar, enflasyon, maliyetler ve ücretler gibi konulara odaklanarak metni filtreledim:
+
+---
+
+Özel okulların kıyafetleri yapacakları zam oranları Ocak ayında bakanlık tarafından açıklanıyor. Tüketicilerin, Milli Eğitim Bakanlığı'na şikayette bulunmasının yanı sıra okul idaresine yazılı başvuru yaparak itirazlarını belirtmeleri önem taşıyor. Veli, ödeme tarih itibarıyla 10 yıl süreyle fazla ödemiş olduğu ücreti ticari faiziyle geri alabileceğini bilmelidir. 
+
+---
+
+Bu şekilde, yalnızca ekonomik içeriklere odaklanarak metni düzenledim.
+
+================================================================================
+

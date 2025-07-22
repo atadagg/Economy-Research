@@ -1,0 +1,58 @@
+# Economic Content from: 20240728_Show Ana Haber 28 Temmuz 2024.tr.txt
+# Processed: 2025-07-22T17:41:24.377602
+# Original: 2915 words → Filtered: 357 words (12.25% retention)
+# Economic segments: 3
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 53
+**Retention**: 35.57%
+
+Kadıköy esnafı dolandırıcıların güle oynaya yediği paraları ödemek için borç üstüne borç bindirdi. İki kere kredi çektim, 250.000 lira kaybım var. Bu durum, esnafın finansal durumunu olumsuz etkiliyor ve ekonomik zorluklar yaşamasına neden oluyor. Dolandırıcılık olayları, güvenlik açıkları nedeniyle bankacılık sistemine olan güveni sarsıyor. Bu tür olaylar, genel ekonomik istikrarı da tehdit edebilir.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 122
+**Retention**: 100.00%
+
+000 lira gider etrafımdan duyduğum kadarıyla da ciddi ödemeler yapan insanlar var
+arkadaşlarım var son zamanlarda diyorlar ki kadınlar kadar Erkekler de dış görünüşlerine önem
+veriyorlarmış ama kadınların ödediği para erkeklerin ödediği paranın Yanından bile geçmezmiş ne
+düşünüyorsun E yani Sizce mümkün mü Yanından bile kenarından bile geçemez maalesef kadınlar güzellik
+için ne kadar para harcayabilir çok sınır yok yani mutlu olduğumuz zamana kadar harcayabiliriz
+Efendim hep Mutlu oldunuz 20 000 liraya da olur 50 000 liraya da olur ya olur mu Olur
+hanımefendiciğim kadınlar güzelliklerine çok para harcıyorlar ne düşünüyorsunuz Yani doğru
+harcıyorlar ama ben gerek görmüyorum kadınlar hangi işlemler için ne kadar para harcıyor 5 000
+liranın altında yaptırdığınız botoks mutlaka Kaçak üründür Mezoterapi de öyle 2 000 lla 10
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_final
+**Confidence**: 0.50
+**Word Count**: 182
+**Retention**: 100.00%
+
+000 arası
+kadınlar buna çok para harcıyor ne düşün onlar harcıyorlar güzelliğine güzellik katmak için mecburen
+yapıyorlar Bunlar o parayı nereden harcıyorlar abi nereden ya Çalışıyorlar ya eşlerinden biz de
+artık bakımlı erkek görmek istiyoruz çevremizde bakımlı erkek her zaman için popülerdir zaman için
+öndedir kolur botoks yaptırmayı planlıyor musun Hayır hiç düşünm dolgu onu da düşünm 10 sene sonra
+göreceğim ben Seni kaç yaş gençleştirecek ve antiaging le kesinlikle bir 5 10 yaş daha iyilik halin
+oluşu 10 yaş yok artık hocam Öyle 20 000 liraya da olur 50 000 liraya da olur ya Olur mu olur Biz
+bayanlar böyle işte hep daha İyi olmak ruhlarında bu var abi erkeğin yakışıklı olmasına gerek var mı
+ya yok tabii kardeşim be ya E Yok be ya Abi bu saçla beraber beğenirler bizi ya bir kadın 35-45 yaş
+arasındaysa ortalama 20 000 liraya botoksunu ve Mezoterapi ve gençlik halini oluşturacak iyilik
+halini oluşturacak süreci yapabilir Bu hesaba göre bir kadının güzel olması için bir maaş yetmiyor
+ya bu akşamlık daha şov Ana Haberin Sonuna Geldik yeni haftada da bizden ayrılmayın efendim İyi
+akşamlar
+
+================================================================================
+

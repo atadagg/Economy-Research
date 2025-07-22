@@ -1,0 +1,48 @@
+{
+  "file_path": "news/Halk/20240919_Ece Üner ile Halk Ana Haber (19 Eylül 2024).tr.txt",
+  "processing_timestamp": "2025-07-22T17:01:55.932474",
+  "original_word_count": 11500,
+  "filtered_word_count": 109,
+  "retention_ratio": 0.009478260869565217,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "halkan Haber'e Hoş geldiniz sefalar getirdiniz",
+      "description": "\"halkan Haber'e Hoş geldiniz sefalar getirdiniz\" - The opening of the broadcast where the presenter welcomes viewers and introduces the program's theme and intensity.",
+      "end_pos": 1273
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 1273,
+      "start_sentence": "Bahçeli haberiyle başlayacağız",
+      "description": "\"Bahçeli haberiyle başlayacağız\" - The main news content begins here, discussing various topics including political statements and events, particularly focusing on the comments made by political figures.",
+      "end_pos": 1558
+    },
+    {
+      "type": "3. **OUTRO**",
+      "start_pos": 1558,
+      "start_sentence": "Bütün bunlar Eee resmi dili hepsi değiştirmeye mahkum",
+      "description": "\"Bütün bunlar Eee resmi dili hepsi değiştirmeye mahkum\" - The closing remarks of the program, summarizing the discussions and providing final thoughts before ending the broadcast.",
+      "end_pos": 81205
+    }
+  ],
+  "news_segments_count": 12,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "1558_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 272,
+      "filtered_length": 109,
+      "retention_ratio": 0.4007352941176471,
+      "section_description": "\"Bütün bunlar Eee resmi dili hepsi değiştirmeye mahkum\" - The closing remarks of the program, summarizing the discussions and providing final thoughts before ending the broadcast."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

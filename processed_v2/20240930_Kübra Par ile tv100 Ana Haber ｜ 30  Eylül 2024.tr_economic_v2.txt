@@ -1,0 +1,77 @@
+# Economic Content from: 20240930_Kübra Par ile tv100 Ana Haber ｜ 30  Eylül 2024.tr.txt
+# Processed: 2025-07-22T18:47:06.379155
+# Original: 10544 words → Filtered: 657 words (6.23% retention)
+# Economic segments: 6
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 126
+**Retention**: 35.20%
+
+New York Belediyesi, rüşvet ve yolsuzluk skandalıyla çalkalanıyor. Suçlanan New York Belediye Başkanı Eric Adams'ın, bazı iş insanlarından bağış adı altında veya hediye olarak kabul ettiği iddia ediliyor. Bu konuda bir iddianame hazırlanmıştı. Rüşvet soruşturması, Türk iş insanlarına kadar uzandı. New York Belediye Başkanı Eric Adams, yolsuzluk, rüşvet ve yasa dışı bağış almakla suçlanıyor. İddianamede bir Türk yetkili ve beş iş insanından söz ediliyor. Soruşturmaya ilişkin sıcak bir gelişme yaşandı; Galatasaray'ın eski yöneticisi ve NEF İnşaat şirketinin sahibi Erdem Timur, New York'ta FBI tarafından sorguya çekildi. Kendisine Belediye Başkanı Eric Adams ile ilgili sorular soruldu. 
+
+Bu gelişmeler, iş dünyasında güven ortamını sarsabilir ve yatırımcıların dikkatini çekebilir. Yolsuzluk ve rüşvet iddiaları, ekonomik istikrarı etkileyen önemli faktörlerdir. Bu tür olaylar, hem yerel hem de uluslararası yatırımcıların kararlarını etkileyebilir.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 125
+**Retention**: 37.65%
+
+2025 yılında asgari ücret ne kadar olacak? Hani hep konuştuk asgari ücrete zam ne kadar yapılacak? Emekliye ne kadar zam yapılacak? Şimdi asgari ücret zamına da daha aylar var aslında ama sorunun cevabı 2024 enflasyon hedefi nedeniyle ortaya çıkmaya başladı. Enflasyon hedefi % 41,5. Peki 2025'te asgari ücret ne olabilir? Benim kişisel tahminim % 40 civarında gerçekleşmesini bekliyorum. Tahminler % 30'dan başlıyor, 40-50 böyle gidiyor. Peki çalışan ne istiyor? 25 olursa iyi olur diye düşünüyoruz açıkçası. 2024 yılında enflasyon vites değiştirdi; önce yavaşladı, sonra az da olsa gerilemeye başladı. Asgari ücrette zam beklentisi o yüzden karşılıksız kaldı. Gözler 2025'te. Uzmanların beklentileri hangi yönde? 2025 yılında verilecek asgari ücret, 2025 yılının enflasyon tahmini beklentisinin % 17,5 olması nedeniyle bu şekilde belirlenecek olursa % 17 artış bekleniyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 49
+**Retention**: 37.12%
+
+Asgari ücret brüt 23,502 liraya çıkmış olacak. Uzmanlara göre, en yüksek olası zam %40 olarak belirleniyor. Bugün 177,000 lira olan asgari ücret, %40 artarsa 23,802 liraya çıkmış olacak. Bunun sebebi, orta vadeli planda 2024 enflasyon beklentisinin 38'den revize edilerek 41,5'e çıkması. Dolayısıyla, asgari ücretteki artış, enflasyon oranlarıyla doğrudan bağlantılı.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 155
+**Retention**: 70.14%
+
+Hazine ve Maliye Bakanı Mehmet Şimşek şimdi son dönemde bir takım ekonomi politikaları uygulamaya çalışıyor. Bunun için de özellikle vergi kaçaklarını engellemeye çalışıyor. Vergi kaçağı engellemenin en önemli yöntemlerinden bir tanesi, nakit ödeme meselesinin önüne geçip olabildiğince herkesin kaydını alabilmek. Buna dair de kartlı ödeme kabul etmeyen işletmeler radara girdi. Mehmet Şimşek'in işi zor; hiçbir ticari müessese kredi kartı kabul etmiyorum diyemez. Önce katıldığı canlı yayında uyardı bakan Mehmet Şimşek, ardından da Hazine ve Maliye Bakanlığı düğmeye bastı. Nakit dışında kartlı ödemeyi kabul etmeyen işletmeler incelemeye alındı. Kredi kartı kabul etmiyoruz artık mümkün değil çünkü post cihazıyla yazar kasayı birleştirdik. Uygulama 1 Temmuz'da zorunlu hale geldi. Aradan geçen 3 aya rağmen yeni nesil pos almayan ve tahsilatlarında kartlı ödeme imkanı sunmayan işletmelere Gelir İdaresi Başkanlığı özel usulsüzlük cezası kesiyor. Sadece işletmeler değil, bankalar da yaptırım kapsamında; ödeme kaydedici özelliği olmayan pos cihazı gönderen bankaya da ceza kesiliyor. Her bir tespit için kesilen ceza 200 TL.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 96
+**Retention**: 44.04%
+
+Bakan Şimşek, mükellefleri tüketiciden komisyon farkı almaması için uyardı. Trafik sigortalarında poliçe ücretlerinde inanılmaz bir fiyat artışı var. Trafik sigortasında oluşan zarar 2024'te 10 milyar TL olarak tahmin ediliyor. Üst üste zarar yazan sigorta şirketleri poliçe ücretlerini yükseltti. Tazminat hakkını alamayanlar mahkeme koridorlarında trafik kazaları ile ilgili davaların çok sayıda olduğunu görüyoruz. Şirketlerin zarar etmesindeki temel sebep bedeni zarar, yani yaralanmalar, uzuv kaybı ya da vefat. Bu yılın ilk yarısında 4,5 milyar liralık bedeni hasar ödemelerinin 3,5 milyar lirası davalık oldu. Devletin kurduğu bedeni zararlar havuzunda artık bu tarz hasar takip şirketleri karşısında devlet muhatap olacak.
+
+================================================================================
+
+## Economic Segment 6
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 106
+**Retention**: 34.30%
+
+Trafik sigortasında havuz sisteminin 2025 yılının ortalarında hayata geçmesi planlanıyor. Bu yeni sistemin sigorta şirketlerinin üstündeki yükü hafifletmesi bekleniyor. Ayrıca, mahkemelerdeki tazminat davalarının sayısının azalması ve ödeneklerin daha hızlı hesaba yatması öngörülüyor. Bedeni hasarlarda zarar azalırsa trafik sigortası primlerinin düşeceği şu anda öngörülüyor. 
+
+New York'ta yaşanan rüşvet ve yolsuzluk skandalı, iş dünyasında önemli bir etki yaratıyor. Soruşturma kapsamında NEF İnşaat şirketinin sahibi Erden Timur'un gözaltına alınması, iş insanları arasında endişelere yol açtı. Bu durum, iş yapma ortamını ve yabancı yatırımları etkileyebilir. 
+
+New York Belediye Başkanı Eric Adams hakkında hazırlanan iddianamede, Türk iş insanlarının da adı geçiyor. Bu tür gelişmeler, uluslararası ticaret ve yatırım ilişkilerini olumsuz etkileyebilir.
+
+================================================================================
+

@@ -1,0 +1,89 @@
+{
+  "file_path": "news/TV100/20240819_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 19 Ağustos 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T18:25:00.089547",
+  "original_word_count": 11155,
+  "filtered_word_count": 398,
+  "retention_ratio": 0.03567906768265352,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "Efendim Mutlu akşamlar 19 Ağustos Pazartesi yeni bir haftaya yoğun bir gündemle...",
+      "description": "\"Efendim Mutlu akşamlar 19 Ağustos Pazartesi yeni bir haftaya yoğun bir gündemle...\" - This section serves as the opening of the broadcast, where the presenter greets the audience and introduces the program's focus for the day.",
+      "end_pos": 94
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 94,
+      "start_sentence": "Türkiye'nin gündemini aylardır meşgul eden sosyal medya fenomeni Dilan Polat bugün tahliye oldu...",
+      "description": "\"Türkiye'nin gündemini aylardır meşgul eden sosyal medya fenomeni Dilan Polat bugün tahliye oldu...\" - This section contains the main news content, detailing the story of Dilan Polat's release from prison and the surrounding circumstances, including legal implications and family reactions.",
+      "end_pos": 186
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 186,
+      "start_sentence": "Dilan Polat ve eşi Engin Polat karar aklama yasa dışı bahis ve örgüt yöneticiliği gibi suçlardan...",
+      "description": "\"Dilan Polat ve eşi Engin Polat karar aklama yasa dışı bahis ve örgüt yöneticiliği gibi suçlardan...\" - This section continues the news coverage, providing additional details about the legal issues faced by Dilan Polat and her husband, as well as their situation in prison.",
+      "end_pos": 678
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 678,
+      "start_sentence": "O zamana kadar Nasıl bir süreç işleyecek neler değişecek mahkemede nasıl bir tabloyla karşı karşıya kalınır...",
+      "description": "\"O zamana kadar Nasıl bir süreç işleyecek neler değişecek mahkemede nasıl bir tabloyla karşı karşıya kalınır...\" - This brief transition connects different aspects of the news story, indicating a shift in focus to upcoming events related to the case.",
+      "end_pos": 1752
+    },
+    {
+      "type": "5. **TRANSITION**",
+      "start_pos": 1752,
+      "start_sentence": "enerji kocacığım sana enerji getir enerci Hoş geldin Hoş bulduk...",
+      "description": "\"enerji kocacığım sana enerji getir enerci Hoş geldin Hoş bulduk...\" - This transition appears to shift the tone slightly, possibly introducing a lighter moment or a different segment related to the news.",
+      "end_pos": 78398
+    }
+  ],
+  "news_segments_count": 11,
+  "economic_segments_count": 4,
+  "economic_segments": [
+    {
+      "segment_id": "1752_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 152,
+      "filtered_length": 113,
+      "retention_ratio": 0.743421052631579,
+      "section_description": "\"enerji kocacığım sana enerji getir enerci Hoş geldin Hoş bulduk...\" - This transition appears to shift the tone slightly, possibly introducing a lighter moment or a different segment related to the news."
+    },
+    {
+      "segment_id": "1752_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 316,
+      "filtered_length": 155,
+      "retention_ratio": 0.49050632911392406,
+      "section_description": "\"enerji kocacığım sana enerji getir enerci Hoş geldin Hoş bulduk...\" - This transition appears to shift the tone slightly, possibly introducing a lighter moment or a different segment related to the news."
+    },
+    {
+      "segment_id": "1752_5",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 196,
+      "filtered_length": 76,
+      "retention_ratio": 0.3877551020408163,
+      "section_description": "\"enerji kocacığım sana enerji getir enerci Hoş geldin Hoş bulduk...\" - This transition appears to shift the tone slightly, possibly introducing a lighter moment or a different segment related to the news."
+    },
+    {
+      "segment_id": "1752_6",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 80,
+      "filtered_length": 54,
+      "retention_ratio": 0.675,
+      "section_description": "\"enerji kocacığım sana enerji getir enerci Hoş geldin Hoş bulduk...\" - This transition appears to shift the tone slightly, possibly introducing a lighter moment or a different segment related to the news."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

@@ -1,0 +1,54 @@
+# Economic Content from: 20240805_Show Ana Haber 5 Ağustos 2024.tr.txt
+# Processed: 2025-07-22T17:23:33.814795
+# Original: 3307 words → Filtered: 242 words (7.32% retention)
+# Economic segments: 3
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 65
+**Retention**: 84.42%
+
+2 lir kademeli olarak yükselişler görüyoruz. Bu yükselişler de Merkez Bankası kontrolünde. Gram altın Sabahın erken saatlerinde 2640 lirayı gördü, şu anda çeyrek altının fiyatı 4280 lira. Cumhuriyet altını ise 17,500 lira. Bu gelişmeler gram altında artık 3,000 liranın yolu açıldı diyebiliriz. Bir yandan da gözler kripto para borsasında değer kayıpları ile beraber piyasadan toplam 1 milyar dolar silindi. %10'un üzerinde yine bitcoin'de düşüşler gerçekleşti.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 103
+**Retention**: 32.70%
+
+The filtered text focusing on economics, finance, and business is as follows:
+
+100000 liralık zararla baş başa kalan talihsiz ev sahibi bir kez daha savcılığın yolunu tuttu. 
+
+Bu daire boş ve tertemizdi, yeniydi, kapıları yeni yaptım, mutfaklarını yeni yaptım, boyasını yeni yaptım. 
+
+Gurbetçi ev sahibi 4 yıllık kiracısını çıkarmak istediğinde başına gelmeyen kalmadı. 
+
+Ev sahibi kiracısıyla konuştu, evden çıkmasını söyledi. 
+
+Sonunda zorba kiracılar evden çıktı. 
+
+Her gün kavga, her gün görüldü, her gün polisler kapıya geldi. 
+
+Ev sahibi, kiracısının evden çıkmasını istemesi üzerine yaşanan olaylar sonucunda 100000 lira zarar etti. 
+
+Bu durum, İstanbul'daki gayrimenkul piyasasında kiracı-ev sahibi ilişkilerinin ne kadar zorlayıcı olabileceğini gösteriyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 74
+**Retention**: 34.91%
+
+Ulaştırma ve Altyapı Bakanı Abdülkadir Uraloğlu, Instagram yetkilileriyle yapılan görüşmeden olumlu sonuç alınamadığını açıkladı. Bu durum, dijital platformların Türkiye'deki ekonomik etkilerini ve hükümetin dijital ekonomi üzerindeki politikalarını gündeme getiriyor. Ayrıca, Türkiye'nin dijital ticaret alanındaki gelişmeleri ve bu alandaki düzenlemelerin finansal piyasalar üzerindeki olası etkileri de dikkat çekiyor. Ekonomik veriler ve istatistikler, dijital platformların büyümesiyle birlikte değişen tüketici davranışlarını yansıtıyor. Bu bağlamda, hükümetin dijital ekonomi politikaları, yatırımcıların ve işletmelerin stratejilerini şekillendirmekte önemli bir rol oynuyor.
+
+================================================================================
+

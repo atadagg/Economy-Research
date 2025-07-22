@@ -1,0 +1,62 @@
+{
+  "file_path": "news/Show/20240904_Show Ana Haber 4 Eylül 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T17:24:39.318710",
+  "original_word_count": 3689,
+  "filtered_word_count": 72,
+  "retention_ratio": 0.01951748441312009,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "Şana Haber'den İyi akşamlar sayın seyirciler...",
+      "description": "\"Şana Haber'den İyi akşamlar sayın seyirciler...\" - The opening segment where the presenter greets the audience and introduces the program, setting the stage for the news content.",
+      "end_pos": 96
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 96,
+      "start_sentence": "Cumhurbaşkanı Erdoğan Mısır Cumhurbaşkanı sisi'yi Ankara'da ağırladı...",
+      "description": "\"Cumhurbaşkanı Erdoğan Mısır Cumhurbaşkanı sisi'yi Ankara'da ağırladı...\" - The main news content begins here, detailing significant political events, including the meeting between Turkish and Egyptian leaders, and the implications for bilateral relations.",
+      "end_pos": 1174
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1174,
+      "start_sentence": "Sivas Kongresi'nin 105 yıldönümünde kutlamalar Cumhuriyet meydanındaki törenle başladı...",
+      "description": "\"Sivas Kongresi'nin 105 yıldönümünde kutlamalar Cumhuriyet meydanındaki törenle başladı...\" - Continuation of the news content, covering the celebrations of the Sivas Congress anniversary and related political commentary.",
+      "end_pos": 1268
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 1268,
+      "start_sentence": "izleyelim o gün Sivas'ta ortaya konan NT çıkış...",
+      "description": "\"izleyelim o gün Sivas'ta ortaya konan NT çıkış...\" - A brief transition that leads into a new segment about the Sivas Congress anniversary celebrations, indicating a shift in focus within the news content.",
+      "end_pos": 1452
+    },
+    {
+      "type": "5. **NEWS**",
+      "start_pos": 1452,
+      "start_sentence": "CHP'de tüzük kurultayının startını Sivas Kongresi'nin yıldönümünde verdi...",
+      "description": "\"CHP'de tüzük kurultayının startını Sivas Kongresi'nin yıldönümünde verdi...\" - Further news content discussing the CHP party's activities and goals, maintaining the focus on political developments.",
+      "end_pos": 25835
+    }
+  ],
+  "news_segments_count": 6,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "1452_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 199,
+      "filtered_length": 72,
+      "retention_ratio": 0.36180904522613067,
+      "section_description": "\"CHP'de tüzük kurultayının startını Sivas Kongresi'nin yıldönümünde verdi...\" - Further news content discussing the CHP party's activities and goals, maintaining the focus on political developments."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

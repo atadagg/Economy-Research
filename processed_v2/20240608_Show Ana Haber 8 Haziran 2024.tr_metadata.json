@@ -1,0 +1,106 @@
+{
+  "file_path": "news/Show/20240608_Show Ana Haber 8 Haziran 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T17:23:17.760930",
+  "original_word_count": 3051,
+  "filtered_word_count": 136,
+  "retention_ratio": 0.044575549000327765,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "Solan haberden İyi akşamlar değerli izleyenler",
+      "description": "\"Solan haberden İyi akşamlar değerli izleyenler\" - The presenter, Hande Bayraktar, opens the program and introduces the main topics of the evening.",
+      "end_pos": 0
+    },
+    {
+      "type": "- **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "Solan haberden İyi akşamlar değerli izleyenler",
+      "description": "\"Solan haberden İyi akşamlar değerli izleyenler\" - The presenter, Hande Bayraktar, opens the program and introduces the main topics of the evening.",
+      "end_pos": 96
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 96,
+      "start_sentence": "Hemen başlayalım ihracatçılara döviz bozdurma müjdesi verdi",
+      "description": "\"Hemen başlayalım ihracatçılara döviz bozdurma müjdesi verdi\" - The main news content begins, covering various topics including President Erdoğan's statements on export regulations and the recent space mission involving Turkish astronauts.",
+      "end_pos": 96
+    },
+    {
+      "type": "- **NEWS**",
+      "start_pos": 96,
+      "start_sentence": "Hemen başlayalım ihracatçılara döviz bozdurma müjdesi verdi",
+      "description": "\"Hemen başlayalım ihracatçılara döviz bozdurma müjdesi verdi\" - The main news content begins, covering various topics including President Erdoğan's statements on export regulations and the recent space mission involving Turkish astronauts.",
+      "end_pos": 1146
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 1146,
+      "start_sentence": "Efendim Türkiye uzay misyonunda İkinci büyük adım atıldı",
+      "description": "\"Efendim Türkiye uzay misyonunda İkinci büyük adım atıldı\" - A transition occurs as the news shifts from discussing economic issues to the topic of Turkey's space mission and the involvement of astronauts.",
+      "end_pos": 1146
+    },
+    {
+      "type": "- **TRANSITION**",
+      "start_pos": 1146,
+      "start_sentence": "Efendim Türkiye uzay misyonunda İkinci büyük adım atıldı",
+      "description": "\"Efendim Türkiye uzay misyonunda İkinci büyük adım atıldı\" - A transition occurs as the news shifts from discussing economic issues to the topic of Turkey's space mission and the involvement of astronauts.",
+      "end_pos": 1241
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1241,
+      "start_sentence": "Alper Gezer Avcı'nın ardından Türkiye'nin ik astronotu Tuva Cihangir Atasever de uzay yolculuğuna çıktı",
+      "description": "\"Alper Gezer Avcı'nın ardından Türkiye'nin ik astronotu Tuva Cihangir Atasever de uzay yolculuğuna çıktı\" - The news segment continues with details about the second astronaut's journey and President Erdoğan's remarks regarding the significance of this event.",
+      "end_pos": 1241
+    },
+    {
+      "type": "- **NEWS**",
+      "start_pos": 1241,
+      "start_sentence": "Alper Gezer Avcı'nın ardından Türkiye'nin ik astronotu Tuva Cihangir Atasever de uzay yolculuğuna çıktı",
+      "description": "\"Alper Gezer Avcı'nın ardından Türkiye'nin ik astronotu Tuva Cihangir Atasever de uzay yolculuğuna çıktı\" - The news segment continues with details about the second astronaut's journey and President Erdoğan's remarks regarding the significance of this event.",
+      "end_pos": 1920
+    },
+    {
+      "type": "5. **OUTRO**",
+      "start_pos": 1920,
+      "start_sentence": "İnşalla",
+      "description": "\"İnşalla\" - The closing remarks are made, signaling the end of the program.",
+      "end_pos": 1920
+    },
+    {
+      "type": "- **OUTRO**",
+      "start_pos": 1920,
+      "start_sentence": "İnşalla",
+      "description": "\"İnşalla\" - The closing remarks are made, signaling the end of",
+      "end_pos": 21899
+    }
+  ],
+  "news_segments_count": 6,
+  "economic_segments_count": 2,
+  "economic_segments": [
+    {
+      "segment_id": "96_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 121,
+      "filtered_length": 62,
+      "retention_ratio": 0.512396694214876,
+      "section_description": "\"Hemen başlayalım ihracatçılara döviz bozdurma müjdesi verdi\" - The main news content begins, covering various topics including President Erdoğan's statements on export regulations and the recent space mission involving Turkish astronauts."
+    },
+    {
+      "segment_id": "1920_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 216,
+      "filtered_length": 74,
+      "retention_ratio": 0.3425925925925926,
+      "section_description": "\"İnşalla\" - The closing remarks are made, signaling the end of"
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

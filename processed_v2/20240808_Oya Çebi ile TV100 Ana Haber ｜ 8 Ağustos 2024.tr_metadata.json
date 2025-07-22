@@ -1,0 +1,107 @@
+{
+  "file_path": "news/TV100/20240808_Oya Çebi ile TV100 Ana Haber ｜ 8 Ağustos 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T18:32:40.256417",
+  "original_word_count": 11452,
+  "filtered_word_count": 527,
+  "retention_ratio": 0.04601816276632902,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "efendim İyi akşamlar s ekranlarına hoş geldiniz",
+      "description": "\"efendim İyi akşamlar s ekranlarına hoş geldiniz\" - The presenter introduces herself and welcomes viewers to the program, setting the stage for the news content.",
+      "end_pos": 381
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 381,
+      "start_sentence": "Ama önce ne yapacağız biliyor musunuz ana habere Ortadoğu ile başlayacağız",
+      "description": "\"Ama önce ne yapacağız biliyor musunuz ana habere Ortadoğu ile başlayacağız\" - The main news segment begins, focusing on the current situation in the Middle East, particularly the tensions between Israel and Lebanon, and includes live reports from correspondents in the field.",
+      "end_pos": 1065
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1065,
+      "start_sentence": "Hizbullah e 30'a yakın roket fırlattı ki yaklaşık 6 İsrail noktasına",
+      "description": "\"Hizbullah e 30'a yakın roket fırlattı ki yaklaşık 6 İsrail noktasına\" - This continues the news content, detailing specific events and developments in the ongoing conflict, including military actions and responses.",
+      "end_pos": 1553
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 1553,
+      "start_sentence": "Şimdi Rash noktası İsrail'in ve Lübnan'ın kesiştiği nokta",
+      "description": "\"Şimdi Rash noktası İsrail'in ve Lübnan'ın kesiştiği nokta\" - This section serves as a transition within the news segment, moving from one specific aspect of the news story to another, providing additional context about the geographical and political situation.",
+      "end_pos": 1553
+    },
+    {
+      "type": "5. **OUTRO**",
+      "start_pos": 1553,
+      "start_sentence": "Ama burada şunun altını çizebiliriz",
+      "description": "\"Ama burada şunun altını çizebiliriz\" - This section wraps up the news discussion, likely summarizing key points or providing final thoughts before concluding the broadcast.",
+      "end_pos": 82324
+    }
+  ],
+  "news_segments_count": 16,
+  "economic_segments_count": 6,
+  "economic_segments": [
+    {
+      "segment_id": "381_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 100,
+      "filtered_length": 100,
+      "retention_ratio": 1.0,
+      "section_description": "\"Ama önce ne yapacağız biliyor musunuz ana habere Ortadoğu ile başlayacağız\" - The main news segment begins, focusing on the current situation in the Middle East, particularly the tensions between Israel and Lebanon, and includes live reports from correspondents in the field."
+    },
+    {
+      "segment_id": "1553_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 111,
+      "filtered_length": 81,
+      "retention_ratio": 0.7297297297297297,
+      "section_description": "\"Ama burada şunun altını çizebiliriz\" - This section wraps up the news discussion, likely summarizing key points or providing final thoughts before concluding the broadcast."
+    },
+    {
+      "segment_id": "1553_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 293,
+      "filtered_length": 133,
+      "retention_ratio": 0.4539249146757679,
+      "section_description": "\"Ama burada şunun altını çizebiliriz\" - This section wraps up the news discussion, likely summarizing key points or providing final thoughts before concluding the broadcast."
+    },
+    {
+      "segment_id": "1553_6",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 216,
+      "filtered_length": 117,
+      "retention_ratio": 0.5416666666666666,
+      "section_description": "\"Ama burada şunun altını çizebiliriz\" - This section wraps up the news discussion, likely summarizing key points or providing final thoughts before concluding the broadcast."
+    },
+    {
+      "segment_id": "1553_7",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 188,
+      "filtered_length": 66,
+      "retention_ratio": 0.35106382978723405,
+      "section_description": "\"Ama burada şunun altını çizebiliriz\" - This section wraps up the news discussion, likely summarizing key points or providing final thoughts before concluding the broadcast."
+    },
+    {
+      "segment_id": "1553_10",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 64,
+      "filtered_length": 30,
+      "retention_ratio": 0.46875,
+      "section_description": "\"Ama burada şunun altını çizebiliriz\" - This section wraps up the news discussion, likely summarizing key points or providing final thoughts before concluding the broadcast."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

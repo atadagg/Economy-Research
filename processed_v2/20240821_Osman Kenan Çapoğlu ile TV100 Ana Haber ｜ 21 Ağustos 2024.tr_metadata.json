@@ -1,0 +1,164 @@
+{
+  "file_path": "news/TV100/20240821_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 21 Ağustos 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T18:29:00.470062",
+  "original_word_count": 11436,
+  "filtered_word_count": 957,
+  "retention_ratio": 0.08368310598111228,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "21 Ağustos Çarşamba TV1 ana haberde sizlerle birlikteyiz...",
+      "description": "\"21 Ağustos Çarşamba TV1 ana haberde sizlerle birlikteyiz...\" - The program opens with the presenter greeting the audience and introducing the broadcast, indicating that it will cover significant news.",
+      "end_pos": 0
+    },
+    {
+      "type": "- **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "21 Ağustos Çarşamba TV1 ana haberde sizlerle birlikteyiz...",
+      "description": "\"21 Ağustos Çarşamba TV1 ana haberde sizlerle birlikteyiz...\" - The program introduction and greeting.",
+      "end_pos": 44
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 44,
+      "start_sentence": "maalesef acı bir haberle açıyoruz bülteni...",
+      "description": "\"maalesef acı bir haberle açıyoruz bülteni...\" - The main news content begins with a report on the funeral of a soldier who died due to injuries sustained from an explosion. This section continues to cover various details about the soldier's funeral, the attendees, and related political commentary.",
+      "end_pos": 44
+    },
+    {
+      "type": "- **NEWS**",
+      "start_pos": 44,
+      "start_sentence": "maalesef acı bir haberle açıyoruz bülteni...",
+      "description": "\"maalesef acı bir haberle açıyoruz bülteni...\" - Coverage of the soldier's funeral and related events.",
+      "end_pos": 1276
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 1276,
+      "start_sentence": "Milliyetçi Hareket Partisi genel başkanı Devlet Bahçeli'nin çıkışı gündemde...",
+      "description": "\"Milliyetçi Hareket Partisi genel başkanı Devlet Bahçeli'nin çıkışı gündemde...\" - This segment transitions to a new news story regarding political developments related to the MHP leader's comments on the PKK and party funding issues, indicating a shift in focus from the previous story.",
+      "end_pos": 1276
+    },
+    {
+      "type": "- **TRANSITION**",
+      "start_pos": 1276,
+      "start_sentence": "Milliyetçi Hareket Partisi genel başkanı Devlet Bahçeli'nin çıkışı gündemde...",
+      "description": "\"Milliyetçi Hareket Partisi genel başkanı Devlet Bahçeli'nin çıkışı gündemde...\" - Transition to a new political news story.",
+      "end_pos": 1569
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1569,
+      "start_sentence": "terör örgütü PKK ile bağlı olduğu gerekçesiyle...",
+      "description": "\"terör örgütü PKK ile bağlı olduğu gerekçesiyle...\" - The news continues with details about the political implications of the MHP leader's statements and the ongoing discussions about party funding and related political actions.",
+      "end_pos": 1569
+    },
+    {
+      "type": "- **NEWS**",
+      "start_pos": 1569,
+      "start_sentence": "terör örgütü PKK ile bağlı olduğu gerekçesiyle...",
+      "description": "\"terör örgütü PKK ile bağlı olduğu gerekçesiyle...\" - Continued coverage of the political implications of the MHP leader's statements.",
+      "end_pos": 81031
+    }
+  ],
+  "news_segments_count": 17,
+  "economic_segments_count": 10,
+  "economic_segments": [
+    {
+      "segment_id": "1569_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 58,
+      "filtered_length": 72,
+      "retention_ratio": 1.2413793103448276,
+      "section_description": "\"terör örgütü PKK ile bağlı olduğu gerekçesiyle...\" - Continued coverage of the political implications of the MHP leader's statements."
+    },
+    {
+      "segment_id": "1569_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 329,
+      "filtered_length": 141,
+      "retention_ratio": 0.42857142857142855,
+      "section_description": "\"terör örgütü PKK ile bağlı olduğu gerekçesiyle...\" - Continued coverage of the political implications of the MHP leader's statements."
+    },
+    {
+      "segment_id": "1569_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 186,
+      "filtered_length": 119,
+      "retention_ratio": 0.6397849462365591,
+      "section_description": "\"terör örgütü PKK ile bağlı olduğu gerekçesiyle...\" - Continued coverage of the political implications of the MHP leader's statements."
+    },
+    {
+      "segment_id": "1569_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 118,
+      "filtered_length": 91,
+      "retention_ratio": 0.7711864406779662,
+      "section_description": "\"terör örgütü PKK ile bağlı olduğu gerekçesiyle...\" - Continued coverage of the political implications of the MHP leader's statements."
+    },
+    {
+      "segment_id": "1569_5",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 143,
+      "filtered_length": 65,
+      "retention_ratio": 0.45454545454545453,
+      "section_description": "\"terör örgütü PKK ile bağlı olduğu gerekçesiyle...\" - Continued coverage of the political implications of the MHP leader's statements."
+    },
+    {
+      "segment_id": "1569_6",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 91,
+      "filtered_length": 69,
+      "retention_ratio": 0.7582417582417582,
+      "section_description": "\"terör örgütü PKK ile bağlı olduğu gerekçesiyle...\" - Continued coverage of the political implications of the MHP leader's statements."
+    },
+    {
+      "segment_id": "1569_8",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 318,
+      "filtered_length": 139,
+      "retention_ratio": 0.4371069182389937,
+      "section_description": "\"terör örgütü PKK ile bağlı olduğu gerekçesiyle...\" - Continued coverage of the political implications of the MHP leader's statements."
+    },
+    {
+      "segment_id": "1569_12",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 78,
+      "filtered_length": 78,
+      "retention_ratio": 1.0,
+      "section_description": "\"terör örgütü PKK ile bağlı olduğu gerekçesiyle...\" - Continued coverage of the political implications of the MHP leader's statements."
+    },
+    {
+      "segment_id": "1569_13",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 220,
+      "filtered_length": 101,
+      "retention_ratio": 0.4590909090909091,
+      "section_description": "\"terör örgütü PKK ile bağlı olduğu gerekçesiyle...\" - Continued coverage of the political implications of the MHP leader's statements."
+    },
+    {
+      "segment_id": "1569_14",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 186,
+      "filtered_length": 82,
+      "retention_ratio": 0.44086021505376344,
+      "section_description": "\"terör örgütü PKK ile bağlı olduğu gerekçesiyle...\" - Continued coverage of the political implications of the MHP leader's statements."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

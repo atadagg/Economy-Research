@@ -1,0 +1,38 @@
+# Economic Content from: 20240917_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 17 Eylül 2024.tr.txt
+# Processed: 2025-07-22T18:25:39.195811
+# Original: 11842 words → Filtered: 288 words (2.43% retention)
+# Economic segments: 3
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 71
+**Retention**: 36.04%
+
+Konut kiralarında son 2 yılda %25'in üzerinde artış yapılamadığı belirtilirken, aidatların bu dönemde oldukça yüksek meblağlarda artış gösterdiği gözlemleniyor. İstanbul'da son 5 yılda aidatlar %60 oranında artarken, bazı sitelerde bu artış %1160'ı bulmuş durumda. Şehrin merkezinde 100 metrekare bir evde aidatların 45.000 lira ile 101.000 lira arasında değiştiği ifade ediliyor. Uzmanlara göre, aidatlar kira bedelini geçmemeli; bu durumla karşılaşan kiracıların, kiralarını aşan miktardaki aidatları ödememek için mal sahiplerine başvurma hakları bulunuyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 96
+**Retention**: 59.63%
+
+Kira ödeyen bir kiracı, o sitede 10.000 Lira aidat ödüyorsa, aradaki 5.000 liralık farkı ev sahibine ödetti. Bu durum, bazı bölgelerdeki fahiş fiyatlar nedeniyle kiracıların aidatlarını ödemekte zorlandığını gösteriyor. Kayıt döneminde yasak olmasına rağmen, bazı devlet okullarının istediği kayıt ücretleri var. Bakanlık, kesinlikle okul kayıt ücreti alınamayacağını belirtiyor. Ancak yapılan bir araştırma, velilerin neredeyse yarısının bu kayıt ücretlerini ödediğini ortaya koydu. Bakan denetimleri sıkı olsa da, ücret alınmadan yapılan kayıt sonrasında velilerden çeşitli bahanelerle hala ücret istenebiliyor. Bu durum, eğitim alanında ekonomik yüklerin artmasına neden oluyor. Özellikle, istenen kitap ve temizlik ücretleri de ailelerin bütçelerini zorlamakta.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 121
+**Retention**: 65.41%
+
+Ücret ödemeden kayıt parası ödemeden kayıt yapılamaz şeklindeki bir uygulama görevi kötüye kullanmaktır ve suçtur. Milli Eğitim Bakanlığımız bu noktada denetimleri sıklaştırmakta. Yapılan bir araştırmaya göre verilerin neredeyse yarısından kayıt ücreti istendiği görülmektedir. Ancak bu ücretleri almak yasak, fakat okulların pek çoğu bu yasağı dinlemiyor. Üstelik ücretler de neredeyse özel okullara yakın. Araştırmada verilerin %43'ü kayıt ücretlerini ödedi, %57'si ise herhangi bir ücret istenmediğini söyledi. 35,000 L isteyen de oldu, 150,000 L talep edendi. Bu zorunluluk kabul edilemez; hem kaydımı aldım hem de ücret verdim. Velilerimiz de böyle bir durumla karşılaşması halinde Milli Eğitim Bakanlığı'na ve cumhuriyet savcılıklarına mutlaka suç duyurusunda bulunsunlar. Kayıt ücretleri öğrenci kayıt olduktan sonra bile istenmeye devam ediyor. Kitap masrafı ve kırtasiye ücretleri de velilerin belini büküyor.
+
+================================================================================
+

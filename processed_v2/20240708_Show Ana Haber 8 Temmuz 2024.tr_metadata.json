@@ -1,0 +1,98 @@
+{
+  "file_path": "news/Show/20240708_Show Ana Haber 8 Temmuz 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T17:45:13.884833",
+  "original_word_count": 2423,
+  "filtered_word_count": 529,
+  "retention_ratio": 0.2183243912505159,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "İyi akşamlar değerli izleyenler...",
+      "description": "\"İyi akşamlar değerli izleyenler...\" - The presenter introduces herself and the program, setting the stage for the news content to follow.",
+      "end_pos": 18
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 18,
+      "start_sentence": "değerli izleyenler Ace milyonları heyecanlandıran Haber...",
+      "description": "\"değerli izleyenler Ace milyonları heyecanlandıran Haber...\" - This brief transition signals a shift to a specific news story about pension adjustments, indicating a change in focus within the news segment.",
+      "end_pos": 95
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 95,
+      "start_sentence": "6 aylık enflasyon rakamlarının açıklanmasıyla...",
+      "description": "\"6 aylık enflasyon rakamlarının açıklanmasıyla...\" - This section contains the main news stories, discussing topics such as inflation rates, pension adjustments, and political meetings.",
+      "end_pos": 1550
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1550,
+      "start_sentence": "Kız kardeşim 10.000 L alıyor zor zor...",
+      "description": "\"Kız kardeşim 10.000 L alıyor zor zor...\" - This continues the news content, providing details about pension amounts and the implications for retirees.",
+      "end_pos": 1931
+    },
+    {
+      "type": "5. **OUTRO**",
+      "start_pos": 1931,
+      "start_sentence": "ve maaşı 10.000 olarak kalmıştı...",
+      "description": "\"ve maaşı 10.000 olarak kalmıştı...\" - This section wraps up the news discussion, summarizing the situation regarding pension adjustments and concluding the program.",
+      "end_pos": 17262
+    }
+  ],
+  "news_segments_count": 11,
+  "economic_segments_count": 5,
+  "economic_segments": [
+    {
+      "segment_id": "1550_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 56,
+      "filtered_length": 31,
+      "retention_ratio": 0.5535714285714286,
+      "section_description": "\"Kız kardeşim 10.000 L alıyor zor zor...\" - This continues the news content, providing details about pension amounts and the implications for retirees."
+    },
+    {
+      "segment_id": "1931_0",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 85,
+      "filtered_length": 47,
+      "retention_ratio": 0.5529411764705883,
+      "section_description": "\"ve maaşı 10.000 olarak kalmıştı...\" - This section wraps up the news discussion, summarizing the situation regarding pension adjustments and concluding the program."
+    },
+    {
+      "segment_id": "1931_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 163,
+      "filtered_length": 88,
+      "retention_ratio": 0.5398773006134969,
+      "section_description": "\"ve maaşı 10.000 olarak kalmıştı...\" - This section wraps up the news discussion, summarizing the situation regarding pension adjustments and concluding the program."
+    },
+    {
+      "segment_id": "1931_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 276,
+      "filtered_length": 276,
+      "retention_ratio": 1.0,
+      "section_description": "\"ve maaşı 10.000 olarak kalmıştı...\" - This section wraps up the news discussion, summarizing the situation regarding pension adjustments and concluding the program."
+    },
+    {
+      "segment_id": "1931_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 199,
+      "filtered_length": 87,
+      "retention_ratio": 0.4371859296482412,
+      "section_description": "\"ve maaşı 10.000 olarak kalmıştı...\" - This section wraps up the news discussion, summarizing the situation regarding pension adjustments and concluding the program."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

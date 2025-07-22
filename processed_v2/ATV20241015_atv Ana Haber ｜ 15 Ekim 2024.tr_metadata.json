@@ -1,0 +1,66 @@
+{
+  "file_path": "news/ATV/ATV20241015_atv Ana Haber ｜ 15 Ekim 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T16:50:56.201225",
+  "original_word_count": 4596,
+  "filtered_word_count": 277,
+  "retention_ratio": 0.0602697998259356,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 23,
+      "start_sentence": "İyi akşamlar Bugün 15 Ekim 2024 salı",
+      "description": "\"İyi akşamlar Bugün 15 Ekim 2024 salı\" - The opening of the broadcast where the presenter greets the audience and introduces the date and context of the program.",
+      "end_pos": 74
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 74,
+      "start_sentence": "Cumhurbaşkanı Erdoğan AK Parti'nin düzenlediği Filistin'in geleceği konferansında kürsüde eydi",
+      "description": "\"Cumhurbaşkanı Erdoğan AK Parti'nin düzenlediği Filistin'in geleceği konferansında kürsüde eydi\" - The main news content discussing President Erdoğan's speech at a conference regarding the future of Palestine, including his criticisms of Israel and the humanitarian situation in Gaza.",
+      "end_pos": 101
+    },
+    {
+      "type": "3. **OUTRO**",
+      "start_pos": 101,
+      "start_sentence": "Filistin'in yanındayız diyerek bitirdi sözleri dakikalarca ayakta alkışlandı",
+      "description": "\"Filistin'in yanındayız diyerek bitirdi sözleri dakikalarca ayakta alkışlandı\" - The closing remarks summarizing the key messages from the news segment and indicating the end of the program.",
+      "end_pos": 32928
+    }
+  ],
+  "news_segments_count": 7,
+  "economic_segments_count": 3,
+  "economic_segments": [
+    {
+      "segment_id": "101_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 63,
+      "filtered_length": 52,
+      "retention_ratio": 0.8253968253968254,
+      "section_description": "\"Filistin'in yanındayız diyerek bitirdi sözleri dakikalarca ayakta alkışlandı\" - The closing remarks summarizing the key messages from the news segment and indicating the end of the program."
+    },
+    {
+      "segment_id": "101_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 219,
+      "filtered_length": 173,
+      "retention_ratio": 0.7899543378995434,
+      "section_description": "\"Filistin'in yanındayız diyerek bitirdi sözleri dakikalarca ayakta alkışlandı\" - The closing remarks summarizing the key messages from the news segment and indicating the end of the program."
+    },
+    {
+      "segment_id": "101_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 73,
+      "filtered_length": 52,
+      "retention_ratio": 0.7123287671232876,
+      "section_description": "\"Filistin'in yanındayız diyerek bitirdi sözleri dakikalarca ayakta alkışlandı\" - The closing remarks summarizing the key messages from the news segment and indicating the end of the program."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

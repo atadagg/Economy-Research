@@ -1,0 +1,69 @@
+{
+  "file_path": "news/Show/20240622_Show Ana Haber 22 Haziran 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T17:36:54.530159",
+  "original_word_count": 2101,
+  "filtered_word_count": 51,
+  "retention_ratio": 0.02427415516420752,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "İyi akşamlar değerli izleyenler...",
+      "description": "\"İyi akşamlar değerli izleyenler...\" - The presenter introduces herself and the program, indicating the start of the broadcast and the topics to be covered.",
+      "end_pos": 0
+    },
+    {
+      "type": "- **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "İyi akşamlar değerli izleyenler...",
+      "description": "\"İyi akşamlar değerli izleyenler...\" - The presenter introduces herself and the program, indicating the start of the broadcast and the topics to be covered.",
+      "end_pos": 95
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 95,
+      "start_sentence": "Aca Haber dün penç kilit Harekatı bölgesinden gelmiş...",
+      "description": "\"Aca Haber dün penç kilit Harekatı bölgesinden gelmiş...\" - This section contains the main news content, detailing various stories including the death of a soldier and political developments related to the economy.",
+      "end_pos": 95
+    },
+    {
+      "type": "- **NEWS**",
+      "start_pos": 95,
+      "start_sentence": "Aca Haber dün penç kilit Harekatı bölgesinden gelmiş...",
+      "description": "\"Aca Haber dün penç kilit Harekatı bölgesinden gelmiş...\" - This section contains the main news content, detailing various stories including the death of a soldier and political developments related to the economy.",
+      "end_pos": 1067
+    },
+    {
+      "type": "3. **OUTRO**",
+      "start_pos": 1067,
+      "start_sentence": "Bugün memleketi Kahramanmaraş'ta cenaze töreni vardı...",
+      "description": "\"Bugün memleketi Kahramanmaraş'ta cenaze töreni vardı...\" - The closing remarks summarize the news and provide a final statement, indicating the end of the program.",
+      "end_pos": 1067
+    },
+    {
+      "type": "- **OUTRO**",
+      "start_pos": 1067,
+      "start_sentence": "Bugün memleketi Kahramanmaraş'ta cenaze töreni vardı...",
+      "description": "\"Bugün memleketi Kahramanmaraş'ta cenaze töreni vardı...\" - The closing remarks summarize the news and provide a final statement, indicating the end of the program.",
+      "end_pos": 14563
+    }
+  ],
+  "news_segments_count": 4,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "1067_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 120,
+      "filtered_length": 51,
+      "retention_ratio": 0.425,
+      "section_description": "\"Bugün memleketi Kahramanmaraş'ta cenaze töreni vardı...\" - The closing remarks summarize the news and provide a final statement, indicating the end of the program."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

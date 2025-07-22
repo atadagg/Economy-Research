@@ -1,0 +1,76 @@
+{
+  "file_path": "news/ATV/ATV20240503_atv Ana Haber ｜ 3 Mayıs 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T15:59:04.210599",
+  "original_word_count": 4729,
+  "filtered_word_count": 197,
+  "retention_ratio": 0.04165785578346373,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "Haberin merkezinden Atv Haber Merkez'den İyi akşamlar",
+      "description": "\"Haberin merkezinden Atv Haber Merkez'den İyi akşamlar\" - The opening of the broadcast where the presenter greets the audience and introduces the program, indicating the date and context of the news.",
+      "end_pos": 0
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 0,
+      "start_sentence": "Atv Haber bu başlıklarla başladı",
+      "description": "\"Atv Haber bu başlıklarla başladı\" - A brief transition phrase that indicates a shift in focus or topic within the news segment.",
+      "end_pos": 73
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 73,
+      "start_sentence": "Türk siyasetinde bahar havası esiyor",
+      "description": "\"Türk siyasetinde bahar havası esiyor\" - The main content of the broadcast, discussing various news stories including political developments, statements from President Erdoğan, and the situation regarding Israel and Palestine.",
+      "end_pos": 101
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 101,
+      "start_sentence": "Cumhurbaşkanı Erdoğan CHP genel başkanı Özgür özel' yaptığı görüşme için bu ifadeyi kullandı",
+      "description": "\"Cumhurbaşkanı Erdoğan CHP genel başkanı Özgür özel' yaptığı görüşme için bu ifadeyi kullandı\" - Continuation of the news segment detailing specific political interactions and statements made by Erdoğan.",
+      "end_pos": 1167
+    },
+    {
+      "type": "5. **NEWS**",
+      "start_pos": 1167,
+      "start_sentence": "Türkiye'nin buna ihtiyacı var",
+      "description": "\"Türkiye'nin buna ihtiyacı var\" - Further elaboration on the political climate in Turkey and the implications of the discussed meetings and statements.",
+      "end_pos": 1356
+    },
+    {
+      "type": "6. **NEWS**",
+      "start_pos": 1356,
+      "start_sentence": "Cumhurbaşkanı tarihi kabulün ardından geçen Şubat ayında hayatını kaybeden pevrul kavlak için Türk Metal sendikasına taziye ziyaretinde bulundu",
+      "description": "\"Cumhurbaşkanı tarihi kabulün ardından geçen Şubat ayında hayatını kaybeden pevrul kavlak için Türk Metal sendikasına taziye ziyaretinde bulundu\" - Additional news content covering Erdoğan's visit to pay condolences, showcasing the ongoing political narrative.",
+      "end_pos": 1651
+    },
+    {
+      "type": "7. **NEWS**",
+      "start_pos": 1651,
+      "start_sentence": "Çıkışta İsrail'le ticari ilişkilerin tamamen durdurulması kararı soruldu",
+      "description": "\"Çıkışta İsrail'le ticari ilişkilerin tamamen durdurulması kararı soruldu\" - Another segment of news focusing on Erdoğan's comments regarding Israel and the implications of trade relations.",
+      "end_pos": 33710
+    }
+  ],
+  "news_segments_count": 7,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "1651_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 199,
+      "filtered_length": 197,
+      "retention_ratio": 0.9899497487437185,
+      "section_description": "\"Çıkışta İsrail'le ticari ilişkilerin tamamen durdurulması kararı soruldu\" - Another segment of news focusing on Erdoğan's comments regarding Israel and the implications of trade relations."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

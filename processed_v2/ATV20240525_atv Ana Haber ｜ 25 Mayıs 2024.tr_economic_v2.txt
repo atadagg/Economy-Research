@@ -1,0 +1,16 @@
+# Economic Content from: ATV20240525_atv Ana Haber ｜ 25 Mayıs 2024.tr.txt
+# Processed: 2025-07-22T16:48:28.814171
+# Original: 4745 words → Filtered: 72 words (1.52% retention)
+# Economic segments: 1
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 72
+**Retention**: 61.02%
+
+Gazze'deki zulüm bitene kadar İsrail'e ekonomik yaptırımların devam edeceğinin altını çizdi. Gazze'de 36.000 masumu şehit eden İsrail'i ateşkese zorlamak amacıyla aldığımız ticari işlemleri durdurma kararımız uygulanma sürecinde de iş dünyamızla iletişim kanallarımızı açık tutuyoruz. Ana sıkıntı kaynağımız enflasyon. Bölgemizdeki krizlere mali idareler seçimlerine ve muhalefetin popülist söylemlerine rağmen yol haritamıza sadık kalıyoruz. Vatandaşlarımızın vaat yağmuruna tutulduğu 31 Mart öncesinde seçim ekonomisine tevessül etmedik. Bugün borç üstüne borç alıyor, zam üstüne zam yapıyorlar.
+
+================================================================================
+

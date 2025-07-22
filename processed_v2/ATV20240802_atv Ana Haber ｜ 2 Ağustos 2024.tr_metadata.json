@@ -1,0 +1,96 @@
+{
+  "file_path": "news/ATV/ATV20240802_atv Ana Haber ｜ 2 Ağustos 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T16:31:39.603668",
+  "original_word_count": 4791,
+  "filtered_word_count": 486,
+  "retention_ratio": 0.10144020037570445,
+  "structure_sections": [
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 0,
+      "start_sentence": "Atv Haber başladı Amerika'nın kongresinde soykırımcı Bir Katilin nasıl alkışlandı...",
+      "description": "\"Atv Haber başladı Amerika'nın kongresinde soykırımcı Bir Katilin nasıl alkışlandı...\" - A brief transition that introduces a specific segment of the news regarding the reactions to the applause received by a controversial figure in Congress.",
+      "end_pos": 23
+    },
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 23,
+      "start_sentence": "İyi akşamlar Bugün 2 Ağustos Cuma 2024...",
+      "description": "\"İyi akşamlar Bugün 2 Ağustos Cuma 2024...\" - The opening of the broadcast where the presenter greets the audience and introduces the date and the main topic of the news.",
+      "end_pos": 96
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 96,
+      "start_sentence": "Cumhurbaşkanı Recep Tayyip Erdoğan ve Amerikan başkanı Joe Biden görüşmesinin yankıları...",
+      "description": "\"Cumhurbaşkanı Recep Tayyip Erdoğan ve Amerikan başkanı Joe Biden görüşmesinin yankıları...\" - The main news content discussing the meeting between Turkish President Erdoğan and U.S. President Biden, including their comments on various political issues and reactions to events in Congress.",
+      "end_pos": 778
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 778,
+      "start_sentence": "Cumhurbaşkanı erdoğa Ç tablodan ız lığı bizzat ABD başkanı b' da iletti...",
+      "description": "\"Cumhurbaşkanı erdoğa Ç tablodan ız lığı bizzat ABD başkanı b' da iletti...\" - Continuation of the news segment detailing the discussions between Erdoğan and Biden, focusing on the implications of their conversation and the political context surrounding it.",
+      "end_pos": 1760
+    },
+    {
+      "type": "5. **NEWS**",
+      "start_pos": 1760,
+      "start_sentence": "Haniye suikasta Ateşkes çabalarını ağır darbe indirdi diye de ekledi...",
+      "description": "\"Haniye suikasta Ateşkes çabalarını ağır darbe indirdi diye de ekledi...\" - Further news content that elaborates on the statements made by Hamas political bureau chief Ismail Haniye regarding the ceasefire efforts and the broader regional implications.",
+      "end_pos": 1956
+    },
+    {
+      "type": "6. **OUTRO**",
+      "start_pos": 1956,
+      "start_sentence": "Türkiye'de gerçekleştirilip dün...",
+      "description": "\"Türkiye'de gerçekleştirilip dün...\" - The closing remarks that summarize the news and may provide a transition to the end of the program.",
+      "end_pos": 34912
+    }
+  ],
+  "news_segments_count": 10,
+  "economic_segments_count": 4,
+  "economic_segments": [
+    {
+      "segment_id": "1956_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 199,
+      "filtered_length": 125,
+      "retention_ratio": 0.628140703517588,
+      "section_description": "\"Türkiye'de gerçekleştirilip dün...\" - The closing remarks that summarize the news and may provide a transition to the end of the program."
+    },
+    {
+      "segment_id": "1956_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 112,
+      "filtered_length": 90,
+      "retention_ratio": 0.8035714285714286,
+      "section_description": "\"Türkiye'de gerçekleştirilip dün...\" - The closing remarks that summarize the news and may provide a transition to the end of the program."
+    },
+    {
+      "segment_id": "1956_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 286,
+      "filtered_length": 130,
+      "retention_ratio": 0.45454545454545453,
+      "section_description": "\"Türkiye'de gerçekleştirilip dün...\" - The closing remarks that summarize the news and may provide a transition to the end of the program."
+    },
+    {
+      "segment_id": "1956_6",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 336,
+      "filtered_length": 141,
+      "retention_ratio": 0.41964285714285715,
+      "section_description": "\"Türkiye'de gerçekleştirilip dün...\" - The closing remarks that summarize the news and may provide a transition to the end of the program."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

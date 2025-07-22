@@ -1,0 +1,40 @@
+# Economic Content from: 20240502_Show Ana Haber 2 Mayıs 2024.tr.txt
+# Processed: 2025-07-22T17:22:11.282870
+# Original: 3160 words → Filtered: 226 words (7.15% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 54
+**Retention**: 57.45%
+
+Elitaş da hazır bulundu salonda tarihi zirvede ana gündem yeni anayasa çalışmalarıyla merkezi yönetimden onay bekleyen projelerini de masaya getirdi. Özgür Özel ekonomiye yönelik öneriler de sundu Erdoğan'a en düşük emekli maaşının asgari ücret seviyesine çıkarılmasını talep etti. Bu talep, ekonomik koşulların iyileştirilmesi ve sosyal güvenlik sisteminin güçlendirilmesi açısından önemli bir adım olarak değerlendiriliyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 172
+**Retention**: 100.00%
+
+000
+telefonumun şarjının bittiğini sandım Ekran ışığını kısıp sessize alıyorlar Telefonu açtığımda
+içinin komple boşaltılmış olduğunu gördüm casus yazılımla telefonuna sızdılar önce Ekran ışığını
+kısıp sessize aldılar sonra da nakit avans çekip paraları Kendi hesabına aktardılar 43 000 TL
+civarında zararım var var mıymış sizin gibi başka mırlar çok Telefonunun şarjı bitti sandı şarja
+takıp uyudu ama sabah uyandığında yüz binlerce lira dolandırıldığını anladı bilgisayar korsanlarının
+Hedef cihazlara uzaktan erişim sağladığı bir e program adıymış Rad onu mu yüklemişler sizin bu
+telefonunuza Tabii iş için kullandığı hattın takılı olduğu bir akıllı telefondu bir gün baktığında
+ekranın karardığını fark etti pek de önemsemedi biraz versiyonu eskiydi Eee yani ona yordum aslında
+ama telefonu açıldığında içinde hiçbir şey yoktu resmen akıllı telefon sıfırlanmıştır Yeni alınmış
+gibiydi telefon herhangi bir uygulama Eee işte telefon numarası işte banka uygulaması iki ayrı
+bankadan farklı farklı kredi kartlarından nakit avans çekildiğini fark ettim anlayacağınız
+dolandırıcılar resmen akıllı telefonun yönetimini ele geçirmişlerdi o kadar kurnazlığı para gönderim
+limitine de takılmadan peyder pey paraları kendi hesaplarına aktardılar 48 000 49
+
+================================================================================
+

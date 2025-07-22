@@ -1,0 +1,39 @@
+# Economic Content from: 20241230_Suriye'de Terör Örgütü Silah Bırakacak Mı？ İsrail, PKK⧸YPG'ye Koridor Mu İstiyor？ ｜ A Haber.tr.txt
+# Processed: 2025-07-22T15:44:13.699959
+# Original: 14198 words → Filtered: 188 words (1.32% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 133
+**Retention**: 123.15%
+
+Hoş geldiniz
+
+Türkiye'nin ekonomik durumu, son dönemde dikkat çeken verilerle şekilleniyor. Enflasyon oranları, tüketici fiyatları endeksi ve işsizlik rakamları, ekonominin genel sağlığı hakkında önemli ipuçları sunuyor. Merkez Bankası'nın para politikaları, faiz oranları ve kredi koşulları, yatırımcıların piyasalardaki hareketlerini etkiliyor. 
+
+Son yapılan açıklamalara göre, Türkiye'nin ihracat rakamları artış gösterdi, bu da dış ticaret dengesine olumlu yansıyor. Ancak, ithalatın da yükselmesi, cari açığı artırma riski taşıyor. Uzmanlar, bu durumun ekonomik büyüme üzerinde baskı yaratabileceğini belirtiyor. 
+
+Ayrıca, hükümetin yeni ekonomik reform paketleri, iş dünyasında heyecan yaratıyor. Şirketlerin büyüme stratejileri ve yatırımları, bu reformların etkisiyle şekilleniyor. Ekonomik verilerin yanı sıra, piyasalardaki dalgalanmalar da yatırımcıların kararlarını etkileyen önemli faktörler arasında yer alıyor. 
+
+Sonuç olarak, Türkiye'nin ekonomik görünümü, hem iç hem de dış faktörlerin etkisiyle sürekli bir değişim içinde. Ekonomik analizler, bu değişimlerin yönünü belirlemede kritik bir rol oynuyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 55
+**Retention**: 100.00%
+
+000 kişilik
+üç kol ordudan oluşan bir eğitimli Birlik var Bir de diğer grupların katıldığı 40 000 kişilik bir
+grup var Bunlar henüz bakanlık çatısı altında toplanıp da bir devletin resmi ordusu statüsünde
+değiller bunların bir an evvel oluşması lazım ki sayıları da asgari 400 000 civarında olması lazım
+şu anda en fazla sıksalar 90
+
+================================================================================
+

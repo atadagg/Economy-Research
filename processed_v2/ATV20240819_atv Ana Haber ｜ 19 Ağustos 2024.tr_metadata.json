@@ -1,0 +1,48 @@
+{
+  "file_path": "news/ATV/ATV20240819_atv Ana Haber ｜ 19 Ağustos 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T16:00:39.133215",
+  "original_word_count": 4863,
+  "filtered_word_count": 121,
+  "retention_ratio": 0.02488176023031051,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 23,
+      "start_sentence": "İyi akşamlar Bugün 19 Ağustos Pazartesi",
+      "description": "\"İyi akşamlar Bugün 19 Ağustos Pazartesi\" - The opening of the broadcast where the presenter greets the audience and introduces the date.",
+      "end_pos": 72
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 72,
+      "start_sentence": "AK Parti'de gözler 3 Eylül'e çevrilmiş durumda",
+      "description": "\"AK Parti'de gözler 3 Eylül'e çevrilmiş durumda\" - The main news content discussing the upcoming AK Party congress and related political developments.",
+      "end_pos": 295
+    },
+    {
+      "type": "3. **OUTRO**",
+      "start_pos": 295,
+      "start_sentence": "büyük kongre için Cumhurbaşkanı Erdoğan da sahaya inecek",
+      "description": "\"büyük kongre için Cumhurbaşkanı Erdoğan da sahaya inecek\" - The closing remarks that summarize the news and indicate the next steps regarding the political events discussed.",
+      "end_pos": 35130
+    }
+  ],
+  "news_segments_count": 5,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "295_4",
+      "method": "simple_final",
+      "confidence": 0.5,
+      "original_length": 338,
+      "filtered_length": 121,
+      "retention_ratio": 0.35798816568047337,
+      "section_description": "\"büyük kongre için Cumhurbaşkanı Erdoğan da sahaya inecek\" - The closing remarks that summarize the news and indicate the next steps regarding the political events discussed."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

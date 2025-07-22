@@ -1,0 +1,64 @@
+{
+  "file_path": "news/ATV/ATV20240622_atv Ana Haber ｜ 22 Haziran 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T16:18:49.645266",
+  "original_word_count": 4555,
+  "filtered_word_count": 274,
+  "retention_ratio": 0.0601536772777168,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "haberin merkezinden Atv Haber merkezinden günün gelişmeleri ile karşınızdayız",
+      "description": "\"haberin merkezinden Atv Haber merkezinden günün gelişmeleri ile karşınızdayız\" - This section serves as the opening of the broadcast, introducing the program and the date.",
+      "end_pos": 100
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 100,
+      "start_sentence": "Dün pençe kilit bölgesinden gelen acı haberle açıyoruz",
+      "description": "\"Dün pençe kilit bölgesinden gelen acı haberle açıyoruz\" - This section contains the main news content, detailing the story of a fallen soldier and subsequent events, including the soldier's funeral and the president's upcoming schedule.",
+      "end_pos": 1369
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 1369,
+      "start_sentence": "Cumhurbaşkanı Recep Tayyip Erdoğan'ı bayram sonrası yoğun bir mesai bekliyor",
+      "description": "\"Cumhurbaşkanı Recep Tayyip Erdoğan'ı bayram sonrası yoğun bir mesai bekliyor\" - This brief transition introduces a new news topic regarding the president's upcoming diplomatic activities, indicating a shift from the previous story about the soldier.",
+      "end_pos": 1469
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1469,
+      "start_sentence": "Cumhurbaşkanı 15 günde 4 ülkeyi ziyaret edecek",
+      "description": "\"Cumhurbaşkanı 15 günde 4 ülkeyi ziyaret edecek\" - This section continues with more news content, focusing on the president's travel plans and the topics of discussion during his visits.",
+      "end_pos": 32979
+    }
+  ],
+  "news_segments_count": 7,
+  "economic_segments_count": 2,
+  "economic_segments": [
+    {
+      "segment_id": "1469_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 193,
+      "filtered_length": 112,
+      "retention_ratio": 0.5803108808290155,
+      "section_description": "\"Cumhurbaşkanı 15 günde 4 ülkeyi ziyaret edecek\" - This section continues with more news content, focusing on the president's travel plans and the topics of discussion during his visits."
+    },
+    {
+      "segment_id": "1469_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 193,
+      "filtered_length": 162,
+      "retention_ratio": 0.8393782383419689,
+      "section_description": "\"Cumhurbaşkanı 15 günde 4 ülkeyi ziyaret edecek\" - This section continues with more news content, focusing on the president's travel plans and the topics of discussion during his visits."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

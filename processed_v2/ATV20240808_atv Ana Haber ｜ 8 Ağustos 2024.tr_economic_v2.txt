@@ -1,0 +1,31 @@
+# Economic Content from: ATV20240808_atv Ana Haber ｜ 8 Ağustos 2024.tr.txt
+# Processed: 2025-07-22T16:26:51.964918
+# Original: 5562 words → Filtered: 178 words (3.20% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 140
+**Retention**: 59.57%
+
+The filtered text focusing on economics, finance, and business is as follows:
+
+Taksiciler de görülmeye başlanmıştı şimdi resmileşti. Peki bundan sonra ne olacak? Taksiciler eskisi gibi müşteri bulabilecek mi? İşte akıllardaki en büyük soru bu ve işte yanıtı. Müşteri memnuniyeti yeterli değil. Demek ki müşteriyi memnun edebilmemiz için ne yapmamız lazım? Taksi sistemini iyileştirmiş. Ulaştırma koordinasyon merkezinin yapacağı toplantıya çevrildi. New York'ta paylaşım yolculuğunun yasallaşması sonrası toplam taksi artı paylaşım yolculuk sayısı taksi yolculuğu sayısına göre 2.5 kat arttı. Pazar pasta inanılmaz büyüdü, devasa bir sektöre dönüştü. 
+
+Çevre şehircilik ve iklim değişikliği Bakanı Murat Kurum, yeni başvuru döneminin başladığını bu sözlerle duyurdu. Olası İstanbul depremine hazırlığın temelini oluşturan kentsel dönüşümün kapsamı genişletildi. Artık başvurular için süre kısıtlaması olmayacak. Bu projeler, konut ve iş yerlerinin depreme dayanıklı hale getirilmesi için basılmıştı. Bakan Kurum, yarısı bizden kampanyasına gösterilen ilgiye de dikkat çekti.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 38
+**Retention**: 66.67%
+
+Kampanya kapsamında yapılan iyileştirmeleri tek tek anlattı. Hak sahiplerine bir konut için 700.000 L hibe, 700.000 L kredi ve diğer her konut için 1.400.000 L destek sağlanacak. Bu tür destekler, konut sektöründe önemli bir ekonomik etki yaratmayı hedefliyor.
+
+================================================================================
+

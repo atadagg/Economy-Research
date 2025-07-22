@@ -1,0 +1,51 @@
+# Economic Content from: 20240926_Osman Kenan Çapoğlu ile tv100 Ana Haber ｜ 26 Eylül 2024.tr.txt
+# Processed: 2025-07-22T18:12:56.168951
+# Original: 12331 words → Filtered: 279 words (2.26% retention)
+# Economic segments: 4
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 55
+**Retention**: 48.25%
+
+İstanbul Planlama Ajansı da bir araştırma gerçekleştirdi. İstanbul'daki üniversite öğrencilerinin aylık yaşam maliyeti yaklaşık %8 artarak 2.92 liraya kadar ulaşmış durumda. Öğrencilerin aylık giderleri, aylık bütçelerinin büyük bir kısmını oluşturuyor. Araştırmaya göre, 3 kişilik bir evde kalan öğrencilerin maliyeti 12.55 liradan 18.000 liraya kadar çıkıyor. Bu durum, İstanbul'da öğrenci olmanın maliyetinin gerçekten yüksek olduğunu gösteriyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 87
+**Retention**: 49.71%
+
+Yıl sonuna kadar 200,000 konutu ve 2025 yılı sonuna geldiğimizde de 452,000 konutun vatandaşlarımıza teslim edileceği belirtildi. Deprem bölgesinde çalışmaların hız kesmeden sürdüğü ve tüm bölgede ihalesi tamamlanan konut sayısının 322,000'e ulaştığı ifade edildi. Eylül ayı içerisinde 100,000 konutun anahtarlarının vatandaşlara teslim edildiği açıklandı. Ayrıca, Hatay'da teslim edilen konut sayısı 18,404 olarak belirtildi. Konutlar teslim edilene kadar kira yardımlarının verileceği vurgulandı. 2025 yılı bitmeden yeni güvenli evine girmeyen hiçbir vatandaş kalmayacağı umuluyor. Bu süreçte, bölgenin sanayisi ve turizmiyle yeniden ayağa kalkması için çalışmaların devam edeceği ifade edildi.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 40
+**Retention**: 43.48%
+
+Uzmanlar devlet bankası yolunu öneriyor. 1 Ocak 2025 itibariyle eski tip ehliyetler hem geçersiz olacaklar hem de bunların dönüştürülmesi ortalama 12,000 liralara varan cezalara sebebiyet verecek. Vatandaşlarımız dijital vergi dairelerini harç yatırırken problem yaşıyorlar. İki ayrı ödeme yöntemi kafa karıştırıyor.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 97
+**Retention**: 31.91%
+
+Ancak harç yatırma işlemindeki ikilem kafa karıştırıyor. Bu sebepten dolayı tüm vatandaşlarımıza tekrar tekrar uyarıyoruz, lütfen 2025 yılı gelmeden önce ehliyetinizi yenileyin. Çünkü son zamana bıraktığınız zaman %190 ihtimalle çok yoğunluk olacak ve sizin Nüfus Müdürlüğünden alacağınız randevular sıkıntı yaşayacak. İstenilen harç ücretinin 13 lirası vergi daireleri, kalan 2 lirası ise bankalar üzerinden isteniyor. Uzmanlar işlemin devlet bankaları üzerinden tek ödemeyle yapılacağını söylüyor. Dijital Vergi Dairesi gibi vergilendirme hususundaki yerlere parça parça yatırmaktan, devlet bankalarına direkt 15 lira olarak yatırıp ehliyetlerini hızlıca alabilirler. 
+
+Devlet bankalarının hepsine yatırımda bulunabilirler. Online olarak ödeme yapabilirler ve bu şekilde ehliyetlerini yenileyebilirler.
+
+================================================================================
+

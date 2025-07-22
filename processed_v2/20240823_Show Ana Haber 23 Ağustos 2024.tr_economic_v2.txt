@@ -1,0 +1,67 @@
+# Economic Content from: 20240823_Show Ana Haber 23 Ağustos 2024.tr.txt
+# Processed: 2025-07-22T17:23:52.468196
+# Original: 2446 words → Filtered: 473 words (19.34% retention)
+# Economic segments: 3
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 125
+**Retention**: 100.00%
+
+Z Teye söyleyin Tayip evladına çok dua etsin İstanbul Büyükşehir Belediye başkanı Ekrem imamoğlu'nun
+chp'deki tüzük kurultayı öncesi eski genel başkan Kılıçdaroğlu'nu ziyaret etmesi gündemin sıcak
+başlıklarından biri olmuştu İmamoğlu başka anlam yüklemeyin derken Kılıçdaroğlu la ne konuştuklarını
+anlattı birbirine sevgisi yüksek saygısı yüksek iki insanın buluşmasıdır siyaset kulislerini
+hareketlendiren o görüşmeyi bu sözlerle özetledi başka anlam yüklemeyin derken Kılıçdaroğlu'yla ne
+konuştuklarını anlattı bu muhabbetin içeriği dertleşmedim olmaktan büyük Onur duydum CHP'nin eski
+genel başkanı Kılıçdaroğlu'nun Sırtımdan hançerlendik Kurultay öncesi iki ismin sürpriz buluşması
+gündemi bir anda değiştirdi Ben daha fazla daha sık ve daha olmasını da dilerim Sonuçta biz beraber
+Çalıştık kader birliği yaptık bundan sonra yeni bir dönem var İmamoğlu Kılıçdaroğlu'nu İstanbul'a da
+davet ederken fikir alışverişlerinin devam edeceğini vurguladı Sayın Kılıçdaroğlu'yla defalarca
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 89
+**Retention**: 55.62%
+
+Ticaret Bakanlığı, karkas et fiyatlarındaki düşüşü tüketiciye yansıtmayan kasaplara inceleme başlattı. 81 ilde denetimlere hız verilirken, haksız fiyat uygulaması yapan işletmelere 1 milyon liraya kadar ceza kesileceği açıklandı. Geçtiğimiz aylarda artan karkas et fiyatları nedeniyle kasaplar etiketlerini güncellemişti. Karkas et fiyatındaki düşüş, tüketicide indirim beklentisine neden oldu. Örneğin, Ankara'da yağlı karkas etin kesin fiyatı Nisan ayında 330 lirayı görmüştü; Haziran ve Temmuz ayında ise 250 liraya kadar düştü, yani 80 liralık fark ortaya çıkmıştı. Nisan ayından bu yana indirim yapmayan kasaplar incelemeye alındı. Fiyatlar uygun değil, her hafta pahalanıyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 259
+**Retention**: 100.00%
+
+000 liradan 1
+milyon liraya kadar ceza uygulanacağını açıkladı değerli izleyenler hırsızlara karşı uyarıcı bir
+haber var sırada İstanbul Küçükçekmece'de misafirliğe gider gibi giyinen D şık kadın girdikleri iki
+daireden altın ve para çaldı süslü ve hızlı kadınların profesyonelliği şeytana bile şapka çıkarttı
+plaja gider gibi hırsızlığa gitmişler yani kafalarına şapkayla Hırsızlar gelmişler dışarıdan
+baksanız Evet gerçekten hiç anlamazsınız sadece altın almışlar Bir de nakit para varmış Bir miktar
+dördüde hasır şapkalı dördü de alımlı Uzaktan görenler misafirliğe gittiklerini sandı şık kadınlar
+Çetesi girdikleri iki daireden Vurgun yapıp kaçtı nasıl oldu bilmiyoruz ama bizim kapıların şifresi
+böyle dağıtılmış yani yılmış gibi sıra dışı hırsızların hedefinde Küçükçekmece'deki bu apartman
+vardı Bir ay önce ben onlar Onları gördüm Bu caddede bu sokaktan armı aşağı indiler aynı giysiler
+vardı başlarında şapka ve süslü giyimleriyle sanki hırsızlığa değil sosyalleşmeye gidiyorlardı
+hedeflerinde ise Uğurcan Çelik'in Küçükçekmece'de ailesiyle yaşadığı daire ve onların karşı komşusu
+vardı Ben dedim galiba de Bunlar yabancı Avrupa'dan gelme Niye öyle düşündünüz Peki Çünkü o imajı
+vermişlerdi dört bakımlı kadın hırsız Belli ki bu Apartmanı daha önce gözlemlemiş ve o saatlerde
+Dairelerde kimsenin olmadığını biliyordu gelirken şapkalarıyla yüzlerini Kamufle ettiler ve güvenlik
+kamerasından yüzlerini gizlediler buradan rahatça şifreye girip direkt Bu Kapıdan yukarıya çıkılar
+planları çok önceden hazırdı karşı komşumuza girmişler önce karşı komşumuzdan neler çalındı onlardan
+da işte bazı takılar çalınmış Çelik ailesi aradıkları takıları bulamayınca başlarına geleni anladı
+altındır küpeden de işte öyle bir miktar nakit parası varmış alyansı dır yüzüdür falan filan bunları
+almışlar Bilgisayarıma dokunmamışlar mesela ayırt da etmişler Yani toplam ne kadar kaybınız oldu
+yani 150
+
+================================================================================
+

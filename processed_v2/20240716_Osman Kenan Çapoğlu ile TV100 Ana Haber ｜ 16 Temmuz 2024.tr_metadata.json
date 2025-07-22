@@ -1,0 +1,111 @@
+{
+  "file_path": "news/TV100/20240716_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 16 Temmuz 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T18:09:41.663662",
+  "original_word_count": 7157,
+  "filtered_word_count": 914,
+  "retention_ratio": 0.1277071398630711,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "Mutlu akşamlar değerli izleyenler...",
+      "description": "\"Mutlu akşamlar değerli izleyenler...\" - The opening segment where the presenter greets the viewers and introduces the program, indicating the date and channel.",
+      "end_pos": 72
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 72,
+      "start_sentence": "Cumhurbaşkanı Recep Tayyip Erdoğan ik haftalık aranın ardından...",
+      "description": "\"Cumhurbaşkanı Recep Tayyip Erdoğan ik haftalık aranın ardından...\" - The main content of the broadcast, detailing various news stories including political updates, economic issues, and legislative changes.",
+      "end_pos": 1734
+    },
+    {
+      "type": "3. **OUTRO**",
+      "start_pos": 1734,
+      "start_sentence": "Bu düzenlemelerin ülkemiz Aziz milletimiz için hayırlı olmasını diliyor...",
+      "description": "\"Bu düzenlemelerin ülkemiz Aziz milletimiz için hayırlı olmasını diliyor...\" - The closing remarks where the presenter summarizes the news and wishes well for the country, indicating the end of the program.",
+      "end_pos": 51945
+    }
+  ],
+  "news_segments_count": 12,
+  "economic_segments_count": 8,
+  "economic_segments": [
+    {
+      "segment_id": "72_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 235,
+      "filtered_length": 126,
+      "retention_ratio": 0.5361702127659574,
+      "section_description": "\"Cumhurbaşkanı Recep Tayyip Erdoğan ik haftalık aranın ardından...\" - The main content of the broadcast, detailing various news stories including political updates, economic issues, and legislative changes."
+    },
+    {
+      "segment_id": "1734_0",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 157,
+      "filtered_length": 124,
+      "retention_ratio": 0.7898089171974523,
+      "section_description": "\"Bu düzenlemelerin ülkemiz Aziz milletimiz için hayırlı olmasını diliyor...\" - The closing remarks where the presenter summarizes the news and wishes well for the country, indicating the end of the program."
+    },
+    {
+      "segment_id": "1734_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 241,
+      "filtered_length": 158,
+      "retention_ratio": 0.6556016597510373,
+      "section_description": "\"Bu düzenlemelerin ülkemiz Aziz milletimiz için hayırlı olmasını diliyor...\" - The closing remarks where the presenter summarizes the news and wishes well for the country, indicating the end of the program."
+    },
+    {
+      "segment_id": "1734_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 157,
+      "filtered_length": 86,
+      "retention_ratio": 0.5477707006369427,
+      "section_description": "\"Bu düzenlemelerin ülkemiz Aziz milletimiz için hayırlı olmasını diliyor...\" - The closing remarks where the presenter summarizes the news and wishes well for the country, indicating the end of the program."
+    },
+    {
+      "segment_id": "1734_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 108,
+      "filtered_length": 108,
+      "retention_ratio": 1.0,
+      "section_description": "\"Bu düzenlemelerin ülkemiz Aziz milletimiz için hayırlı olmasını diliyor...\" - The closing remarks where the presenter summarizes the news and wishes well for the country, indicating the end of the program."
+    },
+    {
+      "segment_id": "1734_6",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 177,
+      "filtered_length": 106,
+      "retention_ratio": 0.5988700564971752,
+      "section_description": "\"Bu düzenlemelerin ülkemiz Aziz milletimiz için hayırlı olmasını diliyor...\" - The closing remarks where the presenter summarizes the news and wishes well for the country, indicating the end of the program."
+    },
+    {
+      "segment_id": "1734_7",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 198,
+      "filtered_length": 121,
+      "retention_ratio": 0.6111111111111112,
+      "section_description": "\"Bu düzenlemelerin ülkemiz Aziz milletimiz için hayırlı olmasını diliyor...\" - The closing remarks where the presenter summarizes the news and wishes well for the country, indicating the end of the program."
+    },
+    {
+      "segment_id": "1734_8",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 201,
+      "filtered_length": 85,
+      "retention_ratio": 0.4228855721393035,
+      "section_description": "\"Bu düzenlemelerin ülkemiz Aziz milletimiz için hayırlı olmasını diliyor...\" - The closing remarks where the presenter summarizes the news and wishes well for the country, indicating the end of the program."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

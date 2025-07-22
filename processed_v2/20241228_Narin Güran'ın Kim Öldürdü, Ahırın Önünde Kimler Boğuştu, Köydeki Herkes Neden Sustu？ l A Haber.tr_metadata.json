@@ -1,0 +1,69 @@
+{
+  "file_path": "news/AHaber/20241228_Narin Güran'ın Kim Öldürdü, Ahırın Önünde Kimler Boğuştu, Köydeki Herkes Neden Sustu？ l A Haber.tr.txt",
+  "processing_timestamp": "2025-07-22T15:41:13.178320",
+  "original_word_count": 18938,
+  "filtered_word_count": 246,
+  "retention_ratio": 0.012989756046044989,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "A Haber ekranlarından İyi geceler efendim...",
+      "description": "\"A Haber ekranlarından İyi geceler efendim...\" - The program begins with the presenter greeting the audience and introducing the topic of the evening, setting the stage for the news content.",
+      "end_pos": 100
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 100,
+      "start_sentence": "Tüm Türkiye'nin özellikle günlerdir haftalardır...",
+      "description": "\"Tüm Türkiye'nin özellikle günlerdir haftalardır...\" - The main news content discusses the ongoing investigation into the murder of 8-year-old Narin Güran, detailing the court proceedings and the lack of answers regarding the case.",
+      "end_pos": 1070
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 1070,
+      "start_sentence": "Peki kimlerle konuşacağız bugün...",
+      "description": "\"Peki kimlerle konuşacağız bugün...\" - This section transitions into introducing the guests who will discuss the news topic, indicating a shift from the news report to expert commentary.",
+      "end_pos": 1167
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1167,
+      "start_sentence": "Hoş geldiniz hoş bulduk efendim...",
+      "description": "\"Hoş geldiniz hoş bulduk efendim...\" - The discussion continues with the guests providing their insights and commentary on the case, further elaborating on the news story.",
+      "end_pos": 1552
+    },
+    {
+      "type": "5. **TRANSITION**",
+      "start_pos": 1552,
+      "start_sentence": "gözler Diyarbakır'dayım erken saatlerinden beri...",
+      "description": "\"gözler Diyarbakır'dayım erken saatlerinden beri...\" - This transition indicates a shift to a live report from a correspondent in Diyarbakır, preparing the audience for additional news coverage.",
+      "end_pos": 1652
+    },
+    {
+      "type": "6. **NEWS**",
+      "start_pos": 1652,
+      "start_sentence": "İşte o noktada da Abdurrahman Şimşek...",
+      "description": "\"İşte o noktada da Abdurrahman Şimşek...\" - The correspondent in Diyarbakır is introduced, continuing the news coverage with updates from the court proceedings.",
+      "end_pos": 122602
+    }
+  ],
+  "news_segments_count": 9,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "1652_5",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 246,
+      "filtered_length": 246,
+      "retention_ratio": 1.0,
+      "section_description": "\"İşte o noktada da Abdurrahman Şimşek...\" - The correspondent in Diyarbakır is introduced, continuing the news coverage with updates from the court proceedings."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

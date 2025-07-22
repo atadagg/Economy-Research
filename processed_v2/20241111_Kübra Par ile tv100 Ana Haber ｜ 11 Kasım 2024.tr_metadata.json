@@ -1,0 +1,96 @@
+{
+  "file_path": "news/TV100/20241111_Kübra Par ile tv100 Ana Haber ｜ 11 Kasım 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T18:13:49.433670",
+  "original_word_count": 9960,
+  "filtered_word_count": 465,
+  "retention_ratio": 0.046686746987951805,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "TV1 ekranlarından Herkese iyi akşamlar ben Kübra Par...",
+      "description": "\"TV1 ekranlarından Herkese iyi akşamlar ben Kübra Par...\" - The presenter introduces herself and the program, indicating the start of the news broadcast.",
+      "end_pos": 52
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 52,
+      "start_sentence": "Ana Haber başlıyor şimdi yasa dışı yasa dışı bahis operasyonunda...",
+      "description": "\"Ana Haber başlıyor şimdi yasa dışı yasa dışı bahis operasyonunda...\" - This brief transition signals the shift from the introduction to the specific news story about the illegal betting operation.",
+      "end_pos": 91
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 91,
+      "start_sentence": "yasa dışı bahis operasyonuyla uyandı desek yeri var aralarında Mehmet Ali Erbil'in de olduğu...",
+      "description": "\"yasa dışı bahis operasyonuyla uyandı desek yeri var aralarında Mehmet Ali Erbil'in de olduğu...\" - This section contains the main news content, discussing various topics including a major illegal betting operation and political developments.",
+      "end_pos": 1265
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1265,
+      "start_sentence": "28 kişi için gözaltı kararı çıkarıldı 16 şüphelinin tamamı için tutuklama var...",
+      "description": "\"28 kişi için gözaltı kararı çıkarıldı 16 şüphelinin tamamı için tutuklama var...\" - This continues the news segment, providing details about the arrests and the individuals involved.",
+      "end_pos": 1364
+    },
+    {
+      "type": "5. **TRANSITION**",
+      "start_pos": 1364,
+      "start_sentence": "şimdi bir muhabir arkadaşımıza döneceğiz bize orada sıcak gelişmeleri anlatacak...",
+      "description": "\"şimdi bir muhabir arkadaşımıza döneceğiz bize orada sıcak gelişmeleri anlatacak...\" - This transition indicates a shift to a reporter on the scene for live updates.",
+      "end_pos": 1653
+    },
+    {
+      "type": "6. **NEWS**",
+      "start_pos": 1653,
+      "start_sentence": "Kübra öncelikle şunu söyleyelim şu ana kadar herhangi bir tutuklama bilgisi...",
+      "description": "\"Kübra öncelikle şunu söyleyelim şu ana kadar herhangi bir tutuklama bilgisi...\" - This section continues the news coverage with updates from the field regarding the arrests.",
+      "end_pos": 69895
+    }
+  ],
+  "news_segments_count": 12,
+  "economic_segments_count": 4,
+  "economic_segments": [
+    {
+      "segment_id": "1653_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 347,
+      "filtered_length": 112,
+      "retention_ratio": 0.3227665706051873,
+      "section_description": "\"Kübra öncelikle şunu söyleyelim şu ana kadar herhangi bir tutuklama bilgisi...\" - This section continues the news coverage with updates from the field regarding the arrests."
+    },
+    {
+      "segment_id": "1653_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 190,
+      "filtered_length": 145,
+      "retention_ratio": 0.7631578947368421,
+      "section_description": "\"Kübra öncelikle şunu söyleyelim şu ana kadar herhangi bir tutuklama bilgisi...\" - This section continues the news coverage with updates from the field regarding the arrests."
+    },
+    {
+      "segment_id": "1653_7",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 134,
+      "filtered_length": 93,
+      "retention_ratio": 0.6940298507462687,
+      "section_description": "\"Kübra öncelikle şunu söyleyelim şu ana kadar herhangi bir tutuklama bilgisi...\" - This section continues the news coverage with updates from the field regarding the arrests."
+    },
+    {
+      "segment_id": "1653_8",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 161,
+      "filtered_length": 115,
+      "retention_ratio": 0.7142857142857143,
+      "section_description": "\"Kübra öncelikle şunu söyleyelim şu ana kadar herhangi bir tutuklama bilgisi...\" - This section continues the news coverage with updates from the field regarding the arrests."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

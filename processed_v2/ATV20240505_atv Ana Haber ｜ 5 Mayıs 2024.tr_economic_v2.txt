@@ -1,0 +1,37 @@
+# Economic Content from: ATV20240505_atv Ana Haber ｜ 5 Mayıs 2024.tr.txt
+# Processed: 2025-07-22T16:14:22.849020
+# Original: 4401 words → Filtered: 193 words (4.39% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 53
+**Retention**: 41.73%
+
+Masadaki en sıcak başlık ekonomi ile ilgili gelişmeler olacak. Faiş fiyatla ve enflasyonla mücadele liste başında mecliste görüşülecek olan faiş fiyat yasasına son rutuş yapılacak. Kredi derecelendirme kuruluşlarının Türkiye'nin notunu yükseltmesi de gündeme gelecek. Önceliğimiz olan enflasyonu düşürmeye yönelik kararlı adımlar atıyoruz. Enflasyonda da yılın ikinci yarısından itibaren daha umut verici rakamları bekliyoruz.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_final
+**Confidence**: 0.50
+**Word Count**: 140
+**Retention**: 100.00%
+
+8'den beri bu ritimler devam ediyor Bir kere bile Es vermediler bir kere
+bile Mola vermediler bir kere bile yorulmak nedir bilmediler işte neşeleri coşkuları buraya
+gelenleri heyecanlandırmaya devam edyor Çek dbı nasıl gidiyor Çok şahane her şey çok güzel Evet şu
+anda kakava ateşi yakıldı kakava ateşi yakıldı 20 yerini buldu işte kakava ateşi işte kakava
+şenlikleri çeri başı son olarak kıvılcımı verdi ve uzaklaştı öyle bir sıcaklık geliyor ki buraya
+kadar geliyor sıcaklığı ateşin ve metrelerce yükselmeye başladı kakava ateşi yandı Nasıl süper
+Müthiş çok duygulandım bu ateşin üstünden atlayabilir misiniz ateşten atlayabilir atlarım yüksek
+değil yanından atlarım Ana Haberin Sonuna Geldik bir hatırlatma Yapalım Türkiye'nin en çok izlenen
+yarışma programı Milyoner birazdan ekranlarınızda olacak reklam arasına gidiyoruz şimdi kapanış için
+birazdan yeniden burada olacağız ana haber bültenimiz sonuna geldik İyi bir hafta geçirmenizi
+diliyorum İyi akşamlar ah
+
+================================================================================
+

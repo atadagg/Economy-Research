@@ -1,0 +1,16 @@
+# Economic Content from: ATV20240807_atv Ana Haber ｜ 7 Ağustos 2024.tr.txt
+# Processed: 2025-07-22T16:38:04.092866
+# Original: 4743 words → Filtered: 73 words (1.54% retention)
+# Economic segments: 1
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 73
+**Retention**: 94.81%
+
+Dün Cumhurbaşkanı Erdoğan başkanlığında toplanan savunma sanayi icra komitesi çok önemli bir karar aldı. Türkiye'nin dış tehditlerden korunması için yapılan projeler, ülkenin ekonomik bağımsızlığı açısından kritik bir öneme sahip. Bu projelerin finansmanı ve gelişimi, Türkiye'nin savunma sanayisinde yerli üretimi artırarak, dışa bağımlılığı azaltmayı hedefliyor. Ayrıca, bu tür yatırımların yerli sanayiye katkısı, istihdamı artırarak ekonomik büyümeye de olumlu yansıyacaktır. Türkiye savunma sanayi alanında adeta bir destan yazıyor ve bu gelişmeler, ülkenin ekonomik gücünü pekiştiriyor.
+
+================================================================================
+

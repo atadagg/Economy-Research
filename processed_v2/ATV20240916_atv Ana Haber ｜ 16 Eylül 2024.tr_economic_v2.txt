@@ -1,0 +1,20 @@
+# Economic Content from: ATV20240916_atv Ana Haber ｜ 16 Eylül 2024.tr.txt
+# Processed: 2025-07-22T16:12:29.180419
+# Original: 4770 words → Filtered: 115 words (2.41% retention)
+# Economic segments: 1
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 115
+**Retention**: 46.18%
+
+Pazartesi Beştepe Külliyesi'nde gerçekleştirilen etkinlikte Cumhurbaşkanı Erdoğan, yargı alanında atılacak yeni adımların sinyalini verdi. Bu bağlamda, ekonomik istikrarın sağlanması için adaletin temel ilkelerinin korunması gerektiğini vurguladı. Ayrıca, sosyal medya platformlarının adaletin reyting ve etkileşim avcılığına kurban edilmemesi gerektiğini belirtti. 
+
+Cumhurbaşkanı Erdoğan, toplumda cezasızlık algısına hizmet eden kötü örneklerin yaşanmasının, ekonomik güven ortamını zedeleyebileceğine dikkat çekti. Ekonomik verilerin ve istatistiklerin doğru bir şekilde yansıtılması gerektiğini ifade etti. Bu tür durumların, yatırımcı güvenini olumsuz etkileyebileceği ve dolayısıyla ekonomik büyümeyi tehdit edebileceği konusunda uyarılarda bulundu. 
+
+Son dönemde yaşanan olayların, toplumun ekonomik ve sosyal yapısına zarar verebileceğini belirten Erdoğan, bu tür gelişmelerin önüne geçilmesi gerektiğini vurguladı. Ekonomik istikrarın sağlanması için adaletin sağlanması ve hukukun üstünlüğünün korunması gerektiğini ifade etti.
+
+================================================================================
+

@@ -1,0 +1,16 @@
+# Economic Content from: ATV20241116_atv Ana Haber ｜ 16 Kasım 2024.tr.txt
+# Processed: 2025-07-22T15:59:16.404800
+# Original: 4627 words → Filtered: 80 words (1.73% retention)
+# Economic segments: 1
+
+## Economic Segment 1
+
+**Method**: pattern_validated
+**Confidence**: 0.75
+**Word Count**: 80
+**Retention**: 48.19%
+
+Brezilya'da düzenlenecek olan G20 liderler zirvesinde, dünya ekonomisinin önemli meseleleri ele alınacak. Zirve boyunca, küresel ekonomik kriz ve enerji konuları üzerinde durulması bekleniyor. Cumhurbaşkanı Erdoğan, zirveye katılan liderlerle gerçekleştireceği görüşmelerde, ekonomik işbirliği ve ticaretin artırılması konularını gündeme getirecek. G20 ülkeleri, dünya ticaretinin %75'ini kontrol ediyor ve bu nedenle zirve, uluslararası ticaretin geleceği açısından kritik bir öneme sahip. Ayrıca, zirvede ekonomik istikrarı sağlamak için atılacak adımlar da tartışılacak. Erdoğan'ın ajandasında, küresel barış ve güvenliğin sağlanması için ekonomik işbirliğinin artırılması gerektiği vurgulanacak.
+
+================================================================================
+

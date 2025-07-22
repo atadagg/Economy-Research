@@ -1,0 +1,62 @@
+{
+  "file_path": "news/ATV/ATV20240918_atv Ana Haber ｜ 18 Eylül 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T16:07:00.111829",
+  "original_word_count": 4678,
+  "filtered_word_count": 57,
+  "retention_ratio": 0.01218469431380932,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "haberin merkezinden Atv Haber merkezinden günün gelişmeleri ile karşınızdayız",
+      "description": "\"haberin merkezinden Atv Haber merkezinden günün gelişmeleri ile karşınızdayız\" - This section serves as the opening of the broadcast, where the presenter introduces the program and sets the date and context for the news.",
+      "end_pos": 59
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 59,
+      "start_sentence": "Bu da ilginç bir not",
+      "description": "\"Bu da ilginç bir not\" - This brief transition leads into further details about the news story, indicating a shift in focus or additional information related to the ongoing news segment.",
+      "end_pos": 98
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 98,
+      "start_sentence": "Dün Çağrı cihazları bugün is Telsizler İsrail'in hizbullah'a yönelik Siber saldırıları peş peşe geldi",
+      "description": "\"Dün Çağrı cihazları bugün is Telsizler İsrail'in hizbullah'a yönelik Siber saldırıları peş peşe geldi\" - This section contains the main news content, detailing the events related to the attacks in Lebanon, including specifics about the devices used and the implications of the attacks.",
+      "end_pos": 1048
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1048,
+      "start_sentence": "Lübnan makamları ölü ve yaralı sayısının her geçen dakika arttığını da söyledi",
+      "description": "\"Lübnan makamları ölü ve yaralı sayısının her geçen dakika arttığını da söyledi\" - This continues the news content, providing updates on the casualties and the situation in Lebanon, further elaborating on the implications of the attacks.",
+      "end_pos": 1825
+    },
+    {
+      "type": "5. **OUTRO**",
+      "start_pos": 1825,
+      "start_sentence": "atb an Haber başlıyor",
+      "description": "\"atb an Haber başlıyor\" - This section indicates the conclusion of the current news segment and the transition into the next part of the program, suggesting a wrap-up of the current discussion.",
+      "end_pos": 33544
+    }
+  ],
+  "news_segments_count": 6,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "1825_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 142,
+      "filtered_length": 57,
+      "retention_ratio": 0.4014084507042254,
+      "section_description": "\"atb an Haber başlıyor\" - This section indicates the conclusion of the current news segment and the transition into the next part of the program, suggesting a wrap-up of the current discussion."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

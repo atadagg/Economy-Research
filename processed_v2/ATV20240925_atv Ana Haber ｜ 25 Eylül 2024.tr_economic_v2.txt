@@ -1,0 +1,53 @@
+# Economic Content from: ATV20240925_atv Ana Haber ｜ 25 Eylül 2024.tr.txt
+# Processed: 2025-07-22T16:15:05.156090
+# Original: 4861 words → Filtered: 277 words (5.70% retention)
+# Economic segments: 4
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 84
+**Retention**: 42.64%
+
+20 lir Adli para cezasıyla cezalandırılmasına karar verildi mahkeme verilen cezaların ertelenmemesi de istedi kararın uygulanmasını isteyen mahkeme göçmenin denetimli serbestlik sürecinde kasıtlı bir suç işlemesi sebebiyle Bakırköy Asliye Ceza Mahkemesi ihbar yazısı da gönderdi. 
+
+Özel okullar gibi özel üniversitelerde de tartışma konusu olan zamlar, istenen rakamlar karşısında veli ve öğrencilerin eli kolu bağlıydı. Ama artık öyle değil çünkü emsal niteliğinde bir karar var. Çetinkaya Ailesi, kendilerinden geçen yılki ücretin kat be kat üzerinde ücret istenince tüketici mahkemesine başvurdu ve bakın süreç nasıl sonuçlandı.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 50
+**Retention**: 40.98%
+
+Geçen yıl özel üniversite eğitim ücretine fahiş oranda zam yapıldı. Bir önceki yılla aradaki fark iki kattan fazlaydı. Şu anda istenen rakam 445.000 TL. Milli Eğitim Bakanlığı, özel okullara yapılacak zam oranını %6-8 sınırında tavsiye ediyor. Bu tavsiyeye uyup uymamak üniversite yönetiminin inisiyatifinde. Özel üniversite eğitim ücretine %150 zam yapıldı.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 67
+**Retention**: 44.67%
+
+Batuhan Çetinkaya, özel üniversiteye dava açmak istediğini belirtti. Tüketici mahkemesine başvurarak, ödenecek tutarın geçen yılki ücrete TÜFE oranı eklenerek hesaplanması gerektiğini talep etti. Mahkeme, 445.000 liralık ücretin 31.000 liraya düşmesine karar verdi. Bu karar, TÜFE oranının üzerinde ücret ödeyen herkesin mahkeme kararıyla geri alabileceği anlamına geliyor. 
+
+Amerikan Merkez Bankası'nın faiz indirimi kararı sonrası, altın küresel piyasalarda rekor üstüne rekor kırıyor. Bu durum, kaçakçıların da iştahını kabartmış durumda.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 76
+**Retention**: 65.52%
+
+Bu yıl piyasa değeri 750 milyon lirayı bulan kaçak altın ele geçirildi. Van Emniyeti son 6 ayda tam 252 kilogram kaçak altın ele geçirdi. Son operasyonda ele geçirilen altının miktarı 22 kilogramdır. Van İl Emniyet Müdürlüğü kaçakçılık ve organize suçlarla Şube Müdürlüğü ekipleri, Van sınırında kaçakçıları yakalayarak 22 kilo külçe altını ele geçirdi. O altınların değeri şu anda tam olarak 66 milyon lira. Yurt dışı piyasalara göre kilogram başına 5.000 doların üzerinde bir fiyat farkı bulunmaktadır.
+
+================================================================================
+

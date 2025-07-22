@@ -1,0 +1,62 @@
+{
+  "file_path": "news/Show/20240425_Show Ana Haber 25 Nisan 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T17:40:22.679820",
+  "original_word_count": 3528,
+  "filtered_word_count": 104,
+  "retention_ratio": 0.02947845804988662,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 3,
+      "start_sentence": "İyi akşamlar sayın seyirciler",
+      "description": "\"İyi akşamlar sayın seyirciler\" - The presenter introduces herself and the program, indicating the start of the news broadcast.",
+      "end_pos": 98
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 98,
+      "start_sentence": "Almanya Cumhurbaşkanı stam mayer'in Türkiye'ye yanında 60 kilo döner",
+      "description": "\"Almanya Cumhurbaşkanı stam mayer'in Türkiye'ye yanında 60 kilo döner\" - The main content of the news begins with a story about the German President's visit to Turkey, discussing various political events and incidents.",
+      "end_pos": 975
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 975,
+      "start_sentence": "iliçteki maden kazasını araştırma komisyonunun",
+      "description": "\"iliçteki maden kazasını araştırma komisyonunun\" - A brief transition occurs as the news shifts from the story about the German President to the investigation of a mining accident.",
+      "end_pos": 975
+    },
+    {
+      "type": "5. **TRANSITION**",
+      "start_pos": 975,
+      "start_sentence": "İliç maden kazası araştırma komisyonunun ilk mesai gününe",
+      "description": "\"İliç maden kazası araştırma komisyonunun ilk mesai gününe\" - Another transition occurs as the focus shifts back to the mining accident investigation.",
+      "end_pos": 1066
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1066,
+      "start_sentence": "CHP'li Yavuz Yılmaz'ın komisyon salona cep telefonuyla yayın yapması tartışmaya neden oldu",
+      "description": "\"CHP'li Yavuz Yılmaz'ın komisyon salona cep telefonuyla yayın yapması tartışmaya neden oldu\" - The news continues with another story regarding a political controversy involving a member of parliament during a commission meeting.",
+      "end_pos": 24517
+    }
+  ],
+  "news_segments_count": 9,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "1066_5",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 169,
+      "filtered_length": 104,
+      "retention_ratio": 0.6153846153846154,
+      "section_description": "\"CHP'li Yavuz Yılmaz'ın komisyon salona cep telefonuyla yayın yapması tartışmaya neden oldu\" - The news continues with another story regarding a political controversy involving a member of parliament during a commission meeting."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

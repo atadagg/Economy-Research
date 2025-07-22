@@ -1,0 +1,64 @@
+{
+  "file_path": "news/ATV/ATV20240621_atv Ana Haber ｜ 21 Haziran 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T16:39:51.873092",
+  "original_word_count": 4758,
+  "filtered_word_count": 174,
+  "retention_ratio": 0.03656998738965952,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 23,
+      "start_sentence": "İyi akşamlar Bugün 21 Haziran 2024",
+      "description": "\"İyi akşamlar Bugün 21 Haziran 2024\" - The opening of the broadcast where the presenter greets the audience and introduces the date.",
+      "end_pos": 99
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 99,
+      "start_sentence": "maalesef acı bir haberle başlıyoruz",
+      "description": "\"maalesef acı bir haberle başlıyoruz\" - The main news content begins with a report on a military operation and subsequent events, detailing various news stories including military actions and a tragic fire incident.",
+      "end_pos": 1264
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 1264,
+      "start_sentence": "orman yangınları Yaz aylarının en üzücü haberlerinin başında gelir",
+      "description": "\"orman yangınları Yaz aylarının en üzücü haberlerinin başında gelir\" - A brief transition that shifts from the military news to the topic of forest fires, indicating a change in the news story focus.",
+      "end_pos": 1363
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1363,
+      "start_sentence": "Bu kez de haberler Güneydoğu Anadolu bölgesinden",
+      "description": "\"Bu kez de haberler Güneydoğu Anadolu bölgesinden\" - Continuation of the news segment detailing the forest fire incident in Diyarbakır and its consequences.",
+      "end_pos": 33037
+    }
+  ],
+  "news_segments_count": 7,
+  "economic_segments_count": 2,
+  "economic_segments": [
+    {
+      "segment_id": "1363_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 190,
+      "filtered_length": 110,
+      "retention_ratio": 0.5789473684210527,
+      "section_description": "\"Bu kez de haberler Güneydoğu Anadolu bölgesinden\" - Continuation of the news segment detailing the forest fire incident in Diyarbakır and its consequences."
+    },
+    {
+      "segment_id": "1363_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 112,
+      "filtered_length": 64,
+      "retention_ratio": 0.5714285714285714,
+      "section_description": "\"Bu kez de haberler Güneydoğu Anadolu bölgesinden\" - Continuation of the news segment detailing the forest fire incident in Diyarbakır and its consequences."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

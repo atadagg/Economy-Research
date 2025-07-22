@@ -1,0 +1,55 @@
+{
+  "file_path": "news/Show/20240623_Show Ana Haber 23 Haziran 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T17:46:45.302736",
+  "original_word_count": 1865,
+  "filtered_word_count": 110,
+  "retention_ratio": 0.058981233243967826,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "İyi akşamlar değerli izleyenler",
+      "description": "\"İyi akşamlar değerli izleyenler\" - The presenter, Hande Bayraktar, greets the viewers and introduces the program, indicating the start of the news broadcast.",
+      "end_pos": 95
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 95,
+      "start_sentence": "Kayseri Pınar başında CHP'li meclis üyesi Şerafettin Bahadır'ın silahlı saldırıya uğraması",
+      "description": "\"Kayseri Pınar başında CHP'li meclis üyesi Şerafettin Bahadır'ın silahlı saldırıya uğraması\" - This section contains the main news content, discussing various political events, including a shooting incident involving a CHP member and reactions from political leaders.",
+      "end_pos": 1356
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 1356,
+      "start_sentence": "A milli futbol takımı Euro 2024 macerasının 2ci maçında",
+      "description": "\"A milli futbol takımı Euro 2024 macerasının 2ci maçında\" - This brief transition indicates a shift from political news to sports news, specifically focusing on the national football team's performance.",
+      "end_pos": 1356
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1356,
+      "start_sentence": "Portekiz'e 3-0 yenildi",
+      "description": "\"Portekiz'e 3-0 yenildi\" - This section continues with the sports news, detailing the national football team's loss to Portugal and the subsequent reactions from a political figure.",
+      "end_pos": 13500
+    }
+  ],
+  "news_segments_count": 3,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "1356_1",
+      "method": "simple_final",
+      "confidence": 0.5,
+      "original_length": 341,
+      "filtered_length": 110,
+      "retention_ratio": 0.3225806451612903,
+      "section_description": "\"Portekiz'e 3-0 yenildi\" - This section continues with the sports news, detailing the national football team's loss to Portugal and the subsequent reactions from a political figure."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

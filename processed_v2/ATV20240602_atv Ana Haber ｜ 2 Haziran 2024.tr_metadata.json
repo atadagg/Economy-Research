@@ -1,0 +1,48 @@
+{
+  "file_path": "news/ATV/ATV20240602_atv Ana Haber ｜ 2 Haziran 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T16:47:11.980840",
+  "original_word_count": 4378,
+  "filtered_word_count": 59,
+  "retention_ratio": 0.01347647327546825,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "Haberin merkezinden Atv Haber merkezden İyi akşamlar",
+      "description": "\"Haberin merkezinden Atv Haber merkezden İyi akşamlar\" - This section serves as the opening of the broadcast, where the presenter greets the audience and introduces the program.",
+      "end_pos": 97
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 97,
+      "start_sentence": "Cumhurbaşkanı Erdoğan'ın kapanış konuşmasıyla tamamlandı Erdoğan",
+      "description": "\"Cumhurbaşkanı Erdoğan'ın kapanış konuşmasıyla tamamlandı Erdoğan\" - This section contains the main news content, discussing various topics including Erdoğan's speech, Israel's actions, economic issues, and political commentary.",
+      "end_pos": 1473
+    },
+    {
+      "type": "3. **OUTRO**",
+      "start_pos": 1473,
+      "start_sentence": "Bu meselenin Bir siyasi bilek güreşine çevrilmesini de doğru bulmuyoruz",
+      "description": "\"Bu meselenin Bir siyasi bilek güreşine çevrilmesini de doğru bulmuyoruz\" - This section includes closing remarks and a summary of the discussed topics, signaling the end of the program.",
+      "end_pos": 31281
+    }
+  ],
+  "news_segments_count": 4,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "97_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 177,
+      "filtered_length": 59,
+      "retention_ratio": 0.3333333333333333,
+      "section_description": "\"Cumhurbaşkanı Erdoğan'ın kapanış konuşmasıyla tamamlandı Erdoğan\" - This section contains the main news content, discussing various topics including Erdoğan's speech, Israel's actions, economic issues, and political commentary."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

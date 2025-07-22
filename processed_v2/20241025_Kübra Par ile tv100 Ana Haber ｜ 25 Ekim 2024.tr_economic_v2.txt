@@ -1,0 +1,118 @@
+# Economic Content from: 20241025_Kübra Par ile tv100 Ana Haber ｜ 25 Ekim 2024.tr.txt
+# Processed: 2025-07-22T18:14:44.894149
+# Original: 9212 words → Filtered: 833 words (9.04% retention)
+# Economic segments: 9
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 91
+**Retention**: 100.00%
+
+hainlere inat daha çok çalışacağız daha çok üreteceğiz daha fazla birlik beraberlik içinde olacağız
+demiştik Bugün de Hashtag imiz inadına Cumhuriyet TV1 Ailesi ol olarak bugün ana haberde inadına
+Cumhuriyet diyoruz Bu vatanı bölmek terör eylemleriyle istikrarsız laştırmak Siyasette Esen
+normalleşme rüzgarlarını sabote etmek isteyenlere inat Cumhuriyet bayramımızı cuş coşkuyla
+kutlayalım siyasetçilerimiz de buradan bir çağrım var 29 Ekim resepsiyonunda Lütfen bir araya gelin
+ve tüm vatandaşları kucaklayın Hani resepsiyonun yeri nerede falan diye bu tür durumlara bu sefer
+asla takılmayın hainlere inat Birlik olalım cumhuriyetimize sahip çıkalım diyoruz bugünkü Hashtag
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 118
+**Retention**: 39.86%
+
+Ekonomi gündemine de bakacağız. Siyasette olup biteni de sizin gündeminizde de ıskalamaya Ana Haber başlıyor. İçişleri Bakanı Ali Yerlikaya, ekonomi ile ilgili dikkat çekici açıklamalarda bulundu. Ekonomik veriler ve istatistikler, Türkiye'nin güvenlik durumu ile birlikte değerlendirildiğinde, yatırım ortamını etkileyebilir. Ayrıca, hükümetin ekonomik politikaları, bu tür olayların ardından güvenlik ve istikrar açısından önem kazanmaktadır. 
+
+Ekonomik analizler, terör olaylarının piyasalara olan etkisini de gözler önüne seriyor. Uzmanlar, bu tür saldırıların yatırımcı güvenini sarsabileceği ve dolayısıyla finansal piyasalarda dalgalanmalara yol açabileceği konusunda uyarıyor. Türkiye'nin uluslararası ticaret ilişkileri, güvenlik durumuna bağlı olarak değişkenlik gösterebilir. 
+
+Sonuç olarak, bu tür olayların ekonomik etkileri, hem iç piyasada hem de dış ticarette önemli sonuçlar doğurabilir. Ekonomik verilerin ve istatistiklerin izlenmesi, bu süreçte kritik bir rol oynamaktadır.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 94
+**Retention**: 83.93%
+
+Hazine ve Maliye Bakanı Mehmet Şimşek, Amerika Birleşik Devletleri'ndeki temaslarını sürdürüyor. Türkiye Cumhuriyeti Merkez Bankası Başkanı Fatih Karahan, yatırımcılarla yaptığı toplantıda asgari ücrete %25 oranında zam olabileceğini belirtti. Böylelikle asgari ücretin 2,250 TL'ye çıkması bekleniyor. Bu durum, vatandaşların yaşam standartları üzerinde önemli bir etki yaratabilir. Şu anda asgari ücret 17,200 TL seviyesinde bulunuyor ve birçok kişi, bu tutarın yeterli olmadığını düşünüyor. İstanbul şartlarında yaşam maliyetleri göz önüne alındığında, asgari ücretin en az 24,000 TL seviyesinde olması gerektiği ifade ediliyor. Bu tür ekonomik veriler, toplumun genel refahı ve alım gücü üzerinde doğrudan bir etkiye sahiptir.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 78
+**Retention**: 39.00%
+
+IMF Türkiye Misyonu başkanı Jim Walch, asgari ücret artışlarının enflasyon beklentileri için bir çapa oluşturduğunu savundu. IMF, yüksek asgari ücretin enflasyonla mücadeleyi bozacağını düşünüyor. Vedat Işıkhan, Çalışma ve Sosyal Güvenlik Bakanı, yaptığı bir açıklamayla sosyal medyada dikkat çekti; en düşük emekli aylığını 12,500 liraya çıkardıklarını belirtti. Ancak, emeklilerin büyük kısmının bu tutarı almadığı, 50, 60, hatta 80,000 lira emekli aylığı alanların da bulunduğu ifade ediliyor. Bu durum, emekli maaşlarının ekonomik etkilerini ve sosyal güvenlik sisteminin sürdürülebilirliğini gündeme getiriyor.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 52
+**Retention**: 70.27%
+
+Hani 80 çok oldu 50 000 lir emekli maaşı alıyordur. Acaba bu maaş ne kadardır? Vedat Bey bunu da bize açıklasın. Kısa sürede emekli olmayı tercih edersek, emekli aylığımız düşük olacaktır. Geçen emekli dosyası yaptık, yine önümüzdeki günlerde vereceğiz. 30 yıl prim ödeyen bir vatandaşımızın 12 500 lira emekli maaşı aldığını anlatmıştık.
+
+================================================================================
+
+## Economic Segment 6
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 86
+**Retention**: 39.81%
+
+IMF diyor ki, "Aman çok zam yapmayın, enflasyon hedefini tutturamazsınız." Merkez Bankası başkanı da Bloomberg'e yaptığı açıklamada, "Yüzde 25 yapacağız" demiş. Şu anda Türkiye'de asgari ücret, ortalama bir ücret olarak değerlendiriliyor. Normalde asgari ücret, bir mesleğe giriş ücretidir; tecrübe kazanana kadar düşük bir ücret alır. Avrupa'da asgari ücretle çalışanların ortalaması, normal çalışanların yüzde 3'ü civarındayken, bizde bu oran şu anda daha yüksek. Bu nedenle sıkıntı, asgari ücretin düşük ya da yüksek olmasından değil, asgari ücretin ortalama bir ücret olmasıyla ilgili. Türkiye'de asgari ücret şu anda 177.
+
+================================================================================
+
+## Economic Segment 7
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 96
+**Retention**: 50.79%
+
+Türkiye'de çalışanların yarısı emekli olduğunda devletin belirleyeceği tamamlayıcı aylığı alacak. Bu durum, emekli aylığı sisteminde sorun olduğunu gösteriyor. Emekli aylığı hesaplama sisteminde de sorunlar mevcut; ücretlerin düşüklüğü ve asgari ücretin ortalama ücret olması bu sorunları derinleştiriyor. Ayrıca, kayıt dışı istihdam da önemli bir sorun. Türkiye'de 25 milyon kişi çalışıyor gibi görünse de, gerçekte en az 35 milyon kişinin çalıştığı tahmin ediliyor. Kayıt dışı çalışan 10 milyon kişi olduğu biliniyor. Bu durum, işsizlikle de bağlantılı; 3 milyon işsiz varken, 10 milyon kişiye genel sağlık sigortası borcu çıkması dikkat çekici. Ekonomik veriler, bu sorunların çözülmesi gerektiğini ortaya koyuyor.
+
+================================================================================
+
+## Economic Segment 8
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 75
+**Retention**: 90.36%
+
+500 denk geliyor galiba yanlış hatırlamıyorsam ortalamanın da altında ne kadar oluyor 2 250 21 250'yi kabul eder mi. Bu millet nasıl bir etki yaratır % 25'te kalırsa enflasyon zam ve enflasyon bük ihtimalle artış. Ben Kübra Hanım birkaç aydır bunu söylüyorum, benim tahminlerim 2 250 Layla 22 000 bandında olacak. Şu anda asgari ücretin maliyeti 23 200 liralık bir maliyeti var, çalışanın cebine 17 000 lira giriyor ama işverenin cebinden 23 000 lira çıkıyor.
+
+================================================================================
+
+## Economic Segment 9
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 143
+**Retention**: 48.15%
+
+Lira para çıkıyor. İşçi Sendikaları toplantıda masadan ayrılacaktır. Hükümet yetkilileri ve işveren sendikalarının ortak kararıyla asgari ücret bu yıl açıklanacak. Hükümet, asgari ücretin %25 arttırılacağını belirtiyor. Asgari ücretin daha fazla artması, hükümetin işine gelir çünkü asgari ücret devlet açısından bir maliyet değildir; maliyetini özel sektör karşılar. Devlet, sigorta primleri ve vergi gelirleri üzerinden kazanç sağlar. Ancak, ekonominin rayına girmesi için asgari ücretin artmasını hükümet istemiyor. 
+
+Memura ve emeklilere %110 ile %115 arasında artış yapılacak. Asgari ücreti %25 arttırabilirler fakat maliyetini daha az artırıp aradaki rakamı çalışanın cebine maaş olarak verebilirler. Ayrıca, devlet katkı da koyabilir. Örneğin, asgari ücreti belirleyip maliyetini % artıracaklarını açıklayabilirler. İşverenlere maliyeti daha az olacak şekilde düzenlemeler yapılabilir. Yani, maaşları artırırken yükü hafifleterek %25'in üstüne çıkabilirler. 
+
+Muhalefeti ve sendikaları bu uyarılarda bulunuyorum; asgari ücreti oransal olarak artış yapın. Bu çözüm önerisi değil, asgari ücreti şu anda %30 artış yapsalar da...
+
+================================================================================
+

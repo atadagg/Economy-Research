@@ -1,0 +1,33 @@
+# Economic Content from: ATV20240629_atv Ana Haber ｜ 29 Haziran 2024.tr.txt
+# Processed: 2025-07-22T16:30:07.787027
+# Original: 4530 words → Filtered: 150 words (3.31% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 56
+**Retention**: 42.11%
+
+Sıfır araçların üzerine fiyat ekleyerek satma gibi art niyetli girişimlerin de önüne geçilmiş oldu. Şu anda sadece gerçekten ihtiyacı olan kişiler araç alıyorlar ve bu düzenleme piyasaya olumlu etki yarattı. İlan kısıtlaması, güncel satış fiyatının üzerinde bir fiyattan ikinci el araç satışının da önüne geçti. Bu durum, piyasalardaki fiyat dengesini koruma çabalarının bir parçası olarak değerlendirilebilir.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 94
+**Retention**: 100.00%
+
+000'i geçmeden ve 6 ayı
+dolmadan da satmak zorunda kaldınız yani acil bir durumdan dolayı eğer bu acil durumu Ticaret
+Bakanlığı'na ispat ederseniz İşte o zaman ticaret Bakanlığından aldığınız bir belge ile aracınızı
+satışa çıkarabilirsiniz bakanlıktan satmak için izin talep ediyor izinden sonra da sattığını gördük
+bazı sektör temsilcileri bu sınırın uzatılmasında memnun değil bugün vatandaş araç almış 2 ay ya da
+3 ay kullanmış ihtiyaç hasılı olmuş satması gerekiyor esnafa getiriyor değil mi satmak istiyor sattı
+bana aldım ama ben satamayacak 6 ay doldurmadığı için ki esnaf olduğum için bakanlık 6 ay 6
+
+================================================================================
+

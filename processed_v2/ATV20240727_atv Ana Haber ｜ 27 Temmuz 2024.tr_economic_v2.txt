@@ -1,0 +1,38 @@
+# Economic Content from: ATV20240727_atv Ana Haber ｜ 27 Temmuz 2024.tr.txt
+# Processed: 2025-07-22T16:06:44.531206
+# Original: 4368 words → Filtered: 219 words (5.01% retention)
+# Economic segments: 3
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 70
+**Retention**: 50.00%
+
+CHP'li belediyelerin SGK borçlarını rakamlarla da sıraladı. En fazla borcu olan ilk 5 belediye Cumhuriyet Halk Partili belediyeler toplam 96 milyar liralık borcun 65,5 milyar lirası yani % 68'i CHP'li Belediye ve iştiraklerine ait. Büyükşehirlerde durum çok daha kötü; % 76'sı belediyelere ait. Erdoğan sözlerini CHP SGK'ya borçlulukta zirveyi kimseye bırakmıyor diye sürdürdü. Çalışma Bakanlığımızın yayınladığı en borçlu belediyeler listesine göre, bu durum ekonomik açıdan önemli bir sorun teşkil ediyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 63
+**Retention**: 32.64%
+
+Hazine ve Maliye Bakanlığı, işletmelerde ibanla yapılan ödemeler için esnafı yakın takibe aldı. Usulsüzlük tespit edildiğinde ceza kesileceği açıklandı. Dolandırıcılar, iban yoluyla birine para gönderdiğiniz ve açıklama kısmını boş bıraktığınızı söyleyerek, Hazine ve Maliye Bakanlığı tarafından size bir ceza kesildiğini iddia ediyorlar. Bu durum, dolandırıcıların iştahını artıran bir durum haline geldi. Vergi dairesinden borcu ödeyeceğini söyleyen Mustafa Özer, dolandırıcının taleplerine karşı dikkatli olmalı.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 86
+**Retention**: 50.89%
+
+Bu yıl kayıt yenilemede özel üniversite sizden yaklaşık 165.000 lira ücret istemeli. TÜFE oranından daha fazla ödeme yapan veliler artık bu emsal kararla mahkemeye başvuru yapabilecek. Bu artışlar kanıtlanmadan alınan ücretin iadesine karar verebilecektir. Katlanarak artan üniversite fiyatlarından sonra öğrenciler yurt dışına yöneldi. Yurt dışında okumanın ilk şartı yabancı dil bilmek ve YKS'ye girmiş olmak. Bazı ülkeler öğrencilere burs olanakları da sunuyor. Örneğin Almanya, burs şartlarını lise ortalamasına göre belirliyor. İtalya ise burs vermek için aile gelir belgesi istiyor. Bu şartları karşılayan öğrenciler burs imkanlarından faydalanabiliyor.
+
+================================================================================
+

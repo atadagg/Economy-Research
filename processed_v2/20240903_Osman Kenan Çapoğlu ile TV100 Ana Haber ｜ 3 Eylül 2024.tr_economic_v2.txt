@@ -1,0 +1,137 @@
+# Economic Content from: 20240903_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 3 Eylül 2024.tr.txt
+# Processed: 2025-07-22T18:46:19.731942
+# Original: 12012 words → Filtered: 1147 words (9.55% retention)
+# Economic segments: 12
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 98
+**Retention**: 62.42%
+
+Geçtiğimiz ay Temmuz ayındaki tabloya baktığımızda enflasyon baz etkisiyle 12 aylık dilimden çıkınca özellikle haziran temmuz aylarında çok yüksek bir enflasyon vardı. Bu dönemde en az artan kalem ulaşım olurken, en fazla artış eğitimde yaşandı; eğitimde % 120'ye varan bir artış söz konusu. Uygulanan % 120'nin çok daha üzerinde olan kitap, yemek, kıyafet ve servis fiyatları dikkat çekiyor. Kira meselesi de önemli bir ekonomik konu; her ay yeniden belirleniyor. Eylül ayı kira artış oranı % 64 olarak açıklandı. Son 2 yıldır % 25 kira zam sınırı vardı ve ağustos ayı itibariyle artık her ay kira artış oranları açıklanıyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 93
+**Retention**: 47.69%
+
+Türkiye İstatistik Kurumu ağustos ayına ilişkin enflasyon oranlarını açıkladı. Türkiye İstatistik Kurumunun Ağustos sayı enflasyon verilerini açıklamasıyla kira artış oranı belli oldu; tavan zam oranı % 64,95 olarak belirlendi. Peki bu ne anlama geliyor? Eğer Eylül ayında bir artış söz konusuysa, bu ay itibariyle 10.000 TL kiranız varsa yeni kiranız 16.490 lira olacak. Ev sahibi, mülkü konut ve işyeri kiralarında uygulanabilecek tavan zam oranının altında kiraya verebilir. Kira zammının belli olmasının ardından hem ev sahibi hem de kiracılarda arayışa girdi. Türkiye İstatistik Kurumuna göre bu ayki bilançoyu yıllık bazda % 51 olarak belirtti.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 192
+**Retention**: 69.06%
+
+Hazine ve Maliye Bakanı Mehmet Şimşek, gıda enflasyonunun 4 yıl sonra ilk kez negatif olduğunu belirtti. Bu durum, orta vadeli program hedeflerine yaklaşıldığını gösteriyor. Ağustos ayında tüketici fiyat endeksi %2,47 olarak ölçüldü ve yıllık enflasyon %51,5 olarak kaydedildi. Türkiye İstatistik Kurumu verilerine göre, aylık enflasyonda geçtiğimiz ay görülen yukarı yönlü hareket tersine döndü. Yıllık enflasyonda ise bir kez daha %10'luk bir düşüş gözlendi. Ağustos ayının zam şampiyonu eğitim fiyatlarındaki aylık artış %111,34 oldu. %51'lik artışla eğitimi konut grubu izledi. Ağustos ayı enflasyon verileri ile birlikte konut ve işyeri kiralarında uygulanabilecek tavan zam oranı da netleşti; artış oranı %64,90 oldu. Hazine ve Maliye Bakanı Mehmet Şimşek, dezenflasyonun belirginleştiğini ifade etti. Aylık enflasyon Ağustos'ta %2,5, yönetilen ve yönlendirilen fiyatlar hariç ise %1,4 gerçekleşti. Aylık gıda enflasyonu 4 yıl sonra negatif oldu. Güçlenen finansal istikrar, ekonomideki dengelenme ve beklentilerin iyileşmesi ile son çeyrekte aylık enflasyonun ana eğiliminde düşüş bekliyoruz. Böylece yıl sonunda enflasyonun tahmin aralığına gerçekleşmesini öngörüyoruz. Memurlar ve emekliler, yıl sonu enflasyon farkını ve alacakları zam miktarını düşünüyorlar. Asgari ücret de bu konuyu göz önünde bulunduracak; yıllık enflasyon farkı kadar alacaklar. Temmuz ve Ağustos aylarına baktığımızda, bu iki aylık süreçte %5'lik bir artış gözlemleniyor.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 65
+**Retention**: 75.58%
+
+Enflasyon tahminlerine göre, bu 4 aylık periyodun sonunda Ocak 2025'te memur ve memur emeklisi ne kadar zam alacak? Ağustos ayı için enflasyon oranımız % 2,47 olarak belirlenmiş oldu. Daha önce Temmuz ayında bu oran % 3,23'tü, yani bir düşüş meydana geldi. Temmuz ve Ağustos ayının 2 aylık verisine göre enflasyon % 5 olarak hesaplandı. Bu veriler, memur ve emekli maaşlarının gelecekteki düzenlemeleri üzerinde etkili olabilir.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 133
+**Retention**: 67.86%
+
+Memur ve emeklisine Ocak ve Temmuz ayında olmak üzere yılda iki kere zam yapılıyor. 6 aylık sürecin 2 aylık rakamları netleşti ve bu rakamlarla % 5,78'lik zam oranı garanti altına alındı. Yıl sonu enflasyon beklentisine göre memur ve emeklinin enflasyon farkı ne kadar olacak, son 6 aylık dönemin diğer verilerine de bakılması gerekecek. Eylül, Ekim, Kasım ve Aralık ayının verileriyle birlikte toplam kümülatif bir toplam oluşacak. Bu oluşana göre Ocak ayında bütün zam oranları belirlenecek. Eğer böyle devam ettiğini düşünürsek, en az % 11,520 arası 6 aylık bir enflasyon öngörüyoruz. Bu da emekli aylıklarına ve memur maaşlarına aynı oranda bir zam demek oluyor. Memurlar sadece SSK ve Bağkur gibi % 115'lik zammı alacaklar, ancak rakam % 120'ye çıkarsa memurlar % 5'lik bir artış alacak. En düşük emekli maaşı 10,000 liradan 12,000 liraya yükselebilir.
+
+================================================================================
+
+## Economic Segment 6
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 50
+**Retention**: 75.76%
+
+Uzmanlar yıl sonu enflasyon verilerine göre maaşlarda artış yaşanabileceğini öngörüyor. Eğer enflasyon %10'un üzerinde kalır ise 2025 yılında bağlanacak emekli aylık oranları %25 oranında daha düşük bağlanacak. Bu bağlantıyı zaten bir yasa tasarısı sunarak düşürmek için enflasyonu endeksleme çalıştıklarından dolayı en az 15,000 L en fazla 17,000 L olarak belirlenebilir.
+
+================================================================================
+
+## Economic Segment 7
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 71
+**Retention**: 32.87%
+
+Türkiye'de yaklaşık 40 milyon kullanıcısı bulunan TikTok, dünyanın en büyük online satış yerlerinden biri haline geldi. Ancak burada da dürüst satıcılar olduğu kadar sahte dolandırıcılar da kol gezmeye başladı. Bu sorun gün geçtikçe artıyor çünkü bu tür hesaplar kontrol edilip kapatılsa da anında başka isimlerle yenileri açılıyor. Geniş kitlelere ulaşabilen dolandırıcılar, yüzlerce kişiyi hedef alarak milyonlarca liralık kazanç elde ediyorlar. Kullanıcılar, ucuz ürün alayım derken büyük bir mağduriyetle karşı karşıya kalıyor.
+
+================================================================================
+
+## Economic Segment 8
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 86
+**Retention**: 45.26%
+
+Sahte ürün satışı en çok özellikle elektronik eşya gibi popüler ve meblağları yüksek kategorilerde gerçekleşiyor. Dolandırıcılar daha çok elektronik eşyaları seçiyorlar çünkü bu ürünlerin meblağları yüksek. Yurt dışından geldiğini iddia ettikleri ürünlerle ilgili olarak, ellerinde çok fazla ürün olduğunu söylüyorlar. Bu tür dolandırıcılıklar, tüketicilerin ekonomik kayıplarına yol açıyor. Mağdurların ortalama başına 5,000 TL zararda olduğu belirtiliyor, bu da binlerce kullanıcıda büyük bir ekonomik etki yaratıyor. Ticari sicil kayıtlarının sorgulanması, dolandırıcılıklara karşı alınacak önlemler arasında yer alıyor ve bu durum, tüketicilerin güvenli alışveriş yapmalarını sağlamak için önemlidir.
+
+================================================================================
+
+## Economic Segment 9
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 137
+**Retention**: 71.73%
+
+Son zamanlarda yatırımcılar ofis ve iş yerlerine, yani dükkanlara yönelmiş durumda. Hem masrafı az hem de kira getirisi daha yüksek. Talep artınca rakamlarda yükseliş gözlemleniyor. Sektör temsilcileri, tapu dairelerinde yılın ilk 8 ayında yapılan satış işlem sayısının 2 milyona yaklaşmış olduğunu belirtiyor. Özellikle ofis ve dükkanda daha avantajlı fırsatlar dikkat çekiyor. Kiracı çıktığı zaman tadilat ve benzeri problemler iş yerlerinde neredeyse yaşanmıyor. Bu nedenle yatırımcının öncelikli ilgilerinden biri dükkan ve ofis olmaya başladı. Masrafı az ve kira artış engeli olmaması, ofis ve dükkanlara olan talebi artırdı. Vatan, arsa ve konut yerine işyeri tercih etmeye başladı. Gayrimenkul sektöründe olumlu bir rüzgar esmeye devam ediyor. Yılın ilk 8 ayında 2 milyona yakın tapu işlemi gerçekleşti ve alınan vergi 50 milyar TL'yi aştı. Özellikle Temmuz ayında gayrimenkul satışlarında önemli bir artış gözlemlenmişti ve bu durumun Ağustos ayına da yansıdığı söylenebilir.
+
+================================================================================
+
+## Economic Segment 10
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 54
+**Retention**: 100.00%
+
+000 oldu satış işlemlerinden elde edilen Tapu harç geliri ise 50 milyar lirayı geçti. Bunun önemli bir kısmını dükkan ve iş yerleri oluşturdu. Uzmanlar, en dikkat çekici satışların ofis ve dükkanlarda yaşandığını söyledi. Yatırım yapmak isteyen vatandaş, ev ya da arsa almak yerine iş yerlerine yöneldi. Ağustos ayında tüm gayrimenkul türlerinde yaklaşık olarak 280...
+
+================================================================================
+
+## Economic Segment 11
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 83
+**Retention**: 49.40%
+
+Başta İstanbul olmak üzere büyükşehirlerde konut fiyatları aldı başını gitti. Fakat o konutu aldıysanız bir getirisi olmalı ama kira getirisi konut fiyatına bakınca düşük oluyor. Birbirini amorti etme süresi, o ödediğiniz parayı amorte etme süresi oldukça uzun olabiliyor. Yatırımcı da hal böyleyken Körfez ülkelerine çevirdi sermayesini. Şimdilik en popüleri Dubai; bölgeye yatırım yapanlar kirasını dolarla alıyorlar. Üstelik bir vergi muafiyeti de var, haliyle Dubai yatırımcı için en cazip konum olmuş durumda. Kuzey Kıbrıs Türk Cumhuriyeti'nde de yeni yasayla birlikte ilgi odağının artması öngörülüyor.
+
+================================================================================
+
+## Economic Segment 12
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 85
+**Retention**: 68.00%
+
+Yatırımcı, 000 dolardan başlayan rakamlarla markalı bir binadan güzel bir yatırım yapabiliyor. Yatırım yapanlar, Dubai'den konut alıp dolarla kira geliri elde etmeyi tercih ediyor. Bu nedenle, döviz bazlı gelir elde ettikleri için mutlu oluyorlar. Ne Avrupa ne Amerika, yatırımcının son dönemde tercihi körfezdeki Dubai oldu. İstanbul'da tek göz oda dairelere milyonlar ödemek yerine, Dubai'de fırsat kovalayanlar kirada da artıya geçti. Üstelik sadece Dubai değil, Kıbrıs da revaçta. Örneğin, 300.000 dolarlık bir daire yatırımı yapıldığında, % dönüşte 24.000 dolar yıllık, aylık 2.000 dolar gibi kazanç sağlanabiliyor.
+
+================================================================================
+

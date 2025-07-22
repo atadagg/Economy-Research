@@ -1,0 +1,109 @@
+# Economic Content from: 20240617_Elif Tümen ile TV100 Ana Haber ｜ 17 Haziran 2024.tr.txt
+# Processed: 2025-07-22T18:05:43.947211
+# Original: 7131 words → Filtered: 791 words (11.09% retention)
+# Economic segments: 8
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 54
+**Retention**: 72.00%
+
+Cumhurbaşkanı Recep Tayyip Erdoğan, enflasyon için yılın ikinci yarısına işaret etti. Ayrıca, ekonomik veriler ve istatistikler üzerinde durarak, hükümetin ekonomik politikalarının önemine vurgu yaptı. Ekonomik istikrarı sağlamak için gerekli adımların atılacağını belirtti. Bu bağlamda, mali piyasalardaki gelişmeler ve yatırımların artırılması gerektiğini ifade etti. Erdoğan, ayrıca, fiyatlar ve enflasyon konularında alınacak önlemler hakkında bilgi verdi.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 130
+**Retention**: 63.73%
+
+Filistinli hayatını kaybetti memur ve emeklileri ekran başına alalım. 3 Temmuz'a az bir zaman kaldı, milyonlarca emeklinin gözü kulağı da bu tarihe çevrilmiş durumda. Haziran enflasyonunun açıklanmasıyla yılın ilk 6 ayına ilişkin enflasyon verileri belli olacak. Böylelikle de emekli ve memurların maaş zammı ortaya çıkmış olacak. Türkiye İstatistik Kurumu 5 aylık enflasyonu % 22.72 olarak açıkladı. Gözler 3 Temmuz'da açıklanacak Haziran ayı enflasyon rakamlarına çevrildi. Haziran enflasyonunun açıklanmasıyla yılın ilk ayına ilişkin enflasyon farkı belirlenecek ve emekli ile memurların maaş zammı da ortaya çıkacak. Ekonomist Muhammed Bayram, kök maaş ve en düşük emekli maaşı açısından bazı kafa karışıklıkları yaşandığını belirtti. Bayram, asıl prime esas ücret olduğuna dikkat çekti ve prime esas ücret üzerinden oransal zamlar yapıldığını anlattı. Sene sonunda % 25 zam yapılacaksa, bunun prime esas kazanç üzerinden yapılacağını aktardı.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 53
+**Retention**: 50.96%
+
+Ekonomist Bayram, en düşük emekli maaşının 15.000 liraya çıkması durumunda, üzerinin devlet tarafından tamamlanacağını aktardı. Eğer en düşük emekli maaşı 15.000 liraya çıkarsa, kök maaşınız 8.000 lira olacak ve maaşınız 10.000 liraya çıkacak, ancak devlet sizin maaşınızı 15.000 liraya tamamlayacak. Bayram, en düşük emekli maaşı için tahmininin %25 artışla 15.000 lira olacağını belirtti.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 128
+**Retention**: 58.72%
+
+Temmuz ayında Türkiye'de konut kiralarına getirilen % 25'lik zam sınırı sona erecek. Uzmanlar, kiracıların TÜFE oranında zam yaparak yasal yükümlülüklerini yerine getirebileceğini belirtti. 2022 yılından itibaren artan kira fiyatlarının önüne geçilemedi ve kiracı ile ev sahipleri arasındaki sorunlar büyüdü. Devlet, kira artış oranına % 25 sınırı getirdi ancak bu sınırda çare olmadı; dava dosyaları mahkemelerde doldu taştı. Hazine ve Maliye Bakanı Mehmet Şimşek, % 25 sınırının temmuzda yenilenmeyeceğini duyurdu. Uzmanlar, zam sınırı kalksa da ev sahiplerinin keyfi zam yapma hakkının olmayacağını vurguladı. Türkiye İstatistik Kurumu'nun açıkladığı tüketici fiyat endeksinin son 12 aylık ortalamasına göre zam yapabilecek oranında zam yapıldığında ev sahipleri farklı bir zam talep edemeyecek veya kiracıyı evden çıkaramayacak. Bu yıl evlenecek çiftleri büyük bir mali yük bekliyor çünkü fiyatlar geçen yıla göre iki kat artmış durumda.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 70
+**Retention**: 76.92%
+
+Fiyatlar bu yıl iki katına çıktı, evlenmenin maliyeti arttı. Çiftler yaz aylarındaki rezervasyonları çoktan doldurdu. Düğün sektörü bayram sonrası için yoğun bir organizasyon trafiğine hazırlanıyor. Bu yıl 250 kişilik bir düğün planlayanlar tüm masraflarla birlikte yaklaşık 455 lirayı gözden çıkarmak zorunda. Fiyatlar mekana, menünün içeriğine ve davetli sayısına göre değişiyor. Ancak ortalama 250 kişilik yemekli bir düğünün bedeli 200,000 liradan başlıyor. Yemeksiz düğünler ise 90,000 ile 100,000 lira arasında değişiyor.
+
+================================================================================
+
+## Economic Segment 6
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 194
+**Retention**: 100.00%
+
+000 L civarında artan maliyetler tercihleri de değiştiriyor çiftler bütçeden kısmak için
+ya konuk sayısını azaltıyor ya da yemekli düğün yerine kokteyl düğünü yapıyor sadece çiftlerin değil
+konukların da tercihleri değişti hediyelik altın artık bütçeye göre alınıyor gelin ve damada çeyrek
+değil gram altın takılıyor sektör temsilcileri ise bu yıl evlenmeyi planlayanlara bütçenizin %
+isinden fazlasını harcayacağınız bilin uyarısı yapıyor havalimanlarında güvenlik önlemleri artıyor
+uçağa binmenin kuralları değişiyor sivil havacılık alanında önemli düzenlemeler getiren yasa teklifi
+meclis Bayındırlık Ve Ulaştırma komisyonundan geçti kurban bayramından sonra da genel kurulun
+gündemine gelecek Detaylara Birlikte bakalım gerektiğinde elle arama yapılacak aranmayı reddeden
+uçağa binemeyecek havalimanlarında güvenlik önlemleri artırılacak havalan larındaki güvenlik
+uygulamaları ve denetimleri uluslararası sivil havacılık Anlaşması olan Chicago sözleşmesindeki
+şartlara göre yeniden düzenlendi yasa teklifi meclis Bayındırlık Ve Ulaştırma komisyonundan geçti
+düzenlemeye göre Havalimanı girişinde tüm yolcular ve eşyaları cihazla aranacak cihazla aramanın
+yetersiz kaldığı durumlarda elle arama yapılabilecek Aramayı kabul etmeyen yolcular İsa uçağa
+alınmayacak girişlerdeki aramayı artık özel güvenlik personelleri de yapabilecek görevliler polis
+gözetiminde yolcuların üstünü eşya bagaj Kargo ve mallarını teknik cihazlarla ve gerektiğinde elle
+kontrol edecek teklif uçakta işlenen suçlarda pilotun yetkili makamlara bilgi vermemesi durumlarında
+20 000 ladan 500
+
+================================================================================
+
+## Economic Segment 7
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 83
+**Retention**: 39.15%
+
+Türkiye esnaf ve sanatkarları Konfederasyonu Genel Başkanı Bendevi Palandöken, iş yerlerinde çırak, kalfa ve usta bulmada sıkıntı yaşandığını belirtti. Sanayiciler, kalifiye eleman eksikliği nedeniyle iş gücü bulmakta zorlandıklarını ifade ediyor. Beyaz yakalıların iş bulma olanakları, mavi yakalılara göre %75 daha azalmış durumda. Üniversite mezunu gençler, asgari ücretle bile çalışmaya razı oluyorlar. Palandöken, ailelere çocuklarını sanayiye yönlendirmeleri çağrısında bulundu. Çocukların küçük yaşlarda bir meslek grubuna yönlendirilmesinin, gelecekteki iş gücü için önemli olduğunu vurguladı. Bu durum, iş gücü piyasasında kalifiye eleman sıkıntısını daha da derinleştiriyor.
+
+================================================================================
+
+## Economic Segment 8
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 79
+**Retention**: 72.48%
+
+Ziraat Odası Başkanı, besicilerin yaşadığı sıkıntıların başında Çoban bulamama meselesinin geldiğini belirtti. Son yıllarda çobanların maaşı 50,000 liraya çıkmasına rağmen, bu durum çoban bulma sorununu çözmüyor. Besiciler, yüksek maliyetler ve giderler nedeniyle zor durumda kalıyor. Tarım ve hayvancılık üretiminin en önemli iki kalemi olan yem ve arpa fiyatlarındaki artış, üreticilerin maliyetlerini daha da artırıyor. Bu durum, tarım sektöründe sürdürülebilirliği tehdit eden bir faktör haline geliyor. Ekonomik veriler, besicilerin karşılaştığı bu zorlukların, genel tarım ve hayvancılık üretimini olumsuz etkilediğini gösteriyor.
+
+================================================================================
+

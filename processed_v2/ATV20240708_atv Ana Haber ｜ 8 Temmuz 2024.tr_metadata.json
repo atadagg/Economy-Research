@@ -1,0 +1,94 @@
+{
+  "file_path": "news/ATV/ATV20240708_atv Ana Haber ｜ 8 Temmuz 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T16:49:35.573112",
+  "original_word_count": 4730,
+  "filtered_word_count": 283,
+  "retention_ratio": 0.059830866807610995,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "haberin merkezinden Atv Haber merkezden İyi akşamlar",
+      "description": "\"haberin merkezinden Atv Haber merkezden İyi akşamlar\" - The opening of the broadcast where the presenter greets the audience and introduces the program.",
+      "end_pos": 68
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 68,
+      "start_sentence": "Geçen hafta asan da çok yoğun bir Diplomasi trafiği yürüten Cumhurbaşkanı Erdoğan yeni haftayı Başkent Ankara'da",
+      "description": "\"Geçen hafta asan da çok yoğun bir Diplomasi trafiği yürüten Cumhurbaşkanı Erdoğan yeni haftayı Başkent Ankara'da\" - The main content of the news broadcast, detailing various political events, diplomatic activities, and upcoming meetings involving President Erdoğan.",
+      "end_pos": 385
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 385,
+      "start_sentence": "washington'da gerçekleştirilecek zirvenin ilk gününde Erdoğan 75 yıldönümü anma programına katılacak",
+      "description": "\"washington'da gerçekleştirilecek zirvenin ilk gününde Erdoğan 75 yıldönümü anma programına katılacak\" - Continuation of the news segment, providing further details about the NATO summit and Erdoğan's participation in various events.",
+      "end_pos": 783
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 783,
+      "start_sentence": "A milli futbol takımına destek için gittiği Almanya'dan dönen Erdoğan yeni haftada Nato zirvesi için ABD yolcusu",
+      "description": "\"A milli futbol takımına destek için gittiği Almanya'dan dönen Erdoğan yeni haftada Nato zirvesi için ABD yolcusu\" - A brief transition that connects different news topics, specifically moving from Erdoğan's activities in Germany to his upcoming trip to the NATO summit in the USA.",
+      "end_pos": 1164
+    },
+    {
+      "type": "5. **TRANSITION**",
+      "start_pos": 1164,
+      "start_sentence": "Aynı günün akşamında liderler ve eşleri ABD Başkanı Joe biden'ın Beyaz Saray'da vereceği Akşam yemeğinde buluşacak",
+      "description": "\"Aynı günün akşamında liderler ve eşleri ABD Başkanı Joe biden'ın Beyaz Saray'da vereceği Akşam yemeğinde buluşacak\" - Another transition that shifts focus to a specific event during the NATO summit, highlighting a dinner hosted by President Biden.",
+      "end_pos": 1264
+    },
+    {
+      "type": "6. **NEWS**",
+      "start_pos": 1264,
+      "start_sentence": "sırf İsrail öyle istedi diye hamas'a ter örgütü olamayız",
+      "description": "\"sırf İsrail öyle istedi diye hamas'a ter örgütü olamayız\" - Further news content discussing the political stance and messages that Erdoğan plans to convey during the NATO summit.",
+      "end_pos": 1851
+    },
+    {
+      "type": "7. **OUTRO**",
+      "start_pos": 1851,
+      "start_sentence": "Nato'nun en sıcak başlıklarından biri de güvenlik olacak",
+      "description": "\"Nato'nun en sıcak başlıklarından biri de güvenlik olacak\" - The closing remarks that summarize the key topics of the NATO summit and conclude the news segment.",
+      "end_pos": 34198
+    }
+  ],
+  "news_segments_count": 12,
+  "economic_segments_count": 3,
+  "economic_segments": [
+    {
+      "segment_id": "1851_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 178,
+      "filtered_length": 112,
+      "retention_ratio": 0.6292134831460674,
+      "section_description": "\"Nato'nun en sıcak başlıklarından biri de güvenlik olacak\" - The closing remarks that summarize the key topics of the NATO summit and conclude the news segment."
+    },
+    {
+      "segment_id": "1851_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 141,
+      "filtered_length": 69,
+      "retention_ratio": 0.48936170212765956,
+      "section_description": "\"Nato'nun en sıcak başlıklarından biri de güvenlik olacak\" - The closing remarks that summarize the key topics of the NATO summit and conclude the news segment."
+    },
+    {
+      "segment_id": "1851_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 263,
+      "filtered_length": 102,
+      "retention_ratio": 0.38783269961977185,
+      "section_description": "\"Nato'nun en sıcak başlıklarından biri de güvenlik olacak\" - The closing remarks that summarize the key topics of the NATO summit and conclude the news segment."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

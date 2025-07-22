@@ -1,0 +1,77 @@
+# Economic Content from: 20240418_Show Ana Haber 18 Nisan 2024.tr.txt
+# Processed: 2025-07-22T17:14:57.549427
+# Original: 2888 words → Filtered: 472 words (16.34% retention)
+# Economic segments: 5
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 214
+**Retention**: 100.00%
+
+kendi gündemimizi oluşturacağız dedi Evet olacak randevu isteyeceğiz Tabii Kapımız açık ele
+alacağımız konu başlıklar mız çok ziyarete geldikleri anda oturur konuşuruz demişti
+cumhurbaşkanından gelen o açıklama sonrası Özgür Özel Erdoğan'la yapacağı zirveye hazırlanmaya
+başladı sayın Cumhurbaşkanı ile yapacağım Toplantının gündemini kendi adıma oluşturup Sayın
+cumhurbaşkanından randevu talep edeceğiz sandık zaferi sonrası CHP lideri özel randevu talebini
+dillendirmeye başlamamıştı kabine toplantısının ardından Erdoğan'dan gelen mesaj CHP'de gündemi
+değiştirdi Sayın Erdoğan da konuşacağımız konular var diye ifadede bulunmuş Benim de önemli
+gündemler olacak Erdoğan özel zirvesinin tarihi netleşmedi ama CHP Genel Başkanı teşkilatıyla
+yapacağı görüşmelerin sonrasına işaret etti o Görüşme için önce Parti içi kurullarla tüm temasları
+tamamlamam gerekiyor Hatta önceki dönem genel başkanlarımızın her birisinin de son aşamada
+fikirlerini önerilerini alarak gideceğim Erdoğan özel görüşmesi için Türkiye siyasetinde yeni dönem
+yorumları yapılırken Zirve sonrası gelecek açıklamalar da Şimdi merakla bekleniyor Efendim fahiş
+fiyatlar herkesin malumu marketlerde etiketlerin hızına yetişilemiyor stokçuluk ve kara borsacılık
+yapanların sayısı artıkça artı herkesi İsyan ettiren fiyat artışlarına karşı yeni düzenlemenin
+detayları da ortaya çıktı Annem korkunç korkunç Hele bizim için emekli için böyle fiyat olur mu ya
+herkes tutturabildiğim fiyatı koyuyor her gün etiket değişiyor marketlerde 15 küçük Pide bir gün
+sonra yapmış aynı Pide merci bulamad büyürken yeni düzenleme yolda fahiş fiyatlarla mücadele
+kapsamında ceza alt limiti 8
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 99
+**Retention**: 53.80%
+
+Kiralık fiyatları yüksek, çok yüksek. Şu dönemde 1 milyon 250 bin lira bence makul değil. İstanbul'un bazı Yalı ve rezidans dairelerinin kirası 1 200 bin lirayı buldu. En son yapmış olduğumuz kiralama 35 000 dolardı, bu da yaklaşık 1 200 bin liraya geliyor. Şu an ekonomiye göre çok pahalı. Türkiye standartlarına göre bu rakam oldukça fazla. O bölgenin lokasyonuna, büyüklüğüne, manzarasına ve potansiyel müşterisinin satın alma gücüne göre değişen bir durum. İstanbul'un bazı semtlerindeki kira fiyatları arasında adeta uçurum oluştu. Bahçeli evlerde 24 daireli komple bir bina 500 000 liradan alıcısını beklerken, Beşiktaş'taki bir rezidansın fiyatı 650 bin lira.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 66
+**Retention**: 34.55%
+
+Bahçeli evleri daha mantıklı geliyor. Yüksek ihtimalle biraz konum etkiliyor. Çünkü meseleyi normal çalışarak kazanılacak bir parayla 600,000 liralık ev tabii ki kimse oturamaz. Yabancılara her halükarda ucuz geliyor. Türklerin de bir kesimine kendi yaptıkları iş ve elde ettikleri gelir itibarıyla yine ucuz geliyor. Antalya'da bir tır şoförü, bindiği otobüste 100,000 lirasını koyduğu poşeti unutmuştu. Bu durum, bireylerin ekonomik durumlarını ve paranın değerini nasıl algıladıklarını gösteriyor.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 34
+**Retention**: 49.28%
+
+Yani kesme altın alan 100 gram da 2 000 L karda 10 000 TM var diyor. Müşterim de şöyle bir şey ayırdım, kesiyorum, parasına göre bütçesine göre yatırımını yapıyor. Bu 500 liraya da alınabilir.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 59
+**Retention**: 40.97%
+
+Uzmanlara göre altın yazın daha da değerlenecek. O yüzden özellikle altın borcu olanlar ya da düğün hazırlığında olanlar için altına yatırım yapmak daha karlı görünüyor. Dışarıda yeme içmenin maliyeti artınca bazı vatandaşlar sosyal medyadan boykot çağrısı yaptı. İşletmecilerin gerekçesi ise maliyetler. Kafe ve restoranlardaki fiyat artışı nedeniyle sosyal medyada birçok vatandaş boykota başladı. Bir aşçının maliyeti aşağı yukarı 50.
+
+================================================================================
+

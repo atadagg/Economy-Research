@@ -1,0 +1,29 @@
+# Economic Content from: ATV20240513_atv Ana Haber ｜ 13 Mayıs 2024.tr.txt
+# Processed: 2025-07-22T16:49:02.730448
+# Original: 4583 words → Filtered: 218 words (4.76% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 91
+**Retention**: 45.27%
+
+İşletmeler, iban üzerinden ödeme talep eden yöntemlerle ağır cezalarla karşı karşıya kalacaklar. Tüm hesaplar inceleniyor; sadece işletmeler değil, onlara iban kiralayan ya da sadece ödeme yapan müşteriler de kapsamda. Alışverişlerde iban kullanarak vergiden kaçanlara büyük cezalar yolda; hem KDV hem gelir vergisi hem de geçici vergi derken inanılmaz rakamlara çıkabiliyor. İbanı kiralayanlar da mercek altında; ibanı kullandıran kişinin bunu komisyon karşılığı yaptığı varsayılarak vergi ve ceza istenebilir. Eğer banka hesabımızı başkası adına kandırıyorsa, B bildirim yapmamız gerekiyor. Bu konuda bankayı bilgilendirmezsek, 6 aydan bir yıla kadar hapis cezası söz konusu olabilir.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 127
+**Retention**: 67.20%
+
+The filtered text focusing on economics, finance, and business is as follows:
+
+Banka yaptırımları devreye giriyor; o banka bir daha sizle çalışmayabilir. Hatta birçok banka sizle çalışmayabilir çünkü artık bir kara listeye de girmiş oluyorsunuz. Bu cezalar yalnızca ibanın kiralayan kişiye veya o ibanı kiralayan işletmeye değil, aynı ibana ödeme yapan müşteriye de verilebilir. Çünkü eğer müşterinin para gönderdiği iban yasa dışı işlerde kullanıldıysa, müşteri de o soruşturma kapsamına giriyor. En azından tedbiren banka hesaplarınız bloke olabilir. Pek çok işletmeci, post cihazlarının bozuk olduğunu veya çalışmadığını söyleyerek müşterilerden iban üzerinden ödeme yapmasını istiyor. Ancak bu da kanun dışı. 5464 sayılı bir kanun var; bu kanun diyor ki firmalar, "İlla da siz iban'a göndereceksiniz" gibi bir zorlama yapamazlar. Tüketici müşteri onu şikayet ettiğinde, işletme o bankayla ilişkisini sonlandırılabilir.
+
+================================================================================
+

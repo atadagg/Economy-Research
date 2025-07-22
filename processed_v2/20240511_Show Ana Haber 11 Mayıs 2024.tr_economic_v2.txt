@@ -1,0 +1,31 @@
+# Economic Content from: 20240511_Show Ana Haber 11 Mayıs 2024.tr.txt
+# Processed: 2025-07-22T17:27:52.519745
+# Original: 3478 words → Filtered: 175 words (5.03% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 53
+**Retention**: 30.81%
+
+Zor durumdaki iş adamlarını ağlarına düşürüyor % 4 000 faizle para satıyor, ödeyemeyenlerin de malına çöküyorlardı. O çete eş zamanlı operasyonlarla çökertildi. İş insanlarına % 4 faizle para sunulması, ekonomik zorluklar içinde olan şirketlerin finansal durumunu daha da kötüleştiriyor. Bu tür uygulamalar, piyasalarda güven kaybına yol açabilir ve genel ekonomik istikrarı tehdit edebilir.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 122
+**Retention**: 43.26%
+
+Yurt genelinde iflasın eşiğine gelen iş insanları, tefeci çetenin ağına düşüyor ve astronomik faizde para almak zorunda kalıyorlardı. Ancak bu para, iş insanlarını daha da dibe çekiyordu çünkü çoğu %4,000 faizi ödeyemiyor ve zorbalığa maruz kalıyordu. Çete üyeleri, parayı alamadıkları iş insanlarının fabrikalarına çöküyor. Hatta bazıları borcunu ödediği halde senetlerini geri vermiyordu. 
+
+Ekipler, uzun süredir çeteyi takipteydi ve Bursa merkezli operasyonla 43 adrese eş zamanlı baskınlar düzenlendi. 33 kişi gözaltına alındı. Çete üyelerine silah sağladıkları iddia edilen 5 kişi de İstanbul'da yakalanıp tutuklandı. Bu durum, Türkiye'deki kredi ve borçlanma sisteminin ne kadar kırılgan olduğunu bir kez daha gözler önüne seriyor. 
+
+Ayrıca, bu tür tefecilik faaliyetlerinin, iş dünyasında ciddi bir güven bunalımına yol açabileceği ve ekonomik istikrarı tehdit edebileceği konusunda uzmanlar uyarılarda bulunuyor.
+
+================================================================================
+

@@ -1,0 +1,84 @@
+{
+  "file_path": "news/ATV/ATV20241111_atv Ana Haber ｜ 11 Kasım 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T16:09:05.622051",
+  "original_word_count": 4630,
+  "filtered_word_count": 464,
+  "retention_ratio": 0.1002159827213823,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "haberi merkezinden atf",
+      "description": "\"haberi merkezinden atf\" - The program begins with a greeting and introduction from the presenter, setting the stage for the news broadcast.",
+      "end_pos": 74
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 74,
+      "start_sentence": "Cumhurbaşkanı Erdoğan yeni haftaya hızlı başladı",
+      "description": "\"Cumhurbaşkanı Erdoğan yeni haftaya hızlı başladı\" - This section contains the main news content, detailing President Erdoğan's activities, statements regarding Israel, and the ongoing political situation. It includes multiple news stories related to international relations and domestic politics.",
+      "end_pos": 1950
+    },
+    {
+      "type": "3. **OUTRO**",
+      "start_pos": 1950,
+      "start_sentence": "Erdoğan konuşmasında CHP'yi den Parti ile işbirliği üzerin",
+      "description": "\"Erdoğan konuşmasında CHP'yi den Parti ile işbirliği üzerin\" - The program concludes with remarks that summarize the key points discussed, providing a closing to the news segment.",
+      "end_pos": 33147
+    }
+  ],
+  "news_segments_count": 14,
+  "economic_segments_count": 5,
+  "economic_segments": [
+    {
+      "segment_id": "1950_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 180,
+      "filtered_length": 128,
+      "retention_ratio": 0.7111111111111111,
+      "section_description": "\"Erdoğan konuşmasında CHP'yi den Parti ile işbirliği üzerin\" - The program concludes with remarks that summarize the key points discussed, providing a closing to the news segment."
+    },
+    {
+      "segment_id": "1950_5",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 158,
+      "filtered_length": 64,
+      "retention_ratio": 0.4050632911392405,
+      "section_description": "\"Erdoğan konuşmasında CHP'yi den Parti ile işbirliği üzerin\" - The program concludes with remarks that summarize the key points discussed, providing a closing to the news segment."
+    },
+    {
+      "segment_id": "1950_6",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 142,
+      "filtered_length": 67,
+      "retention_ratio": 0.47183098591549294,
+      "section_description": "\"Erdoğan konuşmasında CHP'yi den Parti ile işbirliği üzerin\" - The program concludes with remarks that summarize the key points discussed, providing a closing to the news segment."
+    },
+    {
+      "segment_id": "1950_7",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 192,
+      "filtered_length": 100,
+      "retention_ratio": 0.5208333333333334,
+      "section_description": "\"Erdoğan konuşmasında CHP'yi den Parti ile işbirliği üzerin\" - The program concludes with remarks that summarize the key points discussed, providing a closing to the news segment."
+    },
+    {
+      "segment_id": "1950_11",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 215,
+      "filtered_length": 105,
+      "retention_ratio": 0.4883720930232558,
+      "section_description": "\"Erdoğan konuşmasında CHP'yi den Parti ile işbirliği üzerin\" - The program concludes with remarks that summarize the key points discussed, providing a closing to the news segment."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

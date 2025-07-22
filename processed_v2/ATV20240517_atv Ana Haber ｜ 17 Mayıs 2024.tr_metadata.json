@@ -1,0 +1,75 @@
+{
+  "file_path": "news/ATV/ATV20240517_atv Ana Haber ｜ 17 Mayıs 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T16:13:32.586747",
+  "original_word_count": 4733,
+  "filtered_word_count": 362,
+  "retention_ratio": 0.07648425945489119,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 23,
+      "start_sentence": "İyi akşamlar Bugün 17 Mayıs 2024 Cuma",
+      "description": "\"İyi akşamlar Bugün 17 Mayıs 2024 Cuma\" - The opening of the broadcast where the presenter greets the audience and introduces the date and context of the program.",
+      "end_pos": 75
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 75,
+      "start_sentence": "Cumhurbaşkanı Erdoğan İstanbul'da Tarım zirvesinde Çiftçilere Müjde üstüne Müjde verdi",
+      "description": "\"Cumhurbaşkanı Erdoğan İstanbul'da Tarım zirvesinde Çiftçilere Müjde üstüne Müjde verdi\" - The main news content discussing President Erdoğan's announcements regarding agricultural support and credit limits for farmers.",
+      "end_pos": 959
+    },
+    {
+      "type": "3. **OUTRO**",
+      "start_pos": 959,
+      "start_sentence": "Tarımın anavatanı olan Anadolu'da yeni bir tarım ve kırsal kalkınma süreci başlatıyoruz",
+      "description": "\"Tarımın anavatanı olan Anadolu'da yeni bir tarım ve kırsal kalkınma süreci başlatıyoruz\" - The closing remarks summarizing the importance of agriculture and the new initiatives being launched, leading to the end of the program.",
+      "end_pos": 33710
+    }
+  ],
+  "news_segments_count": 8,
+  "economic_segments_count": 4,
+  "economic_segments": [
+    {
+      "segment_id": "75_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 118,
+      "filtered_length": 115,
+      "retention_ratio": 0.9745762711864406,
+      "section_description": "\"Cumhurbaşkanı Erdoğan İstanbul'da Tarım zirvesinde Çiftçilere Müjde üstüne Müjde verdi\" - The main news content discussing President Erdoğan's announcements regarding agricultural support and credit limits for farmers."
+    },
+    {
+      "segment_id": "959_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 90,
+      "filtered_length": 90,
+      "retention_ratio": 1.0,
+      "section_description": "\"Tarımın anavatanı olan Anadolu'da yeni bir tarım ve kırsal kalkınma süreci başlatıyoruz\" - The closing remarks summarizing the importance of agriculture and the new initiatives being launched, leading to the end of the program."
+    },
+    {
+      "segment_id": "959_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 249,
+      "filtered_length": 107,
+      "retention_ratio": 0.42971887550200805,
+      "section_description": "\"Tarımın anavatanı olan Anadolu'da yeni bir tarım ve kırsal kalkınma süreci başlatıyoruz\" - The closing remarks summarizing the importance of agriculture and the new initiatives being launched, leading to the end of the program."
+    },
+    {
+      "segment_id": "959_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 75,
+      "filtered_length": 50,
+      "retention_ratio": 0.6666666666666666,
+      "section_description": "\"Tarımın anavatanı olan Anadolu'da yeni bir tarım ve kırsal kalkınma süreci başlatıyoruz\" - The closing remarks summarizing the importance of agriculture and the new initiatives being launched, leading to the end of the program."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

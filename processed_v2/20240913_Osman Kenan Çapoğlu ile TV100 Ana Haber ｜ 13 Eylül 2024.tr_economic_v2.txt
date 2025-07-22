@@ -1,0 +1,58 @@
+# Economic Content from: 20240913_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 13 Eylül 2024.tr.txt
+# Processed: 2025-07-22T18:30:25.309699
+# Original: 11001 words → Filtered: 260 words (2.36% retention)
+# Economic segments: 4
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 70
+**Retention**: 100.00%
+
+aktarmayı sürdürüyoruz haftanın son iş gününde Narin cinayetine ilişkin önemli bilgiler belgeler söz
+konusu Diyarbakır'da artık bu 25 günlük süte çok sıcak dakikalar yaşanıyor yeni gözaltılar var amca
+ifade için tekrar adliyeye gönderildi tutuklu amcanın yeniden ifadesi alınacak amcanın telefondan
+sildiği mesajların geri getirildiği bilgisi de var sadece mesajlar değil Telefon içerisinde
+uygulamada kayıtlı olan ne varsa onların geri döndüğü bilgisi var O belki de hemen her şeyi bu gece
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 53
+**Retention**: 100.00%
+
+çözümleyin tamamen ele geçirildiği takdirde anladığımız bu neler yaşanıyor Diyarbakır'da Canan'a
+gidelim Canan Altıntaş bizi bekliyor çok önemli gelişmeler var Belki de bugün bu nihai sonuca
+varılacak Cinayeti kimin işlediği ya da kimlerin işlediği nasıl öldürüldüğü neden öldürüldüğü
+narinin ortaya çıkacak ve sonrasında suçlular O gereken cezayı alacaklar bizim de en azından biraz
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 79
+**Retention**: 56.83%
+
+Emlakta yeni bir dönem başlıyor; alım satımda kayıt dışılığı önlemek için doğrulanmış ilan düzenlemesi artık devreye girecek. Bundan böyle, emlakçılar ilan veremeyecek ve herkes kendine emlakçı diyemeyecek. Şu ana kadar 70,000 emlakçı bu yetkiyi almış durumda ve yıl sonuna kadar bu rakamın 90,000'e ulaşması bekleniyor. Bu düzenleme, emlak sektöründe daha şeffaf bir ticaret ortamı yaratmayı hedefliyor. 
+
+Ayrıca, su tasarrufu sağlayan aparatların kullanımı sayesinde abonelerin %40'a varan tasarruf sağlaması bekleniyor. Bu durum, yüksek su faturaları karşısında vatandaşların ekonomik yükünü hafifletebilir.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 58
+**Retention**: 49.15%
+
+Emlakçılar hazırlıklarını tamamladı, kayıt dışılığı önlemek amacıyla ilan platformlarında uygulanacak düzenleme 15 Eylül'de başlıyor. Emlak portalları altyapısını hazırladı ve uygulama yılbaşından itibaren zorunlu hale gelecek. Emlak portalları uzun zamandır bu konuya biraz direniyorlar, ancak artık uymak zorundalar. Dolayısıyla Bakanlığın bu konuda çok ciddi yaptırımları var. Şu an 70 binler düzeyinde Ticaret Bakanlığı'ndan yetki belgesi almış emlak ofisleri bulunuyor.
+
+================================================================================
+

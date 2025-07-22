@@ -1,0 +1,18 @@
+# Economic Content from: ATV20240506_atv Ana Haber ｜ 6 Mayıs 2024.tr.txt
+# Processed: 2025-07-22T16:39:10.669522
+# Original: 4654 words → Filtered: 97 words (2.08% retention)
+# Economic segments: 1
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 97
+**Retention**: 30.50%
+
+Ekonomi başlığı altında enflasyonla mücadele ve fahiş fiyatlarla mücadele önemli başlıklardan ikisi. Bununla ilgili olarak, geçtiğimiz haftanın son gününde AK Parti meclis grubu, Türkiye Büyük Millet Meclisi'ne fırsatçılara ve enflasyonla mücadele kapsamında fahiş fiyat uygulayanlara yönelik olarak verilen cezaların kat be kat artırılmasına yönelik bir kanun teklifi vermişti. Enflasyonla mücadele ile ilgili gelinen nokta ve atılacak olası adımlar gündemin önemli başlıklarından biri. 
+
+Bir diğer konu da İsrail'e uygulanan ticaret yasağı. İhracat ve ithalat tüm ticaret durdurulmuştu ve bunun Türkiye ekonomisine yansımaları masaya yatırılıyor.  Geçen haftadan itibaren İsrail'le ihracat ve ithalat işlemlerini tüm ürünleri ihtiva edecek şekilde durdurduk.
+
+================================================================================
+

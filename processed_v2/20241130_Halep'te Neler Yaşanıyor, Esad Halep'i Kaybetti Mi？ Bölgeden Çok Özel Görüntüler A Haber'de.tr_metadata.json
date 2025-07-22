@@ -1,0 +1,71 @@
+{
+  "file_path": "news/AHaber/20241130_Halep'te Neler Yaşanıyor, Esad Halep'i Kaybetti Mi？ Bölgeden Çok Özel Görüntüler A Haber'de.tr.txt",
+  "processing_timestamp": "2025-07-22T15:44:28.478692",
+  "original_word_count": 14510,
+  "filtered_word_count": 235,
+  "retention_ratio": 0.016195727084769126,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "haber ekranlarından İyi geceler efendim...",
+      "description": "\"haber ekranlarından İyi geceler efendim...\" - The presenter introduces the program, greeting the audience and setting the stage for the news broadcast.",
+      "end_pos": 296
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 296,
+      "start_sentence": "Çünkü çarşamba günü Suriyeli muhaliflerin...",
+      "description": "\"Çünkü çarşamba günü Suriyeli muhaliflerin...\" - The main news content begins, focusing on the developments in Syria, particularly the advances of opposition groups in Aleppo.",
+      "end_pos": 589
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 589,
+      "start_sentence": "Ama önce sıcak noktaya gidelim...",
+      "description": "\"Ama önce sıcak noktaya gidelim...\" - A transition occurs as the presenter shifts from the studio discussion to a live report from the field, indicating a change in focus to on-the-ground updates.",
+      "end_pos": 788
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 788,
+      "start_sentence": "Teşekkürler Tahir İnan...",
+      "description": "\"Teşekkürler Tahir İnan...\" - The field reporter provides detailed updates on the situation in Aleppo, continuing the news segment with specific information about the control of various locations by opposition forces.",
+      "end_pos": 1781
+    },
+    {
+      "type": "5. **OUTRO**",
+      "start_pos": 1781,
+      "start_sentence": "Bu sebeple de sokağa çıkma yasağı ilan edildi...",
+      "description": "\"Bu sebeple de sokağa çıkma yasağı ilan edildi...\" - The closing remarks summarize the situation and may lead towards concluding the broadcast, although the exact closing is not provided in the excerpt.",
+      "end_pos": 98851
+    }
+  ],
+  "news_segments_count": 7,
+  "economic_segments_count": 2,
+  "economic_segments": [
+    {
+      "segment_id": "788_0",
+      "method": "pattern_validated",
+      "confidence": 0.75,
+      "original_length": 56,
+      "filtered_length": 56,
+      "retention_ratio": 1.0,
+      "section_description": "\"Teşekkürler Tahir İnan...\" - The field reporter provides detailed updates on the situation in Aleppo, continuing the news segment with specific information about the control of various locations by opposition forces."
+    },
+    {
+      "segment_id": "1781_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 179,
+      "filtered_length": 179,
+      "retention_ratio": 1.0,
+      "section_description": "\"Bu sebeple de sokağa çıkma yasağı ilan edildi...\" - The closing remarks summarize the situation and may lead towards concluding the broadcast, although the exact closing is not provided in the excerpt."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

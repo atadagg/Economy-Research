@@ -1,0 +1,120 @@
+{
+  "file_path": "news/ATV/ATV20240726_atv Ana Haber ｜ 26 Temmuz 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T16:45:42.439070",
+  "original_word_count": 4982,
+  "filtered_word_count": 946,
+  "retention_ratio": 0.18988358089120835,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 23,
+      "start_sentence": "İyi akşamlar Bugün 26 temmuz 2024 Cuma...",
+      "description": "\"İyi akşamlar Bugün 26 temmuz 2024 Cuma...\" - The opening of the broadcast where the presenter greets the audience and introduces the date and context of the news.",
+      "end_pos": 75
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 75,
+      "start_sentence": "mesele Yine önceki gün tarihe kara leke olarak düşen o utanç tablosu yani İsrail başbakanı netanyahu'nun Amerikan Kongresi'nde alkış yağmuruna tutulması...",
+      "description": "\"mesele Yine önceki gün tarihe kara leke olarak düşen o utanç tablosu yani İsrail başbakanı netanyahu'nun Amerikan Kongresi'nde alkış yağmuruna tutulması...\" - The main news content discussing various topics, including President Erdoğan's comments on Netanyahu and the Turkish economy.",
+      "end_pos": 1851
+    },
+    {
+      "type": "3. **OUTRO**",
+      "start_pos": 1851,
+      "start_sentence": "Ülkemizin teknoloji geliştirme kabiliyetinin nişanelerinden olan Tok artık yoll...",
+      "description": "\"Ülkemizin teknoloji geliştirme kabiliyetinin nişanelerinden olan Tok artık yoll...\" - The closing remarks of the program, summarizing the news and providing final thoughts before ending the broadcast.",
+      "end_pos": 35566
+    }
+  ],
+  "news_segments_count": 17,
+  "economic_segments_count": 9,
+  "economic_segments": [
+    {
+      "segment_id": "75_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 238,
+      "filtered_length": 143,
+      "retention_ratio": 0.6008403361344538,
+      "section_description": "\"mesele Yine önceki gün tarihe kara leke olarak düşen o utanç tablosu yani İsrail başbakanı netanyahu'nun Amerikan Kongresi'nde alkış yağmuruna tutulması...\" - The main news content discussing various topics, including President Erdoğan's comments on Netanyahu and the Turkish economy."
+    },
+    {
+      "segment_id": "1851_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 173,
+      "filtered_length": 82,
+      "retention_ratio": 0.47398843930635837,
+      "section_description": "\"Ülkemizin teknoloji geliştirme kabiliyetinin nişanelerinden olan Tok artık yoll...\" - The closing remarks of the program, summarizing the news and providing final thoughts before ending the broadcast."
+    },
+    {
+      "segment_id": "1851_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 130,
+      "filtered_length": 85,
+      "retention_ratio": 0.6538461538461539,
+      "section_description": "\"Ülkemizin teknoloji geliştirme kabiliyetinin nişanelerinden olan Tok artık yoll...\" - The closing remarks of the program, summarizing the news and providing final thoughts before ending the broadcast."
+    },
+    {
+      "segment_id": "1851_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 123,
+      "filtered_length": 119,
+      "retention_ratio": 0.967479674796748,
+      "section_description": "\"Ülkemizin teknoloji geliştirme kabiliyetinin nişanelerinden olan Tok artık yoll...\" - The closing remarks of the program, summarizing the news and providing final thoughts before ending the broadcast."
+    },
+    {
+      "segment_id": "1851_5",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 191,
+      "filtered_length": 102,
+      "retention_ratio": 0.5340314136125655,
+      "section_description": "\"Ülkemizin teknoloji geliştirme kabiliyetinin nişanelerinden olan Tok artık yoll...\" - The closing remarks of the program, summarizing the news and providing final thoughts before ending the broadcast."
+    },
+    {
+      "segment_id": "1851_6",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 160,
+      "filtered_length": 73,
+      "retention_ratio": 0.45625,
+      "section_description": "\"Ülkemizin teknoloji geliştirme kabiliyetinin nişanelerinden olan Tok artık yoll...\" - The closing remarks of the program, summarizing the news and providing final thoughts before ending the broadcast."
+    },
+    {
+      "segment_id": "1851_8",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 64,
+      "filtered_length": 64,
+      "retention_ratio": 1.0,
+      "section_description": "\"Ülkemizin teknoloji geliştirme kabiliyetinin nişanelerinden olan Tok artık yoll...\" - The closing remarks of the program, summarizing the news and providing final thoughts before ending the broadcast."
+    },
+    {
+      "segment_id": "1851_9",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 199,
+      "filtered_length": 63,
+      "retention_ratio": 0.3165829145728643,
+      "section_description": "\"Ülkemizin teknoloji geliştirme kabiliyetinin nişanelerinden olan Tok artık yoll...\" - The closing remarks of the program, summarizing the news and providing final thoughts before ending the broadcast."
+    },
+    {
+      "segment_id": "1851_11",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 215,
+      "filtered_length": 215,
+      "retention_ratio": 1.0,
+      "section_description": "\"Ülkemizin teknoloji geliştirme kabiliyetinin nişanelerinden olan Tok artık yoll...\" - The closing remarks of the program, summarizing the news and providing final thoughts before ending the broadcast."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

@@ -1,0 +1,60 @@
+# Economic Content from: ATV20240702_atv Ana Haber ｜ 2 Temmuz 2024.tr.txt
+# Processed: 2025-07-22T16:46:32.791590
+# Original: 5062 words → Filtered: 371 words (7.33% retention)
+# Economic segments: 5
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 49
+**Retention**: 72.06%
+
+Milyonlarca memur, memur emeklisi ve SSK Bağkur emeklisi, kabine toplantısının ekonomi başlığı altındaki bölümüne özellikle kilitlenmiş durumdalar. Neden? Çünkü yarın Türkiye İstatistik Kurumu Haziran ayı enflasyonunu açıklayacak. Böylece 6 aylık enflasyon belli olacağı için SSK ve Bağkur emeklileri ile memur ve memur emeklilerinin zam oranları da belli olmuş olacak.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 64
+**Retention**: 82.05%
+
+L en düşük emekli aylığı 8,000 TL ve altında olanlar maalesef %25 zam alsa bile o zamı hissetmeyecek. Beklenti, kök maaşlara bir artış yapılacağı için en düşük emekli aylıklarının en az %25 oranında artırılması yönünde. Bu durumda, en düşük emekli aylıkları 12,500 TL civarında ve belki daha da üzerine getirilecektir. Kök aylıklara ne kadar zam yapılırsa yapılsın, en az 12,500 TL seviyesine ulaşılması hedeflenmektedir.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 141
+**Retention**: 85.45%
+
+12,581 lira olarak güncellenecek en düşük emekli maaşı, 15,000 lira alan bir emeklinin maaşı 18,871 lira olacak. 20,000 lira maaş alan bir emeklinin hesabına ise Temmuz ayında 25,012 lira yatacak. 25,000 lira alan bir emeklinin maaşı da 31,421 liraya çıkacak. Memur ve memur emeklisi, 5 aylık enflasyon farkı ve %10'luk toplu sözleşme zammıyla %17,30 zamı cebine koymuştu. Haziran ayı enflasyonu, onların da zam oranlarını değiştirecek. Tahminler tutarsa, 6 aylık enflasyon farkıyla birlikte memur ve memur emeklileri 0,35 zamı hak etmiş olacak. Temmuz enflasyonu ile beraber memurlara 0,35 zam yapılırsa, en düşük memur maaşı 3,954 liraya yükselecek. 0,35 zammı hemşire maaşı 4,855, öğretmen maaşı 4,776 liraya, polis maaşları ise 5,335 liraya yükselecek. Kamuda çalışan mühendislerin maaşları da 61,220 liraya çıkacak. 2024 yılı Ocak-Haziran maaşı 34,235 liradan zam sonrası tahmini maaşı 41,200 liraya yükselecek. En düşük memur emeklisi aylığı da 14,741 liradan 1.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 50
+**Retention**: 42.02%
+
+Bodrum'da otel fiyatları günlük olarak 5.000 TL ile 12.000 TL arasında değişiyor. Türk binde 80.000 liraya kadar oteller de mevcut. Bu fiyatlar, Bodrum'un imajı üzerinde etkili oluyor ve bölgeye gelen turistlerin harcama alışkanlıklarını şekillendiriyor. Ekonomik veriler, turizm sektörünün Bodrum'daki gelişimini ve fiyat dengesini etkileyen önemli bir faktör olarak öne çıkıyor.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 67
+**Retention**: 59.82%
+
+Türk misafirlerimizin çoğu son dakika rezervasyon yapıyor, bu da fiyatlarda değişiklik gösterebiliyor. Aslında iyi bir tatil planlaması için kesinlikle kıştan planlanma yapılması lazım; kışın 50'lere varan indirimler oluyor. Bu kampanyalar gerçekten cazip ve tatil planlaması yapanlar için önemli bir fırsat sunuyor. Otel fiyatları ve yem içme fiyatları değişiklik gösteriyor. Misafirlerimize sunduğumuz fiyatlar 685 lira kişi başı olarak belirlenmiş durumda. Ayrıca, 100.000 liraya kadar gecelik yerler de mevcut.
+
+================================================================================
+

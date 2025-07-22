@@ -1,0 +1,38 @@
+# Economic Content from: 20240910_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 10 Eylül 2024.tr.txt
+# Processed: 2025-07-22T18:46:28.642936
+# Original: 11315 words → Filtered: 157 words (1.39% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 88
+**Retention**: 60.69%
+
+aktaracağız paylaşacağız Gündem hala Narin Çünkü geriye cevapsız birçok soru Kaldı 8 yaşındaki Narin
+mezarda ama Geride kalan söylediğim gibi birçok soru işareti var neden öldürüldü Kim öldürdü ya da
+kimler öldürdü gerekçe neydi nasıl öldürüldü en yakınları şimdi sorguda aile üyelerinin gözaltı
+süresi Bugün bir gün daha uzatıldı cinayetle ilgili sır perdesini Aslında dün itirafçı aralamış tı
+tabii ama o itirafçının söyledikleri ne kadar gerçeği yansıtıyor itirafçı doğru mu söylüyor Bu da
+başka bir soru işareti göz altında çözüldü şüpheli narini amcanın talimatıyla dereye gömdüğünü
+söyledi 200
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 69
+**Retention**: 100.00%
+
+000 Yıl Geçse
+de tespit edemez dedi mahkeme duruşmanın çarşamba günü devam etmesine karar verdi Bundan tam bir yıl
+önceydi 8 Eylül 2023'te yurt dışına kaçmaya çora havalimanında gözaltına alındı iddianame Hazırlandı
+yargılama başladı 61 sanıklı davanın 14 duruşması görüldü söz alan Kaplan kendisine kumpas
+kurulduğunu ileri sürdü soruşturmayı yürüten polislerin de aralarında olduğu gizli Tanık davasına
+işaret etti Ben bu insanlarla örgüt kurmadım örgüt kursam bu ülke 500
+
+================================================================================
+

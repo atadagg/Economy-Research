@@ -1,0 +1,36 @@
+# Economic Content from: 20240909_Show Ana Haber 9 Eylül 2024.tr.txt
+# Processed: 2025-07-22T17:32:51.102345
+# Original: 2701 words → Filtered: 157 words (5.81% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 75
+**Retention**: 100.00%
+
+000 L teklif etti Dedi herkesin her
+şeyi bildiği ama Kimsenin konuşmadığı o köyde Narin'in cansız bedeni 19 günün sabahı Dere yatağında
+bir çuvalın içinde bulundu kimse görmesin diye üzeri taşlarla ağaç dallarıyla kapatılmıştı amaları
+kardeşlerinin Aral oldu 21 kişi gözaltın alındı ardından da bu sayı 25'e çıktı MT AMC kız KB Türkiye
+Narin peşine düşm o Tanık Belli ki kör sağ dilsiz olmaya devam edecekti o adam sessiz 21 aü Gür
+an'la yaptığı 200
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 82
+**Retention**: 96.47%
+
+Burası İstanbul'da ticaretin kalbinin attığı Laleli. İddiaya göre, iki hırsızın hedefinde de işte bu kuyumcu dükkanı vardı. Ekonomik faaliyetlerin yoğun olduğu bu bölgede, kuyumcu dükkanları önemli bir ticaret merkezi oluşturuyor. 
+
+Kuyumcu dükkanları, özellikle düğün sezonunda artan talep nedeniyle fiyatların yükselmesine neden olabiliyor. Bu tür olaylar, güvenlik önlemlerinin artırılmasına ve dolayısıyla işletme maliyetlerinin artmasına yol açıyor. 
+
+İstanbul'daki bu tür hırsızlık olayları, genel olarak ticaretin güvenliğini etkileyerek, yatırımcıların ve işletmelerin ekonomik kararlarını da etkileyebilir. Ekonomik istikrar açısından, bu tür olayların önlenmesi büyük önem taşıyor.
+
+================================================================================
+

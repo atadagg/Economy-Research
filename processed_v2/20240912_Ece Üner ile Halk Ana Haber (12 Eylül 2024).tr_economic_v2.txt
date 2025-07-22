@@ -1,0 +1,66 @@
+# Economic Content from: 20240912_Ece Üner ile Halk Ana Haber (12 Eylül 2024).tr.txt
+# Processed: 2025-07-22T16:58:50.875749
+# Original: 12603 words → Filtered: 374 words (2.97% retention)
+# Economic segments: 5
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 70
+**Retention**: 41.92%
+
+Maliye Bakanlığı, 7.000 TL ve üzeri alışverişler için yeni bir düzenleme hazırlığında. Bu düzenleme tebliğ haline gelirse, 7.000 TL ve üzeri ödemelerde kredi veya banka kartı kullanımı zorunlu hale gelecek. Bu durum, birçok esnafı etkileyecek çünkü burada insanların kredi kartı olmayabiliyor ve nakit ödemek isteyebiliyor. Kredi kartı kullanımı zorunluluğu, esnaf açısından olumsuz etki edebilir. Ayrıca, kredi kartı alamayan birçok insanın olduğu da göz önünde bulundurulursa, bu uygulamanın alışması zaman alacaktır.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 64
+**Retention**: 49.23%
+
+Burası sirke beyaz eşyaların satıldığı bir mağazaya girdik ve bir ürün belirledik o ürün elektrikli süpürge ve fiyatı 7,000 TL. Hazine ve Maliye Bakanlığı'nın 7,000 ve üzeri ödemelerde kart zorunluluğu kesinleşirse, eğer tüketici bu elektrikli süpürgeyi almak için nakit para ayırsa dahi o nakti kullanamayacak ve kredi veya banka kartı kullanmak zorunda kalacak. Zaten piyasa büyük bir şekilde daraldı. Şu an piyasada iş yok.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 50
+**Retention**: 50.00%
+
+Bireysel kredi ve kredi kartlarına borcunu ödeyemeyen kişi sayısı geçen yılın aynı dönemine göre %41 artışla 1.63 milyon kişiye ulaştı. Bu durum, kredi kartı borçlarının toplumsal bir sorun haline geldiğini gösteriyor. İnsanlar, borçlarını ödeyemedikleri için ciddi psikolojik sorunlar yaşıyor. Ekonomik veriler, bireysel borçlanmanın artışını ve bunun getirdiği zorlukları ortaya koyuyor.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 107
+**Retention**: 42.46%
+
+Almanya'daki Türkler, Frankfurt'taki ticaret ateşesi olarak atanan kişinin görevine protesto etti. Bu durum, Türkiye'nin yurtdışındaki ekonomik temsilciliği ve ticaret ilişkileri açısından önemli bir gelişme olarak değerlendiriliyor. 
+
+Ayrıca, Türkiye Futbol Federasyonu'nda İbrahim Hacı Osmanoğlu başkanlığında yüklü bir maaşla Koordinatör olarak işe başlayan Yusuf Yerkel'in durumu, sporun ekonomik boyutunu da gündeme getiriyor. Bu tür atamalar, spor endüstrisindeki maliyetler ve yönetim politikaları üzerinde etkili olabilir. 
+
+Ekonomik veriler ve istatistikler, Türkiye'nin genel ekonomik durumu hakkında önemli bilgiler sunuyor. Özellikle, işsizlik oranları ve enflasyon gibi göstergeler, hükümetin ekonomik politikalarının ne denli etkili olduğunu ortaya koyuyor. 
+
+Sonuç olarak, bu gelişmeler, Türkiye'nin ekonomik yapısı ve yurtdışındaki ticari ilişkileri açısından dikkate değer bir bağlam sunuyor.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 83
+**Retention**: 52.20%
+
+İstanbul'da sağlık özel sektöre teslim edildi, özel hastane sayısı devlet hastanesinin 3 katı. İstanbul Planlama Ajansı'nın 2022 yılı verilerine göre, İstanbul'da 54 devlet hastanesi varken özel hastane sayısı 164. Devlet hastanelerinde randevu bulmak zorlaşıyor ve uzman hekim sayısı azaldığı için hastalar özel hastanelere yönelmek zorunda kalıyor. 2020'den bu yana yurt dışına gitmek için iyi hal belgesi alan hekim sayısı 931'den 2023'te 3025'e yükseldi. Bu veriler, sağlık sektöründeki sorunların yanı sıra, hekimlerin yurt dışına gitme eğilimlerinin artmasıyla birlikte, sağlık hizmetlerinin maliyetlerini ve erişilebilirliğini etkiliyor.
+
+================================================================================
+

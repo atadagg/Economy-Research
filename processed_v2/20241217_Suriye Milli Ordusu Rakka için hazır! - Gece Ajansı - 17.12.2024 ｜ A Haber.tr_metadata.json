@@ -1,0 +1,62 @@
+{
+  "file_path": "news/AHaber/20241217_Suriye Milli Ordusu Rakka için hazır! - Gece Ajansı - 17.12.2024 ｜ A Haber.tr.txt",
+  "processing_timestamp": "2025-07-22T15:50:32.028604",
+  "original_word_count": 16981,
+  "filtered_word_count": 91,
+  "retention_ratio": 0.005358930569459985,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "gece ajansına Hoş geldiniz saatlerimiz gece yarısını göstermekte",
+      "description": "\"gece ajansına Hoş geldiniz saatlerimiz gece yarısını göstermekte\" - The opening of the broadcast, welcoming viewers and introducing the program's theme, which includes discussions on significant news topics.",
+      "end_pos": 187
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 187,
+      "start_sentence": "Suriye'de haber nöbetimi sürdürmeye devam ediyoruz",
+      "description": "\"Suriye'de haber nöbetimi sürdürmeye devam ediyoruz\" - Continuation of the news segment, providing updates on the situation in Syria, including military actions and political developments.",
+      "end_pos": 382
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 382,
+      "start_sentence": "şimdi bugün yeni başlıklar mız yeni görüntülerimiz var E önce İsrail'in Suriye'deki ilerlemesini konuşacağız",
+      "description": "\"şimdi bugün yeni başlıklar mız yeni görüntülerimiz var E önce İsrail'in Suriye'deki ilerlemesini konuşacağız\" - The main content of the broadcast, detailing various news stories, including developments in Syria and statements from political figures.",
+      "end_pos": 1062
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 1062,
+      "start_sentence": "Ama önce anahtar Türkiye başlığıyla Suriye'de yaşananlara bakalım",
+      "description": "\"Ama önce anahtar Türkiye başlığıyla Suriye'de yaşananlara bakalım\" - A brief transition that shifts the focus from one news topic to another, specifically moving to the discussion about Turkey's role in the context of Syria.",
+      "end_pos": 1455
+    },
+    {
+      "type": "5. **NEWS**",
+      "start_pos": 1455,
+      "start_sentence": "Diğer yandan Suriye'nin güneyinde de hareketlilik yaşanmaya devam ediyor",
+      "description": "\"Diğer yandan Suriye'nin güneyinde de hareketlilik yaşanmaya devam ediyor\" - Further elaboration on the ongoing news stories, focusing on the activities in southern Syria and the actions of Israeli forces.",
+      "end_pos": 114744
+    }
+  ],
+  "news_segments_count": 8,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "382_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 91,
+      "filtered_length": 91,
+      "retention_ratio": 1.0,
+      "section_description": "\"şimdi bugün yeni başlıklar mız yeni görüntülerimiz var E önce İsrail'in Suriye'deki ilerlemesini konuşacağız\" - The main content of the broadcast, detailing various news stories, including developments in Syria and statements from political figures."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

@@ -1,0 +1,16 @@
+# Economic Content from: 20241026_Nilüfer Özkan ile tv100 Ana Haber ｜ 26 Ekim 2024.tr.txt
+# Processed: 2025-07-22T18:04:09.763610
+# Original: 5952 words → Filtered: 74 words (1.24% retention)
+# Economic segments: 1
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 74
+**Retention**: 48.05%
+
+Özel okullar ocak ayından itibaren erken kayıt ücretlerini açıklıyor. Kaydını erken yaptıran daha az para ödüyordu, ancak bu yıl tüm hesaplar değişti. Erken kayıt dönemi hiç olmadığı kadar erken başladı. Üstelik avantajlı da değil; fahiş fiyatlarla bir yıl öncesine göre %300 zam yapan özel okul dahi var. Bir öğrencinin aylık maliyeti neredeyse bir veliye 100.000 lira civarında. Bu yıl erken kayıt dönemi hiç olmadığı kadar erken başladı ve fiyatlar eskisi kadar avantajlı da değil.
+
+================================================================================
+

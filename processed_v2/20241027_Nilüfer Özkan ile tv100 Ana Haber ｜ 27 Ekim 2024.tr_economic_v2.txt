@@ -1,0 +1,77 @@
+# Economic Content from: 20241027_Nilüfer Özkan ile tv100 Ana Haber ｜ 27 Ekim 2024.tr.txt
+# Processed: 2025-07-22T18:50:17.294095
+# Original: 12173 words → Filtered: 495 words (4.07% retention)
+# Economic segments: 5
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 70
+**Retention**: 62.50%
+
+Hazine ve Maliye Bakanı Mehmet Şimşek, Amerika Birleşik Devletleri'nde yatırımcılarla yaptığı toplantıda asgari ücrete % 25 oranında zam olabileceğini söyledi. Böylelikle asgari ücretin 2,250 TL'ye çıkması bekleniyor. Bu durum, ekonomik veriler açısından önemli bir gelişme olarak değerlendiriliyor. Ekonomik koşullar göz önüne alındığında, asgari ücretin artırılması, enflasyon ve yaşam standartları üzerinde etkili olabilir. Bugün İstanbul şartlarında 21,000 TL'ye ev bulmakta bile problem yaşandığı belirtiliyor, bu da artan yaşam maliyetlerinin bir göstergesi.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 95
+**Retention**: 84.07%
+
+Türkiye'deki alım gücü farkını ortaya koyan bir video, iki ülke arasındaki ekonomik farklılıkları gözler önüne serdi. Türkiye'deki araç fiyatları, döviz kuru ile birlikte değerlendirildiğinde, yaklaşık 50.000 dolar seviyesine ulaşıyor. Bu durum, Türkiye'deki araç sahiplerinin Amerika'da neler alabilecekleri konusunda düşünmelerine yol açtı. Green Card başvuru süreci devam ederken, Türkiye'deki aracını satmayı düşünen bir kişinin elde edeceği gelirle Amerika'da konforlu bir daire kiralayabileceği bilgisi, ekonomik fırsatları vurguluyor. Örneğin, 2 + 2 bir dairenin aylık kirası 800 dolar olarak belirlenmiş durumda. Bu tür bilgiler, iki ülke arasındaki ekonomik koşulları ve yaşam standartlarını karşılaştırmak açısından önemli bir gösterge sunuyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 116
+**Retention**: 94.31%
+
+Deprem zedelerin ekonomik durumu ve ihtiyaçları üzerine yapılan değerlendirmeler, bu süreçte yaşanan dolandırıcılık olaylarının da ekonomik etkilerini gözler önüne seriyor. Özellikle, deprem sonrası birçok kişinin maddi kayıplar yaşaması, ekonomik istikrarı tehdit eden bir durum haline geldi. 
+
+Ayrıca, bu tür dolandırıcılık olayları, güvenilir ticaretin önemini vurguluyor. Ekonomik olarak zor durumda olan bireylerin, ihtiyaçlarını karşılamak için yaptıkları yatırımların güvenliği, finansal piyasalarda da önemli bir konu. 
+
+Bu bağlamda, hükümetin deprem sonrası ekonomik destek politikaları ve yardımları, bölgedeki ekonomik canlanma için kritik bir rol oynayabilir. Ekonomik veriler, bu tür yardımların etkisini ve bölgedeki ticari faaliyetlerin yeniden canlanmasını gösterebilir. 
+
+Sonuç olarak, deprem sonrası yaşanan bu olaylar, hem bireysel hem de toplumsal düzeyde ekonomik etkileri olan önemli bir mesele olarak öne çıkıyor.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 77
+**Retention**: 100.00%
+
+000 dolarlık biletler anında tükendi 2027 planlanan uzay seyahati yaklaşık
+12 dakika sürecek ve uzay aracında Sadece 5 yolcu yer alacak 12 dakikalık uzay seyahati yoğun ilgi
+gördü 140 000 dolarlık biletler anında tükendi Çin uzun zamandır ABD ile uzay yarışında rekabet
+halinde Pekin çıtayı bir aşama daha yükseltti devlete bağlı Deep Blue airos Space uzay turizmi için
+halka açık bilet sattı alıcıların kimlikleri açıklanmadı seyahatin süresi 12 dakika biletler ise
+140 000 dolara Yani yaklaşık 4
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 137
+**Retention**: 45.21%
+
+800 b000 lirasına alıcı buldu yolcu kapasitesi 5 kişiyle sınırlı. Şirket CEO'su, yolcular arasında bir aksilik olmazsa fırlatma 2027 yılında yolculuk Nebula 1 roketi ile yapılacak. Çinli şirket, önümüzdeki ay seyahat güvenilirliğini sağlamak için test yapacak. 2025 ve 2026 yıllarında testlerin sayısı artırılacak. 
+
+Bu süreç, şirketin yatırım stratejileri ve gelecekteki büyüme potansiyeli açısından önemli bir adım olarak değerlendiriliyor. Ayrıca, bu tür projelerin finansmanı ve ekonomik etkileri, sektördeki diğer oyuncular için de dikkate alınması gereken bir konu. 
+
+Müslüman toplum liderleri, Trump'a desteklerini açıklarken, bu durumun Michigan'daki Müslümanların oyları üzerinde önemli bir etkisi olabileceği belirtiliyor. Michigan'daki Müslümanların oyları geleneksel olarak Demokrat Parti'ye gidiyor, ancak bu seçimdeki değişiklikler, ekonomik politikaların ve hükümetin dış ilişkilerinin nasıl şekilleneceği konusunda önemli ipuçları veriyor. 
+
+Bu bağlamda, ekonomik veriler ve istatistikler, seçim sonuçlarının ardından hangi politikaların uygulanacağına dair öngörülerde bulunmak için kritik bir rol oynayacak.
+
+================================================================================
+

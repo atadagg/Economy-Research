@@ -1,0 +1,20 @@
+# Economic Content from: 20240814_Show Ana Haber 14 Ağustos 2024.tr.txt
+# Processed: 2025-07-22T17:33:03.287212
+# Original: 1889 words → Filtered: 94 words (4.98% retention)
+# Economic segments: 1
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 94
+**Retention**: 33.57%
+
+Değerli izleyenler, %25 sınırı kalktı, zam oranları değişti. İstanbul'da bir adam, ev sahibim camlarımı taşladı deyip karakolun yolunu tuttu. Ev sahibi ise tam tersini söyledi, taşınmak için para istedi. Kiracı da ev sahibi de birbirini suçladı. 
+
+Bu süreçte, kiracı ve ev sahibi arasında yaşanan anlaşmazlıklar, konut piyasasındaki dalgalanmaların bir yansıması olarak değerlendirilebilir. Emlak sektöründeki bu tür sorunlar, kiraların artması ve konut bulmanın zorlaşması gibi ekonomik faktörlerle doğrudan ilişkilidir. 
+
+Ayrıca, taşınma sürecinde yaşanan maliyetler, nakliye ücretlerinin artması gibi ekonomik baskıları da beraberinde getiriyor. Bu durum, genel olarak konut piyasasındaki dalgalanmaların ve kiraların yükselmesinin etkilerini göstermektedir.
+
+================================================================================
+

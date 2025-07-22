@@ -1,0 +1,22 @@
+# Economic Content from: 20240723_Show Ana Haber 23 Temmuz 2024.tr.txt
+# Processed: 2025-07-22T17:50:28.395411
+# Original: 3134 words → Filtered: 105 words (3.35% retention)
+# Economic segments: 1
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 105
+**Retention**: 45.26%
+
+İzmir'de esnaflık yapan iki arkadaş pahalı bir iddiaya girdi. Biri diğerine taktığı yeni kılıfa rağmen cihazı kırmayı başarabilirse 90 lira kazanacak. Bu tür ticari rekabetler, yerel ekonomideki dinamikleri etkileyebilir. 
+
+Antalya'da, kaybolan çantanın içinde 5 çeyrek altın ve 250 lira bulunması, bölgedeki altın fiyatlarının ve ekonomik durumun bir yansıması olarak değerlendirilebilir. Bu olay, yerel halkın ekonomik güvenliğini ve değerli eşyaların korunmasının önemini de ortaya koyuyor. 
+
+Ayrıca, işçilerin geri dönmek zorunda kalması, iş gücü piyasasındaki dengesizlikleri ve işçi hakları konusundaki tartışmaları gündeme getiriyor. Bu durum, hükümetin işçi politikaları ve ekonomik reformlarının ne denli etkili olduğunu sorgulatıyor. 
+
+Sonuç olarak, bu olaylar, yerel ekonominin ve ticaretin nasıl etkilendiğini gösteriyor.
+
+================================================================================
+

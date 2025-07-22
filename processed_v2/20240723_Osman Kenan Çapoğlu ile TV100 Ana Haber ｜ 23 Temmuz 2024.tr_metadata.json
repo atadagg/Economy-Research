@@ -1,0 +1,89 @@
+{
+  "file_path": "news/TV100/20240723_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 23 Temmuz 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T18:35:37.118987",
+  "original_word_count": 9311,
+  "filtered_word_count": 466,
+  "retention_ratio": 0.0500483299323381,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "Efendim Mutlu akşamlar 23 Temmuz salı TV1 an Haber'e Hoş geldiniz...",
+      "description": "\"Efendim Mutlu akşamlar 23 Temmuz salı TV1 an Haber'e Hoş geldiniz...\" - This section serves as the opening of the broadcast, where the presenter welcomes viewers and introduces the program, setting the stage for the news content to follow.",
+      "end_pos": 91
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 91,
+      "start_sentence": "Hareketlilik siyasi arenada Hala devam etmekte AK Parti Merkez karar Yürütme Kurulu toplantısı var...",
+      "description": "\"Hareketlilik siyasi arenada Hala devam etmekte AK Parti Merkez karar Yürütme Kurulu toplantısı var...\" - This section contains the actual news content, discussing various political developments, including the AK Party's Central Executive Committee meeting and other significant news stories.",
+      "end_pos": 781
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 781,
+      "start_sentence": "Peki başka hangi başlıklar var Masada yanıtlar TV1 muhabiri Ozan ulaş çaym da Ozan Şimdi hemen karşımızda...",
+      "description": "\"Peki başka hangi başlıklar var Masada yanıtlar TV1 muhabiri Ozan ulaş çaym da Ozan Şimdi hemen karşımızda...\" - This brief transition introduces the next segment, indicating a shift to a reporter who will provide updates on the developments discussed.",
+      "end_pos": 1080
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1080,
+      "start_sentence": "Cumhurbaşkanı Erdoğan başkanlığında AK Parti mkyk toplantısında Yaklaşık 3 saat geride kaldı...",
+      "description": "\"Cumhurbaşkanı Erdoğan başkanlığında AK Parti mkyk toplantısında Yaklaşık 3 saat geride kaldı...\" - This section continues with more detailed news content regarding the AK Party's meeting, focusing on various topics discussed, including domestic and foreign policy issues.",
+      "end_pos": 1377
+    },
+    {
+      "type": "5. **TRANSITION**",
+      "start_pos": 1377,
+      "start_sentence": "Elbette bu konuda istihbarat birimlerinin görüşmeyi sürdürdüğünü ve ortaya çıkacak bir takvimin de...",
+      "description": "\"Elbette bu konuda istihbarat birimlerinin görüşmeyi sürdürdüğünü ve ortaya çıkacak bir takvimin de...\" - This transition leads into further elaboration on the topics discussed in the previous news segment, indicating a continuation of the news narrative.",
+      "end_pos": 67232
+    }
+  ],
+  "news_segments_count": 11,
+  "economic_segments_count": 4,
+  "economic_segments": [
+    {
+      "segment_id": "1377_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 188,
+      "filtered_length": 188,
+      "retention_ratio": 1.0,
+      "section_description": "\"Elbette bu konuda istihbarat birimlerinin görüşmeyi sürdürdüğünü ve ortaya çıkacak bir takvimin de...\" - This transition leads into further elaboration on the topics discussed in the previous news segment, indicating a continuation of the news narrative."
+    },
+    {
+      "segment_id": "1377_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 288,
+      "filtered_length": 88,
+      "retention_ratio": 0.3055555555555556,
+      "section_description": "\"Elbette bu konuda istihbarat birimlerinin görüşmeyi sürdürdüğünü ve ortaya çıkacak bir takvimin de...\" - This transition leads into further elaboration on the topics discussed in the previous news segment, indicating a continuation of the news narrative."
+    },
+    {
+      "segment_id": "1377_5",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 134,
+      "filtered_length": 86,
+      "retention_ratio": 0.6417910447761194,
+      "section_description": "\"Elbette bu konuda istihbarat birimlerinin görüşmeyi sürdürdüğünü ve ortaya çıkacak bir takvimin de...\" - This transition leads into further elaboration on the topics discussed in the previous news segment, indicating a continuation of the news narrative."
+    },
+    {
+      "segment_id": "1377_6",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 171,
+      "filtered_length": 104,
+      "retention_ratio": 0.6081871345029239,
+      "section_description": "\"Elbette bu konuda istihbarat birimlerinin görüşmeyi sürdürdüğünü ve ortaya çıkacak bir takvimin de...\" - This transition leads into further elaboration on the topics discussed in the previous news segment, indicating a continuation of the news narrative."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

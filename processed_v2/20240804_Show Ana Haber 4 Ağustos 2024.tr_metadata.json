@@ -1,0 +1,41 @@
+{
+  "file_path": "news/Show/20240804_Show Ana Haber 4 Ağustos 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T17:49:31.349895",
+  "original_word_count": 2930,
+  "filtered_word_count": 71,
+  "retention_ratio": 0.024232081911262797,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "Şan haberden iyi akşamlar ben Burcu Selçuk Esen...",
+      "description": "\"Şan haberden iyi akşamlar ben Burcu Selçuk Esen...\" - The presenter introduces herself and sets the stage for the news broadcast, indicating the start of the program.",
+      "end_pos": 95
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 95,
+      "start_sentence": "Önce siyasetle başlayalım Hamas lideri Hani'nin İran'da suikaste kurban gitmesinin ardından...",
+      "description": "\"Önce siyasetle başlayalım Hamas lideri Hani'nin İran'da suikaste kurban gitmesinin ardından...\" - This section contains the main news content, discussing various developments related to the Middle East, particularly focusing on the aftermath of the assassination of Hamas leader Haniye and the resulting tensions.",
+      "end_pos": 21139
+    }
+  ],
+  "news_segments_count": 5,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "95_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 175,
+      "filtered_length": 71,
+      "retention_ratio": 0.4057142857142857,
+      "section_description": "\"Önce siyasetle başlayalım Hamas lideri Hani'nin İran'da suikaste kurban gitmesinin ardından...\" - This section contains the main news content, discussing various developments related to the Middle East, particularly focusing on the aftermath of the assassination of Hamas leader Haniye and the resulting tensions."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

@@ -1,0 +1,20 @@
+# Economic Content from: ATV20240617_atv Ana Haber ｜ 17 Haziran 2024.tr.txt
+# Processed: 2025-07-22T16:41:22.801279
+# Original: 4721 words → Filtered: 93 words (1.97% retention)
+# Economic segments: 1
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 93
+**Retention**: 41.33%
+
+Pazartesi Cumhurbaşkanı Erdoğan, video konferans yoluyla yaptığı konuşmada, Türkiye'nin seçimler sebebiyle oluşan gerilimli atmosferi süratle geride bırakıp tüm kapasiteyle odaklanması gerektiğine inandığını belirtti. Ayrıca, Cumhur İttifakı ile ilgili ortaya atılan iddialara değinerek, tartışmalara son noktayı koydu. 
+
+Cumhurbaşkanı Erdoğan, Türkiye'nin ekonomik istikrarı için fitne kazanı kaynatan oyunlara kesinlikle gelmeyeceklerini vurguladı. Ekonomik birliğin sağlanması için partilerinin ve ittifaklarının surlarında gedik açılmasına fırsat vermeyeceklerini ifade etti. 
+
+Bu bağlamda, hükümetin ekonomik politikalarının ve istikrarın sağlanmasının önemine dikkat çekti. Ekonomik verilerin ve istatistiklerin, Türkiye'nin geleceği için kritik olduğunu belirten Erdoğan, bu süreçte birlik ve beraberliğin sağlanmasının gerekliliğini vurguladı.
+
+================================================================================
+

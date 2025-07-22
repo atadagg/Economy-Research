@@ -1,0 +1,83 @@
+{
+  "file_path": "news/Show/20240730_Show Ana Haber 30 Temmuz 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T17:21:41.325415",
+  "original_word_count": 3031,
+  "filtered_word_count": 137,
+  "retention_ratio": 0.045199604091059054,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "İyi akşamlar değerli izleyenler",
+      "description": "\"İyi akşamlar değerli izleyenler\" - The presenter introduces herself and sets the stage for the news broadcast, indicating the start of the program.",
+      "end_pos": 0
+    },
+    {
+      "type": "- **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "İyi akşamlar değerli izleyenler",
+      "description": "\"İyi akşamlar değerli izleyenler\" - The presenter introduces the program and herself.",
+      "end_pos": 92
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 92,
+      "start_sentence": "hedefine Paris olimpiyat oyunlarını aldı",
+      "description": "\"hedefine Paris olimpiyat oyunlarını aldı\" - This section contains the main news content, discussing various political topics, including President Erdoğan's statements and reactions to international events.",
+      "end_pos": 92
+    },
+    {
+      "type": "- **NEWS**",
+      "start_pos": 92,
+      "start_sentence": "hedefine Paris olimpiyat oyunlarını aldı",
+      "description": "\"hedefine Paris olimpiyat oyunlarını aldı\" - Main news content discussing political issues and reactions.",
+      "end_pos": 1646
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 1646,
+      "start_sentence": "Efendim günlerdir çok tartışıldı",
+      "description": "\"Efendim günlerdir çok tartışıldı\" - This brief transition signals a shift in the news topic, moving from one story to another regarding the legislative discussions on stray animals.",
+      "end_pos": 1646
+    },
+    {
+      "type": "- **TRANSITION**",
+      "start_pos": 1646,
+      "start_sentence": "Efendim günlerdir çok tartışıldı",
+      "description": "\"Efendim günlerdir çok tartışıldı\" - A brief transition to a new news topic.",
+      "end_pos": 1742
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1742,
+      "start_sentence": "sahipsiz sokak hayvanları düzenlemesi mecliste kabul edildi",
+      "description": "\"sahipsiz sokak hayvanları düzenlemesi mecliste kabul edildi\" - This section continues with another news story about the approval of a regulation concerning stray animals, detailing the political tensions surrounding it.",
+      "end_pos": 1742
+    },
+    {
+      "type": "- **NEWS**",
+      "start_pos": 1742,
+      "start_sentence": "sahipsiz sokak hayvanları düzenlemesi mecliste kabul edildi",
+      "description": "\"sahipsiz sokak hayvanları düzenlemesi mecliste kabul edildi\" - Another news story about legislative actions.",
+      "end_pos": 21046
+    }
+  ],
+  "news_segments_count": 7,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "1742_5",
+      "method": "simple_final",
+      "confidence": 0.5,
+      "original_length": 137,
+      "filtered_length": 137,
+      "retention_ratio": 1.0,
+      "section_description": "\"sahipsiz sokak hayvanları düzenlemesi mecliste kabul edildi\" - Another news story about legislative actions."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

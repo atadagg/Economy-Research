@@ -1,0 +1,31 @@
+# Economic Content from: 20240906_Show Ana Haber 6 Eylül 2024.tr.txt
+# Processed: 2025-07-22T17:38:08.687207
+# Original: 2631 words → Filtered: 134 words (5.09% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 69
+**Retention**: 100.00%
+
+başlayalım 10 aydır Türkiye'nin gündeminden düşmeyen Polatlar davası ile başlayalım ilk duruşmadan
+sonra mahkeme ara kararını açıkladı ve Engin Polat dahil dör kişi tahliye edildi Böylece davanın
+tutuklu sanığı yok kalmadı Dilan Polat adliye koridorlarında Sevinç çığlıkları attı Sonra da enerji
+şarkısıyla kutlama yaptı şk Ne söyleyeceksiniz bir açıklama yapar mısınız oldu pardon müş bir süreç
+sonra tutukluluğu biten Engin Polat arkadaşlar Engin Polat tahliye edildi Dilan Polat'ın enerjisi
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 65
+**Retention**: 35.14%
+
+Altının gramının fiyatı 2750 L seviyesine yükseldi. Geçen yıl düğün sezonunda kuyumcular 100 takı seti satarken, bu sezon bu miktar 65'e düştü. Fiyatlar arttığı için insanlar alternatif arayışına girdi. Örneğin, 22 ayar yerine 14 ayar bilezikler tercih ediliyor. Geçen yıl 4,000 L olan bir takı setinin fiyatı bu yıl 6,000 L'ye yükseldi. Bu durum, düğünlerde takı takma alışkanlıklarını da etkiliyor; aileler bilezik sayısını azaltmaya başladı.
+
+================================================================================
+

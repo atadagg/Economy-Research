@@ -1,0 +1,16 @@
+# Economic Content from: 20240403_Show Ana Haber 3 Nisan 2024.tr.txt
+# Processed: 2025-07-22T17:28:07.167267
+# Original: 1984 words → Filtered: 49 words (2.47% retention)
+# Economic segments: 1
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 49
+**Retention**: 32.03%
+
+Cumhurbaşkanı Erdoğan, ekonomiye ayrı bir parantez açarak enflasyon baskısı ve sonuçlarının 31 Mart'ta derinden hissedildiğini söyledi. Emekliler başta olmak üzere toplumun birçok kesiminin refah kaybına uğradığını belirtti. Bu durum, ekonomik verilerin ve göstergelerin toplum üzerindeki etkisini ortaya koymaktadır. Erdoğan, hataları görüp milletle gönül köprülerini yeniden güçlendirmek zorunda olduklarını vurguladı.
+
+================================================================================
+

@@ -1,0 +1,16 @@
+# Economic Content from: 20240628_Show Ana Haber 28 Haziran 2024.tr.txt
+# Processed: 2025-07-22T17:45:40.229401
+# Original: 2357 words → Filtered: 50 words (2.12% retention)
+# Economic segments: 1
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 50
+**Retention**: 32.26%
+
+İnandırıcı ve o kadar çok gerçekçi ki eşim inanıyor, kendini görüyor, yatırdığı parayı görüyor. Hissedarların çok iyi kazançlar elde edeceğini söylüyor. Deniz Hanım'ın eşi, uygulamaya güvenip hemen telefonuna yükledi. Kredi çekiyor, 600.000 TL yatırdığı paranın bir anda 2 katına çıktığını görünce haliyle çekmek istedi. Ancak o noktada o sözde yatırımcılar...
+
+================================================================================
+

@@ -1,0 +1,42 @@
+# Economic Content from: 20240518_Show Ana Haber 18 Mayıs 2024.tr.txt
+# Processed: 2025-07-22T17:42:49.723936
+# Original: 3659 words → Filtered: 241 words (6.59% retention)
+# Economic segments: 3
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 127
+**Retention**: 70.56%
+
+Başkent minibüsçüleri son dönemde artan mazot fiyatları karşısında yolcu ücretlerinin uzun süredir artmadığından şikayetçi. Bazı minibüslere sürücü bulunamıyor ve bazıları kontak kapatmak zorunda kalıyor. 30 yıllık dolmuşçu, "Artık ekmek parasını evlerimize zor götürüyoruz," diyor. Geçen ay arabanın toplam geliri 36,000 lira iken, masraflar 24,000 lira oldu. Mazot fiyatları arttı, ancak yolcu ücreti sabit kaldı. Minibüsçüler, 17 lira olan yolcu ücretinin ekonomik şartlara göre çok düşük olduğunu belirtiyor. Ankaralı minibüsçüleri en çok zorlayan nokta sürekli artan mazot fiyatları. Daha önce litresi 10 lira olan mazotun yolcu ücreti 7 liraydı, ancak şu anda mazot 42 liraya çıktı ve yolcu ücreti 17 lira olarak kaldı. Eskiden bir yolcuya 3 lira alırken, şu an 3 yolcuya 1 litre yakıt alabiliyoruz. Geçen ay 34-35 lira para topladık, masraflar ise 26-27 lira civarında.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 66
+**Retention**: 100.00%
+
+000 Euro en pahalı teknelerden birinin içindeyiz şu anda kıyaslama yapmaya çalışıyoruz bahrein
+malı e 12 metre iki tane 300 beygir motor var içerisinde içerisinde buzdolabından tutun işte Harita
+bul üa kadar her şey var oturma alanları güneşlenme alanları su altı ışıkları balık bulucusu deniz
+Tutkun var Ancak çok param yok diyorsanız bu tekne Tam da size göre 4 kişilik olan bu tekne
+motoruyla birlikte 150
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_final
+**Confidence**: 0.50
+**Word Count**: 48
+**Retention**: 34.78%
+
+Beylikdüzü'nde bir balıkçıda somonun kilosu 300 liradan 120 liraya düştü. Bu fiyat düşüşü, balık pazarında önemli bir ekonomik gelişme olarak değerlendiriliyor. Somon balığının fiyatındaki bu değişim, tüketici harcamalarını etkileyebilir ve gıda enflasyonu üzerinde de bir etki yaratabilir. Ekonomik veriler, gıda fiyatlarının dalgalanmasının genel ekonomik durumu nasıl etkilediğini göstermektedir.
+
+================================================================================
+

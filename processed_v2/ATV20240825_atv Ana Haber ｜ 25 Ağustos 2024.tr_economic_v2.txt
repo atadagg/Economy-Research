@@ -1,0 +1,29 @@
+# Economic Content from: ATV20240825_atv Ana Haber ｜ 25 Ağustos 2024.tr.txt
+# Processed: 2025-07-22T16:47:48.552819
+# Original: 4675 words → Filtered: 172 words (3.68% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 49
+**Retention**: 42.61%
+
+Öztürk 3 yıldır kirasına aksatmaya her sene yüksek zam yaptığını da savunuyor. Kiram 2000'de devletin % 25 sınırı olmasına rağmen 4000 yaptım. Bu durum, kiracıların karşılaştığı yüksek kira artışlarının ekonomik etkilerini gözler önüne seriyor. Ayrıca, kira artışlarının enflasyon oranlarıyla bağlantılı olduğu ve bu durumun genel ekonomik durumu etkileyebileceği belirtiliyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 123
+**Retention**: 66.13%
+
+İstanbul'da ev kiraları 15 000 liradan başlıyor ve 40 000 liraya kadar çıkıyor. 1 + 1 daireler 15 000 - 25 000 bandında, 2 + 1 daireler ise 25 000 - 35 000 bandında kiralanıyor. 3 + 1 daireler için kiralar 35 000 - 40 000 lirayı buluyor. Öğrenciler, yüksek kiralar nedeniyle genellikle ev arkadaşıyla çözüm buluyor. Ancak İstanbul'da oda fiyatları da oldukça yüksek; şu anda bir odanın kirası 7 000 liradan başlıyor ve 15 000 liraya kadar çıkıyor. 
+
+Maliyet hesabı sadece kirayla da bitmiyor; evdeki eşyalar ve faturalar da önemli bir masraf kalemi oluşturuyor. Buzdolabı fiyatları 3 000 - 5 000 lira arasında değişirken, bulaşık makinesi fiyatları da benzer şekilde yüksek. Bu durum, öğrencilerin ve kiracıların bütçelerini zorlamakta ve ekonomik koşulları etkilemektedir.
+
+================================================================================
+

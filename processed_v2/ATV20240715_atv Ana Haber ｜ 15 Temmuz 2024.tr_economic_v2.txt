@@ -1,0 +1,16 @@
+# Economic Content from: ATV20240715_atv Ana Haber ｜ 15 Temmuz 2024.tr.txt
+# Processed: 2025-07-22T16:52:18.963560
+# Original: 4302 words → Filtered: 90 words (2.09% retention)
+# Economic segments: 1
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 90
+**Retention**: 59.60%
+
+Temmuz 2024'te %24,73'lük bir artış bekleniyor. Bu oran, 6 aylık enflasyon verileriyle desteklenecek. 2024 yılında emeklilik dilekçesi verirseniz, tahmini olarak 14.96 lira emekli maaşına kavuşmuş olacaksınız. 2025 yılında Merkez Bankası'nın açıklayacağı enflasyon oranı, maaşlara yansıtılacak. 10.000 liranın üzerine %43,5 eklediğimizde, 14.352 lira bir maaş elde ediliyor. Ayrıca, yıllık büyüme oranı %6'nın %30'u kadar bir ekleme yapılıyor, bu da 1.8 lira ekliyor. Bu üç bileşeni topladığımızda, 2025 maaşınız 14.532 lira oluyor. 20.000 lira emekli ücreti üzerinden bir hesap yapıldığında, 1 Ocak 2025'ten önce emekli dilekçesi verirseniz, alacağınız maaş 29.934 lira olacak.
+
+================================================================================
+

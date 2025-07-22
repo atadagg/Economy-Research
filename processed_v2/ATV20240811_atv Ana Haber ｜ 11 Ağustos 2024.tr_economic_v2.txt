@@ -1,0 +1,27 @@
+# Economic Content from: ATV20240811_atv Ana Haber ｜ 11 Ağustos 2024.tr.txt
+# Processed: 2025-07-22T16:24:25.700404
+# Original: 4658 words → Filtered: 122 words (2.62% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 68
+**Retention**: 45.64%
+
+Öğrencinin yıllık maliyeti, yemek fiyatlarının 3 kat 4 kat artmasıyla birlikte 30,000 liradan 130,000 liraya kadar çıkabiliyor. Özel okul ücretleri ve servis zammı söylentileri, aileler için fahiş ücretlerin yanı sıra yemek masraflarını da artırıyor. Yıllık yemek ücreti KDV dahil 100,000 lirayı bulurken, maksimumda 130,000 liraya kadar çıkabiliyor. Bazı özel okullar, velilerden istedikleri fazla ücreti yemek masrafı adı altında alıyor. Bu durum, eğitim harcamalarının aile bütçesi üzerindeki yükünü artırıyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 54
+**Retention**: 75.00%
+
+Peki bir öğrencinin günlük yemek menüsünde neler var? Öğle yemeğinde de salatası, çorbası ve ana yemeği var. İşte bu menüde bazı okullarda 555 lira, kimisi ise 722 lira ücret istiyor. Bu, bir öğrenci için çok pahalıdır. Yani bu sene 30,000 liraya sattığı yemeği 55,000 liraya satacak. Bu durum, %10,000 bir enflasyon olacağına işaret ediyor.
+
+================================================================================
+

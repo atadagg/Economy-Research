@@ -1,0 +1,98 @@
+{
+  "file_path": "news/TV100/20241027_Nilüfer Özkan ile tv100 Ana Haber ｜ 27 Ekim 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T18:50:17.294095",
+  "original_word_count": 12173,
+  "filtered_word_count": 495,
+  "retention_ratio": 0.04066376406801939,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "yeniden Hoş geldiniz sevgili izleyenler...",
+      "description": "\"yeniden Hoş geldiniz sevgili izleyenler...\" - The opening segment where the presenter welcomes viewers and introduces the program, indicating the start of the news broadcast.",
+      "end_pos": 85
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 85,
+      "start_sentence": "İsrail'in telaviv kentinin kuzeyindeki askeri üz yakınlarında...",
+      "description": "\"İsrail'in telaviv kentinin kuzeyindeki askeri üz yakınlarında...\" - The main news content begins with a report on an incident involving Israeli soldiers, detailing the event and providing commentary from an expert guest.",
+      "end_pos": 878
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 878,
+      "start_sentence": "Şimdi burada Aslında hayatın doğal akışı içerisinde...",
+      "description": "\"Şimdi burada Aslında hayatın doğal akışı içerisinde...\" - A brief transition within the news segment where the discussion shifts to analyzing the implications of the incident and the context surrounding it.",
+      "end_pos": 1375
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1375,
+      "start_sentence": "Daha sonra zaten kamu güvenliği Bakanı benir de bölgeye gittiğinde...",
+      "description": "\"Daha sonra zaten kamu güvenliği Bakanı benir de bölgeye gittiğinde...\" - Continuation of the news segment, discussing further developments related to the incident and reactions from officials.",
+      "end_pos": 1874
+    },
+    {
+      "type": "5. **OUTRO**",
+      "start_pos": 1874,
+      "start_sentence": "saldırılara yine devam edeceğiz işte Birleşmiş Milletler'de...",
+      "description": "\"saldırılara yine devam edeceğiz işte Birleşmiş Milletler'de...\" - The closing remarks where the presenter summarizes the ongoing situation and indicates the end of the current news segment.",
+      "end_pos": 86507
+    }
+  ],
+  "news_segments_count": 20,
+  "economic_segments_count": 5,
+  "economic_segments": [
+    {
+      "segment_id": "1874_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 112,
+      "filtered_length": 70,
+      "retention_ratio": 0.625,
+      "section_description": "\"saldırılara yine devam edeceğiz işte Birleşmiş Milletler'de...\" - The closing remarks where the presenter summarizes the ongoing situation and indicates the end of the current news segment."
+    },
+    {
+      "segment_id": "1874_5",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 113,
+      "filtered_length": 95,
+      "retention_ratio": 0.8407079646017699,
+      "section_description": "\"saldırılara yine devam edeceğiz işte Birleşmiş Milletler'de...\" - The closing remarks where the presenter summarizes the ongoing situation and indicates the end of the current news segment."
+    },
+    {
+      "segment_id": "1874_10",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 123,
+      "filtered_length": 116,
+      "retention_ratio": 0.943089430894309,
+      "section_description": "\"saldırılara yine devam edeceğiz işte Birleşmiş Milletler'de...\" - The closing remarks where the presenter summarizes the ongoing situation and indicates the end of the current news segment."
+    },
+    {
+      "segment_id": "1874_12",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 77,
+      "filtered_length": 77,
+      "retention_ratio": 1.0,
+      "section_description": "\"saldırılara yine devam edeceğiz işte Birleşmiş Milletler'de...\" - The closing remarks where the presenter summarizes the ongoing situation and indicates the end of the current news segment."
+    },
+    {
+      "segment_id": "1874_13",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 303,
+      "filtered_length": 137,
+      "retention_ratio": 0.4521452145214521,
+      "section_description": "\"saldırılara yine devam edeceğiz işte Birleşmiş Milletler'de...\" - The closing remarks where the presenter summarizes the ongoing situation and indicates the end of the current news segment."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

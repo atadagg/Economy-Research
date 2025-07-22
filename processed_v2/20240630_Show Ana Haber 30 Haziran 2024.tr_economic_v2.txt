@@ -1,0 +1,38 @@
+# Economic Content from: 20240630_Show Ana Haber 30 Haziran 2024.tr.txt
+# Processed: 2025-07-22T17:24:26.530328
+# Original: 2684 words → Filtered: 174 words (6.48% retention)
+# Economic segments: 3
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 62
+**Retention**: 77.50%
+
+Milyonlar temmuz zammı için geri sayarken gözler 3 Temmuz'a çevrildi. Memur ve emeklilerin zam oranı çarşamba günü açıklanacak enflasyon rakamıyla netleşecek. Memur ve memur emeklileri toplu sözleşmeden doğan % zammın yanı sıra ilk 6 ay için enflasyon farkı da alacak. Böylece en düşük memur maaşı 39.000 liraya yükselecek. Haziran ayı enflasyonu Merkez Bankası'nın tahminleri doğrultusunda çıkarsa 6 aylık enflasyon % 25.8 olacak.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 51
+**Retention**: 78.46%
+
+Emekli aylıklarına yapılacak zam oranı, enflasyonla doğrudan bağlantılı olarak belirleniyor. Hükümet, enflasyonu kontrol altına almak için asgari ücrete zam yapmayı planlıyor. Bu durum, emeklilerin alacakları aylıkların artışını da etkileyebilir. Ayrıca, emekli ve memurlar için refah payı uygulamasının beklenmediği belirtiliyor. Bu gelişmeler, ekonomik istikrar ve alım gücü açısından önemli bir etki yaratabilir.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 61
+**Retention**: 58.10%
+
+Geçen ayki enflasyon oranlarında tüfenin 12 aylık ortalaması % 62,5 gelmişti. Yani bu ayda ortalama bir hesapla % 60 gelmesi olası. Böyle olursa, örneğin 10.000 liralık kiranın 16.000 liraya çıkma ihtimali var. Çalışana o oranda bir zam gelmiyor ama kiralar o oranda artarsa, gerçekten çıkmaza girer. Oysa % 25 artış ile aynı kiralık ev 12.500 lira olacaktı. Temmuzda sözleşmesi yenilenen kiracı...
+
+================================================================================
+

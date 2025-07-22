@@ -1,0 +1,57 @@
+{
+  "file_path": "news/ATV/ATV20240725_atv Ana Haber ｜ 25 Temmuz 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T16:06:20.314512",
+  "original_word_count": 4731,
+  "filtered_word_count": 143,
+  "retention_ratio": 0.030226167829211583,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "Give Us the tool faster and We Finish the job faster...",
+      "description": "\"Give Us the tool faster and We Finish the job faster...\" - This section serves as the opening of the broadcast, introducing the program and setting the stage for the news content that follows.",
+      "end_pos": 101
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 101,
+      "start_sentence": "takım elbiseli adamların tarihin en Barbar en ilkel topluluklarına...",
+      "description": "\"takım elbiseli adamların tarihin en Barbar en ilkel topluluklarına...\" - This section contains the main news content, discussing various topics including political events, historical references, and current affairs related to conflicts and international relations.",
+      "end_pos": 1079
+    },
+    {
+      "type": "3. **OUTRO**",
+      "start_pos": 1079,
+      "start_sentence": "alkışlarla bölünen hayali Ortadoğu'da yeni bir katliam ittifakı kurmak...",
+      "description": "\"alkışlarla bölünen hayali Ortadoğu'da yeni bir katliam ittifakı kurmak...\" - This section provides closing remarks, summarizing the key points discussed and offering a final perspective on the issues raised during the broadcast.",
+      "end_pos": 33776
+    }
+  ],
+  "news_segments_count": 8,
+  "economic_segments_count": 2,
+  "economic_segments": [
+    {
+      "segment_id": "101_1",
+      "method": "pattern_validated",
+      "confidence": 0.75,
+      "original_length": 60,
+      "filtered_length": 60,
+      "retention_ratio": 1.0,
+      "section_description": "\"takım elbiseli adamların tarihin en Barbar en ilkel topluluklarına...\" - This section contains the main news content, discussing various topics including political events, historical references, and current affairs related to conflicts and international relations."
+    },
+    {
+      "segment_id": "1079_5",
+      "method": "simple_final",
+      "confidence": 0.5,
+      "original_length": 83,
+      "filtered_length": 83,
+      "retention_ratio": 1.0,
+      "section_description": "\"alkışlarla bölünen hayali Ortadoğu'da yeni bir katliam ittifakı kurmak...\" - This section provides closing remarks, summarizing the key points discussed and offering a final perspective on the issues raised during the broadcast."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

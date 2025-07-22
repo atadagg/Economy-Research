@@ -1,0 +1,48 @@
+{
+  "file_path": "news/Show/20240417_Show Ana Haber 17 Nisan 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T17:53:28.540394",
+  "original_word_count": 2177,
+  "filtered_word_count": 126,
+  "retention_ratio": 0.05787781350482315,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "İyi akşamlar sayın seyirciler",
+      "description": "\"İyi akşamlar sayın seyirciler\" - The presenter, Pınar Erbaş Ersoy, opens the broadcast and introduces the program, indicating that they will cover the day's most significant developments.",
+      "end_pos": 191
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 191,
+      "start_sentence": "Cumhurbaşkanı Erdoğan yerel seçim sonuçlarını değerlendirdi",
+      "description": "\"Cumhurbaşkanı Erdoğan yerel seçim sonuçlarını değerlendirdi\" - This section contains the main news content, focusing on President Erdoğan's evaluation of local election results, his comments on party dynamics, and various political statements.",
+      "end_pos": 1753
+    },
+    {
+      "type": "3. **OUTRO**",
+      "start_pos": 1753,
+      "start_sentence": "Kapımız açık ele alacağımız konu başlıklarımız çok",
+      "description": "\"Kapımız açık ele alacağımız konu başlıklarımız çok\" - The closing remarks where the presenter summarizes the discussion and indicates the openness for future dialogues, signaling the end of the program.",
+      "end_pos": 15039
+    }
+  ],
+  "news_segments_count": 4,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "191_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 207,
+      "filtered_length": 126,
+      "retention_ratio": 0.6086956521739131,
+      "section_description": "\"Cumhurbaşkanı Erdoğan yerel seçim sonuçlarını değerlendirdi\" - This section contains the main news content, focusing on President Erdoğan's evaluation of local election results, his comments on party dynamics, and various political statements."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

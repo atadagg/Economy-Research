@@ -1,0 +1,114 @@
+{
+  "file_path": "news/TV100/20240705_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 5 Temmuz 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T18:34:29.715727",
+  "original_word_count": 9424,
+  "filtered_word_count": 699,
+  "retention_ratio": 0.0741723259762309,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "Mutlu akşamlar 5 Temmuz Cuma TV1 an Haber'de...",
+      "description": "\"Mutlu akşamlar 5 Temmuz Cuma TV1 an Haber'de...\" - The opening segment introduces the program, the date, and the presenter, setting the stage for the news content to follow.",
+      "end_pos": 96
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 96,
+      "start_sentence": "Avusturya karşılaşması sonrasında siyasi arenaya düşen Merih demiral'ın gol sevinci...",
+      "description": "\"Avusturya karşılaşması sonrasında siyasi arenaya düşen Merih demiral'ın gol sevinci...\" - This section contains the main news content, discussing the events surrounding Merih Demiral's actions during a football match and the subsequent reactions and consequences.",
+      "end_pos": 192
+    },
+    {
+      "type": "5. **NEWS**",
+      "start_pos": 192,
+      "start_sentence": "Demir al' verilen ceza Ankara'yı da karıştırdı...",
+      "description": "\"Demir al' verilen ceza Ankara'yı da karıştırdı...\" - This section continues to elaborate on the reactions from various political figures in Turkey regarding the UEFA decision.",
+      "end_pos": 685
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 685,
+      "start_sentence": "Tabii bu sonuç sonrasında tepkiler çığ gibi büyüyor...",
+      "description": "\"Tabii bu sonuç sonrasında tepkiler çığ gibi büyüyor...\" - This brief transition connects different parts of the news story, indicating a shift in focus to the reactions following the UEFA decision.",
+      "end_pos": 782
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 782,
+      "start_sentence": "Euro 2024 son 16 turunda a millilerimiz Avusturya'yı 2-1 mağlup etti...",
+      "description": "\"Euro 2024 son 16 turunda a millilerimiz Avusturya'yı 2-1 mağlup etti...\" - This continues the news content, detailing the match outcome and further developments regarding the controversy.",
+      "end_pos": 1764
+    },
+    {
+      "type": "6. **OUTRO**",
+      "start_pos": 1764,
+      "start_sentence": "Dediğim gibi ben çalışmaya devam ediyorum...",
+      "description": "\"Dediğim gibi ben çalışmaya devam ediyorum...\" - This closing segment wraps up the discussion, indicating the end of the news segment and providing a final remark.",
+      "end_pos": 68132
+    }
+  ],
+  "news_segments_count": 14,
+  "economic_segments_count": 6,
+  "economic_segments": [
+    {
+      "segment_id": "1764_5",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 105,
+      "filtered_length": 77,
+      "retention_ratio": 0.7333333333333333,
+      "section_description": "\"Dediğim gibi ben çalışmaya devam ediyorum...\" - This closing segment wraps up the discussion, indicating the end of the news segment and providing a final remark."
+    },
+    {
+      "segment_id": "1764_6",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 282,
+      "filtered_length": 158,
+      "retention_ratio": 0.5602836879432624,
+      "section_description": "\"Dediğim gibi ben çalışmaya devam ediyorum...\" - This closing segment wraps up the discussion, indicating the end of the news segment and providing a final remark."
+    },
+    {
+      "segment_id": "1764_7",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 276,
+      "filtered_length": 161,
+      "retention_ratio": 0.5833333333333334,
+      "section_description": "\"Dediğim gibi ben çalışmaya devam ediyorum...\" - This closing segment wraps up the discussion, indicating the end of the news segment and providing a final remark."
+    },
+    {
+      "segment_id": "1764_8",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 75,
+      "filtered_length": 36,
+      "retention_ratio": 0.48,
+      "section_description": "\"Dediğim gibi ben çalışmaya devam ediyorum...\" - This closing segment wraps up the discussion, indicating the end of the news segment and providing a final remark."
+    },
+    {
+      "segment_id": "1764_9",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 227,
+      "filtered_length": 84,
+      "retention_ratio": 0.3700440528634361,
+      "section_description": "\"Dediğim gibi ben çalışmaya devam ediyorum...\" - This closing segment wraps up the discussion, indicating the end of the news segment and providing a final remark."
+    },
+    {
+      "segment_id": "1764_11",
+      "method": "simple_final",
+      "confidence": 0.5,
+      "original_length": 183,
+      "filtered_length": 183,
+      "retention_ratio": 1.0,
+      "section_description": "\"Dediğim gibi ben çalışmaya devam ediyorum...\" - This closing segment wraps up the discussion, indicating the end of the news segment and providing a final remark."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

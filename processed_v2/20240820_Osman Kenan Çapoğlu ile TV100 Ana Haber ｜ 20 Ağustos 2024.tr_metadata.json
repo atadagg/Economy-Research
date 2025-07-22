@@ -1,0 +1,129 @@
+{
+  "file_path": "news/TV100/20240820_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 20 Ağustos 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T18:45:15.709076",
+  "original_word_count": 10996,
+  "filtered_word_count": 832,
+  "retention_ratio": 0.0756638777737359,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "Mutlu akşamlar 20 Ağustos salı TV1 ana Haber'e hoş geldiniz",
+      "description": "\"Mutlu akşamlar 20 Ağustos salı TV1 ana Haber'e hoş geldiniz\" - The presenter introduces the program, welcomes viewers, and sets the stage for the news content.",
+      "end_pos": 99
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 99,
+      "start_sentence": "siyasi arana durgun diyorduk dün Ondan bahsetmiştik ama Fenerbahçe başkanı Ali Koç'un verdiği kareler hemen akabinde birçok spekülasyonu da beraberinde getirmiş gibi gözüküyor",
+      "description": "\"siyasi arana durgun diyorduk dün Ondan bahsetmiştik ama Fenerbahçe başkanı Ali Koç'un verdiği kareler hemen akabinde birçok spekülasyonu da beraberinde getirmiş gibi gözüküyor\" - This section contains the main news content, discussing various political topics and events, including statements from political figures and their implications.",
+      "end_pos": 1872
+    },
+    {
+      "type": "3. **OUTRO**",
+      "start_pos": 1872,
+      "start_sentence": "Cumhuriyet Halk Partisi genel başkanı Özgür Özel'in açıklamala",
+      "description": "\"Cumhuriyet Halk Partisi genel başkanı Özgür Özel'in açıklamala\" - This marks the end of the news segment, where the program may conclude with final remarks or a summary of the news discussed.",
+      "end_pos": 77968
+    }
+  ],
+  "news_segments_count": 18,
+  "economic_segments_count": 10,
+  "economic_segments": [
+    {
+      "segment_id": "1872_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 155,
+      "filtered_length": 85,
+      "retention_ratio": 0.5483870967741935,
+      "section_description": "\"Cumhuriyet Halk Partisi genel başkanı Özgür Özel'in açıklamala\" - This marks the end of the news segment, where the program may conclude with final remarks or a summary of the news discussed."
+    },
+    {
+      "segment_id": "1872_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 144,
+      "filtered_length": 81,
+      "retention_ratio": 0.5625,
+      "section_description": "\"Cumhuriyet Halk Partisi genel başkanı Özgür Özel'in açıklamala\" - This marks the end of the news segment, where the program may conclude with final remarks or a summary of the news discussed."
+    },
+    {
+      "segment_id": "1872_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 99,
+      "filtered_length": 58,
+      "retention_ratio": 0.5858585858585859,
+      "section_description": "\"Cumhuriyet Halk Partisi genel başkanı Özgür Özel'in açıklamala\" - This marks the end of the news segment, where the program may conclude with final remarks or a summary of the news discussed."
+    },
+    {
+      "segment_id": "1872_5",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 198,
+      "filtered_length": 104,
+      "retention_ratio": 0.5252525252525253,
+      "section_description": "\"Cumhuriyet Halk Partisi genel başkanı Özgür Özel'in açıklamala\" - This marks the end of the news segment, where the program may conclude with final remarks or a summary of the news discussed."
+    },
+    {
+      "segment_id": "1872_7",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 193,
+      "filtered_length": 67,
+      "retention_ratio": 0.3471502590673575,
+      "section_description": "\"Cumhuriyet Halk Partisi genel başkanı Özgür Özel'in açıklamala\" - This marks the end of the news segment, where the program may conclude with final remarks or a summary of the news discussed."
+    },
+    {
+      "segment_id": "1872_8",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 189,
+      "filtered_length": 58,
+      "retention_ratio": 0.30687830687830686,
+      "section_description": "\"Cumhuriyet Halk Partisi genel başkanı Özgür Özel'in açıklamala\" - This marks the end of the news segment, where the program may conclude with final remarks or a summary of the news discussed."
+    },
+    {
+      "segment_id": "1872_9",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 69,
+      "filtered_length": 38,
+      "retention_ratio": 0.5507246376811594,
+      "section_description": "\"Cumhuriyet Halk Partisi genel başkanı Özgür Özel'in açıklamala\" - This marks the end of the news segment, where the program may conclude with final remarks or a summary of the news discussed."
+    },
+    {
+      "segment_id": "1872_11",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 190,
+      "filtered_length": 105,
+      "retention_ratio": 0.5526315789473685,
+      "section_description": "\"Cumhuriyet Halk Partisi genel başkanı Özgür Özel'in açıklamala\" - This marks the end of the news segment, where the program may conclude with final remarks or a summary of the news discussed."
+    },
+    {
+      "segment_id": "1872_12",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 128,
+      "filtered_length": 77,
+      "retention_ratio": 0.6015625,
+      "section_description": "\"Cumhuriyet Halk Partisi genel başkanı Özgür Özel'in açıklamala\" - This marks the end of the news segment, where the program may conclude with final remarks or a summary of the news discussed."
+    },
+    {
+      "segment_id": "1872_14",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 384,
+      "filtered_length": 159,
+      "retention_ratio": 0.4140625,
+      "section_description": "\"Cumhuriyet Halk Partisi genel başkanı Özgür Özel'in açıklamala\" - This marks the end of the news segment, where the program may conclude with final remarks or a summary of the news discussed."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

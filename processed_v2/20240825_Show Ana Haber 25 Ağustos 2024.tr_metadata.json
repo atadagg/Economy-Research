@@ -1,0 +1,89 @@
+{
+  "file_path": "news/Show/20240825_Show Ana Haber 25 Ağustos 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T17:26:06.403088",
+  "original_word_count": 2636,
+  "filtered_word_count": 393,
+  "retention_ratio": 0.14908952959028832,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "şov an haberden iyi akşamlar ben Burcu Selçuk Esen...",
+      "description": "\"şov an haberden iyi akşamlar ben Burcu Selçuk Esen...\" - The presenter introduces herself and sets the stage for the news broadcast, indicating the start of the program.",
+      "end_pos": 99
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 99,
+      "start_sentence": "savaş çanları yeniden çalmaya başladı Hizbullah geçen ay öldürülen komutanlarının öcünü almak için...",
+      "description": "\"savaş çanları yeniden çalmaya başladı Hizbullah geçen ay öldürülen komutanlarının öcünü almak için...\" - This section contains the main news content, discussing various developments in the Middle East, including military actions and political statements.",
+      "end_pos": 1256
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 1256,
+      "start_sentence": "Malazgirt zaferinin yıldönümünde Cumhurbaşkanı Erdoğan ittifak ortağı Devlet Bahçeli ile birlikte...",
+      "description": "\"Malazgirt zaferinin yıldönümünde Cumhurbaşkanı Erdoğan ittifak ortağı Devlet Bahçeli ile birlikte...\" - This sentence marks a shift from the previous news about the Middle East to a different topic regarding a domestic political event involving President Erdoğan.",
+      "end_pos": 1256
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1256,
+      "start_sentence": "Cumhurbaşkanı Erdoğan kabinesini 21 yıl sonra Ankara dışında topladı...",
+      "description": "\"Cumhurbaşkanı Erdoğan kabinesini 21 yıl sonra Ankara dışında topladı...\" - This continues the news segment, focusing on domestic political events and statements made by President Erdoğan.",
+      "end_pos": 1547
+    },
+    {
+      "type": "5. **OUTRO**",
+      "start_pos": 1547,
+      "start_sentence": "milletin meclisinde milletin kürsüsünde millete hakaret eden milli iradeye hakaret eden...",
+      "description": "\"milletin meclisinde milletin kürsüsünde millete hakaret eden milli iradeye hakaret eden...\" - This section serves as a closing remark, summarizing the political tensions and concluding the news segment.",
+      "end_pos": 18482
+    }
+  ],
+  "news_segments_count": 7,
+  "economic_segments_count": 4,
+  "economic_segments": [
+    {
+      "segment_id": "99_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 153,
+      "filtered_length": 153,
+      "retention_ratio": 1.0,
+      "section_description": "\"savaş çanları yeniden çalmaya başladı Hizbullah geçen ay öldürülen komutanlarının öcünü almak için...\" - This section contains the main news content, discussing various developments in the Middle East, including military actions and political statements."
+    },
+    {
+      "segment_id": "1547_0",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 309,
+      "filtered_length": 119,
+      "retention_ratio": 0.3851132686084142,
+      "section_description": "\"milletin meclisinde milletin kürsüsünde millete hakaret eden milli iradeye hakaret eden...\" - This section serves as a closing remark, summarizing the political tensions and concluding the news segment."
+    },
+    {
+      "segment_id": "1547_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 167,
+      "filtered_length": 70,
+      "retention_ratio": 0.41916167664670656,
+      "section_description": "\"milletin meclisinde milletin kürsüsünde millete hakaret eden milli iradeye hakaret eden...\" - This section serves as a closing remark, summarizing the political tensions and concluding the news segment."
+    },
+    {
+      "segment_id": "1547_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 75,
+      "filtered_length": 51,
+      "retention_ratio": 0.68,
+      "section_description": "\"milletin meclisinde milletin kürsüsünde millete hakaret eden milli iradeye hakaret eden...\" - This section serves as a closing remark, summarizing the political tensions and concluding the news segment."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

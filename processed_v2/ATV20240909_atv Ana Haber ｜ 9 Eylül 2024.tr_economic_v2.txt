@@ -1,0 +1,36 @@
+# Economic Content from: ATV20240909_atv Ana Haber ｜ 9 Eylül 2024.tr.txt
+# Processed: 2025-07-22T16:34:29.561350
+# Original: 4766 words → Filtered: 146 words (3.06% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: pattern_validated
+**Confidence**: 0.75
+**Word Count**: 70
+**Retention**: 100.00%
+
+Eylül Pazartesi
+birimiz İkimiz değil hepimiz yüreğimiz yana yana Narine veda bugün bugün istediği bir gelinlik
+kutunun üzerinde sadece bu değil daha pek çok acı Detay var Narin'in ölümüne ilişkin dedik ya başta
+hepimizin yüreği yanıyor hepimizi ağlıyoruz diye duyması bile ürkütücü ama gerçek olan Korucu
+detaylar var onları aktaracağız ifadelerin içinde bir itirafçı ifade verdikten sonra Narin'in
+cenazesi bulunabilmiş biliyorsunuz sadece cenazenin yerini söylemedi o isim kendisinin Bu katliama
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: pattern_validated
+**Confidence**: 0.75
+**Word Count**: 76
+**Retention**: 100.00%
+
+nasıl ortak olup sustuğunu da anlattı tabii neden sorusu şu anda hepimizin kafasında ve her
+cümlesinde o kişi amca Salim güran'ın işaret etti anlattığı her şeyi kendi cümleleriyle Az sonra
+duyacaksınız günü özetleme gerekirse Şimdilik ki devamı var sır perdesinin arkasındaki pek çok bilgi
+gün yüzüne çıktı Bugün ama birkaç soru daha var cevap bekleyen ve onlardan ilki belki de en önemlisi
+narini kim ya da kimler neden öldürdü cevabın bulunacağı vakit yakın öyle görünüyor soruşturma
+
+================================================================================
+

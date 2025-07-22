@@ -1,0 +1,65 @@
+# Economic Content from: ATV20240729_atv Ana Haber ｜ 29 Temmuz 2024.tr.txt
+# Processed: 2025-07-22T16:16:35.590879
+# Original: 4582 words → Filtered: 499 words (10.89% retention)
+# Economic segments: 4
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 112
+**Retention**: 58.95%
+
+Hazine ve Maliye Bakanlığı, büyük firmaların vergi ödemediği iddiaları üzerine harekete geçti ve bu şirketlere inceleme başlattı. Vergi paketi Türkiye Büyük Millet Meclisi genel kurulundan geçti; cezalar arttırıldı ve vergi ziyası %50'lik bir artışla uygulanacak. Bir katı olan vergi ziyası cezası 1,5 kat olarak, 3 kat olan vergi ziyası cezası ise 4,5 kat olarak uygulanacak. Yasa kapsamında en düşük emekli maaşı 12.500 liraya çıktı ve bu düzenlemeden 373 emekli yararlanacak. 
+
+Vergi paketinde bulunan bir diğer düzenleme, fatura kesmeme cezası ile ilgilidir. Eğer bir işletme hizmet karşılığında fiş veya fatura kesmezse ve bu durum Vergi Dairesi'ne şikayet edilirse, işletmeye normalde 3.400 lira ceza kesilmesi gerekiyordu; ancak bu düzenleme ile birlikte ceza miktarı artırılacak.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 61
+**Retention**: 79.22%
+
+İşbirliği projelerinde elde edilen kazançlardan alınan % 25'lik Kurumlar Vergisi % 30'a çıkarıldı. Böylece 557 milyon lira ek vergi bekleniyor kabul edilen vergi paketi ile birlikte. Bir diğer değişiklik ise yurt dışı çıkış harcında oldu; yurt dışı çıkış harcı 150 liraydı ve bu düzenleme ile birlikte 500 liraya yükseldi. Harç her yıl yeniden değerleme oranında arttırılacak, bütçeye yıllık gelir etkisini 4...
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 121
+**Retention**: 60.80%
+
+Hazine ve Maliye Bakanlığı harekete geçti ve inceleme başlattı. Bakan Mehmet Şimşek, vergi paketinin meclisten geçerek yasalaşmasıyla ilgili sosyal medya hesabından yaptığı paylaşımda, "Amacımız çok kazanandan çok, az kazanandan az vergi almaktır" dedi. Sosyal Güvenlik Bakanı Vedat Işıkkan, A Haber canlı yayınında CHP'li büyükşehir belediyelerinin son 5 yılda borçlarını nasıl katladığını rakamlarla belgeleriyle ortaya koydu. Tüm belediyelerin toplam 96 milyar lira borcu olduğunu açıklayan Bakan Işıkkan, bu borcun 72 milyar lirasının yalnızca CHP'ye ait olduğunun altını çizdi. Işıkkan, borçlarını ödeyememek de ısrar ederlerse icraya başvuracaklarını belirtti. Büyükşehir belediyelerinin %76'sı CHP'li belediyelere ait olup, SGK'ya borcu 1 milyar liranın üzerinde olan 6 ilçe var; bu 6 ilçeden beşi CHP'ye ait. Ancak belediyelerin, özellikle belediye şirketlerine ait borçlarını ödememesi yönünde bir direnci var.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 205
+**Retention**: 100.00%
+
+000 L ceza kesildi Tekrar geçmiş olsun
+yusufeli'nin çeltiközü Köyü baraj inşaatı sonrası kısmen suya gömülmüş 75 yaşındaki sebaha küçüğün
+evi ise suyun birkaç metre üzerinde kalınca id ö kamulaştırılmış köyde tek başına yaşam mücadelesi
+veren yaşlı kadın için Kaymakamlık devreye girdi yaşlı kadın yeni yapılan köy evlerinden birine
+yerleştirildi ben tek başıma yaşı kimse yok çocuklarım Yok komşul yok kimse yok doğup büyüdüğü köy
+su altında kalmış baraj suları evinin duvarına kadar dayanmıştı terk edilen köyde tek başına
+mücadelesi yeni yuvasına kavuştu sebep olandan da yardımcı olanların hepsinden Allah razı olsun
+sebaha küçük yusufeli'nin çeltikdüzü köyünde doğdu tüm yaşamı da burada geçti baraj inşaatının
+tamamlanmasıyla birlikte İlçe merkezi ve yedi Köy tamamen su altında kaldı biz kalmadı yani suyun
+altına alırsa gel alır dediler Çeltik Düzü yükselen sudan kısmen etkilenmiş su bir Meter kalı y yok
+hiçb yerde drla yapan serat ince yaşlı kadını tesadüfen fark etmişti burada tek başına otururken
+gördüğümde açıkçası bunu kayda alıp yetkililere ulaştırmak istedim köyde tek başına kalan seban için
+Kaymakamlık devreye girdi çeltikdüzü Köyü yapılan yeni evine ve ayrı kaldığı komşulara bir Sened
+aşta yalız oturuyordu Allah razı ol Kaymakam geldi yardım etti beni ev verdi sırada Dünyadan haber
+turu var Kaliforniya cayır cayır yanmaya devam ediyor 350
+
+================================================================================
+

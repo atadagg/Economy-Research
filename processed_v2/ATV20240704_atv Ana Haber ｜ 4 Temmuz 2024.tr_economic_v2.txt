@@ -1,0 +1,38 @@
+# Economic Content from: ATV20240704_atv Ana Haber ｜ 4 Temmuz 2024.tr.txt
+# Processed: 2025-07-22T15:57:46.835433
+# Original: 4681 words → Filtered: 272 words (5.81% retention)
+# Economic segments: 3
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 131
+**Retention**: 66.16%
+
+7 açıklanmasıyla beraber memur maaş kat sayımız da % 2019 3 olarak belirlenmiş oldu. Memur maaş katsayısı, memur ve memur emekli maaşlarının dışında birçok parametreyi de etkileyen bir unsur olarak karşımıza çıkıyor. Ocak ayında % 11,3 artışla 3504 liraya yükselen yaşlı aylığı, engellilik oranı % 69 arası olanlara yapılan destek ödemesi 3337 liraya, % 70 ve üzeri engellilerin aylık destek ödemesi ise 56 liraya çıkarıldı. Aile ve Sosyal Hizmetler Bakanlığı'nın hizmetinde de çocuk başına yapılan ekonomik destek tutarı 5330 liradan 6359 liraya çıktı. Koruyucu aile destek ödememiz de 8895 liradan 10612 liraya çıktı. Memur zammıyla beraber kıdem tazminatı ve bedelli askerlik ücretleri de değişti. 1 Temmuz 2024 tarihinden itibaren kıdem tazminatının tavanı 41,827 liraya çıktı. Yani 30 Haziran'da kıdem tazminatı almakla 1 Temmuz'da almak arasında % 11,31 bir fark oluştuğunu söyleyebiliriz.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 88
+**Retention**: 48.62%
+
+Özel okul ücretleri tavan yaptı; özel okulda fiyatlar milyonu geçmiş durumda. Kreş fiyatı için bu yıl 230.000 lira istendi. Özel okula giden öğrencilerin aileleri, artan ücretler nedeniyle zor durumda. Özel okullar, erken kayıt dönemi adı altında yüksek ücretler talep ediyor. 2024 Şubat ayının sonu itibarıyla özel okul lise ücreti 210.000 lira olarak belirlendi. Mart ayında özel okul ücretine 20.000 lira zam geldi ve lise ücreti 230.000 lira oldu. Bugün gelinen noktada bir öğrencinin yıllık lise ücreti artık 300.000 lira. Bu fiyatlarla eğitimde eşitlik sağlanıp sağlanamayacağı ise tartışma konusu.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 53
+**Retention**: 59.55%
+
+Özel okullarda durum böyle ama sıra marka okullara geldiğinde özel okul ücretleri uçuşa geçiyor. Öyle ki 1 milyon 1 milyonun üzerinde olan okullar var. Bu yüzden bir veli öğrencisini o okula gönderdiğinde 4 yılın sonunda o öğrenci için yaklaşık 7-8 milyon lira harcıyor. Özel bir ilkokul için yıllık 250,000 lira isteyen de var.
+
+================================================================================
+

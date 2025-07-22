@@ -1,0 +1,99 @@
+# Economic Content from: 20240702_546528982_subtitle_tr-auto.txt
+# Processed: 2025-07-22T17:13:02.914112
+# Original: 4841 words → Filtered: 767 words (15.84% retention)
+# Economic segments: 7
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 63
+**Retention**: 38.89%
+
+Masada memur emekli zammı, tasarruf tedbirleri ve belgi paketi ile ilgili ekonomik düzenlemeler yapılmaktadır. Türkiye'de devam eden protestoların ekonomik etkileri dikkatle izlenmektedir. Artan gerilimler, ekonomik istikrar üzerinde olumsuz etkiler yaratabilir. Dışişleri Bakanlığı açıklamasında, yaşanan olayların ekonomik istikrarı tehdit edebileceği vurgulanmıştır. Ekonomik veriler ve istatistikler, bu tür olayların piyasalara olan etkisini anlamak için önemlidir. Türkiye'nin tepkisi, ekonomik güvenliği sağlamak adına atılan adımlar olarak değerlendirilmektedir.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 70
+**Retention**: 35.90%
+
+İşte tüm Türkiye'nin yakından takip ettiği o duruşmadan çok ilginç detaylar. Binlerce kişinin dolandırıldığı çiftlik bank davasında Tosuncuk lakabıyla da tanınan Mehmet Aydın'ın da aralarında bulunduğu 20 kişi hakkında toplam 85 bin 646 yıl hapis cezası isteniyor. Aydın mahkemede savunma yaptı ve "Hakime ev hapsi verin, tüm zararları karşılayayım" dedi. Ancak mahkeme haliyle bu talebi kabul etmedi. İşte çiftlik bank davasındaki son gelişmeler. Binlerce kişinin mağdur olduğu ara karar açıklandı.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 88
+**Retention**: 44.22%
+
+Mahkeme, Tosuncuk Mehmet Aydın'ın tutukluluğunun devamına karar verdi. Aydın, gelir getirme vaadiyle çok sayıda kişinin mağdur olmasına yol açan çiftlik bank sisteminin kurucusuydu. Savcılık, Aydın'ın 4582 kişiyi mağdur ettikleri gerekçesiyle 25,699 yıldan 85,646 yıla kadar hapis cezası istedi. Aydın, son duruşmada mağdurların zararını gidermek istediğini belirterek tutuksuz yargılama veya ev hapsi talebinde bulundu. Ancak mahkeme bu talebi kabul etmedi. 
+
+Bu durum, Türkiye'deki dolandırıcılık vakalarının ve finansal sistemin güvenilirliğinin sorgulanmasına yol açıyor. Aydın'ın davası, yatırımcıların güvenini etkileyebilir ve benzer dolandırıcılık sistemlerinin önlenmesi için daha sıkı düzenlemelerin gerekliliğini gündeme getirebilir.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 75
+**Retention**: 38.27%
+
+Önceki gün kuzenler bir parkta karşılaştı. Yusuf Çınar bundan birkaç hafta önce akrabası Recep Çınar'dan 3 bin lira borç para aldı ama o parayı söz verdiği tarihte geri ödeyemedi. Bu yüzden de ikilinin arası gerildi ve alacaklıyla borçlu önceki gün işte bu parkta karşılaştı. Amcaoğulları 3 bin lira yüzünden tartıştı. 3 bin lira borcu ödemediği için aralarında gerginlik yaşandı. Polis şimdi her yerde 3 bin lira borç yüzünden kuzenini öldüren katil zanlısı Recep Çınar'ı arıyor.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 177
+**Retention**: 91.24%
+
+Şimdilik memur ve emeklinin 5 aylık enflasyon farkına göre alacağı zam oranı aşağı yukarı belli ama bir de beklentiler var. Milyonların gözü yarın açıklanacak haziran ayı enflasyonunda. 6 aylık enflasyon farkıyla birlikte memur ve emekli maaşları netleşmiş olacak. Mayıs'ta %3,37 olan enflasyonla SGK ve Bağkur emeklileri %22,7 enflasyon farkı almayı garantilemişti. Bu hesapla 13 000 lira maaş alan bir emekli geçtiğimiz ay 15 951 liralık maaşı cebine koymuştu. Haziran ayı için beklenti daha yüksek; enflasyon farkının %25 olması bekleniyor. Bu hesapla 13 000 liralık maaş da 16 250 lira olacak. Bir başka ihtimalse zam oranının %27 olması. Bu durumda 13 000 lira olan bir emekli maaşı Temmuz'da 16 510 liraya yükselecek. Kök maaşı 7 000 lira olan emeklinin ise %27 zamla 8 890 liraya yükselecek maaşı. Ancak bu ücret en düşük emekli aylığı olan 10 000 liranın altında kaldığı için 10 000 lira ödeme yapılacak. Memur ve memur emeklileri ise 6 ayda alacakları %10'luk toplu sözleşme zamına ek olarak alacak enflasyon farkını Mayıs ayı itibariyle kesinleşen zam oranı %17,38. Haziran enflasyonuyla zam oranının %22 olması beklentisi var.
+
+================================================================================
+
+## Economic Segment 6
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 197
+**Retention**: 100.00%
+
+Bu durumda en düşük memur
+emekli aylığı 17 984 lira olacak En düşük memur maaşı ise 32 861 liradan 40 090 liraya çıkacak Normalde yasak ama internette çok sayıda sonu eczane ile biten ve satış yapan, ilaç satışı yapan
+site var Bu sitelerin adı eczane ama kendi değil tabi ki Satılan ürünlerinde çoğu ya sahte ya da
+tarihi geçmiş ürünler Hal böyle olunca uzmanlardan uyarılar geldi Hiçbir alışveriş sitesi eczane
+ismini kullanamaz Eczane değiller ama ismi kullanıp internetten ürün satıyorlar Ve o ürünlerinde
+çoğu sahte Bu ürünlerin nerede saklandığını bilmiyoruz İçeriğini bilmiyoruz Geçenlerde bir
+müşterimiz geldi Elinde çok bilinen bir marka vardı Şüphelenmiş Bize getirdi ve biz de tabi
+şüphelendik Laboratuvara verdik hemen İçinden ne çıktı söyleyeyim mi Yüzlük amajeli yerine
+bulaşık deterjanı çıkıyor Eczaneler dahi internet sitesi açamazken bazı uyanıklar sonunda eczane
+ifadesi olan siteler kurdu O internet siteleri üzerinden de vitamin, kozmetik, kişisel bakım
+ürünleri bebek bakım malzemeleri satıyorlar Sahte olabilir veya farklı bir ürün gelebilir Güvenli
+gelmiyor Zaten güvenli de değil O ürünlerin çoğu sahte ya da tarihi geçmiş Fiyatlar çok uygun O
+da orijinal olmamasından kaynaklı Ürünlerin sahte olmasından kaynaklı İnternette yarı yarıya düşük
+fiyatları gördükleri zaman aa çok ucuzmuş deyip hemen alıyorlar
+
+================================================================================
+
+## Economic Segment 7
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 97
+**Retention**: 49.49%
+
+Limon, zencefil, tarçın maden suyu karşımı haline getirip işte ödem attırıcı olarak da işe yaradığını da düşünüyorum. Uzmanlar detoksunun kişiye özel olması gerektiğini söylüyor. Ekonomik olarak, sağlıklı yaşam ürünlerine olan talep artıyor ve bu da pazarın büyümesine katkı sağlıyor. Herkes için aynı tarif aynı formül kilo verme için doğru bir yöntem değil; bu durum, kişisel sağlık ve beslenme alanında uzmanlaşmış hizmetlerin önemini artırıyor. 
+
+Yüz binlerce binanın girişindeki şifreler, güvenlik sistemleri ve bu sistemlerin maliyetleri, işletmelerin güvenlik harcamalarını etkileyen bir faktör olarak öne çıkıyor. Bu tür harcamalar, şirketlerin bütçelerinde önemli bir yer tutuyor ve dolayısıyla ekonomik planlamalarını etkiliyor.
+
+================================================================================
+

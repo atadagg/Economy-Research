@@ -1,0 +1,134 @@
+{
+  "file_path": "news/TV100/20241112_Kübra Par ile tv100 Ana Haber ｜ 12 Kasım 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T18:06:55.829048",
+  "original_word_count": 9763,
+  "filtered_word_count": 1168,
+  "retention_ratio": 0.11963535798422616,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "TV1 ekranlarından Herkese iyi akşamlar ben Kübra Par bir ana habere daha başlıyoruz",
+      "description": "\"TV1 ekranlarından Herkese iyi akşamlar ben Kübra Par bir ana habere daha başlıyoruz\" - The presenter introduces the program and sets the stage for the news broadcast.",
+      "end_pos": 52
+    },
+    {
+      "type": "5. **OUTRO**",
+      "start_pos": 52,
+      "start_sentence": "Ana Haber başlıyor",
+      "description": "\"Ana Haber başlıyor\" - This phrase indicates the conclusion of the introductory remarks and the formal start of the news segment, leading into the main content.",
+      "end_pos": 101
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 101,
+      "start_sentence": "Ama hiçbiri önemli değil Çünkü bugün İzmir'de Anneleri hurda toplamaya giden beş çocuğumuzun elektrik sobasından çıkan yangında hayatını kaybetmesini ağlıyoruz aslında",
+      "description": "\"Ama hiçbiri önemli değil Çünkü bugün İzmir'de Anneleri hurda toplamaya giden beş çocuğumuzun elektrik sobasından çıkan yangında hayatını kaybetmesini ağlıyoruz aslında\" - This section contains the main news story about the tragic incident involving five children in İzmir, discussing the circumstances and societal implications.",
+      "end_pos": 1467
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 1467,
+      "start_sentence": "Evet bir yandan da tabii ki gündemi de konuşacağız bir anketle başlatacağım",
+      "description": "\"Evet bir yandan da tabii ki gündemi de konuşacağız bir anketle başlatacağım\" - A brief transition indicating a shift to discussing the agenda and introducing a new topic related to the upcoming elections.",
+      "end_pos": 1567
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1567,
+      "start_sentence": "Yüksek Seçim Kurulu Başkanı Ahmet Yener dün akşam TV1 ekranlarında gazeteci Sinan vurhan bir açıklama yaptı",
+      "description": "\"Yüksek Seçim Kurulu Başkanı Ahmet Yener dün akşam TV1 ekranlarında gazeteci Sinan vurhan bir açıklama yaptı\" - This section covers the news regarding the statements made by the head of the Supreme Election Council about the preparations for electronic voting in Turkey.",
+      "end_pos": 67920
+    }
+  ],
+  "news_segments_count": 19,
+  "economic_segments_count": 9,
+  "economic_segments": [
+    {
+      "segment_id": "101_0",
+      "method": "pattern_validated",
+      "confidence": 0.75,
+      "original_length": 81,
+      "filtered_length": 81,
+      "retention_ratio": 1.0,
+      "section_description": "\"Ama hiçbiri önemli değil Çünkü bugün İzmir'de Anneleri hurda toplamaya giden beş çocuğumuzun elektrik sobasından çıkan yangında hayatını kaybetmesini ağlıyoruz aslında\" - This section contains the main news story about the tragic incident involving five children in İzmir, discussing the circumstances and societal implications."
+    },
+    {
+      "segment_id": "101_1",
+      "method": "pattern_validated",
+      "confidence": 0.75,
+      "original_length": 114,
+      "filtered_length": 114,
+      "retention_ratio": 1.0,
+      "section_description": "\"Ama hiçbiri önemli değil Çünkü bugün İzmir'de Anneleri hurda toplamaya giden beş çocuğumuzun elektrik sobasından çıkan yangında hayatını kaybetmesini ağlıyoruz aslında\" - This section contains the main news story about the tragic incident involving five children in İzmir, discussing the circumstances and societal implications."
+    },
+    {
+      "segment_id": "1567_5",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 132,
+      "filtered_length": 80,
+      "retention_ratio": 0.6060606060606061,
+      "section_description": "\"Yüksek Seçim Kurulu Başkanı Ahmet Yener dün akşam TV1 ekranlarında gazeteci Sinan vurhan bir açıklama yaptı\" - This section covers the news regarding the statements made by the head of the Supreme Election Council about the preparations for electronic voting in Turkey."
+    },
+    {
+      "segment_id": "1567_10",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 231,
+      "filtered_length": 125,
+      "retention_ratio": 0.5411255411255411,
+      "section_description": "\"Yüksek Seçim Kurulu Başkanı Ahmet Yener dün akşam TV1 ekranlarında gazeteci Sinan vurhan bir açıklama yaptı\" - This section covers the news regarding the statements made by the head of the Supreme Election Council about the preparations for electronic voting in Turkey."
+    },
+    {
+      "segment_id": "1567_12",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 181,
+      "filtered_length": 107,
+      "retention_ratio": 0.5911602209944752,
+      "section_description": "\"Yüksek Seçim Kurulu Başkanı Ahmet Yener dün akşam TV1 ekranlarında gazeteci Sinan vurhan bir açıklama yaptı\" - This section covers the news regarding the statements made by the head of the Supreme Election Council about the preparations for electronic voting in Turkey."
+    },
+    {
+      "segment_id": "1567_13",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 171,
+      "filtered_length": 140,
+      "retention_ratio": 0.8187134502923976,
+      "section_description": "\"Yüksek Seçim Kurulu Başkanı Ahmet Yener dün akşam TV1 ekranlarında gazeteci Sinan vurhan bir açıklama yaptı\" - This section covers the news regarding the statements made by the head of the Supreme Election Council about the preparations for electronic voting in Turkey."
+    },
+    {
+      "segment_id": "1567_14",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 394,
+      "filtered_length": 394,
+      "retention_ratio": 1.0,
+      "section_description": "\"Yüksek Seçim Kurulu Başkanı Ahmet Yener dün akşam TV1 ekranlarında gazeteci Sinan vurhan bir açıklama yaptı\" - This section covers the news regarding the statements made by the head of the Supreme Election Council about the preparations for electronic voting in Turkey."
+    },
+    {
+      "segment_id": "1567_15",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 66,
+      "filtered_length": 57,
+      "retention_ratio": 0.8636363636363636,
+      "section_description": "\"Yüksek Seçim Kurulu Başkanı Ahmet Yener dün akşam TV1 ekranlarında gazeteci Sinan vurhan bir açıklama yaptı\" - This section covers the news regarding the statements made by the head of the Supreme Election Council about the preparations for electronic voting in Turkey."
+    },
+    {
+      "segment_id": "1567_16",
+      "method": "simple_final",
+      "confidence": 0.5,
+      "original_length": 206,
+      "filtered_length": 70,
+      "retention_ratio": 0.33980582524271846,
+      "section_description": "\"Yüksek Seçim Kurulu Başkanı Ahmet Yener dün akşam TV1 ekranlarında gazeteci Sinan vurhan bir açıklama yaptı\" - This section covers the news regarding the statements made by the head of the Supreme Election Council about the preparations for electronic voting in Turkey."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

@@ -1,0 +1,27 @@
+# Economic Content from: ATV20240904_atv Ana Haber ｜ 4 Eylül 2024.tr.txt
+# Processed: 2025-07-22T16:05:25.875998
+# Original: 5126 words → Filtered: 111 words (2.17% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 58
+**Retention**: 58.59%
+
+Haber bülteni ile daha karşınızdayız. Bugün Ankara'da önemli bir zirve gerçekleştirildi. İki lider, çeşitli konularda 17 anlaşma imzaladıktan sonra basın toplantısı yaptı. Bu anlaşmaların ekonomik işbirliği ve ticaretin artırılması açısından önemli olduğu belirtiliyor. Türkiye'nin yürüttüğü diplomasiye destek veren Mısır Cumhurbaşkanı, iki ülke arasındaki ticaretin geliştirilmesi gerektiğini vurguladı. Ekonomik ilişkilerin güçlendirilmesi, her iki ülkenin de ekonomik büyümesine katkı sağlayacak.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 53
+**Retention**: 34.87%
+
+Kredi verilecek Üstelik 12 ay vadeyle kampanya Eylül ayı sonunda bitiyor. 700.000 liraya kadar % faiz desteğiyle sahip olunabiliyor. Bu konfora sahip olmak isteyenler anlaşmalı bankalardan 700.000 TL 12 ay % faizli kredi olarak kullanabilecek. İyi bir 2,99 faiz oranıyla 30 ay vadeli olarak da kullanılabilecek. Benzeri kampanya yapan faizsiz kampanyalar da mevcut.
+
+================================================================================
+

@@ -1,0 +1,65 @@
+# Economic Content from: ATV20240910_atv Ana Haber ｜ 10 Eylül 2024.tr.txt
+# Processed: 2025-07-22T16:13:01.664102
+# Original: 4722 words → Filtered: 347 words (7.35% retention)
+# Economic segments: 4
+
+## Economic Segment 1
+
+**Method**: pattern_validated
+**Confidence**: 0.75
+**Word Count**: 99
+**Retention**: 100.00%
+
+ifadede bazı sorulara yanıt vermemesi de ayrıca dikkat çekici köy ise adeta suskunluğa gömülmüş
+durumda her şeyi üstünü kapatıyorlar konuşmayanlara da sesleniyoruz vicdan sahibi olun biraz konuşun
+artık görmemesi gereken bir şey mi gördü yoksa bilmemesi gereken bir şey mi öğrendi Narine kim kıydı
+soru çok ama bütün köy Suskun bu köy hepsi akrabadır onun için her şeyi üstünü kapatıyorlar n Gür
+soruşturması derinleşerek devam ediyor 24 şüpheli gözaltında sacı ek gözaltı kararı verdi 24
+şüphelinin ifadesi bittikten sonra adliye çıkarılması bekleniyor soruşturmayı yürüten savcılar aile
+üyelerinin en baştan beri arama çalışmalarını yanlış yönlendirdiği üzerinde duruyor köyde ise adeta
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 130
+**Retention**: 100.00%
+
+000 L
+civarında bir ücrete satacaklarını düşündükleri cihaz mühendislerin ölçüm yapmak için kullandıkları
+reflektör metreydi Neyse ki polis onlara reflektör metrenin değerini anlayamadan Hırsızları yakaladı
+cihaz ne olduğunu bilmeyen şahıslar tarafından çalınmıştı Neyi çaldığını bilmeyen hırsız olur mu
+oldu motosikletli Hırsızlar üst geçidi ve Yolları ölçen aleti görünce ne olduğunu neye yaradığını
+bilmeden alıp böyle kaçtı abi araban oradan çıkıyor yol çizgi boyaması içinde çalışıyorum ölçüm
+yapmaya yarıyor fiyatı 1 milyon liranın üzerinde olan O cihaz İstanbul Esenyurt'ta ölçüm yapıyordu
+iki azılı hırsız yolda motosikletiyle seyir halindeyken O cihazı gördü ardından motosikletten
+indiler bir süre O cihazı kurcalamaya başladılar ne işe yaradığını anlamaya çalıştılar ardından da o
+cihazı Motosiklete atıp hızla olay yerinden Uzaklaştılar hırsızların çaldığı cihaz İşte bu
+reflektometre genelde Mühendislik alanında kullanılan bir cihaz İki hırsız çaldıkların 102
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 52
+**Retention**: 33.99%
+
+Bakıcı fiyatları 177.000 liradan başlıyor ve 50.000 liraya kadar çıkıyor. Bu fiyatlar gerçekten yüksek, bu nedenle aileler çocuklarına kendileri bakmayı tercih ediyor. Bakıcı fiyatlarının artışı, ailelerin büyüklerine yönelmesine neden oluyor. Anne babalar, yüksek bakıcı maliyetleri nedeniyle alternatif çözümler aramak zorunda kalıyor. Bu durum, ailelerin ekonomik durumlarını da etkileyen bir mesele haline geldi.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 66
+**Retention**: 33.85%
+
+Bakıcı fiyatları 1000 dolardan başlıyor, 1500-1600 dolara kadar çıkıyor. Fiyatlar her iki ayda bir yükseliyor ve bu durum aileleri zorluyor. Ortalama kreş ve anaokulu fiyatları 100,000 liradan başlayıp 500-600,000 liraya kadar çıkıyor. Bu rakamlar, ailelerin ya yarım gün bakıcı tutmasına ya da çocuklarını kreşe göndermesine neden oluyor. Eğitim durumu ve yabancı dil bilgisi, bakıcıların alacağı maaşı belirliyor. Aileler, yüksek fiyatlar nedeniyle tam zamanlı bakıcı bulmakta zorlanıyor.
+
+================================================================================
+

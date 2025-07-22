@@ -1,0 +1,165 @@
+# Economic Content from: 20240722_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 22 Temmuz 2024.tr.txt
+# Processed: 2025-07-22T17:58:48.300225
+# Original: 10056 words → Filtered: 1241 words (12.34% retention)
+# Economic segments: 8
+
+## Economic Segment 1
+
+**Method**: pattern_validated
+**Confidence**: 0.75
+**Word Count**: 87
+**Retention**: 100.00%
+
+paniğe neden oldu sarsıntının başlaması ile birlikte Eee Ezine'de Biz şu anda ezine'nin köylerine
+doğru gidiyoruz e herkes dışarı fırladı kısa fakat çok şiddetli bir sarsıntıyı herkes büyük paniğe
+kapıldı dışarılara çıktı Eee şu anda Gördüğümüz kadarıyla Biz ezine'nin E bu Tavaklı İskelesi köyüne
+geldik Eee Burada da genellikle iki katlı ve veya tek katlı yapılar var bir hasar görünmüyor ancak
+insanların yüzlerinden hala O paniği okuyabiliyoruz çünkü bayağı şiddetli bir sarsıntıyı özellikle
+tatilciler e İstanbul'dan gelen e depremden kaçıp Eee tatile gelen tatilciler büyük paniğe kapılmış
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 65
+**Retention**: 100.00%
+
+gözlemlediğimiz kadarıyla çok büyük bir hasara Neden olmadı Fakat tabii insanlarda Eee şunun korkusu
+var bu acaba artçı deprem miydi arkası gelir mi öne olur mu Çünkü Eee Dün de Eee gene bu civarda 3,5
+şiddetinde bir deprem olmuştu Eee akşam bayağı hissedenler oldu Onları da geceyi dışarıda geçirenler
+oldu hatta bir de şimdi bunun üzerine bu büyük deprem olunca insanlar epey bir paniğe kapılmış
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 425
+**Retention**: 100.00%
+
+7 aşmayacak depremler beklendi ama 6 Şubat'ta biz
+onu da tatbik ettik Tedirgin edici bir durum var mıdır E şöyle Hani buradaki depremle Eee Marmara
+Denizi'nde olacak depremin Hani uzaktan yakından ilgisi yok e birbirinden bağımsız Eee fay hatları
+üzerinde meydana gelen depremler e Dün veya Ondan önceki Hani Marmara adasının hemen Marmara Denizi
+içinde de bir deprem meydana gelmişti ama Marmara Denizi'nin deprem tehlikesinin de E bu depremden
+bağımsız olarak oldukça yüksek olduğunu Önümüzdeki günler Yıllar İçinde de Eee deprem olma
+olasılığının da her geçen gün arttığını da sizin vesilenle belirtmiş olalım ama birbiri ile ilişkisi
+olmadığını da e tekrar Eee vurgulamış olalım yine sizlerin aracılığıyla Peki Eee bu bölgede daha
+büyük bir depreme gebe midir bu durum Ya da bu bölgede büyük bir deprem bekleniyor mu kısa vadede
+Tıpkı Marmara depremi gibi civarında Eee üretme potansiyeli olan yani orada hem karada hem Ege
+Denizi içinde altıdan büyük deprem üretme potansiyeli olan faylar var Yani bunların Tabii Biz her ne
+kadar tam ne zaman kırılacağını bilemiyor olsak da Geçmiş dönemde meydana gelen deprem verilerine
+Eee deprem fayın derinliğine fayın uzunluğuna E bu tip bilgilere bakarak da bunların deprem üretme
+potansiyeli hakkında yorumlarda bulunuyoruz Hı hı E bu bölge Tabii hem e Türkiye'nin hem dünyanın E
+hani deprem açısından Ege Denizi özellikle Ege Bölgesi Eee deprem üretme potansiyeli oldukça yüksek
+bir bölge e Çanakkale'de zaten 2019 yılında bu AFAD tarafından afet ve acı durum Yönetim Başkanlığı
+tarafından yayınlanmış olan resmi deprem tehlike haritasına göre de e Türkiye'nin deprem tehlikesi
+en yüksek yerlerden biri olarak gösteriliyor e dolayısıyla da Eee Hem bu büyüklükte Hem bundan daha
+büyüklükte deprem olma olasılığı da Eee olduğunu söyleyebiliriz Ama bugünden yarına hemen olacak
+demek de biraz Eee zor tabii tarihini zamanını bilemiyoruz biliyorsunuz depremin Hı hı Eee ama biz
+her zaman Eee binalarımızı yapılarımız yaparken resmi deprem tehlike haritasına bina deprem
+yönetmeliğine ve zemin etüdünde elde edilen bilgiler ışığı altında binalarımızı yaparsak E bu ve
+buna benzer veya bundan daha büyük depremlerden de et il ilenme olasılığımız hasar görme
+olasılığımız en alt oluruz Evet e devam edeceğiz Bülent hocam soracağım sorular var ama Şimdi
+bölgeye bir gidelim bölgeden son gelişmeleri de almış olalım onun üzerine daha detaylı konuşuruz
+cemhan Şen Çanakkale dea muhabiri bizimle birlikte Cem Han Geçmiş olsun son durumu aktarır mısın
+bize kuşkusuz e son gelen açıklamalar doğrultusunda riskli bir durum söz konusu değil can kaybı yok
+yıkılan hasarlı bir bina yok Öncelikle o açıklama yapılmıştı var mı yeni bir gelişme Evet
+Çanakkale'nin Ezine ilçesinde AFAD verilerine göre saat 1739 sıralarında meydana geldi deprem ve
+depremin büyüklüğü 4
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 206
+**Retention**: 100.00%
+
+7 olarak ölçüldü yerin 10 km altında meydana geldi deprem ve Çanakkale'nin yanı
+sıra Tekirdağ Balıkesir gibi yakın illerden de hissedildi Çanakkale valisi Ömer Toraman'ın bir
+açıklaması var Depremden önce ve herhangi bir olumsuzluğun kendilerine ikal etmediğini ekiplerin
+sahada çalışmalarına tarama faaliyetlerine devam ettiği bildirildi öte yandan İçişleri Bakanı Ar
+yerik ya da aynı şekilde meydana gelen depremde ilgili kurumların tüm ekiplerin sahada tarıma
+çalışmalarına devam ettiğini ve olumsuz bir durum olmadığının altını çizdiğini söyleyebiliriz kentte
+kısa süreli paniğin ardından Hayat normale döndü deyip sözü tekrar size bırakalım şu anda Hayat
+normale döndü vatandaşlar normal yaşantısına devam ediyor evlere giriyorlar o zaman Evet Yani çoğu
+Çanakkale Merkez dahil olmak üzere Çanakkale'nin birçok ilinde depremin hissedilmediği bazı
+noktalarda söyleyebiliriz özellikle dışarıda olan vatandaşların depremi hissetmediğini E biz
+dışarıda etüt ettik onun dışında bazı evlerde de depremi hissetmeyen vatandaşlar ya da Tedirgin
+olmayan vatandaşların sokağa çıkmadığını söyleyebiliriz Ezine ilçesinde Tabii ki merkez üstü olduğu
+için daha panik bir durum oldu ve orada da Hayat normale döndüğünü herhangi bir olumsuz olmadığını
+söyleyebiliriz Peki Cemal Şen Teşekkürler Çanakkale devami son gelişmeleri aldık kendisinden bölgede
+Hayat olağan akışına uygun şekilde devam ediyor hemen Bülent Hocama tekrar dönelim hocam
+Çanakkale'nin bölge yapısı Eee coğrafi yapısı toprak yapısı zemin yapısı nasıldır yani 4
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 286
+**Retention**: 100.00%
+
+7
+büyüklüğünde bir deprem şimdi bazı noktalarda hissedilmemesi karada gerçekleşen bir deprem bunun
+nası yorumlarsınız neler söylersiniz Evet aslında Tabii hem bakan beyin hem vali beyin hem sizin
+muhabirin yapmış olduğu açıklamalar oldukça Sevindirici Ben de şu anda Aslında Burhaniye'de
+bulunuyorum yani deprem merkez üstüne yakın bir yakın bir noktasız evet Eee ben de hissetmedim
+açıkçası dışarıdayken Hani Demek ki yani bunun derinliğinin biraz az olması uzak noktalardan kısmen
+de uzak olan yerlerde hissedilme oranını düşürüyor daha çok Ayvacık ve Ezine'de hemen deprem merkez
+üstüne yakın yerde olan Eee kişileri insanları özellikle evin içinde olanları bir şekilde hissetmiş
+oluyorlar Tabii bölgede Eee hem e sağlam hem sağlam olmayan diyeceğimiz e zemin özellikleri var yani
+bunu Eee Tabii Eee anca genel olarak yorumda bulunabiliyor Hani bölge bölge ev ev zemin yapısını
+bilmek mümkün değil ama e Sonuçta Türkiye geneli gibi Çanakkale ili Balıkesir ili hem zemin
+açısından hem Eee kurallara uymayan Eee uymayarak yapılan bina stoğunun fazlalığı yüzünden de Eee
+Türkiye'nin diğer yerleri gibi buralarda da Eee bu ve benzer büyüklükteki depremler e maalesef
+endişeye neden oluyor E bu açıdan da biz tabii her depremden Aslında ders alarak önümüze eee Eee yol
+almakta fayda var Özellikle binasının riskli olduğunu binasının deprem açısından Eee tehlikesinin
+durumundan şüphe eden kişilerin de Eee işte kentsel dönüşüm çalışmalarına destek olması e
+bulunmaları bulundukları binaların da riskli olup olmadığı ile ilgili e tespit yaptırarak Eee
+bunları varsa sıkıntılı bir durum e güçlendirerek Eee ilerleyen zaman içinde olması beklenen daha
+büyük bir depremlere de e binalarımızı hazırlamakta fayda var peki Doçent Doktor Bülent Özmen deprem
+mühendisi hocam Çok teşekkürler verdiğiniz değerli bilgiler için katkılarınız için çok sağ olun Ben
+de teşekkür ediyorum kolaylıklar diliyorum teşekkür ederiz sağ ol Evet Çanakkale Ezine Merkezi 4
+
+================================================================================
+
+## Economic Segment 6
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 82
+**Retention**: 91.11%
+
+Emeklilerin maaşları Temmuz ayında 12,500 liraya yükseltildi. Ancak gerekli yasal düzenlemeler bu ödemelere yetişmediği için emekliler zamlı maaşlarını Ağustos ayında almaya başlayacaklar. Bu ayki 2,500 liralık fark da alınacak, böylece emekliler bu ay eski maaş üzerinden 10,000 lira alacaklar. Önümüzdeki ay 12,500 artan maaş üzerine 2,500 lira farkla toplamda 15,000 lira almış olacaklar. En düşük emekli maaşı bu Temmuz zam farkları alınacak maaşın öncesinde hesaplara yatacak. Şu anda emekli sayımız 16,800 ve 12,500 lira emekli maaş farkından etkilenecek emekli sayımız ise 3,770.
+
+================================================================================
+
+## Economic Segment 7
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 54
+**Retention**: 30.86%
+
+Gözler maaş farklarının ödeneceği tarihe çevrildi. Emekli maaşları tarihleri, tahsis numaralarına göre belirlenmiştir. En düşük emekli maaşı 10,000 lira olarak belirlenmiştir. Memur emeklileri maaşlarını 1-5 Temmuz arasında aldılar, ancak maaş fark zamlarını henüz almadılar. Mecliste tasarı geçtikten sonra, maaş zam farklarını da almış olacaklar. Bu durum, emeklilerin alım gücünü etkileyen önemli bir ekonomik gelişmedir.
+
+================================================================================
+
+## Economic Segment 8
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 36
+**Retention**: 61.02%
+
+Denize açılan balıkçılar için durum daha da zor. Suya gömülen batıkları çıkartmanın maliyeti 10,000 liradan az değil. Taşıma masrafları hariç, en az 20,000-30,000 lira harcama gerekecek. Hurda haldeki tekneyi karaya çıkartmanın maliyeti en az 10,000 lira.
+
+================================================================================
+

@@ -1,0 +1,62 @@
+{
+  "file_path": "news/TV100/20241008_Erdoğan Aktaş ile tv100 Ana Haber ｜ 8 Ekim 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T18:37:34.057125",
+  "original_word_count": 12101,
+  "filtered_word_count": 46,
+  "retention_ratio": 0.0038013387323361705,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "İyi akşamlar Ben Erdoğan Aktaş...",
+      "description": "\"İyi akşamlar Ben Erdoğan Aktaş...\" - The presenter introduces himself and the program, mentioning the topics to be discussed and inviting audience participation.",
+      "end_pos": 579
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 579,
+      "start_sentence": "Bahçeli'den Dem partiye Çağrı...",
+      "description": "\"Bahçeli'den Dem partiye Çağrı...\" - The main news content begins with a report on MHP leader Devlet Bahçeli's statements regarding national unity and political collaboration, detailing his messages and the context of his speech.",
+      "end_pos": 1350
+    },
+    {
+      "type": "5. **OUTRO**",
+      "start_pos": 1350,
+      "start_sentence": "Bu vesileyle bütün siyasi partilere...",
+      "description": "\"Bu vesileyle bütün siyasi partilere...\" - The closing remarks of the news segment, summarizing the key points discussed and providing a final thought on the importance of unity in politics.",
+      "end_pos": 1442
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 1442,
+      "start_sentence": "Siyasette hiç kimseyle hiçbir partiyle...",
+      "description": "\"Siyasette hiç kimseyle hiçbir partiyle...\" - This section serves as a transition within the news segment, summarizing the political atmosphere and the significance of Bahçeli's call for unity before moving on to further details.",
+      "end_pos": 1640
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1640,
+      "start_sentence": "Milliyetçi Hareket Partisi genel başkanı...",
+      "description": "\"Milliyetçi Hareket Partisi genel başkanı...\" - Continuation of the news segment, providing more details about Bahçeli's actions and statements during the parliamentary session and the implications for Turkish politics.",
+      "end_pos": 87153
+    }
+  ],
+  "news_segments_count": 9,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "1640_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 55,
+      "filtered_length": 46,
+      "retention_ratio": 0.8363636363636363,
+      "section_description": "\"Milliyetçi Hareket Partisi genel başkanı...\" - Continuation of the news segment, providing more details about Bahçeli's actions and statements during the parliamentary session and the implications for Turkish politics."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

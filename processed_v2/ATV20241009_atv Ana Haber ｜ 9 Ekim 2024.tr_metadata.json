@@ -1,0 +1,62 @@
+{
+  "file_path": "news/ATV/ATV20241009_atv Ana Haber ｜ 9 Ekim 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T16:01:21.023882",
+  "original_word_count": 4773,
+  "filtered_word_count": 93,
+  "retention_ratio": 0.01948460087994972,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 23,
+      "start_sentence": "İyi akşamlar Bugün 9 Ekim 2024 Çarşamba...",
+      "description": "\"İyi akşamlar Bugün 9 Ekim 2024 Çarşamba...\" - The presenter opens the broadcast, introduces the date, and mentions the absence of a host due to a minor health issue, setting the stage for the news content.",
+      "end_pos": 201
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 201,
+      "start_sentence": "Cumhurbaşkanı 28 günlük aranın ardından Bugün mecliste...",
+      "description": "\"Cumhurbaşkanı 28 günlük aranın ardından Bugün mecliste...\" - This section contains the main news content, discussing the President's statements at a party meeting, addressing issues related to crime and justice, and detailing proposed changes to the penal system.",
+      "end_pos": 1356
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 1356,
+      "start_sentence": "Erdoğan Ak Parti grup toplantısında kürsüde eydi...",
+      "description": "\"Erdoğan Ak Parti grup toplantısında kürsüde eydi...\" - This brief transition indicates a shift in focus to the President's responses to criticisms from the opposition party, serving as a segue into further news details.",
+      "end_pos": 1557
+    },
+    {
+      "type": "5. **OUTRO**",
+      "start_pos": 1557,
+      "start_sentence": "katkı sunmak istiyorsan Öncelikle Rakı reklamı yapmaktan vazgeç...",
+      "description": "\"katkı sunmak istiyorsan Öncelikle Rakı reklamı yapmaktan vazgeç...\" - The closing remarks include a call to action directed at the opposition, wrapping up the discussion and signaling the end of the news segment.",
+      "end_pos": 1754
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1754,
+      "start_sentence": "68 Ekim olayları için ayrı bir başlık açtı...",
+      "description": "\"68 Ekim olayları için ayrı bir başlık açtı...\" - This section continues the news coverage, focusing on the President's comments regarding historical events and political criticisms, providing additional context and details.",
+      "end_pos": 33940
+    }
+  ],
+  "news_segments_count": 5,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "201_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 153,
+      "filtered_length": 93,
+      "retention_ratio": 0.6078431372549019,
+      "section_description": "\"Cumhurbaşkanı 28 günlük aranın ardından Bugün mecliste...\" - This section contains the main news content, discussing the President's statements at a party meeting, addressing issues related to crime and justice, and detailing proposed changes to the penal system."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

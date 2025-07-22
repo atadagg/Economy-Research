@@ -1,0 +1,80 @@
+{
+  "file_path": "news/ATV/ATV20240627_atv Ana Haber ｜ 27 Haziran 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T16:39:27.734783",
+  "original_word_count": 4736,
+  "filtered_word_count": 324,
+  "retention_ratio": 0.06841216216216216,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "Arar buluruz düzün bilsin öndeyiz...",
+      "description": "\"Arar buluruz düzün bilsin öndeyiz...\" - The program opens with a musical introduction and a greeting from the presenter, signaling the start of the broadcast.",
+      "end_pos": 188
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 188,
+      "start_sentence": "Bugün 27 Haziran 2024 perşembe günün manşeti...",
+      "description": "\"Bugün 27 Haziran 2024 perşembe günün manşeti...\" - The main news content begins with the date and a headline about the Turkish national football team's victory over the Czech Republic in Euro 2024, detailing the match and its significance.",
+      "end_pos": 783
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 783,
+      "start_sentence": "Arkadaşlar bir telaş var bu kutlu gün bizim Zafer Düğün...",
+      "description": "\"Arkadaşlar bir telaş var bu kutlu gün bizim Zafer Düğün...\" - A brief transition occurs as the presenter shifts focus to the excitement surrounding the victory and the reactions from fans and supporters.",
+      "end_pos": 1073
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1073,
+      "start_sentence": "Bundan tam 16 yıl önce euro 2008'de son maçta yine çekya oynamıştı...",
+      "description": "\"Bundan tam 16 yıl önce euro 2008'de son maçta yine çekya oynamıştı...\" - The news segment continues with a historical reference to a previous match against the Czech Republic, drawing parallels between past and present performances.",
+      "end_pos": 1838
+    },
+    {
+      "type": "5. **OUTRO**",
+      "start_pos": 1838,
+      "start_sentence": "tebriki en çok hak eden Şüphesiz Gurbetçiler Berlin sokakları...",
+      "description": "\"tebriki en çok hak eden Şüphesiz Gurbetçiler Berlin sokakları...\" - The program concludes with closing remarks that celebrate the supporters and the team's achievements, wrapping up the broadcast.",
+      "end_pos": 32716
+    }
+  ],
+  "news_segments_count": 9,
+  "economic_segments_count": 3,
+  "economic_segments": [
+    {
+      "segment_id": "1838_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 158,
+      "filtered_length": 158,
+      "retention_ratio": 1.0,
+      "section_description": "\"tebriki en çok hak eden Şüphesiz Gurbetçiler Berlin sokakları...\" - The program concludes with closing remarks that celebrate the supporters and the team's achievements, wrapping up the broadcast."
+    },
+    {
+      "segment_id": "1838_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 92,
+      "filtered_length": 92,
+      "retention_ratio": 1.0,
+      "section_description": "\"tebriki en çok hak eden Şüphesiz Gurbetçiler Berlin sokakları...\" - The program concludes with closing remarks that celebrate the supporters and the team's achievements, wrapping up the broadcast."
+    },
+    {
+      "segment_id": "1838_5",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 156,
+      "filtered_length": 74,
+      "retention_ratio": 0.47435897435897434,
+      "section_description": "\"tebriki en çok hak eden Şüphesiz Gurbetçiler Berlin sokakları...\" - The program concludes with closing remarks that celebrate the supporters and the team's achievements, wrapping up the broadcast."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

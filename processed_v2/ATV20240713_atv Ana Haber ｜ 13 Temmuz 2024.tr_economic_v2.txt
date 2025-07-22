@@ -1,0 +1,27 @@
+# Economic Content from: ATV20240713_atv Ana Haber ｜ 13 Temmuz 2024.tr.txt
+# Processed: 2025-07-22T16:11:38.427514
+# Original: 4431 words → Filtered: 166 words (3.75% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 96
+**Retention**: 41.38%
+
+Marketlerden gelen fiyat farklılıkları, tüketicileri mağdur ediyor. Ankara Pursaklar Belediyesi, bu durumu önlemek için bir uygulama başlatarak, raf ve kasa fiyatları arasında farklılık olan işletmelere hem para hem de kapatma cezası veriyor. Bu uygulama, marketlerdeki yanıltıcı fiyat etiketleri nedeniyle artan şikayetler üzerine hayata geçirildi. Zabıta ekipleri, ilçe genelindeki marketleri tek tek gezerek, kasa fiyatı ile reyon fiyatının ayrı olduğunu tespit ettikleri işletmelere ceza uyguluyor. Tüketiciyi yanıltan marketlere uygulanan para cezası, ilk seferde 10 kat artırılıyor ve aynı durumun tekrarında marketin kapatılması söz konusu olabiliyor. Bu tür denetimlerin amacı, fiyatların şeffaflığını sağlamak ve tüketicilerin korunmasını temin etmektir.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 70
+**Retention**: 45.45%
+
+Kahramanmaraş'ın Türkoğlu ilçesine bağlı Özbek Köyü'nde 54 ev yapıldı ve bu köy evleri vatandaşlara teslim edildi. Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, deprem bölgesinde Gaziantep'te kalıcı konutları inceleyerek çalışmalardaki son bilgileri paylaştı. Toplamda 76,000 konutun teslimini gerçekleştirdiklerini belirtti. İlerleyen süreçte her ay 25,000-30,000 konutun tamamlanmasının hedeflendiğini ve yıl sonuna kadar toplamda 200,000 konutun inşa edilmesinin planlandığını ifade etti. Bu projeler, bölgedeki ekonomik canlanmayı destekleyecek önemli adımlar arasında yer alıyor.
+
+================================================================================
+

@@ -1,0 +1,73 @@
+# Economic Content from: ATV20241017_atv Ana Haber ｜ 17 Ekim 2024.tr.txt
+# Processed: 2025-07-22T16:38:37.765173
+# Original: 4766 words → Filtered: 528 words (11.08% retention)
+# Economic segments: 5
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 116
+**Retention**: 71.17%
+
+Türkiye, 7 Ekim'den bu yana İsrail'in uyguladığı saldırılar sonrası Lübnan'a destek için harekete geçti. Türk askerinin Lübnan'daki görev süresini uzatacak tezkere hazırlandı. Türkiye, Lübnan tezkeresinin uzatılması için de harekete geçti. Türk askerinin uzatılmasını içeren tezkere önümüzdeki haftalarda meclis genel kuruluna gelecek. 
+
+Bu süreçte, Türkiye'nin ekonomik durumu ve dış politikası üzerindeki etkileri de göz önünde bulundurulmalıdır. Türkiye'nin bölgedeki askeri varlığı, ekonomik ilişkiler ve ticaret üzerinde önemli bir etki yaratabilir. Özellikle, Lübnan ile olan ticaretin durumu ve olası ekonomik yaptırımlar, Türkiye'nin ekonomik stratejilerini şekillendirebilir. 
+
+Ayrıca, Türkiye'nin bu tür askeri ve diplomatik adımları, uluslararası yatırımcıların güvenini etkileyebilir ve finansal piyasalarda dalgalanmalara yol açabilir. Ekonomik istikrar, bu tür gelişmelerle doğrudan bağlantılıdır ve Türkiye'nin dış politikası, ekonomik büyüme hedefleriyle uyumlu olmalıdır.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 117
+**Retention**: 68.82%
+
+Yıl sonu yaklaştıkça asgari ücrete artış konusunda tahminler de konuşulmaya başlandı. Orta vadeli programda 2025 yılı için enflasyon hedefi % 17,5 olarak açıklandı. Eğer bu oranda bir artış yapılırsa, 2.975 Lira 35 kuruşluk bir zam anlamına geliyor. Böylece asgari ücret 19.977 Lira 35 kuruşa yükseliyor. Merkez Bankası katılımcılarının beklentisi ise 2025 enflasyonunun % 120 gelebileceği yönünde. Bu durumda artış oranının da % 120 olma ihtimali var. Bu da 3.400 Lira 40 kuruşluk bir zam demek; yani yeni asgari ücret 20.000 Lira 42 kuruş olabilir. Cumhurbaşkanının her dönem olduğu gibi refah payı vermesi de beklentiler arasında. Böylelikle artış oranının % 25'i bulabileceği belirtiliyor; bu durumda net asgari ücret 4.250 Lira 50 kuruşluk artışla 21.252 Lira 50 kuruşa çıkabilir.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 122
+**Retention**: 61.31%
+
+000 T civarında bir asgari ücretin belirlenmesi söz konusu olabilir. İşverene verilen kişi başı 700 liralık destek priminin yükseltilmesi için de çalışma yapılacak. Ayrıca, prim borcu olmayan ve kaçak sigortalı çalıştırmayan işverenlere % 5 oranında teşvik de söz konusu olacaktır. 
+
+AK Parti'nin hazırladığı savunma sanayine destek fonu düzenlemesinde dikkat çeken yeni bir gelişme oldu. Limiti 100,000 L ve üzeri olan kredi kartlarından 750 liralık katkı payı alınmasına yönelik madde iptal edildi. Bu, günün önemli gelişmelerinden biriydi. 
+
+Kiralarla ilgili olarak, bazı ev sahiplerinin kiranın bir kısmını ya da tamamını elden alması, vergi kaçırma durumu yaratıyordu. Ancak artık bu dönem sona erdi; kirayı elden veren kiracı da alan ev sahibi de ceza ödeyecek. Kiraların bir bölümünü banka yoluyla almak gibi uygulamalar artık geçerli olacak.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 104
+**Retention**: 60.82%
+
+Kiradan gelen her kuruş artık banka aracılığıyla ödenmek zorunda ve bu durum, maliyenin kayıt dışılıkla mücadele çabalarının bir parçası olarak öne çıkıyor. Kiraların banka yoluyla veya PTT yoluyla yatırılması gerektiği belirtiliyor. Bu yeni düzenleme ile hem ev sahipleri hem de kiracılar maliyenin radarına girdi. Elden verilen kiraların belirtilen değerden daha düşük gösterilmesi durumunda, maliye bu durumu tespit ederse iş yeri ya da konut sahibine ve kiracıya ayrı ayrı ceza kesecek. Cezaların alt limiti 5,000 lira, üst limiti ise 20 milyon lira olarak belirlenmiş durumda. 50,000 liranın üzerinde kiralar için % ceza uygulanacak. Bu durum, kayıt dışı ekonomiyi azaltma ve vergi kaybını önleme amacı taşıyor.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 69
+**Retention**: 100.00%
+
+000
+arkadaşımla beraber geldik bakıyoruz gözümüzü şenlendiriyor kim için bakıyorsunuz bu K kendim için
+Bakıyorum bu kolyeye çok zevkli bir kolyeye benziyor Zaten evlenecek çiftleri hiç unutmadık bir çift
+alyansım 12 000 t'ye vereceğiz bu fuarda her zevk her bütçe düşünülmüş sadece planta taşlar değil
+işte Zümrüt taşlar taşlar Safir taşlar ve Elmas taşlar da bu fuarın önemli bir parçası sitrin taşlı
+Panta yüzüklerimiz kadının gücünü temsil eder 50
+
+================================================================================
+

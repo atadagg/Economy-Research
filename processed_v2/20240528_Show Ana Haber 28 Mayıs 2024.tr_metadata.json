@@ -1,0 +1,113 @@
+{
+  "file_path": "news/Show/20240528_Show Ana Haber 28 Mayıs 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T17:35:57.651503",
+  "original_word_count": 2704,
+  "filtered_word_count": 221,
+  "retention_ratio": 0.08173076923076923,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "İyi akşamlar sayın seyirciler",
+      "description": "\"İyi akşamlar sayın seyirciler\" - The presenter introduces herself and sets the stage for the news broadcast, indicating the start of the program.",
+      "end_pos": 0
+    },
+    {
+      "type": "- **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "İyi akşamlar sayın seyirciler",
+      "description": "\"İyi akşamlar sayın seyirciler\" - The presenter introduces herself and begins the news broadcast.",
+      "end_pos": 95
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 95,
+      "start_sentence": "Hemen başlayalım",
+      "description": "\"Hemen başlayalım\" - The bulk of the content consists of various news stories, including discussions on Israel's actions in Palestine, Turkish political developments, and statements from President Erdoğan regarding public spending and governance.",
+      "end_pos": 95
+    },
+    {
+      "type": "- **NEWS**",
+      "start_pos": 95,
+      "start_sentence": "Hemen başlayalım",
+      "description": "\"Hemen başlayalım\" - The main news content begins, covering various political and social issues.",
+      "end_pos": 190
+    },
+    {
+      "type": "5. **TRANSITION**",
+      "start_pos": 190,
+      "start_sentence": "Cumhurbaşkanı Milli Güvenlik kurulu'nu da topladı",
+      "description": "\"Cumhurbaşkanı Milli Güvenlik kurulu'nu da topladı\" - Another transition indicating a shift to a new topic regarding the National Security Council meeting.",
+      "end_pos": 770
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 770,
+      "start_sentence": "Cumhurbaşkanı Sayıştay'ın 162 kuruluş yıldönümü programında",
+      "description": "\"Cumhurbaşkanı Sayıştay'ın 162 kuruluş yıldönümü programında\" - This phrase indicates a shift in focus within the news segment, transitioning from one topic to another, specifically moving from Erdoğan's comments on public spending to his remarks at a different event.",
+      "end_pos": 1066
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1066,
+      "start_sentence": "Bazı kamu hizmetlerine ilişkin şikayetlerin ise çoğaldığını söyledi",
+      "description": "\"Bazı kamu hizmetlerine ilişkin şikayetlerin ise çoğaldığını söyledi\" - This continues the news segment, discussing the increase in public complaints and Erdoğan's response to them.",
+      "end_pos": 1354
+    },
+    {
+      "type": "6. **NEWS**",
+      "start_pos": 1354,
+      "start_sentence": "masada kritik başlık terörle mücadele",
+      "description": "\"masada kritik başlık terörle mücadele\" - This section continues to cover the news, focusing on the critical topics discussed in the National Security Council meeting, including terrorism and international issues.",
+      "end_pos": 1451
+    },
+    {
+      "type": "7. **TRANSITION**",
+      "start_pos": 1451,
+      "start_sentence": "siyasetteki yumuşama ve normalleşme tartışmaları",
+      "description": "\"siyasetteki yumuşama ve normalleşme tartışmaları\" - This phrase indicates a transition to discussions about political normalization and related messages from political leaders.",
+      "end_pos": 1541
+    },
+    {
+      "type": "8. **NEWS**",
+      "start_pos": 1541,
+      "start_sentence": "MHP lideri Devlet Bahçeli'nin CHP genel başkanı Özgür özel'e mesajları",
+      "description": "\"MHP lideri Devlet Bahçeli'nin CHP genel başkanı Özgür özel'e mesajları\" - This section covers specific political messages and reactions, continuing the news narrative.",
+      "end_pos": 1635
+    },
+    {
+      "type": "9. **OUTRO**",
+      "start_pos": 1635,
+      "start_sentence": "böylesi uçuk kaçık ve garabet yumuşamaya karnımız Tok",
+      "description": "\"böylesi uçuk kaçık ve garabet yumuşamaya karnımız Tok\" - This closing remark from a political figure serves as a conclusion to the news segment, summarizing the sentiment towards political discussions.",
+      "end_pos": 19133
+    }
+  ],
+  "news_segments_count": 7,
+  "economic_segments_count": 2,
+  "economic_segments": [
+    {
+      "segment_id": "1635_0",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 261,
+      "filtered_length": 134,
+      "retention_ratio": 0.5134099616858238,
+      "section_description": "\"böylesi uçuk kaçık ve garabet yumuşamaya karnımız Tok\" - This closing remark from a political figure serves as a conclusion to the news segment, summarizing the sentiment towards political discussions."
+    },
+    {
+      "segment_id": "1635_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 163,
+      "filtered_length": 87,
+      "retention_ratio": 0.5337423312883436,
+      "section_description": "\"böylesi uçuk kaçık ve garabet yumuşamaya karnımız Tok\" - This closing remark from a political figure serves as a conclusion to the news segment, summarizing the sentiment towards political discussions."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "file_path": "news/Show/20240629_Show Ana Haber 29 Haziran 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T17:13:39.150286",
+  "original_word_count": 3238,
+  "filtered_word_count": 60,
+  "retention_ratio": 0.01852995676343422,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "Şana Haber'den İyi akşamlar değerli izleyenler",
+      "description": "\"Şana Haber'den İyi akşamlar değerli izleyenler\" - The presenter introduces the program and sets the stage for the news content to follow.",
+      "end_pos": 96
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 96,
+      "start_sentence": "Cumhurbaşkanı Erdoğan yaklaşık 30 gün aranın ardından",
+      "description": "\"Cumhurbaşkanı Erdoğan yaklaşık 30 gün aranın ardından\" - This section contains the main news stories, including political developments, statements from officials, and discussions about local governance and foreign policy.",
+      "end_pos": 1069
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 1069,
+      "start_sentence": "Suriye ile bu ilişkileri geliştirmekte",
+      "description": "\"Suriye ile bu ilişkileri geliştirmekte\" - This brief transition indicates a shift from one news topic to another, specifically moving from local political issues to foreign relations.",
+      "end_pos": 1170
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1170,
+      "start_sentence": "Cumhurbaşkanı Suriye ile normalleşme mesajı da vermiş",
+      "description": "\"Cumhurbaşkanı Suriye ile normalleşme mesajı da vermiş\" - This continues the news content, focusing on the President's messages regarding foreign policy and relations with Syria.",
+      "end_pos": 1467
+    },
+    {
+      "type": "5. **NEWS**",
+      "start_pos": 1467,
+      "start_sentence": "değerler sıı Türkiye'nin listeden çıkarılması",
+      "description": "\"değerler sıı Türkiye'nin listeden çıkarılması\" - This section continues with additional news content, discussing political reactions and statements from opposition leaders.",
+      "end_pos": 1750
+    },
+    {
+      "type": "6. **OUTRO**",
+      "start_pos": 1750,
+      "start_sentence": "bulunduğumuz yer zaten pek çok ülkenin bulunduğu bir yerdi",
+      "description": "\"bulunduğumuz yer zaten pek çok ülkenin bulunduğu bir yerdi\" - This section wraps up the news content, providing final remarks and concluding the program.",
+      "end_pos": 22601
+    }
+  ],
+  "news_segments_count": 6,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "1750_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 60,
+      "filtered_length": 60,
+      "retention_ratio": 1.0,
+      "section_description": "\"bulunduğumuz yer zaten pek çok ülkenin bulunduğu bir yerdi\" - This section wraps up the news content, providing final remarks and concluding the program."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

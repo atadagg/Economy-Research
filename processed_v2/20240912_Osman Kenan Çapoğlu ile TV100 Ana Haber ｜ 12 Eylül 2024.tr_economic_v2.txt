@@ -1,0 +1,49 @@
+# Economic Content from: 20240912_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 12 Eylül 2024.tr.txt
+# Processed: 2025-07-22T17:57:35.181041
+# Original: 10521 words → Filtered: 307 words (2.92% retention)
+# Economic segments: 4
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 61
+**Retention**: 34.08%
+
+Maliye Bakanlığı, fiş almayan tüketiciye ve fiş kesmeyen satıcıya ceza vermeye hazırlanıyor. Hazırlanan tebliğ taslağına göre, tüketiciye fişsiz alışverişi bildirmek için 5 iş günü süre tanınacak. Bu durum, ticaretin düzenlenmesi ve vergi kaybının önlenmesi açısından önemli bir adım olarak değerlendiriliyor. Ekonomik verilerin ve düzenlemelerin etkisiyle, tüketicilerin alışveriş alışkanlıkları değişebilir. Bu tür önlemler, kayıt dışı ekonominin azaltılması ve vergi gelirlerinin artırılması hedefleniyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 71
+**Retention**: 40.11%
+
+Gelir İdaresi Başkanlığı ve Maliye Bakanlığı, kayıtlı ekonomiyi teşvik etmek amacıyla yeni bir sisteme geçiyor. Bu sistemle birlikte, fiş almayan müşterilere de fiş vermeyen satıcılara ceza kesilebilecek. Fiş ya da fatura almayan müşterilere 5,000 L ceza uygulanacak. Fiş vermeyen satıcılara da yüksek cezalar uygulanacak; örneğin, fiş kesmeyen esnafa 5 tespitte 50,000 L, 6 tespitte ise 100,000 L ceza kesilebilecek. Bu düzenlemeler, vergi kaybını önlemek ve kayıtlı ekonomiyi artırmak amacıyla hayata geçiriliyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 106
+**Retention**: 94.64%
+
+Ben zaten müdahale de ediyorum şahsım olarak hiç kesmediği zaman istiyorum vermek zorunda almazsan. Sonuçta esnaf sıkıntı yaşıyor. Biz de sıkıntı yaşıyoruz. Huzurevi yaşlı bakım ve rehabilitasyon merkezlerinde de baktığımızda huzur kalmamış durumda. %400'ü varan oranda bir zam söz konusu fiyatlara aylık fiyat 99.000 liranın üzerine çıktı. Peki bu artışın temel sebebi ne? Gerçeği yansıtan bir artış mı? Bu işte yanıtı burada belirlenen rakamlar aslında insanların ihtiyaç durumlarına göre oluyor. Ve bunları da Aile Sosyal Politikalar Bakanlığı tarafından belirlenen rakamlarla beraber takip ediyoruz. Aile ve Sosyal Politikalar Bakanlığı'na bağlı devlete ait huzur evlerinin aylık ücreti çift kişilik oda bir kişi için 3.100 liradan 9.000 liraya yükseldi.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 69
+**Retention**: 54.76%
+
+Geçen aya oranla da fiyatlar ü kattan fazla artmış oldu. 2023 yılında açıklanan verilere göre, yaşlı nüfus oranı % 10'un üzerine çıkan Türkiye'de huzurevlerinin sayısı da giderek artıyor. Artan rağbet fiyatlara yansıyor. Dolayısıyla, hem devlette hem de özelde huzurevlerine olan talep oldukça fazla. Şimdilerde bazı huzurevlerinin fiyatlarına % oranında zam yapıldığı söyleniyor. Ancak sektör temsilcileri bu durumu artan maliyetlere bağlıyor. Huzurevlerindeki maliyetler aylık 4,000 liradan 70,000 liraya kadar çıkabiliyor.
+
+================================================================================
+

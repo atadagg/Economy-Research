@@ -1,0 +1,16 @@
+# Economic Content from: 20240425_Show Ana Haber 25 Nisan 2024.tr.txt
+# Processed: 2025-07-22T17:40:22.679820
+# Original: 3528 words → Filtered: 104 words (2.95% retention)
+# Economic segments: 1
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 104
+**Retention**: 61.54%
+
+Yaz gelmeden gözler yine ikinci el araç piyasasında. Yılbaşından bu yana 4 ayda sıfır araçların fiyatının artışı % 155'i bulurken, ikinci el araçların fiyatı % 5 arttı. Kredi çekmeden araç almak isteyenler özellikle ikinci ele yöneliyor. Çünkü kredi çekince araç fiyatları yüzünden pahalıya geliyor. Son bir ayda satışlar ne durumda? Fiyatı düşen, pazarlık payı olan araçlar modeller neler? Şu anda 2-3-4 yaşındaki orta segment araçlar daha çok tercih ediliyor. 10 yaşın altındaki araçların satışı daha hızlı; bir hafta içinde satılabilen modeller var ve en çok da otomatik vites araçlar tercih ediliyor. Orta halli bir araç alabilmek için en az 800 bin lira bütçe gerekiyor.
+
+================================================================================
+

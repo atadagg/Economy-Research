@@ -1,0 +1,65 @@
+# Economic Content from: 20241002_Kübra Par ile tv100 Ana Haber ｜ 2 Ekim 2024.tr.txt
+# Processed: 2025-07-22T18:10:25.464976
+# Original: 5471 words → Filtered: 455 words (8.32% retention)
+# Economic segments: 5
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 80
+**Retention**: 100.00%
+
+yaşadığımız görüntü Hiç değişmez işte bugünkü Hashtag imizi de tam da bundan hareketle birlik zamanı
+birlik zamanı olarak veriyoruz bugünkü Hashtag imiz birlik zamanı lütfen siz de birlik zamanı
+etiketiyle TV 100'ün e de etiketleyerek sosyal medyadan mesajlarınızı bizlerle paylaşın şunu
+soruyorum Aslında size dün mecliste yaşananları beğendiniz mi kızdınız mı eleştiriyor musunuz
+destekliyor musunuz hem bunları duymak istiyoruz hem de hani dün sormuştuk ya siyasetten Ne
+bekliyorsunuz ülkemiz için ne yapmalarını bekliyorsunuz Sizce Dün hem CHP'nin hem Sayın Bahçeli
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 50
+**Retention**: 74.63%
+
+3 yükselerek 2673 doları buldu ki biliyorsunuz son haftalarda altında ciddi bir yükseliş yaşanıyordu. Ancak, gram altın %0.48 kayıp yaşadı. Altının fiyatındaki bu düşüş, piyasalarda dikkat çekici bir durum olarak değerlendirildi. Ayrıca, borsadaki hareketlilik de önemli bir gelişme olarak öne çıktı. Brand petrol, 75 doları geçerek %4'lük bir artış gösterdi.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 135
+**Retention**: 68.88%
+
+Ticaret Bakanı Ömer Bolat Eylül ayı rakamlarını açıkladı. Türkiye'nin dış ticaret açığı %14 arttı. Dış ticaret açığımız Eylülde ise sınırlı arttı ve 2024 yılı Eylül ayında 5 milyar 122 milyon dolar olarak gerçekleşti. Geçen yılda dış ticaret açığımız 5 milyar 95 milyon dolardı. Dış ticaret açığımız 14 ayın 11'inde azaldı. İthalat ve ihracat rakamlarındaki değişimi anlattı. Eylül ayında ihracatımız 22 milyar 7 milyon dolara ulaştı. Geçen yılın rakamına göre %1,8'lik küçük bir azalışı ifade etmekle beraber bunun en önemli sebebi takvim etkisi olmaktadır. Eylül ayında ihracatın ithalatı karşılama oranı %181,1 olarak gerçekleşti. Geçen yılda bu oran %181,5 idi. İhracatta net 5,9 milyar dolar artışı var, ithalatımızda ise net %21,6 azalışı var. Bakan Bolat, 2024'ün 9 ayında çıkan tabloyu da özetledi ve ithalattaki kademeli düşüşe dikkat çekti. Dış ticaret açığımızdaki 9 aylık azalma %31,5 olarak gerçekleşti.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 122
+**Retention**: 36.09%
+
+1 milyar dolara gerilemiş ihracatın ithalatı karşılama oranı bu yılın ilk 9 ayında % 76,5 yükselmiştir. Mal ithalatı olarak bakıyoruz % 18'lik bir azalış söz konusu bu yılın ilk 9 ayında. Ticaret Bakanı olumlu gelişmelerden söz ediyor. Ancak Türk İş Başkanı Ergün Atalay, işçilerin yaşadığı zorluğu her gün dile getirmeye devam ediyor. Enflasyon verileriyle gerçeklerin örtüşmediği öne sürüldü; tüketici rakamlarına kamuoyu da, biz de işçiler de inanmıyoruz. Onların açıkladığı rakamlarla pazardaki market fiyatları arasında dağlar kadar fark var. İşçilerin büyük bölümü akşamları işten sonra ek iş yapmaya başladılar. Türkiye'de çalışan kadınların oranı maalesef sadece % 35. Türkiye'deki kadınların % 65'inin banka hesabı olmadığı ortaya çıktı. Kadınların sosyal ve ekonomik olarak güçlenmesini hedefleyen raporda, çalışma yaşındaki kadın nüfusunun sadece % 35 olduğu belirtiliyor.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_final
+**Confidence**: 0.50
+**Word Count**: 68
+**Retention**: 38.42%
+
+Türkiye'deki kadın nüfusunun % 65'inin herhangi bir geliri yok. Çoğu kadının ekonomik bağımsızlığının olmadığı belirtiliyor. Ekonomik bağımsızlığı olmayan kadının bir banka hesabının olması mümkün değil; hatta Türkiye'de iki kadından birinin banka hesabı yok. Kadınların ekonomik bağımsızlığı, her gelişmiş ülkede olduğu gibi bizim de hakkımız. Eğer Türkiye'de kadınların % 65'inin daha banka hesabı bile yoksa, çalışan kadınların oranı sadece % 35 ise, Türkiye'nin gücünden ve gelişmişliğinden nasıl söz edebiliriz?
+
+================================================================================
+

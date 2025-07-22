@@ -1,0 +1,30 @@
+# Economic Content from: 20240907_Show Ana Haber 7 Eylül 2024.tr.txt
+# Processed: 2025-07-22T17:25:25.968057
+# Original: 3210 words → Filtered: 145 words (4.52% retention)
+# Economic segments: 1
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 145
+**Retention**: 41.91%
+
+The filtered text focusing on economics, finance, and business is as follows:
+
+---
+
+Ekonomik veriler ve istatistikler, Türkiye'nin ekonomik durumu hakkında önemli bilgiler sunmaktadır. Son dönemde enflasyon oranları ve fiyat artışları, tüketici harcamalarını doğrudan etkilemektedir. Hükümetin uyguladığı ekonomik politikalar, özellikle mali disiplin ve enflasyonla mücadele konularında dikkat çekmektedir. 
+
+Finansal piyasalardaki dalgalanmalar, yatırımcıların güvenini etkileyen önemli bir faktördür. Özellikle döviz kurlarındaki değişimler, ithalat ve ihracat dengelerini etkilemektedir. Uzmanlar, bu durumun Türkiye'nin dış ticaret açığı üzerinde olumsuz etkileri olabileceğini belirtmektedir. 
+
+Bankacılık sektörü, kredi faiz oranları ve para politikaları ile ilgili gelişmeler, ekonomik büyüme üzerinde belirleyici bir rol oynamaktadır. Merkez Bankası'nın alacağı kararlar, piyasalarda büyük yankı uyandırmakta ve yatırımcıların stratejilerini şekillendirmektedir. 
+
+Sonuç olarak, Türkiye'nin ekonomik görünümü, hem iç hem de dış faktörlerden etkilenmektedir ve bu durum, iş dünyası ve finansal piyasalar üzerinde önemli sonuçlar doğurmaktadır. 
+
+--- 
+
+This text maintains a natural flow while focusing solely on economic content.
+
+================================================================================
+

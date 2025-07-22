@@ -1,0 +1,50 @@
+{
+  "file_path": "news/ATV/ATV20240929_atv Ana Haber ｜ 29 Eylül 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T16:17:03.328977",
+  "original_word_count": 4316,
+  "filtered_word_count": 133,
+  "retention_ratio": 0.030815569972196477,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 23,
+      "start_sentence": "İyi akşamlar Bugün 29 eylül 2024 pazar...",
+      "description": "\"İyi akşamlar Bugün 29 eylül 2024 pazar...\" - The opening of the broadcast where the presenter greets the audience and introduces the date and context of the news.",
+      "end_pos": 75
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 75,
+      "start_sentence": "İsrail'in Hizbullah liderine düzenlediği suikasti konuşuyor...",
+      "description": "\"İsrail'in Hizbullah liderine düzenlediği suikasti konuşuyor...\" - The main news content discussing the assassination of the Hezbollah leader, the subsequent reactions, and developments in the region.",
+      "end_pos": 30982
+    }
+  ],
+  "news_segments_count": 6,
+  "economic_segments_count": 2,
+  "economic_segments": [
+    {
+      "segment_id": "75_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 176,
+      "filtered_length": 63,
+      "retention_ratio": 0.35795454545454547,
+      "section_description": "\"İsrail'in Hizbullah liderine düzenlediği suikasti konuşuyor...\" - The main news content discussing the assassination of the Hezbollah leader, the subsequent reactions, and developments in the region."
+    },
+    {
+      "segment_id": "75_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 70,
+      "filtered_length": 70,
+      "retention_ratio": 1.0,
+      "section_description": "\"İsrail'in Hizbullah liderine düzenlediği suikasti konuşuyor...\" - The main news content discussing the assassination of the Hezbollah leader, the subsequent reactions, and developments in the region."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

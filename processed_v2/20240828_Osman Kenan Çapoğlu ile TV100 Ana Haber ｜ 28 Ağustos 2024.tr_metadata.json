@@ -1,0 +1,147 @@
+{
+  "file_path": "news/TV100/20240828_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 28 Ağustos 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T18:08:54.406445",
+  "original_word_count": 10222,
+  "filtered_word_count": 1145,
+  "retention_ratio": 0.11201330463705733,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "28 Ağustos Çarşamba hafta ortasında TV1 an haberde sizlerle birlikteyiz...",
+      "description": "\"28 Ağustos Çarşamba hafta ortasında TV1 an haberde sizlerle birlikteyiz...\" - This section serves as the opening of the broadcast, where the presenter introduces the program and sets the stage for the news content to follow.",
+      "end_pos": 192
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 192,
+      "start_sentence": "Türkiye'nin gözü kulağı günlerdir Diyarbakır'dan gelecek güzel bir haberde...",
+      "description": "\"Türkiye'nin gözü kulağı günlerdir Diyarbakır'dan gelecek güzel bir haberde...\" - This section contains the main news content, focusing on the ongoing search for the missing child, Narin, detailing the developments, investigations, and efforts being made by authorities.",
+      "end_pos": 1465
+    },
+    {
+      "type": "3. **OUTRO**",
+      "start_pos": 1465,
+      "start_sentence": "Tabii ki elimizde deliller var çok deliller var ifadeler var...",
+      "description": "\"Tabii ki elimizde deliller var çok deliller var ifadeler var...\" - This section wraps up the news report, summarizing the situation and providing a sense of closure to the segment, although it may not explicitly say goodbye or end the program.",
+      "end_pos": 71626
+    }
+  ],
+  "news_segments_count": 18,
+  "economic_segments_count": 12,
+  "economic_segments": [
+    {
+      "segment_id": "192_1",
+      "method": "pattern_validated",
+      "confidence": 0.75,
+      "original_length": 85,
+      "filtered_length": 85,
+      "retention_ratio": 1.0,
+      "section_description": "\"Türkiye'nin gözü kulağı günlerdir Diyarbakır'dan gelecek güzel bir haberde...\" - This section contains the main news content, focusing on the ongoing search for the missing child, Narin, detailing the developments, investigations, and efforts being made by authorities."
+    },
+    {
+      "segment_id": "1465_0",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 88,
+      "filtered_length": 88,
+      "retention_ratio": 1.0,
+      "section_description": "\"Tabii ki elimizde deliller var çok deliller var ifadeler var...\" - This section wraps up the news report, summarizing the situation and providing a sense of closure to the segment, although it may not explicitly say goodbye or end the program."
+    },
+    {
+      "segment_id": "1465_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 267,
+      "filtered_length": 81,
+      "retention_ratio": 0.30337078651685395,
+      "section_description": "\"Tabii ki elimizde deliller var çok deliller var ifadeler var...\" - This section wraps up the news report, summarizing the situation and providing a sense of closure to the segment, although it may not explicitly say goodbye or end the program."
+    },
+    {
+      "segment_id": "1465_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 240,
+      "filtered_length": 148,
+      "retention_ratio": 0.6166666666666667,
+      "section_description": "\"Tabii ki elimizde deliller var çok deliller var ifadeler var...\" - This section wraps up the news report, summarizing the situation and providing a sense of closure to the segment, although it may not explicitly say goodbye or end the program."
+    },
+    {
+      "segment_id": "1465_5",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 194,
+      "filtered_length": 125,
+      "retention_ratio": 0.6443298969072165,
+      "section_description": "\"Tabii ki elimizde deliller var çok deliller var ifadeler var...\" - This section wraps up the news report, summarizing the situation and providing a sense of closure to the segment, although it may not explicitly say goodbye or end the program."
+    },
+    {
+      "segment_id": "1465_6",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 176,
+      "filtered_length": 109,
+      "retention_ratio": 0.6193181818181818,
+      "section_description": "\"Tabii ki elimizde deliller var çok deliller var ifadeler var...\" - This section wraps up the news report, summarizing the situation and providing a sense of closure to the segment, although it may not explicitly say goodbye or end the program."
+    },
+    {
+      "segment_id": "1465_7",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 134,
+      "filtered_length": 80,
+      "retention_ratio": 0.5970149253731343,
+      "section_description": "\"Tabii ki elimizde deliller var çok deliller var ifadeler var...\" - This section wraps up the news report, summarizing the situation and providing a sense of closure to the segment, although it may not explicitly say goodbye or end the program."
+    },
+    {
+      "segment_id": "1465_8",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 80,
+      "filtered_length": 34,
+      "retention_ratio": 0.425,
+      "section_description": "\"Tabii ki elimizde deliller var çok deliller var ifadeler var...\" - This section wraps up the news report, summarizing the situation and providing a sense of closure to the segment, although it may not explicitly say goodbye or end the program."
+    },
+    {
+      "segment_id": "1465_9",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 168,
+      "filtered_length": 70,
+      "retention_ratio": 0.4166666666666667,
+      "section_description": "\"Tabii ki elimizde deliller var çok deliller var ifadeler var...\" - This section wraps up the news report, summarizing the situation and providing a sense of closure to the segment, although it may not explicitly say goodbye or end the program."
+    },
+    {
+      "segment_id": "1465_10",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 104,
+      "filtered_length": 66,
+      "retention_ratio": 0.6346153846153846,
+      "section_description": "\"Tabii ki elimizde deliller var çok deliller var ifadeler var...\" - This section wraps up the news report, summarizing the situation and providing a sense of closure to the segment, although it may not explicitly say goodbye or end the program."
+    },
+    {
+      "segment_id": "1465_11",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 161,
+      "filtered_length": 161,
+      "retention_ratio": 1.0,
+      "section_description": "\"Tabii ki elimizde deliller var çok deliller var ifadeler var...\" - This section wraps up the news report, summarizing the situation and providing a sense of closure to the segment, although it may not explicitly say goodbye or end the program."
+    },
+    {
+      "segment_id": "1465_14",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 235,
+      "filtered_length": 98,
+      "retention_ratio": 0.41702127659574467,
+      "section_description": "\"Tabii ki elimizde deliller var çok deliller var ifadeler var...\" - This section wraps up the news report, summarizing the situation and providing a sense of closure to the segment, although it may not explicitly say goodbye or end the program."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

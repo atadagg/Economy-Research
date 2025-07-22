@@ -1,0 +1,42 @@
+# Economic Content from: ATV20240817_atv Ana Haber ｜ 17 Ağustos 2024.tr.txt
+# Processed: 2025-07-22T16:06:07.695909
+# Original: 4707 words → Filtered: 200 words (4.25% retention)
+# Economic segments: 3
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 75
+**Retention**: 100.00%
+
+oldukları Bir ateşten Maalesef o Ateş sadece Saniyeler sonra engellenemez koca bir yangına döndü
+havadan helikopter ve uçaklar An be an şu anda bakın işte suyu bıraktı Tam da nokta atışı olarak
+alevler şu anda söndürülmeyen arasında artık çok yaklaş sağ tarafta bir araç var Muhtemelen araçla
+bu yangınların arasında bir 102 metre mesafe kalacak karadan orman işçileri alevlere müdahale etti
+bölge halkı da yangın Savaşçıları omuz omuz Örnekköy karaka şanti şiddetliydi alevler Bu yüzden
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 79
+**Retention**: 39.90%
+
+Öğrenciler için ikinci el eşyaların fiyatları 6.000 L'den başlayıp 17.000 L civarına kadar çıkıyor. Mağazadaki fiyatlar, dışarıdaki fiyatların yaklaşık %70 daha altında. Örneğin, bir dolabın mağazadaki fiyatı şu an 28.000 L civarında iken, bizdeki fiyatı 12.000-13.000 L arasında değişiyor. Beyaz eşya fiyatları da dikkat çekiyor; buzdolabı 5.000 L, çamaşır makinesi 5.000 L, bulaşık makinesi 3.000 L ve televizyon 4.000 L olarak satılmakta. Öğrenciler için en pahalı kısım beyaz eşya olarak öne çıkıyor. Ayrıca, nakliye ve teslimat hizmetleri ücretsiz sunulmakta.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 46
+**Retention**: 56.10%
+
+Elektrikli süpürgenin fiyatı 1000 TL, mini fırının fiyatı ise 1000 TL. Öğrenci olarak beyaz eşya dahil minimum tutacak olduğu rakam 25-30,000 TL civarı. Dükkanlardan dükkanlara fiyatlar değişiyor; bu dükkanda oturma grubunun fiyatı 8,500 TL, yemek masasının fiyatı ise 2,500 TL. Yatakların fiyatları 4,000 TL'ye kadar çıkıyor.
+
+================================================================================
+

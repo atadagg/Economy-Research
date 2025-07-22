@@ -1,0 +1,85 @@
+{
+  "file_path": "news/ATV/ATV20241022_atv Ana Haber ｜ 22 Ekim 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T16:33:52.772514",
+  "original_word_count": 4733,
+  "filtered_word_count": 107,
+  "retention_ratio": 0.022607225860976125,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "Haber merkezinden İyi akşamlar 22 Ekim 2024 salı...",
+      "description": "\"Haber merkezinden İyi akşamlar 22 Ekim 2024 salı...\" - The opening of the broadcast, where the presenter greets the audience and introduces the date and significance of the day in Turkish politics.",
+      "end_pos": 92
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 92,
+      "start_sentence": "Önce mecliste yakın dönem siyasi tarihimizde pek rastlamadığımız türden bir konuşma dinledik...",
+      "description": "\"Önce mecliste yakın dönem siyasi tarihimizde pek rastlamadığımız türden bir konuşma dinledik...\" - The main news content begins here, discussing significant political events, including speeches by political leaders and their implications for Turkey.",
+      "end_pos": 189
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 189,
+      "start_sentence": "Bu da devamında kurduğu altı çizilecek tarihi cümlelerden biri hemen o konuşmaya gidelim...",
+      "description": "\"Bu da devamında kurduğu altı çizilecek tarihi cümlelerden biri hemen o konuşmaya gidelim...\" - A brief transition indicating a shift to a specific speech or segment within the news content.",
+      "end_pos": 388
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 388,
+      "start_sentence": "Cumhurbaşkanı Erdoğan tam da MHP lideri Devlet Bahçeli'nin dikkat çeken çağrısı sonrası verdi bu mesajları...",
+      "description": "\"Cumhurbaşkanı Erdoğan tam da MHP lideri Devlet Bahçeli'nin dikkat çeken çağrısı sonrası verdi bu mesajları...\" - Continuation of the news segment, detailing further statements and political developments.",
+      "end_pos": 388
+    },
+    {
+      "type": "6. **NEWS**",
+      "start_pos": 388,
+      "start_sentence": "Cumhurbaşkanı Erdoğan 12 bebeğin ölümüne sebep olan yoğan çesi il kez konuştu...",
+      "description": "\"Cumhurbaşkanı Erdoğan 12 bebeğin ölümüne sebep olan yoğan çesi il kez konuştu...\" - Continuation of the news segment, focusing on a specific incident and the President's response.",
+      "end_pos": 1248
+    },
+    {
+      "type": "5. **TRANSITION**",
+      "start_pos": 1248,
+      "start_sentence": "ılımlı hava iç cepin güçlendirmesi yeni bir yol ayrımında olduğunun ipuçlarını verdi...",
+      "description": "\"ılımlı hava iç cepin güçlendirmesi yeni bir yol ayrımında olduğunun ipuçlarını verdi...\" - Another transition that leads into further analysis or commentary on the news being reported.",
+      "end_pos": 1637
+    },
+    {
+      "type": "7. **OUTRO**",
+      "start_pos": 1637,
+      "start_sentence": "Bu canilerin bir daha gün yüzü görmemesi için cumhurbaşkanı olarak ben de konunun bizzat takipçisi olmaya devam edeceğim...",
+      "description": "\"Bu canilerin bir daha gün yüzü görmemesi için cumhurbaşkanı olarak ben de konunun bizzat takipçisi olmaya devam edeceğim...\" - The closing remarks where the presenter summarizes the importance of the issues discussed and indicates ongoing attention to the matters raised.",
+      "end_pos": 33861
+    }
+  ],
+  "news_segments_count": 6,
+  "economic_segments_count": 2,
+  "economic_segments": [
+    {
+      "segment_id": "1637_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 158,
+      "filtered_length": 51,
+      "retention_ratio": 0.3227848101265823,
+      "section_description": "\"Bu canilerin bir daha gün yüzü görmemesi için cumhurbaşkanı olarak ben de konunun bizzat takipçisi olmaya devam edeceğim...\" - The closing remarks where the presenter summarizes the importance of the issues discussed and indicates ongoing attention to the matters raised."
+    },
+    {
+      "segment_id": "1637_4",
+      "method": "simple_final",
+      "confidence": 0.5,
+      "original_length": 56,
+      "filtered_length": 56,
+      "retention_ratio": 1.0,
+      "section_description": "\"Bu canilerin bir daha gün yüzü görmemesi için cumhurbaşkanı olarak ben de konunun bizzat takipçisi olmaya devam edeceğim...\" - The closing remarks where the presenter summarizes the importance of the issues discussed and indicates ongoing attention to the matters raised."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

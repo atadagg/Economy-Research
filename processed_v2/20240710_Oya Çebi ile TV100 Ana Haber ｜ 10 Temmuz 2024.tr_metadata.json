@@ -1,0 +1,159 @@
+{
+  "file_path": "news/TV100/20240710_Oya Çebi ile TV100 Ana Haber ｜ 10 Temmuz 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T18:39:20.822600",
+  "original_word_count": 10135,
+  "filtered_word_count": 1104,
+  "retention_ratio": 0.10892945239269856,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "efendim İyi akşamlar TV3 ekranlarına hoş geldiniz",
+      "description": "\"efendim İyi akşamlar TV3 ekranlarına hoş geldiniz\" - The opening segment where the presenter welcomes viewers and introduces the program, including the date and time.",
+      "end_pos": 202
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 202,
+      "start_sentence": "Cumhurbaşkanı Erdoğan di Erdoğan NATO'nun 75 Yıl alma etkinliğine katıldı",
+      "description": "\"Cumhurbaşkanı Erdoğan di Erdoğan NATO'nun 75 Yıl alma etkinliğine katıldı\" - The main news content begins here, detailing various news stories including President Erdoğan's participation in NATO events and discussions with other leaders.",
+      "end_pos": 202
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 202,
+      "start_sentence": "Cumhurbaşkanı Erdoğan Macaristan'ın dönem başkanlığında Türkiye'nin Avrupa Birliği katılım sürecinin canlandırılması",
+      "description": "\"Cumhurbaşkanı Erdoğan Macaristan'ın dönem başkanlığında Türkiye'nin Avrupa Birliği katılım sürecinin canlandırılması\" - Continuation of the news segment, focusing on specific discussions and events involving President Erdoğan and international relations.",
+      "end_pos": 486
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 486,
+      "start_sentence": "şimdi bu saate kadar yaşanan gelişmelere bakalım",
+      "description": "\"şimdi bu saate kadar yaşanan gelişmelere bakalım\" - A brief transition phrase indicating a shift to discussing the latest developments before diving deeper into the news stories.",
+      "end_pos": 1755
+    },
+    {
+      "type": "5. **TRANSITION**",
+      "start_pos": 1755,
+      "start_sentence": "Efendim ana habere başlarken belirtmiştim",
+      "description": "\"Efendim ana habere başlarken belirtmiştim\" - Another transition phrase that signals a return to the main news focus, emphasizing the significance of the events being reported.",
+      "end_pos": 1951
+    },
+    {
+      "type": "6. **OUTRO**",
+      "start_pos": 1951,
+      "start_sentence": "TV3 programcısı Baş",
+      "description": "\"TV3 programcısı Baş\" - The closing remarks of the program, indicating the end of the broadcast.",
+      "end_pos": 70902
+    }
+  ],
+  "news_segments_count": 25,
+  "economic_segments_count": 11,
+  "economic_segments": [
+    {
+      "segment_id": "1951_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 166,
+      "filtered_length": 107,
+      "retention_ratio": 0.6445783132530121,
+      "section_description": "\"TV3 programcısı Baş\" - The closing remarks of the program, indicating the end of the broadcast."
+    },
+    {
+      "segment_id": "1951_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 199,
+      "filtered_length": 103,
+      "retention_ratio": 0.5175879396984925,
+      "section_description": "\"TV3 programcısı Baş\" - The closing remarks of the program, indicating the end of the broadcast."
+    },
+    {
+      "segment_id": "1951_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 144,
+      "filtered_length": 74,
+      "retention_ratio": 0.5138888888888888,
+      "section_description": "\"TV3 programcısı Baş\" - The closing remarks of the program, indicating the end of the broadcast."
+    },
+    {
+      "segment_id": "1951_5",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 161,
+      "filtered_length": 108,
+      "retention_ratio": 0.6708074534161491,
+      "section_description": "\"TV3 programcısı Baş\" - The closing remarks of the program, indicating the end of the broadcast."
+    },
+    {
+      "segment_id": "1951_6",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 197,
+      "filtered_length": 93,
+      "retention_ratio": 0.4720812182741117,
+      "section_description": "\"TV3 programcısı Baş\" - The closing remarks of the program, indicating the end of the broadcast."
+    },
+    {
+      "segment_id": "1951_8",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 183,
+      "filtered_length": 118,
+      "retention_ratio": 0.644808743169399,
+      "section_description": "\"TV3 programcısı Baş\" - The closing remarks of the program, indicating the end of the broadcast."
+    },
+    {
+      "segment_id": "1951_10",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 91,
+      "filtered_length": 47,
+      "retention_ratio": 0.5164835164835165,
+      "section_description": "\"TV3 programcısı Baş\" - The closing remarks of the program, indicating the end of the broadcast."
+    },
+    {
+      "segment_id": "1951_17",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 248,
+      "filtered_length": 142,
+      "retention_ratio": 0.5725806451612904,
+      "section_description": "\"TV3 programcısı Baş\" - The closing remarks of the program, indicating the end of the broadcast."
+    },
+    {
+      "segment_id": "1951_18",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 139,
+      "filtered_length": 60,
+      "retention_ratio": 0.4316546762589928,
+      "section_description": "\"TV3 programcısı Baş\" - The closing remarks of the program, indicating the end of the broadcast."
+    },
+    {
+      "segment_id": "1951_19",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 197,
+      "filtered_length": 113,
+      "retention_ratio": 0.5736040609137056,
+      "section_description": "\"TV3 programcısı Baş\" - The closing remarks of the program, indicating the end of the broadcast."
+    },
+    {
+      "segment_id": "1951_20",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 139,
+      "filtered_length": 139,
+      "retention_ratio": 1.0,
+      "section_description": "\"TV3 programcısı Baş\" - The closing remarks of the program, indicating the end of the broadcast."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

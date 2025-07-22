@@ -1,0 +1,48 @@
+{
+  "file_path": "news/AHaber/20250118_Avrupa, ABD'ye Başkaldırabilir Mi？ Avrupa İle ABD Arasında Savaş Mı Çıkacak？ I Gece Ajansı ｜ A Haber.tr.txt",
+  "processing_timestamp": "2025-07-22T15:40:35.574772",
+  "original_word_count": 15891,
+  "filtered_word_count": 130,
+  "retention_ratio": 0.008180731231514695,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "A Haber ekranlarından İyi geceler efendim...",
+      "description": "\"A Haber ekranlarından İyi geceler efendim...\" - The presenter introduces the program, welcoming viewers and outlining the topics to be discussed, including a focus on significant news stories from Turkey and around the world.",
+      "end_pos": 99
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 99,
+      "start_sentence": "Türkiye'nin ve dünyanın konuştuğu o günden başlıklarını...",
+      "description": "\"Türkiye'nin ve dünyanın konuştuğu o günden başlıklarını...\" - The main news content begins here, detailing various news stories, particularly focusing on Turkey's fight against terrorism, recent military operations, and the situation in Syria.",
+      "end_pos": 1560
+    },
+    {
+      "type": "3. **OUTRO**",
+      "start_pos": 1560,
+      "start_sentence": "Böylelikle 1 Ocak 2024 bugüne kadar etkisiz hale getirilen terörist sayısı...",
+      "description": "\"Böylelikle 1 Ocak 2024 bugüne kadar etkisiz hale getirilen terörist sayısı...\" - The closing remarks summarize the news discussed, providing a final statement on the ongoing situation and the number of terrorists neutralized, signaling the end of the program.",
+      "end_pos": 110469
+    }
+  ],
+  "news_segments_count": 16,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "1560_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 130,
+      "filtered_length": 130,
+      "retention_ratio": 1.0,
+      "section_description": "\"Böylelikle 1 Ocak 2024 bugüne kadar etkisiz hale getirilen terörist sayısı...\" - The closing remarks summarize the news discussed, providing a final statement on the ongoing situation and the number of terrorists neutralized, signaling the end of the program."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

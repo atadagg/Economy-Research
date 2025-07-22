@@ -1,0 +1,47 @@
+# Economic Content from: 20240328_Show Ana Haber 28 Mart 2024.tr.txt
+# Processed: 2025-07-22T17:25:44.719459
+# Original: 2298 words → Filtered: 275 words (11.97% retention)
+# Economic segments: 3
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 73
+**Retention**: 35.27%
+
+Cumhurbaşkanı Erdoğan, EYT düzenlemesi ile ilgili olarak emekli maaşlarının Temmuz ayında yılın ilk 6 ayındaki enflasyona göre tekrar masaya yatırılacağını belirtti. Bu durum, emekli maaşlarının artış beklentisi ve mali yükün hesaplanması açısından önemli bir gelişme. Ayrıca, asgari ücretteki artış talepleri de gündemde. EYT düzenlemesinin Sosyal Güvenlik sisteminin dengesine yol açtığı ve bu bozulmanın tamirinin zaman alacağı ifade edildi. Bu bağlamda, hükümetin ekonomik politikaları ve emekli maaşları üzerindeki etkileri dikkat çekici bir şekilde değerlendirilmektedir.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 79
+**Retention**: 100.00%
+
+655 b000 L ödedikleri aracın yolunu gözlerken firma aniden kepenk indirdi hem paralarından hem de
+Hayallerinden olan sürücüler isyan etti Sadece Denizli bayisinden yaklaşık 20 civarında mağdur var
+araç alan emanet Arabayla geziyorum diyebilirim Arabasız kaldım hepsi öfke hepsi isyandı ortada ne
+ödedikleri para ne de yolunu gözledi araçları vardı concordato dedii işin içinden çıktı verdiğimiz
+para alamadığımız işte aracımızla Ortada kaldık 20 kişi Denizli'deki bayiden elektrikli cip siparişi
+vermişti 1 55 b000 sabit fiyat garantisi ile bunun 150
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_final
+**Confidence**: 0.50
+**Word Count**: 123
+**Retention**: 60.00%
+
+Aydın'da bir esnaf, çiçeklerine yönelik hırsızlık olaylarından bıktığını belirterek, iş yerinde güvenlik önlemleri almaya başladı. Çiçeklerin çalınması, esnafın iş yapma kapasitesini olumsuz etkiliyor. Hırsızlık olayları, yerel ekonomiyi de etkileyen bir sorun haline geldi. Esnaf, çiçeklerini dışarıda havalandırırken hırsızlık olaylarıyla karşılaşmakta ve bu durum işlerini zorlaştırmakta. 
+
+Bu tür olaylar, küçük işletmelerin sürdürülebilirliğini tehdit eden bir faktör olarak öne çıkıyor. Ekonomik zorluklar içinde olan esnaf, hırsızlık nedeniyle daha fazla mali kayba uğramaktan endişe ediyor. Çiçekçilik gibi küçük işletmeler, yerel ekonominin önemli bir parçasını oluşturuyor ve bu tür hırsızlıklar, genel ekonomik durumu olumsuz etkileyebilir. 
+
+Esnaf, hırsızlık olaylarının önüne geçmek için çeşitli önlemler alırken, bu durumun iş yapma şekillerini de değiştirdiğini ifade ediyor. Ekonomik açıdan, bu tür sorunlar, yerel ticaretin canlılığını tehdit eden unsurlar arasında yer alıyor.
+
+================================================================================
+

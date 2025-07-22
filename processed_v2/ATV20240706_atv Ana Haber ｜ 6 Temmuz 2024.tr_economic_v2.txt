@@ -1,0 +1,46 @@
+# Economic Content from: ATV20240706_atv Ana Haber ｜ 6 Temmuz 2024.tr.txt
+# Processed: 2025-07-22T16:55:07.298486
+# Original: 4603 words → Filtered: 400 words (8.69% retention)
+# Economic segments: 3
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 119
+**Retention**: 90.84%
+
+46 Dolayısıyla, yılın ikinci yarısı için SSK ve Bağkur emeklilerine yapılacak zamlar % 11,31 olarak belirlenmiştir. Emeklilerin dikkat etmesi gereken şey, zamların kök maaşlarına yapılacak olmasıdır. Emeklilerin zam hesabı yaparken net maaş değil, kök maaş üzerinden hesap yapması gerekiyor. Yani, 7.000 lira kök maaşı olan bir emeklinin maaşına % 24,75 oranında zam yapıldığında yeni maaşı 8.731 lira oluyor. Bu da en düşük emekli aylığı olan 10.000 liranın altında kaldığı için Hazine yardımıyla 10.000 liraya tamamlanıyor. Ancak bu emekli, hiç zam almamış gibi oluyor. Aynı durum, 7.500 lira ve 8.000 lira kök maaşı olan emekliler için de geçerli. Çünkü onların da yeni zamla maaşları 10.000 liranın altında kalıyor. Bu durum, 3,6 milyon emekli için ciddi bir zam tehlikesi ortaya çıkarıyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 178
+**Retention**: 93.19%
+
+7 artıyor. Yani aslında zam alıyor ama hesabına yatan para değişmiyor. Peki kök maaşını bilmeyen emekli nasıl hesap yapacak? Şifrenize giriş yaptığınız e-devlette emekli aylık bilgisi yazdığınızda karşınıza çıkan ekranda aylık tutar olarak görünen kısım sizin kök maaşınız oluyor. Hesapların da bu rakama göre yapılması gerekiyor. Sosyal güvenlik kurumuna giderek ya da Alo 170'i arayarak bir maaş dökümü isteyebilirler ve orada rahatlıkla kök maaşlarını görebilirler. 
+
+3 milyona yakın emeklinin sıfır zam tehlikesi ile karşı karşıya kalmaması için bir formül üzerinde durulduğu konuşuluyor. Emeklilere verilecek refah payı %2.73'lük enflasyon artışının üzerine konulabilecek 10-15 puanlık bir artış, emeklilerin maaş artışını %35-40 bandına getirir. Bu da neredeyse 3 milyondan fazlası için bu sıfır zam tehlikesini ortadan kaldırır. 
+
+Bir diğer formül ise 10,000 olan taban maaşının artırılması. Bugüne kadar taban maaş hep zam dönemlerinde artırıldı. Peki buraya ne kadar artış yapılabilir? Burada da aslında üç formül var: Bir, 6 aylık enflasyon oranında zam yapmak ki bu da 13-14,000 TL bandında bir rakama tekabül eder. İkincisi, yıl sonu enflasyonu hedefi %38-40 bandında. Üçüncüsü de asgari ücretle eşitlenmesi; bu durumda da taban maaş 177.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 103
+**Retention**: 48.13%
+
+Memur emeklilerinin beklentisi, Ocak ayında SSK ve Bağkur emeklilerine yapılan zam oranlarının eşitlenmesi yönünde. Bu durum, hükümetin alacağı karara bağlı olarak gerçekleşebilir. Ekonomik veriler ve istatistikler, memurların düşük kalan zamlarının SSK ve Bağkur ile eşitlenmesi gerektiğini gösteriyor. Ayrıca, bu tür yasal düzenlemelerin ekonomik etkileri de göz önünde bulundurulmalı. 
+
+İstanbul Cumhuriyet Başsavcılığı'nın hazırladığı iddianameler, ekonomik suçlamalarla ilgili önemli veriler sunuyor. Özellikle, suçtan kaynaklanan mal varlığı değerlerinin aklanması gibi konular, ekonomik analizler açısından dikkat çekici. Bu tür davaların sonuçları, finansal piyasalar ve yatırımcı güveni üzerinde etkili olabilir. 
+
+Sonuç olarak, memurların zam beklentileri ve hükümetin alacağı kararlar, ekonomik istikrar ve büyüme açısından kritik bir öneme sahip.
+
+================================================================================
+

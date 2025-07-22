@@ -1,0 +1,79 @@
+# Economic Content from: ATV20241118_atv Ana Haber ｜ 18 Kasım 2024.tr.txt
+# Processed: 2025-07-22T15:54:52.892504
+# Original: 4768 words → Filtered: 528 words (11.07% retention)
+# Economic segments: 6
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 70
+**Retention**: 97.22%
+
+G20 için Brezilya'da buluştu Cumhurbaşkanı Erdoğan, Hazine ve Maliye Bakanı Mehmet Şimşek ile birlikte ekonomik işbirlikleri ve sürdürülebilir kalkınma konularını ele alacak. Zirvenin bu yılki teması, dünya ekonomisinin sürdürülebilirliği üzerine odaklanacak. Ekonomik veriler ve istatistikler, ülkelerin ekonomik büyüme hedeflerini belirlemede önemli bir rol oynayacak. Ayrıca, uluslararası ticaretin artırılması ve yatırım fırsatlarının değerlendirilmesi konularında görüşmeler yapılacak. Bu bağlamda, hükümetlerin ekonomik politikaları ve stratejileri, küresel ekonomik istikrarı sağlamak için kritik öneme sahip.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 47
+**Retention**: 77.05%
+
+İBB İdaresi, 23 Grup mal sepeti için İBB Kültür AŞ'ye 79.6987 TL ödeme yaptı. Kültür AŞ ise alt yüklenicilere aynı iş için 67.67500 TL ödedi. Ortaya çıkan fiyat farkı 12.421 TL olarak belirlendi. Bu durum, kamu ihalelerinde maliyetlerin ve fiyatların nasıl yönetildiğine dair önemli bir gösterge sunuyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 165
+**Retention**: 87.30%
+
+490 memur ve emekli gözünü 6 aylık enflasyona çevirdi. Temmuzda enflasyon %3,32, Ağustosta %2,47, Eylülde %2,97 ve Ekimde %2,88 olarak açıklandı. Yani SSK ve Bağkur emeklilerinin 4 aylık enflasyon zammı şimdiden belli oldu. Emekli %12,206 zammı cebine koydu. Buna Kasım ve Aralık ayı enflasyon rakamları da eklenecek. Merkez Bankası piyasa katılımcıları anketine göre Kasım ayı enflasyon beklentisi %2,01, Aralık ayı için ise %1,67 olarak açıklandı. Bu beklentiler doğrultusunda yılın 2. 6 aylık döneminde enflasyonun %2016,2 olarak gerçekleşmesi öngörülüyor. Halihazırda en düşük emekli maaşının 12,500 lira olduğu düşünülecek olursa, %16,2'lik enflasyon farkıyla beraber en düşük emekli maaşının 14,527 lira olacağını söyleyebiliriz. Bu oran refah payıyla beraber %120'ye tamamlanırsa, bu durumda en düşük emekli maaşı 15,000 lira olacak. Şu anda herhalde verecekler %15,5 öyle bir şey olacak. Enflasyona göre herhalde sayın Cumhurbaşkanı bir ayarlama yapar inşallah. Peki, Ocak ayında toplu sözleşme zammı alacak olan memurla memur emeklisinin enflasyon farkı ne kadar olacak? Bunun üzerine 2. 6 aylık dönemden gelecek %1,87 enflasyon farkı yıl sonu itibariyle de 5...
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 70
+**Retention**: 97.22%
+
+65 olarak beklenen enflasyon farkı ile beraber tahmin olarak % 122 olarak hesaplanıyor. Memur ve memur emeklileri için en düşük memur maaşı Temmuz ayı itibariyle 3917 liraya çıkmıştı. Zam oranının % 122 olması halinde 2025 yılında en düşük memur aylığı 43,88 liraya yükselecek. Aynı senaryonun gerçekleşmesi halinde en düşük memur emekli aylığı 19,697 liraya çıkacak. % 112'lik zam oranı gerçekleşirse hemşire maaşları 53,689 liraya, öğretmen maaşı ise 53,000 liraya yükselecek.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 82
+**Retention**: 45.81%
+
+The filtered text focusing on economics, finance, and business is as follows:
+
+---
+
+Bugünlerde antika ürünlerin fiyatları astronomik seviyelere çıktı. Antikacılar, eski perdelerini satmak için gelenlerin sayısının arttığını belirtiyor. Mağazalarında 1000 liraya zor sattıkları ürünleri, internette 700 bin, 900 bin, hatta 1 milyon liraya koyan insanlar var. Bu durum, antikacıların iş yapamaz hale gelmesine neden oluyor. Antikacılar, bu tür ürünlerin gerçek değerinin çok altında olduğunu vurguluyor. 
+
+---
+
+This version retains the economic context regarding pricing and market behavior while removing irrelevant content.
+
+================================================================================
+
+## Economic Segment 6
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 94
+**Retention**: 70.15%
+
+Halk işi yapılmış sıradan bir perdenin çok fazla bir değeri olduğunu düşünmüyor. Ancak bunun antika değeri görebilmesi için farklı özelliklere ihtiyaç var. İşte elimde gördüğünüz bir perde parçası, kumaşı Osmanlı döneminden kalmış. Üstelik fiyatı da sadece 36.000 TL. Asırlardır korunan koleksiyonluk perdelerin bile bugünkü fiyatı Türkiye'de anneanne perdesi kadar pahalı değil. Bakın, bu tamamıyla ipektir ve önemli bir antik parça olarak değerlendiriliyor. Burada 300.000 TL ile 400.000 TL arasında bir değer biçiyoruz. Ancak hiçbir özelliği olmayan polyester bir perdeyi 900 TL'ye satmak mümkün. Bu durum, piyasa dinamiklerini ve tüketici algısını etkileyen bir ekonomik göstergedir.
+
+================================================================================
+

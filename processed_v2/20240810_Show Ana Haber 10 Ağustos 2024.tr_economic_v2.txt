@@ -1,0 +1,31 @@
+# Economic Content from: 20240810_Show Ana Haber 10 Ağustos 2024.tr.txt
+# Processed: 2025-07-22T17:43:15.779219
+# Original: 2552 words → Filtered: 169 words (6.62% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 101
+**Retention**: 33.22%
+
+Çukurova uluslararası Havalimanı Cumhurbaşkanı Erdoğan tarafından hizmete açıldı. Erdoğan, muhalefetin yatırımı kötülemeye çalıştığını belirtti. Çukurova Havalimanı'nın yıllık 9 milyon yolcu ağırlayacağı ve 3000 kişiye istihdam sağlayacağı ifade edildi. Türkiye'nin 58 havalimanının açılışı, ekonomik büyüme ve ulaşım altyapısının güçlendirilmesi açısından önemli bir adım olarak değerlendiriliyor. 
+
+Cumhurbaşkanı Erdoğan, muhalefetin eleştirilerine yanıt verirken, halkın parasının doğru kullanılması gerektiğini vurguladı. Havalimanı projeleri, bölgedeki ekonomik gelişim için kritik öneme sahip. Bu tür yatırımlar, yerel ekonomiyi canlandıracak ve istihdam yaratacaktır. 
+
+Ayrıca, Türkiye'deki toplam Suriyeli sayısının açıklanması, göçmen politikalarının ekonomik etkileri açısından önemli bir veri sunmaktadır. Bu durum, iş gücü piyasası ve sosyal hizmetler üzerinde de etkili olabilir.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 68
+**Retention**: 34.69%
+
+16 milyon emekli için düğmeye basıldı. Sosyal Güvenlik Kurumu 5,500'den fazla özel işletmeyle anlaşma yaptı ve emeklilere birçok alanda %5 ile %50 arasında indirim uygulaması başladı. Bu düzenlemenin detayları gerçekten hayata geçirilirse, emeklilere pek çok hizmette önemli avantajlar sağlanacak. 65 yaş ve üzeri emekliler için Türk Hava Yollarında %115, hızlı trende ise % indirim uygulanıyor. Bu indirimler, emeklilere sağlıktan ulaşıma birçok alanda avantaj sağlayacak şekilde tüm yurda yayıldı.
+
+================================================================================
+

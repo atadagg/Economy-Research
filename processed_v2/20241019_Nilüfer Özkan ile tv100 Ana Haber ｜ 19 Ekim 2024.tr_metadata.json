@@ -1,0 +1,71 @@
+{
+  "file_path": "news/TV100/20241019_Nilüfer Özkan ile tv100 Ana Haber ｜ 19 Ekim 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T18:20:41.412576",
+  "original_word_count": 8477,
+  "filtered_word_count": 256,
+  "retention_ratio": 0.030199362982187096,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 6,
+      "start_sentence": "Hoş geldiniz değerli izleyenler",
+      "description": "\"Hoş geldiniz değerli izleyenler\" - The presenter, Nilüfer Özkan, welcomes the viewers and introduces the program, setting the tone for the broadcast.",
+      "end_pos": 58
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 58,
+      "start_sentence": "Bugün 19 Ekim Cumartesi çok zor günlerden geçiyoruz",
+      "description": "\"Bugün 19 Ekim Cumartesi çok zor günlerden geçiyoruz\" - The main news content begins, discussing the societal issues of violence, including specific cases of violence against women and children, and the scandal involving the \"newborn gang.\"",
+      "end_pos": 966
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 966,
+      "start_sentence": "şimdi sevgili izleyenler",
+      "description": "\"şimdi sevgili izleyenler\" - This phrase indicates a transition to a specific news story about the newborn gang scandal, signaling a shift in focus within the news segment.",
+      "end_pos": 966
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 966,
+      "start_sentence": "ancak Belki de daha fazla bebek hayatını kaybetti",
+      "description": "\"ancak Belki de daha fazla bebek hayatını kaybetti\" - The detailed reporting on the newborn gang scandal continues, providing information about the hospitals involved and the consequences of the scandal.",
+      "end_pos": 1844
+    },
+    {
+      "type": "5. **OUTRO**",
+      "start_pos": 1844,
+      "start_sentence": "bu ahı bu Vebal nasıl verecekler çok merak edi",
+      "description": "\"bu ahı bu Vebal nasıl verecekler çok merak edi\" - The closing remarks reflect on the gravity of the situation discussed, leading towards the end of the program.",
+      "end_pos": 62033
+    }
+  ],
+  "news_segments_count": 9,
+  "economic_segments_count": 2,
+  "economic_segments": [
+    {
+      "segment_id": "58_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 125,
+      "filtered_length": 124,
+      "retention_ratio": 0.992,
+      "section_description": "\"Bugün 19 Ekim Cumartesi çok zor günlerden geçiyoruz\" - The main news content begins, discussing the societal issues of violence, including specific cases of violence against women and children, and the scandal involving the \"newborn gang.\""
+    },
+    {
+      "segment_id": "1844_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 281,
+      "filtered_length": 132,
+      "retention_ratio": 0.4697508896797153,
+      "section_description": "\"bu ahı bu Vebal nasıl verecekler çok merak edi\" - The closing remarks reflect on the gravity of the situation discussed, leading towards the end of the program."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

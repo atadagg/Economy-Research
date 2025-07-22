@@ -1,0 +1,71 @@
+{
+  "file_path": "news/AHaber/20241119_Narin ölüme nasıl sürüklendi？ Cinayeti aydınlatacak delil hangisi？ ｜ A Haber.tr.txt",
+  "processing_timestamp": "2025-07-22T15:51:09.993475",
+  "original_word_count": 18212,
+  "filtered_word_count": 183,
+  "retention_ratio": 0.010048319789150011,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "akla vicdana insanlığa sığmayan bir cinayetten bahsedeceğiz",
+      "description": "\"akla vicdana insanlığa sığmayan bir cinayetten bahsedeceğiz\" - The opening remarks introduce the topic of the broadcast, highlighting a shocking crime and setting the stage for the discussion.",
+      "end_pos": 80
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 80,
+      "start_sentence": "maalesef açılışta da söyledik sadece birkaç bin lira SGK'dan daha fazla para alabilmek için",
+      "description": "\"maalesef açılışta da söyledik sadece birkaç bin lira SGK'dan daha fazla para alabilmek için\" - This section contains the main news content, discussing the details of the crime, the involved parties, and the implications of the case.",
+      "end_pos": 953
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 953,
+      "start_sentence": "Şoke olduk Çünkü 2023 yılında başlayan bir şikayet sonucu yapılan araştırmalar",
+      "description": "\"Şoke olduk Çünkü 2023 yılında başlayan bir şikayet sonucu yapılan araştırmalar\" - This brief transition connects the introduction of the crime to the specifics of the investigation and the emergence of the criminal group.",
+      "end_pos": 1438
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1438,
+      "start_sentence": "Ben hemen Abdurrahman Şimşek ve Nazif karaman'ı böyle davet etmek istiyorum",
+      "description": "\"Ben hemen Abdurrahman Şimşek ve Nazif karaman'ı böyle davet etmek istiyorum\" - This part continues the news segment, inviting guests to discuss the case further and delve into the details of the criminal activities.",
+      "end_pos": 1636
+    },
+    {
+      "type": "5. **NEWS**",
+      "start_pos": 1636,
+      "start_sentence": "Bu olay bir kahramanı var bir defa bir Cumhuriyet Savcısı var",
+      "description": "\"Bu olay bir kahramanı var bir defa bir Cumhuriyet Savcısı var\" - This section continues to provide more information about the case, mentioning key figures involved in the investigation and their roles.",
+      "end_pos": 118031
+    }
+  ],
+  "news_segments_count": 18,
+  "economic_segments_count": 2,
+  "economic_segments": [
+    {
+      "segment_id": "80_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 110,
+      "filtered_length": 110,
+      "retention_ratio": 1.0,
+      "section_description": "\"maalesef açılışta da söyledik sadece birkaç bin lira SGK'dan daha fazla para alabilmek için\" - This section contains the main news content, discussing the details of the crime, the involved parties, and the implications of the case."
+    },
+    {
+      "segment_id": "1636_11",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 73,
+      "filtered_length": 73,
+      "retention_ratio": 1.0,
+      "section_description": "\"Bu olay bir kahramanı var bir defa bir Cumhuriyet Savcısı var\" - This section continues to provide more information about the case, mentioning key figures involved in the investigation and their roles."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

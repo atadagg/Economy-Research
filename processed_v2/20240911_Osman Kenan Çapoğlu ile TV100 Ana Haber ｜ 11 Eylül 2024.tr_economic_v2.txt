@@ -1,0 +1,102 @@
+# Economic Content from: 20240911_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 11 Eylül 2024.tr.txt
+# Processed: 2025-07-22T18:50:52.834160
+# Original: 12208 words → Filtered: 726 words (5.95% retention)
+# Economic segments: 7
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 169
+**Retention**: 100.00%
+
+000 lira verecekti Evet evet Evet
+demişken sonrasında beni ailemle tehdit etti diyor Eee Osman Biz birçok Eee dava gördük birçok böyle
+cinayetlerle ilgili Eee haberler yaptık Eee bazen kaplama denen bir olay biliyoruz yani eee başka
+birini olayın failinin yerine başka biri Eee suçu üstüne alabiliyor Eee Bu da sonradan ortaya
+çıkıyor bazen Eee böyle olma ihtimali Eee yüksek mi Çünkü verdiği çelişkili ifadeler Eee
+anlattıkları birbirini tutmuyor zaten Ne demek o kafanda uyanan canlanan Ne yani onu bir tam anlatır
+mısın Bence olayla ilgili hiçbir şey bilmiyor cesedin taşınmasıyla ilgili veyahut da herhangi bir
+şeyle ilgili bir şey bilmiyor Bence Eee eee yine bu olayda eee bir plan yapılmış kolektif bir
+cinayet organize bir cinayet diyoruz ya burada bir planlar yapılmış önceden yapılmış bu planlar Eee
+ve her şeyi böyle ya da aynı gelişen bir olay alce bir şey düşündüler böyle bir şey yapalım dediler
+Eee bu Tabii benim söylediklerim hepsi iddia Eee yani belki Eee suçu üzerine alıyor veyahut da böyle
+bir durum içerisinde Eee 200
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 111
+**Retention**: 62.36%
+
+Bu rakamlar soru işareti. 7 000 lira tutarlar için yaptığınız alışverişlerde, örneğin bir çamaşır makinesi aldığınızda, 7 000 liranın üzerinde artık elden ödeme yapamıyorsunuz. PTT banka yoluyla ödemeniz gerekiyor. Bu, kayıt dışı elde edilen gelirin ya da vergi kaçırmanın önüne geçilmesi için atılan önemli bir adım. Ancak, bu durum kağıt paranın ortadan kalkıp kalkmayacağı konusunda endişeleri de beraberinde getiriyor. Örneğin, bir kira ödüyorsunuz 15 000 lira. Ev sahibiniz, 5 000 lirasını bankadan göndermenizi, 10 000 lirasını ise elden alacağını söylüyor. Bu durumda, 5 000 lirayı bankadan ödemeniz, 10 000 lirayı da kişiye elden vermeniz söz konusu. Eğer böyle bir durumla karşılaşılırsa, hem kirayı elden ödeyene hem de ev sahibine ceza uygulanacak.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 67
+**Retention**: 78.82%
+
+Hazine ve Maliye Bakanlığı, kirayı elden ödeyenler için harekete geçti. Bu yöntemlere karşı Maliye Bakanlığı ciddi bir çalışma başlatmıştı. Hazırlanan taslağa göre, elden ödendiği tespit edilen kiranın %10'u baz alınarak bir ceza belirlenecek. İş yerleri için 20,000 liraya varan cezalar söz konusu. Evler için ise 5,000 liraya kadar cezalar uygulanacak. Bu durum, kira bedellerinin kayıt altına alınması ve vergi kaybının önlenmesi açısından önemli bir adım olarak değerlendiriliyor.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 102
+**Retention**: 51.78%
+
+Gelir İdaresi Başkanlığına göre kira ödemeleri banka veya PTT üzerinden yapılacak. Ciddi cezalarla karşı karşıya kalmamak adına elden ödemeyip muhakkak bankalar ya da PTT kanalıyla ödemeleri yapmak çok önemli. Zaten PTT ve banka kanadıyla ödenmesi zorunlu. Alışverişte cüzdanlarda para yerine neredeyse artık sadece kart çıkıyor. Bu durum, enflasyon oranındaki artışla birlikte, ücretlerin alım gücünü düşürüyor. Asgari ücretle geçinenler için elde avuçta pek bir şey kalmıyor. Öyle olunca kart kullanmak zorunda kalıyorsunuz. 7,000 TL üstü ödemeler kartla yapılmak durumunda. Eğer bu kurala uymazsanız ceza var. Hazine Bakanlığı, fatura ve fiş kesmeyen işletmelere yönelik önlemler almaya başladı. Bakanlık yeni bir düzenleme içinde düğmeye bastı.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 71
+**Retention**: 50.35%
+
+Banka veya kredi kartı kullanımını zorunlu kılacak 7.000 liralık bir alışveriş yaptığınızda, bu durum yasal bir zemine oturtulacak. 7.000 ve üzeri alışverişlerde ödemeler ya kredi kartıyla yapılmak zorunda bırakılacak ya da banka kartıyla gerçekleştirilecek. Bu uygulama, kayıt altına alma anlamında önemli bir adım olarak değerlendiriliyor. Ayrıca, düzenleme taslağına göre, ödemeleri almayan işletmelere en az 5.000 lira özel usulsüzlük cezası uygulanacak. Bu tür düzenlemeler, ekonomik faaliyetlerin daha şeffaf hale gelmesine katkı sağlayabilir.
+
+================================================================================
+
+## Economic Segment 6
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 76
+**Retention**: 30.65%
+
+SGK genel sağlık sigortası prim borcu olan milyonlarca vatandaşa kritik bir mesaj gönderdi. Genel sağlık sigortasında minimum ödenecek prim, brüt asgari ücretin %3'üne tekabül ediyor. Bu da 2024 için 600 TL'dir. 600 TL ödendiğinde, vatandaşlar sağlık hizmetlerinden ücretsiz olarak faydalanabiliyor. Genel sağlık sigortası prim borçlarının zamanında ödenmemesi durumunda SGK tarafından haciz ve icra gibi yasal işlemler başlatılabiliyor. Burada iki amaç vardır; birincisi tahsilatı artırmak, ikincisi ise vatandaşlara sağlık hizmetlerinin 31 Aralık 2024'te sona ereceği uyarısını yapmaktır.
+
+================================================================================
+
+## Economic Segment 7
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 130
+**Retention**: 100.00%
+
+0 Birlik yani 10
+binde Birlik bir farkla kaybetti sendika 14 gündür Çalışma ve Sosyal Güvenlik Bakanlığı önünde
+nöbette üye sayılarının bir kez daha hesaplanmasını talep ediyorlar sözleşme hakkımızı istiyoruz
+benim üyeliğim dahi e silinmiş durumda Yani Sendikanın Genel Başkanı olarak diskin Genel Başkanı
+olarak ben kendi sendikam dahi üye görünmüyorum 14 gündür nöbett dev Sağlık İş Sendikası 0,01 lik
+farkla Toplu sözleşme hakkını kay kaybetti baraj altı kaldı bu bir idari işlem ve idare bir yanlış
+yapmış Sendikanın eylemine destek için Türkiye Devrimci İşçi Sendikaları Konfederasyonu başkanı Arzu
+Çerkezoğlu da alaydı kendisinin de sendikaya üye olarak gözükmediği söyledi dev Sağlık İş Sendikası
+üye sayısının yeniden hesaplanmasını istedi Benim üyeliğim dahi silinmiş durumda Yani Sendikanın
+Genel Başkanı olarak diskin Genel Başkanı olarak ben kendi sendik dahi üye görünmüyorum sadece 0
+
+================================================================================
+

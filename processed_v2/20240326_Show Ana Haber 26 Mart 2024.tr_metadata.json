@@ -1,0 +1,75 @@
+{
+  "file_path": "news/Show/20240326_Show Ana Haber 26 Mart 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T17:41:10.401905",
+  "original_word_count": 3222,
+  "filtered_word_count": 606,
+  "retention_ratio": 0.18808193668528864,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "İyi akşamlar sayın seyirciler",
+      "description": "\"İyi akşamlar sayın seyirciler\" - The presenter introduces herself and sets the stage for the news broadcast, indicating the start of the program.",
+      "end_pos": 95
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 95,
+      "start_sentence": "Cumhurbaşkanı Erdoğan ne verirsek verelim kaybolup gidiyor dedi",
+      "description": "\"Cumhurbaşkanı Erdoğan ne verirsek verelim kaybolup gidiyor dedi\" - This section contains the main news content, discussing various political developments, statements from President Erdoğan, and reactions from opposition leaders.",
+      "end_pos": 766
+    },
+    {
+      "type": "3. **OUTRO**",
+      "start_pos": 766,
+      "start_sentence": "Bu senaryoyu defalarca gördük bu oyunu hep beraber Bozacağız",
+      "description": "\"Bu senaryoyu defalarca gördük bu oyunu hep beraber Bozacağız\" - The closing remarks summarize the key points discussed and provide a final message to the audience, marking the end of the program.",
+      "end_pos": 22544
+    }
+  ],
+  "news_segments_count": 10,
+  "economic_segments_count": 4,
+  "economic_segments": [
+    {
+      "segment_id": "95_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 85,
+      "filtered_length": 47,
+      "retention_ratio": 0.5529411764705883,
+      "section_description": "\"Cumhurbaşkanı Erdoğan ne verirsek verelim kaybolup gidiyor dedi\" - This section contains the main news content, discussing various political developments, statements from President Erdoğan, and reactions from opposition leaders."
+    },
+    {
+      "segment_id": "766_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 237,
+      "filtered_length": 114,
+      "retention_ratio": 0.4810126582278481,
+      "section_description": "\"Bu senaryoyu defalarca gördük bu oyunu hep beraber Bozacağız\" - The closing remarks summarize the key points discussed and provide a final message to the audience, marking the end of the program."
+    },
+    {
+      "segment_id": "766_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 288,
+      "filtered_length": 288,
+      "retention_ratio": 1.0,
+      "section_description": "\"Bu senaryoyu defalarca gördük bu oyunu hep beraber Bozacağız\" - The closing remarks summarize the key points discussed and provide a final message to the audience, marking the end of the program."
+    },
+    {
+      "segment_id": "766_5",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 157,
+      "filtered_length": 157,
+      "retention_ratio": 1.0,
+      "section_description": "\"Bu senaryoyu defalarca gördük bu oyunu hep beraber Bozacağız\" - The closing remarks summarize the key points discussed and provide a final message to the audience, marking the end of the program."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

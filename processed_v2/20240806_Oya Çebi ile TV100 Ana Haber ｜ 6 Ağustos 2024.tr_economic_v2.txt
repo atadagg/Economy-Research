@@ -1,0 +1,40 @@
+# Economic Content from: 20240806_Oya Çebi ile TV100 Ana Haber ｜ 6 Ağustos 2024.tr.txt
+# Processed: 2025-07-22T18:36:42.978729
+# Original: 11439 words → Filtered: 336 words (2.94% retention)
+# Economic segments: 3
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 114
+**Retention**: 56.16%
+
+900 dolara geriledi. Küresel piyasalardaki sert düşüşler, Fed'den acil faiz indirimi ihtimalini gündeme getirdi. Analistler, böyle bir durumun piyasalardaki paniği daha da artırabileceğini belirtti. Kripto paralar yine buhar oldu; parasını güvenli liman altına yatıranlar ise mutlu. Şimdi hemen altın ve para piyasaları uzmanı İslam Memiş'e döneceğiz. Sayın Memiş, hoş geldiniz yayınımıza. 
+
+Kara Pazartesi dedik, son 37 yılın en kötü dönemlerinden birini yaşamışız. Piyasalarda dün yaşanan o fırtınanın etkisi devam ediyor mu? Bu fırtına devam eder mi? Ağustos'un tamamı acaba bu şekilde geçer mi? Dün yaşanan piyasalardaki çöküş adeta bir deprem gibiydi ve artçı şokları bugün devam ediyor. Aslında geçen hafta Cuma günü hikaye başladı; Amerika'da açıklanan tarım dışı istihdam verisi beklentinin oldukça altında geldi.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 108
+**Retention**: 56.25%
+
+Küresel piyasalar, ekonomik verilerin açıklanmasının ardından resesyon fiyatlamasına girdi. Pazartesi günü Asya piyasaları açıldığında büyük çöküş başladı ve borsalarda %110'dan fazla satış görüldü. Borsa İstanbul 100 endeksi, 0.12 puanlık bir düşüşle günü 9881 puandan kapattı. Tüm enstrümanlarda bu çöküşü gördük, özellikle petrol fiyatları 76-78 dolar seviyesine geriledi. Altın ve gümüş fiyatları da bu düşüşlerden etkilendi; borsalarda yaşanan hızlı çöküşler nedeniyle teminat çağrıları oldu ve bu durum altın ve gümüş pozisyonlarını bozdu. Kripto para piyasasındaki düşüşler de dikkat çekiciydi; Bitcoin %20 değer kaybederek 48,90 dolar seviyesine kadar geriledi. Ancak bugün %3,76'lık bir yükselişle Bitcoin 56,476 dolar seviyesine ulaştı. Şu anda 59,000 dolar direncini takip edeceğiz, ancak belirsizlikler devam edecek.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 114
+**Retention**: 60.32%
+
+Kiracıların başı dertli olan ev sahipleri bir araya geldi ve burada mağduriyetlerin giderilmesi için çalışmalar yapmaya başladı. Hakan Kılıç, mağdurlardan biri olarak, kiracısından evi boşaltmasını istedi. Ancak, kiracı dışarıdaki kiraların şu anda ödendiğinde çok daha yüksek olduğunu belirterek evi boşaltamıyorum dedi. Kiralık ev tutacağım zaman aynı sitede veya benzer lokasyonda 23-24.000 TL kira ödeyeceğim, kendisinin bana ödemiş olduğu para 6.250 TL. Dolayısıyla benim her ay 17-18.000 TL arada bir açığım kalıyor. Hukukçular, arabuluculuğun da işe yaramadığını söyledi. Kiracıların maalesef çıkmak için taşınma parası adı altında fahiş miktarlarda para talep etmesi ev sahiplerini de mağdur etmiştir. Ev sahipleri %25 kira sınırının kalkmasıyla birlikte önümüzdeki aylardan umutlu. TÜİK'in açıklamış olduğu Temmuz 2024 kira TÜFE oranı %65.
+
+================================================================================
+

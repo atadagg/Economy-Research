@@ -1,0 +1,49 @@
+# Economic Content from: 20240704_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 4 Temmuz 2024.tr.txt
+# Processed: 2025-07-22T18:06:13.046451
+# Original: 8861 words → Filtered: 266 words (3.00% retention)
+# Economic segments: 4
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 61
+**Retention**: 98.39%
+
+Kazakistan'ın başkenti Astana'da Cumhurbaşkanı Erdoğan, ekonomik işbirlikleri ve ticaretin artırılması konularında da görüşmeler yaptı. Türkiye'nin ekonomik büyümesi için uluslararası işbirliklerinin önemine vurgu yaptı. Ayrıca, Türkiye'nin terörle mücadelesinin ekonomik istikrar üzerindeki etkilerine de dikkat çekti. Ekonomik verilerin ve istatistiklerin, ülkenin genel ekonomik sağlığı üzerinde belirleyici bir rol oynadığını ifade etti. Bu bağlamda, hükümetin ekonomik politikalarının, yatırım ortamını iyileştirmek için gerekli olduğunu belirtti.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 77
+**Retention**: 39.90%
+
+Emeklinin alacağı zam oranı da belli oldu. Ancak bir kesim kafası karışık; kök zam uygulaması düzenlenmezse aldıkları maaş düşebilir. Asgari olarak emekli maaşı uygulaması devam etmeyecekse vatandaşlarımız kök maaşa yapılan zamdan dolayı artık 10 000 liradan da düşük maaş alabilirler. 6 aylık enflasyon farkı % 2,73 olarak tespit edildi. Düşük emekli aylığı alanları kök maaş tehlikesi bekliyor. 10 000 liranın altındaki kök ücreti olan insanlar, kök maaşı olan insanlar 10 000 liraya tamamlanıyor şu anda hazine desteğiyle.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 57
+**Retention**: 93.44%
+
+17 liranın altında kök maaşı olanlar bugün aldıklarından daha az bir emekli maaşı alabilirler. Kök maaş sorunu bu kapsamdaki milyonlarca emekli için mağduriyet yaratabilir. Kök maaş sorununu örneklendirmek gerekirse, 2017 TL'lik sınırın altındaysanız gelecek olan % 2,73'lük zamla birlikte mevcut maaş olan 10,000 liranın altında kalıyorsunuz. Bu durum, emeklilerin alım gücünü olumsuz etkileyerek ekonomik istikrarı tehdit edebilir.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 71
+**Retention**: 40.80%
+
+Özel okul fiyatlarının yıllık ücreti neredeyse bir ev fiyatına doğru gidiyor. Artık rakamlar 1 milyon lirayı aşıyor. Veliler, çocuklarını okula nasıl kaydedeceklerini kara kara düşünüyor. Eğitimin ticarileşmesiyle birlikte, bazı okullar için 1 milyon bile az kalıyor ve bu durum aileler için ciddi bir yük olmaya başladı. Özel okullarda fiyatlar geçen yıla göre tam 4 kat arttı. Erken kayıt döneminde özel okullar fiyatları yüksekten açmıştı; yeni döneme yaklaştıkça fiyatlar daha da arttı.
+
+================================================================================
+

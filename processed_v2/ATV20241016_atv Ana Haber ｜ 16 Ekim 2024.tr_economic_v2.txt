@@ -1,0 +1,54 @@
+# Economic Content from: ATV20241016_atv Ana Haber ｜ 16 Ekim 2024.tr.txt
+# Processed: 2025-07-22T16:03:45.464176
+# Original: 4413 words → Filtered: 333 words (7.55% retention)
+# Economic segments: 3
+
+## Economic Segment 1
+
+**Method**: pattern_validated
+**Confidence**: 0.75
+**Word Count**: 141
+**Retention**: 100.00%
+
+Atv Haber merkezinden İyi akşamlar Bugün 16 Ekim 2024 çarşamba ve deprem gerçeği Kendini yeniden
+hatırlattı Malatya'da 5,9 büyüklüğünde bir deprem oldu çevre illerde de hissedildi deprem ve Elbette
+ki çok korkuttu mucize eseri Can kayb Olmadı ama 3000 yıldır kırılamayan Malatya fayı uzlar Şubat
+depreminin fay enerji transferi yaptığı görüşünde bu önemli şiddetli depremin ardından sadece 4
+saatte 100 artçı Sarsıntı kaydı geçti beş kentte okullar tatil edildi ve halk günü sokakta geç hala
+devam ediyor korkunç Burası dünyanın of aman ya rabbi hala devam ediyor korkunç insanlar sokaklarda
+panik içinde saat 104d mal Meri büyüklüğündeki depremle sarsıldı deprem oluyor Değerli seyirciler
+deprem Bismillahirrahmanirrahim Allah birçok kentte hissedilen Sarsıntı 6 Şubat depremini yaşayan
+malatyalıları panikletti merkez üstü Kale olduğu için 6 Şubat depreminden daha şiddetli hissettik
+Malatya'da 3 bina kısmen çöktü 4 kişi yaralandı dağlık alandaki heyland Kaya parçaları yola
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: pattern_validated
+**Confidence**: 0.75
+**Word Count**: 72
+**Retention**: 59.02%
+
+000 yıldır uyuyan Malatya fayı 6 Şubat depreminin
+yüklediği enerji ile hareketlendi 4 saatte 100 artçı Sarsıntı meydana geldi Malatyalılar evlerine
+dönemedi korktuk hepimiz dışarı çıktık korkuyoruz binalar yoruldu Çünkü binalara güvenemiyor Elazığ
+Malatya'dan sonra depremden en çok etkilenen kentti herkes canli ile sokağa fırladı panikleyip
+kendini Pencereden atanlar da oldu 94 kişi yaralandı iki binada ağır hasar meydana geldi
+şehircilikte gelene kadar arkadaşlar Dumanlar çıktı yıkılan yerlerin dumanları İşte bunlar dağlık
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 120
+**Retention**: 41.96%
+
+Altınova'nın 5 litre doğal sızma zeytinyağının fiyatı 899 lira olarak belirlenmiş. 2023-2024 sezonunda 1 litre sızma zeytinyağının çıplak maliyeti 280-300 lira bandında değişiyor. Ürünlerdeki hileler ve etiketler uzun zamandır denetim altında. Sıkı denetimlerin sonucu birçok markete para cezası uygulandı. Ancak bazı firmalarda sadece etiket değişikliği yapıldığı görülüyor. 
+
+Şu an birçok zincir markette indirim furyası var, ancak bu indirimlerin gerçekliği sorgulanıyor. Örneğin, bir zincir markette 80'li bulaşık deterjanı 475,95 lira olarak satılıyor ve bu ürünlerde %30 indirim olduğu belirtiliyor. Ancak, önceki markete göre fiyatlar daha pahalı. Aynı şekilde, tuvalet kağıdı 32'li paketinin fiyatı 299,95 lira olarak belirlenmişken, başka bir zincir markette aynı ürün sözde %44 indirimle 299,90 liraya satılıyor. Bu durum, yanıltıcı indirimler ve fahiş fiyat artışları ile ilgili endişeleri artırıyor.
+
+================================================================================
+

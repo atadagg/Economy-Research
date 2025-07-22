@@ -1,0 +1,27 @@
+# Economic Content from: ATV20240604_atv Ana Haber ｜ 4 Haziran 2024.tr.txt
+# Processed: 2025-07-22T16:46:00.212974
+# Original: 4874 words → Filtered: 169 words (3.47% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 75
+**Retention**: 42.86%
+
+Cumhurbaşkanı Erdoğan, emeklilere yönelik 3.000 liralık bayram ikramiyelerinin önümüzdeki hafta pazartesi günü itibariyle ödenmeye başlanacağını duyurdu. Emeklilerin maaş aldıkları tarihlere göre, 10-14 Haziran tarihleri arasında hesaplara yatacak olan emekli ikramiyeleri ile ilgili bir beklenti vardı. Bunun yanı sıra, maaşların da ikramiyelerle birlikte erken yatıp yatmayacağı konusunda bir merak söz konusuydu. Ancak Cumhurbaşkanı Erdoğan, bu konuda henüz bir açıklama yapmadı. Ekonomik açıdan, bayram ikramiyeleri emeklilerin alım güçlerini artıracak ve bu durum, tüketim harcamalarını olumlu yönde etkileyebilir.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 94
+**Retention**: 51.09%
+
+Özel üniversitelerin eğitim ücreti için bir zam sınırı yok ve bazı özel üniversiteler eğitim ücretine % 10000 fazla zam yaptı. Öğrenciler, erken kayıt adı altında önlerine % 300'e varan zamlı fiyatlar konulduğunu söylüyor. Üstelik, kayıt yaptırılmayan her ay ücret artıyor. Öğrenciler, bu istenilen eğitim ücretlerini fazla buluyor. Bu yüzden de özel okullara getirilen zam sınırının aynı şekilde özel üniversitelere de getirilmesini istiyorlar. Kesinlikle zam sınırı gelmeli; bir üniversite, TÜİK'in açıkladığı enflasyonun üzerinde fiyat artışı yapıyorsa bu durumu YÖK'e iletmekte fayda var. YÖK başkanı da vakıf üniversitelerine enflasyon üzerinde zam yapılmaması için bir tavsiyede bulunmuştur.
+
+================================================================================
+

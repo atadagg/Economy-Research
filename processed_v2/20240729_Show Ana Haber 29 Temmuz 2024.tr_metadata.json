@@ -1,0 +1,55 @@
+{
+  "file_path": "news/Show/20240729_Show Ana Haber 29 Temmuz 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T17:15:59.563502",
+  "original_word_count": 3531,
+  "filtered_word_count": 78,
+  "retention_ratio": 0.022090059473237042,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "İyi akşamlar değerli izleyenler...",
+      "description": "\"İyi akşamlar değerli izleyenler...\" - The presenter introduces themselves and sets the stage for the news broadcast, indicating the start of the program.",
+      "end_pos": 188
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 188,
+      "start_sentence": "Cumhurbaşkanı Erdoğan İsrail'e böyle meydan okudu...",
+      "description": "\"Cumhurbaşkanı Erdoğan İsrail'e böyle meydan okudu...\" - This section contains the main news content, discussing various political statements and events, including reactions from different political figures regarding Israel.",
+      "end_pos": 1559
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 1559,
+      "start_sentence": "Efendim şimdi günlerdir tartışılan bir konuyla devam edelim...",
+      "description": "\"Efendim şimdi günlerdir tartışılan bir konuyla devam edelim...\" - This brief transition indicates a shift from one news topic to another, specifically moving from the discussion about Israel to the topic of stray animals.",
+      "end_pos": 1653
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1653,
+      "start_sentence": "sahipsiz sokak hayvanları düzenlemesi genel kurulda görüşülürken...",
+      "description": "\"sahipsiz sokak hayvanları düzenlemesi genel kurulda görüşülürken...\" - This section continues with another news story, focusing on the discussions and tensions surrounding legislation related to stray animals.",
+      "end_pos": 24116
+    }
+  ],
+  "news_segments_count": 11,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "1653_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 152,
+      "filtered_length": 78,
+      "retention_ratio": 0.5131578947368421,
+      "section_description": "\"sahipsiz sokak hayvanları düzenlemesi genel kurulda görüşülürken...\" - This section continues with another news story, focusing on the discussions and tensions surrounding legislation related to stray animals."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

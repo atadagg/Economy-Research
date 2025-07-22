@@ -1,0 +1,96 @@
+{
+  "file_path": "news/ATV/ATV20240711_atv Ana Haber ｜ 11 Temmuz 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T15:56:52.329967",
+  "original_word_count": 4656,
+  "filtered_word_count": 436,
+  "retention_ratio": 0.0936426116838488,
+  "structure_sections": [
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 0,
+      "start_sentence": "Atv Haber başladı Cumhurbaşkanı Erdoğan Nato zirvesi için gittiği washington'dan...",
+      "description": "\"Atv Haber başladı Cumhurbaşkanı Erdoğan Nato zirvesi için gittiği washington'dan...\" - A brief transition that connects the introduction of the news segment to the specific details of Erdoğan's statements.",
+      "end_pos": 23
+    },
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 23,
+      "start_sentence": "İyi akşamlar Bugün 11 Temmuz 2024 Perşembe...",
+      "description": "\"İyi akşamlar Bugün 11 Temmuz 2024 Perşembe...\" - The opening of the broadcast where the presenter greets the audience and introduces the date and context of the news.",
+      "end_pos": 99
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 99,
+      "start_sentence": "Cumhurbaşkanı Recep Tayyip Erdoğan Nato zirvesi için gitti...",
+      "description": "\"Cumhurbaşkanı Recep Tayyip Erdoğan Nato zirvesi için gitti...\" - The main news content discussing President Erdoğan's messages at the NATO summit, including his views on terrorism and regional conflicts.",
+      "end_pos": 869
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 869,
+      "start_sentence": "NATO'da müttefiklerimiz temel beklentimiz benzer terle mücadele yaklaşımını benimsemeleri...",
+      "description": "\"NATO'da müttefiklerimiz temel beklentimiz benzer terle mücadele yaklaşımını benimsemeleri...\" - Continuation of the news content focusing on Erdoğan's expectations from NATO allies and his comments on the Israel-Palestine conflict.",
+      "end_pos": 1366
+    },
+    {
+      "type": "5. **NEWS**",
+      "start_pos": 1366,
+      "start_sentence": "Rusya Ukrayna Savaşı konusunda İsa NATO ile Rusya arasında doğrudan bir çatışma ihtimalinin endişe verici olduğunu...",
+      "description": "\"Rusya Ukrayna Savaşı konusunda İsa NATO ile Rusya arasında doğrudan bir çatışma ihtimalinin endişe verici olduğunu...\" - Further news content discussing Erdoğan's concerns regarding the Russia-Ukraine war and its implications.",
+      "end_pos": 1761
+    },
+    {
+      "type": "6. **OUTRO**",
+      "start_pos": 1761,
+      "start_sentence": "Erdoğan zirvenin yapıldığı kongre merkezinde Biden ve NATO genel sekreteri tarafından karşılandı...",
+      "description": "\"Erdoğan zirvenin yapıldığı kongre merkezinde Biden ve NATO genel sekreteri tarafından karşılandı...\" - Closing remarks that summarize the events of the NATO summit and the interactions between leaders.",
+      "end_pos": 33628
+    }
+  ],
+  "news_segments_count": 12,
+  "economic_segments_count": 4,
+  "economic_segments": [
+    {
+      "segment_id": "1761_0",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 239,
+      "filtered_length": 122,
+      "retention_ratio": 0.5104602510460251,
+      "section_description": "\"Erdoğan zirvenin yapıldığı kongre merkezinde Biden ve NATO genel sekreteri tarafından karşılandı...\" - Closing remarks that summarize the events of the NATO summit and the interactions between leaders."
+    },
+    {
+      "segment_id": "1761_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 192,
+      "filtered_length": 121,
+      "retention_ratio": 0.6302083333333334,
+      "section_description": "\"Erdoğan zirvenin yapıldığı kongre merkezinde Biden ve NATO genel sekreteri tarafından karşılandı...\" - Closing remarks that summarize the events of the NATO summit and the interactions between leaders."
+    },
+    {
+      "segment_id": "1761_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 153,
+      "filtered_length": 71,
+      "retention_ratio": 0.46405228758169936,
+      "section_description": "\"Erdoğan zirvenin yapıldığı kongre merkezinde Biden ve NATO genel sekreteri tarafından karşılandı...\" - Closing remarks that summarize the events of the NATO summit and the interactions between leaders."
+    },
+    {
+      "segment_id": "1761_5",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 175,
+      "filtered_length": 122,
+      "retention_ratio": 0.6971428571428572,
+      "section_description": "\"Erdoğan zirvenin yapıldığı kongre merkezinde Biden ve NATO genel sekreteri tarafından karşılandı...\" - Closing remarks that summarize the events of the NATO summit and the interactions between leaders."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

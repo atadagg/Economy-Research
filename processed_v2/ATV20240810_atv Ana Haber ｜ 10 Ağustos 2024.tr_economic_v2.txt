@@ -1,0 +1,44 @@
+# Economic Content from: ATV20240810_atv Ana Haber ｜ 10 Ağustos 2024.tr.txt
+# Processed: 2025-07-22T16:27:30.630730
+# Original: 4599 words → Filtered: 294 words (6.39% retention)
+# Economic segments: 3
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 122
+**Retention**: 86.52%
+
+Ağustos cumartesi Çukurova'da bugün tarihi bir açılış vardı. Adana ve Mersin'in tam ortasına yapılan Çukurova Havalimanı Cumhurbaşkanı Erdoğan tarafından hizmete açıldı. Erdoğan açılış töreninde AK Parti hükümetlerinin yaptığı yatırımlara vurgu yaptı. Bu yatırımlar, ülkenin ekonomik büyümesine katkıda bulunmayı hedefliyor. 
+
+Cumhurbaşkanı, muhalefetin ekonomik yönetim konusundaki eleştirilerine yanıt vererek, "Borçlara para yok, ancak Paris'te keyif için paraları çok" ifadelerini kullandı. Bu durum, hükümetin mali disiplin konusundaki yaklaşımını sorgulayan bir ekonomik tartışma başlattı. 
+
+Ayrıca, CHP'li belediyelere SGK borcunu hatırlatarak, "Millete hizmet etmeye gelince kasada para yok" dedi. Bu açıklamalar, yerel yönetimlerin mali durumunu ve kamu borçlarını gündeme getirdi. 
+
+Cumhurbaşkanı'nın bu sözleri, ülkenin ekonomik kaynakları ve yönetim anlayışı üzerine önemli bir tartışma başlattı. Ekonomik verilerin ve mali politikaların, siyasi söylemlerden bağımsız olarak ele alınması gerektiği vurgulandı.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 118
+**Retention**: 59.30%
+
+Bu sene mi yoksa 2025'te mi emeklilik dilekçesi vermek daha avantajlı? Gelecek yıl geçilecek yeni düzen, emeklilik planlayanların merak ettiği bu soruyu gündeme getiriyor. Şu anda 2024 yılında emekli olmak, 2025 yılında emekli olmaya göre 30'un üzerinde bir kar sağlıyor. 2025 yılında hesaplama yöntemi sebebiyle emekli maaşlarında kök maaşlarda bir düşüş olacak. Örneğin, Ocak ve Temmuz aylarında yapılan emekli maaş artışı, 2024 yılında emeklilik başvurusunda bulunan bir çalışanın kök aylığına yansıtılacak. Ancak dilekçe 2025'te kalırsa, 12 aylık TÜFE oranında maaş artışı yapılacak. Bugün itibariyle emekli olmak, 2025'te emekli olmaktan daha karlı olacak. 2024 yılının sonuna kadar emekli dilekçenizi verirseniz, size bağlanan kök maaş 15,800 lira olacak. Eğer bu dilekçenizi 2025 yılında verirseniz, size bağlanan maaş daha düşük olacak.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 54
+**Retention**: 81.82%
+
+40 lir oluyor şu anda bu farkın tek sebebi hesaplama yönteminden kaynaklanması ve Çalışma Bakanlığı da bu hesaplama yöntemini daha adil şekilde yapmak için uğraşıyor. Bu durum, emekli maaşlarının belirlenmesinde önemli bir etki yaratıyor. Ekonomik verilerin doğru bir şekilde hesaplanması, bireylerin alacakları maaşların yanı sıra genel ekonomik istikrar açısından da kritik bir öneme sahip.
+
+================================================================================
+

@@ -1,0 +1,69 @@
+{
+  "file_path": "news/AHaber/20241226_Narin Güran'ın Avucundaki Saç ve Kıl Örneklerindeki DNA Aileden Birine Ait Çıktı! Katil Kim？.tr.txt",
+  "processing_timestamp": "2025-07-22T15:40:08.101521",
+  "original_word_count": 16360,
+  "filtered_word_count": 100,
+  "retention_ratio": 0.006112469437652812,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "A Haber ekranlarından İyi geceler efendim bir günü noktalı...",
+      "description": "\"A Haber ekranlarından İyi geceler efendim bir günü noktalı...\" - The opening remarks of the presenter, introducing the program and setting the stage for the critical news of the day.",
+      "end_pos": 100
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 100,
+      "start_sentence": "Peki Türkiye neden bugüne kilitlendi Çünkü Diyarbakır'da vahşice katledilen Narin güran cinayetinde...",
+      "description": "\"Peki Türkiye neden bugüne kilitlendi Çünkü Diyarbakır'da vahşice katledilen Narin güran cinayetinde...\" - The main news content discussing the murder case in Diyarbakır, detailing the upcoming court proceedings and the significance of the event.",
+      "end_pos": 1156
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 1156,
+      "start_sentence": "Tabii ki yarın o davada olacak pek çok soru sorulacak...",
+      "description": "\"Tabii ki yarın o davada olacak pek çok soru sorulacak...\" - A brief transition that leads into the discussion of the upcoming court case and the involvement of expert guests.",
+      "end_pos": 1447
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1447,
+      "start_sentence": "Özetle ve ortaya çıkan deliller de bunu ortaya çıkaracak...",
+      "description": "\"Özetle ve ortaya çıkan deliller de bunu ortaya çıkaracak...\" - Continuation of the news segment, elaborating on the details of the court case and the expected questions to be raised during the trial.",
+      "end_pos": 1649
+    },
+    {
+      "type": "5. **NEWS**",
+      "start_pos": 1649,
+      "start_sentence": "Peki bugün bu konuya kimlerle başlayacağız kimlerle konuşacağız...",
+      "description": "\"Peki bugün bu konuya kimlerle başlayacağız kimlerle konuşacağız...\" - Further news content introducing the guests who will discuss the case, indicating a shift to expert commentary.",
+      "end_pos": 1749
+    },
+    {
+      "type": "6. **INTRO**",
+      "start_pos": 1749,
+      "start_sentence": "Öncelikle stüdyomuzda çok kıymetli Avukat Pınar Hacı Bektaşoğlu bizlerle...",
+      "description": "\"Öncelikle stüdyomuzda çok kıymetli Avukat Pınar Hacı Bektaşoğlu bizlerle...\" - Introduction of the guest expert, marking a transition to the discussion segment of the program.",
+      "end_pos": 108655
+    }
+  ],
+  "news_segments_count": 8,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "1749_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 100,
+      "filtered_length": 100,
+      "retention_ratio": 1.0,
+      "section_description": "\"Öncelikle stüdyomuzda çok kıymetli Avukat Pınar Hacı Bektaşoğlu bizlerle...\" - Introduction of the guest expert, marking a transition to the discussion segment of the program."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

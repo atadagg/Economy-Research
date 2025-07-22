@@ -1,0 +1,40 @@
+# Economic Content from: ATV20241115_atv Ana Haber ｜ 15 Kasım 2024.tr.txt
+# Processed: 2025-07-22T16:29:54.200954
+# Original: 4812 words → Filtered: 258 words (5.36% retention)
+# Economic segments: 3
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 105
+**Retention**: 36.33%
+
+The filtered text focusing on economics, finance, and business is as follows:
+
+Gelen bilgilere göre en yüksek harcamayı yapan İstanbul Büyükşehir Belediyesi, Ekrem İmamoğlu göreve geldiği andan itibaren yapılan etkinlik harcaması 6 milyar liranın üzerinde. Savcılar, bu işlemlerde bir usulsüzlük var mı yok mu ona bakacaklar. 2019-2021 yılları arasında İstanbul Büyükşehir Belediyesi'nin etkinlik harcamalarında düzenli bir artış yaşandı; 2019'da 222 milyon lira olan harcama, 2020'de 236 milyon liraya, 2021'de ise 296 milyon liraya çıkarak yıldan yıla yükselmeye devam etti. Yine pandeminin en yüksek seviyelere ulaştığı 2022 yılında belediye konser bütçesinde büyük bir sıçrama yaşandı; o yıl içerisinde belediye 3 konsere toplam 721 milyon lira harcadı.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 47
+**Retention**: 83.93%
+
+15 L ödedi 2023'te bu rakam 1 555 600 725 liraya çıkarak neredeyse iki katına ulaştı. Toplam 3 m 2742 275 lira harcandı. En yüksek harcama 15 Ocak'ta yapılan 931 126 250 liralık ihale ile gerçekleşti. Diğer büyük harcamalar 25 Ocak ve 2 Eylül 2024 tarihlerinde yapıldı.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 106
+**Retention**: 80.92%
+
+Yeni yılda asgari ücretin ne kadar olacağı merak ediliyor ve masada farklı zam senaryoları öne çıkıyor. Asgari ücret hesaplaması için kullanılan parametrelerin en önemlisi enflasyon rakamları. Orta vadeli programda 2025 yılı için enflasyon hedefi % 17,5'ten % 21'e güncellendi. Bu da asgari ücret için yapılan tahminleri yukarı çıkardı. Eğer asgari ücrete % 25 oranında zam yapılırsa, yeni asgari ücret 21,2 lira yükselecek, yani 4250 liralık bir artış gerçekleşecek. Yeni yıl zammında en güçlü senaryo, yıl sonu enflasyonu ile hedef enflasyon arasında bir noktanın belirlenmesi. Bu da % 30'lar civarı bir artış demek. Zam oranının % 30 olduğu durumda asgari ücretimiz 17,2 liradan 22 lira seviyesine yükselebilir.
+
+================================================================================
+

@@ -1,0 +1,59 @@
+{
+  "file_path": "news/ATV/ATV20241112_atv Ana Haber ｜ 12 Kasım 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T16:20:55.154894",
+  "original_word_count": 4803,
+  "filtered_word_count": 292,
+  "retention_ratio": 0.06079533624817822,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 23,
+      "start_sentence": "İyi akşamlar Bugün 12 Kasım 2024 salı...",
+      "description": "\"İyi akşamlar Bugün 12 Kasım 2024 salı...\" - The opening of the broadcast where the presenter greets the audience and introduces the date and context of the news.",
+      "end_pos": 74
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 74,
+      "start_sentence": "Cumhurbaşkanı Erdoğan'ın yeni haftada Suudi Arabistan'da başlayan Diplomasi trafiğinde bugünkü durağı Azerbaycan oldu...",
+      "description": "\"Cumhurbaşkanı Erdoğan'ın yeni haftada Suudi Arabistan'da başlayan Diplomasi trafiğinde bugünkü durağı Azerbaycan oldu...\" - The main content of the broadcast, detailing President Erdoğan's diplomatic activities, his statements regarding Israel, and the ongoing situation in Gaza and its environmental impacts.",
+      "end_pos": 34491
+    }
+  ],
+  "news_segments_count": 9,
+  "economic_segments_count": 3,
+  "economic_segments": [
+    {
+      "segment_id": "74_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 274,
+      "filtered_length": 114,
+      "retention_ratio": 0.41605839416058393,
+      "section_description": "\"Cumhurbaşkanı Erdoğan'ın yeni haftada Suudi Arabistan'da başlayan Diplomasi trafiğinde bugünkü durağı Azerbaycan oldu...\" - The main content of the broadcast, detailing President Erdoğan's diplomatic activities, his statements regarding Israel, and the ongoing situation in Gaza and its environmental impacts."
+    },
+    {
+      "segment_id": "74_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 64,
+      "filtered_length": 52,
+      "retention_ratio": 0.8125,
+      "section_description": "\"Cumhurbaşkanı Erdoğan'ın yeni haftada Suudi Arabistan'da başlayan Diplomasi trafiğinde bugünkü durağı Azerbaycan oldu...\" - The main content of the broadcast, detailing President Erdoğan's diplomatic activities, his statements regarding Israel, and the ongoing situation in Gaza and its environmental impacts."
+    },
+    {
+      "segment_id": "74_7",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 161,
+      "filtered_length": 126,
+      "retention_ratio": 0.782608695652174,
+      "section_description": "\"Cumhurbaşkanı Erdoğan'ın yeni haftada Suudi Arabistan'da başlayan Diplomasi trafiğinde bugünkü durağı Azerbaycan oldu...\" - The main content of the broadcast, detailing President Erdoğan's diplomatic activities, his statements regarding Israel, and the ongoing situation in Gaza and its environmental impacts."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

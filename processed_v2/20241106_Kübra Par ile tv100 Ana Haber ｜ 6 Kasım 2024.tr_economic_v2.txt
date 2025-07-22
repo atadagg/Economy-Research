@@ -1,0 +1,77 @@
+# Economic Content from: 20241106_Kübra Par ile tv100 Ana Haber ｜ 6 Kasım 2024.tr.txt
+# Processed: 2025-07-22T18:26:47.369416
+# Original: 9700 words → Filtered: 555 words (5.72% retention)
+# Economic segments: 6
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 63
+**Retention**: 116.67%
+
+Başkan Yardımcısı Donald Trump'ın yeniden seçilmesi, Türkiye ve dünya ekonomisi üzerinde önemli etkiler yaratabilir. Özellikle ABD'nin ekonomik politikaları, ticaret anlaşmaları ve yatırım stratejileri, küresel piyasalarda dalgalanmalara neden olabilir. Trump'ın yönetimi altında, ABD'nin dış ticaret politikaları ve ithalat-ihracat dengesi üzerinde değişiklikler beklenebilir. Bu durum, Türkiye'nin ihracat pazarlarını ve ekonomik ilişkilerini de etkileyebilir. Ekonomik veriler ve istatistikler, bu süreçte yatırımcıların kararlarını şekillendirecek önemli göstergeler olacaktır.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 46
+**Retention**: 61.33%
+
+700 dolar seviyesine kadar düşüşler gördük, şu an 2725 dolar seviyelerinde gram altında 3 120 TL'ydi dün itibariyle. Bu sabah itibariyle 3100 Hatta 3 100'ün altına da indiğini görüyoruz. Piyasalarda hareketlenme devam ediyor. Piyasalar, Trump'ın zaferini erkenden fiyatlandırmaya başladı. Uluslararası piyasalarda 3 000 t'nin altını görüyoruz.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 132
+**Retention**: 66.33%
+
+Dolar TL'de 600 seviyesinin üzerine çıktı ve şu an 34 lira 25 kuruş olarak fiyatlanıyor. Özellikle Türk Lirası, gelişmekte olan piyasalarda dolara karşı değer kazanan tek para birimi oldu. Trump'ın seçilmesi, borsa İstanbul'u da yukarı yönlü etkiledi ve iç piyasada pozitif bir etki yarattı. Burada 9000 puanın üzerinde yükselişler bekleniyor; 9000 puanın üzerindeki günlük kapanışlarda borsa İstanbul'a yeniden yükselişler gelebilir. 
+
+Tüm dünyada altın bir miktar durağanlık yaşayabilir, ancak hisse senetleri bazında yeni rekorlar görebiliriz. Trump'ın Amerika merkezli korumacı politikaları ile birlikte, özellikle dolar endeksi ve Amerikan tahvil getirilerinde dikkat çeken yükselişler yaşanıyor. Son 3 haftalık süreç içerisinde hem dolarda hem tahvil cephesinde hem de altında değer kazanımı görüldü. Dolar endeksi cephesinde yükselişler görülürken, altın bir miktar satışlara başladı. 
+
+Trump'ın bitcoin'i desteklemiş olması, kripto piyasasını da hareketlendirdi ve bitcoin yeni bir zirveye ulaştı.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 107
+**Retention**: 58.47%
+
+Aralık ayının ilk haftasında asgari ücret tespit komisyonumuz çalışmalarını başlatacağız. Milyonlarca asgari ücretli ve ailelerini ilgilendiren takvim yaklaştı. 2025 yılında geçerli olacak asgari ücret ne kadar olacak sorusuna yanıt aramak için komisyon toplanacak. Enflasyon gittikçe düşme eğilimine giriyor ve bu enflasyon oranlarını dikkate almak zorundayız. Çalışma ve Sosyal Güvenlik Bakanı Vedat Işıkkan, enflasyon rakamlarındaki düşüşe vurgu yaptı. Burada en önemli etken enflasyon rakamları olacak. 2024 yılı Ocak ayında belirlenen mevcut asgari ücret 17,2 lira. Merkez Bankası yıl sonu enflasyon beklentisi ise % 14,4 olarak öngörülüyor. Buna ek olarak verilebilecek % 5'lik bir refah payı da hesap edilirse, Ocak ayı itibariyle geçerli olacak asgari ücret 25,351 lirayı bulabilir.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 85
+**Retention**: 72.03%
+
+Asgari ücretin yılda bir defa belirlenmesi yanlıştır. En azından Ocak ve Temmuz şeklinde iki defa belirlenmesi hem işveren açısından hem de çalışan açısından daha iyi bir durum olacaktır. 35,000 lira olması gerekiyor asgari ücretin. Ancak bu rakamla bir aile nefes alabilir. 
+
+Faizler çok yüksek olunca yatırım aracı olarak en çok faiz ve mevduat hesaplarına yatırım arttı. Hükümet, geçtiğimiz günlerde faizden kesilen stopaj kesintisini artırdı. Eğer 3 ayın üstündeyse, %7,5’tan %5’e çıkarılmıştı; onun altındaysa %10’dan %11’e çıkarılmıştı. Peki böyle olunca acaba mevduattan kazanç ne kadar düştü?
+
+================================================================================
+
+## Economic Segment 6
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 122
+**Retention**: 82.43%
+
+Geçen ay ne kazanıyordu bu ay koyarsanız ne kazanacaksınız haberi detayımı. Faizde zaten düşme bekleniyor. Şimdi bir de stopaj oranı da arttı, yani gelen karın daha fazlası stopaja gidecek, kar düşecek. Tevkifat oranlarında düzenlemeye ilişkin Cumhurbaşkanı kararı resmi gazetede yayınlandı. Düzenlemeyle Türk Lirası mevduat ve fonlarda stopaj oranları artırıldı. Parasını mevduatta değerlendirenler için şu anda 6 aya kadar %7,5 oranında stopaj kesintisi yapılıyor. Şimdi bu oran %110'a çıkarıldı. Yani bu demek oluyor ki bu oranda mevduat sahiplerinin faiz gelirinde düşüş yaşanacak. Eğer geçen hafta bu rakamı vadeli mevduata yatırdıysanız, kazanacağınız para 32 günün sonunda 34.000 TL olmuş olacak. Ortalama karınız 14.000 TL ancak stopaj oranı arttığı için yatırırsanız 32 günün sonunda alacağınız para 33.000 TL, yani karınız ortalama burada 13.000 TL olacak.
+
+================================================================================
+

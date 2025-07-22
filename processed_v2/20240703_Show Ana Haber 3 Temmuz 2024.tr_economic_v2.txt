@@ -1,0 +1,49 @@
+# Economic Content from: 20240703_Show Ana Haber 3 Temmuz 2024.tr.txt
+# Processed: 2025-07-22T17:40:06.061522
+# Original: 2635 words → Filtered: 323 words (12.26% retention)
+# Economic segments: 4
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 74
+**Retention**: 91.36%
+
+Yani en düşük emekli aylığı için yeni bir düzenleme yapılmazsa, onların maaşları aynı kalabilir. Örneğin, 8,000 kök maaş alan bir emekli %24,75'lik zamla beraber 19,978 lira artış yaşayacak maaşında; yani maaşı 9,978 liraya gelecek. Üzerini de 10,000 liraya hazine tamamladığı için maaşında hiçbir artış yaşanmayacak. Memur ve memur emeklileri ise %110'luk toplu sözleşme zammı ile birlikte enflasyon farkı alacak. Bu da %199,99 artış anlamına geliyor. En düşük memur emeklisinin maaşı ise 1,177 lira olacak.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 90
+**Retention**: 54.55%
+
+Yabancı okulların eğitim masrafları 800-900 bin lira talep ediyor. Bu rakam servis, yemek ve kitap masraflarıyla birlikte 1 milyonu buluyor. Özel okul fiyatları, ekonomik koşullar nedeniyle ciddi şekilde artış gösterdi; bazı okulların fiyatları 3 katına, bazıları ise 4 katına çıktı. Şu an özel okulda çocuk okutma gibi bir lüksümüz yok. Eğitim masrafları, bir ailenin en önemli giderleri haline gelmeye başladı. Özel okulların fiyatları geçtiğimiz yıla oranla 4 kat arttı ve alt sınır 300 bin liraya ulaştı. İstanbul'daki bazı Fransız ve Amerikan okulları hazırlık sınıfı ücretlerini 900 bin liranın üzerinde açıkladı.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 114
+**Retention**: 36.54%
+
+Bugün de yeni dönemin ilk zam oranı belli oldu. Kontratları bu ay sona erenler en çok % 16,65 oranında zam yapacak. Bu oran her ay TÜFE'ye bağlı olarak güncellenecek. Kiracılar iki yıl boyunca biraz rahat ettiler, ancak ev sahipleri bu durumdan hiç memnun kalmadı; mahkemeler davalarla doldu taştı. Kira artışlarında % 25 kuralı kalktı. Mal sahipleri hemen TÜFE'nin oranına bakmaya başladılar. Kira artış oranları 12 aylık TÜFE ile belirlenecek. Temmuz ayının en yüksek kira artış oranı % 65,00 oldu. Her ay değişecek ve her ayın 3'ünde veya 4'ünde açıklanan TEFE TÜFE artış oranları kiralamalara belli olacaktır. Geçen sene giren bir kiracı için güncel rakamlardan % 65 bir kira artışı yapılması yüksek gelir anlamına geliyor.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 45
+**Retention**: 81.82%
+
+Bu ay kirasına zam yapılacaksa % 25'lik sınır kalkmasaydı yeni kirası 18 700 olacaktı. Ancak bu sınırın kalkmasıyla birlikte şimdiki yeni kirası 2 700 lira olacak. Bu % 65'in küsur üst sınırıdır. Yani kiracıyla ev sahibi oturur, belki % artışta anlaşır, belki % 35-40'ta anlaşır.
+
+================================================================================
+

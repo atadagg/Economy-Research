@@ -1,0 +1,50 @@
+{
+  "file_path": "news/ATV/ATV20240904_atv Ana Haber ｜ 4 Eylül 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T16:05:25.875998",
+  "original_word_count": 5126,
+  "filtered_word_count": 111,
+  "retention_ratio": 0.02165431135388217,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 23,
+      "start_sentence": "İyi akşamlar günün en önemli haberlerini derlediğimiz bir haber bülteni ile daha karşınızdayız",
+      "description": "\"İyi akşamlar günün en önemli haberlerini derlediğimiz bir haber bülteni ile daha karşınızdayız\" - This section serves as the opening of the news broadcast, introducing the program and setting the stage for the news content.",
+      "end_pos": 98
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 98,
+      "start_sentence": "beştepe'de bugün önemli bir Zirve vardı dahası önemli bir konuk Mısır Cumhurbaşkanı Abdulfettah Sisi",
+      "description": "\"beştepe'de bugün önemli bir Zirve vardı dahası önemli bir konuk Mısır Cumhurbaşkanı Abdulfettah Sisi\" - This section contains the main news content, detailing the significant events of the day, including the meeting between Turkish President Erdoğan and Egyptian President Sisi, and the discussions surrounding various agreements and diplomatic issues.",
+      "end_pos": 36155
+    }
+  ],
+  "news_segments_count": 5,
+  "economic_segments_count": 2,
+  "economic_segments": [
+    {
+      "segment_id": "98_0",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 99,
+      "filtered_length": 58,
+      "retention_ratio": 0.5858585858585859,
+      "section_description": "\"beştepe'de bugün önemli bir Zirve vardı dahası önemli bir konuk Mısır Cumhurbaşkanı Abdulfettah Sisi\" - This section contains the main news content, detailing the significant events of the day, including the meeting between Turkish President Erdoğan and Egyptian President Sisi, and the discussions surrounding various agreements and diplomatic issues."
+    },
+    {
+      "segment_id": "98_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 152,
+      "filtered_length": 53,
+      "retention_ratio": 0.34868421052631576,
+      "section_description": "\"beştepe'de bugün önemli bir Zirve vardı dahası önemli bir konuk Mısır Cumhurbaşkanı Abdulfettah Sisi\" - This section contains the main news content, detailing the significant events of the day, including the meeting between Turkish President Erdoğan and Egyptian President Sisi, and the discussions surrounding various agreements and diplomatic issues."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

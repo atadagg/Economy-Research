@@ -1,0 +1,83 @@
+{
+  "file_path": "news/Halk/20240913_Ece Üner ile Halk Ana Haber (13 Eylül 2024).tr.txt",
+  "processing_timestamp": "2025-07-22T17:01:37.917569",
+  "original_word_count": 11481,
+  "filtered_word_count": 79,
+  "retention_ratio": 0.006880933716575211,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "Halk TV ana haber Hoş geldiniz efendim",
+      "description": "\"Halk TV ana haber Hoş geldiniz efendim\" - This section serves as the opening of the news broadcast, welcoming viewers and introducing the program.",
+      "end_pos": 30
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 30,
+      "start_sentence": "Bugün ilk defa Narin'in babası çıktı ve konuştu",
+      "description": "\"Bugün ilk defa Narin'in babası çıktı ve konuştu\" - This section contains the main news content, discussing the tragic story of Narin and her father's statements regarding the situation, along with other related news stories.",
+      "end_pos": 75
+    },
+    {
+      "type": "8. **NEWS**",
+      "start_pos": 75,
+      "start_sentence": "O da 2 yaşında bir bebek bebek ve istismar kelimelerini yan yana kullanamıyoruz",
+      "description": "\"O da 2 yaşında bir bebek bebek ve istismar kelimelerini yan yana kullanamıyoruz\" - This section discusses another tragic story involving a young child, continuing the theme of serious news coverage.",
+      "end_pos": 197
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 197,
+      "start_sentence": "Şimdi şöyle düşünün çok acılı bir baba",
+      "description": "\"Şimdi şöyle düşünün çok acılı bir baba\" - This brief transition leads into a deeper discussion about the father's grief and the implications of his statements, signaling a shift in focus within the news segment.",
+      "end_pos": 876
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 876,
+      "start_sentence": "O yüzden bugün aile diyeceğiz aileye ilişkin Hashtag imiz aile",
+      "description": "\"O yüzden bugün aile diyeceğiz aileye ilişkin Hashtag imiz aile\" - This continues the news content, focusing on the family aspect of the story and the social media response related to it.",
+      "end_pos": 1073
+    },
+    {
+      "type": "5. **TRANSITION**",
+      "start_pos": 1073,
+      "start_sentence": "Şimdi bir tanesi Ferit Demir'in anlatacakları",
+      "description": "\"Şimdi bir tanesi Ferit Demir'in anlatacakları\" - This transition introduces the next segment of news, indicating that a reporter will provide further details about the ongoing story.",
+      "end_pos": 1361
+    },
+    {
+      "type": "6. **NEWS**",
+      "start_pos": 1361,
+      "start_sentence": "Dilan şu anda Eee Narin'in mezarının orada",
+      "description": "\"Dilan şu anda Eee Narin'in mezarının orada\" - This section continues with the news, detailing events occurring at Narin's grave and the reactions of visitors.",
+      "end_pos": 1645
+    },
+    {
+      "type": "7. **TRANSITION**",
+      "start_pos": 1645,
+      "start_sentence": "Başka birçok bilgiyle beraber ve Sahra Atilla",
+      "description": "\"Başka birçok bilgiyle beraber ve Sahra Atilla\" - This transition introduces another reporter who will provide additional information related to the ongoing news stories.",
+      "end_pos": 79231
+    }
+  ],
+  "news_segments_count": 12,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "1645_9",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 197,
+      "filtered_length": 79,
+      "retention_ratio": 0.4010152284263959,
+      "section_description": "\"Başka birçok bilgiyle beraber ve Sahra Atilla\" - This transition introduces another reporter who will provide additional information related to the ongoing news stories."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "file_path": "news/Show/20240402_Show Ana Haber 2 Nisan 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T17:30:29.308190",
+  "original_word_count": 2909,
+  "filtered_word_count": 179,
+  "retention_ratio": 0.061533172911653486,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "İyi akşamlar sayın seyirciler",
+      "description": "\"İyi akşamlar sayın seyirciler\" - The presenter introduces herself and sets the stage for the news broadcast, indicating the start of the program.",
+      "end_pos": 0
+    },
+    {
+      "type": "- **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "İyi akşamlar sayın seyirciler",
+      "description": "\"İyi akşamlar sayın seyirciler\" - The presenter introduces herself and sets the stage for the news broadcast, indicating the start of the program.",
+      "end_pos": 95
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 95,
+      "start_sentence": "AK Parti Merkez Yürütme Kurulu Cumhurbaşkanı Erdoğan başkanlığında",
+      "description": "\"AK Parti Merkez Yürütme Kurulu Cumhurbaşkanı Erdoğan başkanlığında\" - This section contains the main news content, discussing the AK Party's extraordinary meeting regarding local elections, the outcomes, and various political implications.",
+      "end_pos": 95
+    },
+    {
+      "type": "- **NEWS**",
+      "start_pos": 95,
+      "start_sentence": "AK Parti Merkez Yürütme Kurulu Cumhurbaşkanı Erdoğan başkanlığında",
+      "description": "\"AK Parti Merkez Yürütme Kurulu Cumhurbaşkanı Erdoğan başkanlığında\" - This section contains the main news content, discussing the AK Party's extraordinary meeting regarding local elections, the outcomes, and various political implications.",
+      "end_pos": 581
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 581,
+      "start_sentence": "Bugün AK Parti MYK olağanüstü topladı",
+      "description": "\"Bugün AK Parti MYK olağanüstü topladı\" - This brief transition indicates a shift in focus within the news segment, moving from one aspect of the AK Party's meeting to another.",
+      "end_pos": 581
+    },
+    {
+      "type": "- **TRANSITION**",
+      "start_pos": 581,
+      "start_sentence": "Bugün AK Parti MYK olağanüstü topladı",
+      "description": "\"Bugün AK Parti MYK olağanüstü topladı\" - This brief transition indicates a shift in focus within the news segment, moving from one aspect of the AK Party's meeting to another.",
+      "end_pos": 1544
+    },
+    {
+      "type": "5. **OUTRO**",
+      "start_pos": 1544,
+      "start_sentence": "Teşekkür eder sağ ol",
+      "description": "\"Teşekkür eder sağ ol\" - The closing remarks of the broadcast, signaling the end of the program.",
+      "end_pos": 1544
+    },
+    {
+      "type": "- **OUTRO**",
+      "start_pos": 1544,
+      "start_sentence": "Teşekkür eder sağ ol",
+      "description": "\"Teşekkür eder sağ ol\" - The closing remarks of the broadcast, signaling the end of the program.",
+      "end_pos": 1644
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1644,
+      "start_sentence": "CHP'de zaferin şifresi değişim mi",
+      "description": "\"CHP'de zaferin şifresi değişim mi\" - This section continues with additional news content, focusing on the CHP's response and discussions surrounding the election results.",
+      "end_pos": 1644
+    },
+    {
+      "type": "- **NEWS**",
+      "start_pos": 1644,
+      "start_sentence": "CHP'de zaferin şifresi değişim mi",
+      "description": "\"CHP'de zaferin şifresi değişim mi\" - This section continues with additional news content, focusing on the CHP's response and discussions surrounding the election results.",
+      "end_pos": 20202
+    }
+  ],
+  "news_segments_count": 11,
+  "economic_segments_count": 2,
+  "economic_segments": [
+    {
+      "segment_id": "1644_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 79,
+      "filtered_length": 61,
+      "retention_ratio": 0.7721518987341772,
+      "section_description": "\"CHP'de zaferin şifresi değişim mi\" - This section continues with additional news content, focusing on the CHP's response and discussions surrounding the election results."
+    },
+    {
+      "segment_id": "1644_6",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 118,
+      "filtered_length": 118,
+      "retention_ratio": 1.0,
+      "section_description": "\"CHP'de zaferin şifresi değişim mi\" - This section continues with additional news content, focusing on the CHP's response and discussions surrounding the election results."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

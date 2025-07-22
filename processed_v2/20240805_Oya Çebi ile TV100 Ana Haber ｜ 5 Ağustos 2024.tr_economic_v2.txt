@@ -1,0 +1,94 @@
+# Economic Content from: 20240805_Oya Çebi ile TV100 Ana Haber ｜ 5 Ağustos 2024.tr.txt
+# Processed: 2025-07-22T18:18:26.046366
+# Original: 12695 words → Filtered: 707 words (5.57% retention)
+# Economic segments: 7
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 73
+**Retention**: 140.38%
+
+haftanın ilk iş günüyle karşınızdayız ama gündeme yoğun ve hareketli bir şekilde başladık diyebiliriz. Türkiye'de de önemli açıklamalar var. Özellikle Cumhurbaşkanı Erdoğan'ın ekonomik politikaları ve bunların piyasalara etkisi üzerine yaptığı değerlendirmeler dikkat çekiyor. Ekonomik veriler ve istatistikler, yatırımcıların kararlarını etkileyen önemli unsurlar arasında yer alıyor. Ayrıca, Türkiye'nin enflasyon oranları ve mali istikrar konusundaki gelişmeler, finansal piyasalarda dalgalanmalara yol açabilir. Bu bağlamda, hükümetin alacağı yeni ekonomik tedbirler ve bunların iş dünyasına yansımaları merakla bekleniyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: pattern_validated
+**Confidence**: 0.75
+**Word Count**: 94
+**Retention**: 100.00%
+
+vakit kaybetmeden hemen başlayacağız Peki Instagram diyelim Şimdi herkesin merakla beklediği O soru
+efend Instagram engeli Acaba ne zaman kalkacak ya da daha doğrusu kalkacak mı şimdi gözler bugün
+Ulaştırma ve altyapı Bakanlığı bürokratları la Instagram yetkilileri arasındaki o kritik
+Toplantıdayım ınstagram'la ilgili nihai kararın verilmesinde bekliyoruz bir yandan Meta sözcüsü o
+toplantı devam ederken bir açıklama yaptı Peki ne dedi Hemen paylaşayım hizmetlerimizi yeniden
+Kullanıma sunmak için elimizden geleni yapmaya devam edeceğiz ifadelerini kullandı Peki bu ne anlama
+geliyor nasıl bir karar çıktı ya da çıktı mı masada hangi başlıklar vardı yanıtları Ankara'dan
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: pattern_validated
+**Confidence**: 0.75
+**Word Count**: 71
+**Retention**: 100.00%
+
+alacağız TV1 editörü Esra Özden şimdi Esra pek çok sorumuz vardı Ben de biraz önce seyircilerimiz
+karşısında O soruları sordum cevapları Sende var mı çok merak ediyoruz yani Net bir cevapları var mı
+Aslında onu merak ediyoruz seni dinleyelim Instagram'a erişim engeli kararı meraklı bekleniyor bilgi
+teknolojileri ve iletişim kurumu Instagram'a erişim engeli getirmiş Eee BTK ile Instagram
+yetkilileri bugün kritik bir toplantı yaptılar toplantı Hala sürüyor saat 13'te başladı toplantı
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 211
+**Retention**: 71.28%
+
+Piyasalar ne zaman normale dönecek süreç içerisinde faiz indirimleri geldikten sonra zaten piyasa rahatlayacak. Bu sadece kripto tarafında değil, altın yatırımcılarını ve endeks yatırımcılarını da pozitif yönde etkileyecek. Efendim, enflasyondaki gerileme Temmuz ayında da devam etti. Bu arada, aylık bazda % 3,23, yıllık bazda ise % 61,5 olarak gerçekleşti. Şimdi rakamları değerlendiren Hazine ve Maliye Bakanı Mehmet Şimşek, önümüzdeki dönemde enflasyondaki düşüşün daha çok hissedileceğini belirtti. Temmuzda enflasyon % 3,23 arttı, yıllık enflasyona % 61,5 indi; bu veri bir yılın en düşük verisi olarak kayıtlara geçti. Temmuzda aylık enflasyon geçici etkiler kaynaklı arttı, yıllık enflasyona Haziran'a göre 99,8 puan azalarak % 61,5 geriledi. Ana hedefi dezenflasyon olan programımızın her alanda olumlu sonuçlarını almaya devam ediyoruz. Önümüzdeki dönemde enflasyondaki düşüş daha çok hissedilecek. Verileri Hazine ve Maliye Bakanı Mehmet Şimşek sosyal medya hesabından yorumladı ve ana hedefin dezenflasyon olduğunu hatırlattı. Fiyat istikrarı ve kalıcı refaha vurgu yaptı. Temmuz ayı TÜFE verileri ile birlikte kira artış oranları da belli oldu; zam tavanı 12 aylık enflasyon ortalamasına göre % 65,9 olarak açıklandı. Harcama gruplarında da değişim yaşandı; Temmuz ayında bir önceki aya göre giyim ve ayakkabı harcamalarında düşüş gözlendi. Bir önceki aya göre en yüksek artış ise % 0,8 ile konutta yaşandı. Ağustos ayı kira zammında üst sınır belli oldu; tavan artık % 65,9.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 59
+**Retention**: 44.70%
+
+Emlak piyasasında yeni bir dönem başlıyor. Artık evini satmak isteyen ev sahipleri, emlakçıya e-devlet üzerinden yetki verecek. Yetkiyi almayan emlakçı, ev satışını gerçekleştiremeyecek. Bu durum, sahte ilanın önüne geçecek ve hayali ev ilanlarını engelleyecek. Emlakçı, yalnızca yetki belgesine sahip olduğu takdirde ilan verebilecek. Bu değişiklik, emlak piyasasında güvenliği artırarak, alım satım işlemlerinin daha şeffaf ve güvenilir hale gelmesini sağlayacak.
+
+================================================================================
+
+## Economic Segment 6
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 105
+**Retention**: 43.21%
+
+Online emlak siteleri sahte ilanlarla dolup taşıyor. Emlak piyasasındaki en büyük sorun spekülasyon. Bir bölgedeki bir sitenin veya bir mahallenin fiyatını yükseltmek için bazı kişiler bunu manipüle ediyordu. Bölgenin rayiç bedeli 3 milyonken bir anda 5 milyona, hatta 7-8 milyona çıkartılıyor. İşte artık bu devir bitiyor; online emlak il belgesi ve yetkilendirme işlemleri e-devlete taşınıyor. 
+
+En düşük emekli aylığının artırılmasının ardından bankalarda maaş promosyonlarını güncelledi. Ağustos ayında en yüksek emekli promosyonu çeşitli bankalar arasında değişiklik gösteriyor. Kamu bankalarının promosyon miktarları bir tık daha düşük, özel bankaların ise bir tık daha yüksek. En düşük emekli maaşlarının artmasıyla birlikte emekliye ek gelir sağlayan banka promosyonları da güncellendi.
+
+================================================================================
+
+## Economic Segment 7
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 94
+**Retention**: 47.47%
+
+15 000 ile 20 000 arası olanlara 12 500, 20 000 ve üzeri aylığı olanlara da promosyon ödeniyor. Öyle ki bazı bankalarda tutar 20 000 liraya dayandı. Bunlara artı olarak 2 500 en az çip para yani kredi kartlarına tanım ve çoğu internet sitesinde kullanılabilecek bir ödeme imkanı sunuluyor. Her faturaya en az 500 TL eklenebiliyor; örneğin, 6 fatura getirdiğinizde 3 000 TL artı alabiliyorsunuz. Bankalara göre değişiklik gösteren ek promosyonlar sayesinde emeklilerin toplamda en az 20 000 TL'ye kadar ulaşma imkanı oluştu. Bu durum, emeklilerin finansal durumlarını iyileştirmeye yönelik bir adım olarak değerlendiriliyor.
+
+================================================================================
+

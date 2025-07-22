@@ -1,0 +1,27 @@
+# Economic Content from: ATV20240927_atv Ana Haber ｜ 27 Eylül 2024.tr.txt
+# Processed: 2025-07-22T16:37:28.657006
+# Original: 4789 words → Filtered: 211 words (4.41% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 147
+**Retention**: 80.77%
+
+L Siz 60 ay vadeyle bu borcu yapılandırdı ve faiz oranı % 3. Bu 100.000 liranın aylık taksidi yaklaşık 3.698 lira olacak, yani 5 yıl boyunca 3.698 lira ödeyeceksiniz. 5 yılın sonuna gelince 100.000 liralık o borcunuz bu yapılandırmayla birlikte geri ödemede 21.000 lira olacak. Eğer siz bu yapılandırmayı yapmasaydınız ve asgari ödemesini yapsaydınız, bu borcun asgari ödemesi de 4.000 lira olacaktı. İşte örnek bir borç yapılandırması: Borcunuz 50.000 lira ve 60 ay vadeyle borcunuzu yapılandırdıysanız, aylık taksit 18.850 lira olacaktır. Eğer borcunuzu yapılandırmazsanız, aylık 10.000 liralık asgari tutarı ödemek zorunda kalacaksınız. Kredi kartı borcu 30.000 lira olsun ve 60 ay vadeyi seçsin. Aslında bu 60 ay vade en uzun vade; daha düşük vadelerde de borcunuzu kapatabilirsiniz. Aylık faiz oranı % 3, taksiti 1.110 lira oluyor, yani her ay 1.110 lira ödeyerek bu tüketici borcundan kurtulmuş olacak. Kredi kartı ve ihtiyaç kredisinde yapılandırma faiz oranı % 3.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 64
+**Retention**: 34.04%
+
+Merkez Bankası'nın yıl sonunda faiz indirimine gitmesi bekleniyor. Eğer Merkez Bankası faiz indirimine giderse, bu durum kredi yapılandırmalarını etkileyebilir. Kredi kartı borçlarının yapılandırılması konusunda tüketicilerin cayma hakkı bulunuyor. İkinci el araç satışında yeni bir dönem başladı; satışlar güvenli ödeme sistemiyle yapılacak. Bu sistem sayesinde para transferi sırasında dolandırıcılık riski azaltılacak. Ekonomik veriler ve piyasa koşulları, bu tür finansal düzenlemelerin arkasındaki motivasyonları anlamamıza yardımcı oluyor.
+
+================================================================================
+

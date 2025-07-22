@@ -1,0 +1,67 @@
+# Economic Content from: 20241029_Kübra Par ile tv100 Ana Haber ｜ 29 Ekim 2024.tr.txt
+# Processed: 2025-07-22T18:19:54.944386
+# Original: 8262 words → Filtered: 428 words (5.18% retention)
+# Economic segments: 5
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 61
+**Retention**: 100.00%
+
+lütfen Evet Kübra asında diyelim Çünkü biraz önce o Türk Hava kuvvetlerinin efsanevi gösteri ekibi
+solotürk burada İzmir semalarında Tabiri caizse yani Gerçekten inanılmaz görüntülere sahne oldu
+burada o kadar büyük bir coşku vardı ki Ama şu an o Coşku Biz şu anda Gündoğdu Meydanı dayız Konak
+saat kulesine doğru ilerliyor kameraman arkadaşım Özgür yatman bir size etrafı göstersin Ben de
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 68
+**Retention**: 100.00%
+
+anlatayım durumu Şimdi burada dediğimiz gibi Gündoğdu meydanında solotürk ekibinin o efsanevi
+gösterisine şahitlik ETK İzmir semaları adeta rengarenk görüntülere sahne oldu öyle güzel akrobasi
+hareketleri yaptılar ki adeta halkın burada o coşkusunu sizlere iletmek isterdim ancak yetişemedik
+dakikalar önce bu gösteri sona erdi Şimdi de İşte gördüğünüz bu kalabalık Konak'taki saat kulesine
+doğru ilerliyor neden ilerliyor Çünkü orada işte bir fener Alayı olacak insanlar 350 metrelik Türk
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 109
+**Retention**: 40.37%
+
+Gelelim biraz gündeme ve özellikle de ekonomi gündemine. Hatırlayacaksınız enerji bakanının elektrik faturaları ile ilgili bir açıklaması olmuştu. 2025 itibaren özellikle yüksek faturalarla ilgili bir hesaplama yöntemi değişecek demişti. Elektrik Mühendisleri Odası tarafından yapılan açıklamada milyonlarca hanenin yüksek tüketimli sanayi kuruluşu gibi fatura ödeyeceği ifade edildi. Eğer tüketim fazlaysa, hanelere uygulanan ve sanayiye uygulanan elektrik fiyatı farklıydı. Sanayi kuruluşlarına daha yüksek fiyattan hesaplanıyordu. Eğer evinizde kalabalıksanız ve elektrik tüketiminiz fazlaysa, sanayi kuruluşlarına hesaplanan fiyat üzerinden hesaplanması ihtimali varmış. Buna itiraz geliyor ve 2025'te uygulanmaya başlanacak bu düzenleme, eğer değişiklik yapılmazsa konu yargıya taşınacak. Elektrik faturasında hesaplama yöntemi değişiyor; belli bir limitin üzerinde tüketimi olanlar üst gelir grubu olarak değerlendirilecek.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 93
+**Retention**: 52.25%
+
+Elektrik Mühendisleri Odası, 2025 itibarıyla geçerli olması planlanan değişiklikle ilgili uyarıda bulundu. Günlük limitin 8 kWh saate kadar ineceği vurgulandı; tüketim aynı kalsa bile faturanın artacağı kaydedildi. Piyasa şartlarının doğrudan kullanıcıya yansıtıldığını belirten kuruluş, düzenlemede değişiklik yapılmazsa harekete geçeceklerini açıkladı. Hazine ve Maliye Bakanlığı, kayıt dışı ödemeleri engellemek için bir karar almıştı ve 7.000 TL ve üzerindeki alışverişlerin artık kredi kartı veya bankalar aracılığıyla yapılmasına karar vermişti. Bazı fırsatçı esnaflar, bu rakamın altındaki ödemelerdeki kart komisyon oranlarını arttırmaya başladı. Yani 7.000 TL üzeri ise, eğer kredi kartıyla ödersen %20'ye varan fark koyarım deniliyor.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 97
+**Retention**: 68.31%
+
+Fırsatçı esnaflar harekete geçti; amaçları ödemeyi nakit alarak vergi kaçırmak. 7,000 lira ve üzeri alışverişlerin kredi kartı ya da banka yoluyla ödenmesine karar verilmişti. Bu karar sonrası bazı esnaflar yüksek kart komisyonları almaya başladı. Kayıt dışı ekonomi ile mücadele kapsamında devreye alınan tedbirler bazı esnafların işine gelmedi. 7,000 ve altında kalan rakamlar için tüketicilerden talep edilen miktarlar oldukça yüksek; bu miktarlar %120'ye kadar çıkan komisyon oranlarına ulaşabiliyor. Bazı esnaflar, müşteriyi nakit ödemeye mecbur etmek için kart ödemelerine yüksek komisyonlar alıyor. Bu noktada tüketiciler mağdur olmaktadırlar. İşte böyle bir durumla karşılaşan vatandaşların e-devlet üzerinden tüketici heyetlerine başvurması gerekiyor.
+
+================================================================================
+

@@ -1,0 +1,27 @@
+# Economic Content from: ATV20240905_atv Ana Haber ｜ 5 Eylül 2024.tr.txt
+# Processed: 2025-07-22T16:42:28.399145
+# Original: 5077 words → Filtered: 160 words (3.15% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 73
+**Retention**: 67.59%
+
+Dün 12 yıl aranın ardından Mısır Cumhurbaşkanı Sisi'yi ağırlamıştık. Dış basın, iki ülke arasında yaşanan normalleşme adımlarını manşetlerine taşıdı. Bu gelişmeler, ekonomik işbirliğini artırma potansiyeli taşıyor. Mısır Cumhurbaşkanı Sisi'nin ziyareti, iki ülke arasındaki köklü ilişkilerin daha da gelişeceğinin bir göstergesidir. İki ülke arasındaki ekonomik ilişkilerin güçlenmesi, ticaret hacminin artmasına ve karşılıklı yatırımların teşvik edilmesine katkı sağlayabilir. Bu bağlamda, Ankara'nın Mısır ile olan ilişkilerini geliştirmesi, bölgesel ekonomik istikrar açısından önemli bir adım olarak değerlendiriliyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 87
+**Retention**: 42.65%
+
+Herkesin gözü kulağı ekonomi cephesinde. Orta vadeli plan merakla bekleniyordu. Cumhurbaşkanı yardımcısı Cevdet Yılmaz ve diğer ekonomi kurmayları bugün Orta vadeli yani OVP II'yi açıkladı. Enflasyonda, büyümeye, işsizlikten kayıt dışıyla mücadeleye kadar hükümetin hedefleri bu planda kamuoyuna aktarıldı. Gözlerin çevrildiği en önemli başlık olan enflasyonda hedef 2026'da tek haneli enflasyon. Geçiş dönemi tamamlandı ve dezenflasyon döneminin başladığını görebiliyoruz. Türkiye ekonomisinin 3 yıllık yol haritası açıklandı; enflasyonla mücadele öncelikli hedef oldu. Programımızın temel amacı enflasyonun kademeli olarak tek haneli seviyelere düşürülmesi. Enflasyon beklentisi de bu yıl için %33,4.
+
+================================================================================
+

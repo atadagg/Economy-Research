@@ -1,0 +1,63 @@
+# Economic Content from: 20240823_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 23 Ağustos 2024.tr.txt
+# Processed: 2025-07-22T17:56:43.113906
+# Original: 10952 words → Filtered: 484 words (4.42% retention)
+# Economic segments: 4
+
+## Economic Segment 1
+
+**Method**: pattern_validated
+**Confidence**: 0.75
+**Word Count**: 126
+**Retention**: 100.00%
+
+birlikteyiz
+maalesef pek de iç açıcı bir haberle başlamıyor yine bugün bültene genelde böyle oluyor
+Diyarbakır'da kaybolan 8 yaşındaki narinden Henüz bir haber yok gündür aranıyor onlarca ekip küük
+kızı bulabilmek için Saatlerdir iş sürüyorlar tek bir ipucu Var Evinin 3 kilometre uzağında bulunan
+terlik ona ait mi değil mi Onunla ilgili Henüz bir kesin nihai sonuç da yok DNA sonucu sonrasında
+testi sonrasında ortaya çıkacak Gözü Yaşlı ailenin tek bir isteği var Bir an önce 8 yaşındaki
+kızlarına kavuşmak Sağ Salim Peki ne düşünüyorsunuz yani ne olmuş olabilir bilmiyorum Yani inan et
+bilmiyorum inan Yani hiçb bir delil Yok bir şey yok hiçbir şey yok yani kime ne yapmışız ki kimse
+ona ne olduğunu bilmiyor 8 yaşındaki narini arama çalışmaları Saatlerdir devam ediyor ancak henüz
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 83
+**Retention**: 92.22%
+
+Enflasyonun çok çok üzerinde % 150'yi varan fiyat artışları tüketicilerin en büyük şikayeti olmuş durumda. Yeni dönemle birlikte gelen zamlar sadece özel okul ve vakıf üniversiteleriyle bitmiyor; anaokulu ve kreşlerde son bir yılda % 150 zamlandı. Hatta öyle ki, okul öncesi eğitimde 1 milyon liraya varan ücretler tıp fakültelerini bile solladı. Özel bir anaokulunun senelik fiyatı ek dahil 93 000 L olarak açıklandı. Ancak hatırı sayılır vakıf üniversitelerinde tıp fakülteleri en fazla 600 000 L, hukuk fakülteleri de 500 000 L olarak belirlenmiştir.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 166
+**Retention**: 50.46%
+
+Altın ve kıymetli maden fonlarına ağustos ayı başından itibaren gelen yeni yatırımcı sayısı 20,000 üzerine çıktı. Bu artışla beraber altın fonu yatırımcı sayısı 625 bin'e yaklaştı. Para girişine bakıldığında son bir aylık süreçte altın ve kıymetli madenlere yapılan para girişi 6,5 milyar lira oldu. Yatırımcılar, fiziksel altın almak yerine fonları tercih etti; çünkü fiziksel altın almak belli başlı bir saklama riski doğuruyor. Altın fonlarının getirileri de altın getirisini yakalamış durumda. Uzmanlara göre, bu artışın daha da devam etmesi bekleniyor.
+
+Bankalar son günlerde mevduat faiz oranlarını pas geçiyorlar; çoğu bankada herhangi bir hareketlilik yok. Oranlar ne yukarı ne aşağı yönlü değişiyor. Sıkıştı kaldı, politika faizi arttıkça mevduat faizi oranları da yükseldi. Önce % 40'lara tırmandı, bazı özel bankalar faizde zirveyi gördü. Ancak şimdi oranlar % 60'ların altına yerleşti. Son zamanlarda likidite bolluğundan kaynaklı olarak mevduat faizlerinde de bir yatay seyir söz konusu. Ancak birçok uzmana göre risksiz olan en karlı yatırım aracı hala mevduat. Şu anda en fazla faiz oranı veren özel bir bankada oran % 47.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_final
+**Confidence**: 0.50
+**Word Count**: 109
+**Retention**: 78.99%
+
+Özer, harama el uzatmadı ve parayı kuruşuna bile dokunmadan teslim etti. Bu durum, sosyal medyada olumlu yorumlar aldı. Ekonomik açıdan, dürüstlük ve etik davranışların iş dünyasında nasıl bir etki yarattığına dair tartışmalar başladı. İnsanların bu tür davranışları takdir etmesi, toplumda güvenin artmasına katkıda bulunabilir. 
+
+Bu haber, iş ahlakı ve güvenilirlik konularının önemini vurgularken, aynı zamanda bireylerin ekonomik davranışlarının toplumsal algıyı nasıl etkilediğini de gösteriyor. Ekonomik veriler ve istatistikler, bu tür davranışların uzun vadede iş dünyasında nasıl bir değişim yaratabileceğini anlamamıza yardımcı olabilir. 
+
+Özer'in durumu, iş dünyasında etik davranışların ve güvenilirliğin önemini bir kez daha gözler önüne serdi. Bu tür olaylar, ekonomik istikrar ve güvenin sağlanmasında kritik bir rol oynayabilir.
+
+================================================================================
+

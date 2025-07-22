@@ -1,0 +1,71 @@
+# Economic Content from: 20240916_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 16 Eylül 2024.tr.txt
+# Processed: 2025-07-22T18:04:53.865349
+# Original: 4522 words → Filtered: 425 words (9.40% retention)
+# Economic segments: 5
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 99
+**Retention**: 100.00%
+
+gelişmelerini son dakika bilgilerini aktaracağız Türkiye'nin gündemi Tabii ki hala 25 gün oldu 26
+gün oldu Narin cinayetini aydınlanmasını Bekliyoruz soruşturmada Yeni gelişmeler var gözaltına
+alınan yeni isimler var Narin'in yengesi hediye güran O da gözaltında onunla ilgili süreç devam
+ediyor Belki de bu düğümü çözecek isim olacak bu süreci bu zaman diliminde Narine ne yapıldı Narine
+nasıl kıyıldı bu cinayet nasıl gerçekleşti aydınlanacak kim Kimler narini katletti gerekçe neydi son
+dakika bilgilerini de tabii ki Diyarbakır'dan alacağız Canan Altıntaş adliye önünde bizi bekliyor
+hediye güran niye soruştur ın kilit ismi yeni gelişmeler neler soruşturma ne aşamada kimler neler
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 55
+**Retention**: 100.00%
+
+verdiği yanıtlar gerçeği ortaya çıkaracak mı bir diğer taraf taraftan Sertaç Murat Koç Narin'in
+katledildiği noktada Daha doğrusu köyde orada bölge Sakinleri bu son süreci nasıl karşılıyorlar
+Narin'in mezarına gelen giden yoğunluk var Onlar neler söylüyorlar yeni gelişmeler yaşanıyor Köyde
+de tabii ki bu süreçte Sessizlik hakim olmasına rağmen onları da Sertaç Murat Koç aktaracak
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 120
+**Retention**: 62.18%
+
+179 000 liraya çıkarmak istedi ve bunun için kira tespit davası açtı. İlk 5 yıl içerisinde mahkeme sadece endeks oranında artış yapmak suretiyle bir karar verebilecek. Ancak 5 yıldan sonra mahkeme emsalleri araştırıp o bölgedeki rayici tespit edip buna göre belki belli bir miktar eski kiracılık indirimini düştükten sonra kira bedelini tespit edebilir. Mahkemeye sunulan dilekçede bahsedilen konu, sitede aynı özellikteki evlerin kirasıdır. Bu dönem için 200 ila 220 000 liraya kadar çıkması bekleniyor. Ancak ev sahibinin aylık 65 000 liraya katlanması beklenemez denildi. Kira tespit davası açması ve günün koşullarına uygun biçimde yükseltme talep etmesi yasal olarak haklıdır. 
+
+Altın, haftanın ilk işlem gününe yükselişle başladı. Cuma günü kapanışına göre % 0 artış gösterdi. Merkez bankalarının faiz kararına odaklanmış durumda.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 116
+**Retention**: 70.30%
+
+Gram altın 2860 liradan, çeyrek altın ise 4600 liradan satıldı. Altın fiyatları, Amerika Merkez Bankası FED'in 50 bas puanlık faiz indirimini fiyatlamaya başlamasıyla rekor denemeleri yapıyor. Bu hafta, uluslararası piyasalarda Merkez bankalarının faiz kararına odaklanarak altın fiyatları yükselişe geçti. Tam 18 Merkez Bankası faiz kararını açıklayacak. Altın fiyatları, piyasanın ilk gününde Cuma günkü kapanışa göre %5 artış kaydetti. Ağustos ayında gram altın %4.1 getirisi ile en fazla kazandıran yatırım aracı oldu. Bugün ons altın tarafında 2587 dolar seviyesinde yeni bir rekor görüldü. Uzmanlara göre, jeopolitik gerilimler devam ederse ons altının 3000 dolara kadar yükselmesi öngörülüyor. Bu da gram altında yeni rekorlar demek. Yıllık beklentimiz ons altın için 2600-2650 dolar seviyesinde, gerilimler hızlanırsa 3000 dolara kadar çıkabilir.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_final
+**Confidence**: 0.50
+**Word Count**: 35
+**Retention**: 47.95%
+
+Uzmanlar, elinde altın bulunduran yatırımcıların satış için acele etmemesi gerektiğini belirtiyor. Altın, hem uluslararası piyasalarda hem yurt dışı piyasalarda yeni rekor denemelerine tekrar devam edecektir. Gram altın tarafında 3000-3500 Lira aralığında beklentimizi korumaya devam ediyoruz.
+
+================================================================================
+

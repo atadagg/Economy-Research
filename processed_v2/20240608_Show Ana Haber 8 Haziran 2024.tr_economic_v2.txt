@@ -1,0 +1,27 @@
+# Economic Content from: 20240608_Show Ana Haber 8 Haziran 2024.tr.txt
+# Processed: 2025-07-22T17:23:17.760930
+# Original: 3051 words → Filtered: 136 words (4.46% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 62
+**Retention**: 51.24%
+
+Türkiye ihracatçılar Meclisi'nin programına katılan Cumhurbaşkanı Erdoğan, ihracatçılara döviz bozdurma müjdesi verdi. Enflasyonda en zor dönemin geride kaldığını belirten Erdoğan, dezenflasyon sürecine girildiğini ifade etti. Enflasyon rakamları önceliğinde ihracat rakamlarına yönelik eleştirilere yanıt veren Erdoğan, 2002'de bir haftada yaptıkları ihracatı artık bir günde gerçekleştirdiklerini vurguladı. Ayrıca, ihracatçılar için döviz bozdurma zorunluluğunu %40'tan %30'a indirdiklerini açıkladı. Bu düzenlemenin pazartesiden itibaren geçerli olacağını belirtti.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 74
+**Retention**: 34.26%
+
+Türkiye'de son yıllarda Çin'den ithal edilen araç sayısı artınca Ticaret Bakanlığı yeni bir düzenleme yaptı. Çin'den ithal edilen tüm yakıt tiplerinde araçlardan % 40'lık ek vergi alınacak. Daha önce elektrikli araçlarda olan % 40 ek vergi, tüm işten yanmalı motorlar dahil olmak üzere otomotiv sektöründe uygulanmaya başlanıyor. Ticaret Bakanlığı, Çin'den ithal edilen binek araçlara ilave vergi kararı aldı. Buna göre, sadece elektrikli araçlarda değil, tüm yakıt tiplerindeki otomobillerde % 40'lık ek vergi ödemesi alınacak.
+
+================================================================================
+

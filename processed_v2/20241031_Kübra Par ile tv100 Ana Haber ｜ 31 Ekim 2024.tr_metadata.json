@@ -1,0 +1,75 @@
+{
+  "file_path": "news/TV100/20241031_Kübra Par ile tv100 Ana Haber ｜ 31 Ekim 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T17:59:09.962773",
+  "original_word_count": 9676,
+  "filtered_word_count": 375,
+  "retention_ratio": 0.03875568416701116,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "TV1 ekranlarından Herkese iyi akşamlar ben Kübra Par bir ana habere daha başlıyoruz",
+      "description": "\"TV1 ekranlarından Herkese iyi akşamlar ben Kübra Par bir ana habere daha başlıyoruz\" - The presenter introduces the program and sets the stage for the news content, mentioning the current political climate and the main topic of discussion.",
+      "end_pos": 100
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 100,
+      "start_sentence": "CHP'li Esenyurt belediye başkanı Ahmet Özer'in tutuklanması ve yerine Kayyum atanması var",
+      "description": "\"CHP'li Esenyurt belediye başkanı Ahmet Özer'in tutuklanması ve yerine Kayyum atanması var\" - This section contains the main news content, discussing the arrest of the CHP mayor and the political implications, including protests and reactions from various political figures.",
+      "end_pos": 1817
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 1817,
+      "start_sentence": "Şimdi bütün o gelişmeleri TV1 muhabirlerinden öğreneceğiz",
+      "description": "\"Şimdi bütün o gelişmeleri TV1 muhabirlerinden öğreneceğiz\" - A brief transition indicating that the broadcast will now go to a reporter for more detailed coverage of the events happening in Esenyurt.",
+      "end_pos": 69688
+    }
+  ],
+  "news_segments_count": 11,
+  "economic_segments_count": 4,
+  "economic_segments": [
+    {
+      "segment_id": "1817_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 74,
+      "filtered_length": 40,
+      "retention_ratio": 0.5405405405405406,
+      "section_description": "\"Şimdi bütün o gelişmeleri TV1 muhabirlerinden öğreneceğiz\" - A brief transition indicating that the broadcast will now go to a reporter for more detailed coverage of the events happening in Esenyurt."
+    },
+    {
+      "segment_id": "1817_5",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 184,
+      "filtered_length": 114,
+      "retention_ratio": 0.6195652173913043,
+      "section_description": "\"Şimdi bütün o gelişmeleri TV1 muhabirlerinden öğreneceğiz\" - A brief transition indicating that the broadcast will now go to a reporter for more detailed coverage of the events happening in Esenyurt."
+    },
+    {
+      "segment_id": "1817_8",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 182,
+      "filtered_length": 112,
+      "retention_ratio": 0.6153846153846154,
+      "section_description": "\"Şimdi bütün o gelişmeleri TV1 muhabirlerinden öğreneceğiz\" - A brief transition indicating that the broadcast will now go to a reporter for more detailed coverage of the events happening in Esenyurt."
+    },
+    {
+      "segment_id": "1817_9",
+      "method": "simple_final",
+      "confidence": 0.5,
+      "original_length": 203,
+      "filtered_length": 109,
+      "retention_ratio": 0.5369458128078818,
+      "section_description": "\"Şimdi bütün o gelişmeleri TV1 muhabirlerinden öğreneceğiz\" - A brief transition indicating that the broadcast will now go to a reporter for more detailed coverage of the events happening in Esenyurt."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

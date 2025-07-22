@@ -1,0 +1,20 @@
+# Economic Content from: 20240623_Show Ana Haber 23 Haziran 2024.tr.txt
+# Processed: 2025-07-22T17:46:45.302736
+# Original: 1865 words → Filtered: 110 words (5.90% retention)
+# Economic segments: 1
+
+## Economic Segment 1
+
+**Method**: simple_final
+**Confidence**: 0.50
+**Word Count**: 110
+**Retention**: 32.26%
+
+Bu yıl otel fiyatları, aranan konfora göre değişiyor. Yüksek doluluk oranları ile birlikte, fiyatlar da artış gösterdi. Marmaris'te kişi başı yeme içme limiti 400 lira olarak belirlendi. Bu durum, tatilcilerin harcamalarını etkileyen önemli bir faktör. Ayrıca, plaj ücretlerinde de yeme içme limitleri uygulanıyor. 
+
+Marmaris'teki fiyatlar, genel olarak yüksek seyrediyor. Bu yıl turizm sezonunun başlangıcıyla birlikte, otel ve restoran fiyatlarında artış gözlemleniyor. Ekonomik veriler, tatil bölgelerindeki fiyat artışlarının, talep ve arz dengesine bağlı olarak şekillendiğini gösteriyor. 
+
+Maliyetler, özellikle yaz aylarında artış gösterirken, bu durum tatilcilerin bütçelerini de etkiliyor. Yüksek fiyatlar, tatil planlaması yapanlar için önemli bir ekonomik etken haline geldi. Ekonomik analizler, bu yılki turizm sezonunun, fiyatlar açısından zorlu geçeceğini öngörüyor.
+
+================================================================================
+

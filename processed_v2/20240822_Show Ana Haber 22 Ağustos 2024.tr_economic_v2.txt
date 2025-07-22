@@ -1,0 +1,42 @@
+# Economic Content from: 20240822_Show Ana Haber 22 Ağustos 2024.tr.txt
+# Processed: 2025-07-22T17:13:23.174028
+# Original: 3321 words → Filtered: 218 words (6.56% retention)
+# Economic segments: 3
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 89
+**Retention**: 44.72%
+
+Ev sahipleri kiracılardan şikayet ediyor. Kiracılar, ev sahiplerinin taleplerine karşılık olarak haklarını yargı önünde arayacaklarını belirtiyor. Taksim'de bulunan bir apartmanın işletmecisi olan emekli polis memuru, ticarete atılarak yeni bir iş kurdu. Ancak, apartta yaşanan bir yangın, kiracının sorumluluğunda olduğu iddia ediliyor. Bu durum, hem kiracıların hem de ev sahiplerinin ekonomik durumlarını etkileyen bir mesele haline geldi. 
+
+Kiracı İsa, evin temiz bırakıldığını savunarak, ev sahibinin taleplerine karşı çıkıyor. Bu tür anlaşmazlıklar, gayrimenkul piyasasında kiracı ve ev sahibi ilişkilerini zorlaştırıyor. Ekonomik belirsizlikler, kiracıların ve ev sahiplerinin karşılaştığı sorunları daha da derinleştiriyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 33
+**Retention**: 43.42%
+
+The filtered text focusing on economics, finance, and business is as follows:
+
+Eşim bu tadilatı yaptırmak zorunda kaldı ve bununla ilgili bankadan kredi çekti. Tadilat yapıldı. Borcu olan 600,000 TL'yi ödemek zorunda kaldı.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 96
+**Retention**: 54.86%
+
+Kuaförden çıktıktan sonra, kuaförün kartla ödeme yapmam durumunda 1000 TL daha fazla alacaklarını belirtmesi, ekonomik bir sorun olarak dikkat çekiyor. Okulların bağış adı altında kayıt parası istemesi ve kitap ile yemek için fahiş ücretler talep etmesi, ailelerin ekonomik yükünü artırıyor. Velilerin bu durumu Milli Eğitim Bakanlığı'na şikayet etmesi, devletin eğitim finansmanı konusundaki politikalarını sorgulatıyor. Bakanlığın bu konuda uyarı açıklaması yapması, eğitimdeki mali sorunların çözümü için bir adım olarak değerlendirilebilir. Okulların dönebilmesi için para gerektiği gerçeği, devletin veya velilerin bu yükü üstlenmesi gerektiğini ortaya koyuyor. Bu durum, eğitimdeki ekonomik dengenin nasıl sağlanacağına dair önemli bir tartışma başlatıyor.
+
+================================================================================
+

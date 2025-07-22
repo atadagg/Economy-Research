@@ -1,0 +1,107 @@
+{
+  "file_path": "news/TV100/20240902_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 1 Eylül 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T18:36:13.144695",
+  "original_word_count": 10566,
+  "filtered_word_count": 635,
+  "retention_ratio": 0.06009842892296044,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "efendim İyi akşamlar Yeni haftaya başladık...",
+      "description": "\"efendim İyi akşamlar Yeni haftaya başladık...\" - The presenter opens the program, greeting the audience and introducing the start of the broadcast, mentioning the date and the ongoing situation regarding the missing child.",
+      "end_pos": 200
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 200,
+      "start_sentence": "Diyarbakır'da kaybolan 8 yaşındaki Narin den 13 gündür...",
+      "description": "\"Diyarbakır'da kaybolan 8 yaşındaki Narin den 13 gündür...\" - The main news content begins, detailing the developments in the case of the missing 8-year-old Narin, including the investigation, the arrest of her uncle, and the ongoing search efforts.",
+      "end_pos": 789
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 789,
+      "start_sentence": "Şimdi gidelim o bölgeye Diyarbakır'a Canan Altıntaş...",
+      "description": "\"Şimdi gidelim o bölgeye Diyarbakır'a Canan Altıntaş...\" - A transition occurs as the presenter introduces a correspondent who will provide updates from the location of the news story, indicating a shift in focus to on-the-ground reporting.",
+      "end_pos": 1176
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1176,
+      "start_sentence": "Osman Kenan Çapoğlu 21 Ağustos'ta Narin kayb olmuştu...",
+      "description": "\"Osman Kenan Çapoğlu 21 Ağustos'ta Narin kayb olmuştu...\" - The news segment continues with further details about the investigation, including statements from the uncle and the evidence collected by authorities.",
+      "end_pos": 1576
+    },
+    {
+      "type": "5. **TRANSITION**",
+      "start_pos": 1576,
+      "start_sentence": "Ancak başka birinin ifadesinde ortaya çıktı ki amca Sg Aslında...",
+      "description": "\"Ancak başka birinin ifadesinde ortaya çıktı ki amca Sg Aslında...\" - Another transition occurs as the narrative shifts to new evidence and testimonies related to the case, indicating a continuation of the news story.",
+      "end_pos": 75480
+    }
+  ],
+  "news_segments_count": 16,
+  "economic_segments_count": 6,
+  "economic_segments": [
+    {
+      "segment_id": "1176_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 55,
+      "filtered_length": 55,
+      "retention_ratio": 1.0,
+      "section_description": "\"Osman Kenan Çapoğlu 21 Ağustos'ta Narin kayb olmuştu...\" - The news segment continues with further details about the investigation, including statements from the uncle and the evidence collected by authorities."
+    },
+    {
+      "segment_id": "1576_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 76,
+      "filtered_length": 47,
+      "retention_ratio": 0.618421052631579,
+      "section_description": "\"Ancak başka birinin ifadesinde ortaya çıktı ki amca Sg Aslında...\" - Another transition occurs as the narrative shifts to new evidence and testimonies related to the case, indicating a continuation of the news story."
+    },
+    {
+      "segment_id": "1576_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 253,
+      "filtered_length": 76,
+      "retention_ratio": 0.30039525691699603,
+      "section_description": "\"Ancak başka birinin ifadesinde ortaya çıktı ki amca Sg Aslında...\" - Another transition occurs as the narrative shifts to new evidence and testimonies related to the case, indicating a continuation of the news story."
+    },
+    {
+      "segment_id": "1576_6",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 199,
+      "filtered_length": 74,
+      "retention_ratio": 0.37185929648241206,
+      "section_description": "\"Ancak başka birinin ifadesinde ortaya çıktı ki amca Sg Aslında...\" - Another transition occurs as the narrative shifts to new evidence and testimonies related to the case, indicating a continuation of the news story."
+    },
+    {
+      "segment_id": "1576_7",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 289,
+      "filtered_length": 108,
+      "retention_ratio": 0.3737024221453287,
+      "section_description": "\"Ancak başka birinin ifadesinde ortaya çıktı ki amca Sg Aslında...\" - Another transition occurs as the narrative shifts to new evidence and testimonies related to the case, indicating a continuation of the news story."
+    },
+    {
+      "segment_id": "1576_9",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 275,
+      "filtered_length": 275,
+      "retention_ratio": 1.0,
+      "section_description": "\"Ancak başka birinin ifadesinde ortaya çıktı ki amca Sg Aslında...\" - Another transition occurs as the narrative shifts to new evidence and testimonies related to the case, indicating a continuation of the news story."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

@@ -1,0 +1,71 @@
+# Economic Content from: 20240814_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 14 Ağustos 2024.tr.txt
+# Processed: 2025-07-22T18:11:15.937875
+# Original: 11398 words → Filtered: 517 words (4.54% retention)
+# Economic segments: 6
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 66
+**Retention**: 34.02%
+
+Uzmanlar, evini satıp mevduata yatıranlara uyarıda bulunarak, bu durumun kardan zarar olarak görülebileceğini belirtiyor. Özel okulların aldıkları ücretler, yemek ücretleriyle birlikte değerlendirildiğinde, aileler için ciddi bir mali yük oluşturuyor. Örneğin, sadece bir öğrenci için 150.000 TL yemek ücreti talep ediliyor. Bu durum, velilerin isyan etmesine neden oluyor ve yüksek fiyatlar karşısında ne yapabilecekleri konusunda belirsizlikler mevcut. Ekonomik açıdan, bu tür maliyetlerin artışı, ailelerin bütçelerini olumsuz etkiliyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 128
+**Retention**: 42.81%
+
+Bu yıl en az 100.000 liradan başlıyor, 150.000 lirayı aşıyor özel okulların velilerden istediği yemek ücretleri. Geçen yıl velilerden istenen 30.000 liralık yemek ücretleri bu yıl 150.000 liraya kadar ulaştı. Aslında özel okulların pek çoğu diğer maliyetleri yemek ücretleri üzerinden çıkartıyor. Özel okullar Ocak ayı başından Mayıs sonuna kadar yemek bedellerini ilan etmek mecburiyetinde, ücreti bir daha da değiştiremez. Özel okullar çoğu yemeğin kalitesini düşürüyor, fiyatı katlıyor. Yani şimdiden gelecek artışları fiyatlara yansıtıyorlar. Bir öğrencinin üç öğünlük gıda maliyeti özel okullara göre 700 lirayı aşıyor. Üstelik cepte kalan 200 lira enflasyon endişesiyle gelecek maliyetleri de şimdiden satıyorlar. Emekliler için promosyon yarışı hala devam ediyor, bankalar yine kesenin ağzını açtılar. Bazı bankalar ücreti yüksek tutuyor, bazıları emekliyi çekmek için o kadar yüksek ödeyemiyor. Kamu bankaları 8, özel bankalar 12.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 72
+**Retention**: 64.29%
+
+Merkez Bankası'nın yıl sonu enflasyon tahminini açıkladı; bazı kalemlerde oranlar yenilendi. Bankalar emekli promosyon ücretlerini de güncelledi. Kamu bankalarında 88.000 TL ile 12.000 TL arasında bir promosyon rakamı belirleniyor. EFT ve havaleleri ücretsiz olarak uyguluyorsunuz ve kredi kartı veriyor. Kamu bankaları emekli promosyon ücretinde kapıları 8.000 TL'den açıyor. Özel bankalar bu konuda daha bonkör davranıyor. Bu bir serbest piyasa ekonomisi; özel bankalarda emekli promosyon ücreti 12.000 TL'den başlayıp 18.000 TL'ye kadar çıkabiliyor.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 75
+**Retention**: 39.47%
+
+Elazığ'da bir dükkan sahibi işyerini kiralamak için ilginç bir yönteme başvurdu. Dükkan sahibi, müstakbel kiracılarına üç farklı seçenek sundu: aylık 2 gram 24 ayar altın, aylık 100 lira mazot ya da yıllık 50.000 lira peşin. Dükkan sahibi, mazot veya altın fiyatları düştüğünde kirayı da düşüreceğini belirtti. Türkiye genelinde mazot fiyatlarının yaklaşık 100 lira civarında olduğunu ifade etti. Kiracıların tüm seçeneklerin pahalı olduğunu düşündüğünü belirtti. Bu durum, ekonomik koşulların ve fiyatların kiralama kararlarını nasıl etkilediğini gösteriyor.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 111
+**Retention**: 48.47%
+
+İstanbul'da 40 metrekare bir yerin kirası 50,000 lira civarında. Bu durum, büyükşehirlerdeki yüksek yaşam maliyetlerini gözler önüne seriyor. Altın fiyatları ise rekor seviyelere ulaşarak yatırımcıların ilgisini çekiyor. Ancak, borsada yaşanan dalgalanmalar nedeniyle birçok yatırımcı zor durumda. Özellikle düğün sezonunda, artan altın fiyatları dolandırıcılık olaylarını da beraberinde getiriyor. Bir gram altın fiyatı 2000 lira civarındayken, sahte altın satışı yapan dolandırıcılar piyasada aktif hale geliyor. Bu durum, hem yatırımcılar hem de düğün yapan çiftler için ciddi bir ekonomik risk oluşturuyor. Düğünlerde takılan altınların sahte olma ihtimali, vatandaşları endişelendiriyor ve bu da piyasalardaki güveni sarsıyor. Altın fiyatlarının yükselmesi, sahtecilik olaylarının artmasına neden oluyor ve bu durum, özellikle düğün sezonunda daha da belirgin hale geliyor.
+
+================================================================================
+
+## Economic Segment 6
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 65
+**Retention**: 81.25%
+
+Türkiye İstatistik Kurumu, 2023 yılı iç göç istatistiklerini paylaştı. Geçen yıl 34,953 kişinin iller arasında göç ettiği belirlendi. Bunun nüfusa oranı %4.04 olarak saptandı. İstanbul, 412,707 kişiyle en çok göç alan il oldu. Bu durum, İstanbul'un ekonomik dinamiklerini etkileyen önemli bir faktör olarak değerlendiriliyor. Ayrıca, göç edenlerin büyük bir kısmı, iş ve yaşam fırsatları arayışıyla büyük şehirlere yöneliyor. Bu da, şehirlerin ekonomik büyümesine katkıda bulunuyor.
+
+================================================================================
+

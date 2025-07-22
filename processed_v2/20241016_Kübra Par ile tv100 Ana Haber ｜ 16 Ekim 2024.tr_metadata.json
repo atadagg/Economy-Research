@@ -1,0 +1,125 @@
+{
+  "file_path": "news/TV100/20241016_Kübra Par ile tv100 Ana Haber ｜ 16 Ekim 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T17:59:54.907245",
+  "original_word_count": 9826,
+  "filtered_word_count": 798,
+  "retention_ratio": 0.08121310808060249,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "TV1 ekranlarından Herkese iyi akşamlar...",
+      "description": "\"TV1 ekranlarından Herkese iyi akşamlar...\" - The presenter introduces the program and sets the stage for the news broadcast.",
+      "end_pos": 79
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 79,
+      "start_sentence": "Dün yani 15 Ekim Salı günü Türkiye'nin demokrasi tarihinde olmaz denilenler yaşandığı bir gün olarak tarihe geçti...",
+      "description": "\"Dün yani 15 Ekim Salı günü Türkiye'nin demokrasi tarihinde olmaz denilenler yaşandığı bir gün olarak tarihe geçti...\" - This section contains the main news content, discussing significant political events and reactions from various political leaders in Turkey.",
+      "end_pos": 880
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 880,
+      "start_sentence": "Şimdi adına ister normalleşme İster diyalog deyin...",
+      "description": "\"Şimdi adına ister normalleşme İster diyalog deyin...\" - A brief transition that connects the discussion of political events to the broader implications for peace and dialogue in Turkey.",
+      "end_pos": 1757
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1757,
+      "start_sentence": "Mecliste yeni dönem kutuplaşma mesajlarının yerini Barış havası aldı...",
+      "description": "\"Mecliste yeni dönem kutuplaşma mesajlarının yerini Barış havası aldı...\" - Continuation of the news segment, focusing on public reactions to the political climate and the atmosphere of peace in politics.",
+      "end_pos": 1757
+    },
+    {
+      "type": "5. **OUTRO**",
+      "start_pos": 1757,
+      "start_sentence": "Efendim Ana Haber başlıyor...",
+      "description": "\"Efendim Ana Haber başlıyor...\" - The closing remarks that signal the end of the news segment and invite viewer interaction.",
+      "end_pos": 69446
+    }
+  ],
+  "news_segments_count": 19,
+  "economic_segments_count": 8,
+  "economic_segments": [
+    {
+      "segment_id": "880_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 121,
+      "filtered_length": 121,
+      "retention_ratio": 1.0,
+      "section_description": "\"Şimdi adına ister normalleşme İster diyalog deyin...\" - A brief transition that connects the discussion of political events to the broader implications for peace and dialogue in Turkey."
+    },
+    {
+      "segment_id": "1757_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 195,
+      "filtered_length": 112,
+      "retention_ratio": 0.5743589743589743,
+      "section_description": "\"Efendim Ana Haber başlıyor...\" - The closing remarks that signal the end of the news segment and invite viewer interaction."
+    },
+    {
+      "segment_id": "1757_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 163,
+      "filtered_length": 60,
+      "retention_ratio": 0.36809815950920244,
+      "section_description": "\"Efendim Ana Haber başlıyor...\" - The closing remarks that signal the end of the news segment and invite viewer interaction."
+    },
+    {
+      "segment_id": "1757_6",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 323,
+      "filtered_length": 106,
+      "retention_ratio": 0.3281733746130031,
+      "section_description": "\"Efendim Ana Haber başlıyor...\" - The closing remarks that signal the end of the news segment and invite viewer interaction."
+    },
+    {
+      "segment_id": "1757_7",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 156,
+      "filtered_length": 104,
+      "retention_ratio": 0.6666666666666666,
+      "section_description": "\"Efendim Ana Haber başlıyor...\" - The closing remarks that signal the end of the news segment and invite viewer interaction."
+    },
+    {
+      "segment_id": "1757_8",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 189,
+      "filtered_length": 117,
+      "retention_ratio": 0.6190476190476191,
+      "section_description": "\"Efendim Ana Haber başlıyor...\" - The closing remarks that signal the end of the news segment and invite viewer interaction."
+    },
+    {
+      "segment_id": "1757_10",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 140,
+      "filtered_length": 126,
+      "retention_ratio": 0.9,
+      "section_description": "\"Efendim Ana Haber başlıyor...\" - The closing remarks that signal the end of the news segment and invite viewer interaction."
+    },
+    {
+      "segment_id": "1757_11",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 161,
+      "filtered_length": 52,
+      "retention_ratio": 0.32298136645962733,
+      "section_description": "\"Efendim Ana Haber başlıyor...\" - The closing remarks that signal the end of the news segment and invite viewer interaction."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

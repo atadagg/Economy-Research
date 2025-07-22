@@ -1,0 +1,152 @@
+{
+  "file_path": "news/TV100/20240708_Oya Çebi ile TV100 Ana Haber ｜ 8 Temmuz 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T17:55:22.374144",
+  "original_word_count": 9493,
+  "filtered_word_count": 850,
+  "retention_ratio": 0.08953966080269672,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "efendim İyi akşamlar tvz ekranlarına hoş geldiniz",
+      "description": "\"efendim İyi akşamlar tvz ekranlarına hoş geldiniz\" - This section serves as the opening of the broadcast, where the presenter welcomes viewers and introduces the program, setting the stage for the news content to follow.",
+      "end_pos": 98
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 98,
+      "start_sentence": "Türkiye'ye güvenen ve yatırım yapanlar kazanmaya devam",
+      "description": "\"Türkiye'ye güvenen ve yatırım yapanlar kazanmaya devam\" - This continues the news content, elaborating on the implications of the investment and the broader context of Turkey's automotive industry.",
+      "end_pos": 197
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 197,
+      "start_sentence": "Ana Haber başlıyor ve hem en önemli gelişmemiz le başlayacağız",
+      "description": "\"Ana Haber başlıyor ve hem en önemli gelişmemiz le başlayacağız\" - This section contains the actual news content, discussing significant developments such as the investment by a Chinese automotive company in Turkey, including details about the investment amount, job creation, and the implications for the Turkish automotive industry.",
+      "end_pos": 691
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 691,
+      "start_sentence": "Sak Bu arada imzalar",
+      "description": "\"Sak Bu arada imzalar\" - This brief transition indicates a shift in focus within the news segment, moving from the discussion of the investment to the signing of agreements related to it.",
+      "end_pos": 1846
+    },
+    {
+      "type": "5. **TRANSITION**",
+      "start_pos": 1846,
+      "start_sentence": "Efendim siyaset diyeceğiz ama sadece siyaset değil",
+      "description": "\"Efendim siyaset diyeceğiz ama sadece siyaset değil\" - This transition signals a change in topic from the previous news story to upcoming political news, indicating that the next segment will cover political developments.",
+      "end_pos": 67291
+    }
+  ],
+  "news_segments_count": 20,
+  "economic_segments_count": 11,
+  "economic_segments": [
+    {
+      "segment_id": "197_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 70,
+      "filtered_length": 53,
+      "retention_ratio": 0.7571428571428571,
+      "section_description": "\"Ana Haber başlıyor ve hem en önemli gelişmemiz le başlayacağız\" - This section contains the actual news content, discussing significant developments such as the investment by a Chinese automotive company in Turkey, including details about the investment amount, job creation, and the implications for the Turkish automotive industry."
+    },
+    {
+      "segment_id": "691_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 153,
+      "filtered_length": 116,
+      "retention_ratio": 0.7581699346405228,
+      "section_description": "\"Sak Bu arada imzalar\" - This brief transition indicates a shift in focus within the news segment, moving from the discussion of the investment to the signing of agreements related to it."
+    },
+    {
+      "segment_id": "1846_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 158,
+      "filtered_length": 82,
+      "retention_ratio": 0.5189873417721519,
+      "section_description": "\"Efendim siyaset diyeceğiz ama sadece siyaset değil\" - This transition signals a change in topic from the previous news story to upcoming political news, indicating that the next segment will cover political developments."
+    },
+    {
+      "segment_id": "1846_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 197,
+      "filtered_length": 74,
+      "retention_ratio": 0.3756345177664975,
+      "section_description": "\"Efendim siyaset diyeceğiz ama sadece siyaset değil\" - This transition signals a change in topic from the previous news story to upcoming political news, indicating that the next segment will cover political developments."
+    },
+    {
+      "segment_id": "1846_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 67,
+      "filtered_length": 59,
+      "retention_ratio": 0.8805970149253731,
+      "section_description": "\"Efendim siyaset diyeceğiz ama sadece siyaset değil\" - This transition signals a change in topic from the previous news story to upcoming political news, indicating that the next segment will cover political developments."
+    },
+    {
+      "segment_id": "1846_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 196,
+      "filtered_length": 68,
+      "retention_ratio": 0.3469387755102041,
+      "section_description": "\"Efendim siyaset diyeceğiz ama sadece siyaset değil\" - This transition signals a change in topic from the previous news story to upcoming political news, indicating that the next segment will cover political developments."
+    },
+    {
+      "segment_id": "1846_5",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 196,
+      "filtered_length": 69,
+      "retention_ratio": 0.3520408163265306,
+      "section_description": "\"Efendim siyaset diyeceğiz ama sadece siyaset değil\" - This transition signals a change in topic from the previous news story to upcoming political news, indicating that the next segment will cover political developments."
+    },
+    {
+      "segment_id": "1846_6",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 56,
+      "filtered_length": 71,
+      "retention_ratio": 1.2678571428571428,
+      "section_description": "\"Efendim siyaset diyeceğiz ama sadece siyaset değil\" - This transition signals a change in topic from the previous news story to upcoming political news, indicating that the next segment will cover political developments."
+    },
+    {
+      "segment_id": "1846_12",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 181,
+      "filtered_length": 86,
+      "retention_ratio": 0.47513812154696133,
+      "section_description": "\"Efendim siyaset diyeceğiz ama sadece siyaset değil\" - This transition signals a change in topic from the previous news story to upcoming political news, indicating that the next segment will cover political developments."
+    },
+    {
+      "segment_id": "1846_13",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 163,
+      "filtered_length": 64,
+      "retention_ratio": 0.39263803680981596,
+      "section_description": "\"Efendim siyaset diyeceğiz ama sadece siyaset değil\" - This transition signals a change in topic from the previous news story to upcoming political news, indicating that the next segment will cover political developments."
+    },
+    {
+      "segment_id": "1846_14",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 238,
+      "filtered_length": 108,
+      "retention_ratio": 0.453781512605042,
+      "section_description": "\"Efendim siyaset diyeceğiz ama sadece siyaset değil\" - This transition signals a change in topic from the previous news story to upcoming political news, indicating that the next segment will cover political developments."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "file_path": "news/Show/20240420_Show Ana Haber 20 Nisan 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T17:37:04.416487",
+  "original_word_count": 3505,
+  "filtered_word_count": 248,
+  "retention_ratio": 0.07075606276747504,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 1,
+      "start_sentence": "İyi akşamlar değerli izleyenler...",
+      "description": "\"İyi akşamlar değerli izleyenler...\" - The presenter introduces themselves and sets the stage for the news broadcast, indicating the start of the program.",
+      "end_pos": 95
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 95,
+      "start_sentence": "siyasetle başlayalım CHP lideri Özgür Özel...",
+      "description": "\"siyasetle başlayalım CHP lideri Özgür Özel...\" - This section contains the actual news content, discussing various political events, statements from political leaders, and incidents related to local elections and controversies.",
+      "end_pos": 24067
+    }
+  ],
+  "news_segments_count": 9,
+  "economic_segments_count": 2,
+  "economic_segments": [
+    {
+      "segment_id": "95_6",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 175,
+      "filtered_length": 175,
+      "retention_ratio": 1.0,
+      "section_description": "\"siyasetle başlayalım CHP lideri Özgür Özel...\" - This section contains the actual news content, discussing various political events, statements from political leaders, and incidents related to local elections and controversies."
+    },
+    {
+      "segment_id": "95_7",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 73,
+      "filtered_length": 73,
+      "retention_ratio": 1.0,
+      "section_description": "\"siyasetle başlayalım CHP lideri Özgür Özel...\" - This section contains the actual news content, discussing various political events, statements from political leaders, and incidents related to local elections and controversies."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

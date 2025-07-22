@@ -1,0 +1,87 @@
+{
+  "file_path": "news/Show/20240518_Show Ana Haber 18 Mayıs 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T17:42:49.723936",
+  "original_word_count": 3659,
+  "filtered_word_count": 241,
+  "retention_ratio": 0.06586499043454495,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "İyi akşamlar değerli izleyenler",
+      "description": "\"İyi akşamlar değerli izleyenler\" - The presenter, Hande Bayraktar, opens the program and introduces the main topics of the evening.",
+      "end_pos": 92
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 92,
+      "start_sentence": "MHP lideri Devlet Bahçeli partisinin belediye başkanlarıyla",
+      "description": "\"MHP lideri Devlet Bahçeli partisinin belediye başkanlarıyla\" - The segment covers various news stories, including statements from MHP leader Devlet Bahçeli regarding political issues, local elections, and responses to legal matters.",
+      "end_pos": 92
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 92,
+      "start_sentence": "MHP lideri partisinin 218 Belediye başkanıyla",
+      "description": "\"MHP lideri partisinin 218 Belediye başkanıyla\" - This part continues the news coverage, focusing on the MHP's local election results and Bahçeli's remarks on the political situation.",
+      "end_pos": 687
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 687,
+      "start_sentence": "Cumhurbaşkanlığı kabine görevinin başındadır",
+      "description": "\"Cumhurbaşkanlığı kabine görevinin başındadır\" - This sentence serves as a transition within the news segment, moving from one topic to another related to the political landscape and Bahçeli's comments.",
+      "end_pos": 1165
+    },
+    {
+      "type": "5. **NEWS**",
+      "start_pos": 1165,
+      "start_sentence": "Siyasette yumuşamanın Sözde kalmaması gerektiğine",
+      "description": "\"Siyasette yumuşamanın Sözde kalmaması gerektiğine\" - This section further elaborates on Bahçeli's views regarding political criticisms and the implications of recent legal decisions.",
+      "end_pos": 1851
+    },
+    {
+      "type": "6. **OUTRO**",
+      "start_pos": 1851,
+      "start_sentence": "Eğitim Madem atacaktın bu 1 milyon günahsız niye okuttun",
+      "description": "\"Eğitim Madem atacaktın bu 1 milyon günahsız niye okuttun\" - The closing remarks reflect on the educational issues raised during the broadcast, signaling the end of the program.",
+      "end_pos": 25608
+    }
+  ],
+  "news_segments_count": 10,
+  "economic_segments_count": 3,
+  "economic_segments": [
+    {
+      "segment_id": "1851_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 180,
+      "filtered_length": 127,
+      "retention_ratio": 0.7055555555555556,
+      "section_description": "\"Eğitim Madem atacaktın bu 1 milyon günahsız niye okuttun\" - The closing remarks reflect on the educational issues raised during the broadcast, signaling the end of the program."
+    },
+    {
+      "segment_id": "1851_5",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 66,
+      "filtered_length": 66,
+      "retention_ratio": 1.0,
+      "section_description": "\"Eğitim Madem atacaktın bu 1 milyon günahsız niye okuttun\" - The closing remarks reflect on the educational issues raised during the broadcast, signaling the end of the program."
+    },
+    {
+      "segment_id": "1851_6",
+      "method": "simple_final",
+      "confidence": 0.5,
+      "original_length": 138,
+      "filtered_length": 48,
+      "retention_ratio": 0.34782608695652173,
+      "section_description": "\"Eğitim Madem atacaktın bu 1 milyon günahsız niye okuttun\" - The closing remarks reflect on the educational issues raised during the broadcast, signaling the end of the program."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

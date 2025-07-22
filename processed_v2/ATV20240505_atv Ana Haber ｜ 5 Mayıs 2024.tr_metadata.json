@@ -1,0 +1,106 @@
+{
+  "file_path": "news/ATV/ATV20240505_atv Ana Haber ｜ 5 Mayıs 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T16:14:22.849020",
+  "original_word_count": 4401,
+  "filtered_word_count": 193,
+  "retention_ratio": 0.04385366962054078,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "Haberin merkezinden Atv Haber merkezinden İyi akşamlar",
+      "description": "\"Haberin merkezinden Atv Haber merkezinden İyi akşamlar\" - The opening segment introduces the news program and the presenter, setting the stage for the broadcast.",
+      "end_pos": 74
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 74,
+      "start_sentence": "Cumhurbaşkanı Erdoğan yeni haftaya kabineyi toplayarak başlayacak ve gündemde önemli başlıklar var",
+      "description": "\"Cumhurbaşkanı Erdoğan yeni haftaya kabineyi toplayarak başlayacak ve gündemde önemli başlıklar var\" - This section contains the main news content, discussing various topics such as the cabinet meeting, trade with Israel, inflation, and educational appointments.",
+      "end_pos": 189
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 189,
+      "start_sentence": "işte ayrıntılar geliyor aramızda",
+      "description": "\"işte ayrıntılar geliyor aramızda\" - A brief transition phrase that indicates the shift to more detailed news content.",
+      "end_pos": 189
+    },
+    {
+      "type": "6. **NEWS**",
+      "start_pos": 189,
+      "start_sentence": "ek yaptırımlar konuşulacak",
+      "description": "\"ek yaptırımlar konuşulacak\" - Further elaboration on the news topics, including sanctions and economic measures.",
+      "end_pos": 490
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 490,
+      "start_sentence": "Masadaki en sıcak başlık İsrail'in Gazze katliamı olacak",
+      "description": "\"Masadaki en sıcak başlık İsrail'in Gazze katliamı olacak\" - Continues with further news stories, focusing on specific issues like the Gaza conflict and educational appointments.",
+      "end_pos": 587
+    },
+    {
+      "type": "5. **TRANSITION**",
+      "start_pos": 587,
+      "start_sentence": "Bir Müslüman olarak bizim buna seyirci kalmamız düşünülemez",
+      "description": "\"Bir Müslüman olarak bizim buna seyirci kalmamız düşünülemez\" - Another transition that leads into a discussion about the implications of the news.",
+      "end_pos": 1556
+    },
+    {
+      "type": "7. **TRANSITION**",
+      "start_pos": 1556,
+      "start_sentence": "Türkiye bir yandan da sınır otesi operasyon hazırlığında",
+      "description": "\"Türkiye bir yandan da sınır otesi operasyon hazırlığında\" - A transition indicating a shift to discussing military operations.",
+      "end_pos": 1556
+    },
+    {
+      "type": "8. **NEWS**",
+      "start_pos": 1556,
+      "start_sentence": "kabinede gündeme Gelecek yaz aylarında başlatılması planlanan PKK'yı sınırdan Tamamen silme Operasyonu",
+      "description": "\"kabinede gündeme Gelecek yaz aylarında başlatılması planlanan PKK'yı sınırdan Tamamen silme Operasyonu\" - This section continues with detailed news about military operations planned for the summer.",
+      "end_pos": 1750
+    },
+    {
+      "type": "9. **TRANSITION**",
+      "start_pos": 1750,
+      "start_sentence": "CHP genel başkanı Özgür Özel'in Cumhurbaşkanı Erdoğan'la yaptığı görüşmenin ardından",
+      "description": "\"CHP genel başkanı Özgür Özel'in Cumhurbaşkanı Erdoğan'la yaptığı görüşmenin ardından\" - A transition that introduces a new topic related to political discussions.",
+      "end_pos": 1850
+    },
+    {
+      "type": "10. **NEWS**",
+      "start_pos": 1850,
+      "start_sentence": "Selefi Kemal Kılıçdaroğlu ile yaptığı görüşmenin ayrıntıları ortaya çıktı",
+      "description": "\"Selefi Kemal Kılıçdaroğlu ile yaptığı görüşmenin ayrıntıları ortaya çıktı\" - This section concludes with news about political meetings and developments.",
+      "end_pos": 31168
+    }
+  ],
+  "news_segments_count": 4,
+  "economic_segments_count": 2,
+  "economic_segments": [
+    {
+      "segment_id": "587_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 127,
+      "filtered_length": 53,
+      "retention_ratio": 0.41732283464566927,
+      "section_description": "\"Bir Müslüman olarak bizim buna seyirci kalmamız düşünülemez\" - Another transition that leads into a discussion about the implications of the news."
+    },
+    {
+      "segment_id": "1850_2",
+      "method": "simple_final",
+      "confidence": 0.5,
+      "original_length": 140,
+      "filtered_length": 140,
+      "retention_ratio": 1.0,
+      "section_description": "\"Selefi Kemal Kılıçdaroğlu ile yaptığı görüşmenin ayrıntıları ortaya çıktı\" - This section concludes with news about political meetings and developments."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

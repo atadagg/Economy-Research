@@ -1,0 +1,16 @@
+# Economic Content from: ATV20241005_atv Ana Haber ｜ 5 Ekim 2024.tr.txt
+# Processed: 2025-07-22T16:35:32.023553
+# Original: 4790 words → Filtered: 121 words (2.53% retention)
+# Economic segments: 1
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 121
+**Retention**: 40.60%
+
+Hazine ve Maliye Bakanlığı'nın kayıt dışı ekonomi ile mücadele için başlattığı çalışmalar hız kazandı. Bu çalışmalardan biri de kartla ödemede nakit ücret bedelinden daha fazla para alan, yani vergi kaçıran işletmelere ceza kesilmesi. Son zamanlarda bazı işletmeler kartlı ödemelerde bankaya ödemek zorunda kaldıkları komisyonu satış fiyatının içine dahil etmeye başladılar. Peşin ödemelerde dahi bu miktarı ödemek durumunda kalıyorsunuz. Ceza almamak için uyanık esnaf fiyat farkı oluşmaması için nakit fiyata da komisyon zammı yaptı. Yani bir ürün alacaksınız, nakit fiyatı 100 lira, kredi kartı fiyatı da 120 lirayken, o nakit fiyatı da 120 liraya çıkardı. Bankalar, 3 ile 4,5 arasında bir komisyon olduğunu ifade ediyorlar. Bu durumla karşılaşan müşteri, o işletmeyi Bankacılık Düzenleme ve Denetleme Kurumu'na ve Ticaret Bakanlığı'na da şikayet edebilir.
+
+================================================================================
+

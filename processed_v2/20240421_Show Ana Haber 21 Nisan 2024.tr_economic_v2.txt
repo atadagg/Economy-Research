@@ -1,0 +1,49 @@
+# Economic Content from: 20240421_Show Ana Haber 21 Nisan 2024.tr.txt
+# Processed: 2025-07-22T17:39:40.378269
+# Original: 3351 words → Filtered: 322 words (9.61% retention)
+# Economic segments: 4
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 113
+**Retention**: 42.01%
+
+Son günlerde sosyal medyada yapılan paylaşımlar o soruyu akıllara getirmişti. Emeklilerle ilgili Çalışma ve Sosyal Güvenlik Bakanı Vedat Aşan'dan sonra Cumhurbaşkanı Yardımcısı Cevdet Yılmaz'dan da dikkat çeken bir açıklama geldi. Yılmaz, gündelik hayata dokunan birtakım çalışmalar var dedi. İşte detaylar; yaklaşık bir 15-20 gün içerisinde elde ettiğimiz ne kadar somut bir veri varsa, emeklilerimize ayrıcalık tanıyan çalışmalar yapılacak. Cevdet Yılmaz, emekliler için özel bir çalışma yapıldığını söyledi. Ancak, emekliyi tatmin etmez ki; piyasayı görüyorsunuz. Temmuz ayı yaklaşırken, milyonlar maaş hesaplaması yapmadı. SSK ve Bağkur emekliliği bu yıl tahminlere göre yaklaşık % oranında artacak. Emeklinin seyyanen zam, kök maaş düzenlemesi ve refah payı artışı gibi talepleri vardı. Bakan, bu gibi düzenlemelerin gündemde olmadığını söylemişti.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 74
+**Retention**: 46.25%
+
+Konut kredi faiz oranlarının yüksekliği, ev alımını imkansız hale getiriyor. Ayda 50,000 lira kazanan bir kişi bile evin borcunu ödeyip diğer geçimini sağlamada zorluk yaşıyor. Bu durum, emlak piyasasının en durgun dönemlerinden birini yaşamasına neden oldu. Emlak sahipleri çözüm arayışına girdi ve takas yöntemi yaygınlaşmaya başladı. Uzmanlara göre, piyasayı takas yöntemi canlandırmayacak çünkü takas işlemleri oldukça münferit kalıyor. Emlak dünyasının hareketlenmesi için, gayrimenkul alacak yurttaşlara kamu bankalarından uygun faizli krediler sunulması gerektiği ifade ediliyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 67
+**Retention**: 40.61%
+
+Ramazan Bayramı'nın bitişiyle çarşı pazar hareketlendi. Artan enflasyonla birlikte yuva kurmanın maliyeti neredeyse 1 milyon liraya aştı. Düğün sezonu açıldı ve dünyaevine girecek çiftler, artan maliyetleri düşünmeye başladı. Yeni bir yuva kurmanın ortalama maliyeti 1 milyon lirayı aştı. Düğün masrafları, artan enflasyon nedeniyle katlanarak yükseldi. Maddi gelirlerin az olması, boşanmaların artmasının en büyük kaynağı oldu. Düğün mekanı veya organizasyonu için ortalama 20,000 TL gibi masraflar söz konusu.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 68
+**Retention**: 71.58%
+
+Evlilik için gerekli olan masraflar, özellikle mobilya ve beyaz eşya gibi kalemlerde çiftleri zorlamaktadır. Evi baştan aşağı düzmek için ortalama en az 400.000 TL gerekmektedir. Şu anki fiyatlar, önceki dönemlere göre önemli bir artış göstermektedir; örneğin, aynı eşyalar için şu an 240.000 TL talep edilmektedir. Toplam masraflar, takı ve balayı gibi ek harcamalarla birlikte 1 milyon liraya yaklaşmaktadır. Bu durum, çiftlerin mali planlamalarını zorlaştırmakta ve borçlanma ihtiyacını artırmaktadır.
+
+================================================================================
+

@@ -1,0 +1,62 @@
+{
+  "file_path": "news/ATV/ATV20241008_atv Ana Haber ｜ 8 Ekim 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T16:43:30.194389",
+  "original_word_count": 4752,
+  "filtered_word_count": 92,
+  "retention_ratio": 0.01936026936026936,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 23,
+      "start_sentence": "İyi akşamlar Bugün 8 Ekim 2024 salı...",
+      "description": "\"İyi akşamlar Bugün 8 Ekim 2024 salı...\" - The opening of the broadcast where the presenter greets the audience and introduces the date and context of the program.",
+      "end_pos": 73
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 73,
+      "start_sentence": "Cumhurbaşkanı Erdoğan 2024 2025 akademik yılı açılış töreni için kürsüde eydi...",
+      "description": "\"Cumhurbaşkanı Erdoğan 2024 2025 akademik yılı açılış töreni için kürsüde eydi...\" - The main content of the news segment, detailing President Erdoğan's speech about various social issues, including violence against women and children, and the academic landscape in Turkey.",
+      "end_pos": 1271
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 1271,
+      "start_sentence": "Cumhurbaşkanı üniversitelerden de bu konuda destek istedi...",
+      "description": "\"Cumhurbaşkanı üniversitelerden de bu konuda destek istedi...\" - A brief transition within the news segment where the focus shifts from discussing social issues to the role of universities in addressing these problems.",
+      "end_pos": 1367
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1367,
+      "start_sentence": "Önümüzdeki dönemi Tüm bu sorunların üzerine daha kararlı gittiğimiz gereken adımları atıp...",
+      "description": "\"Önümüzdeki dönemi Tüm bu sorunların üzerine daha kararlı gittiğimiz gereken adımları atıp...\" - Continuation of the news content, emphasizing the need for decisive actions regarding the issues raised earlier.",
+      "end_pos": 1860
+    },
+    {
+      "type": "5. **NEWS**",
+      "start_pos": 1860,
+      "start_sentence": "Erdoğan Türkiye'deki Akademi alanında atılan adımları da hatırlattı...",
+      "description": "\"Erdoğan Türkiye'deki Akademi alanında atılan adımları da hatırlattı...\" - Further news content where Erdoğan recalls the steps taken in the academic field in Turkey.",
+      "end_pos": 34398
+    }
+  ],
+  "news_segments_count": 7,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "1860_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 188,
+      "filtered_length": 92,
+      "retention_ratio": 0.48936170212765956,
+      "section_description": "\"Erdoğan Türkiye'deki Akademi alanında atılan adımları da hatırlattı...\" - Further news content where Erdoğan recalls the steps taken in the academic field in Turkey."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

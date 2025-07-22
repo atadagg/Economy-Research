@@ -1,0 +1,57 @@
+# Economic Content from: ATV20240511_atv Ana Haber ｜ 11 Mayıs 2024.tr.txt
+# Processed: 2025-07-22T16:25:48.934592
+# Original: 4741 words → Filtered: 464 words (9.79% retention)
+# Economic segments: 4
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 135
+**Retention**: 97.83%
+
+Emekli maaşlarıyla ilgili yapılan yeni tahminlere göre, 12,600 liraya 15,000 alan emekli maaşı 18,900 liraya çıkacak. 20,000 lira maaş alan bir emekli ise temmuzda 25,200 lira maaş alacak. Memur ve memur emeklisi için eski tahmine göre temmuzda %118 seviyesinde zam alması bekleniyordu, ancak yeni tahminle hesaplar bir kez daha değişti. Memur ve memur emeklisi temmuzda %21 seviyesinde zam alabilir. Merkez Bankası'nın tahminleri tutarsa, memur ve memur emeklilerinin temmuz zammı %175 olacak. Böylece en düşük memur maaşı 4,330 liraya, hemşire maaşları 8,510 liraya, öğretmen maaşı 8,350 liraya ve polis memuru maaşları 53,482 liraya yükselecek. Kamuda çalışan mühendislerin maaşları ise 61,424 liraya çıkacak. En düşük memur emeklisi aylığı da 14,741 liradan tahminlere göre 17,800 lira seviyesine çıkacak. Hemşire ve öğretmen emeklisi maaşı 2,690 lira, polis emeklisi maaşı 26,950 lira, mühendis emeklisi maaşı da 2,000 lira olarak öngörülüyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 119
+**Retention**: 78.29%
+
+690 L olacak Milyonlar alacakları zam gibi ek iyileştirme yapılır mı sorusunun yanıtını da merak ediyor. Önümüzdeki günlerde refah payı kök maaş düzenlemesi ve seyyanen artış gibi formüller gündeme gelebilir. Bu durum, işçi ücretleri ve enflasyon üzerindeki etkileri açısından önemli bir gelişme olarak değerlendiriliyor. 
+
+Ankara'da yaşayan 9 yıllık kiracı ev sahibine 800 lira ödüyordu. Düşük kira sebebiyle taraflar mahkemelik oldu ve dava jet hızıyla sonuçlandı. Kiranın yasal sınırın altında olduğu gerekçesiyle kiracıya tahliye kararı verildi. Yaşanan bu örnek, emlak piyasasında kira artışları ve kiracı-ev sahibi ilişkileri açısından dikkat çekici bir durum oluşturdu. 
+
+Yıllık kira bedeli, artan maliyetler ve enflasyon karşısında ev sahipleri için sorun teşkil ediyor. Bu tür gelişmeler, konut piyasasında fiyatların nasıl şekilleneceği konusunda önemli bir gösterge olabilir.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 123
+**Retention**: 71.51%
+
+Ankara'da kiracı ve ev sahibi arasında kira konusunda anlaşmazlıklar yaşanıyor. Mahkeme, düşük kirayı kabul etmedi ve kiracıyı haksız buldu, bu da tahliye kararına yol açtı. Eski kiracılar şu anda piyasada çok düşük kiralarla oturuyor. Enflasyona göre kirası çok düşük kalanlar var; bu noktada ev sahibiyle kiracı karşı karşıya geliyor. Eğer kiracı, yıllık yasal olarak kira bedelinin altında bir ödeme yapıyorsa, tahliye durumu söz konusu olabilir. Ankara'daki tahliye davası 55 günde sonuçlandı. Yıllık kira bedelinde yasal sınır 28,2 lira, yani aylık 2,55 liraya denk geliyor. Kiracının ödediği aylık 800 liralık kira ücreti, yasal sınırın altında kaldığı için mahkeme hızlı bir şekilde sonuçlandı. Kiracı için verilen tahliye kararı emsal teşkil etti. Bugün, kiralar oldukça yüksekken, kiracıların karşılaştığı bu durum ekonomik bir sorun olarak öne çıkıyor.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 87
+**Retention**: 108.75%
+
+The filtered text focusing on economics, finance, and business is as follows:
+
+"Kiracı 9 yıldır oturduğu evi boşaltmak zorunda kaldı. Bu emsal örnek dışında düşük kira ödeyenlerin sayısı bir hayli fazla. Üstelik düşük kira ödeyene tahliye kararı çıkarsa dönüşü de yok. Bence ev sahibi haklı, kiracı haksız. Kiracı tahliye olursa itiraz hakkı yok çünkü yasal sınırın altında kirası kaldığı için mahkemenin verdiği bu kararı bir üst mahkemeye taşıyamıyor." 
+
+(Note: The original text provided does not contain substantial economic content, so the filtered version is limited in scope.)
+
+================================================================================
+

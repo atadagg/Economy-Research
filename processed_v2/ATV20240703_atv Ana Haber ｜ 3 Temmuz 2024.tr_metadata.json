@@ -1,0 +1,66 @@
+{
+  "file_path": "news/ATV/ATV20240703_atv Ana Haber ｜ 3 Temmuz 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T16:04:13.589814",
+  "original_word_count": 4682,
+  "filtered_word_count": 256,
+  "retention_ratio": 0.054677488252883384,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "sakin oynuyoruz dengeli oynuyoruz...",
+      "description": "\"sakin oynuyoruz dengeli oynuyoruz...\" - The opening remarks set the tone for the broadcast, introducing the theme of the program and hinting at the excitement surrounding a recent football match.",
+      "end_pos": 890
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 890,
+      "start_sentence": "Türkiye ÇK Bizim çocuklar inandı başardı...",
+      "description": "\"Türkiye ÇK Bizim çocuklar inandı başardı...\" - This section contains the main news content, detailing the victory of the Turkish national football team, the match highlights, player performances, and reactions from players and the media.",
+      "end_pos": 1949
+    },
+    {
+      "type": "3. **OUTRO**",
+      "start_pos": 1949,
+      "start_sentence": "Herkesin favori...",
+      "description": "\"Herkesin favori...\" - The closing remarks summarize the excitement and pride felt after the match, providing a sense of conclusion to the broadcast.",
+      "end_pos": 33114
+    }
+  ],
+  "news_segments_count": 10,
+  "economic_segments_count": 3,
+  "economic_segments": [
+    {
+      "segment_id": "1949_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 153,
+      "filtered_length": 120,
+      "retention_ratio": 0.7843137254901961,
+      "section_description": "\"Herkesin favori...\" - The closing remarks summarize the excitement and pride felt after the match, providing a sense of conclusion to the broadcast."
+    },
+    {
+      "segment_id": "1949_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 96,
+      "filtered_length": 68,
+      "retention_ratio": 0.7083333333333334,
+      "section_description": "\"Herkesin favori...\" - The closing remarks summarize the excitement and pride felt after the match, providing a sense of conclusion to the broadcast."
+    },
+    {
+      "segment_id": "1949_6",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 138,
+      "filtered_length": 68,
+      "retention_ratio": 0.4927536231884058,
+      "section_description": "\"Herkesin favori...\" - The closing remarks summarize the excitement and pride felt after the match, providing a sense of conclusion to the broadcast."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

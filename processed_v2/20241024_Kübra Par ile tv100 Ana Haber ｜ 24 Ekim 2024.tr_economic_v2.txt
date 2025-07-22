@@ -1,0 +1,30 @@
+# Economic Content from: 20241024_Kübra Par ile tv100 Ana Haber ｜ 24 Ekim 2024.tr.txt
+# Processed: 2025-07-22T18:48:29.294354
+# Original: 9473 words → Filtered: 179 words (1.89% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: pattern_validated
+**Confidence**: 0.75
+**Word Count**: 53
+**Retention**: 100.00%
+
+gazetecilere konuşmuş onların henüz ambargosu var ama çok önemli mes mesajlar vermiş Ayrıca şimdi
+İstanbul'da da bir Güvenlik Zirvesi topladı olağanüstü sıcak gelişmeleri alacağız Ana Haber başlıyor
+hainlere inat daha fazla çalışacağız daha fazla üreteceğiz savunma sanayimizin gözbebeği tusaşa hain
+saldırıda 5 şehidimiz ve 22 yaralımız var Onların durumlarını takip ediyoruz ailelerin acılarını
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 126
+**Retention**: 37.95%
+
+Merkez Bankası başkanının bu açıklaması doğruysa ve gerçekleşirse asgari ücret % 25 zam olacak. Geçtiğimiz günlerde IMF bir açıklama yapmıştı ve Türkiye'nin enflasyon hedefini tutturması için bırakın faiz indirimini, tekrar faiz artışı yapması lazım. Çalışanlara yapılan zam oranını yükseltmesi lazım. Fatih Karahan'ın bu % 25 zam oranı açıklaması acaba biraz IMF telkinleriyle de mi şekillendi? Enflasyon hedeflerini tutturamamak gibi bir kaygısı mı var Merkez Bankası'nın? Zira Eylül ayı enflasyonu da beklenenin biraz üstünde çıkmıştı. Bu yüzden de faiz indirimine gitmemişti. Merkez Bankası yıl başında gider mi diye bekliyorduk; Kasım diyenler vardı, Aralık diyenler vardı ama IMF "Hayır, arttırın faizi" diye sıcak bir açıklama yapmıştı. Şimdi de Bloomberg'in iddiası, ABD'de Bloomberg'e konuşmuş Fatih Karahan Merkez Bankası başkanı ve demiş ki, "Biz asgari ücrete % 25 zam yapacağız."
+
+================================================================================
+

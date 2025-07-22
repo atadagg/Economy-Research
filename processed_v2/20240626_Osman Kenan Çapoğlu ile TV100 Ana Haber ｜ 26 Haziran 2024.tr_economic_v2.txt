@@ -1,0 +1,70 @@
+# Economic Content from: 20240626_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 26 Haziran 2024.tr.txt
+# Processed: 2025-07-22T18:34:58.496233
+# Original: 8920 words → Filtered: 411 words (4.61% retention)
+# Economic segments: 5
+
+## Economic Segment 1
+
+**Method**: pattern_validated
+**Confidence**: 0.75
+**Word Count**: 119
+**Retention**: 82.64%
+
+Gündemin öne çıkan başlıklarını son dakika bilgilerini aktaracağız. Bugün önemli bir görüşme gerçekleşti. Cumhurbaşkanı Recep Tayyip Erdoğan, MHP Genel Başkanı Devlet Bahçeli ile bir araya geldi. Bu görüşmenin ardından ekonomik politikalar hakkında açıklamalar yapılması bekleniyor. Özellikle son dönemde Türkiye'nin ekonomik durumu ve enflasyon oranları üzerine tartışmalar artmış durumda. 
+
+MHP lideri Devlet Bahçeli, Türkiye'nin ekonomik istikrarı için ittifak ruhunun önemine vurgu yaptı. Bu bağlamda, hükümetin alacağı yeni ekonomik tedbirler ve mali politikalar, piyasalarda dikkatle izleniyor. Ayrıca, Cumhuriyet Halk Partisi lideri Özgür Özel'in yaptığı açıklamalar, muhalefetin ekonomik konulardaki tutumunu da etkileyebilir. 
+
+Sonuç olarak, bu görüşmelerin ardından Türkiye'nin ekonomik verileri ve mali istikrarı üzerine daha fazla bilgi edinmek mümkün olacak. Ekonomik analizler ve uzman görüşleri, piyasalardaki dalgalanmaları anlamak için kritik öneme sahip.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 52
+**Retention**: 82.54%
+
+The filtered text focusing on economics/finance/business is as follows:
+
+Özel okul kurs özel ders paket olduğunda maliyet 700 800 000 liranın üzerine çıkıyor. Türkiye genelinde fiyatlar 15 kişilik sınıflarda 50 000 başlıyor, 250 000 kadar çıkıyor. Kişilik sınıflarda fiyatlar biraz daha farklı. Normal bir ailenin bu devirde bu paraları vermesi çok zor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 75
+**Retention**: 44.64%
+
+Her alanda her noktada ekonomiyi cebimizden çıkanı konuşmaya devam ediyoruz. Alışveriş merkezlerinde de fiyatlar can yakıyor. İşte tam bu noktada son dönemde sosyete pazarları yetişti. Sosyete pazarları şimdi her bütçeye uygun ürün yelpazesiyle öne çıkıyor. Aynı zamanda bir gezinti imkanı da sunuyor. İstanbul'da ucuzluk pazarı denildiği zaman akıllara ilk gelen yerler sosyete pazarları oluyor. Yaz alışverişinin kalbi neredeyse burada atıyor. Çantalar 300 liradan alıcılarını bekliyor. Bu pazarda halılar 1000 liradan başlangıç yaparak tezgahlarda yerini almış.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 107
+**Retention**: 38.91%
+
+Fiyatları değişiyor; yaz sezonuna uygun keten takımlar 850 L ve 1000 L arasında. Plaj havlularının fiyatları ise 150 liradan 300 liraya kadar değişiklik gösteriyor. Pazarlarda ev eşyasından giyime, aksesuarlardan gözlüklere kadar çeşitli ürünler bulunuyor. Mağazalara göre daha hesaplı malların daha kaliteli olduğu belirtiliyor. 
+
+Fiyatların yüksek olduğu yönünde görüşler var; bazıları mağazaların fiyatlarını uygun bulurken, diğerleri pazar fiyatlarını pahalı buluyor. Ekonomik koşullar nedeniyle, tüketiciler daha uygun fiyatlı ürünler arayışında. 
+
+Ayrıca, sağlık alanında yapılan düzenlemelerle hastane randevu sisteminin verimliliği artırılmaya çalışılıyor. Bu değişiklikler, sağlık hizmetlerinin daha etkin kullanılmasını sağlayacak ve hastaların randevu tarihine 2 gün kala onay vermesi gerekecek. Bu durum, sağlık sektöründeki kaynakların daha verimli kullanılmasına katkıda bulunacak.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 58
+**Retention**: 87.88%
+
+Türkiye'de üretilmiş bir ürünü servis garantisi ile beraber çok rahat ulaşabilecekleri bir ürün grubumuz var. Bu cihazlar serinletmekle beraber yaz aylarının da vazgeçilmezi durumunda uygun fiyatlı ve kolay ulaşılabilir haliyle de esnaflar bu durumdan çok memnun. Fiyat aralığı 1000 liradan 18800 liraya kadar gidiyor. 1820 inç çelik modelleri var ve burada da fiyat aralığı 2000-3000 lira arasında değişiyor.
+
+================================================================================
+

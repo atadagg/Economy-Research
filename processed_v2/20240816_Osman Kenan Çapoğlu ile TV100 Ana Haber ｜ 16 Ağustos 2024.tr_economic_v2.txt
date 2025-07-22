@@ -1,0 +1,27 @@
+# Economic Content from: 20240816_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 16 Ağustos 2024.tr.txt
+# Processed: 2025-07-22T18:53:05.616736
+# Original: 11114 words → Filtered: 221 words (1.99% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 84
+**Retention**: 53.85%
+
+Enflasyonun düşmesiyle birlikte mevduat faiz oranları enflasyonu yakalamaya başladı. 1 milyon TL'nin % faizle birlikte bir ay içinde getirisi 4,437 lira oldu; bunu 3 aya yaparsanız net getiri 116,256 lira oluyor. Gördüğünüz gibi, faiz oranları oldukça yüksek ve mevduat faizinden kazancınız yüksek. Parasını mevduatta değerlendirmek isteyenlerin bankaları iyi araştırmaları gerek, çünkü bankalar durumlarına göre farklı faiz oranları uyguluyorlar. Türkiye'de bir yandan da hiçbir şeyin fiyatı evler kadar artmadı. Emlak piyasasındaki sektördeki balonun nedenlerinden biri, sitelerdeki sahte ilanlar. Fiyatları şişirmek isteyenler, sitelere sahte ilanlar yüklüyorlar.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 137
+**Retention**: 69.90%
+
+Çevre Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, 17 Ağustos'un yıldönümünde kentsel dönüşüm çalışmalarına ilişkin bilgiler paylaştı. 1999 depreminden sonra yaptığımız düzenlemelerle Türkiye'nin güçlü, dirençli ve sağlıklı şehirlerini inşa etme sürecini başlattık. Olası bir İstanbul depremi, sadece şehrimizi değil, tüm Marmara'yı ve hatta tüm Türkiye'yi etkileyecektir. Çünkü ülke ekonomimizin gücü büyük oranda İstanbul'umuzda. İstanbul'da yaşanacak bir deprem, gerek ekonomik ticaret ve turizmde, gerekse eğitim, savunma ve ulaşımda çok ciddi sıkıntılara yol açacaktır. İstanbul'daki riskli konut sayısının, bu şehirdeki toplam ev sayısının beşte biri, yani yaklaşık 1,5 milyon ev sağlıksız durumda. Olası bir depremde 600,000 konutun ilk dakikalar itibarıyla yıkılma tehlikesiyle karşı karşıya olduğunu gördük. Yani yaklaşık 2,5 milyon insanımız çok ciddi risk altında yaşıyor. 2012'den bu yana İstanbul'un her bir ilçesinde kentsel dönüşüm faaliyetlerini kararlılıkla sürdürdüklerini vurguladı. Bakanlık ve özel sektörle birlikte 93,000 bağımsız bölümün dönüşümünü tamamladık.
+
+================================================================================
+

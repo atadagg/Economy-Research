@@ -1,0 +1,32 @@
+# Economic Content from: ATV20241022_atv Ana Haber ｜ 22 Ekim 2024.tr.txt
+# Processed: 2025-07-22T16:33:52.772514
+# Original: 4733 words → Filtered: 107 words (2.26% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 51
+**Retention**: 32.28%
+
+The filtered text focusing on economics, finance, and business is as follows:
+
+"Ortalama 23 milyon lira civarında bir rakam bekliyoruz. Bunları belirlerken en büyük unsur, bir atın genetik yapısı, ana baba özellikleri ve daha önce anasından ve babasından taşımış olduğu şampiyonluklar. Bu genetik yapının atın fiziki yapısına yansıması önemli bir faktör."
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_final
+**Confidence**: 0.50
+**Word Count**: 56
+**Retention**: 100.00%
+
+000 bedelle turbo yavrusuydum bab i00 Hayırlı uğurlu olsun tabip be isimli tayı aldık 3 milyon
+bedelle aldık Onu da hayırlı uğurlu olsun bizlere İnşallah bizi utandırmaz Evet çok yoğun bir gündem
+vardı bugün Şimdi biraz soluklanma vakti Bir Gece Masalı birazdan ekranlarınızda olacak Arınan ben
+kapanışın burada olacağım bültenimiz Sonuna Geldik haberin merkezinden İyi akşamlar
+
+================================================================================
+

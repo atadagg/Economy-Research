@@ -1,0 +1,69 @@
+# Economic Content from: 20250111_Süper Güç ABD Cehennemi Yaşıyor! ABD'yi Yakan Ateş Nasıl Söndürülecek？ ｜ A Haber.tr.txt
+# Processed: 2025-07-22T15:53:22.389480
+# Original: 17154 words → Filtered: 467 words (2.72% retention)
+# Economic segments: 4
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 107
+**Retention**: 58.47%
+
+A Haber ekranlarından İyi geceler efendim bir günü noktalı Yeni bir güne başlıyoruz. Bugün de karşınızdayız, dünyanın önemli başlıkları var ve önemli gelişmeler yaşanıyor. Amerika Birleşik Devletleri'ni konuşuyoruz ve bu bağlamda, Amerika'nın uluslararası finansal etkileri ve ekonomik politikaları üzerinde duracağız. 
+
+Özellikle Amerika Birleşik Devletleri'nin ekonomik durumu ve bu durumun dünya ekonomisine yansımaları hakkında değerlendirmeler yapacağız. Amerika'nın içindeki ekonomik zorluklar, küresel finans piyasalarını nasıl etkiliyor? Bu sorulara yanıt arayacağız. 
+
+Ayrıca, Amerika'nın dış politikası ve ekonomik stratejileri, Avrupa ile olan ilişkilerini nasıl şekillendiriyor? Bu konular üzerinde de duracağız. Ekonomik veriler ve istatistikler ışığında, Amerika'nın ekonomik performansını analiz edeceğiz. 
+
+Bugün stüdyomuzda kıymetli konuklarımızın yorum ve değerlendirmeleriyle bu konuları derinlemesine inceleyeceğiz.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 139
+**Retention**: 100.00%
+
+000
+kişi için tahliye emri verilirken toplam tahliye sayısı 180 000 üzerinde görüş mesafesinin düştüğü
+bölgede nefes almak dahi güçleştiriyor 11'den fazla Evse küle döndü 133 000 de tehdit altında aynı
+zamanda binlerce araçta Alevler içinde kaldı ABD Başkanı Biden yangınlar nedeniyle İtalya ziyaretini
+iptal etti felaketin toplam maddi zararının saa 57 milyar dolar olacağı tahmin ediliyor devasa bir
+yangından bahsediyoruz Tabii ki yaşanan bir doğal afet ve Maalesef ki bundan etkilenen masum sivil
+insanlar söz konusu Eee 10 kişinin üzerinde Yani hayatını kaybedenlerin sayısının 10'a yükseldiği
+ifade edilmişti Ama bu rakamın her geçen saat artabileceği şe duyuluyor bazı rakamlar var onları
+paylaşalım şu ana kadar yangın nedeniyle oluşan zararın 57 milyar dolara çıktığı ifade ediliyor ki
+Amerikalı bir hava durumu analiz şirketi bu rakamın 150 milyar doları da bulmasının Eee ifade
+edildiğini söylemiş olalım şu ana kadar 10
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 108
+**Retention**: 34.84%
+
+Geçtiğimiz günlerde meydana gelen yangınların ekonomik etkileri büyük oldu. Tahribatın 50 milyar dolar ile 57 milyar dolar arasında olduğu tahmin ediliyor. Yangın nedeniyle 200 binden fazla insan şehri terk etti, sanayi durdu, üretim durdu ve turizm de etkilendi. Los Angeles, aynı zamanda bir turizm şehri olduğu için bu durumun ekonomik yansımaları daha da derinleşiyor. Şehrin yeniden inşa edilmesi ve insanların geri dönmesi için gereken iş gücü kaybı ve yerleşim kaybı göz önüne alındığında, zararın 150 milyar dolara kadar çıkabileceği belirtiliyor. Amerikalı bir analiz şirketi, bu zararın 150 milyar dolar civarında olacağını öngörüyor. Bu durum, yangının büyümesiyle birlikte federal hükümetin müdahale etme sürecinin gecikmesiyle daha da karmaşık hale geldi.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 113
+**Retention**: 33.83%
+
+Almanya'da aşırı sağcı bir partiye bu dönemli yoğun bir destek vermesi, ekonomik istikrarı etkileyebilecek bir durum olarak değerlendiriliyor. Bu durum, yatırımcıların ve piyasa analistlerinin dikkatini çekmiş durumda. Almanya'nın ekonomik verileri ve istihdam oranları, bu siyasi gelişmelerin etkisi altında kalabilir. 
+
+Ayrıca, Donald Trump'ın kazanmasıyla birlikte, Almanya'daki iş dünyasında bazı belirsizlikler ortaya çıkmış olabilir. İş insanları, bu tür siyasi değişimlerin ekonomik sonuçlarını değerlendirmek için analizler yapıyor. Ekonomik göstergeler, bu tür siyasi olayların ardından nasıl şekilleneceği konusunda önemli ipuçları sunabilir. 
+
+Almanya'daki bu siyasi atmosfer, ticaret ve yatırım kararlarını da etkileyebilir. Özellikle, göçmen politikalarının değişmesi durumunda iş gücü piyasası ve maliyetler üzerinde etkiler görülebilir. Ekonomik analizler, bu tür gelişmelerin uzun vadeli etkilerini anlamak için kritik öneme sahip.
+
+================================================================================
+

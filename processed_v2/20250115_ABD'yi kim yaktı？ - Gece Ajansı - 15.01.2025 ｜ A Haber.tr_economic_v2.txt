@@ -1,0 +1,34 @@
+# Economic Content from: 20250115_ABD'yi kim yaktı？ - Gece Ajansı - 15.01.2025 ｜ A Haber.tr.txt
+# Processed: 2025-07-22T15:51:32.152025
+# Original: 15231 words → Filtered: 153 words (1.00% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 72
+**Retention**: 100.00%
+
+000 dolarla 1 milyon arasıdır O da 1 salon
+1 ik odalı evlerdir Eee özellikle belirli yerlerde daha lüks sentler de evler 45 milyon dolardan
+başlar zaten Hollywood yıldızlarının Evim yandı dediği evler rakamları 20 milyon dolar ve üzeri
+evler Şimdi bunu sigortanın karşılama ihtimali olmadığı gibi Eee şu an zenginler Los angeles'ta Eee
+Amerikan medyasına da yansıdı bu bilgiler kendi özel itfaiye araçlarını ya özel itfaiye
+şirketlerinden araçlar kiralamışlar günlük 10
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 81
+**Retention**: 40.70%
+
+Birleşik Devletleri'nde özel itfaiye şirketleri varmış. Bu, Amerika'daki yangınlarla birlikte gündeme gelmişti. Özel itfaiye şirketleri, sigorta şirketleri ile birlikte yatırımcıların para kazanmak için hizmet sunduğu bir alan olarak dikkat çekiyor. Bu durum, belirli bir ekonomik açığın varlığını gösteriyor. 
+
+Los Angeles'ta, zengin bireyler günde 10,000 dolar ödeyerek itfaiye araçlarını evlerinin yanında tutuyorlar. Bu, yüksek değerli mülklerin korunması için yapılan bir yatırım olarak değerlendirilebilir. 20 milyon dolarlık villaların bulunduğu bölgelerde, bu tür hizmetlerin talep görmesi, ekonomik koşulların ve bireylerin harcama gücünün bir yansımasıdır.
+
+================================================================================
+

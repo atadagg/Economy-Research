@@ -1,0 +1,83 @@
+{
+  "file_path": "news/ATV/ATV20241007_atv Ana Haber ｜ 7 Ekim 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T16:45:02.973215",
+  "original_word_count": 4668,
+  "filtered_word_count": 58,
+  "retention_ratio": 0.012425021422450729,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "good afternoon seattle Welcome to Your afternoon newscast",
+      "description": "\"good afternoon seattle Welcome to Your afternoon newscast\" - This section serves as the opening of the broadcast, where the presenter welcomes viewers and introduces the program.",
+      "end_pos": 95
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 95,
+      "start_sentence": "Marks the 16th anniversary of the TR geno comm are being H All Around The World k Mais tout tait devant vos yeux haberin merkezinden at Haber merkezinden günün gelişmeleri le",
+      "description": "\"Marks the 16th anniversary of the TR geno comm are being H All Around The World k Mais tout tait devant vos yeux haberin merkezinden at Haber merkezinden günün gelişmeleri le\" - This section contains the main news content, discussing significant events, particularly focusing on the anniversary of a notable incident and its implications.",
+      "end_pos": 195
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 195,
+      "start_sentence": "soru çok açık neden tam bir yı oldu İsrail'in 7 Ekim 2023 tarihinde Gazze şeridine yönelik başlattığı saldırılar",
+      "description": "\"soru çok açık neden tam bir yı oldu İsrail'in 7 Ekim 2023 tarihinde Gazze şeridine yönelik başlattığı saldırılar\" - This brief transition introduces a new topic related to the ongoing conflict, signaling a shift in focus within the news segment.",
+      "end_pos": 195
+    },
+    {
+      "type": "8. **NEWS**",
+      "start_pos": 195,
+      "start_sentence": "soru çok açık tekrar edelim neden 7 Ekim'den sonra adına Birleşmiş Milletler dediğimiz uluslararası sistem resmen iflas etti",
+      "description": "\"soru çok açık tekrar edelim neden 7 Ekim'den sonra adına Birleşmiş Milletler dediğimiz uluslararası sistem resmen iflas etti\" - This section raises critical questions about international responses to the events, continuing the in-depth news analysis.",
+      "end_pos": 288
+    },
+    {
+      "type": "5. **TRANSITION**",
+      "start_pos": 288,
+      "start_sentence": "7 Ekim 2023 bir felaketin başlangıcı olarak Anıl abilir ama Filistin'in dramı çok daha eskiye dayanıyor",
+      "description": "\"7 Ekim 2023 bir felaketin başlangıcı olarak Anıl abilir ama Filistin'in dramı çok daha eskiye dayanıyor\" - Another transition that connects the current news to historical context, indicating a deeper exploration of the topic.",
+      "end_pos": 385
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 385,
+      "start_sentence": "Bu bir yıl 50 binden fazla can kaybı yüz binlerce insanın yerinden edilmesiyle sonuçlandı",
+      "description": "\"Bu bir yıl 50 binden fazla can kaybı yüz binlerce insanın yerinden edilmesiyle sonuçlandı\" - This section continues the news content, detailing the consequences of the events discussed earlier, including casualties and displacement.",
+      "end_pos": 576
+    },
+    {
+      "type": "6. **NEWS**",
+      "start_pos": 576,
+      "start_sentence": "Aslında o nedenle 7 Ekim tarihte sadece bir not önce bir intifada sonra Batı şer babasının kolları arasında",
+      "description": "\"Aslında o nedenle 7 Ekim tarihte sadece bir not önce bir intifada sonra Batı şer babasının kolları arasında\" - This section further elaborates on the historical significance of the events, providing background information relevant to the current news.",
+      "end_pos": 968
+    },
+    {
+      "type": "7. **NEWS**",
+      "start_pos": 968,
+      "start_sentence": "bunun için bültenimize iletişim Başkanlığının güne özel hazırladığı o görüntülerle başladık",
+      "description": "\"bunun için bültenimize iletişim Başkanlığının güne özel hazırladığı o görüntülerle başladık\" - This part introduces specific visual content related to the news, indicating a multimedia element in the broadcast.",
+      "end_pos": 32857
+    }
+  ],
+  "news_segments_count": 6,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "576_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 58,
+      "filtered_length": 58,
+      "retention_ratio": 1.0,
+      "section_description": "\"Aslında o nedenle 7 Ekim tarihte sadece bir not önce bir intifada sonra Batı şer babasının kolları arasında\" - This section further elaborates on the historical significance of the events, providing background information relevant to the current news."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

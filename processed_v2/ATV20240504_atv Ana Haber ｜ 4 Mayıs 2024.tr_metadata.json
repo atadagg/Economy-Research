@@ -1,0 +1,57 @@
+{
+  "file_path": "news/ATV/ATV20240504_atv Ana Haber ｜ 4 Mayıs 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T16:53:38.870892",
+  "original_word_count": 4568,
+  "filtered_word_count": 260,
+  "retention_ratio": 0.05691768826619965,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 23,
+      "start_sentence": "İyi akşamlar Bugün 4 Mayıs 2024 Cumartesi...",
+      "description": "\"İyi akşamlar Bugün 4 Mayıs 2024 Cumartesi...\" - The opening of the broadcast where the presenter greets the audience and introduces the date and the program's focus.",
+      "end_pos": 72
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 72,
+      "start_sentence": "tek gayemiz kontrolden çıkan Netanyahu yönetimini ateşkese zorlamak...",
+      "description": "\"tek gayemiz kontrolden çıkan Netanyahu yönetimini ateşkese zorlamak...\" - The main news content discussing Turkey's stance on Israel and the recent decisions made by President Erdoğan regarding trade and humanitarian efforts.",
+      "end_pos": 1846
+    },
+    {
+      "type": "3. **OUTRO**",
+      "start_pos": 1846,
+      "start_sentence": "Biz doğru olanı yaptığımızın şu anda farkındayız...",
+      "description": "\"Biz doğru olanı yaptığımızın şu anda farkındayız...\" - The closing remarks where the presenter summarizes the key points and concludes the program.",
+      "end_pos": 32359
+    }
+  ],
+  "news_segments_count": 6,
+  "economic_segments_count": 2,
+  "economic_segments": [
+    {
+      "segment_id": "72_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 235,
+      "filtered_length": 127,
+      "retention_ratio": 0.5404255319148936,
+      "section_description": "\"tek gayemiz kontrolden çıkan Netanyahu yönetimini ateşkese zorlamak...\" - The main news content discussing Turkey's stance on Israel and the recent decisions made by President Erdoğan regarding trade and humanitarian efforts."
+    },
+    {
+      "segment_id": "1846_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 190,
+      "filtered_length": 133,
+      "retention_ratio": 0.7,
+      "section_description": "\"Biz doğru olanı yaptığımızın şu anda farkındayız...\" - The closing remarks where the presenter summarizes the key points and concludes the program."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

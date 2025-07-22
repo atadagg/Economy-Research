@@ -1,0 +1,78 @@
+# Economic Content from: 20240731_Oya Çebi ile TV100 Ana Haber ｜ 31 Temmuz 2024.tr.txt
+# Processed: 2025-07-22T18:47:33.736551
+# Original: 12250 words → Filtered: 397 words (3.24% retention)
+# Economic segments: 6
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 51
+**Retention**: 100.00%
+
+editörü Sertaç Murat skç da oradaki gelişmeleri aktaracak bize Haniye öldürülmesine en yüksek sese
+tepki Türkiye'den geldi Bunu da belirtelim suikastle ilgili hangi mesajlar verildi detayları da TV1
+editörü Ertuğrul Tunç aktaracak bize şimdi arkadaşlarımıza döneceğiz haliyle tüm gelişmeleri
+paylaşacağız sizlerle ama Öncesinde neler yaşandı şöyle sıcağı sıcağına konuşacağız Haniye öldürüldü
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 59
+**Retention**: 62.77%
+
+8 milyar lira olduğunu söyledi açıklanan borçlar. 2019 yılında 5 Büyükşehir Belediyesi İstanbul, Ankara, Adana, Antalya ve Mersin 5 milyar 340 milyon dolarlık bir borçla devralmış. Bugün bu borç 2 milyar 618 milyon dolara düşmüş. Zeybek, 31 Mart sonrası kazandıkları 208 belediyenin SGK'ya olan toplam borcunu da açıkladı. 31 Mart'ta kazandıkları 208 belediyenin 9.8 milyar liralık vergi borcu bulunuyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 93
+**Retention**: 53.14%
+
+1 milyar liralık sosyal güvenlik kurumuna prim borçları olduğunu görüyoruz. Bu konuda bazı belediyelere haciz işlemleri de başlatıldı. Biz burada haciz işleminden önce sosyal güvenlik kurumuna ilişkin belediyelerin borçlarını yasal düzenlemeyle belli bir vade içinde ödenmesinin doğru olduğunu düşünüyoruz. 
+
+Aslında ekonomiden kastım cebimizi ilgilendiren, bizi ilgilendiren gelişmeler var. Yüksek enflasyon nedeniyle konut fiyatları son yıllarda rekor yükselişe geçti. Haliyle hepimiz bu durumu yakından izliyoruz. İhtiyaç kredi faizlerinin artmasıyla dar gelirli için konut almak neredeyse hayal oldu. Orta gelirli aileler için de bu durum benzer şekilde geçerli. 
+
+Sevindiren haber ise sosyal güvenlik kurumundan geldi.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 63
+**Retention**: 64.95%
+
+SGK, 400.000 lira faizsiz kredi desteği sağlayacağını duyurdu. Konut fiyatları son yıllarda fahiş rakamlara yükseldi. Dar gelirli için ev almak hayal oldu. SGK, maaş alanlara 400.000 liraya kadar kredi desteği sağlayacağını açıkladı. Şartlar belli oldu; malul, dul ve yetim vatandaşlar SGK'nın faizsiz konut kredisi imkanından yararlanabilecek. Bu destek, konut alımında önemli bir finansal yardım sunarak, dar gelirli vatandaşların ev sahibi olma şansını artıracak.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 88
+**Retention**: 40.74%
+
+5 000 konut yapıldığı bilgisine dayandırıldığı için yine yanlış bir bilgidir. Elektrik tüketimindeki artış, faturalara yansıyor yani cebimize yansıyor. Elektrik faturasında tasarruf yapmak mümkün mü ya da tasarruf yapmak için neler yapılmalı ve bu tasarruf ne kadar bütçemizi etkileyecek? Uzmanlar, her gün 12 saat boyunca klima kullanımının 800 ila 1.000 lira arasında faturaya ek yük getirdiğini savunuyor. Büyümemiz % 34 iken, elektrikteki tüketimimiz % 110'un üzerinde artmış durumda. Temmuz ayında İstanbul'da 6 kere elektrik tüketim rekoru kırıldı. İstanbul'da da yine benzer şekilde 56 defa peş peşe rekorlar kırıldı.
+
+================================================================================
+
+## Economic Segment 6
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 43
+**Retention**: 41.35%
+
+Çamaşır ve bulaşık makinelerinde esas enerjiyi suyu ısıtmak için harcıyoruz. Uzmanlar, kullanış dışıyken prize takılı olan ev aletlerinin enerji tükettiğini anımsattı. Evlerimizde kullanmadığımız anda bile elektrik tüketen ürünler, ekonomik açıdan dikkate alınması gereken bir durum. Bu durum, hanelerin enerji maliyetlerini artırarak bütçelerini etkileyebilir.
+
+================================================================================
+

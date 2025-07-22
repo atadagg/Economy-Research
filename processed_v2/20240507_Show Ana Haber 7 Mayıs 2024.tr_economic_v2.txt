@@ -1,0 +1,63 @@
+# Economic Content from: 20240507_Show Ana Haber 7 Mayıs 2024.tr.txt
+# Processed: 2025-07-22T17:39:01.350067
+# Original: 2332 words → Filtered: 491 words (21.05% retention)
+# Economic segments: 3
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 57
+**Retention**: 47.50%
+
+Ateşkes açıklamasını da ilk kez değerlendirdi. Ekonomiye ilişkin mesajlar veren Erdoğan, kamuda tasarruf yapılacak alanları açıkladı; taşıtlar, binalar, haberleşme giderleri, kamu istihdamı gibi pek çok alanda adımlar atacağız. Tasarruf için ekonomi yönetimine talimat verdiğini söylerken, enflasyonu tekeye düşürmekte kararlıyız dedi. Yıllık enflasyon yaz aylarından itibaren inşallah düşüşe geçecektir. Konut ve araç piyasasında oluşan fiyat balonu sönmeye başlamıştır.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 75
+**Retention**: 53.19%
+
+Kurban fiyatları önceki yıla göre % 65-70 oranında arttı. Artışın nedeni ise üretimin azalması. Kurban bayramına bir aya yakın zaman kaldı ve kurbanlıkların fiyatları netleşti. Canlı kilogram ağırlığı 250 ile 280 lira arasında değişmekte, ortalama 260-270 bandında canlı kurbanın kilogram fiyatı bu yıl ortalama 270 lira. Kurban sahibinin eline geçecek etin kilogram fiyatı yaklaşık 400 lira olacak. Ortalama bir rakamla, 500 kilo civarında bir hayvanı 6 hisse yapacak olursak, 25,000 lira gibi bir rakama ulaşabiliriz.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_final
+**Confidence**: 0.50
+**Word Count**: 359
+**Retention**: 100.00%
+
+000 işin uzmanları bu yılki artışa yem
+fiyatlarının çok fazla etki etmediğini söyleseler de hayvan üretiminin düşük kalması fiyatı yukarı
+çekti rakamlar artınca kurban satışı da geçen yıla göre daha yavaş başladı istediğimiz kadar
+bollukta bulamıyoruz geçen yıla oranla % 1202 oranında daha az kurban fiyatları ile ilgili Bir
+açıklamada Tarım Bakanı İbrahim Yumaklı geldi et fiyatlarındaki spekülasyonun alınan önlemlerle
+kurbanlıklarda yaş ağını söyledi Sayın bakanımıza Ben de e katılıyorum kurbanlık fiyatların da % 65
+70 artmış olması e ekonomiyle paralel gittiğini gösteriyor Avrupa Birliği döneri geleneksel bir Türk
+ürünü olarak tescil etti ve Yunanlılar yine küplere bindi ekibimiz Bugün İstanbul'daki Yunanlılarla
+konuştu döner Bizim mi sizin mi sorusuna bakın ne cevap verdiler Türk döneri türklerindir
+türklerinde kalacaktır döner var sizin or Evet döner sizin mi bizim mi tehlikeli bir soru Evet Biz
+diyoruz ki bizim asla kabul etmiyorum döner Aki mi diyorlar döner yos kültürümüzün en önemli
+değerlerinden biri öyle ki damaklarda bıraktığı o tat dillere destan bu Karadeniz usulü var Erzincan
+usulü var Tekirdağ usulü var Her türlü var dönerin Türk döneri olduğu Avrupa Birliği'nde
+yetkililerin başvurusu sonrasında onaylandı resmi gazetede yayınlanan o bildiriye yine Yunanlılar
+isyan etti ama bizim aslında ama niye bu Yüzyıllardır bizim burada yapılıyor lezzetli Biz de yani
+lezzet anlamında bir numarayız zaten Yunanlılar da zaten peşimizi bırakmıyor hiçbir şekilde Adamlar
+her şey zaten istiyorlar her şey bize ait diyorlar Yunanlılar sadece dönerin değil lavaş ve ekmekle
+sunumunun Hatta kesim şeklinin bile kendilerine ait olduğunu söylüyor her şeyimizi aldılar zaten ne
+istiyorlar anlamadım dönerimi vermeyiz Abi şimdi Yunanistan'dan gelen turistlerin özellikle uğradığı
+bir bölgeye balata geldik Bakalım onlar dönerle ilgili ne düşünüyor döner giros giros giros giros
+muos giros ama o döner Aslında ve bayağıdır var bizde yani Ama bizim ama ama bizim ama bizim Aslında
+yok döner Bizim bizim baklava da bizim sizin baklava da mı Siz cacık bizim Siz hiç döner yediniz mi
+Türkiye'de Evet çok iyi Peki nasıl iyi Sizin orada nasıl çok iyi Avrupa Birliği tescil kararına
+yapılan itirazları inceleyecek sonuç ne olur bilinmez ama döner ustaları iddialı dönerin ana vatanı
+Türkiye'dir nokta şov an haberin Sonuna Geldik Yarın yine gündemin öne çıkan gelişmeleri ile
+karşınızda olacağız İyi akşamlar
+
+================================================================================
+

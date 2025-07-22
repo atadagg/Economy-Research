@@ -1,0 +1,29 @@
+# Economic Content from: ATV20241106_atv Ana Haber ｜ 6 Kasım 2024.tr.txt
+# Processed: 2025-07-22T16:24:09.903932
+# Original: 4718 words → Filtered: 170 words (3.60% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 88
+**Retention**: 57.52%
+
+The filtered text focusing on economics, finance, and business is as follows:
+
+Ankara Büyükşehir Belediyesi'nin 19 Mayıs Gençlik ve Spor Bayramında konser veren Mor ve Ötesi isimli müzik grubuna 71 milyon 520 bin lira ödendiği ortaya çıktı. 29 Ekim Cumhuriyet Bayramında Ebru Gündeş konseri için 69 milyon lira ödendiği iddiaları ortaya atılmıştı. Yavaş, kendi Belediyesinin organizasyonuyla ilgili iç inceleme başlatınca kriz büyümüştü. Tarafların 8 Mayıs 2024'te yaptığı sözleşmeye göre keşif bedeli için 59 milyon 600 bin lira yazıldı, ihale bedeli ise 71 milyon 520 bin lira olarak belirlendi.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 82
+**Retention**: 50.00%
+
+600 lirayla euro ve dolar çıktı. Özel çocukların eğitim gördüğü bazı rehabilitasyon merkezlerinin sağlıklı çocuklara engelli raporu çıkarıp devletten bunun için ödenek aldığı iddiası gündeme geldi. Bu durum, devletin sosyal yardımlarının nasıl kullanıldığına dair önemli bir ekonomik tartışma başlattı. Aileler, çocuklarına sağlık raporu çıkarılacağını düşünerek bu merkezlere yönlendirilmişlerdi. Devlet, bu tür rehabilitasyon merkezlerine her öğrenci için aylık 6 bin lira ödemekte, bu da ekonomik açıdan önemli bir yük oluşturuyor. Bu tür uygulamalar, sosyal güvenlik sisteminin sürdürülebilirliği açısından ele alınması gereken bir konu.
+
+================================================================================
+

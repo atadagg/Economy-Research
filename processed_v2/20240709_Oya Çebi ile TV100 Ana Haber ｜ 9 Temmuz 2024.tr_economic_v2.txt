@@ -1,0 +1,53 @@
+# Economic Content from: 20240709_Oya Çebi ile TV100 Ana Haber ｜ 9 Temmuz 2024.tr.txt
+# Processed: 2025-07-22T18:22:30.722839
+# Original: 9583 words → Filtered: 303 words (3.16% retention)
+# Economic segments: 4
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 88
+**Retention**: 46.81%
+
+Ekonomik verilerle ilgili olarak, 10,000 lira olan en düşük emekli maaşı için bir artış öngörülüyor. Ortalama olarak 12,000 lira civarında bir artış konuşuluyor. Hükümetten gelecek açıklama, 1,800,000 emeklinin maaşını etkileyecek düzenlemeler hakkında merak uyandırıyor. Parti sözcüsü Ömer Çelik, emeklilere yönelik düzenleme yapılacağının sinyalini verdi. Şu anda yapılan çalışma, 10,000 lira olan en düşük emekli aylığının yükseltilmesi ile ilgili. Ancak, kök maaşla ilgili bir artış olmayacağı bekleniyor. Yasa gereği, kök maaşı 8,000 lira olan bir emekli, 10,000 lira aylık alıyor. %2,73'lük zamma rağmen, emeklilerin eline yine 10,000 lira geçiyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 64
+**Retention**: 50.00%
+
+Şu anki 6 aylık açıklanan enflasyon oranı ile kök maaşınız 7483 lira oluyor. Eğer en düşük emekli maaşı artmazsa yine 10 000 lira almaya devam edeceksiniz. Şu anda konuşulanlar arasında bir net rakam yok; AK Parti tarafında bir çalışma var ama bir rakam konuşulmuyor. Geçtiğimiz sene 7 500 lira olan en düşük emekli maaşı Ocak ayında 10 000 lira oldu. Dünkü açıklamadan sonra 12...
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 56
+**Retention**: 35.44%
+
+Konut kiraları % 25 sınırının kaldırılmasının ardından artışa geçti. Kiracıları kara kara düşündürürken, ev sahipleri de harekete geçti. Asgari ücretliye ev vermekten çekiniyorlar; devlet memuru olması çok talep ediliyor veya bulunduğu iş yerinde en az 3 sene çalışmış olması isteniyor. Ev sahiplerinin kiracılardan kredi risk primi raporu istediği belirtiliyor. İstanbul'da ortalama kiralar 20,000 liradan aşağı değil.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 95
+**Retention**: 68.84%
+
+Asgari ücret 17,000 liradan başlıyor, ancak emekli maaşı 10,000 lira civarında. Bu durum, kiraların 21,000 liradan başlamasıyla birleşince, asgari ücretli ve emeklilerin yaşam standartlarını ciddi şekilde etkiliyor. Kirayı ödeyemeyen vatandaşlar, ekonomik zorluklarla karşı karşıya kalıyor. 
+
+Altın fiyatlarıyla ilgili gelişmeler de dikkat çekici. Ekonomik koşullar, maaşların alım gücünü etkiliyor ve bu da gıda gibi temel ihtiyaçların karşılanmasında zorluklar yaratıyor. Eğer aldığımız maaşla bu ihtiyaçları karşılayamazsak, o maaşın ne anlamı kalıyor? 
+
+Bu bağlamda, ekonomik veriler ve istatistikler, toplumun genel refah düzeyini anlamak için kritik öneme sahip. Ekonomik analizler, bu tür durumların nedenlerini ve olası çözümlerini ortaya koyabilir.
+
+================================================================================
+

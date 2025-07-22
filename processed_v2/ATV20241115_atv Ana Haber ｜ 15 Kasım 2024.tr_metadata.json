@@ -1,0 +1,108 @@
+{
+  "file_path": "news/ATV/ATV20241115_atv Ana Haber ｜ 15 Kasım 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T16:29:54.200954",
+  "original_word_count": 4812,
+  "filtered_word_count": 258,
+  "retention_ratio": 0.05361596009975062,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 23,
+      "start_sentence": "İyi akşamlar Bugün 15 Kasım 2024 Cuma",
+      "description": "\"İyi akşamlar Bugün 15 Kasım 2024 Cuma\" - The opening of the broadcast where the presenter greets the audience and introduces the date and context of the program.",
+      "end_pos": 75
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 75,
+      "start_sentence": "Gündem sıcak ama dün akşamın külliyedeki o kritik zirvenin ayrıntılarıyla başlayacağız",
+      "description": "\"Gündem sıcak ama dün akşamın külliyedeki o kritik zirvenin ayrıntılarıyla başlayacağız\" - The main news content begins, detailing the significant political meeting between President Erdoğan and Devlet Bahçeli, including discussions on various political issues.",
+      "end_pos": 394
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 394,
+      "start_sentence": "Cumhurbaşkanı Erdoğan'ın terörsüz Türkiye parolasıyla sinyalini verdiği yeni dönem",
+      "description": "\"Cumhurbaşkanı Erdoğan'ın terörsüz Türkiye parolasıyla sinyalini verdiği yeni dönem\" - A brief transition that introduces a new aspect of the news story, focusing on the implications of the meeting and the political climate.",
+      "end_pos": 394
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 394,
+      "start_sentence": "Bu kez görüşmenin adresi Cumhurbaşkanlığı Külliyesi oldu",
+      "description": "\"Bu kez görüşmenin adresi Cumhurbaşkanlığı Külliyesi oldu\" - Continuation of the news segment, providing further details about the meeting, its significance, and the topics discussed.",
+      "end_pos": 966
+    },
+    {
+      "type": "5. **TRANSITION**",
+      "start_pos": 966,
+      "start_sentence": "Gözlerin çevrildiği o görüşme",
+      "description": "\"Gözlerin çevrildiği o görüşme\" - Another transition that shifts focus to the reactions and implications of the meeting.",
+      "end_pos": 1262
+    },
+    {
+      "type": "6. **NEWS**",
+      "start_pos": 1262,
+      "start_sentence": "Devlet Bey Cesur çıkışlarıyla daima tarihe istikamet çizen bir liderdir",
+      "description": "\"Devlet Bey Cesur çıkışlarıyla daima tarihe istikamet çizen bir liderdir\" - Further elaboration on the political implications of the meeting and the leaders' positions on various issues.",
+      "end_pos": 1737
+    },
+    {
+      "type": "7. **TRANSITION**",
+      "start_pos": 1737,
+      "start_sentence": "Erdoğan Cuma mesaisine ise AK Parti Genel merkezinde devam etti",
+      "description": "\"Erdoğan Cuma mesaisine ise AK Parti Genel merkezinde devam etti\" - A transition indicating a shift to another related news topic regarding Erdoğan's activities following the meeting.",
+      "end_pos": 1834
+    },
+    {
+      "type": "8. **NEWS**",
+      "start_pos": 1834,
+      "start_sentence": "Merkez Yürütme Kurulu topladı sıcak gündemi",
+      "description": "\"Merkez Yürütme Kurulu topladı sıcak gündemi\" - Continuation of the news segment, discussing Erdoğan's meeting with AK Party officials and the evaluation of current political issues.",
+      "end_pos": 1932
+    },
+    {
+      "type": "9. **OUTRO**",
+      "start_pos": 1932,
+      "start_sentence": "Burada siz biz yok genel ve yere",
+      "description": "\"Burada siz biz yok genel ve yere\" - The closing remarks of the broadcast, signaling the end of the program.",
+      "end_pos": 33903
+    }
+  ],
+  "news_segments_count": 9,
+  "economic_segments_count": 3,
+  "economic_segments": [
+    {
+      "segment_id": "1932_0",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 289,
+      "filtered_length": 105,
+      "retention_ratio": 0.3633217993079585,
+      "section_description": "\"Burada siz biz yok genel ve yere\" - The closing remarks of the broadcast, signaling the end of the program."
+    },
+    {
+      "segment_id": "1932_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 56,
+      "filtered_length": 47,
+      "retention_ratio": 0.8392857142857143,
+      "section_description": "\"Burada siz biz yok genel ve yere\" - The closing remarks of the broadcast, signaling the end of the program."
+    },
+    {
+      "segment_id": "1932_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 131,
+      "filtered_length": 106,
+      "retention_ratio": 0.8091603053435115,
+      "section_description": "\"Burada siz biz yok genel ve yere\" - The closing remarks of the broadcast, signaling the end of the program."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

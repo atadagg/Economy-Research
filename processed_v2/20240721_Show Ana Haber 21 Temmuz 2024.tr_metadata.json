@@ -1,0 +1,68 @@
+{
+  "file_path": "news/Show/20240721_Show Ana Haber 21 Temmuz 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T17:51:58.337891",
+  "original_word_count": 3252,
+  "filtered_word_count": 319,
+  "retention_ratio": 0.09809348093480935,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "İyi akşamlar efendim ben Burcu Selçuk...",
+      "description": "\"İyi akşamlar efendim ben Burcu Selçuk...\" - The presenter introduces herself and sets the stage for the news broadcast, indicating the start of the program.",
+      "end_pos": 100
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 100,
+      "start_sentence": "Türkiye ve Türk askerini adada İşgalci olarak tanımlayan Yunan Savunma Bakanı...",
+      "description": "\"Türkiye ve Türk askerini adada İşgalci olarak tanımlayan Yunan Savunma Bakanı...\" - This section contains multiple news stories, including reactions from Turkish officials to statements made by the Greek Defense Minister, updates on the Cyprus situation, and discussions about retirement system changes in Turkey.",
+      "end_pos": 22834
+    }
+  ],
+  "news_segments_count": 9,
+  "economic_segments_count": 4,
+  "economic_segments": [
+    {
+      "segment_id": "100_0",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 202,
+      "filtered_length": 70,
+      "retention_ratio": 0.3465346534653465,
+      "section_description": "\"Türkiye ve Türk askerini adada İşgalci olarak tanımlayan Yunan Savunma Bakanı...\" - This section contains multiple news stories, including reactions from Turkish officials to statements made by the Greek Defense Minister, updates on the Cyprus situation, and discussions about retirement system changes in Turkey."
+    },
+    {
+      "segment_id": "100_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 172,
+      "filtered_length": 71,
+      "retention_ratio": 0.4127906976744186,
+      "section_description": "\"Türkiye ve Türk askerini adada İşgalci olarak tanımlayan Yunan Savunma Bakanı...\" - This section contains multiple news stories, including reactions from Turkish officials to statements made by the Greek Defense Minister, updates on the Cyprus situation, and discussions about retirement system changes in Turkey."
+    },
+    {
+      "segment_id": "100_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 66,
+      "filtered_length": 66,
+      "retention_ratio": 1.0,
+      "section_description": "\"Türkiye ve Türk askerini adada İşgalci olarak tanımlayan Yunan Savunma Bakanı...\" - This section contains multiple news stories, including reactions from Turkish officials to statements made by the Greek Defense Minister, updates on the Cyprus situation, and discussions about retirement system changes in Turkey."
+    },
+    {
+      "segment_id": "100_7",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 278,
+      "filtered_length": 112,
+      "retention_ratio": 0.4028776978417266,
+      "section_description": "\"Türkiye ve Türk askerini adada İşgalci olarak tanımlayan Yunan Savunma Bakanı...\" - This section contains multiple news stories, including reactions from Turkish officials to statements made by the Greek Defense Minister, updates on the Cyprus situation, and discussions about retirement system changes in Turkey."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

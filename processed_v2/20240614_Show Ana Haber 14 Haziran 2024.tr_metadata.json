@@ -1,0 +1,106 @@
+{
+  "file_path": "news/Show/20240614_Show Ana Haber 14 Haziran 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T17:53:18.324986",
+  "original_word_count": 3284,
+  "filtered_word_count": 181,
+  "retention_ratio": 0.055115712545676,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "İyi akşamlar sayın seyirciler",
+      "description": "\"İyi akşamlar sayın seyirciler\" - The presenter introduces herself and the program, setting the stage for the news content.",
+      "end_pos": 0
+    },
+    {
+      "type": "- **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "İyi akşamlar sayın seyirciler",
+      "description": "\"İyi akşamlar sayın seyirciler\" - The presenter introduces herself and the program, setting the stage for the news content.",
+      "end_pos": 95
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 95,
+      "start_sentence": "ve hemen çok sıcak bir gelişmeyle başlayalım",
+      "description": "\"ve hemen çok sıcak bir gelişmeyle başlayalım\" - The main news story begins, detailing a significant event involving a tragic accident and the subsequent developments regarding the individuals involved.",
+      "end_pos": 95
+    },
+    {
+      "type": "- **NEWS**",
+      "start_pos": 95,
+      "start_sentence": "ve hemen çok sıcak bir gelişmeyle başlayalım",
+      "description": "\"ve hemen çok sıcak bir gelişmeyle başlayalım\" - The main news story begins, detailing a significant event involving a tragic accident and the subsequent developments regarding the individuals involved.",
+      "end_pos": 1652
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 1652,
+      "start_sentence": "Evet Pınar E",
+      "description": "\"Evet Pınar E\" - A transition occurs as the presenter hands over to a reporter on the scene, indicating a shift in focus while still within the same news story.",
+      "end_pos": 1652
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1652,
+      "start_sentence": "Aslında mutluluk gözyaşları var diyebilirim",
+      "description": "\"Aslında mutluluk gözyaşları var diyebilirim\" - The news segment continues with live coverage from the scene, capturing the emotions of the family and the reactions of the public and media.",
+      "end_pos": 1652
+    },
+    {
+      "type": "- **TRANSITION**",
+      "start_pos": 1652,
+      "start_sentence": "Evet Pınar E",
+      "description": "\"Evet Pınar E\" - A transition occurs as the presenter hands over to a reporter on the scene, indicating a shift in focus while still within the same news story.",
+      "end_pos": 1652
+    },
+    {
+      "type": "- **NEWS**",
+      "start_pos": 1652,
+      "start_sentence": "Aslında mutluluk gözyaşları var diyebilirim",
+      "description": "\"Aslında mutluluk gözyaşları var diyebilirim\" - The news segment continues with live coverage from the scene, capturing the emotions of the family and the reactions of the public and media.",
+      "end_pos": 1847
+    },
+    {
+      "type": "5. **OUTRO**",
+      "start_pos": 1847,
+      "start_sentence": "Herkes onların duygularını düşüncelerini almaya çalışıyor",
+      "description": "\"Herkes onların duygularını düşüncelerini almaya çalışıyor\" - The segment concludes with remarks about the ongoing coverage and the emotional impact of the story, leading towards the end of the news broadcast.",
+      "end_pos": 1847
+    },
+    {
+      "type": "- **OUTRO**",
+      "start_pos": 1847,
+      "start_sentence": "Herkes onların duygularını düşüncelerini almaya çalışıyor",
+      "description": "\"Herkes onların duygularını düşüncelerini almaya çalışıyor\" - The segment concludes with remarks about the ongoing coverage and the emotional impact of the story, leading towards the end of the news broadcast.",
+      "end_pos": 22378
+    }
+  ],
+  "news_segments_count": 7,
+  "economic_segments_count": 2,
+  "economic_segments": [
+    {
+      "segment_id": "1847_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 186,
+      "filtered_length": 66,
+      "retention_ratio": 0.3548387096774194,
+      "section_description": "\"Herkes onların duygularını düşüncelerini almaya çalışıyor\" - The segment concludes with remarks about the ongoing coverage and the emotional impact of the story, leading towards the end of the news broadcast."
+    },
+    {
+      "segment_id": "1847_4",
+      "method": "simple_final",
+      "confidence": 0.5,
+      "original_length": 342,
+      "filtered_length": 115,
+      "retention_ratio": 0.3362573099415205,
+      "section_description": "\"Herkes onların duygularını düşüncelerini almaya çalışıyor\" - The segment concludes with remarks about the ongoing coverage and the emotional impact of the story, leading towards the end of the news broadcast."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

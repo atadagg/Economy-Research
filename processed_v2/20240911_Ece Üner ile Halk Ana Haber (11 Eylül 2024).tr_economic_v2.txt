@@ -1,0 +1,54 @@
+# Economic Content from: 20240911_Ece Üner ile Halk Ana Haber (11 Eylül 2024).tr.txt
+# Processed: 2025-07-22T16:58:18.674997
+# Original: 12148 words → Filtered: 331 words (2.72% retention)
+# Economic segments: 4
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 89
+**Retention**: 89.00%
+
+Lira bize maliyet AK Parti tarzı yap işle devlet modeli ile yapılan Çanakkale köprüsündeki devasa zararı tespit ettik. Çanakkale köprüsündeki zarar 281 milyon euro olarak hesaplandı. Kamuoyuyla paylaşılan verilere dayanarak, bu zararın büyüklüğü dikkat çekiyor. Çanakkale Köprüsü, AKP'nin Yap-İşlet-Devret modeli ile inşa edildi ve araç geçiş garantisi olan projelerden biri olarak Mart 2022'de açıldı. Köprüden geçiş garantisi sadece bir günde 45,000 araç için geçerli, ancak 2023-2024 bir yıllık dönemde Çanakkale köprüsünü geçen araç sayısı 5 milyon bile değil. Bu durum, projenin ekonomik sürdürülebilirliği açısından önemli bir sorun teşkil ediyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 100
+**Retention**: 54.95%
+
+Ulaştırma Bakanlığının planında % 180 sapma var. Garanti edilen araç geçiş ücreti, Avrupa Birliği'ndeki enflasyon farkı ile her yıl artıyor. Bu durum, hazineye bir yıllık zararı 281 milyon euro olarak yansıyor. Çanakkale Köprüsü'nün kamuya devrine daha 10 yıl var. E hayat pahalılığı ve düşen alım gücü, vatandaşların kredi kartlarına yönelmesine neden oluyor. Kredi kartı borcu, 2024 yılının ilk 6 ayında 1 milyondan fazla kişinin icralık olmasına yol açtı. İktidarın kötü ekonomik politikaları nedeniyle vatandaşların borcu hızla büyüyor. Alım gücü düştükçe, mevcut gelirler yeterli gelmeyince kredi kartlarına yüklenme artıyor. Bu yıl ocak-temmuz döneminde 642 bin 159 kişi bireysel kredi kullanmış durumda.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 71
+**Retention**: 45.81%
+
+Beşer bin TL'lik ödeme zorunluluğu gelecek, bu cezalar her yıl yeniden değerleme oranında arttırılacak. Gelir idaresinin hazırladığı bir başka taslağa göre, 7 000 liranın üzerindeki ödemeleri bankalar aracılığıyla yapma zorunluluğu getiriliyor. Bu düzenlemeler, ekonomik faaliyetlerin kaydını tutmayı ve vergi gelirlerini artırmayı hedefliyor. Elden ödeme yapanlar, eğer 5 iş günü içinde kendiliğinden idareye başvurursa özel usulsüzlük cezası kesilmeyecek. Bu durum, hem kiracıların hem de ev sahiplerinin mali yükümlülüklerini etkileyen önemli bir gelişme.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 71
+**Retention**: 100.00%
+
+500 TL'den başlayan fiyatlar ve Peşin fiyatına 6 taksit fırsatıyla evlerinize geliyor eticaret
+nedir Bence ikas eticaret siteni sık diye açmaktır ikas tek ekrandan tüm dünyaya satış yap
+satışlarının katlanarak artmasıdır ikas 724 yanında e ticarete ikla baş Palas İstanbul beylerbey
+denizin ve yeşilin kucaklaştığı bir atmosferde huz ve keyif dolu bir yaşamın kapıların arayacak
+daireleriniz siyor İstanbul'un en Sekin semtlerinden birinde bu benzersiz yaşam deneyimine davet
+ediyoruz Pal istanbul com
+
+================================================================================
+

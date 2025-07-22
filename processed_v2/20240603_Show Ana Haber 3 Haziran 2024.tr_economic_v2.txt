@@ -1,0 +1,75 @@
+# Economic Content from: 20240603_Show Ana Haber 3 Haziran 2024.tr.txt
+# Processed: 2025-07-22T17:13:51.874434
+# Original: 2622 words → Filtered: 662 words (25.25% retention)
+# Economic segments: 3
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 128
+**Retention**: 44.76%
+
+Türkiye İstatistik Kurumu, aylık ve yıllık enflasyon rakamlarını açıkladı. Beklentilerin biraz üzerinde çıkan enflasyon sonrası Hazine ve Maliye Bakanı Mehmet Şimşek'ten dikkat çeken açıklamalar geldi. Enflasyon sorununu mutlaka çözeceğiz, dedi. Aylık enflasyon %3,37, yıllık enflasyon ise %75,45 oldu. Bakan Şimşek, enflasyonla mücadelede geçiş döneminin tamamlandığını ve dezenflasyon sürecinin başladığını belirtti. Enflasyonda kalıcı düşüşün Haziran ayında başlayacağını vurgulayan Şimşek, fiyat istikrarına ulaşmanın sabır ve zaman gerektirdiğini ifade etti. 
+
+Mayıs ayının enflasyon rakamlarının açıklanmasıyla memur ve emekli yeni maaşlarını hesaplamaya başladı. SSK ve Bağkur emeklisine ufukta en az %25'lik zam görünüyor. Rakamlar, memur maaşları için de önemli bir ipucu verdi. Garanti tahminlere göre, SSK ve Bağkur emeklisi Temmuz ayında %25 - %26 seviyesinde bir zam alacak. Memurların şimdiden %17,3'lük zam alması bekleniyor ve tahminlere göre Temmuz'da %21 seviyesinde zam alacaklar.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 98
+**Retention**: 100.00%
+
+000 Lira ödedi Usta evin içini yıkıp döktü ama aradan aylar geçmesine rağmen ne kapı
+ne dolap yerine takılmayın Ev sahibi kadın adeta şantiyede yaşamaya başladı bana Evin işi bitti
+eşyanı getirebilirsin dediler her yer inşaat halinde daha İş bitmedi karşı taraf yalan söylüyor Siz
+Yalan mı söylüyorsunuz hanfendi Hayır hayır evi ik aydaa tadile etmeyi vadetti iddiaya göre binlerce
+lirayı cebine indirdi talihsiz ev sahibinin eşi duruma kızınca genç kadın şantiyeye dönen evde adeta
+mahsur kaldı halletmeden dönme dedi Muğla'da yaşayan Elif Yıldırım Ankara'daki evini tadile ettirmek
+için Şubat ayında bir ustayla anlaştı ve ona tam 165
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 436
+**Retention**: 100.00%
+
+000 Lira ödedi ama parayı ödeyene kadar Evin
+bir kısmını tadile etmeye başlayan Usta aradan aylar geçtiği halde evi işte bakın böyle bıraktı bana
+Nisanın 10'unda bütün her şey bitecek diye söz verdi ama gördüğünüz gibi Hiçbir şey bitmedi
+aradığımız ustanın telefonu kapalıydı onun işlerini yapan bir başka ustay İsa kendisinin de alacaklı
+olduğunu söyledi benim de şu anda orada 14 milyar alacağım bakiye duruyor en büyük suçta af abi suçu
+şu işi 45 gündür teslim etmemişim hep Cuma günü yapacağım dedi ama hangi cuma olduğu bir türlü
+çıkmıyor ortaya geri kalan işleri de cuma gününe kadar toplayacak diye biliyorum ben Elif hanım 22
+gündür adeta evde yaşam mücadelesi veriyor çünkü sadece bir piknik tüpü var onunla yemek yapabiliyor
+bazen yemeğini komşularından alıyor Bazen onlar da gidiyor ama bir türlü Muğla'daki evine de
+dönemiyor Çünkü son dönemde artık kocasıyla da arası bozulmaya başladı bu yüzden eşim Sen buldun
+Nasıl halledersin hallet diyor bana usta hakkında suç duyurusunda bulunmaya hazırlanan Yıldırım
+kendisini de hatalı buluyor parasını vermekti benim en büyük hatam ikinci el bir otomobil aldı ve
+sürekli arıza verince eree götürdü önü dizel arkası benzini çıktı astarı yüzünden pahalıya geldi
+yetmezmiş gibi araçla patlama riski de var dizel araç diye parça aldım orijinal parçalıyorum yan
+Sanay alıyorum Her türlü parça alıyorum olmuyor en son Usta fark etti araba ekleme ama dizel arabama
+arka tarafını benzinli eklemişler 4 ay önce ikinci el bir otomobil satın aldı ama sanayiden çıkamaz
+oldu öyle ki son ekspertiz raporunda aracın önü dizel arkası benzinli çıktı patlama riski de var
+yani yanma riski akıl alır gibi değil ama sonunda bu da oldu Üstelik aracın her an patlama yanma
+riski vardı Sonuçta içindeki Can çoluğunu çocuğunu taşıyor önü 2011 arkası 2012 gözüküyor bakın bir
+merdiven altı ekspertiz firması hataya göz yumunca Harun Bey'in başına neler geldi şubatın ikisinde
+Ümraniye Ataşehir'den bir araç aldım Kendi aracımı verdim üzerine para verip bu aracı satın aldım
+araç istop ediyor çalışmıyor şamandıra kapağıyla ilgili bir sorun çıktı bakın Biz Eker değiliz ama o
+kadar belirgin ki aracın ekleme olduğu Çıplak gözle çok net anlaşılıyor bakın şöyle gözüküyor
+eklenmiş burada İlginç olan ekpertiz firmasının vatandaşa söylememesi parayı alıyor gözünü de şöyle
+kapatıyor gittiğim ekte de sordum mekanik sorunları var mı dedim şasesinde direklerinde Herhangi bir
+sorun var mı dedim Yok dedi ama ortadan kaynaklı bariz bakın öyle bir makyaj yapmışlar Öyle
+süslemişler ki aracı yakıt kapağını bile düşünmüşler her mazot aldığım zaman ben zaten sorun
+yaşıyordum zor giriyordum azot pompaları bu yakıt deposu Bu aracın değil depo zaten yakıt kaçırıyor
+yarın öbür gün bu aracın altına en ufak gelecek kıvılcımda bu araç yanarak Alev alabilir araç zaten
+600
+
+================================================================================
+

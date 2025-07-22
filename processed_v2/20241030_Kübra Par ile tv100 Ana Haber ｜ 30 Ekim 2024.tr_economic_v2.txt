@@ -1,0 +1,40 @@
+# Economic Content from: 20241030_Kübra Par ile tv100 Ana Haber ｜ 30 Ekim 2024.tr.txt
+# Processed: 2025-07-22T18:44:28.251888
+# Original: 9766 words → Filtered: 347 words (3.55% retention)
+# Economic segments: 3
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 90
+**Retention**: 82.57%
+
+Gıda fiyatları 100 liraya dolan bir sepet 987 liraya bugün itibariyle dolmaktadır. Gıda fiyatları uçuşa geçti; yapılan bir araştırma, artıştan en çok sebzede tarlada 2022 yılında üretilen bir ürünün, bugün yaklaşık 3 kat fazla yakıt gideri ile karşılaştığını göstermektedir. Birleşik Kamu İş Konfederasyonu, halkın en fazla tükettiği ürünlerden oluşan bir gıda sepetini esas alarak gıda fiyatları endeksinin Ekim 2024 sonuçlarını açıkladı. Son 12 ayda gıda fiyatları % 5,1 oranında artış göstermiştir. Yaz aylarında nispeten düşük seyreden gıda fiyatları yeniden yükselişe geçti; bir önceki aya göre artış Ekim ayında %10 olmuştur.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 191
+**Retention**: 81.28%
+
+6 oldu 10 aylık dönemde % 47,25 bu5 oranında artış kaydedildi. Sebzede yıllık enflasyon % 203 oranında arttı; domates, biber ve patlıcan fiyatları ise adeta cep yakmaya başladı. Tarladan çıkıp üreticiye gelene kadar aradaki o yaklaşık 45 basamak halinde işleyen komisyoncular, halkın önüne gelen sebze fiyatlarını bu şekilde yüksek tutmaktadır. Bu yıl Ekim ayında geçen yılın aynı ayına göre ekmek, un, bulgur ve makarna fiyatlarında % 408, Et Balık fiyatlarında % 35,4, süt ve süt ürünleriyle yumurta fiyatlarında % 35,6 oranlarında artış oldu. Vatandaş, birkaç ay önce cebine giren parayla aldığı ürünleri bugün bu şartlarda alamamaktadır. 
+
+Ocak 2025 asgari ücret zam oranı 2 ay sonra belli olacak ama rakamlar şimdiden konuşulmaya başladı. Sadece asgari ücretliler değil, emekliler de 3 Ocak'ta yapılacak zam ne olacak diye bekliyor. Tahminler % 13 ile % 116 arasında değişiyor, yani emekliye pek umut yok. Orta vadeli programda % 41,5 olan enflasyon hedefinin altında bir zam mı yapılacak? Net asgari ücret, yaklaşık 2 ay sonra asgari ücretlilerin maaşlarına ne kadar zam yapılacağını öğrenmiş olacaklar. Ancak bir yandan da emekliler, emekli maaşlarına hangi oranda zam yapılacağını merak ediyor. Kulislerde % 13 ile % 166 arasında bir rakamdan bahsediliyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 66
+**Retention**: 79.52%
+
+500 lir şu anda en düşük emekli maaşının 15 000 liranın altında olmayacağını düşünüyorum. Ancak, asgari ücretle karşılaştırdığımızda az değil. Şimdi bakın, bir emekli düşünün; 15 000 lira alıyordu, 2024 yılbaşında ay sonunda % 24,7'lik bir zam aldı ve maaşı 18 871 liraya geldi. Daha sonra, yıl sonunda da % 115 civarında bir zam aldığını düşündüğümüzde, bu durum emeklilerin alım gücünü etkileyen önemli bir ekonomik gelişme.
+
+================================================================================
+

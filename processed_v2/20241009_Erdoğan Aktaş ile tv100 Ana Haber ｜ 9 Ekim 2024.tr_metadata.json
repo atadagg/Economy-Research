@@ -1,0 +1,85 @@
+{
+  "file_path": "news/TV100/20241009_Erdoğan Aktaş ile tv100 Ana Haber ｜ 9 Ekim 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T18:27:07.876308",
+  "original_word_count": 8586,
+  "filtered_word_count": 206,
+  "retention_ratio": 0.023992546005124623,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "İyi akşamlar tv100 an haberle birlikteyiz",
+      "description": "\"İyi akşamlar tv100 an haberle birlikteyiz\" - The presenter introduces the program and sets the stage for the news content, mentioning significant developments both in Turkey and globally.",
+      "end_pos": 54
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 54,
+      "start_sentence": "gerek Türkiye'de gerekse dünyada çok önemli gelişmeler var",
+      "description": "\"gerek Türkiye'de gerekse dünyada çok önemli gelişmeler var\" - This section contains the main news stories, including the ongoing war, the evacuation of Turkish citizens from Beirut, and discussions surrounding violence against women and children.",
+      "end_pos": 97
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 97,
+      "start_sentence": "İsrail'in saldırılarını yoğunlaştırdığı Lübnan'da Türk vatandaşlarının tahliye operasyonun da başladığını söylemiştik",
+      "description": "\"İsrail'in saldırılarını yoğunlaştırdığı Lübnan'da Türk vatandaşlarının tahliye operasyonun da başladığını söylemiştik\" - Continuation of the news segment detailing the evacuation operation, including the number of people involved and the ongoing dangers they face.",
+      "end_pos": 666
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 666,
+      "start_sentence": "Lübnan'daki büyük tahliyeden çok özel görüntüler",
+      "description": "\"Lübnan'daki büyük tahliyeden çok özel görüntüler\" - A brief transition that introduces specific footage related to the evacuation operation in Lebanon, signaling a shift to detailed reporting on that story.",
+      "end_pos": 1332
+    },
+    {
+      "type": "5. **TRANSITION**",
+      "start_pos": 1332,
+      "start_sentence": "Ama korkuyoruz yani",
+      "description": "\"Ama korkuyoruz yani\" - A transition that reflects the emotional state of the evacuees, leading into more personal accounts and experiences related to the evacuation.",
+      "end_pos": 1622
+    },
+    {
+      "type": "6. **NEWS**",
+      "start_pos": 1622,
+      "start_sentence": "Milli Savunma Bakanlığı ve Dışişleri Bakanlığı harekete geçti",
+      "description": "\"Milli Savunma Bakanlığı ve Dışişleri Bakanlığı harekete geçti\" - Further news content discussing the actions taken by the Turkish government in response to the situation in Lebanon, including the deployment of naval vessels for evacuation.",
+      "end_pos": 1720
+    },
+    {
+      "type": "7. **OUTRO**",
+      "start_pos": 1720,
+      "start_sentence": "İşte o insanlar O gemiyi bekliyor",
+      "description": "\"İşte o insanlar O gemiyi bekliyor\" - The closing remarks that summarize the situation and provide a sense of conclusion to the news segment, although it may lead into further discussion or reporting.",
+      "end_pos": 61266
+    }
+  ],
+  "news_segments_count": 8,
+  "economic_segments_count": 2,
+  "economic_segments": [
+    {
+      "segment_id": "97_0",
+      "method": "hybrid_fallback",
+      "confidence": 0.6,
+      "original_length": 79,
+      "filtered_length": 79,
+      "retention_ratio": 1.0,
+      "section_description": "\"İsrail'in saldırılarını yoğunlaştırdığı Lübnan'da Türk vatandaşlarının tahliye operasyonun da başladığını söylemiştik\" - Continuation of the news segment detailing the evacuation operation, including the number of people involved and the ongoing dangers they face."
+    },
+    {
+      "segment_id": "1720_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 199,
+      "filtered_length": 127,
+      "retention_ratio": 0.6381909547738693,
+      "section_description": "\"İşte o insanlar O gemiyi bekliyor\" - The closing remarks that summarize the situation and provide a sense of conclusion to the news segment, although it may lead into further discussion or reporting."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

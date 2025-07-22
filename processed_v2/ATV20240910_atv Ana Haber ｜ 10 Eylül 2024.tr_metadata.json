@@ -1,0 +1,75 @@
+{
+  "file_path": "news/ATV/ATV20240910_atv Ana Haber ｜ 10 Eylül 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T16:13:01.664102",
+  "original_word_count": 4722,
+  "filtered_word_count": 347,
+  "retention_ratio": 0.0734858110969928,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "haberi merkezinden Atv Haber merkezinden günün gelişmeleri ile karşınızdayız",
+      "description": "\"haberi merkezinden Atv Haber merkezinden günün gelişmeleri ile karşınızdayız\" - This section serves as the opening of the broadcast, where the presenter introduces the program and sets the stage for the news content.",
+      "end_pos": 62
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 62,
+      "start_sentence": "Bugün 10 eylül 2024 salı günün manşetinde yine Diyarbakır'da katledilen 8 yaşındaki Narin var",
+      "description": "\"Bugün 10 eylül 2024 salı günün manşetinde yine Diyarbakır'da katledilen 8 yaşındaki Narin var\" - This section contains the main news content, detailing the tragic story of an 8-year-old girl named Narin who was murdered, along with updates on the investigation and related events.",
+      "end_pos": 1177
+    },
+    {
+      "type": "3. **OUTRO**",
+      "start_pos": 1177,
+      "start_sentence": "Allah bırakmasın onun hakkını mekı cennet olsun inşallah",
+      "description": "\"Allah bırakmasın onun hakkını mekı cennet olsun inşallah\" - This section includes closing remarks, expressing condolences and concluding the news segment.",
+      "end_pos": 33710
+    }
+  ],
+  "news_segments_count": 11,
+  "economic_segments_count": 4,
+  "economic_segments": [
+    {
+      "segment_id": "62_1",
+      "method": "pattern_validated",
+      "confidence": 0.75,
+      "original_length": 99,
+      "filtered_length": 99,
+      "retention_ratio": 1.0,
+      "section_description": "\"Bugün 10 eylül 2024 salı günün manşetinde yine Diyarbakır'da katledilen 8 yaşındaki Narin var\" - This section contains the main news content, detailing the tragic story of an 8-year-old girl named Narin who was murdered, along with updates on the investigation and related events."
+    },
+    {
+      "segment_id": "1177_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 130,
+      "filtered_length": 130,
+      "retention_ratio": 1.0,
+      "section_description": "\"Allah bırakmasın onun hakkını mekı cennet olsun inşallah\" - This section includes closing remarks, expressing condolences and concluding the news segment."
+    },
+    {
+      "segment_id": "1177_5",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 153,
+      "filtered_length": 52,
+      "retention_ratio": 0.33986928104575165,
+      "section_description": "\"Allah bırakmasın onun hakkını mekı cennet olsun inşallah\" - This section includes closing remarks, expressing condolences and concluding the news segment."
+    },
+    {
+      "segment_id": "1177_6",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 195,
+      "filtered_length": 66,
+      "retention_ratio": 0.3384615384615385,
+      "section_description": "\"Allah bırakmasın onun hakkını mekı cennet olsun inşallah\" - This section includes closing remarks, expressing condolences and concluding the news segment."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

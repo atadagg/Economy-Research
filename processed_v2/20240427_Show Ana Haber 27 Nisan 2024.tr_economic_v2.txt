@@ -1,0 +1,27 @@
+# Economic Content from: 20240427_Show Ana Haber 27 Nisan 2024.tr.txt
+# Processed: 2025-07-22T17:14:20.856321
+# Original: 3035 words → Filtered: 157 words (5.17% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 81
+**Retention**: 52.26%
+
+Aylık ödemesi 24,000 liradan başlıyor, 34,000 liraya kadar çıkıyor. Faiz oranları gündemden düşmüyor; özellikle herkesin gözü kredi faiz oranlarında. Son bir haftada ihtiyaç ve konut kredisi faizleri az da olsa düştü, ama taşıt kredilerinde durum tam tersi. Taşıt kredisi faiz oranları son 22 yılın zirvesinde. Son bir haftada taşıt kredisi faiz oranı %45,90'a çıktı; bu neredeyse %112'lik bir artış demek. Bu oranlarda taşıt almak çok zor. Maksimum 400,000 liralık taşıt kredisi çekebiliyorsunuz; 36 aylık vadeyle çektiğinizde aylık ödeme tutarı 24,000 lira.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 76
+**Retention**: 41.99%
+
+Geçen yıl düğün sektörü piyasaya 300 milyar liralık bir katkı sağlamıştı. Bu yıl da Türkiye Esnaf ve Sanatkarları Konfederasyonu minimum düğün maliyetini açıkladı ve bu maliyet tam 500.000 Lira olarak belirlendi. Düğün masraflarının artması, gençlerin evlilik kararlarını ertelemesine neden oluyor. Evliliklerin azalmasının arkasında, ekonomik koşulların etkisi olduğu düşünülüyor. Düğünlerdeki en büyük masraf altın takılar ve bu nedenle insanlar alışverişlerini minimum seviyede tutmaya çalışıyor. Şu an bir alyans ve birkaç bilezik almak bile önemli bir maliyet oluşturuyor.
+
+================================================================================
+

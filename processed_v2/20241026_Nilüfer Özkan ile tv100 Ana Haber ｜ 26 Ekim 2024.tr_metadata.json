@@ -1,0 +1,62 @@
+{
+  "file_path": "news/TV100/20241026_Nilüfer Özkan ile tv100 Ana Haber ｜ 26 Ekim 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T18:04:09.763610",
+  "original_word_count": 5952,
+  "filtered_word_count": 74,
+  "retention_ratio": 0.01243279569892473,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "TV1 an Haber'e Hoş geldiniz sevgili izleyenler",
+      "description": "\"TV1 an Haber'e Hoş geldiniz sevgili izleyenler\" - The opening segment where the presenter, Nilifer Özkan, welcomes viewers and introduces the program, indicating the start of the news broadcast.",
+      "end_pos": 99
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 99,
+      "start_sentence": "Cumhurbaşkanı Erdoğan Hatay'da deprem konutları teslim töreninde konuştu",
+      "description": "\"Cumhurbaşkanı Erdoğan Hatay'da deprem konutları teslim töreninde konuştu\" - The main news content begins with a report on President Erdoğan's speech at a housing delivery ceremony in Hatay, covering various political topics and statements.",
+      "end_pos": 1367
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 1367,
+      "start_sentence": "Evet sevgili izleyenler MHP Genel Başkanı Devlet Bahçeli'nin de önemli mesajları oldu",
+      "description": "\"Evet sevgili izleyenler MHP Genel Başkanı Devlet Bahçeli'nin de önemli mesajları oldu\" - A brief transition indicating a shift to another news story about MHP General Chairman Devlet Bahçeli's important messages, signaling a change in focus within the news segment.",
+      "end_pos": 1460
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1460,
+      "start_sentence": "hem Öcalan mesajı sonrası ilk kez konuşmuş oldu",
+      "description": "\"hem Öcalan mesajı sonrası ilk kez konuşmuş oldu\" - Continuation of the news segment detailing Bahçeli's comments and the context of his speech, further elaborating on political issues.",
+      "end_pos": 1951
+    },
+    {
+      "type": "5. **OUTRO**",
+      "start_pos": 1951,
+      "start_sentence": "kanlı mesajı Eee ayaklar altında kanlı me",
+      "description": "\"kanlı mesajı Eee ayaklar altında kanlı me\" - The closing remarks of the news segment, summarizing the key points discussed and signaling the end of the program.",
+      "end_pos": 43123
+    }
+  ],
+  "news_segments_count": 6,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "1951_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 154,
+      "filtered_length": 74,
+      "retention_ratio": 0.4805194805194805,
+      "section_description": "\"kanlı mesajı Eee ayaklar altında kanlı me\" - The closing remarks of the news segment, summarizing the key points discussed and signaling the end of the program."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

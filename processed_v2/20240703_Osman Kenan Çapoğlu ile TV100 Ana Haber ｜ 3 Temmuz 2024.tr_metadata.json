@@ -1,0 +1,169 @@
+{
+  "file_path": "news/TV100/20240703_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 3 Temmuz 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T17:56:18.763662",
+  "original_word_count": 8336,
+  "filtered_word_count": 970,
+  "retention_ratio": 0.11636276391554702,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "Çarşamba hafta ortasında TV1 an haberde sizlerle birlikteyiz...",
+      "description": "\"Çarşamba hafta ortasında TV1 an haberde sizlerle birlikteyiz...\" - This section serves as the opening of the broadcast, where the presenter introduces the program and sets the stage for the news content to follow.",
+      "end_pos": 0
+    },
+    {
+      "type": "- **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "Çarşamba hafta ortasında TV1 an haberde sizlerle birlikteyiz...",
+      "description": "\"Çarşamba hafta ortasında TV1 an haberde sizlerle birlikteyiz...\" - Opening remarks and program introduction.",
+      "end_pos": 100
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 100,
+      "start_sentence": "Bugün Yüzümüz Bir farklı gülüyor Çünkü dün akşam A milli futbol takımımız...",
+      "description": "\"Bugün Yüzümüz Bir farklı gülüyor Çünkü dün akşam A milli futbol takımımız...\" - This section contains the main news stories, including the victory of the national football team, details about UEFA investigations, and updates on public sector salary adjustments.",
+      "end_pos": 100
+    },
+    {
+      "type": "- **NEWS**",
+      "start_pos": 100,
+      "start_sentence": "Bugün Yüzümüz Bir farklı gülüyor Çünkü dün akşam A milli futbol takımımız...",
+      "description": "\"Bugün Yüzümüz Bir farklı gülüyor Çünkü dün akşam A milli futbol takımımız...\" - Main news stories including sports and political updates.",
+      "end_pos": 678
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 678,
+      "start_sentence": "Tabii memur ve emeklinin maaşları Nereden Nereye gelecek zam oranları belli oldu...",
+      "description": "\"Tabii memur ve emeklinin maaşları Nereden Nereye gelecek zam oranları belli oldu...\" - This brief transition indicates a shift from discussing the football match to the topic of salary adjustments for civil servants and retirees.",
+      "end_pos": 678
+    },
+    {
+      "type": "- **TRANSITION**",
+      "start_pos": 678,
+      "start_sentence": "Tabii memur ve emeklinin maaşları Nereden Nereye gelecek zam oranları belli oldu...",
+      "description": "\"Tabii memur ve emeklinin maaşları Nereden Nereye gelecek zam oranları belli oldu...\" - Transition between news topics.",
+      "end_pos": 1078
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1078,
+      "start_sentence": "Cumhurbaşkanı Erdoğan Astana'da Rus Lider putin'le bir görüşme gerçekleştirdi...",
+      "description": "\"Cumhurbaşkanı Erdoğan Astana'da Rus Lider putin'le bir görüşme gerçekleştirdi...\" - This section continues with more news content, focusing on political developments, including meetings between President Erdoğan and international leaders.",
+      "end_pos": 1078
+    },
+    {
+      "type": "- **NEWS**",
+      "start_pos": 1078,
+      "start_sentence": "Cumhurbaşkanı Erdoğan Astana'da Rus Lider putin'le bir görüşme gerçekleştirdi...",
+      "description": "\"Cumhurbaşkanı Erdoğan Astana'da Rus Lider putin'le bir görüşme gerçekleştirdi...\" - Continued news content on political matters.",
+      "end_pos": 1843
+    },
+    {
+      "type": "5. **TRANSITION**",
+      "start_pos": 1843,
+      "start_sentence": "Tabii şu anda birlikte yapmakta olduğumuz çok önemli bir adım var Akkuyu enerji santrali...",
+      "description": "\"Tabii şu anda birlikte yapmakta olduğumuz çok önemli bir adım var Akkuyu enerji santrali...\" - This transition leads into further details about ongoing projects, specifically mentioning the Akkuyu nuclear power plant.",
+      "end_pos": 1935
+    },
+    {
+      "type": "6. **NEWS**",
+      "start_pos": 1935,
+      "start_sentence": "Tabii bü...",
+      "description": "\"Tabii bü...\" - This section continues with additional news content related to the Akkuyu energy project and other relevant updates.",
+      "end_pos": 59135
+    }
+  ],
+  "news_segments_count": 15,
+  "economic_segments_count": 9,
+  "economic_segments": [
+    {
+      "segment_id": "678_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 58,
+      "filtered_length": 43,
+      "retention_ratio": 0.7413793103448276,
+      "section_description": "\"Tabii memur ve emeklinin maaşları Nereden Nereye gelecek zam oranları belli oldu...\" - Transition between news topics."
+    },
+    {
+      "segment_id": "1935_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 286,
+      "filtered_length": 216,
+      "retention_ratio": 0.7552447552447552,
+      "section_description": "\"Tabii bü...\" - This section continues with additional news content related to the Akkuyu energy project and other relevant updates."
+    },
+    {
+      "segment_id": "1935_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 160,
+      "filtered_length": 96,
+      "retention_ratio": 0.6,
+      "section_description": "\"Tabii bü...\" - This section continues with additional news content related to the Akkuyu energy project and other relevant updates."
+    },
+    {
+      "segment_id": "1935_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 111,
+      "filtered_length": 55,
+      "retention_ratio": 0.4954954954954955,
+      "section_description": "\"Tabii bü...\" - This section continues with additional news content related to the Akkuyu energy project and other relevant updates."
+    },
+    {
+      "segment_id": "1935_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 198,
+      "filtered_length": 109,
+      "retention_ratio": 0.5505050505050505,
+      "section_description": "\"Tabii bü...\" - This section continues with additional news content related to the Akkuyu energy project and other relevant updates."
+    },
+    {
+      "segment_id": "1935_5",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 193,
+      "filtered_length": 194,
+      "retention_ratio": 1.005181347150259,
+      "section_description": "\"Tabii bü...\" - This section continues with additional news content related to the Akkuyu energy project and other relevant updates."
+    },
+    {
+      "segment_id": "1935_6",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 186,
+      "filtered_length": 110,
+      "retention_ratio": 0.5913978494623656,
+      "section_description": "\"Tabii bü...\" - This section continues with additional news content related to the Akkuyu energy project and other relevant updates."
+    },
+    {
+      "segment_id": "1935_7",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 119,
+      "filtered_length": 71,
+      "retention_ratio": 0.5966386554621849,
+      "section_description": "\"Tabii bü...\" - This section continues with additional news content related to the Akkuyu energy project and other relevant updates."
+    },
+    {
+      "segment_id": "1935_10",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 76,
+      "filtered_length": 76,
+      "retention_ratio": 1.0,
+      "section_description": "\"Tabii bü...\" - This section continues with additional news content related to the Akkuyu energy project and other relevant updates."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

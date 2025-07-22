@@ -1,0 +1,84 @@
+{
+  "file_path": "news/Halk/20240912_Ece Üner ile Halk Ana Haber (12 Eylül 2024).tr.txt",
+  "processing_timestamp": "2025-07-22T16:58:50.875749",
+  "original_word_count": 12603,
+  "filtered_word_count": 374,
+  "retention_ratio": 0.02967547409346981,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "halkan ana Haber'e Hoş geldiniz sefalar getirdiniz...",
+      "description": "\"halkan ana Haber'e Hoş geldiniz sefalar getirdiniz...\" - The opening segment where the presenter welcomes viewers to the program and introduces the theme of the broadcast, setting a somber tone regarding the news to be discussed.",
+      "end_pos": 96
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 96,
+      "start_sentence": "çünkü tımarhanede bugün 2 yaşında bir bebek daha bebek çocuk...",
+      "description": "\"çünkü tımarhanede bugün 2 yaşında bir bebek daha bebek çocuk...\" - The main news content begins here, discussing various serious issues including child abuse, political statements, and societal problems. This section contains multiple news stories interwoven with commentary.",
+      "end_pos": 1870
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 1870,
+      "start_sentence": "şimdi hemen hızlıca canlı yayınlarımıza geçe...",
+      "description": "\"şimdi hemen hızlıca canlı yayınlarımıza geçe...\" - A brief transition indicating a shift to live broadcasts or reports, suggesting a change in focus or segment within the news content.",
+      "end_pos": 85815
+    }
+  ],
+  "news_segments_count": 16,
+  "economic_segments_count": 5,
+  "economic_segments": [
+    {
+      "segment_id": "1870_7",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 167,
+      "filtered_length": 70,
+      "retention_ratio": 0.41916167664670656,
+      "section_description": "\"şimdi hemen hızlıca canlı yayınlarımıza geçe...\" - A brief transition indicating a shift to live broadcasts or reports, suggesting a change in focus or segment within the news content."
+    },
+    {
+      "segment_id": "1870_8",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 130,
+      "filtered_length": 64,
+      "retention_ratio": 0.49230769230769234,
+      "section_description": "\"şimdi hemen hızlıca canlı yayınlarımıza geçe...\" - A brief transition indicating a shift to live broadcasts or reports, suggesting a change in focus or segment within the news content."
+    },
+    {
+      "segment_id": "1870_9",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 100,
+      "filtered_length": 50,
+      "retention_ratio": 0.5,
+      "section_description": "\"şimdi hemen hızlıca canlı yayınlarımıza geçe...\" - A brief transition indicating a shift to live broadcasts or reports, suggesting a change in focus or segment within the news content."
+    },
+    {
+      "segment_id": "1870_11",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 252,
+      "filtered_length": 107,
+      "retention_ratio": 0.4246031746031746,
+      "section_description": "\"şimdi hemen hızlıca canlı yayınlarımıza geçe...\" - A brief transition indicating a shift to live broadcasts or reports, suggesting a change in focus or segment within the news content."
+    },
+    {
+      "segment_id": "1870_13",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 159,
+      "filtered_length": 83,
+      "retention_ratio": 0.5220125786163522,
+      "section_description": "\"şimdi hemen hızlıca canlı yayınlarımıza geçe...\" - A brief transition indicating a shift to live broadcasts or reports, suggesting a change in focus or segment within the news content."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

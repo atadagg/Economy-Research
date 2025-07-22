@@ -1,0 +1,16 @@
+# Economic Content from: 20240622_Show Ana Haber 22 Haziran 2024.tr.txt
+# Processed: 2025-07-22T17:36:54.530159
+# Original: 2101 words → Filtered: 51 words (2.43% retention)
+# Economic segments: 1
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 51
+**Retention**: 42.50%
+
+Bayramla birlikte tatil sezonu açıldı ve oteller doldu taştı. Yatların günlük kiralama fiyatları 4,500 Euro'ya kadar çıkabiliyor, bu da yaklaşık 158,000 lira ediyor. Bu fiyatlar, büyük organizasyonlarda değişiklik gösterebiliyor. Yerli turist sayısının düşük olduğu, yabancı turistlerin ise Rus ağırlıklı olduğu belirtiliyor. Bu durum, turizm sektöründeki ekonomik durumu etkileyen önemli bir faktör.
+
+================================================================================
+

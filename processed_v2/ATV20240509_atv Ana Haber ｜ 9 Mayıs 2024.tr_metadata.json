@@ -1,0 +1,48 @@
+{
+  "file_path": "news/ATV/ATV20240509_atv Ana Haber ｜ 9 Mayıs 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T16:43:49.564520",
+  "original_word_count": 4819,
+  "filtered_word_count": 147,
+  "retention_ratio": 0.03050425399460469,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "Haberin merkezinden Atv Haber merkezinden İyi akşamlar",
+      "description": "\"Haberin merkezinden Atv Haber merkezinden İyi akşamlar\" - The program begins with a greeting and introduction from the presenter, setting the stage for the news broadcast.",
+      "end_pos": 74
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 74,
+      "start_sentence": "Cumhurbaşkanı Erdoğan'la CHP lideri Özgür Özel Arasında 2 Mayıs'ta AK Parti Genel merkezinde gerçekleşen görüşmenin yankıları sürüyor",
+      "description": "\"Cumhurbaşkanı Erdoğan'la CHP lideri Özgür Özel Arasında 2 Mayıs'ta AK Parti Genel merkezinde gerçekleşen görüşmenin yankıları sürüyor\" - The main content of the broadcast focuses on the political meeting between President Erdoğan and CHP leader Özgür Özel, detailing the implications and discussions that took place.",
+      "end_pos": 1820
+    },
+    {
+      "type": "3. **OUTRO**",
+      "start_pos": 1820,
+      "start_sentence": "Bu önemli bir adım özel Siyasette normalleşmeye giden sürecin başladığı o telefon görüşmesini de anlattı bayramda Say",
+      "description": "\"Bu önemli bir adım özel Siyasette normalleşmeye giden sürecin başladığı o telefon görüşmesini de anlattı bayramda Say\" - The closing remarks summarize the significance of the news discussed and provide a farewell to the audience, indicating the end of the program.",
+      "end_pos": 34412
+    }
+  ],
+  "news_segments_count": 7,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "74_0",
+      "method": "pattern_validated",
+      "confidence": 0.75,
+      "original_length": 185,
+      "filtered_length": 147,
+      "retention_ratio": 0.7945945945945946,
+      "section_description": "\"Cumhurbaşkanı Erdoğan'la CHP lideri Özgür Özel Arasında 2 Mayıs'ta AK Parti Genel merkezinde gerçekleşen görüşmenin yankıları sürüyor\" - The main content of the broadcast focuses on the political meeting between President Erdoğan and CHP leader Özgür Özel, detailing the implications and discussions that took place."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

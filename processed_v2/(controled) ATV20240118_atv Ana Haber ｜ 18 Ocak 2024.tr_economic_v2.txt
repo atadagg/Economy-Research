@@ -1,0 +1,59 @@
+# Economic Content from: (controled) ATV20240118_atv Ana Haber ｜ 18 Ocak 2024.tr.txt
+# Processed: 2025-07-22T15:55:17.022937
+# Original: 4562 words → Filtered: 320 words (7.01% retention)
+# Economic segments: 4
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 80
+**Retention**: 51.61%
+
+Özel okullar için erken kayıt dönemi birkaç hafta önce başladı. Veliler, karşılarına çıkarılan fahiş ücret tablosu nedeniyle isyan noktasına geldi. Eğitim için alınan bedeller zaten yüksekken, yemek ücretlerine de %300'den fazla zam eklenince velilerin hesabı şaştı. Bu yıl özel okul ücretlerinde yapılacak artışın yaklaşık %57 olması bekleniyor. Bu oranı az bulan bazı okul yönetimleri, istedikleri fazla ücreti yemek paralarına yansıtmaya başladı. Özel okullardan birinin yeni fiyat tablosuna göre, 1. sınıflarda eğitim ücreti yeni eğitim öğretim yılı için 485.000 TL'ye yükseltildi.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 77
+**Retention**: 47.83%
+
+Özel okullarda yemek ücretleri, günlük 430 lira ile 500 lira arasında değişiyor. Bu durum, ailelerin eğitim masraflarını artırarak ekonomik bir yük oluşturuyor. Özel okullarda standart bir yemek setinin fiyatı ise 110 lira ile 120 lira arasında satılmakta. Ancak bazı okulların belirttiği fiyatlar, 9,000 lira ile 80,000 lira arasında değişiyor ki bu rakamlar oldukça absürt. Öğrencilerin günlük yemek masrafları, aile bütçeleri üzerinde önemli bir etki yaratıyor. Eğitimdeki bu maliyet artışları, genel enflasyon ve yaşam pahalılığı ile de bağlantılı.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 105
+**Retention**: 69.54%
+
+The filtered text focusing on economics, finance, and business is as follows:
+
+Bazı özel okullar yemek ücretini zorunlu tutuyor ama aslında zorunlu değil. Veliler ben bu kadar fahiş bedelli almak istemiyorum diye okula bir e-posta göndersin. Milli Eğitim Bakanlığı devreye girmeli, bunlarla ilgili gerekli önlemler sağlanmalı. 
+
+Bu durum, eğitim harcamalarının aile bütçeleri üzerindeki etkisini artırıyor. Eğitimdeki bu mali yük, ailelerin ekonomik durumunu zorlayabilir. 
+
+Esenyurt'taki site sakinleri yönetime ödeme yaptıklarını ancak faturaların ödenmediği iddiasında bulunuyor. Bu durum, yerel yönetimlerin mali yönetimindeki sorunları gündeme getiriyor. 
+
+Hizmetlerin kesilmesi, özellikle kış aylarında, hanelerin ekonomik durumunu olumsuz etkileyebilir. Bu tür sorunlar, tüketici güvenini sarsabilir ve yerel ekonomiyi olumsuz yönde etkileyebilir.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 58
+**Retention**: 65.17%
+
+The filtered text focusing on economics, finance, and business is as follows:
+
+"Site sakinlerinin elektrik faturalarının ödenmemesi nedeniyle yönetim borcunu ödemeyenler var. Bu durum, site yönetiminin mali yönetimi ve elektrik sağlayan şirketle olan ilişkisini etkiliyor. Elektrik kesintisi, site sakinlerinin mali durumunu zorlaştırıyor. Ödemelerin düzenli yapılmaması, site sakinleri arasında tartışmalara yol açıyor ve bu da yönetimin mali sorumluluklarını sorgulatıyor."
+
+================================================================================
+

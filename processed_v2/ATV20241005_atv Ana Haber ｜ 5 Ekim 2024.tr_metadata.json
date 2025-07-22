@@ -1,0 +1,69 @@
+{
+  "file_path": "news/ATV/ATV20241005_atv Ana Haber ｜ 5 Ekim 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T16:35:32.023553",
+  "original_word_count": 4790,
+  "filtered_word_count": 121,
+  "retention_ratio": 0.025260960334029227,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 23,
+      "start_sentence": "İyi akşamlar Bugün 5 Ekim Cumartesi...",
+      "description": "\"İyi akşamlar Bugün 5 Ekim Cumartesi...\" - The opening segment where the presenter greets the audience and introduces the date and context of the broadcast.",
+      "end_pos": 68
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 68,
+      "start_sentence": "Cumhurbaşkanı Erdoğan AK Parti'nin Türkiye Buluşmaları programında...",
+      "description": "\"Cumhurbaşkanı Erdoğan AK Parti'nin Türkiye Buluşmaları programında...\" - The main news content begins here, discussing President Erdoğan's statements regarding Israel's actions in Gaza and Lebanon, along with Turkey's stance and responses.",
+      "end_pos": 299
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 299,
+      "start_sentence": "dedi büyümesine müsaade ettiğiniz bu yangın...",
+      "description": "\"dedi büyümesine müsaade ettiğiniz bu yangın...\" - This segment serves as a transition within the news story, linking different points made by President Erdoğan about the situation in the region.",
+      "end_pos": 1187
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1187,
+      "start_sentence": "Türkiye olarak tüm imkanlarımızla Gazneli kardeşlerimizin yanında olmayı sürdüreceğiz...",
+      "description": "\"Türkiye olarak tüm imkanlarımızla Gazneli kardeşlerimizin yanında olmayı sürdüreceğiz...\" - Continuation of the news content, focusing on Turkey's commitment to support its allies and the government's position on economic measures against Israel.",
+      "end_pos": 1483
+    },
+    {
+      "type": "5. **TRANSITION**",
+      "start_pos": 1483,
+      "start_sentence": "Akin sinyali verdi AK Parti ruhunu içselleştirmiş...",
+      "description": "\"Akin sinyali verdi AK Parti ruhunu içselleştirmiş...\" - Another transition within the news segment, shifting focus to the internal political dynamics and the party's strategy.",
+      "end_pos": 1772
+    },
+    {
+      "type": "6. **NEWS**",
+      "start_pos": 1772,
+      "start_sentence": "hayat pahalılığı ve enflasyon başta olmak üzere...",
+      "description": "\"hayat pahalılığı ve enflasyon başta olmak üzere...\" - Further continuation of the news content, addressing domestic issues such as inflation and public sentiment towards the opposition.",
+      "end_pos": 34269
+    }
+  ],
+  "news_segments_count": 8,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "1772_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 298,
+      "filtered_length": 121,
+      "retention_ratio": 0.40604026845637586,
+      "section_description": "\"hayat pahalılığı ve enflasyon başta olmak üzere...\" - Further continuation of the news content, addressing domestic issues such as inflation and public sentiment towards the opposition."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

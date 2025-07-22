@@ -1,0 +1,97 @@
+{
+  "file_path": "news/ATV/ATV20241023_atv Ana Haber ｜ 23 Ekim 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T16:23:45.417068",
+  "original_word_count": 6398,
+  "filtered_word_count": 115,
+  "retention_ratio": 0.017974366989684278,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "haber Merkez'den günün gelişmeleri...",
+      "description": "\"haber Merkez'den günün gelişmeleri...\" - The program opens with a greeting and introduction of the date and context, setting the stage for the news content.",
+      "end_pos": 0
+    },
+    {
+      "type": "- **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "haber Merkez'den günün gelişmeleri...",
+      "description": "\"haber Merkez'den günün gelişmeleri...\" - Opening and introduction of the program.",
+      "end_pos": 95
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 95,
+      "start_sentence": "Bu kez Ankara'da gösterdi çirkin yüzümü...",
+      "description": "\"Bu kez Ankara'da gösterdi çirkin yüzümü...\" - The main news story discusses a terrorist attack in Ankara, detailing the events, casualties, and responses from officials, including the Interior Minister and the President.",
+      "end_pos": 95
+    },
+    {
+      "type": "- **NEWS**",
+      "start_pos": 95,
+      "start_sentence": "Bu kez Ankara'da gösterdi çirkin yüzümü...",
+      "description": "\"Bu kez Ankara'da gösterdi çirkin yüzümü...\" - Main news story about the terrorist attack.",
+      "end_pos": 778
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 778,
+      "start_sentence": "birazdan Biz de aktaracağız Atv haber olarak resmi açıklamalar dışında...",
+      "description": "\"birazdan Biz de aktaracağız Atv haber olarak resmi açıklamalar dışında...\" - This section serves as a transition, indicating that more information will follow and emphasizing the responsible reporting of news.",
+      "end_pos": 778
+    },
+    {
+      "type": "- **TRANSITION**",
+      "start_pos": 778,
+      "start_sentence": "birazdan Biz de aktaracağız Atv haber olarak resmi açıklamalar dışında...",
+      "description": "\"birazdan Biz de aktaracağız Atv haber olarak resmi açıklamalar dışında...\" - Transition indicating more information to come.",
+      "end_pos": 1658
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1658,
+      "start_sentence": "Cumhurbaşkanı Erdoğan da bricks zirvesi için...",
+      "description": "\"Cumhurbaşkanı Erdoğan da bricks zirvesi için...\" - This part continues the news coverage, mentioning President Erdoğan's attendance at a summit and his condemnation of the attack, providing further context to the ongoing situation.",
+      "end_pos": 1658
+    },
+    {
+      "type": "- **NEWS**",
+      "start_pos": 1658,
+      "start_sentence": "Cumhurbaşkanı Erdoğan da bricks zirvesi için...",
+      "description": "\"Cumhurbaşkanı Erdoğan da bricks zirvesi için...\" - Continuation of news regarding the President's response.",
+      "end_pos": 1839
+    },
+    {
+      "type": "5. **OUTRO**",
+      "start_pos": 1839,
+      "start_sentence": "detayları birazdan ekrana gelecek önce İçişleri Bakanı Ali Yerlikaya'nın olay yeri...",
+      "description": "\"detayları birazdan ekrana gelecek önce İçişleri Bakanı Ali Yerlikaya'nın olay yeri...\" - The closing remarks hint at upcoming details and conclude the segment, preparing the audience for further updates.",
+      "end_pos": 1839
+    },
+    {
+      "type": "- **OUTRO**",
+      "start_pos": 1839,
+      "start_sentence": "detayları birazdan ekrana gelecek önce İçişleri Bakanı Ali Yerlikaya'nın olay yeri...",
+      "description": "\"detayları birazdan ekrana gelecek önce İçişleri Bakanı Ali Yerlikaya'nın olay yeri...\" - Closing remarks and preparation for further updates.",
+      "end_pos": 45721
+    }
+  ],
+  "news_segments_count": 8,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "1839_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 159,
+      "filtered_length": 115,
+      "retention_ratio": 0.7232704402515723,
+      "section_description": "\"detayları birazdan ekrana gelecek önce İçişleri Bakanı Ali Yerlikaya'nın olay yeri...\" - Closing remarks and preparation for further updates."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

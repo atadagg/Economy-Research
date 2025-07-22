@@ -1,0 +1,95 @@
+# Economic Content from: 20240812_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 12 Ağustos 2024.tr.txt
+# Processed: 2025-07-22T18:41:25.738294
+# Original: 11525 words → Filtered: 642 words (5.57% retention)
+# Economic segments: 7
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 55
+**Retention**: 100.00%
+
+yayınlar olsun şöyle Aslında İçişleri Bakanlığı duyurdu Yaşanan bu gelişmeyi Şırnak'ın sop ilçesinde
+faaliyet gösteren Madencilik İşletmesi servis aracında yolda sey halindeyken bir Patlama meydana
+geldiği ifade edildi ve o patlamada bir kişinin hayatını kaybettiği iki kişinin de ikisi ağır 8 kişi
+kişinin de yaralandığı ifade edildi İçişleri Bakanı Ali Yerlikaya'nın twee etinden öğreniyoruz aynı
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 114
+**Retention**: 64.04%
+
+Uzmanlar, yatırımcıların son günlerde yükselen mevduat faizine yönelip yönelmeyeceğini değerlendiriyor. Mevduat her zaman garantili bir yatırım aracı olarak öne çıkarken, borsa ve altın pazarına da giriş yapılması gerektiği belirtiliyor. Ancak, doğru zamanda doğru yatırım yapmanın önemine dikkat çekiliyor. 
+
+Ortadoğu'daki gerginliklerin altın fiyatları üzerindeki etkisi tartışılırken, şu anda küçük de olsa yukarı yönlü bir hareket gözlemleniyor. Japonya'nın faiz artırmasının ardından, yatırımcıların nakde dönme ihtiyacı arttı. Altın stokunu elinde tutanlar, olası bir bölgesel savaş durumunda altın fiyatlarının yükselebileceğini öngörüyor. 
+
+Amerika'daki seçimlerin ekonomik durumu etkileyeceği ve resesyon dalgasının etkili olacağı düşünülüyor. Borsa da altın gibi değer kaybetti ve bu durum yatırımcıları üzdü. Önümüzdeki günlerde borsada düşüşün devam edip etmeyeceği merak konusu. Küçük yatırımcıların dikkatli olması gerektiği vurgulanıyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 94
+**Retention**: 67.63%
+
+Yatırımcılar borsadan uzak dursunlar ve mevcut yatırımınızı orta ve uzun vadeli planlayarak borsaya veya altın pazarına girmek gerekiyor. Peki altın mı borsa mı ya da mevduat faizi mi yatırımcı şu anda hangisine göz kırpmalı? İşgücü istatistiklerine bakacağız; Türkiye İstatistik Kurumu Haziran ayına ilişkin tabloyu paylaştı. Haziran'da Türkiye'de hem işsizlik oranı hem de işsiz sayısı arttı. İşsiz sayısı 335,000 kişi olarak kaydedildi. Hem işsizlik oranı hem de işsiz sayısı Haziran'da önceki aya göre artış gösterdi. Verileri Türkiye İstatistik Kurumu açıkladı; TUIK'in Haziran ayına ilişkin işgücü istatistiklerine göre işsiz sayısı Mayıs ayına kıyasla 234,000 kişi arttı.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 101
+**Retention**: 53.16%
+
+Üstelik bakanlık geçtiğimiz şubatta şöyle bir tablo ortaya koymuştu. Bakanlığın dağıttığı ders kitapları okutmak zorunlu demişti. Buna rağmen, özel okullar velilerden 6,000 liraya yakın kitap ücreti talep ediyor. Bu durum, eğitim harcamalarının artmasıyla birlikte ailelerin bütçelerini zorlamaktadır. Şu anda servis ücretlerinde %1200'e yakın bir artış beklentisi hakim. Eğer bu gerçekleşirse, eğitim masrafları daha da yükselecek. Özel okullarda en düşük ücret 300,000 liraya kadar çıkıyor. Ortalama bir özel okula çocuğunuzu yazdırdığınızda, kıyafet, yemek, servis, kitap ve okul ücreti gibi masraflarla birlikte yıllık ortalama yarım milyon lira harcamanız gerekecek. Bu durum, ailelerin ekonomik yükünü artırmakta ve eğitimdeki maliyetlerin haksız şartlar oluşturduğunu gündeme getirmektedir.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 84
+**Retention**: 48.00%
+
+Özel okullar yeni eğitim yılı öncesinde fahiş oranda kitap ücretleri talep etmeye başladı. İlkokul öğrencileri için bazı özel okullarda kitap ücretleri 60.000 liraya kadar çıkıyor. Fiyatı yüksek olduğu için çok kişi de özel okula gönderemiyor çocuklarını. Özel okulların istediği kitap ücretleri ise 6.000 liraya kadar çıkabiliyor; arada on binlerce lira fark var. Eğer aynıysa fiyatlarının da arasında uçurum olmaması gerektiğini düşünüyorum. Tüketici Kanunu madde 6 gereğince, satıcı satış şartı belirleyemez; bu haksız bir şart. Bu durumlarda tüketici hakem heyetine ya da tüketici mahkemesine başvurabiliyor.
+
+================================================================================
+
+## Economic Segment 6
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 69
+**Retention**: 63.30%
+
+800 civarlarında ik senede bir muayeneye giriyor. Bu araca muayene vergisi ödeniyor. Aracın fiyatıyla beraber 1 100 bin'e geliyor. Ama bunda kredi kullanılırsa vadesine göre de yaklaşık 300 400 bin lira daha fazla olabilir. Milyonlar havada uçuşuyor, bu durumda da gündeme kiralamak geliyor. Ortalama bir arabanın kiralama maliyetleri 20 000 TL'den başlıyor. Bu maliyet, aracın modeline ve türüne göre değişiyor; 30 000, 40 000, 50 000 TL'ye kadar çıkabiliyor.
+
+================================================================================
+
+## Economic Segment 7
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 125
+**Retention**: 55.56%
+
+The filtered text focusing on economics, finance, and business is as follows:
+
+Kiralama yaptığınız zaman bu aracın vergisinden bakımından oluşabilecek tek veya çift yönlü kazalardan gibi maliyetlerden sizi korumuş oluyor. Kiralama bir aylık bir araç ihtiyacımız var, bunun için kalkıp da yaklaşık 1 milyon 1 buçuk milyonluk maliyetlere girmektense kiralamak çok daha mantıklı. 
+
+Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, yeni bir kampanya döneminin başladığını ifade etti. Kampanyanın ayrıntılarını sosyal medya hesabından paylaştı. İstanbul'daki riskli yapı sahiplerinin tümü kampanyaya başvurabilir. Bakanlığa bağlı lisanslı kuruluşlara karot örneği aldırarak yapının risk durumu tespit edilebilir. 
+
+Riskli yapı hak sahiplerinin ortak kararla belirleyecekleri bir yüklenici ile imzalayacak sözleşmeyle projelendirme ve yapı ruhsatı işlemleri tamamlanır. Ardından kuracakları kat irtifakı işlemlerinden sonra yarısı bizden desteği için ilçe belediyelerine başvuru yapılır.
+
+================================================================================
+

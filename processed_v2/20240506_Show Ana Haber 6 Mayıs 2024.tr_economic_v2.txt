@@ -1,0 +1,46 @@
+# Economic Content from: 20240506_Show Ana Haber 6 Mayıs 2024.tr.txt
+# Processed: 2025-07-22T17:33:42.593285
+# Original: 2475 words → Filtered: 230 words (9.29% retention)
+# Economic segments: 3
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 65
+**Retention**: 55.08%
+
+Cumhurbaşkanı Erdoğan kabinesini kritik başlıklarla topladı, kamu malına el uzatmanın ihanete eşdeğer olduğunu vurguladı. Kamu tasarruf tedbirleri gündemdeydi ve son dönemde artan serzenişlerin farkındayız. Tespit ettiğimiz tüm eksiklerin ve hataların üzerine kararlı bir şekilde gideceğiz. Ekonomideki gelişmeler masadaydı. Geçen haftadan itibaren İsrail'le ihracat ve ithalat işlemlerini tüm ürünleri ihtiva edecek şekilde durdurduk. Bu durum, ticaret dengesi ve ekonomik ilişkiler açısından önemli bir adım olarak değerlendiriliyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 46
+**Retention**: 44.66%
+
+Kurban kesim bedeline yurt içinde % 1200'e yakın zam geldi. Geçen yıl Kurban kesim Bedeli yurt içinde 5,950 lira, yurt dışında ise 2,750 liraydı. Bu artış, ekonomik koşullar ve enflasyon ile doğrudan ilişkilidir. Diyanet İşleri başkanı Ali Erbaş, vekaletle kurban organizasyonu tanıtım programında bu konuyu vurguladı.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_final
+**Confidence**: 0.50
+**Word Count**: 119
+**Retention**: 100.00%
+
+000 tutar rakam ama sizden 2000 L
+alsam yeterli dedi dolandırıcılar o kadar profesyoneldir ki Çetin Doğan Son ana kadar
+dolandırıldığını anlayamadı bana mesaj attı ya dedi hanımla tartıştık kavga ettik bir 15 000 daha En
+azından Paranın yarısını gönderin diye Ben de dedim ama biz böyle Anlaşmadık bu parayı da gönderemem
+size dolandırıldığını anladıktan sonraysa hemen önce Bankayla sonra da polisle iletişime geçti
+polisten aldığı yanıtla İsa şoku yaşadı bugün karavanla alakalı mağdur duruma düşen 5 kişisiniz
+dediler bunu da Duyunca şok oldum üzüldüm yani Doğan mağduriyetinin giderilmesini istiyor Hayallerim
+umutlarım vardı En azından başka insanlar mağdur olmasın daha dikkatli olsunlar şov an haberin
+Sonuna Geldik Yarın yine gündemin öne çıkan gelişmeleri ile karşınızda olacağız İyi akşamlar ah
+
+================================================================================
+

@@ -1,0 +1,71 @@
+{
+  "file_path": "news/Show/20240704_Show Ana Haber 4 Temmuz 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T17:51:14.717298",
+  "original_word_count": 3069,
+  "filtered_word_count": 247,
+  "retention_ratio": 0.08048224177256436,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "Show Van Haber'den İyi akşamlar değerli izleyenler",
+      "description": "\"Show Van Haber'den İyi akşamlar değerli izleyenler\" - The presenter, Hande Bayraktar, opens the program and introduces the main topics of the evening.",
+      "end_pos": 100
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 100,
+      "start_sentence": "Cumhurbaşkanı Erdoğan putin'le gerçekleştirdiği kritik görüşme sonrası",
+      "description": "\"Cumhurbaşkanı Erdoğan putin'le gerçekleştirdiği kritik görüşme sonrası\" - This section contains the main news content, discussing President Erdoğan's diplomatic activities, including meetings with world leaders and addressing issues related to terrorism and the situation in Gaza.",
+      "end_pos": 1171
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 1171,
+      "start_sentence": "Dün Suriye'de çözümü konuşup kritik bir görüşme gerçekleştirdiği Putin ile yan yana fotoğraf çektirdi",
+      "description": "\"Dün Suriye'de çözümü konuşup kritik bir görüşme gerçekleştirdiği Putin ile yan yana fotoğraf çektirdi\" - A brief transition that connects different news topics, specifically moving from Erdoğan's meetings to his photo opportunity with Putin.",
+      "end_pos": 1468
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1468,
+      "start_sentence": "Cumhurbaşkanı Hollanda ile günü oynanacak çeyrek final maçını Almanya'dan izleyecek",
+      "description": "\"Cumhurbaşkanı Hollanda ile günü oynanacak çeyrek final maçını Almanya'dan izleyecek\" - This section continues with additional news content, focusing on Erdoğan's plans regarding a football match and comments from political leaders related to recent events.",
+      "end_pos": 1755
+    },
+    {
+      "type": "5. **OUTRO**",
+      "start_pos": 1755,
+      "start_sentence": "Zafer Partisi lideriyle artan provokasyonlar ve sığınmacıların durumunu görüştü",
+      "description": "\"Zafer Partisi lideriyle artan provokasyonlar ve sığınmacıların durumunu görüştü\" - The closing remarks summarize the discussions and provide a final note on the political context, indicating the end of the news segment.",
+      "end_pos": 21675
+    }
+  ],
+  "news_segments_count": 4,
+  "economic_segments_count": 2,
+  "economic_segments": [
+    {
+      "segment_id": "100_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 145,
+      "filtered_length": 115,
+      "retention_ratio": 0.7931034482758621,
+      "section_description": "\"Cumhurbaşkanı Erdoğan putin'le gerçekleştirdiği kritik görüşme sonrası\" - This section contains the main news content, discussing President Erdoğan's diplomatic activities, including meetings with world leaders and addressing issues related to terrorism and the situation in Gaza."
+    },
+    {
+      "segment_id": "1755_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 132,
+      "filtered_length": 132,
+      "retention_ratio": 1.0,
+      "section_description": "\"Zafer Partisi lideriyle artan provokasyonlar ve sığınmacıların durumunu görüştü\" - The closing remarks summarize the discussions and provide a final note on the political context, indicating the end of the news segment."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

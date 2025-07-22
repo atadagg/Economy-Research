@@ -1,0 +1,109 @@
+# Economic Content from: 20241016_Kübra Par ile tv100 Ana Haber ｜ 16 Ekim 2024.tr.txt
+# Processed: 2025-07-22T17:59:54.907245
+# Original: 9826 words → Filtered: 798 words (8.12% retention)
+# Economic segments: 8
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 121
+**Retention**: 100.00%
+
+MHP lideri Bahçeli'ye teşekkür etti Şimdi adına ister normalleşme İster diyalog deyin Türkiye'nin
+huzuru ve kardeşliği için bu yeni süreç aslında Hem Pamuk ipliğine bağlı hem de çok kıymetli işin
+içinde başka hesaplar var demeden Hani Kimileri diyor ya işte bu anayasa hesabıdır Öküz altında
+buzağı aramadan bu olumlu atmosferi Barış isteyen herkesin desteklemesi gerektiğini düşünüyorum ben
+bu yüzden artık hashtagi de buradan verdik Bu ülkenin artık uzun vadeli barışa huzura ve refaha
+ihtiyacı olduğunu düşünüyoruz siyasetçilerimiz Bu güzel adımlarında desteklemek cesaretlendirmek
+istiyoruz bugünkü Hashtag imiz Böyle güzelsin siyaset böyle güz gsin siyaset hashtagiyle lütfen siz
+de bize yazın zaten muhabir arkadaşlarımız bugün sokağa çıktılar sizlere mikrofon uzattılar
+siyasetteki bu Barış havası ile ilgili ne düşündüğünüzü sordular onları birazdan ekrana getireceğiz
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 112
+**Retention**: 57.44%
+
+Kiralık konut fiyatları, satılık dairelere göre neredeyse iki kat oranda artmış durumda. Boş evlerde kiralık rakamları minimum 23 katına, hatta bazı yerlerde 5 katına kadar çıkarken, eski kiracıların da bu konudaki %25 zamının kalkmasıyla açıklanan TÜFE oranındaki artışa göre yapılabiliyor. Son yıllardaki enflasyon farkı kira fiyatlarına yansıdı. Özellikle bazı şehirlerdeki kira fiyatları %120'lere dayandı. Birçok kişi satılığa yönelmesiyle birlikte, özellikle deprem fobisi ve sıfır evlere talepten dolayı kiralık rakamlarda talep artışı gözlemleniyor. İstanbul'daki kira artış oranları %46'ya dayanırken, metrekare birim fiyatı 2240 TL oldu. Tüm Türkiye'deki ortalama metrekare birim fiyatı ise 185 TL'ye çıkmış durumda. Bu, 100 metrekare bir ev tutmak istiyorsanız Türkiye sınırı içerisinde ortalama 18,500 TL ödemeniz gerektiği anlamına geliyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 60
+**Retention**: 36.81%
+
+Ankara'da kira artış oranı % 56 olarak hesaplanırken İzmir'de ise artış % 65 oranında gerçekleşti. Artan kira fiyatları sektör temsilcilerine göre vatandaşı ev almaya yönlendiriyor. Yıl sonuna doğru bu faiz oranlarının daha da düşmesini bekliyoruz. Eğer bu paket açıklandığı takdirde, kiralık fiyatlar 40.000 liralar, 50.000 liralar, 100.000 liralara kadar çıkan kiralıklar tamamen boşalacak ve insanlar gayrimenkul alımına yönelmek zorunda kalacaktır.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 106
+**Retention**: 32.82%
+
+Yarınlar yokmuşçasına yapılan alışverişler son zamanlarda gençlerin en büyük sorunlarından biri. Uzmanlar gençlerin bu çelişkili harcamalarında sosyal medyanın etkisinin büyük olduğunu ve kontrolsüzce ilerlediklerini söylüyor. Şimdi vergileri konuşuyoruz. Dün mecliste özellikle bu 750 liralık zam iptal edildi ama şimdi farklı vergiler ne oranda artacak? Yıl sonuna adım adım yaklaşırken milyonlarca vatandaşın gözü kulağı Türkiye İstatistik Kurumu'nun açıklayacağı yıllık enflasyon verilerinde. Memur ve emeklinin maaş artışları için baz alınan enflasyon rakamları, aynı zamanda birçok vergi ve harçta da artışa neden olacak. 2024 yılında, örneğin, radar cezası 506 liradan 2183 liraya yükselecek. Araç muayene ücreti otomobiller için 1821 liradan 2640 liraya ulaşacak. Motorlu taşıtlar vergisi de artış gösterecek.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 104
+**Retention**: 66.67%
+
+2025'te 8483 lira ödeyeceksiniz, hepimizi yakından ilgilendiren ve artış yaşanacak kalemlerden bir diğeri de ehliyet harcı. 2024 yılında 3945 lira olan ehliyet harcı, yeniden değerleme oranı % 45 olarak açıklanırsa 5720 liraya yükselecek. Pasaport harcı ise 5558 lira olacak ve 2025'te 859 lira artı defter ücreti ödenecek. Defter ücreti de 2024 yılında 790 lira olarak belirlenmiştir. Yurt dışı çıkış harcı, Temmuz ayında 150 lirayken, vergi paketi ile beraber 500 liraya yükseltildi ve 2025 itibarıyla 750 lira olması bekleniyor. Yurt dışından cep telefonu alanlar için yüksek olan cep telefonu kayıt ücretleri de artacak; şu anda 3692 lira ödenirken, 1 Ocak'tan itibaren bu ücretin artması bekleniyor.
+
+================================================================================
+
+## Economic Segment 6
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 117
+**Retention**: 61.90%
+
+900 ödeyeceksiniz. Yeniden değerleme oranına göre artış yaşanacak kalemlerden bir diğeri de özel iletişim vergisi. Hal böyle olunca cep telefonu faturalarımızda ve internet faturalarımızda 2025 yılında %45'e yakın bir artış öngörülüyor. Vergi arttığı zaman bu, sizin cebinizden çıkıyor demektir. Bu durum, Cumhurbaşkanımızın vergi oranını arttırma veya indirme yönünde bir yetkisi olduğunu gösteriyor. 
+
+Bunun yanı sıra, Türkiye'de bekar annelerin sayısının artması, sosyal ve ekonomik politikaların yeniden gözden geçirilmesini gerektiriyor. Bekar annelerin aile ve sosyal politikalar alanında destek alabilmesi için mevzuat değişiklikleri talep ediliyor. Bu bağlamda, Türkiye'de 3,5 milyon bekar anne olduğu ve bu annelerin yetiştirdiği çocuk sayısının 7 milyonu bulduğu belirtiliyor. Ekonomik açıdan, bekar annelerin durumu, ailelerin ekonomik yükümlülükleri ve sosyal destek sistemleri üzerinde önemli bir etki yaratıyor.
+
+================================================================================
+
+## Economic Segment 7
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 126
+**Retention**: 90.00%
+
+Türkiye İş Bankası'nın 100. yılı dolayısıyla düzenlenen etkinlikler, bankanın finansal hizmetler alanındaki gelişimini ve sektördeki rolünü vurguluyor. İstanbul Büyükşehir Belediyesi'nin düzenlediği maraton gibi etkinlikler, yerel ekonomiye katkı sağlarken, aynı zamanda spor turizmi açısından da önemli bir fırsat sunuyor. 
+
+Doğan Holding'in sunduğu e-ticaret platformu, işletmelere global pazarda rekabet avantajı sağlarken, bu tür dijital dönüşümler Türkiye'nin ekonomik büyümesine katkıda bulunuyor. E-ticaretin hızla büyümesi, yerel işletmelerin uluslararası pazarlara açılmasına olanak tanıyor ve bu da ekonomik verimliliği artırıyor. 
+
+Ayrıca, uygun fiyatlı sigorta hizmetleri sunan firmaların artışı, tüketicilerin maliyetlerini düşürmesine yardımcı oluyor. Bu durum, genel olarak piyasalarda rekabeti artırarak, fiyatların daha makul seviyelerde kalmasını sağlıyor. 
+
+Sonuç olarak, Türkiye'nin ekonomik dinamikleri, finansal hizmetler ve e-ticaret gibi alanlarda yaşanan gelişmelerle şekilleniyor. Bu süreç, hem yerel hem de uluslararası yatırımcılar için önemli fırsatlar sunuyor.
+
+================================================================================
+
+## Economic Segment 8
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 52
+**Retention**: 32.30%
+
+Denizbank kredi kartı kullanarak puan biriktirme fırsatını sunuyor. Kullanıcılar, harcadıkça kazandıkları puanları değerlendirebiliyor. Bu tür finansal ürünler, tüketicilerin harcama alışkanlıklarını etkileyerek ekonomik aktiviteyi artırabilir. E-ticaret alanında ise, indirim fırsatları ve kampanyalar, tüketici talebini canlandırarak satışları artırma potansiyeline sahip. Özellikle beyaz eşya ve diğer ürünlerdeki indirimler, tüketicilerin bütçelerini etkileyerek ekonomik büyümeye katkıda bulunabilir.
+
+================================================================================
+

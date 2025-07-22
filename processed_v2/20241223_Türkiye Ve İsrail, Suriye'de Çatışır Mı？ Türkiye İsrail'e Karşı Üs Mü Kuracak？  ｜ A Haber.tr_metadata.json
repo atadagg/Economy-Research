@@ -1,0 +1,48 @@
+{
+  "file_path": "news/AHaber/20241223_Türkiye Ve İsrail, Suriye'de Çatışır Mı？ Türkiye İsrail'e Karşı Üs Mü Kuracak？  ｜ A Haber.tr.txt",
+  "processing_timestamp": "2025-07-22T15:48:10.994531",
+  "original_word_count": 16566,
+  "filtered_word_count": 123,
+  "retention_ratio": 0.007424846070264397,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "İyi geceler değerli izleyenler A Haber ve A Haber radyo ortak yayınında gece ajansına Hoş geldiniz",
+      "description": "\"İyi geceler değerli izleyenler A Haber ve A Haber radyo ortak yayınında gece ajansına Hoş geldiniz\" - This section serves as the opening of the broadcast, welcoming viewers and introducing the program.",
+      "end_pos": 0
+    },
+    {
+      "type": "3. **OUTRO**",
+      "start_pos": 0,
+      "start_sentence": "İyi yayınlar Çok teşekkürler",
+      "description": "\"İyi yayınlar Çok teşekkürler\" - This section includes closing remarks and thanks to the viewers, signaling the end of the program.",
+      "end_pos": 589
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 589,
+      "start_sentence": "Önce sıcak bölgeye gideceğiz Dışişleri Bakanı Hakan Fidan Suriye'nin başkenti Şam'a gitti",
+      "description": "\"Önce sıcak bölgeye gideceğiz Dışişleri Bakanı Hakan Fidan Suriye'nin başkenti Şam'a gitti\" - This section contains the main news content, discussing the visit of Turkey's Foreign Minister to Syria and the implications of this visit.",
+      "end_pos": 114435
+    }
+  ],
+  "news_segments_count": 11,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "589_0",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 123,
+      "filtered_length": 123,
+      "retention_ratio": 1.0,
+      "section_description": "\"Önce sıcak bölgeye gideceğiz Dışişleri Bakanı Hakan Fidan Suriye'nin başkenti Şam'a gitti\" - This section contains the main news content, discussing the visit of Turkey's Foreign Minister to Syria and the implications of this visit."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

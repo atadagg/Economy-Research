@@ -1,0 +1,38 @@
+# Economic Content from: ATV20240823_atv Ana Haber ｜ 23 Ağustos 2024.tr.txt
+# Processed: 2025-07-22T16:51:49.826353
+# Original: 4850 words → Filtered: 209 words (4.31% retention)
+# Economic segments: 3
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 59
+**Retention**: 77.63%
+
+Cuma Cumhurbaşkanı Erdoğan, kabineyi toplayacak ve ardından Başkentte Mısır Cumhurbaşkanı Sisi'yi ağırlayacak. İki ülkenin normalleşme sürecinde ilk somut adım, Cumhurbaşkanı Erdoğan'ın K'ye yaptığı ziyaretle atılmıştı. 4 Eylül'de Ankara'da yapılacak zirvede, gazda başta olmak üzere iki ülke arasında 12 yıl aranın ardından başlayan normalleşme süreci kapsamlı olarak ele alınacak. Bu toplantıda ekonomik işbirlikleri ve ticaretin artırılması konuları da gündeme gelecek.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 83
+**Retention**: 43.23%
+
+İstanbul başta olmak üzere büyük şehirlerde öğrenim görecek olan üniversite öğrencilerinin kalacak yer bulma telaşı, yüksek yurt fiyatları nedeniyle artmış durumda. Geçen yılın en az %60 üzerinde olan yurt fiyatları, öğrencilerin bütçelerini zorlayacak seviyelere ulaşmış. 4 kişilik odaların taksitli fiyatları 120.000 TL'den başlarken, İstanbul'da özel öğrenci yurt fiyatları 17.000 TL ile 61.000 TL arasında değişiklik göstermektedir. Bu durum, üniversite öğrencilerinin barınma maliyetlerini önemli ölçüde artırmakta ve ekonomik zorluklar yaratmaktadır. Özellikle İstanbul'da, yurt fiyatlarının ilçeden ilçeye değişkenlik göstermesi, öğrencilerin ekonomik planlamalarını daha da zorlaştırıyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 67
+**Retention**: 33.67%
+
+Yayınevi skandalında, parasını verdiği halde kitabı basılmayan yazarların hukuki yollara başvurduğu ve telifi ödenmeyen kitapların satışa bile çıkarılmadığı ortaya çıktı. İddialara göre, yayınevi basım için anlaştığı matbaayı da dolandırmış ve bu durum, matbaanın yüz binlerce lira borçlanmasına yol açmıştır. Mağdur olan yazarlar, basılmayan kitaplarını öğrenmek için matbaayı ararken, yayınevinin mali durumu hakkında endişeler artmaktadır. Bu durum, sektördeki güven sorununu da beraberinde getiriyor ve yazarların ekonomik kayıplarını derinleştiriyor.
+
+================================================================================
+

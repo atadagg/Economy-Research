@@ -1,0 +1,98 @@
+{
+  "file_path": "news/TV100/20240702_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 2 Temmuz 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T18:54:20.299242",
+  "original_word_count": 9229,
+  "filtered_word_count": 416,
+  "retention_ratio": 0.045075306100335895,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "Efendim Mutlu akşamlar 2 Temmuz salı TV1 an haberde sizlerle birlikteyiz...",
+      "description": "\"Efendim Mutlu akşamlar 2 Temmuz salı TV1 an haberde sizlerle birlikteyiz...\" - This section serves as the opening of the broadcast, where the presenter greets the audience and introduces the program, setting the stage for the news content to follow.",
+      "end_pos": 391
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 391,
+      "start_sentence": "Cumhurbaşkanı Erdoğan kabineyi topladı ana Gündem ekonomi başlıkları...",
+      "description": "\"Cumhurbaşkanı Erdoğan kabineyi topladı ana Gündem ekonomi başlıkları...\" - This section contains the actual news content, discussing various topics such as the cabinet meeting, economic issues, and significant events like the anniversary of the Madımak massacre and the Sinan Ateş trial.",
+      "end_pos": 1273
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 1273,
+      "start_sentence": "Şimdi Almanya'ya gidelim nefesimizi tuttuk...",
+      "description": "\"Şimdi Almanya'ya gidelim nefesimizi tuttuk...\" - This brief transition indicates a shift from discussing local news to covering the upcoming football match between Turkey and Austria, preparing the audience for a change in focus.",
+      "end_pos": 1372
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1372,
+      "start_sentence": "Eğer son 16'da Avusturya'yı geçersek finale gitmemiz için...",
+      "description": "\"Eğer son 16'da Avusturya'yı geçersek finale gitmemiz için...\" - This part continues the news segment, specifically focusing on the football match, providing insights and expectations regarding the game.",
+      "end_pos": 1846
+    },
+    {
+      "type": "5. **OUTRO**",
+      "start_pos": 1846,
+      "start_sentence": "Kadir arkanda da çok yoğun bir kalabalık var seni dinleye...",
+      "description": "\"Kadir arkanda da çok yoğun bir kalabalık var seni dinleye...\" - This section serves as a closing remark, indicating the end of the program as the presenter wraps up the discussion and acknowledges the reporter's presence.",
+      "end_pos": 66757
+    }
+  ],
+  "news_segments_count": 14,
+  "economic_segments_count": 5,
+  "economic_segments": [
+    {
+      "segment_id": "391_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 126,
+      "filtered_length": 64,
+      "retention_ratio": 0.5079365079365079,
+      "section_description": "\"Cumhurbaşkanı Erdoğan kabineyi topladı ana Gündem ekonomi başlıkları...\" - This section contains the actual news content, discussing various topics such as the cabinet meeting, economic issues, and significant events like the anniversary of the Madımak massacre and the Sinan Ateş trial."
+    },
+    {
+      "segment_id": "1846_5",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 149,
+      "filtered_length": 120,
+      "retention_ratio": 0.8053691275167785,
+      "section_description": "\"Kadir arkanda da çok yoğun bir kalabalık var seni dinleye...\" - This section serves as a closing remark, indicating the end of the program as the presenter wraps up the discussion and acknowledges the reporter's presence."
+    },
+    {
+      "segment_id": "1846_6",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 160,
+      "filtered_length": 54,
+      "retention_ratio": 0.3375,
+      "section_description": "\"Kadir arkanda da çok yoğun bir kalabalık var seni dinleye...\" - This section serves as a closing remark, indicating the end of the program as the presenter wraps up the discussion and acknowledges the reporter's presence."
+    },
+    {
+      "segment_id": "1846_7",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 252,
+      "filtered_length": 107,
+      "retention_ratio": 0.4246031746031746,
+      "section_description": "\"Kadir arkanda da çok yoğun bir kalabalık var seni dinleye...\" - This section serves as a closing remark, indicating the end of the program as the presenter wraps up the discussion and acknowledges the reporter's presence."
+    },
+    {
+      "segment_id": "1846_8",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 72,
+      "filtered_length": 71,
+      "retention_ratio": 0.9861111111111112,
+      "section_description": "\"Kadir arkanda da çok yoğun bir kalabalık var seni dinleye...\" - This section serves as a closing remark, indicating the end of the program as the presenter wraps up the discussion and acknowledges the reporter's presence."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

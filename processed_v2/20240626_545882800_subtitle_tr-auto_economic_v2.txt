@@ -1,0 +1,135 @@
+# Economic Content from: 20240626_545882800_subtitle_tr-auto.txt
+# Processed: 2025-07-22T17:09:30.187556
+# Original: 5186 words → Filtered: 925 words (17.84% retention)
+# Economic segments: 9
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 189
+**Retention**: 100.00%
+
+Bu da propora alsın İttihara göre esnaf silah bile
+çekti Dükkanın önünde başlayan kavga caddeye de taştı Polis tarafları ayırmak için biber gazı
+kullandı Kavgaya karışan 5 kişi gözaltına alındı Dükkanda silah ve kılıç bulundu Taraflar bugün
+de birbirlerini tehdit etti 20 kişide kendinize erkek mi oldunuz Fenomen düşrağı Karadelir Karakol dönüşü, onu evine getiren polisi Vurmuştu Saldırının ardındaki gerçek 4 ay sonra ortaya
+çıktı Genç kadın ifadesinde cinsel saldırıya uğradığım için ateş ettim dedi Savcı, şüpheli polisin
+36,5 yıl, tetiğe basan kadının ise 18 yıla kadar hapis cezası ile yargılanmasını istiyor Polisi
+vurdu Allah Kendi evinde polisi vurmuştu Taciz iddiasıyla tetiğe bastığı ortaya çıktı Savcı,
+taciz şüphelisi polisin 36,5 yıla kadar hapsini istedi Sosyal medya fenomeni düşrağı Karademir, 4
+ay önce İzmir'de boşanma aşamasındaki eşi kapısına dayanınca kadese bastı Şikayeti sonrası karakol
+dönüşü ekip ona eşlik etti Bir polise dairesine kadar çıktı İddiaya göre o polis kapıyı kontrol
+etme bahanesiyle içeri girdi Cinsel saldırıda bulunduğu kadın tarafından beylik tabancasıyla
+vuruldu Polisi vurdum, polisi Kim vurdu Ben vurdum, ben Genç kadın ifadesinde taciz şüphelisi
+polisin önce karakolda yanağına dokunduğunu, evde ise sevgili olalım deyip kendisini zorla öpmeye
+çalıştığını söyledi
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 30
+**Retention**: 100.00%
+
+Diğer şeride geçti Tam yola çıkacağın gelen aracı fark etmedi Otomobil motosiklete çarpıp savurdu Yere düşen
+motosikletlinin imdadına otomobil sürücüsü koştu Yaralanan adam hastaneye kaldırıldı Orta şeritte
+durup beklemeye başladı
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 116
+**Retention**: 59.79%
+
+Diğer araçlarsa hızlı ilerliyordu. Ancak, Kahramanmaraş'ta biçerdöverli sürücü denetime takılınca aracı bağlandı. Bu durum, tarım sektöründeki denetimlerin önemini bir kez daha gözler önüne serdi. Tarımda kullanılan makinelerin denetimi, üretim verimliliği ve maliyetler üzerinde doğrudan etkili olmaktadır. 
+
+Ayrıca, yaz döneminde nüfusun artmasıyla su sıkıntıları yaşanması, yerel yönetimlerin su kaynaklarını yönetme becerisini sorgulatmaktadır. Bu tür sorunlar, tarımsal üretim ve yerel ekonomiler üzerinde olumsuz etkiler yaratabilir. 
+
+Muhtarın köydeki su tüketimi ile ilgili yaptığı anons, yerel halkın su kullanım alışkanlıklarını değiştirmesine yardımcı oldu. Bu durum, kaynakların daha verimli kullanılmasını sağlarken, aynı zamanda maliyetlerin düşmesine de katkıda bulunabilir. 
+
+Sonuç olarak, yerel yönetimlerin ekonomik kaynakları etkin bir şekilde yönetmesi, hem tarımsal üretim hem de yerel halkın yaşam standartları açısından büyük önem taşımaktadır.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 101
+**Retention**: 50.75%
+
+Özel ders fiyatları da çok ucuz. Kurs ücretleri neredeyse özel okul fiyatlarıyla yarışıyor; 50 binden başlayıp 850-860 bin liraya kadar ücretlerden bahsediliyor. 15 kişilik sınıflardaki kurslar 50 bin liradan başlıyor, 250 bin liraya kadar çıkıyor. Butik kurslar veya VIP birebir derslerde ise fiyat alıp başını gidiyor; 500 bin liradan başlayıp 800 bin liralara kadar bile çıkıyor. VIP derslerde birebir özel ilgi sağlanıyor. Her hafta görüş ve ödev kontrolleri, deneyim analizlerine göre öğrenci yönlendirme gibi hizmetler sunuluyor. Özel mekanlar oluşturuluyor; rahat koltuklar ve motivasyon arttırıcı etkinlikler ile eğitim ortamları geliştiriliyor. Bu tür eğitim hizmetlerinin artışı, eğitim sektöründeki rekabeti ve fiyatlandırma stratejilerini etkiliyor.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 93
+**Retention**: 47.45%
+
+7 Temmuz'dan sonra güvenlik donanımı olmayan araçlar artık satılamayacak dedik. Bu süre 31 Ağustos'a kadar uzatıldı. Ancak bu erteleme sadece yerli üretim olan araçlar için geçerli. 31 Ağustos'a çekilmesinin en önemli sebebi yerli parça üretimi yapan firmaların ellerinde yedek parça anlamında çok stok olmasından dolayı. Sanayi Bakanlığımız buradaki bu yedek parçanın eritilmesiyle alakalı böyle bir karar aldı. Doğru bir karar olduğunu düşünüyorum. 
+
+Sıfır araç fiyatlarında dövizin yükselmesi gibi bir opsiyondan dolayı ciddi bir artış olursa ikinci el otomobille olan ilginin daha da artacağını öngörüyoruz. Peki bu karar ikinci el otomobil fiyatlarına nasıl yansıyacak?
+
+================================================================================
+
+## Economic Segment 6
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 88
+**Retention**: 44.44%
+
+3 Temmuz'da 6 aylık enflasyon farkı netleşecek. Milyonlarca memur ve emekli de enflasyon farkına göre zam alacak. Çalışma Bakanı, maalesef asgari ücrete zam ve emekliye refah payı olmayacağını açıkladı. Enflasyonun düşüşü için umutlu konuştu, rakamları işaret edip asgari ücrete ara zamda emekliye refah payına da kapıyı kapattı. Asgari ücrete ara zam yapılmamasının sebebi talep enflasyonundan kaynaklandığı belirtildi. Milyonlarca memur ve emekli ise 3 Temmuz'da açıklanacak rakamlarla 6 aylık enflasyon farkına göre zam alacak. Zaten toplu sözleşme gereği yapılacak, tartışmalar olacak ve enflasyonla refah payı konusunda şu an çalışıyoruz.
+
+================================================================================
+
+## Economic Segment 7
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 96
+**Retention**: 48.00%
+
+İstanbul, Ankara ve İzmir'de konut fiyatları son 14 yılın en düşük seviyesinde. 2022 yılında zirve fiyatı gören emlak sektörü şimdilerde düşüşte. Uzmanlar, ev fiyatlarındaki düşüşün nedenini açıkladı. Real konut fiyatlarında en düşük seviyeleri görüyoruz. Alım gücünün çok üstünde olan balon fiyatlar vardı. Emlak sektöründeki balon fiyatlar pandemide başladı. %0,67-77 gibi faiz oranlarında fiyatlar 5 katına kadar yükseldi; 300-500 bine olan evler bir anda 2-3 milyona çıktı. Kredilerin tekrardan yükselmesi konutlara ulaşımı da zorlaştırdı. Satılık piyasasına bir durgunluk başladı ve bu da zamanla fiyatların gevşemesine, düşmesine sebep oldu. 2022 yılında %72 artan ev fiyatları şimdilerde düşüş trendinde.
+
+================================================================================
+
+## Economic Segment 8
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 100
+**Retention**: 52.63%
+
+Ev fiyatlarının düşmesinin tek nedeni yüksek kredilerde değil. Bir başka nedeni ise geçen sene 10 milyon TL olan bir evi bu sene belki 10 milyon TL'ye belki daha da düşük bir fiyata satın alabiliyor olmanız. Bunun en önemli sebebi, bankaya bu parayı koyduğu zaman çılgın bir faiz alabiliyor olması. 
+
+Araştırmalarda, üzgün kişilerin yaşadıkları duygusal boşluğu doldurmak için daha çok alışveriş yaptıkları ve para harcadıkları ortaya çıktı. Bu durum, ekonomik davranışları etkileyen bir faktör olarak değerlendirilebilir. 
+
+Üzüntü, harcama eğilimlerini artırarak, ekonomik aktiviteyi dolaylı yoldan etkileyen bir unsur haline geliyor. Bu tür davranışlar, tüketim harcamalarının artmasına ve dolayısıyla ekonomik büyümeye katkıda bulunabilir.
+
+================================================================================
+
+## Economic Segment 9
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 112
+**Retention**: 57.73%
+
+İnsanların alışveriş yapma eğilimleri, ekonomik durumu etkileyen önemli bir faktördür. Duygusal durumlar, harcama alışkanlıklarını etkileyebilir; bu da bütçe yönetimini zorlaştırabilir. Özellikle geride bıraktığımız bayram tatilinde milyonlarca insan tatile gitti ve bu durum, harcamaların artmasına neden oldu. Ekonomik açıdan, tatil dönemlerinde yapılan harcamalar, perakende sektöründe önemli bir hareketlilik yaratmaktadır. 
+
+Ayrıca, yaz aylarının gelmesiyle birlikte, sağlık sorunları da ekonomik etkiler yaratabilir. Özellikle tatil dönemlerinde yaşanan sağlık problemleri, insanların tatile çıkma kararlarını ve harcamalarını etkileyebilir. Bu tür durumlar, sağlık sektöründe de maliyet artışlarına yol açabilir. 
+
+Sonuç olarak, bireylerin duygusal durumları ve sağlık sorunları, ekonomik davranışlarını ve harcama alışkanlıklarını doğrudan etkileyen unsurlardır. Bu bağlamda, ekonomik verilerin ve istatistiklerin analizi, tüketici davranışlarını anlamak için kritik öneme sahiptir.
+
+================================================================================
+

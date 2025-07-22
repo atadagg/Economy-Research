@@ -1,0 +1,136 @@
+# Economic Content from: 20240703_546667026_subtitle_tr-auto.txt
+# Processed: 2025-07-22T17:11:47.277136
+# Original: 5157 words → Filtered: 1286 words (24.94% retention)
+# Economic segments: 11
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 188
+**Retention**: 94.00%
+
+Bozkurt işareti Almanya'da yasaklı değilken Alman makamlarınca gösterilen tepkinin yabancı düşmanlığı içerdiği soruşturmanın kabul edilemez olduğu ifade edildi. Almanya'nın Ankara Büyükelçisi Schulz Dışişleri Bakanlığı'na çağrıldı. Cumhurbaşkanı Erdoğan Kazakistan'da düzenlenen Şangay Zirvesi'nde Rusya Devlet Başkanı Vladimir Putin ile bir araya geldi. İkili görüşmenin en kritik başlığı şüphesiz Suriye'ydi. Ancak, bu tür uluslararası ilişkilerin ekonomik etkileri de göz önünde bulundurulmalıdır. 
+
+Dün akşam da kabine sonrası Suriye ile ilişkilerde normalleşme mesajını bir kere daha yineledi. İki lider arasında yapılan görüşmeler, ticaret ve yatırım fırsatlarını da etkileyebilir. Rusya Devlet Başkanı Putin, Cumhurbaşkanı Erdoğan'a Rus turistlere sağlanan şartlardan dolayı teşekkür etti. Bu durum, Türkiye'nin turizm sektörüne olumlu yansıyabilir. Cumhurbaşkanı da bir davette bulundu ve "Ben sizleri de en kısa zamanda ülkemde ağırlamayı bekliyorum" dedi. 
+
+Bu tür ekonomik işbirlikleri, iki ülke arasındaki ticaret hacmini artırma potansiyeline sahiptir. Kameralar önünde bu mesajlar verildi. Bir saat süren özel görüşmede masadaki en sıcak başlıksa şüphesiz Suriye'ydi. Ancak, Türkiye'nin sınırlarının hemen ötesinde bir teröristten kurdurmamakta kararlı olduğu vurgusu, güvenlik politikalarının ekonomik etkilerini de gözler önüne seriyor. Şangay Zirvesi'ne Suriye Devlet Başkanı Esat da katılıyor. Planlanan bir görüşme yok, ancak bu tür zirveler, ekonomik işbirlikleri açısından önemli fırsatlar sunabilir.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 69
+**Retention**: 34.67%
+
+Cumhurbaşkanı Erdoğan, hükümetin ekonomik politikaları hakkında önemli mesajlar verdi. Özellikle asgari ücretin artırılmaması durumunda geçim sıkıntısının artacağına dikkat çekildi. CHP lideri Özgür Özel, erken seçim tartışmalarında, "Eğer sen asgari ücrete zammı vermezsen, geçim olmazsa seçim olur" dedi. Bu bağlamda, ekonomik koşulların seçim üzerindeki etkisi vurgulandı. Ayrıca, Erdoğan'ın yeni hükümet sisteminde erken seçim kavramının bulunmadığına dair değerlendirmeler yapıldı. Ekonomik verilerin ve istihdam koşullarının, siyasi kararlar üzerinde belirleyici olabileceği ifade edildi.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 58
+**Retention**: 53.70%
+
+Böyle dedi ve erken seçim çağrısını yineledi. Özel'in gündeminde enflasyon rakamları da vardı. Enflasyon artı olduğu müddetçe hayat bağlılığı artıyor demektir. Fiyatların düşmesi için eksi enflasyon lazım. Haziran ayı enflasyon rakamları açıklandı. Aylık %1,64 oranında artış gösteren enflasyon, 6 ayda %24,73 oranına ulaştı. Yıllık bazda ise %71,6 oldu. Son veriler milyonlarca memur ve emeklinin temmuz zamanı da netleştirdi.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 171
+**Retention**: 92.93%
+
+Şimdi gelin bakalım kim ne kadar maaş alacak, kira artış oranı ne olacak haberimizde. Hem Haziran ayı enflasyonu hem de 6 aylık enflasyon farkı TÜİ'nin açıkladığı rakamlarla netleşti. Aylık enflasyon %1,64, yıllık enflasyon %71,60 oldu. Hazine ve Maliye Bakanı Mehmet Şimşek dezenflasyon sürecinin başladığını belirtti. Fiyat istikrarına ulaşana kadar programımızı kararlılıkla uygulayarak kalıcı refah artışını sağlayacağız dedi. Milyonlarca emeklinin gözünü çevirdiği enflasyon verileriyle zamlı maaşlar da netleşti. SSK ve Bağkur emeklileri %24,73 zamma hak kazandı. Yani 13 bin liralık maaşı olan bir emekli hesabında 16 bin 214 TL görecek. Kök maaşı 7 bin lira olan bir emeklinin yapılan son zamlarla yeni maaşı 8 bin 731 liraya çıkıyor. Ancak bu tutar en düşük emekli aylığı olan 10 bin liranın altında kaldığı için onların da maaşları 10 bin liraya tamamlanacak. Kök maaşı 10 bin lira olan emekli ise yeni zamla birlikte 12 bin 473 lira maaş alacak. Memur ve memur emeklisi ise %10'luk toplu sözleşme zammanın yanında bir de enflasyon farkı alıyor. Açıklanan son verilerle memur ve memur emeklisi de %19,31 zam alacak.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 173
+**Retention**: 88.72%
+
+Böylece en düşük memur emekli maaşı 14 bin 740 liradan 17 bin 586 liraya, en düşük memur maaşı da 39 bin 205 liraya yükseldi. Üniversite mezunu bir memurun yeni maaşı 40 bin 817 lira oldu. Üniversite mezunu bir hemşire 47 bin 909 TL maaş alacak. Öğretmen 47 bin 433, bir polis memuru 52 bin 816, bir mühendis maaşı da 60 bin 663 TL'ye çıktı. Uzman doktor da artık 97 bin 836 lira maaş alacak. Yeni kıdem tazminatı tavanı 41 bin 828 lira oldu. Evde bakım yardımı 9 bin 489 lira olarak belirlendi. Yaşlılık aylığı 4 bin 180, en düşük engelli aylığı ise 3 bin 337 liraya çıktı. Bedelli askerlik yapmak isteyenler de 217 bin lira ödeme yapacak. Kirada yüzde 25 zam sınırlaması Temmuz ayı itibariyle sona ermişti. Bu ay kontrat yenileyecek bir kiracı, ev sahibinin hesabına yüzde 65 daha fazlasını yatıracak. Yani bu durumda 20 bin liralık kira 33 bin liraya çıkıyor. Ancak bu sadece kontrat yenileme dönemi için geçerli. Yani kira artışınız bu aysa ev sahibiniz sizden yüzde 65 artış talep edebilir.
+
+================================================================================
+
+## Economic Segment 6
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 102
+**Retention**: 51.78%
+
+Rize'de Tunca beldesinin eski belediye başkanı Ahmet Naci Aytemiz'in hayatını kaybetmesiyle ilgili olayın ardından, bölgedeki güvenlik endişeleri ve ekonomik etkileri gündeme geldi. Bu tür olaylar, yerel iş yerlerinin güvenliğini ve dolayısıyla ekonomik faaliyetlerini olumsuz etkileyebilir. 
+
+Ayrıca, Türkiye genelinde artan suç oranları, yatırımcıların güvenini sarsabilir ve bu durum, yerel ekonomilerde dalgalanmalara yol açabilir. Ekonomik istikrarın sağlanması için hükümetin güvenlik politikalarını gözden geçirmesi gerektiği ifade ediliyor. 
+
+Bu bağlamda, yerel yönetimlerin güvenlik önlemlerini artırması, iş dünyası için önemli bir adım olarak değerlendiriliyor. Ekonomik veriler, bu tür olayların ticaret ve yatırım ortamı üzerindeki olumsuz etkilerini ortaya koyuyor. Uzmanlar, güvenlik sorunlarının çözülmesinin, bölgedeki ekonomik büyümeyi destekleyeceğini belirtiyor.
+
+================================================================================
+
+## Economic Segment 7
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 99
+**Retention**: 50.77%
+
+Türk lirasında mevduat faiz oranları bankadan bankaya değişiyor. Bazı bankalar faiz oranlarını %35'e kadar düşürdü; ancak %52 veren banka da var. Bankaların faiz oranları arasındaki fark 17 puana kadar çıktı. Son verilere baktığımızda %35'lerden başlayan 52 puanına kadar çıkan faizleri görüyoruz. Bankalar arası TL mevduat faiz oranlarındaki fark oldukça açıldı. Bazı bankalarda en düşük faiz oranı %35'lere kadar geriledi. İstediği krediyi veremediği için bankaların elinde fazladan fon oluşmuş durumda. Bu fonda aslında bankalara ekstra maliyet getiriyor. Elinde fazla fon olan bankalar mevduat faizlerini aşağı çekmiş durumda. Kıyaslama yaptığımızda bankaların TL mevduat faiz oranları arasında 17 puanlık bir fark oluştu.
+
+================================================================================
+
+## Economic Segment 8
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 94
+**Retention**: 102.17%
+
+Örneğin 100 bin liralık bir paranız var. Bunu 32 gün vadeli mevduata yatırdığınızda faiz oranı %52 oluyor. Bu noktada elde edeceğiniz kazanç 4205 lira oluyor. Örneğin 500 bin liranın %52 faizi 21 bin lira getiriyor. Ama düşük faizle yani %35 ile yatırırsanız getirisi 14 bin lira oluyor, bu durumda kayıp 7 bin lira buluyor. Uzmanlar, vadeniz bittiğinde faiz oranlarını mutlaka kontrol edin diyor. Önce banka şubesine gitmeli ve bu konuda pazarlık yapmalı. Çünkü banka şubelerinin elinde yetki var, 6-7 puan daha fazla verebiliyor. Uzmanlar, diğer bankalardaki faiz oranlarını da takip etmekte fayda var diyor.
+
+================================================================================
+
+## Economic Segment 9
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 95
+**Retention**: 51.91%
+
+Diğer bankalarda her zaman hoş geldin faizi sunacağı için bu anlamda %52, %55 civarında faizler sunabiliyor. Eğitimi daha iyi diye bir de sınıflar daha az kişi diye genelde tercih ediyoruz. Fiyatları dudak uçuklatıyor; en ucuzu 300 bin, en pahalısı 1 milyonu aşıyor. Talep olunca da artıyor, fiyatlar artınca da artıyor. Özel okul arayışı içindeki ailelerin ortak derdi eğitim masrafları. Amerikan ve Fransız okulları ortalama 1 milyon lira, İtalyan okulları ise 300 binden başlıyor, 400 bin liraya kadar çıkıyor. Geçtiğimiz yıl 239 bin lira olan Alman lisesinin eğitim ücreti ise bu yıl 905 bin lira oldu.
+
+================================================================================
+
+## Economic Segment 10
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 147
+**Retention**: 78.19%
+
+Türk özel okullarında fiyatlar bölgesine göre değişiyor; 300 bin liraya da okul var, 600 bin liraya da. Okullar, öğrencinin aldığı puana göre burs da veriyor. Servis ve ekstra yemek ücretleriyle birlikte, toplam maliyet 1 milyonu bulabiliyor. Özel okullardan birinin fiyatı 560 bin lira, 85 bin lira da yemek parası var, toplamda 645 bine geliyor. Ödemelerin peşin yapılması durumunda okullarda farklı indirimler uygulanabiliyor.
+
+İş dünyası, yetişmiş eleman krizi nedeniyle mavi yakalılara öncelik veriyor. Beyaz yakalılar ise onlara göre neredeyse gözden çıkarılmış durumda. Bu durum maaşlara da yansıyor; mavi yakalıların maaşı, beyaz yakalıları geçti bile. Ustanın maaşı 60'a kadar çıkabiliyor. Kalifiye bir işçi şu an bir beyaz yakalıdan daha yüksek maaş alıyor. Maaş dengesi değişti; mavi yakalının maaşı, beyaz yakalınınkini geçti. İş dünyası, yetişmiş eleman sorunu nedeniyle mavi yakaya öncelik verirken beyaz yaka gözden çıkarıldı. Örneğin, 2 yıllık üniversiteyi bitiren bir hemşire şu an 20-22 bin lira maaş alıyor.
+
+================================================================================
+
+## Economic Segment 11
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 90
+**Retention**: 45.69%
+
+Ama ondan iş isteyen bir döner ustası hemşire kızının maaşının 3 katından fazlasını istiyor. TÜİK 2023 verilerine göre yüksek öğretim mezunlarının gelir artışı %80,5 olurken ortaokul mezunlarının ise %89,7 oldu. Bir döner ustası geliyor 60-70 bin lira maaş istiyor. Garson geliyor 50 bin liranın altında çalışmam diyor. Bankada teknoloji departmanında çalışıyorum. Üniversite okudum, mühendisiyim aslında. Daha sonradan yüksek lisans yaptım. Ne kadar aldığını sorabilirim, 2500 dolar diyebilirim. Yani ortalama 80 bin lira alıyor, döner ustasından 10 bin lira fazla. Çalışıyorlar ama emeklerinin karşılığını alamıyorlar. Bir gelir adaletsizliği oldu zaten aşikar.
+
+================================================================================
+

@@ -1,0 +1,33 @@
+# Economic Content from: 20240713_Show Ana Haber 13 Temmuz 2024.tr.txt
+# Processed: 2025-07-22T17:30:08.933783
+# Original: 1374 words → Filtered: 167 words (12.15% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 99
+**Retention**: 100.00%
+
+bu görüntüler kaldı hocam dediği güzellik sektörünün patroniçesi neslim Güngen le eşi Dün adliyeye
+sevk edilmişti hesaplarında 1,5 milyar liralık şüpheli para akışı tespit edilen Fenomen çift
+tutuklandı para kasaları olduğu iddia edilen şüpheli ise hala kayıp incelesin hiçbir şeyimizi
+bulamazlar ben 25 yıldır sektördeyim Lütfen beni araştırın lütfen lütfen lütfen araştırın ki benim
+başarılarımı görün övündü Sözde başarıları gösterişli hayatı lüks araçları para saçma Tiyatroları
+hepsi geride kaldı Yemin et bana bu Çeşme aktığın sürece Beni sevecek misin Yemin ederim ki bu Çeşme
+aktığı sürece Hatta Kurusa bile benim kalbimdeki aşk sönmeyecek beni aldattı dediği kocası tüm suçu
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 68
+**Retention**: 46.58%
+
+Hakkari'de yaşayan Yıldırım çifti bir ay önceki düğünleri için Şubat ayında mobilya siparişi vermişti. Ama iddiaya göre o mobilyalar 7 ay geçmesine rağmen bir türlü gelmedi. Dolandırıldıklarını söyleyen diyetisyen Mine Yıldırım, yaşadıkları perişanlığı anlattı. Ünlü bir mobilya firması tarafından 7 aydır mağdur ediliyorlar. 20 Haziran'da evlendiklerinde, aylar öncesinden sipariş vermişlerdi ama mobilyaları bir türlü gelmedi. Bu durum, tüketici hakları ve ticaretin işleyişi açısından önemli bir sorun teşkil ediyor.
+
+================================================================================
+

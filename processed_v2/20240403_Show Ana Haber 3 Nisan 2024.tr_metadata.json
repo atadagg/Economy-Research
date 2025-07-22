@@ -1,0 +1,62 @@
+{
+  "file_path": "news/Show/20240403_Show Ana Haber 3 Nisan 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T17:28:07.167267",
+  "original_word_count": 1984,
+  "filtered_word_count": 49,
+  "retention_ratio": 0.02469758064516129,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "İyi akşamlar sayın seyirciler",
+      "description": "\"İyi akşamlar sayın seyirciler\" - The presenter introduces herself and sets the stage for the news broadcast, indicating the start of the program.",
+      "end_pos": 0
+    },
+    {
+      "type": "5. **OUTRO**",
+      "start_pos": 0,
+      "start_sentence": "İyi akşamlar",
+      "description": "\"İyi akşamlar\" - The closing remarks of the broadcast, signaling the end of the program.",
+      "end_pos": 95
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 95,
+      "start_sentence": "Cumhurbaşkanı Erdoğan güneşi gören buz gibi erimem için hataları görüp",
+      "description": "\"Cumhurbaşkanı Erdoğan güneşi gören buz gibi erimem için hataları görüp\" - This section contains the main news content, discussing various political developments, statements from President Erdoğan, and evaluations of local election results.",
+      "end_pos": 1254
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 1254,
+      "start_sentence": "Afiyet olsun Cumhurbaşkanım",
+      "description": "\"Afiyet olsun Cumhurbaşkanım\" - This brief transition indicates a shift in focus, moving from one news topic to another, specifically transitioning to Erdoğan's interactions with others.",
+      "end_pos": 1657
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1657,
+      "start_sentence": "MHP lideri Bahçeli'den bir kez daha dikkat çeken yerel seçim değerlendirmesi",
+      "description": "\"MHP lideri Bahçeli'den bir kez daha dikkat çeken yerel seçim değerlendirmesi\" - This section continues with additional news content, focusing on MHP leader Bahçeli's comments regarding local elections.",
+      "end_pos": 14102
+    }
+  ],
+  "news_segments_count": 5,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "95_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 153,
+      "filtered_length": 49,
+      "retention_ratio": 0.3202614379084967,
+      "section_description": "\"Cumhurbaşkanı Erdoğan güneşi gören buz gibi erimem için hataları görüp\" - This section contains the main news content, discussing various political developments, statements from President Erdoğan, and evaluations of local election results."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

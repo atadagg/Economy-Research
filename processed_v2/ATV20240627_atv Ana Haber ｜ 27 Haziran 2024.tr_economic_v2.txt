@@ -1,0 +1,55 @@
+# Economic Content from: ATV20240627_atv Ana Haber ｜ 27 Haziran 2024.tr.txt
+# Processed: 2025-07-22T16:39:27.734783
+# Original: 4736 words → Filtered: 324 words (6.84% retention)
+# Economic segments: 3
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 158
+**Retention**: 100.00%
+
+000 L kaybetti Şahin konuyu biraz da
+gurur meselesi yaptı dedektif gibi iz sürdü sonunda dolandırıcıya ulaştı bütün parasını geri almayı
+da başardı 33 lir da fazlasını Hatta hem dolandırıyor hem de abi ne olur hakkınızı bana helal edin
+diyor kopya sitelerin kurbanı oldu parasının peşine düşüp dedektif gibi iz sürdü sonunda dolandır
+kad ulaştı çok şükür 8 000 liram geldi yani onu da afiyetle harcadık yani hanımla Almanya'da yaşayan
+Gurbetçi Mustafa Şahin damadına gelen kargonun nerede olduğunu araştırmak için İnternette arama
+motoruna Kargo firmasının ismini yazdı Bir Kargo Firması çıktı İlk oraya tıkladım Ankara ulusa
+bekletiliyor muu 7 5 Lira ödemeniz var bunu ödemezseniz Kargo bekletilecek Ben de hiç şüphelen
+kartım şifrelerini girdim O ödeme yaptığını zannederken K bilgileri dolandırıcıların eline geçmişti
+Mustafa Şahin durumu fark ettiğinde Her şey için çok geçti Bir tane şirketten 5 000 liralık
+alışveriş yapmışım diğer bir şirketten 2967 liralık alışveriş yapmışım hayretler içinde kaldım apar
+topar kartını alışverişe kapadı ama 8
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 92
+**Retention**: 100.00%
+
+000 L da olsa parasını dolandırıcıya bırakmaya niyeti yoktu
+önce bankalar aracılığıyla hakkını aramaya çalıştı hangi saatte dolandırıldı ne zaman yaptın
+kağıtları falan hepsini mailine gönderdim ama maalesef dönüş yok ama pes etmedi bu kez kredi
+kartından alışveriş yapılan firmaların Peşine Düştü o firmalardan birisi önce yardımcı olmasa da
+sonra geri döndü dolandırılmış sınız Biz bunu tespit ettik 5 000 L Ödeyeceğiz dediler gerçekten
+5 000 L hesabıma geldi firma Sadece parayı iade etmekle kalmadı dolandırıcının telefon numarasını da
+paylaştı Bu şahsı Arayım mı aramayayım mı falan Ben deim arayacağım Benim 3
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 74
+**Retention**: 47.44%
+
+Ticaret Bakanlığı ikinci el araç satışında 6 ay 6,000 km sınırını bir kez daha uzattı. Ticaret Bakanlığı otomotiv sektöründe fiyat dengesini sağlamak ve stokçuluğu önüne geçebilmek için uygulamaların süresini 1 Ocak 2025 tarihine kadar uzattı. Otomobil fiyatları bir anda çok hızlı bir şekilde yükseldi. Bu durum, piyasa üzerinde önemli bir etki yarattı. İkinci el araç satışında güncel satış fiyatının üzerinde bir fiyattan satışın önüne geçildi. Sıfır satışlarında 300,000 - 350,000 TL'lik bir indirim oldu.
+
+================================================================================
+

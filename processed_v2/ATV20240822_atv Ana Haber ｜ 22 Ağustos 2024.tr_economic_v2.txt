@@ -1,0 +1,55 @@
+# Economic Content from: ATV20240822_atv Ana Haber ｜ 22 Ağustos 2024.tr.txt
+# Processed: 2025-07-22T16:03:23.863304
+# Original: 4734 words → Filtered: 323 words (6.82% retention)
+# Economic segments: 4
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 88
+**Retention**: 37.61%
+
+Hükümet, 25 Ağustos pazar günü Türklerin Anadolu'ya giriş kapısı olarak bilinen Bitlis Ahlat'a çıkarma yapacak. Toplantıda ekonomideki son gelişmeler masaya yatırılacak. Ayrıca, Ahlat başta olmak üzere bölgenin sorun ve ihtiyaçlarının da gündeme gelmesi bekleniyor. 
+
+Cumhurbaşkanı Erdoğan'ın pazar mesaisinde sadece kabine toplantısı yok, aynı zamanda bölgedeki ekonomik durum ve ihtiyaçlar da ele alınacak. Ekonomik veriler ve istatistikler, hükümetin alacağı kararlar üzerinde etkili olacak. 
+
+Pazartesi günü ise iki lider Muş Malazgirt'te tarihi meydanda büyük zaferin yıldönümü kutlamalarında buluşacak. Bu etkinlikler, bölgedeki ekonomik canlanma ve yatırımlar açısından önemli bir fırsat sunabilir.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 90
+**Retention**: 45.45%
+
+Murat Erdem, ikinci evliliği nedeniyle yaşadığı nafaka yükümlülüğünden dolayı sorunlar yaşamaktadır. Bozulan ikinci evliliklerin çoğu, nafaka yükümlülükleri nedeniyle gerçekleşmektedir. Didim'de yaşayan eski eşinin birden fazla geliri olduğu iddia edilmekte, ancak bu gelirlerin gizli olarak çalıştığı belirtilmektedir. Bu durum, ekonomik olarak zor bir süreçte olan bireylerin yaşamlarını etkilemektedir. 
+
+Özel okullardaki eğitim masrafları da artış göstermektedir; Milli Eğitim Bakanlığı'nın ücretsiz kitaplarına ek olarak, velilerden alınması zorunlu tutulan kitapların ücreti iki katına çıkmıştır. Bazı okullar, velilerden yılda kitap için fazladan 8,000 lira talep etmeye başlamıştır. Özel okullar, eğitim masraflarını artırarak ailelerin bütçelerini zorlamaktadır.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 83
+**Retention**: 44.39%
+
+Okul kitap masrafları, öğrencisini özel okula veren veliler için ekstra bir külfet olmuştu. Ancak bu külfet, geçen yıla oranla iki kat arttı. Geçen yıl 20,000 olan okul kitap ücretleri 40,000 liraya kadar dayandı. Bu sene ilk duyumlar 40,000 liraya başladı ve bu fiyatların daha da yükseleceği aşikar. Hatta bazı okullarda kitap ücretleri 80,000 liraya kadar çıkıyor. Geçen seneye göre ciddi bir zam yapıldı; en az iki katına çıktı. Yani bu dönem için 50,000 liraya kadar çıkacağı öngörülüyor. Veliler bu konuda çok suistimal ediliyor.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 62
+**Retention**: 62.63%
+
+Toplu Konut İdaresi (TOKİ), İstanbul, Ankara ve İzmir'in de bulunduğu 32 ilde 173 arsayı satışa çıkardı. %25 peşin ve 48 ay vadeyle ödeme kolaylığı sağlanan arsalar için başvurular başladı. İhale ise 29 Ağustos'ta gerçekleştirilecek. Vatandaşlar, arzuladıkları konutlarını faizsiz bir şekilde sabit ve uygun ödeme koşullarıyla altyapısı tamamlanmış imar planı hazırlanmış arsalarda inşa edebilecekler. Bu durum, konut sektöründe önemli bir gelişme olarak değerlendiriliyor.
+
+================================================================================
+

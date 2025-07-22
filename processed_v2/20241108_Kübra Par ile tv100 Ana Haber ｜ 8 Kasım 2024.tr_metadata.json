@@ -1,0 +1,122 @@
+{
+  "file_path": "news/TV100/20241108_Kübra Par ile tv100 Ana Haber ｜ 8 Kasım 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T18:43:18.114056",
+  "original_word_count": 9646,
+  "filtered_word_count": 375,
+  "retention_ratio": 0.03887621812150114,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "TV1 ekranlarından Herkese iyi akşamlar ben Kübra Par...",
+      "description": "\"TV1 ekranlarından Herkese iyi akşamlar ben Kübra Par...\" - The presenter introduces herself and the program, indicating the start of the news broadcast.",
+      "end_pos": 73
+    },
+    {
+      "type": "11. **OUTRO**",
+      "start_pos": 73,
+      "start_sentence": "Ana Haber başlıyor efendim Narin Günen cinayeti dava...",
+      "description": "\"Ana Haber başlıyor efendim Narin Günen cinayeti dava...\" - The closing remarks that signal the end of the introduction to the news segment.",
+      "end_pos": 93
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 93,
+      "start_sentence": "Bugün yine günlerden narin narin kim neden öldürdü...",
+      "description": "\"Bugün yine günlerden narin narin kim neden öldürdü...\" - This section contains the main news content, discussing various topics including the Narin Günen murder case, political statements, and economic issues.",
+      "end_pos": 188
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 188,
+      "start_sentence": "Ama tek kelimeyle ü oynuyorlar...",
+      "description": "\"Ama tek kelimeyle ü oynuyorlar...\" - This brief transition leads into the next news story, indicating a shift in focus while still within the news segment.",
+      "end_pos": 481
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 481,
+      "start_sentence": "Siyaset haftanın son gününde gündemde...",
+      "description": "\"Siyaset haftanın son gününde gündemde...\" - This continues the news content, focusing on political developments and statements from various political figures.",
+      "end_pos": 873
+    },
+    {
+      "type": "5. **TRANSITION**",
+      "start_pos": 873,
+      "start_sentence": "peki iki isim ne görüşecek detaylarını anlatacağım...",
+      "description": "\"peki iki isim ne görüşecek detaylarını anlatacağım...\" - Another transition that prepares the audience for further details on the political discussions.",
+      "end_pos": 968
+    },
+    {
+      "type": "6. **NEWS**",
+      "start_pos": 968,
+      "start_sentence": "Cumhurbaşkanı Erdoğan'ın budapeşt dönüşü gazetecilere yaptığı açıklamalar...",
+      "description": "\"Cumhurbaşkanı Erdoğan'ın budapeşt dönüşü gazetecilere yaptığı açıklamalar...\" - This section continues to provide news content, specifically regarding statements made by the President.",
+      "end_pos": 1069
+    },
+    {
+      "type": "7. **TRANSITION**",
+      "start_pos": 1069,
+      "start_sentence": "Hani geçmişte faiz sebep enflasyon sonuç diyordu ya...",
+      "description": "\"Hani geçmişte faiz sebep enflasyon sonuç diyordu ya...\" - A transition that introduces economic topics related to the President's statements.",
+      "end_pos": 1549
+    },
+    {
+      "type": "8. **NEWS**",
+      "start_pos": 1549,
+      "start_sentence": "Zira Merkez Bankası başkanı da bugün enflasyon raporunu açıkladı...",
+      "description": "\"Zira Merkez Bankası başkanı da bugün enflasyon raporunu açıkladı...\" - This section discusses the Central Bank's inflation report and its implications.",
+      "end_pos": 1549
+    },
+    {
+      "type": "9. **TRANSITION**",
+      "start_pos": 1549,
+      "start_sentence": "ama yıl sonu enflasyon hedefini 38'den 44'e çıkardı...",
+      "description": "\"ama yıl sonu enflasyon hedefini 38'den 44'e çıkardı...\" - A transition that leads into the next topic regarding economic forecasts.",
+      "end_pos": 1650
+    },
+    {
+      "type": "10. **NEWS**",
+      "start_pos": 1650,
+      "start_sentence": "3ün başlıkta Mansur Yavaş Ankara'daki konser iddiaları...",
+      "description": "\"3ün başlıkta Mansur Yavaş Ankara'daki konser iddiaları...\" - This section presents another news story about allegations related to a concert in Ankara.",
+      "end_pos": 67864
+    }
+  ],
+  "news_segments_count": 9,
+  "economic_segments_count": 3,
+  "economic_segments": [
+    {
+      "segment_id": "1069_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 72,
+      "filtered_length": 66,
+      "retention_ratio": 0.9166666666666666,
+      "section_description": "\"Hani geçmişte faiz sebep enflasyon sonuç diyordu ya...\" - A transition that introduces economic topics related to the President's statements."
+    },
+    {
+      "segment_id": "1650_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 256,
+      "filtered_length": 232,
+      "retention_ratio": 0.90625,
+      "section_description": "\"3ün başlıkta Mansur Yavaş Ankara'daki konser iddiaları...\" - This section presents another news story about allegations related to a concert in Ankara."
+    },
+    {
+      "segment_id": "1650_5",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 178,
+      "filtered_length": 77,
+      "retention_ratio": 0.43258426966292135,
+      "section_description": "\"3ün başlıkta Mansur Yavaş Ankara'daki konser iddiaları...\" - This section presents another news story about allegations related to a concert in Ankara."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

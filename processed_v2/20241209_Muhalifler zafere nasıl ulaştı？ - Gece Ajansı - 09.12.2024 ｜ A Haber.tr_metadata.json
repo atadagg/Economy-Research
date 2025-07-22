@@ -1,0 +1,48 @@
+{
+  "file_path": "news/AHaber/20241209_Muhalifler zafere nasıl ulaştı？ - Gece Ajansı - 09.12.2024 ｜ A Haber.tr.txt",
+  "processing_timestamp": "2025-07-22T15:47:59.062684",
+  "original_word_count": 20588,
+  "filtered_word_count": 129,
+  "retention_ratio": 0.006265785894695939,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "İyi geceler değerli izleyenler aer ve A Haber radyo ortak yayınında gece ajansına Hoş geldiniz...",
+      "description": "\"İyi geceler değerli izleyenler aer ve A Haber radyo ortak yayınında gece ajansına Hoş geldiniz...\" - This section serves as the opening of the broadcast, welcoming viewers and introducing the program and its theme.",
+      "end_pos": 194
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 194,
+      "start_sentence": "Suriye'de 61 yıllık baas rejimi ve 54 yıllık Esat ailesinin yönetimi çöktü...",
+      "description": "\"Suriye'de 61 yıllık baas rejimi ve 54 yıllık Esat ailesinin yönetimi çöktü...\" - This section contains the main news content, discussing the situation in Syria and featuring reports from correspondents on the ground.",
+      "end_pos": 1066
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 1066,
+      "start_sentence": "Evet aslında Şam'da şu dakikalar itibariyle biraz daha ortalık sakinleşmiş durumda ancak...",
+      "description": "\"Evet aslında Şam'da şu dakikalar itibariyle biraz daha ortalık sakinleşmiş durumda ancak...\" - This brief transition connects different parts of the news story, indicating a shift in focus to the current situation in Syria.",
+      "end_pos": 141352
+    }
+  ],
+  "news_segments_count": 12,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "194_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 129,
+      "filtered_length": 129,
+      "retention_ratio": 1.0,
+      "section_description": "\"Suriye'de 61 yıllık baas rejimi ve 54 yıllık Esat ailesinin yönetimi çöktü...\" - This section contains the main news content, discussing the situation in Syria and featuring reports from correspondents on the ground."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

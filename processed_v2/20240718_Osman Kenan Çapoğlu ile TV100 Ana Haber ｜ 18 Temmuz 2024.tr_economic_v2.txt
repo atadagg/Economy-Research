@@ -1,0 +1,48 @@
+# Economic Content from: 20240718_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 18 Temmuz 2024.tr.txt
+# Processed: 2025-07-22T18:22:11.067601
+# Original: 10542 words → Filtered: 258 words (2.45% retention)
+# Economic segments: 3
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 71
+**Retention**: 36.41%
+
+Vergi paketi Meclis Plan ve bütçe komisyonunda görüşülmeye başlandı. Hazine ve Maliye Bakanı Mehmet Şimşek'in toplantıya katılarak sorulara yanıt vermesi istendi. Vergi kanunlarıyla bazı kanunlarda değişiklik yapılmasına dair kanun teklifi 53 maddeden oluşuyor. Komisyonun ardından genel kurula gelmesi bekleniyor. Paket kabul edilirse yurt dışına çıkış harcı 150 liradan 500 liraya yükselecek. Bu tutar her yıl yeniden değerleme oranında artırılacak. Ayrıca, 10,000 L olan en düşük emekli aylığı da 2,500 L zamlanacak.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 84
+**Retention**: 62.69%
+
+Bugün mecliste Plan bütçe komisyonuna geldi, 1.8 milyon emekliyi ilgilendiriyor. Normalde baktığımızda 16 milyon emekli var ama onların arasında % 12.5'luk bir orana denk geliyor. Tabii bu çalışma yeni vergi paketi ile birlikte görüşülüyor. Yeni vergi paketi artık Plan bütçe komisyonunda saat 14:30 itibariyle görüşmeler başladı. Ancak zaman zaman tartışmalar çıkıyor. 
+
+Bu düzenleme, emekli maaşlarının artırılmasıyla birlikte, ekonomik durumu da etkileyecek. Emekli maaşlarının yükseltilmesi, hanehalkı tüketimini artırabilir ve dolayısıyla ekonomik büyümeye katkı sağlayabilir. Ekonomik veriler, bu tür düzenlemelerin piyasalardaki etkilerini de gözler önüne seriyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 103
+**Retention**: 113.19%
+
+The text primarily discusses penalties related to invoicing and receipt issuance, which can be tied to business practices and economic implications. Here’s the filtered content focusing on the economic aspects:
+
+---
+
+Hükümet, fiş ve fatura düzenlemeyenlere yönelik cezaları artırmayı planlıyor. Şu anda 3.400 lira olan ceza, torba yasa teklifi ile birinci tespitte 10.000 liraya, ikinci tespitte 20.000 liraya, üçüncü tespitte 30.000 liraya, dördüncü tespitte 40.000 liraya ve beşinci tespitte 50.000 liraya kadar yükselebilecek. Ayrıca, fiş almamanın cezası da 5.000 lira olarak belirlenmiş durumda. Bu durum, işletmelerin maliyetlerini artıracak ve ekonomik faaliyetleri etkileyebilir. 
+
+--- 
+
+This version retains the economic context while removing irrelevant content.
+
+================================================================================
+

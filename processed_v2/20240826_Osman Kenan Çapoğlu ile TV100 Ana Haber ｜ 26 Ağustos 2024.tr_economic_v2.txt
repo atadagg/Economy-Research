@@ -1,0 +1,42 @@
+# Economic Content from: 20240826_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 26 Ağustos 2024.tr.txt
+# Processed: 2025-07-22T18:29:27.152440
+# Original: 10779 words → Filtered: 268 words (2.49% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 75
+**Retention**: 41.67%
+
+Türkiye'de son yıllarda yalnız başına yaşayan kişi sayısında ciddi bir artış yaşanmaya başlandı. İstatistiklere göre bu sayı 5.2 milyona ulaştı. Araştırma Türkiye İstatistik Kurumu'na ait. Buna göre son 10 yılda tek kişilik hane halkı sayısı % yükseldi. Yalnız yaşama eğilimi gün geçtikçe artıyor. Ekonomik şartlar, insanların kendi kendine yetememesiyle de bağlantılı. Ekonomik zorluklar, bireylerin sosyal ilişkilerini etkileyerek yalnızlaşmalarına neden oluyor. Bu durum, ailelerde iletişimin azalmasına ve insanların evde daha izole bir yaşam sürmesine yol açıyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_final
+**Confidence**: 0.50
+**Word Count**: 193
+**Retention**: 100.00%
+
+000 dolar bağış
+toplamayı başardı görevin tamamlandığını hissediyorum ve kendimi rezil etmedim başarıyla inmesinin
+ardından Birleşik Krallık'ın en yaşlı paraşütçüsü unvanı da onun oldu aslında bu yaşlı Çınarın ilk
+macerası değil 100 doğum gününü de bir Yarış arabasını saatte 209 km hızla kullanarak kutlamıştı
+Buenos aires'te şu sıralar tangı Rüzgarı esiyor çiftler Aşkın ve tutkunun dansında dünya birincisi
+olmak için yarışıyorlar amatör ve profesyonel dansçıların performansları parmak ısırtacak cinsten
+Tango hırçınlığı romantizmi aşkı ve melankoliyi aynı potada eriten kalp kırıklıklarının bedenle
+sahneye yansıt Belki de tek dans arjantinle özdeşleşen Tango dünya dans Şampiyonası finallere doğru
+gidiyor rekor sayıda katılımcı son çiftlerin arasına girebilmek için ter döküyor eleme turlarına 53
+ülkeden 750'li arjantin'e çekti boyn ailesin müziğinin dansının ve şiirinin nostaljik kokusu kentin
+sokaklarını sardı sadece salonlar değil ünlü barlar müzeler ve akademiler gibi mekanlarda geleneksel
+Tango rüzgarlarıyla şenleniyor UNESCO Dünya Mirası olarak eşsiz zenginliğiyle kutlanan Tango Güney
+Amerika'ya özgü geleneksel bir dans en çok arjantin ve Uruguay tarafından benimsenmiş durumda bu
+haberle birlikte ana haberi noktalı değerli izleyenler bizden hemen sonra Ali İhsan varol'a Alfa
+Petek yarışma programı sizlerle olacak Yarın tekrar aynı saatte ana haberde görüşmek üzere Mutlu
+akşamlar hoşça kalın i
+
+================================================================================
+

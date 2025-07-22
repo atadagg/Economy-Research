@@ -1,0 +1,71 @@
+{
+  "file_path": "news/TV100/20241101_Kübra Par ile tv100 Ana Haber ｜ 1 Kasım 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T18:52:14.119068",
+  "original_word_count": 8870,
+  "filtered_word_count": 163,
+  "retention_ratio": 0.018376550169109357,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "TV1 ekranlarından Herkese iyi akşamlar...",
+      "description": "\"TV1 ekranlarından Herkese iyi akşamlar...\" - The presenter, Kübra Par, opens the program, greeting the audience and introducing the news segment.",
+      "end_pos": 98
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 98,
+      "start_sentence": "Bugün ekim ayını geride bıraktık...",
+      "description": "\"Bugün ekim ayını geride bıraktık...\" - The main news content begins, discussing political developments in Turkey, including the changing dynamics between the ruling party and the opposition, as well as a specific incident involving the CHP and the Esenyurt municipality.",
+      "end_pos": 770
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 770,
+      "start_sentence": "Peki Siyasette bundan sonra bizi neler bekliyor...",
+      "description": "\"Peki Siyasette bundan sonra bizi neler bekliyor...\" - This section serves as a transition, moving from the discussion of political events to the next news topic regarding child abuse in a Quran course.",
+      "end_pos": 1356
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1356,
+      "start_sentence": "20 çocuk eğitmenler tarafından defalarca dar...",
+      "description": "\"20 çocuk eğitmenler tarafından defalarca dar...\" - The news segment continues with a report on the abuse of children at a Quran course, detailing the situation and the response from the TV1 news team.",
+      "end_pos": 1653
+    },
+    {
+      "type": "5. **TRANSITION**",
+      "start_pos": 1653,
+      "start_sentence": "CHP heyeti Dün İstanbul'a gelmişti...",
+      "description": "\"CHP heyeti Dün İstanbul'a gelmişti...\" - Another transition occurs, shifting focus to the activities of the CHP in Istanbul and their planned group meeting.",
+      "end_pos": 62959
+    }
+  ],
+  "news_segments_count": 8,
+  "economic_segments_count": 2,
+  "economic_segments": [
+    {
+      "segment_id": "98_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 90,
+      "filtered_length": 99,
+      "retention_ratio": 1.1,
+      "section_description": "\"Bugün ekim ayını geride bıraktık...\" - The main news content begins, discussing political developments in Turkey, including the changing dynamics between the ruling party and the opposition, as well as a specific incident involving the CHP and the Esenyurt municipality."
+    },
+    {
+      "segment_id": "1653_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 108,
+      "filtered_length": 64,
+      "retention_ratio": 0.5925925925925926,
+      "section_description": "\"CHP heyeti Dün İstanbul'a gelmişti...\" - Another transition occurs, shifting focus to the activities of the CHP in Istanbul and their planned group meeting."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

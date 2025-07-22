@@ -1,0 +1,129 @@
+{
+  "file_path": "news/TV100/20241007_Nilüfer Özkan ile tv100 Ana Haber ｜ 7 Ekim 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T17:58:15.874246",
+  "original_word_count": 11879,
+  "filtered_word_count": 1082,
+  "retention_ratio": 0.09108510817408873,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "en sıcak gelişmelerle başlıklarla karşınızdayız",
+      "description": "\"en sıcak gelişmelerle başlıklarla karşınızdayız\" - The program opens with a greeting and introduction to the main topic, which is the ongoing situation in the Middle East.",
+      "end_pos": 56
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 56,
+      "start_sentence": "İsrail yine lübnan'ı bombaladı",
+      "description": "\"İsrail yine lübnan'ı bombaladı\" - This section contains the main news content, detailing the recent bombings in Lebanon by Israel, the responses from Hezbollah, and the impact on civilians, including casualties and evacuations.",
+      "end_pos": 1942
+    },
+    {
+      "type": "3. **OUTRO**",
+      "start_pos": 1942,
+      "start_sentence": "Burası Mer",
+      "description": "\"Burası Mer\" - The program concludes with closing remarks, signaling the end of the broadcast.",
+      "end_pos": 85122
+    }
+  ],
+  "news_segments_count": 29,
+  "economic_segments_count": 10,
+  "economic_segments": [
+    {
+      "segment_id": "56_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 251,
+      "filtered_length": 251,
+      "retention_ratio": 1.0,
+      "section_description": "\"İsrail yine lübnan'ı bombaladı\" - This section contains the main news content, detailing the recent bombings in Lebanon by Israel, the responses from Hezbollah, and the impact on civilians, including casualties and evacuations."
+    },
+    {
+      "segment_id": "1942_6",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 62,
+      "filtered_length": 62,
+      "retention_ratio": 1.0,
+      "section_description": "\"Burası Mer\" - The program concludes with closing remarks, signaling the end of the broadcast."
+    },
+    {
+      "segment_id": "1942_9",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 152,
+      "filtered_length": 66,
+      "retention_ratio": 0.4342105263157895,
+      "section_description": "\"Burası Mer\" - The program concludes with closing remarks, signaling the end of the broadcast."
+    },
+    {
+      "segment_id": "1942_11",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 208,
+      "filtered_length": 131,
+      "retention_ratio": 0.6298076923076923,
+      "section_description": "\"Burası Mer\" - The program concludes with closing remarks, signaling the end of the broadcast."
+    },
+    {
+      "segment_id": "1942_14",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 103,
+      "filtered_length": 65,
+      "retention_ratio": 0.6310679611650486,
+      "section_description": "\"Burası Mer\" - The program concludes with closing remarks, signaling the end of the broadcast."
+    },
+    {
+      "segment_id": "1942_18",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 119,
+      "filtered_length": 68,
+      "retention_ratio": 0.5714285714285714,
+      "section_description": "\"Burası Mer\" - The program concludes with closing remarks, signaling the end of the broadcast."
+    },
+    {
+      "segment_id": "1942_19",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 134,
+      "filtered_length": 88,
+      "retention_ratio": 0.6567164179104478,
+      "section_description": "\"Burası Mer\" - The program concludes with closing remarks, signaling the end of the broadcast."
+    },
+    {
+      "segment_id": "1942_23",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 331,
+      "filtered_length": 119,
+      "retention_ratio": 0.3595166163141994,
+      "section_description": "\"Burası Mer\" - The program concludes with closing remarks, signaling the end of the broadcast."
+    },
+    {
+      "segment_id": "1942_24",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 208,
+      "filtered_length": 78,
+      "retention_ratio": 0.375,
+      "section_description": "\"Burası Mer\" - The program concludes with closing remarks, signaling the end of the broadcast."
+    },
+    {
+      "segment_id": "1942_25",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 154,
+      "filtered_length": 154,
+      "retention_ratio": 1.0,
+      "section_description": "\"Burası Mer\" - The program concludes with closing remarks, signaling the end of the broadcast."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

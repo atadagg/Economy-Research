@@ -1,0 +1,27 @@
+# Economic Content from: 20240624_Show Ana Haber 24 Haziran 2024.tr.txt
+# Processed: 2025-07-22T17:28:33.802096
+# Original: 2433 words → Filtered: 89 words (3.66% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 44
+**Retention**: 44.90%
+
+Cumhurbaşkanı Erdoğan, ekonomide atılacak yeni adımları ele aldı. Ekonomide atılacak adımlar, enflasyonla mücadele, vergi paketi ve AK Parti'nin yeni yol haritası üzerinde duruldu. Önceliğimiz bu ülkeyi hayat pahalılığı sorunundan temelli kurtarmaktır. Ekonomiden sorumlu Genel Başkan Yardımcısı Nihat Zeybekçi, gelen taleplerden hazırlanan raporun sunumunu yaptı.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 45
+**Retention**: 37.50%
+
+Göcek'te sezon çok iyi başladı. Tekne turları çok revaçta, bu da bölgedeki turizm gelirlerini artırıyor. Konaklama fiyatları ise iki kişi için 2.000 lira olarak belirlenmiş. Bu fiyatlar, yerel ekonomiye olumlu katkı sağlıyor. Ayrıca, otellerin sunduğu hizmetler ve fiyatlar, tatilcilerin tercihlerini etkileyerek bölgedeki ekonomik hareketliliği artırıyor.
+
+================================================================================
+

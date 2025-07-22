@@ -1,0 +1,66 @@
+# Economic Content from: 20240723_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 23 Temmuz 2024.tr.txt
+# Processed: 2025-07-22T18:35:37.118987
+# Original: 9311 words → Filtered: 466 words (5.00% retention)
+# Economic segments: 4
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 188
+**Retention**: 100.00%
+
+30 sıralarında başladı ve yine bir tartışmayla
+başlamış oldu çünkü Eee konuşma süreleri kısıtlanmış oldu Eee süreleri Eee indirilmiş oldu biraz
+daha aslında herkes konuşabilir geliyordu Ama bir sınır getirildi ki daha En azından etkili ve
+verimli çalışalım dedi Vahit Kirişçi Komisyon Başkanı ve komisyon üyelerinin konuşma süresi 4 dakika
+üye olmayanlar için de üçer dakikalık bir süre verilmiş oldu Böylece aslında komisyon görüşmeleri
+daha da hızlandığını belirtelim şu anda 10 madde kabul edildi 11 madde ile devam ediliyor Osman
+Kenan buraya kadarki süreçte Ne oldu Onu hemen aktaralım bir dünkü ötene Eee konuşması burada bir
+Eee kelime değişikliği yapılmış oldu kelime çıkarıldı veterinerlik hizmetleri kanununa Atıf yapılmış
+oldu e ötzi yasaktır ancak diyerek e hangi hallerde Veterinerler Eee ötenaziye karar verebilir İşte
+o maddeler sıralanmış oldu peşinden kediler de bu kapsamın içinde mi dışında mı 4 madde İşte o
+maddede de değişiklik yapıldı ve sadece rehabilite edilen köpekler ifadesi e kullanılmış oldu yani
+kediler de kapsam dışı kalmış oldu bu görüşmeler devam ederken Şimdi 10 madde Az önce kabul edildi O
+maddede para cezaları var idari para cezaları Eee sahipli hayvanını sahipsiz bırakan terk edenlere
+yönelik 60
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 88
+**Retention**: 30.56%
+
+Ekonomik veriler ve istatistikler doğrultusunda, yeni vergi paketi 53 maddelik olarak planlanmıştı ancak genel kurulda 54 madde olarak görüşülmeye başlandı. Bugün genel kurulda bu 54 madde milletvekillerinin onayına sunulacak. Özellikle muhalefet partilerinin birçok itirazı olacağı öngörülüyor. 
+
+Ayrıca, yeni vergi paketinin ay sonuna kadar tamamlanması bekleniyor. Bu süreçte, vergi paketinin resmi gazetede yayınlanması için gerekli adımların atılması hedefleniyor. Ekonomik politikalar çerçevesinde, bu vergi düzenlemeleri emekli aylıklarını da kapsayacak şekilde önemli değişiklikler içerebilir. 
+
+Sonuç olarak, hükümetin bu yeni vergi paketi ile ekonomik durumu iyileştirmeyi ve mali disiplini sağlamayı amaçladığı görülüyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 86
+**Retention**: 64.18%
+
+000 liradan 12 500 liraya çıkaran düzeltme o madde özellikle muhalefet partilerinin en çok eleştirdiği maddeyi buna ilişkin. Ancak birkaç gün içerisinde bu sürecin tamamlanması ve bu yeni vergi paketinin resmi gazetede yayınlanması bekleniyor. Bu yeni vergi paketinde birçok önemli başlık vardı. Tartışılan başlıklardan birincisi, en düşük emekli aylığıyla yurt içi asgari Kurumlar Vergisi uygulaması getirilecek. Buna bağlı olarak, küresel şirketlerin Türkiye'deki faaliyetleri kapsamında elde ettikleri kardan % 15'lik bir asgari Kurumlar Vergisi alınacak. Aslında en çok tartışılan bir diğer başlık da yurt dışı çıkış harcı.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 104
+**Retention**: 60.82%
+
+Ekonomik verilerle ilgili bazı eleştiriler vardı ve bu da artık bu yargı vergi paketinde yer aldı. Yurtdışı çıkış harcı 150 liradan 500 liraya yükseltilecek, harç ücreti ise her yıl yeniden değerleme oranında artırılacak. EYT ile birlikte gündeme gelen emekli maaşlarıyla ilgili olarak, emekli olduktan sonra aynı iş yerinde devam eden personel için işverene sağlanan 5 puanlık destek, bu vergi paketinin yasalaşması durumunda ortadan kalkacak. Genel kurulda yeni vergi paketinin görüşülmeye başlanması bekleniyor. Vergi paketine ilişkin son tablo detaylarıyla aktarılıyor; 53 madde tek tek konuşuluyor, görüşülüyor ve karara bağlanıyor. Kısa vadede, özellikle emekli maaşlarındaki artışın en düşük emekli maaşını 10,000 liradan 12,000 liraya çıkaracağı öngörülüyor.
+
+================================================================================
+

@@ -1,0 +1,80 @@
+{
+  "file_path": "news/TV100/20240806_Oya Çebi ile TV100 Ana Haber ｜ 6 Ağustos 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T18:36:42.978729",
+  "original_word_count": 11439,
+  "filtered_word_count": 336,
+  "retention_ratio": 0.02937319695777603,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "efendim İyi akşamlar TV3 ekranlarına hoş geldiniz",
+      "description": "\"efendim İyi akşamlar TV3 ekranlarına hoş geldiniz\" - The presenter welcomes viewers to the program, introduces the date, and outlines the main topics to be covered in the news broadcast.",
+      "end_pos": 287
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 287,
+      "start_sentence": "Şimdi Türkiye'ye dönelim Instagram'ı konuşuyoruz",
+      "description": "\"Şimdi Türkiye'ye dönelim Instagram'ı konuşuyoruz\" - This section contains the main news content, discussing various topics including the situation between Iran and Israel, developments regarding Instagram, and significant economic news, as well as the achievements of the Turkish volleyball team in the Olympics.",
+      "end_pos": 486
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 486,
+      "start_sentence": "ama öncesinde Ne diyelim biliyor musunuz",
+      "description": "\"ama öncesinde Ne diyelim biliyor musunuz\" - A brief transition phrase that indicates a shift in focus to a specific news story about the Turkish volleyball team's success.",
+      "end_pos": 784
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 784,
+      "start_sentence": "Çin seddini yıktı geçti ve tarihimizde ilk kez olimpiyatlarda yarı finale çıkan bir takım oldu",
+      "description": "\"Çin seddini yıktı geçti ve tarihimizde ilk kez olimpiyatlarda yarı finale çıkan bir takım oldu\" - This part continues the news segment, detailing the volleyball team's historic achievement in the Olympics and the reactions surrounding it.",
+      "end_pos": 1762
+    },
+    {
+      "type": "5. **OUTRO**",
+      "start_pos": 1762,
+      "start_sentence": "Haydi kızım Haydi bismillah",
+      "description": "\"Haydi kızım Haydi bismillah\" - The closing remarks that reflect on the excitement and celebrations following the volleyball team's victory, signaling the end of the news segment.",
+      "end_pos": 82548
+    }
+  ],
+  "news_segments_count": 8,
+  "economic_segments_count": 3,
+  "economic_segments": [
+    {
+      "segment_id": "1762_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 203,
+      "filtered_length": 114,
+      "retention_ratio": 0.5615763546798029,
+      "section_description": "\"Haydi kızım Haydi bismillah\" - The closing remarks that reflect on the excitement and celebrations following the volleyball team's victory, signaling the end of the news segment."
+    },
+    {
+      "segment_id": "1762_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 192,
+      "filtered_length": 108,
+      "retention_ratio": 0.5625,
+      "section_description": "\"Haydi kızım Haydi bismillah\" - The closing remarks that reflect on the excitement and celebrations following the volleyball team's victory, signaling the end of the news segment."
+    },
+    {
+      "segment_id": "1762_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 189,
+      "filtered_length": 114,
+      "retention_ratio": 0.6031746031746031,
+      "section_description": "\"Haydi kızım Haydi bismillah\" - The closing remarks that reflect on the excitement and celebrations following the volleyball team's victory, signaling the end of the news segment."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

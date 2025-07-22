@@ -1,0 +1,55 @@
+{
+  "file_path": "news/Show/20240330_Show Ana Haber 30 Mart 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T17:16:55.002368",
+  "original_word_count": 3889,
+  "filtered_word_count": 126,
+  "retention_ratio": 0.03239907431216251,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "Efendim haberin merkezinde ş ana haberdesin",
+      "description": "\"Efendim haberin merkezinde ş ana haberdesin\" - The presenter introduces the program and sets the stage for the news content, mentioning the focus on local elections in Turkey.",
+      "end_pos": 94
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 94,
+      "start_sentence": "Türkiye Nefesini tuttu milyonlarca seçmen şimdi yerel seçimlere kilitlendi",
+      "description": "\"Türkiye Nefesini tuttu milyonlarca seçmen şimdi yerel seçimlere kilitlendi\" - This section contains the main news content, discussing the preparations for local elections, security measures, and regulations regarding the election day.",
+      "end_pos": 1360
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 1360,
+      "start_sentence": "Peki oy verirken nelere dikkat etmeliyiz",
+      "description": "\"Peki oy verirken nelere dikkat etmeliyiz\" - This brief transition introduces a new topic related to voting procedures and what voters should be aware of when casting their votes.",
+      "end_pos": 1460
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1460,
+      "start_sentence": "Üç Pusula tek zarfa girecek",
+      "description": "\"Üç Pusula tek zarfa girecek\" - This continues the news content, detailing the voting process and requirements for voters, including what identification is necessary and restrictions on items allowed at polling stations.",
+      "end_pos": 26556
+    }
+  ],
+  "news_segments_count": 13,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "1460_7",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 263,
+      "filtered_length": 126,
+      "retention_ratio": 0.4790874524714829,
+      "section_description": "\"Üç Pusula tek zarfa girecek\" - This continues the news content, detailing the voting process and requirements for voters, including what identification is necessary and restrictions on items allowed at polling stations."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

@@ -1,0 +1,38 @@
+# Economic Content from: ATV20240809_atv Ana Haber ｜ 9 Ağustos 2024.tr.txt
+# Processed: 2025-07-22T16:35:05.310532
+# Original: 4564 words → Filtered: 230 words (5.04% retention)
+# Economic segments: 3
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 44
+**Retention**: 55.00%
+
+81 ilde emekliler için özel indirim anlaşmaları imzalandı. 2024 emekliler yılı olarak ilan ediliyor ve bu kapsamda atılan adımlar, emeklilere ekonomik destek sağlamayı amaçlıyor. Çalışma Bakanlığı, emeklilere farklı alanlarda pek çok imkan sunuyor. Emekliler için ilk adım zamlarla atıldı; en düşük emekli maaşı 12.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 117
+**Retention**: 65.00%
+
+376 TL'dir özel okulların servis ücretleri, UKOME tarafından belirlenen tarifeye göre tavan fiyat olarak belirlenmiştir. Ancak, servis hizmeti verenler bu tarifenin üzerinde fiyatlandırma yapmaktadırlar. Yeni eğitim öğretim yılı için okul servis ücretlerine %116 zam yapılmıştır. En kısa mesafe için rehber personel ücreti dahil 2,46 lira, en uzak mesafe için ise 5,4 lira olarak belirlenmiştir. Velilerin isyanı, karara uymayan servis firmalarına yöneliktir. Özel okullar, taşıma işini bir tur şirketine vermekte ve bu durum fiyatların artmasına neden olmaktadır. UKOME toplantısında alınan kararla birlikte rehber personel ücreti dahil 1,3 kilometre için yıllık servis ücreti 2,28 lira olarak belirlenmiştir. Ancak bazı özel okullar, 1,3 kilometre için yıllık servis ücreti olarak 54,28 lira talep etmektedir. Bu rakam, ciddi bir mali yük oluşturmaktadır.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 69
+**Retention**: 100.00%
+
+74 7 lir ama velilerden talep edilen bu rakamın çok üstünde bizden istenilen ücret 7282 lir. Yakıt zamlarının yansıtılacak olması, yılbaşında asgari ücret ve yakıt zamları ile birlikte ekonomik etkileri artıracak. Dönem için söylüyorlar, yine başka bir özel okul veli'den servis ücreti için iki katına yakın ücret istiyor. UKOME kararı ile birlikte 1921 kre arasında yıllık servis ücreti 550 75 L ama özel okul veli'den yıllık ücret için 91.
+
+================================================================================
+

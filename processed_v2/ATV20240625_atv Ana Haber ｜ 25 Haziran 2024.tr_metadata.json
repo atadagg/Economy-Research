@@ -1,0 +1,85 @@
+{
+  "file_path": "news/ATV/ATV20240625_atv Ana Haber ｜ 25 Haziran 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T16:26:26.046895",
+  "original_word_count": 4672,
+  "filtered_word_count": 183,
+  "retention_ratio": 0.0391695205479452,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 23,
+      "start_sentence": "İyi akşamlar Bugün 25 Haziran Salı",
+      "description": "\"İyi akşamlar Bugün 25 Haziran Salı\" - The presenter opens the broadcast, greeting the audience and introducing the date and the seriousness of the topics to be discussed.",
+      "end_pos": 72
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 72,
+      "start_sentence": "Gündem çok yoğun bir o kadar da ciddi konumuz olası bir dünya savaşı",
+      "description": "\"Gündem çok yoğun bir o kadar da ciddi konumuz olası bir dünya savaşı\" - The main news content begins, discussing the potential for a world war, referencing various global conflicts and statements from leaders, particularly focusing on the Ukraine-Russia war and Middle Eastern tensions.",
+      "end_pos": 485
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 485,
+      "start_sentence": "Cumhurbaşkanı Recep Tayyip Erdoğan",
+      "description": "\"Cumhurbaşkanı Recep Tayyip Erdoğan\" - A transition occurs as the discussion shifts to President Erdoğan's actions and statements regarding the situation, indicating a change in focus within the news segment.",
+      "end_pos": 485
+    },
+    {
+      "type": "7. **OUTRO**",
+      "start_pos": 485,
+      "start_sentence": "Bu noktada bir notu aktaralım sizlere",
+      "description": "\"Bu noktada bir notu aktaralım sizlere\" - The closing remarks begin, indicating the end of the news content and transitioning towards concluding the broadcast.",
+      "end_pos": 871
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 871,
+      "start_sentence": "Dışişleri Bakanı Hakan Fidan",
+      "description": "\"Dışişleri Bakanı Hakan Fidan\" - The news segment continues with a focus on Foreign Minister Hakan Fidan's comments about the seriousness of the world war scenarios and the implications of ongoing conflicts.",
+      "end_pos": 1560
+    },
+    {
+      "type": "5. **TRANSITION**",
+      "start_pos": 1560,
+      "start_sentence": "Şimdi buradaki kabiliyetin ortaya çıkarttığı potansiyel",
+      "description": "\"Şimdi buradaki kabiliyetin ortaya çıkarttığı potansiyel\" - Another transition that leads into a discussion about technological advancements and their impact on global power dynamics.",
+      "end_pos": 1747
+    },
+    {
+      "type": "6. **NEWS**",
+      "start_pos": 1747,
+      "start_sentence": "Netenyahu hükümeti liderliğindeki İsrail sisteminin hamas'ı bahane ederek",
+      "description": "\"Netenyahu hükümeti liderliğindeki İsrail sisteminin hamas'ı bahane ederek\" - The news segment continues with a focus on Israel's actions and policies regarding Hamas and the Palestinian resistance, further elaborating on the ongoing conflicts.",
+      "end_pos": 33655
+    }
+  ],
+  "news_segments_count": 9,
+  "economic_segments_count": 2,
+  "economic_segments": [
+    {
+      "segment_id": "1747_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 112,
+      "filtered_length": 112,
+      "retention_ratio": 1.0,
+      "section_description": "\"Netenyahu hükümeti liderliğindeki İsrail sisteminin hamas'ı bahane ederek\" - The news segment continues with a focus on Israel's actions and policies regarding Hamas and the Palestinian resistance, further elaborating on the ongoing conflicts."
+    },
+    {
+      "segment_id": "1747_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 131,
+      "filtered_length": 71,
+      "retention_ratio": 0.5419847328244275,
+      "section_description": "\"Netenyahu hükümeti liderliğindeki İsrail sisteminin hamas'ı bahane ederek\" - The news segment continues with a focus on Israel's actions and policies regarding Hamas and the Palestinian resistance, further elaborating on the ongoing conflicts."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

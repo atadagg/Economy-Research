@@ -1,0 +1,70 @@
+# Economic Content from: 20240702_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 2 Temmuz 2024.tr.txt
+# Processed: 2025-07-22T18:54:20.299242
+# Original: 9229 words → Filtered: 416 words (4.51% retention)
+# Economic segments: 5
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 64
+**Retention**: 50.79%
+
+Cumhurbaşkanı Erdoğan kabineyi topladı, ana gündem ekonomi başlıkları. Milyonlarca memur emeklinin gözü zam oranlarında. Yarın Haziran enflasyonu netleşiyor ve 6 aylık tablo daha da net bir şekilde ortaya çıkacak. Nihai sonuç ortaya çıkacak. Kabine toplantısının detaylarına da bakacağız. Ekonomik veriler ve enflasyon oranları, memurların ve emeklilerin alım gücünü doğrudan etkileyecek. Bu nedenle, hükümetin alacağı kararlar büyük önem taşıyor. Ekonomik göstergeler, piyasalardaki dalgalanmaları da etkileyebilir.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 120
+**Retention**: 80.54%
+
+Geçen hafta gram altın fiyatı 480 liraydı. Şu anda 10-15 lira bir gerileme var; gram altın şu anda 2468 lira. Serbest piyasalarda altında geçtiğimiz haftaya göre 15 liralık bir gerileme olsa da, uzmanlara göre Temmuz ayının ikinci haftasından itibaren sert yükselişleri görmek mümkün olacak. Altın borcu olanlar ve altın yatırımı düşünenler 2450-2500 lira aralığını değerlendirmeli. Yıl sonuyla alakalı 3000-3500 lira beklentimiz halen devam ediyor. Döviz kurları ise sakin ilerliyor; 3262 lira seviyesinde bir dolar kuru var, 35 lira seviyesinde bir TL kuru var. Geçtiğimiz günlerde Hazine ve Maliye Bakanı Mehmet Şimşek, borsadaki kazançların vergilendirilmesi için çalışmalar yapıldığını açıkladı. Bu açıklama üzerine borsada düşüş görüldü; Temmuz ayına borsada düşüşlerle başladık ve 10,300 puan seviyesine kadar geriledi. Teknik olarak 10,100 puan yukarıda.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 54
+**Retention**: 33.75%
+
+Kripto paralar yatırım yapan yine perişan çünkü paralar yine buhar oldu. Türk yatırımcı milyonlarca dolar kaybetti, bu da ciddi bir zararı gözler önüne seriyor. Metaverse'de sanal ortamdan satın alınan değerler umulduğu gibi olmadı ve değerler çakıldı. Türk yatırımcı, milyonlarca dolar kaybetti ve on binlerce mağdur oluştu. Bu durum, yatırımcıların ne yapacaklarını düşünmelerine sebep oldu.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 107
+**Retention**: 42.46%
+
+25 dolara kadar düşmüş, halbuki bu 34 dolarlar civarındaydı. Değerler düşünce panik başladı, milyonlarca kullanıcı mağdur oldu. Özellikle de Türkler, çok ciddi yatırım yaptılar. Hatta bu arazileri alanların üçte biri istatistiklere göre Türklerdi. Bu kötü gidişat devam eder mi? Kara kara düşünen yatırımcı ne yapmalı? Uzmanına sorduk; bu projeler gelecekte artı değer sağlayabilir. Dolayısıyla, yatırımcının bu noktada "aman bu iş bitti" deyip bir kenara geçmesini ben doğru bulanlardan değilim. Uzmanlar, gerekli hukuki düzen oluşturulmadan bu tarz uygulamalara yatırım yapılmamalı diyor. Özellikle sosyal medya balon cümlelere ifadelere takılmasınlar, kendileri araştırsınlar. 
+
+Fiyatlar cep yakmaya başladı; çok pahalı, gereğinden fazla pahalı. Hal böyle olunca, vatandaş için konsere gitmek hayal oluyor.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 71
+**Retention**: 98.61%
+
+The filtered text focusing on economics, finance, and business is as follows:
+
+---
+
+Fiyatlar acayip şekilde yükseliyor. Bilet fiyatları çok yüksek. O yüzden zaten şu an sosyal medyaya ilgi artıyor, özellikle gençler durumdan şikayetçi. Bu durum, bütçelerini sarsıyor. 
+
+--- 
+
+(Note: The original text primarily discussed high ticket prices and their impact on social media engagement among youth, which can be interpreted as an economic concern related to consumer spending and affordability.)
+
+================================================================================
+

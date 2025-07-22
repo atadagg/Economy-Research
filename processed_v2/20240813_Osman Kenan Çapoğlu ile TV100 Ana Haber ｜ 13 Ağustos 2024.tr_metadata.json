@@ -1,0 +1,129 @@
+{
+  "file_path": "news/TV100/20240813_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 13 Ağustos 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T18:16:05.431022",
+  "original_word_count": 11052,
+  "filtered_word_count": 788,
+  "retention_ratio": 0.07129931234165762,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "Efendim Mutlu akşamlar 13 Ağustos salı TV1 an Haber'e Hoş geldiniz...",
+      "description": "\"Efendim Mutlu akşamlar 13 Ağustos salı TV1 an Haber'e Hoş geldiniz...\" - This section serves as the opening of the broadcast, where the presenter welcomes viewers and introduces the program, mentioning the key topics and the current situation in the Middle East.",
+      "end_pos": 93
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 93,
+      "start_sentence": "İran'ın İsrail'e saldırması bekleniyor tel aviv'de duyulan patlama sesi de ülkeyi alarma geçirdi...",
+      "description": "\"İran'ın İsrail'e saldırması bekleniyor tel aviv'de duyulan patlama sesi de ülkeyi alarma geçirdi...\" - This section contains the main news content, discussing the tensions between Iran and Israel, the recent rocket attacks, and the implications of these events. It includes detailed reports and updates from correspondents in the field.",
+      "end_pos": 1356
+    },
+    {
+      "type": "3. **OUTRO**",
+      "start_pos": 1356,
+      "start_sentence": "İzzettin El Kassam tugayından da bir açıklama var...",
+      "description": "\"İzzettin El Kassam tugayından da bir açıklama var...\" - This section wraps up the news report, summarizing the statements from Hamas and the ongoing situation, providing a closing context to the news segment.",
+      "end_pos": 79135
+    }
+  ],
+  "news_segments_count": 17,
+  "economic_segments_count": 10,
+  "economic_segments": [
+    {
+      "segment_id": "1356_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 192,
+      "filtered_length": 64,
+      "retention_ratio": 0.3333333333333333,
+      "section_description": "\"İzzettin El Kassam tugayından da bir açıklama var...\" - This section wraps up the news report, summarizing the statements from Hamas and the ongoing situation, providing a closing context to the news segment."
+    },
+    {
+      "segment_id": "1356_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 195,
+      "filtered_length": 92,
+      "retention_ratio": 0.4717948717948718,
+      "section_description": "\"İzzettin El Kassam tugayından da bir açıklama var...\" - This section wraps up the news report, summarizing the statements from Hamas and the ongoing situation, providing a closing context to the news segment."
+    },
+    {
+      "segment_id": "1356_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 94,
+      "filtered_length": 55,
+      "retention_ratio": 0.5851063829787234,
+      "section_description": "\"İzzettin El Kassam tugayından da bir açıklama var...\" - This section wraps up the news report, summarizing the statements from Hamas and the ongoing situation, providing a closing context to the news segment."
+    },
+    {
+      "segment_id": "1356_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 183,
+      "filtered_length": 91,
+      "retention_ratio": 0.4972677595628415,
+      "section_description": "\"İzzettin El Kassam tugayından da bir açıklama var...\" - This section wraps up the news report, summarizing the statements from Hamas and the ongoing situation, providing a closing context to the news segment."
+    },
+    {
+      "segment_id": "1356_6",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 197,
+      "filtered_length": 103,
+      "retention_ratio": 0.5228426395939086,
+      "section_description": "\"İzzettin El Kassam tugayından da bir açıklama var...\" - This section wraps up the news report, summarizing the statements from Hamas and the ongoing situation, providing a closing context to the news segment."
+    },
+    {
+      "segment_id": "1356_7",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 111,
+      "filtered_length": 60,
+      "retention_ratio": 0.5405405405405406,
+      "section_description": "\"İzzettin El Kassam tugayından da bir açıklama var...\" - This section wraps up the news report, summarizing the statements from Hamas and the ongoing situation, providing a closing context to the news segment."
+    },
+    {
+      "segment_id": "1356_10",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 120,
+      "filtered_length": 61,
+      "retention_ratio": 0.5083333333333333,
+      "section_description": "\"İzzettin El Kassam tugayından da bir açıklama var...\" - This section wraps up the news report, summarizing the statements from Hamas and the ongoing situation, providing a closing context to the news segment."
+    },
+    {
+      "segment_id": "1356_11",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 102,
+      "filtered_length": 102,
+      "retention_ratio": 1.0,
+      "section_description": "\"İzzettin El Kassam tugayından da bir açıklama var...\" - This section wraps up the news report, summarizing the statements from Hamas and the ongoing situation, providing a closing context to the news segment."
+    },
+    {
+      "segment_id": "1356_12",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 182,
+      "filtered_length": 87,
+      "retention_ratio": 0.47802197802197804,
+      "section_description": "\"İzzettin El Kassam tugayından da bir açıklama var...\" - This section wraps up the news report, summarizing the statements from Hamas and the ongoing situation, providing a closing context to the news segment."
+    },
+    {
+      "segment_id": "1356_13",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 192,
+      "filtered_length": 73,
+      "retention_ratio": 0.3802083333333333,
+      "section_description": "\"İzzettin El Kassam tugayından da bir açıklama var...\" - This section wraps up the news report, summarizing the statements from Hamas and the ongoing situation, providing a closing context to the news segment."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

@@ -1,0 +1,27 @@
+# Economic Content from: ATV20240722_atv Ana Haber ｜ 22 Temmuz 2024.tr.txt
+# Processed: 2025-07-22T16:18:18.423936
+# Original: 4653 words → Filtered: 277 words (5.95% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 148
+**Retention**: 75.13%
+
+500 liraya çıkaran düzenleme komisyondan geçmişti bu hafta jet hızıyla genel kurula gelmesi ardından da yasalaşması bekleniyor. 3,7 milyon emeklinin faydalanacağı düzenleme için zam farklarının Ağustos'un ilk haftasında hesaplarda olması hedefleniyor. Öte yandan AK Parti'nin emeklilik sisteminde yeni bir reform için düğmeye bastığı da konuşuluyor. Cumhurbaşkanı Erdoğan, emeklilerimizin enflasyona ezdirmeyeceğiz dedi. Milyonlarca emeklinin gözü zam farklarını almak için mecliste en düşük emekli aylığının 12,500 liraya çıkarılmasını öngören teklif bu hafta meclis genel kurulunda görüşülecek. Teklifin hızla yasalaşması bekleniyor. Memur emeklilerinin Temmuz ayı zam farkları 26 Temmuz'da hesaplarında olacak. SSK ve Bağkur emeklilerinin ise teklif yasalaştıktan sonra zam farklarını Ağustos ayının ilk haftasında almaları bekleniyor. AK Parti'nin ekonomik kurmayları da emeklilik sisteminde yeni bir reform için kolları sıvadı. Cumhurbaşkanı Erdoğan, Ekim ayında başlayacak olan yeni yasama yılını işaret ederek, bu işi ekonomik dengeleri nasıl bozmayacak şekilde götüreceğiz dedi. Adımlarımızı buna göre atıyoruz, yeni yasama döneminde bu konuyu gündeme getireceğiz.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 129
+**Retention**: 66.84%
+
+2008 yılında 55001 nolu yasa geldi, 16 yıl sonra yeni bir reform geliyor. Yeni emekli sistemi ile ilgili olarak, emekli maaşlarının tutarını doğrudan etkileyen aylık bağlama oranlarında düzenleme yapılması bekleniyor. Mevcut durumda emekli aylıkları ortalama 2000 yılı öncesinde % 78, 2000-2008 Eylül arasındaki dönemde % 65, Ekim 2008'den sonra ise % 50 üzerinden hesaplanıyor. Normalde vatandaşımızın maaşı 202.000 olacakken şu an 10.000 liralar, 11.000 liraya kadar düşüyor. Bu seviyenin dengelenmesi için bir çalışma yapılıyor. Emekli maaşları arasında eşitsizlik oluşturan en düşük emekli aylığı uygulaması da yeniden düzenlenebilir. Mevcut durumda 3600 prim günüyle malulen emekli olan birisiyle 6500 prim günü olan bir emekli aynı maaşı alıyor. İnsanlar ne kadar prim ödüyorsa o kadar karşılığını almaları gerekir. İşte bu adaletsizliği gidermek için emekli aylığının prim günüyle bağlantılı olarak hesaplanması yoluna gidilebilir.
+
+================================================================================
+

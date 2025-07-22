@@ -1,0 +1,57 @@
+{
+  "file_path": "news/TV100/20240816_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 16 Ağustos 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T18:53:05.616736",
+  "original_word_count": 11114,
+  "filtered_word_count": 221,
+  "retention_ratio": 0.019884829944214505,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "Efendim Mutlu akşamlar 16 Ağustos Cuma...",
+      "description": "\"Efendim Mutlu akşamlar 16 Ağustos Cuma...\" - The opening of the broadcast where the presenter greets the audience, introduces the date, and sets the stage for the news content.",
+      "end_pos": 99
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 99,
+      "start_sentence": "Türkiye Büyük Millet Meclisinde yaşananlar bugün ekrana gelecek...",
+      "description": "\"Türkiye Büyük Millet Meclisinde yaşananlar bugün ekrana gelecek...\" - The main news content discussing the events in the Turkish Grand National Assembly, focusing on the heated discussions and physical altercations that took place.",
+      "end_pos": 1747
+    },
+    {
+      "type": "3. **OUTRO**",
+      "start_pos": 1747,
+      "start_sentence": "Umarız bu son olur yaşananlar Kısacası milletin Meclisine...",
+      "description": "\"Umarız bu son olur yaşananlar Kısacası milletin Meclisine...\" - The closing remarks summarizing the events and expressing hope for better conduct in the future, effectively wrapping up the news segment.",
+      "end_pos": 79443
+    }
+  ],
+  "news_segments_count": 8,
+  "economic_segments_count": 2,
+  "economic_segments": [
+    {
+      "segment_id": "1747_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 156,
+      "filtered_length": 84,
+      "retention_ratio": 0.5384615384615384,
+      "section_description": "\"Umarız bu son olur yaşananlar Kısacası milletin Meclisine...\" - The closing remarks summarizing the events and expressing hope for better conduct in the future, effectively wrapping up the news segment."
+    },
+    {
+      "segment_id": "1747_5",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 196,
+      "filtered_length": 137,
+      "retention_ratio": 0.6989795918367347,
+      "section_description": "\"Umarız bu son olur yaşananlar Kısacası milletin Meclisine...\" - The closing remarks summarizing the events and expressing hope for better conduct in the future, effectively wrapping up the news segment."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

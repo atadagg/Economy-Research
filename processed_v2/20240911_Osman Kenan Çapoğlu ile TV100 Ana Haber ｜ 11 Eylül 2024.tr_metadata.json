@@ -1,0 +1,116 @@
+{
+  "file_path": "news/TV100/20240911_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 11 Eylül 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T18:50:52.834160",
+  "original_word_count": 12208,
+  "filtered_word_count": 726,
+  "retention_ratio": 0.059469200524246396,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "11 Eylül Çarşamba TV1 Ana Haber'de sizlerle birlikteyiz...",
+      "description": "\"11 Eylül Çarşamba TV1 Ana Haber'de sizlerle birlikteyiz...\" - This section serves as the opening of the broadcast, introducing the program and setting the stage for the news content to follow.",
+      "end_pos": 99
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 99,
+      "start_sentence": "Gündem Tabii ki öncelikli olarak yine narin narin nasıl hayatını kaybetti...",
+      "description": "\"Gündem Tabii ki öncelikli olarak yine narin narin nasıl hayatını kaybetti...\" - This section contains the main news content, focusing on the details surrounding the case of Narin, including discussions about the investigation and public reactions.",
+      "end_pos": 478
+    },
+    {
+      "type": "5. **OUTRO**",
+      "start_pos": 478,
+      "start_sentence": "Belki orada yeniden yöneltilecek bu sorular...",
+      "description": "\"Belki orada yeniden yöneltilecek bu sorular...\" - This section serves as a closing remark, hinting at future developments and the ongoing nature of the story, leading towards the end of the segment.",
+      "end_pos": 963
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 963,
+      "start_sentence": "Şimdi konuşmaya başlayalım...",
+      "description": "\"Şimdi konuşmaya başlayalım...\" - This brief transition indicates a shift in focus or the introduction of a new segment or discussion point within the ongoing news story.",
+      "end_pos": 1062
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1062,
+      "start_sentence": "Bu arada üç bakan narinin naaşını mezarlıkta ziyaret ettiler...",
+      "description": "\"Bu arada üç bakan narinin naaşını mezarlıkta ziyaret ettiler...\" - This continues the news content, detailing the actions of three ministers visiting the burial site and the lack of public condolences from officials.",
+      "end_pos": 85677
+    }
+  ],
+  "news_segments_count": 18,
+  "economic_segments_count": 7,
+  "economic_segments": [
+    {
+      "segment_id": "1062_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 169,
+      "filtered_length": 169,
+      "retention_ratio": 1.0,
+      "section_description": "\"Bu arada üç bakan narinin naaşını mezarlıkta ziyaret ettiler...\" - This continues the news content, detailing the actions of three ministers visiting the burial site and the lack of public condolences from officials."
+    },
+    {
+      "segment_id": "1062_5",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 178,
+      "filtered_length": 111,
+      "retention_ratio": 0.6235955056179775,
+      "section_description": "\"Bu arada üç bakan narinin naaşını mezarlıkta ziyaret ettiler...\" - This continues the news content, detailing the actions of three ministers visiting the burial site and the lack of public condolences from officials."
+    },
+    {
+      "segment_id": "1062_6",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 85,
+      "filtered_length": 67,
+      "retention_ratio": 0.788235294117647,
+      "section_description": "\"Bu arada üç bakan narinin naaşını mezarlıkta ziyaret ettiler...\" - This continues the news content, detailing the actions of three ministers visiting the burial site and the lack of public condolences from officials."
+    },
+    {
+      "segment_id": "1062_7",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 197,
+      "filtered_length": 102,
+      "retention_ratio": 0.5177664974619289,
+      "section_description": "\"Bu arada üç bakan narinin naaşını mezarlıkta ziyaret ettiler...\" - This continues the news content, detailing the actions of three ministers visiting the burial site and the lack of public condolences from officials."
+    },
+    {
+      "segment_id": "1062_8",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 141,
+      "filtered_length": 71,
+      "retention_ratio": 0.5035460992907801,
+      "section_description": "\"Bu arada üç bakan narinin naaşını mezarlıkta ziyaret ettiler...\" - This continues the news content, detailing the actions of three ministers visiting the burial site and the lack of public condolences from officials."
+    },
+    {
+      "segment_id": "1062_10",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 248,
+      "filtered_length": 76,
+      "retention_ratio": 0.3064516129032258,
+      "section_description": "\"Bu arada üç bakan narinin naaşını mezarlıkta ziyaret ettiler...\" - This continues the news content, detailing the actions of three ministers visiting the burial site and the lack of public condolences from officials."
+    },
+    {
+      "segment_id": "1062_11",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 130,
+      "filtered_length": 130,
+      "retention_ratio": 1.0,
+      "section_description": "\"Bu arada üç bakan narinin naaşını mezarlıkta ziyaret ettiler...\" - This continues the news content, detailing the actions of three ministers visiting the burial site and the lack of public condolences from officials."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

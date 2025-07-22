@@ -1,0 +1,100 @@
+# Economic Content from: 20240906_Ece Üner ile Halk Ana Haber (6 Eylül 2024).tr.txt
+# Processed: 2025-07-22T17:02:44.281906
+# Original: 10844 words → Filtered: 747 words (6.89% retention)
+# Economic segments: 8
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 117
+**Retention**: 100.00%
+
+Efendim Halk TV ana haber Hoş geldiniz sefalar getirdiniz enerjimiz tam dayımız sağlam bugünün özeti
+bu bence hani vardı ya Hasan abi doktora gidecektin psikoloğa gidecektin ne dedi sana diye soruyor
+arkadaşı viral olmuştu Hasan abi de dönüyor cevap veriyor incin mışsın dedi diyor incinmis da ne
+demek diyor e okumuş kadın hayatını ne yapmışlar diyemedi incinmis dedi diyor viral olmuştu
+hatırlayacaksınız YouTube'da bizim de bugün Adalet duygumuzu incindik Dolayısıyla Eee dediğimiz gibi
+az önce söylediğimiz gibi Eee dayımız sağlamsa enerjimiz tamsa başlayacağız ama bugün Tabii ki Ne
+diyeceğiz adalet duygumuz incı için haksızlık diyeceğiz Hashtag imiz haksızlık en yaratıcı Tweet'i
+göndereni de bültenin sonunda buradan duyuracağız ya elendim ş ol Hadi O Zaman Ener tahliye Allah'ım
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 177
+**Retention**: 66.54%
+
+2 lir oldu ek zam yapılmadı. Oysa yılbaşından bu yana gıdadan sağlığa, ulaşımdan eğitime fiyatlar sabit kalmadı; alım gücü 8 ayda % 3193 eridi. Yani asgari ücret 5430 TL buharlaştı. Hal böyle olunca insanlar çareyi yine borçlanmakta buldu. Yüksek faizlere rağmen kredilere ve kredi kartlarına sarıldı. Borcun yükü arttı. BDDK'ya göre bankaların kredi hacmi büyüdü ve 14 trilyon 587 milyar 200 milyon liraya ulaştı. Yılbaşından bu yana kredi hacmi % 25 arttı. Özellikle tüketici kredilerindeki artış % 118 oranında, konut kredilerinde % 4 artış kaydedildi. Kredi kartı ile yapılan harcamalar % 35 yükseldi. Tüm kredilerde takipteki alacaklar yılbaşından bu yana % 31,3 oranında arttı. Bireysel kredilerde % 46,6, ihtiyaç kredilerinde % 47,5, konut kredilerinde % 25,6, taşıt kredilerinde ise % 44,8 oranında artış görüldü. Veriler alacakların düşmediğini gösterdi; yetersiz gelir artışı ve yüksek kredi faizleri geri ödemeleri zorlaştırdı. En yüksek takip oranı da kredi kartlarında görüldü; takipteki kredi kartlarının oranı ocakta % 1,37 iken, Ağustos ayında % 2,59 çıktı. Görüyorsunuz ki ekonomi çok kötü durumda. Ekonomi kötü durumda olunca Maliye Bakanı da sürekli vatandaşa "kemer sık" diyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 30
+**Retention**: 35.29%
+
+Fiyatlar ve peşin fiyatına 6 taksit fırsatıyla evlerinize geliyor. Arçelik'ten herkesin beklediği kurutma makinesi kampanyası, alışverişlerinize 50'ye varan indirim fırsatı sunuyor. Bu tür kampanyalar, tüketici harcamalarını artırarak ekonomik aktiviteyi destekleyebilir.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 58
+**Retention**: 56.31%
+
+10 500 L ev kirası veriyorum yani benim çocuklarım olmasa ben açım aç. Türkiye'nin her noktasından emeklinin isyanı yükseliyor. Türk-İş'in ve Erine göre açlık sınırı 19 000 lirayı geçti. En düşük emekli maaşı ise Temmuz'da 12,000 lira olarak belirlendi. Bu durum, emeklilerin yaşam standartları üzerinde ciddi bir baskı oluşturuyor. Emeklilerin talepleri, ekonomik koşulların iyileştirilmesi ve haklarının korunması yönünde.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 109
+**Retention**: 35.62%
+
+Ekonomi politikalarının bedelini vatandaş ödüyor, özellikle esnaf etkileniyor. Yeni vergi paketi ile zenginden alıp fakire veren anlayış değişiyor; yeni vergilerle vatandaşın sırtına binen yük artıyor. Engelli vatandaşların yakınlarına sağlanan ÖTV'siz araç şartı kaldırılacak, yem ve gübrede %1'lik KDV uygulaması kaldırılarak %120 vergi uygulanacak. Bireysel olarak çalışan moto kuryelerden vergi alınacak, avukat, doktor ve mimar gibi mesleklere peşin vergi uygulaması getirilecek. Asgari kurumlar vergisi ile 90 milyar liralık ilave gelir bekleniyor. Madenler, limanlar ve OSB'lere uygulanan vergi istisnaları kaldırılacak. Yap-işlet-devret ve kamu özel işbirliğinde kazançların %30'u vergilendirilecek. 2025 bütçe ödenekleri belli oldu; Afet İşleri Genel Başkanlığı'nın ödeneği, Diyanet'in bütçesi kadar ayrıldı. Diyanet bütçesi, 2024 başlangıç ödeneğine göre %41 artış gösterdi.
+
+================================================================================
+
+## Economic Segment 6
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 56
+**Retention**: 94.92%
+
+75 milyon TL'ye çıkarıldı afet ve acil durum yönetimi Başkanlığı ödeneği ise düşürüldü. 2024 yılında 671 milyar 317 milyon TL ayrılan ödenek % 62 99 azaltılarak 250 milyar 466 milyon liraya indirildi. Peki ya diğer bakanlıklara ne kadar ödenek ayrıldı? 2025 yılı için Hazine ve Maliye Bakanlığı'na 6 trilyon 1221 milyar 542 milyon TL ayrıldığı belirtildi.
+
+================================================================================
+
+## Economic Segment 7
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 165
+**Retention**: 54.28%
+
+Oysa yılbaşından bu yana gıdadan sağlığa ulaşımdan eğitime fiyatlar sabit kalmadı, uçtu gitti. Alım gücü 8 ayda %31,99 eridi; yani asgari ücret 5430 lira buharlaşmış oldu. Hal böyle olunca insanlar çareyi yine borçlanmakta buldu. Yüksek faizlere rağmen kredilere ve kredi kartlarına sarıldı; borç yükü de ciddi anlamda arttı. Şimdi BDDK'ya göre durum nedir? BDDK, Bankacılık Düzenleme ve Denetleme Kurumu'na göre, bakanlıkla bankaların kredi hacmi 14 trilyon 587 milyar 200 milyon lira. Kredi kullanımı nasıl arttı? Toplam kredi artışı %25, tüketici kredileri %118, ihtiyaç kredileri %28, konut kredileri %4, kredi kartı harcamaları %35 artmış durumda. Taşıt kredilerinde ise %1,77 düşüş var. Tüm kredilerde %31,3, bireysel kredilerde %46,6, ihtiyaç kredilerinde %47,5 artış yaşandı. Bu rakamlar çok düşündürücü. Kimileri kredi kartı borcunu ödeyemezken, kimileri de parayı koyacak yer bulamıyor. Van'da bir köy düğününde 21 milyon TL ve 2 kilo altın görüntüleri, zengin ile fakir arasındaki uçurumu gözler önüne seriyor. Kredi kartı borçları bir tarafta, Van'daki köy düğününde bavullara sığmayan paralar öbür tarafta bir Türkiye gerçeği ile karşı karşıyayız.
+
+================================================================================
+
+## Economic Segment 8
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 35
+**Retention**: 58.33%
+
+Ekonomik sıkıntı arttı, kayıt azaldı, boş kontenjan 200.000'i aştı. Bunda en büyük sebep ekonomik kaygılar. Bir gün gazetesi kılavuzundan verileri yayınladı. Buna göre ön lisanstaki boş kontenjan sayısı 138.359, lisanstaki boş kontenjan sayısı ise 63.99.
+
+================================================================================
+

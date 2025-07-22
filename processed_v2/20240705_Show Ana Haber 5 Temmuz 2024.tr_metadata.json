@@ -1,0 +1,97 @@
+{
+  "file_path": "news/Show/20240705_Show Ana Haber 5 Temmuz 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T17:51:31.960987",
+  "original_word_count": 3137,
+  "filtered_word_count": 75,
+  "retention_ratio": 0.023908192540643927,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "İyi akşamlar değerli izleyenler",
+      "description": "\"İyi akşamlar değerli izleyenler\" - The presenter introduces herself and sets the stage for the news broadcast, indicating the start of the program.",
+      "end_pos": 0
+    },
+    {
+      "type": "- **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "İyi akşamlar değerli izleyenler",
+      "description": "\"İyi akşamlar değerli izleyenler\" - The presenter introduces the program and its focus.",
+      "end_pos": 95
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 95,
+      "start_sentence": "Türkiye Irak'ın kuzeyinden gelen acı haberle sarsıldı",
+      "description": "\"Türkiye Irak'ın kuzeyinden gelen acı haberle sarsıldı\" - This section contains the main news stories, including the tragic news about a soldier's death and the UEFA investigation regarding a football player, along with public reactions and details surrounding these events.",
+      "end_pos": 95
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 95,
+      "start_sentence": "Türkiye'den tepkiler de gecikmedi",
+      "description": "\"Türkiye'den tepkiler de gecikmedi\" - This continues the news segment, providing further details and reactions related to the UEFA investigation and the football match, maintaining the focus on current events.",
+      "end_pos": 95
+    },
+    {
+      "type": "- **NEWS**",
+      "start_pos": 95,
+      "start_sentence": "Türkiye Irak'ın kuzeyinden gelen acı haberle sarsıldı",
+      "description": "\"Türkiye Irak'ın kuzeyinden gelen acı haberle sarsıldı\" - Main news content begins with a report on a soldier's death.",
+      "end_pos": 95
+    },
+    {
+      "type": "- **NEWS**",
+      "start_pos": 95,
+      "start_sentence": "Türkiye'den tepkiler de gecikmedi",
+      "description": "\"Türkiye'den tepkiler de gecikmedi\" - Continuation of the news segment discussing reactions to the UEFA investigation.",
+      "end_pos": 678
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 678,
+      "start_sentence": "helal UEFA milli futbolcu Merih Demiral hakkında",
+      "description": "\"helal UEFA milli futbolcu Merih Demiral hakkında\" - This brief transition indicates a shift from the first news story about the soldier to the second news story about the football player, marking a change in topic within the news segment.",
+      "end_pos": 678
+    },
+    {
+      "type": "- **TRANSITION**",
+      "start_pos": 678,
+      "start_sentence": "helal UEFA milli futbolcu Merih Demiral hakkında",
+      "description": "\"helal UEFA milli futbolcu Merih Demiral hakkında\" - Transition to the next news story about the football player.",
+      "end_pos": 1839
+    },
+    {
+      "type": "5. **OUTRO**",
+      "start_pos": 1839,
+      "start_sentence": "Cumhurbaşkanı Erdoğan da Astana dönüşü uçakta",
+      "description": "\"Cumhurbaşkanı Erdoğan da Astana dönüşü uçakta\" - This section appears to wrap up the news stories, mentioning the President's comments and signaling the conclusion of the news content.",
+      "end_pos": 1839
+    },
+    {
+      "type": "- **OUTRO**",
+      "start_pos": 1839,
+      "start_sentence": "Cumhurbaşkanı Erdoğan da Astana dönüşü uçakta",
+      "description": "\"Cumhurbaşkanı Erdoğan da Astana dönüşü uçakta\" - Closing remarks and summary of the news stories.",
+      "end_pos": 22086
+    }
+  ],
+  "news_segments_count": 6,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "1839_3",
+      "method": "simple_final",
+      "confidence": 0.5,
+      "original_length": 184,
+      "filtered_length": 75,
+      "retention_ratio": 0.4076086956521739,
+      "section_description": "\"Cumhurbaşkanı Erdoğan da Astana dönüşü uçakta\" - Closing remarks and summary of the news stories."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

@@ -1,0 +1,44 @@
+# Economic Content from: 20240415_Show Ana Haber 15 Nisan 2024.tr.txt
+# Processed: 2025-07-22T17:31:22.435080
+# Original: 2434 words → Filtered: 225 words (9.24% retention)
+# Economic segments: 3
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 89
+**Retention**: 100.00%
+
+000 layı gönderdi ama imza
+olmayınca hem parasından hem araçtan oldu araba bize geçmedi Birol Yiğit internetten bir araç gördü
+o aracı almak için sahibini aradı ve Ankara'da buluşma ayarlandı görmüş olduğumuz araç 2015 model
+bir araçtı 55050 lir gibi bir rakamı vardı 25 lirada bir pazarlık yaptık kendisiyle İstanbul'dan
+arkadaşla beraber Ankaraya Mamak ilçesine indik Yiğit aracı test etti beğendi ekpe de girdi
+arkadaşlarla beraber eksperten çıktık araca test sürüsü yaptık onayladık satış işlemleri için
+taraflar notere gitti noter çalışanı satışa onay verdikten sonra Birol Yiğit tam 525
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 63
+**Retention**: 78.75%
+
+Teknoloji artık çok gelişti ve bu durum iş gücü piyasasını da etkiliyor. İŞKUR araştırdı, geleceğin meslekleri belli oldu; yazılımcılar, e-ticaret ve yapay zeka uzmanları ön plana çıkacak. Bu mesleklerin önümüzdeki 10 yıl boyunca iş gücü talebini şekillendireceği öngörülüyor. Ekonomik veriler, bu yeni mesleklerin istihdam üzerindeki etkisini de ortaya koyuyor. İŞKUR, 2023'te 2 ve üzeri istihdam sağlayan 86 iş yeriyle görüşerek bu sonuçlara ulaştı.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_final
+**Confidence**: 0.50
+**Word Count**: 73
+**Retention**: 47.10%
+
+Buna göre iş piyasası araştırmasının sonuçları belli oldu. Çalışma Bakanı Vedat Işıkhan, işverenlerin %25'inin eleman temininde güçlük çektiğini duyurdu. Araştırmada, en fazla eleman aranan 10 meslek makineci, garson, satış danışmanı, ahşap mobilya imalat ustası, temizlik görevlisi, gazaltı kaynakçısı, konfeksiyon işçisi, akaryakıt satış elemanı, ark kaynakçısı ve yük taşıma şoförü olarak sıralandı. Bu mesleklerde eleman temininde güçlük çekilmesinin en önemli nedenleri ise yeterli iş başvurusunun yapılmaması ve mesleki beceriye sahip eleman bulunamaması olarak belirtildi.
+
+================================================================================
+

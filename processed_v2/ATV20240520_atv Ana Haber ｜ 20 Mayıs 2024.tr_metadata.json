@@ -1,0 +1,71 @@
+{
+  "file_path": "news/ATV/ATV20240520_atv Ana Haber ｜ 20 Mayıs 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T16:17:41.867568",
+  "original_word_count": 4856,
+  "filtered_word_count": 135,
+  "retention_ratio": 0.027800658978583196,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 23,
+      "start_sentence": "İyi akşamlar Bugün 20 Mayıs 2024 Pazartesi...",
+      "description": "\"İyi akşamlar Bugün 20 Mayıs 2024 Pazartesi...\" - The opening segment introduces the program, the date, and the main topic of discussion, which is the helicopter crash in Iran.",
+      "end_pos": 75
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 75,
+      "start_sentence": "İran Cumhurbaşkanı İbrahim reisi ve Dışişleri Bakanı Emir Abdullah'ın...",
+      "description": "\"İran Cumhurbaşkanı İbrahim reisi ve Dışişleri Bakanı Emir Abdullah'ın...\" - This section contains the main news content, detailing the helicopter crash, the individuals involved, and the implications of the event on Iranian politics and international relations.",
+      "end_pos": 75
+    },
+    {
+      "type": "5. **NEWS**",
+      "start_pos": 75,
+      "start_sentence": "İran cumhurbaşkanının Dışişleri bakanının ve yanındaki herkesin hayatını kaybettiği...",
+      "description": "\"İran cumhurbaşkanının Dışişleri bakanının ve yanındaki herkesin hayatını kaybettiği...\" - This section further elaborates on the aftermath of the crash, confirming the fatalities and the location of the incident.",
+      "end_pos": 588
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 588,
+      "start_sentence": "Tabii kaza olabilir mi biliyorsunuz Dünden beri haberler takip ediyorsanız...",
+      "description": "\"Tabii kaza olabilir mi biliyorsunuz Dünden beri haberler takip ediyorsanız...\" - This brief transition connects different aspects of the news story, discussing the potential causes of the crash and the historical context of political incidents in Iran.",
+      "end_pos": 1373
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1373,
+      "start_sentence": "İşte İran'da son durum gelin Atv Haber farkıyla izleyelim...",
+      "description": "\"İşte İran'da son durum gelin Atv Haber farkıyla izleyelim...\" - This part continues the news coverage, providing updates on the situation following the crash and the reactions from various stakeholders.",
+      "end_pos": 34361
+    }
+  ],
+  "news_segments_count": 6,
+  "economic_segments_count": 2,
+  "economic_segments": [
+    {
+      "segment_id": "75_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 69,
+      "filtered_length": 56,
+      "retention_ratio": 0.8115942028985508,
+      "section_description": "\"İran cumhurbaşkanının Dışişleri bakanının ve yanındaki herkesin hayatını kaybettiği...\" - This section further elaborates on the aftermath of the crash, confirming the fatalities and the location of the incident."
+    },
+    {
+      "segment_id": "1373_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 236,
+      "filtered_length": 79,
+      "retention_ratio": 0.3347457627118644,
+      "section_description": "\"İşte İran'da son durum gelin Atv Haber farkıyla izleyelim...\" - This part continues the news coverage, providing updates on the situation following the crash and the reactions from various stakeholders."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

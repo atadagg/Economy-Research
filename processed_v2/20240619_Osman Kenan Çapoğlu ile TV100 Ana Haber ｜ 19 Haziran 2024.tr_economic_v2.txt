@@ -1,0 +1,57 @@
+# Economic Content from: 20240619_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 19 Haziran 2024.tr.txt
+# Processed: 2025-07-22T18:19:22.521957
+# Original: 8503 words → Filtered: 349 words (4.10% retention)
+# Economic segments: 4
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 98
+**Retention**: 49.00%
+
+33 L 60 kuruş olacak. Böylece Ev Kadınları ayda 4267 L 20 kuruş ödeyerek emekli olabilecek. Çalışan kadınlarda emeklilik yaşının çocuk sayısına göre esnetilmesi de gündemde. Çocuk sayısına göre yıpranma payı uygulanması da planlanıyor. Bağkurlu esnafın uzun süredir beklediği prim günlerinin eşitlenmesi için de gözler bayram sonrasına çevrildi. 9000 prim günü SSK'lılar aynı olacak şekilde 7200 güne indirilecek. 10 ve daha az çalışanı olan 1 milyon kişi yararlanacak esnaf 5 yıl erken emekli olabilecek. 
+
+Bu düzenlemeler, emeklilik sistemindeki eşitsizlikleri gidermeyi ve esnafın ekonomik durumunu iyileştirmeyi amaçlıyor. Ekonomik veriler, bu tür reformların iş gücü piyasası üzerindeki etkilerini de gösterebilir.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 69
+**Retention**: 45.10%
+
+Karavan tatilcileri ucuza tatil yapmanın tadını çıkarırken, ekonomik veriler de dikkat çekiyor. Altın ve para piyasaları uzmanı İslam Memiş, 200 liranın değerinin nasıl 10 kat artabileceğini açıkladı. Cebinizdeki 200 lira, üzerinde bulunan seri numaraları sayesinde değer kazanabilir. Özellikle 8 haneli seri numaralar, koleksiyoncular tarafından yüksek fiyatlara satın alınabiliyor. Memiş, 200 liranın üzerindeki seri numaralarına ilişkin dikkat çeken açıklamalarda bulundu. Bu durum, ekonomik analizler açısından önemli bir gösterge olarak değerlendiriliyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 83
+**Retention**: 59.71%
+
+Doların da seri numarası art arda 8 ise 8 hanesi burada koleksiyoncular yaklaşık 45000 dolar varında buna bir bedel ödüyorlar ve cebimizdeki para daha değerli bir hale gelmiş oluyor. Memiş özellikle 8 rakamına dikkat çekti; 8 sonsuzluğu temsil ettiği için bu paraların üzerindeki seri numaralar 8 olursa açık artırmada daha yüksek rakamlara satılabiliyor. 
+
+Ev ve otomobil almak ya da kiralamak isteyenler için dikkat edilmesi gereken bir durum var; internette uygun fiyata ilan koyan dolandırıcılar kapora talep ediyorlar. Böylelikle kap paranız havaya uçup gidiyor.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 99
+**Retention**: 55.93%
+
+Kurban Bayramı tatilinde turistik bölgelerde yoğun ilgi gözlemlendi. Bu durum, yerli ve yabancı turistlerin ekonomik katkısını artırdı. Özellikle Doğu Beyazıt ilçesindeki İshak Paşa Sarayı, hem mimarisi hem de tarihi özellikleriyle dikkat çekti. Turizm sektöründeki bu hareketlilik, bölgedeki işletmelerin gelirlerini olumlu yönde etkiledi. 
+
+Bayramda Gaziantep'i tercih eden vatandaşlar, dünyanın en büyük mozaik müzelerinden biri olan Zeugma Mozaik Müzesi'nde de yoğunluk oluşturdu. Bu tür turistik aktiviteler, yerel ekonomiye önemli bir katkı sağlıyor. Turizmdeki bu artış, bölgedeki istihdamı da artırarak ekonomik büyümeye destek oluyor. 
+
+Sonuç olarak, bayram dönemindeki bu yoğunluk, hem turizm sektöründe hem de yerel işletmelerde olumlu bir ekonomik etki yarattı.
+
+================================================================================
+

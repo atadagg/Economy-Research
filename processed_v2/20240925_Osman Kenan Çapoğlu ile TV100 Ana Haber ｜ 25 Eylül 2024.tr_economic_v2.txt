@@ -1,0 +1,75 @@
+# Economic Content from: 20240925_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 25 Eylül 2024.tr.txt
+# Processed: 2025-07-22T18:40:39.523761
+# Original: 10861 words → Filtered: 573 words (5.28% retention)
+# Economic segments: 6
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 92
+**Retention**: 49.46%
+
+Asgari ücret şubat ayının 1'inde alınıyor. Altın fiyatları her geçen gün rekor kırmaya devam ediyor. Gram altın 3,000 lirayı aştı. Yıl sonuna kadar altında ne olacağı merak konusu. Geçtiğimiz haftayı rekorla kapatan altın, Merkez bankalarının faiz indirimi sürecinden olumlu etkileniyor. FED'in faiz indirimi ile birlikte altın fiyatları hareketlenmeye devam ediyor. Ons altındaki hedef 2,800 dolardı; bu seviyelere ulaşıldığında gram altında 3,400-3,500 TL seviyelerini görebiliriz. Yıl sonunda beklenen altın fiyatları hızlı bir şekilde gerçekleşiyor. Gram altın sabah itibariyle 2,670 TL seviyesine kadar yükseldi. Kapalı çarşıda 24 ayar bir gram altın 3,026 TL'den satılıyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 77
+**Retention**: 78.57%
+
+Peki bu artışlar yıl sonuna kadar devam edecek mi? Yükseliş eğilimi biraz daha ağır basıyor. Sektör temsilcileri güvenli liman olarak görülen altının 2025 yılında da en bereketli çağını yaşayacağını öngörüyor. Altın yükselişine daha yeni başladı; 205'e yayıldığı bir süreç yaşayabiliriz. Orta vadeli programda önümüzdeki sürece ilişkin birçok hususla ilgili bir yol haritası var. Emeklileri de kapsıyor. Eğer emekli olup çalışmaya devam eden varsa, ki onların sayısı hiç azımsanacak değil, çünkü en düşük emekli maaşının olduğu tablo ortada.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 113
+**Retention**: 40.36%
+
+Çalışmaya devam eden emeklilerden GSS genel sağlık sigortası primi alınması gündemde. Bu düzenleme daha netleşmeden tartışmaya yol açtı. Emekli olduktan sonra çalışmaya devam edenler genel sağlık sigortası primi ödemiyor, onlardan sadece sosyal güvenlik destek primi alınıyor. Ancak bu sistem değişebilir. Orta vadeli programda sosyal güvenlik sisteminin güçlendirilmesi başlığında bu yeni adım yer aldı. Tartışma yaratan düzenlemede primin çalışanın emekli maaşından mı yoksa çalıştığı iş yerinden aldığı ücretten mi kesileceği henüz net değil. Bu durum, her sektörü etkileyebilir ve istihdamı ne kadar etkileyeceği merak konusu. EYT düzenlemesi de iş hayatını derinden sarstı; bazıları EYT'li olup köşeye çekildi, bir kısmı ise işlerine devam ediyor. Ancak şimdi onlardan para kesintisi yapılırsa, bu durum istihdamı olumsuz etkileyebilir.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 64
+**Retention**: 41.03%
+
+Gayrimenkul piyasası konut kredisi faizlerinde düşüş ilk sinyali geldi çünkü Merkez Bankası'nın para politikası kurulunun yapmış olduğu açıklamalar, önümüzdeki süreçte en azından faizde yukarı yönlü bir oynama olasılığının pek olmadığını gösteriyor. Hatta 2025'in ilk çeyreği itibariyle en yakın tarihte faiz indiriminin başlayacağı gibi bir argüman var. Bu durum, konut kredisi faizlerinde de düşüşe yol açıyor. Ayrıca, bir kamu bankası konut kredisi kampanyası başlattığını duyurdu.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 90
+**Retention**: 78.95%
+
+9'lu faiz oranı 2 79'a çekti. Bu durum, bankaların sayısının artmasıyla birlikte ev fiyatlarında yukarı yönlü oynamalara neden olabilir. Emlakçılar ve ev sahipleri, faiz oranlarındaki değişiklikleri dikkate alarak stratejiler geliştirebilirler. Geçtiğimiz günlerde, 1 milyon liralık bir ev kredisi çekildiğinde aylık ödemelerin toplam geri ödemesi 10 yıl üzerinden hesaplandığında önemli bir maliyet ortaya çıkıyor. 
+
+Kamu Bankası, konut kredisi faizinde ilk adımı attı. Geçtiğimiz yıldan itibaren atılan sıkılaşma adımları neticesinde konut kredisi faizlerinde ivme hep yukarı yönlü ilerlemişti. Ancak, şimdi kamu bankası konut kredisi faizlerinde bir düşüşe geçti. Faizler 39'dan 2'ye geriledi.
+
+================================================================================
+
+## Economic Segment 6
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 137
+**Retention**: 86.71%
+
+Geçtiğimiz yıldan bu yana faizler tarafında yukarı yönlü ivmelenme görüyorduk, bunun en başta nedenlerinden bir tanesi enflasyonla mücadeleydi. Ancak artık sıkılaştırma adımlarının bir nevi sonuna gelmemiz, konut kredi tarafındaki talebi karşılamak için bir kamu bankasının yüksek faiz oranlarından bir miktar geri çekilme yapmasına neden oldu. Örneğin, 1 milyon lira konut kredisi çekecek olursak, bunun vadesi ve faiz oranı ile aylık ödeme taksiti ne kadar olacak? İki farklı vade seçeneğimiz var: 60 aydan vade ve 60 ayın üzerinde bir vade yapısı. 
+
+60 aya kadar bir vadede kredi çektiğiniz takdirde, %2.89 faiz oranıyla aylık ödemesi 3,28 TL olacak ve toplam geri ödemesi ise 2.117.000 TL olacağını söyleyebiliriz. Diğer bir vade türü ise 120 aylık vadede %2.79 faiz oranıyla aylık ödemesi 29.000 TL'lik bir kredi tutarı var ve toplam geri ödemede ise 120 ayda 1 milyon TL'de 3.480 TL olacaktır.
+
+================================================================================
+

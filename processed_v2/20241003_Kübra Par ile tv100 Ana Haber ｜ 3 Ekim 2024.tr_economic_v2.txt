@@ -1,0 +1,89 @@
+# Economic Content from: 20241003_Kübra Par ile tv100 Ana Haber ｜ 3 Ekim 2024.tr.txt
+# Processed: 2025-07-22T18:42:35.767704
+# Original: 7071 words → Filtered: 682 words (9.65% retention)
+# Economic segments: 7
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 80
+**Retention**: 43.24%
+
+Enflasyon verileri açıklansa da hayat pahalılığı sürmektedir. Bugün Milli Eğitim Bakanlığı yeni bir veri açıkladı ve ortaokul ve liseye gitmesi gereken öğrencilerin sayısında azalma olduğu görülmektedir. Rakamlar oldukça vahim. Özellikle örgün eğitimde okuldan ayrılanların sayısı artmaktadır. Ortaokuldan mezun olup liseye geçenlerin sayısında geçen yıla oranla bu yıl ciddi bir düşüş yaşanmaktadır. Eğer çocuklarımız okula gitmiyorsa, bu sadece eğitimde değil, ekonomide de alarm zilleri çalıyor demektir. Eğitimdeki bu sorunlar, iş gücü piyasası ve gelecekteki ekonomik büyüme üzerinde olumsuz etkilere yol açabilir.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 72
+**Retention**: 107.46%
+
+Bugün enflasyon verileri açıklandı; çok az da olsa bir düşüş var, en azından ilk kez enflasyonda 50'nin altına inildi. Bu durum, ailelerin ekonomik gerekçelerle çocuklarını okuldan alıp çalıştırmalarının etkisini de gözler önüne seriyor. Okullaşma oranındaki azalma, ekonomik koşulların eğitim üzerindeki etkisini gösteriyor. Eğitimdeki bu alarm durumu, uzun vadede iş gücü piyasası ve ekonomik büyüme üzerinde olumsuz sonuçlar doğurabilir. Ekonomik verilerin bu şekilde değişmesi, hükümetin eğitim politikalarını yeniden gözden geçirmesi gerektiğini ortaya koyuyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 98
+**Retention**: 49.25%
+
+Kira artış oranı ile birlikte, 10.000 lira kirası olan bir kiracının bu ayki kira bedeli 16.347 lira olacak. Belirlenen kira artış oranına göre, Ekim ayında kira kontratı yapmış kişiler zamlı kira ücretini ödeyecekler. Enflasyon verileri açıklandığında, emeklilere ve memurlara yapılacak zam oranları da netleşiyor. Eylül ayındaki enflasyon verisi %2,97 olarak belirlendi ve bu, emeklilerin %92'lik zammını garanti altına aldı. Rakamların tahminlerin altında kalması, yıllık enflasyonu düşürdü ve emekli zamlarının %13 ila %18 civarında kalması bekleniyor. Aylık bazda enflasyon %2,90, yıllık bazda ise %49,38 olarak belirlendi. Geçen ayın enflasyon rakamlarına göre, aylık bazda artış olurken yıllık bazda enflasyon geriledi.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 118
+**Retention**: 62.11%
+
+Eylül ayı için enflasyon oranı %2,97 olarak açıklanmış oldu. Bu verilerin açıklanmasıyla birlikte milyonlarca kişinin beklediği memur ve emekli maaşları için zam oranları netleşmeye başladı. Temmuz ayında enflasyon %3,23, Ağustos'ta ise %2,47 olarak belirlenmişti. Eylül ayı enflasyonunun %2,97 olarak açıklanmasıyla birlikte emekli aylıklarına zam oranı %8,92 olarak garanti altına alınmış oldu. Bu durum, yıllık bazda enflasyon oranını %49,38'e çekti. Her ayın 3'ünde yeni enflasyon oranları belirleniyor; Ekim, Kasım ve Aralık ayları için de bu oranlar belirlenecek. Belirlenen enflasyon rakamları, emekli aylıkları ve memur maaş zam oranları üzerinde büyük bir etkiye sahip olacak. Ocak ayında, son 6 aylık enflasyon ve yıllık enflasyon farkıyla birlikte memur ve emekli maaşları toplu sözleşme zamlarını alacak. 2025 yılının ilk zamlı maaşlarının kesinleşmesi bekleniyor.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 98
+**Retention**: 100.00%
+
+500 L oldu bu süreç devam
+ederse takip eden her saat içinde 00 lir ödenecek her türlü dilekçe yazılması ihbarname ihtarname
+protesto düzenlenmesinin bedeli de artık 4 500 L tüzük yönetmelik vasiyetname vakıf senedi
+hazırlanmasına İsa 24 000 L ödenecek ev sahiplerine de kötü haber var istenmeyen Kiracıyı evden
+sorunsuz çıkarmak için çeşitli sözleşmeler hazırlayan Ev sahipleri de bu Sözleşme için avukatlara
+6 000 L ödemek durumunda Sulh Ceza ve infaz hakimliklerinde takip edilen davalar için 13 500 ağır
+ceza mahkemelerindeki davalar için de 48 000 L avukatlık ücreti alınacak yargıtayda görülen ilk
+derece davalar için ise 46
+
+================================================================================
+
+## Economic Segment 6
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 91
+**Retention**: 65.94%
+
+Eylül ayı tüketici enflasyonu aylık bazda % 2,97 olurken yıllık bazda % 9,3 belirlendi. Buna göre geçen ayın enflasyon rakamlarına göre aylık bazda artış olurken yıllık bazda enflasyon geriledi. Ağustos ayında bir gerileme söz konusu olmuştu, Temmuz ayına göre % 2,47 düşmüştü. Eylül ayı için % 2,97 çıkmış olması, milyonlarca kişinin beklediği memur ve emekli maaşları için zam oranlarının netleşmesine yol açtı. Emekliler % 92'lik zammı garanti altına almış oldu. Rakamların tahminlerin altında kalması yıllık enflasyonu düşürdü, bu da ileriye dönük alınacak emekli zamlarının % 13 ila 18 civarında kalmasını öngörüyor.
+
+================================================================================
+
+## Economic Segment 7
+
+**Method**: simple_final
+**Confidence**: 0.50
+**Word Count**: 125
+**Retention**: 74.40%
+
+97 olarak açıklandı. Böylece emekli aylıklarına zam oranı %49,38'e varmış oldu. Her ayın 3'ünde yeni enflasyon oranlarımız önem taşıyor. Ekim ayına girişimizle önümüzdeki 3 aydan sonra 2025 zam oranları netleşmiş olacak. Memur maaşları ve memur emekli maaşları, Ocak ayında belirlenmiş olan son 6 aylık enflasyon ve yıllık enflasyon farkıyla birlikte toplu sözleşme zamlarını alacaklar. Böylece 2025 yılının ilk zamlı maaşlarının kesinleşmiş olması bekleniyor. SSK ve Bağkur'un bir tık üzerine çıkmaları şu an söz konusu görülüyor. Ayrıca herkes bu zamlardan etkilenecek; zamlar kök maaşı 10.000 TL ve üzerinde olan emekliler için geçerli olacak. Kök aylıkları düşük olanlar, yani 12.500 liranın altında olanlar da kök aylıklarına bu zammı alacak. Yani 12.500 liranın 15.000 liralara varması şu anda konuşulan bir seçenek. Çünkü aynı oranda asgari ücretin yükselmesi bekleniyor.
+
+================================================================================
+

@@ -1,0 +1,53 @@
+# Economic Content from: 20240905_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 5 Eylül 2024.tr.txt
+# Processed: 2025-07-22T18:51:52.673562
+# Original: 10468 words → Filtered: 426 words (4.07% retention)
+# Economic segments: 4
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 93
+**Retention**: 51.67%
+
+2024 yılı için enflasyon oranının % 41,5 gerileyerek 2025 yılında 17,5'lik yol haritası için gözler Ankara'daydı. Ekonomi yönetimi tam kadro Beştepe'de yerini aldı. Bir önceki programa göre değişen verileri Cumhurbaşkanı yardımcısı Cevdet Yılmaz açıkladı. 2024 yılında büyüme oranının % 3,5 oranında gerçekleşmesi beklenmektedir. 2025 yılına geldiğimizde toparlanarak % 4 seviyesine ulaşmasını bekliyoruz. 2026 ve 2027 yıllarında ise büyüme oranlarının sırasıyla % 4,5 ve % 5 seviyelerine çıkmasını planlıyoruz. Yeni programda cari açıktaki gerileme dikkat çekti. Yılmaz, kademeli düşüşün süreceğini vurguladı. Yıl sonu itibariyle cari işlemler açığımız % 2'nin de altına gerileyerek % 1.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 173
+**Retention**: 51.95%
+
+Gelecek yıl bir miktar ekonomik toparlanmanın etkisiyle % 2'lik bir büyüme çıkmasını bekliyoruz. Gelecek 3 yıllık süreçte atılacak adımların istihdamı desteklemesi planlanıyor; bu beklenti işsizlik verilerine de yansıdı. Yıl sonu itibariyle işsizlik oranının 9,3 oranında gerçekleşmesini bekliyoruz. 2025 yılına geldiğimizde işsizlik oranının 9,6 seviyesinde olunacağı öngörülmektedir. Ancak 2026 ve 2027 yıllarında işsizlik oranlarının sırasıyla 9,2 ve 8,8 seviyelerine gerilemesi beklenmektedir. 
+
+Türk İş Genel Başkanı Ergün Atalay, çalışanlardan alınan vergileri özellikle konuştu. Vergide adalet, adil bir vergilendirme sistemi hükümetin de gündeminde. Yeni bir değişiklik yapıldı ama bu değişikliğin ne kadar adaleti sağlayacağı tartışmaları hala sürüyor. Atalay, yıl boyunca çalışan işçinin 1,5 aylık kazancının vergi olarak cebinden gittiğini belirtti. Kamu işçisinin aldığı % 24,2,73'lük zammı da dile getirdi. 
+
+Asgari ücretli, tüm işçilere uygulanacak bir zam talep ediyor. Vergi dilimlerine ve sisteme yönelik eleştirilerini bir kez daha sıraladı. İşçi ve asgari ücretliden kesilen paya dikkat çekti ve düzenleme yapılması gerektiğini vurguladı. Enflasyon ve toplu sözleşme farkından kaynaklı olarak memur ve kamu işçilerine temmuzda yapılan zamma işaret etti. Bu oranın tüm işçiler için aynı olması gerektiğini savundu.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 81
+**Retention**: 53.29%
+
+Eylül ayında kasko fiyatlarında, geçtiğimiz yıla göre düşüş gözlemleniyor. Uzmanlara göre, bu ay kasko yaptırmak için en doğru zaman. Sigorta şirketleri arasındaki rekabet nedeniyle ciddi indirimler yapılmaya başlandı. Bu indirimler, yaklaşık bir buçuk aydan beri devam ediyor. Geçen yıl hızlı artış gösteren kasko fiyatlarında bu yıl indirim trendi başladı. Kasko fiyatlarında bu yıl %30'a varan indirimler yapılıyor. Eylül sonuna kadar bu indirimlerin devam etmesi öngörülüyor. Şu anda İstanbul'da normal hususi bir otomobil için kasko ve trafik sigortası ortalama 121 TL civarında.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 79
+**Retention**: 62.20%
+
+İnsanlar 5 yıldız otelde tatil sezonu uzadı, fiyatlar düşüşe geçti. Eylül, Ekim ve Kasım aylarında tatil yapmanın faturası yaz sezonuna oranla neredeyse %70 oranında düşmüş durumda. Yani Eylül ayında fiyatlar %30-35, Ekim ayında %40, Kasım ayında ise %70'e varan indirimler söz konusu. Özellikle Kasım ayında her şey dahil 5 yıldızlı otellerde 4 gece 5 gün konaklamanın bedeli neredeyse iki kişi için 15,000 liradan başlıyor. Bu durum, turizm sektöründe fiyat rekabetini artırarak, daha fazla yerli ve yabancı turist çekmeyi hedefliyor.
+
+================================================================================
+

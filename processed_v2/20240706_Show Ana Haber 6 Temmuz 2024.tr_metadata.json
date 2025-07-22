@@ -1,0 +1,62 @@
+{
+  "file_path": "news/Show/20240706_Show Ana Haber 6 Temmuz 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T17:20:58.613258",
+  "original_word_count": 3274,
+  "filtered_word_count": 65,
+  "retention_ratio": 0.019853390348197924,
+  "structure_sections": [
+    {
+      "type": "1. INTRO",
+      "start_pos": 0,
+      "start_sentence": "İyi akşamlar sayın seyirciler ben Burcu Selçuk...",
+      "description": "\"İyi akşamlar sayın seyirciler ben Burcu Selçuk...\" - The presenter introduces herself and sets the stage for the news broadcast, mentioning the main topic of the evening.",
+      "end_pos": 96
+    },
+    {
+      "type": "2. NEWS",
+      "start_pos": 96,
+      "start_sentence": "Milli maça sayılı saatler kaldı A milli takımımız Berlin'de...",
+      "description": "\"Milli maça sayılı saatler kaldı A milli takımımız Berlin'de...\" - This section contains the main news content, discussing the upcoming football match between Turkey and the Netherlands, including details about player suspensions, security measures, and political reactions.",
+      "end_pos": 571
+    },
+    {
+      "type": "3. TRANSITION",
+      "start_pos": 571,
+      "start_sentence": "Önceki maçta Avusturya karşısında iki gole imza atan Merih Demiral...",
+      "description": "\"Önceki maçta Avusturya karşısında iki gole imza atan Merih Demiral...\" - A brief transition that connects the discussion of the current match to the previous performance of a player, maintaining the flow of the news segment.",
+      "end_pos": 767
+    },
+    {
+      "type": "4. NEWS",
+      "start_pos": 767,
+      "start_sentence": "Türk olduğum için çok gurur duyuyorum o yüzden öyle bir şey yapmak istedim...",
+      "description": "\"Türk olduğum için çok gurur duyuyorum o yüzden öyle bir şey yapmak istedim...\" - Continues the news coverage with reactions from players and political figures regarding the match and the situation surrounding it.",
+      "end_pos": 767
+    },
+    {
+      "type": "5. OUTRO",
+      "start_pos": 767,
+      "start_sentence": "Türk olduğum için çok gurur duyuyorum millilerimize bir destek de mehmetçik'ten geldi...",
+      "description": "\"Türk olduğum için çok gurur duyuyorum millilerimize bir destek de mehmetçik'ten geldi...\" - The closing remarks that summarize the support for the national team and conclude the broadcast.",
+      "end_pos": 22755
+    }
+  ],
+  "news_segments_count": 4,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "767_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 140,
+      "filtered_length": 65,
+      "retention_ratio": 0.4642857142857143,
+      "section_description": "\"Türk olduğum için çok gurur duyuyorum millilerimize bir destek de mehmetçik'ten geldi...\" - The closing remarks that summarize the support for the national team and conclude the broadcast."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

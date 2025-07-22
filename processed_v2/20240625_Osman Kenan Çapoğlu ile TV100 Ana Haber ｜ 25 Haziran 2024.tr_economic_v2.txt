@@ -1,0 +1,18 @@
+# Economic Content from: 20240625_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 25 Haziran 2024.tr.txt
+# Processed: 2025-07-22T18:51:07.596478
+# Original: 8217 words → Filtered: 134 words (1.63% retention)
+# Economic segments: 1
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 134
+**Retention**: 53.82%
+
+AK Parti Genel Başkan Yardımcısı Hamza Dağ, asgari ücrete ara zam söz konusu olmadığını, amaçlarının kalıcı enflasyonu düşürmek olduğunu belirtti. Bu nedenle, binlerce kişinin gözü kulağı Temmuz'da açıklanacak olan Haziran ayı enflasyonunda. Enflasyonun yaklaşık 2,5 ila 3 bandı arasında, 2,70'lerde olması bekleniyor. Bu durum, 6 aylık enflasyona bakıldığında %25,27 bandında bir rakama denk geliyor. Sosyal Güvenlik Uzmanı Murat Bal, değişecek tüm kalemleri ortalama enflasyon artışı üzerinden tek tek hesapladı. 
+
+Haziran ayı enflasyonu açıklandıktan sonra memurlar ve memur emeklilerinin maaşları belli olacak. Uzmanlar, bu artışın %12 ile %25 arasında olacağını öngörüyor. Eğer %12 artış yapılırsa, 65 yaş aylığı 3,504 liradan 3,620 liraya yükselecek. %25 artış yapılırsa, bu rakam 4,380 liraya çıkacak. Kıdem tazminatı tabanı da önemli bir konu; şu anda 3,558 lira olan bu rakam, %12 artışla 4,069 liraya, %25 artışla ise 4,447 liraya yükselebilir.
+
+================================================================================
+

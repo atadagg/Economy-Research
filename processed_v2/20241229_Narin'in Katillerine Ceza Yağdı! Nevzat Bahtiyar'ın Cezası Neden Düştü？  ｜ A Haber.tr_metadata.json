@@ -1,0 +1,48 @@
+{
+  "file_path": "news/AHaber/20241229_Narin'in Katillerine Ceza Yağdı! Nevzat Bahtiyar'ın Cezası Neden Düştü？  ｜ A Haber.tr.txt",
+  "processing_timestamp": "2025-07-22T15:46:57.786297",
+  "original_word_count": 20652,
+  "filtered_word_count": 93,
+  "retention_ratio": 0.004503195816385822,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "İyi geceler değerli izleyenler A Haber A Haber radyo ortak yayınında gece ajansına Hoş geldiniz",
+      "description": "\"İyi geceler değerli izleyenler A Haber A Haber radyo ortak yayınında gece ajansına Hoş geldiniz\" - This section serves as the opening of the broadcast, welcoming viewers and introducing the program.",
+      "end_pos": 593
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 593,
+      "start_sentence": "Narin günan cinayeti davasında karar açıklandı",
+      "description": "\"Narin günan cinayeti davasında karar açıklandı\" - This section contains the main news content, discussing the verdict in the Narin Gunan murder case and featuring commentary from various guests.",
+      "end_pos": 1175
+    },
+    {
+      "type": "3. **OUTRO**",
+      "start_pos": 1175,
+      "start_sentence": "Evet Eee ama ü mühebbet bir bir de 4 yıl 6 ay hapis geldi aslında başından beri gece ajansını tekrar Ben tebrik ediyorum",
+      "description": "\"Evet Eee ama ü mühebbet bir bir de 4 yıl 6 ay hapis geldi aslında başından beri gece ajansını tekrar Ben tebrik ediyorum\" - This section includes closing remarks and reflections on the news discussed, signaling the end of the program.",
+      "end_pos": 136351
+    }
+  ],
+  "news_segments_count": 10,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "1175_6",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 93,
+      "filtered_length": 93,
+      "retention_ratio": 1.0,
+      "section_description": "\"Evet Eee ama ü mühebbet bir bir de 4 yıl 6 ay hapis geldi aslında başından beri gece ajansını tekrar Ben tebrik ediyorum\" - This section includes closing remarks and reflections on the news discussed, signaling the end of the program."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

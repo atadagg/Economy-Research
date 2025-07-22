@@ -1,0 +1,125 @@
+# Economic Content from: 20240920_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 20 Eylül 2024.tr.txt
+# Processed: 2025-07-22T18:49:15.864206
+# Original: 11256 words → Filtered: 833 words (7.40% retention)
+# Economic segments: 10
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 80
+**Retention**: 55.17%
+
+Fatih Terim'in hesabında zaman zaman bazı ödemeler yaptığını ifade etti ve faiz olup olmadığı konusunda Fatih Terim'in kendisine sorduğunu belirtti. Ayrıca, hesabında 1 milyon, 2 milyon ve 3 milyon gibi paralar bulunduğunu da ifade etti. Bunun yanı sıra, çok sayıda müşterinin faiz talebi olduğunu dile getirdi. Ancak Fatih Terim'in kendisinden faiz talebi olmadığını, fakat faizle ilgili soru sorduğunda kendisine hayır diyemediğini söyledi. Bir müştekinin 150,000 dolar aldıktan sonra aynı gün 2 saat içinde 160,000 dolar şeklinde bir ödeme yaptığını belirtti.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 66
+**Retention**: 37.71%
+
+Ekim ayında dev mitinge işaret etti meclis açıldıktan sonra Ankara'nın göbeğinde olacağız. Ocak ayında aldığımızı nisan ayında almıyoruz, nisan'da aldığımızı Temmuz'da almıyoruz. Böyle bir sistem dünyanın hiçbir yerinde yok. 30,000 alıyor, 4,000 vergiye gidiyor. Talepler dile getirilecek, peşinden de bir saat süreyle oturma eylemi yapılacak. Ücret eşitsizliğinin giderilmesi ve işsizlik konusunda adım atılması isteniyor. Federasyon 2025 yılı bütçesi mecliste görüşülmeye başlamadan hemen önce seslerini duyurmak istiyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 98
+**Retention**: 42.06%
+
+500 liralık en düşük emekli maaşıyla hayatlarını idame ettirmeye yaşam savaşı vermeye devam ediyorlar. Yüksek ihtimalle, bu kişilerin çoğu asgari ücretlidir. Ancak, ünlü bir cep telefonu markasının yeni çıkardığı son modeli için kuyruğa girmekten imtina etmiyorlar. O telefona sahip olmak için ellerinden gelen her şeyi yapıyorlar; eğer aylık ödeme olarak asgari ücret alıyorlarsa, bunun %60'ını o telefonu alabilmek için harcayacaklar. 
+
+Yeni çıkan cep telefonu modeline sahip olabilmek için dükkanların önünde uzun kuyruklar oluşturdular. Ünlü bir cep telefonu markasının merakla beklenen yeni modeli satışa sunuldu ve Üsküdar ile Kadıköy'deki telefon mağazalarının önünde uzun kuyruklar oluştu. Telefonun güncel fiyatı 65.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 101
+**Retention**: 54.59%
+
+Kış sezonu açıldı, kışlık kıyafetler vitrinlerde yerini aldı fakat vatandaş alışveriş yapmakta zorlanıyor. Çünkü kışlık kıyafetlerin fiyatı geçtiğimiz yıla göre iki kat arttı. Mont kaban fiyatları minimum 2,000 liradan başlıyor; kazaklar ortalama 1,000 lira. Bazı vatandaşlar bu yıl alışveriş yapmamayı tercih ediyor, geçen yıl aldıkları kıyafetleri giymeyi düşünüyor. Fiyatların bu kadar yüksek olması, birçok kişinin ikinci el alışveriş yapma arayışına girmesine neden oluyor. Kışlık alışverişine başlamak için yeterli parası olmayanlar, "Param olduğunda alabilir miyim?" diye düşünüyor. Geçen yıl 2,000 lira olan deri ceketlerin fiyatı bu yıl 3,000 liraya yükseldi. Bu durum, genel olarak tüketici harcamalarını olumsuz etkiliyor ve ekonomik belirsizlikleri artırıyor.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 60
+**Retention**: 60.61%
+
+Liraya bir derece ket bulunca indirim varmış. Bu yıl kazak fiyatları artış gösterdi; geçen yıl 500 liraya satılan bu kazak şu an 1000 liraya satılıyor. Asgari ücret biliyorsunuz, yani bir insan bununla ev geçindirecek mi yoksa kendine kışlık alışverişi mi yapacak? Kış aylarının kurtarıcısı hırkalar, hırka fiyatları da cep yakıyor. Bu siyah hırka 00 ladan satılıyor, normal mağazada bile 3...
+
+================================================================================
+
+## Economic Segment 6
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 53
+**Retention**: 31.93%
+
+Belçika'da eğitim gören öğrencilerin kitaplarından kalemine kadar tüm harcamaları ücretsiz karşılanıyor. Türkiye'de ise eğitimde bağış adı altında para istemek yasak. Ankara'da gıda güvenliği açısından kritik bir operasyona imza atıldı; piyasa değeri 1 milyar lirayı bulan 8150 ton glikoz fruktoz ve şeker ele geçirildi. Bu durum, gıda fiyatları ve piyasa dengeleri üzerinde etkili olabilir.
+
+================================================================================
+
+## Economic Segment 7
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 67
+**Retention**: 48.55%
+
+Here is the filtered text focusing on economics, finance, and business:
+
+Piyasa değeri 1 milyar lirayı bulan ve sahte bal yapımında kullanılan 3650 ton glikoz şurubu, 2500 ton fruktoz şurubu ve 2000 ton şeker ele geçirildi. Bu durum, gıda sektöründe fiyatların ve maliyetlerin nasıl etkilendiğine dair önemli bir gösterge sunuyor. Ayrıca, bu tür yasadışı üretimlerin önlenmesi, piyasa düzeni ve tüketici güvenliği açısından kritik bir adım olarak değerlendiriliyor.
+
+================================================================================
+
+## Economic Segment 8
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 117
+**Retention**: 35.78%
+
+Türkiye'de en fazla sahtecilik yapılan ürün gruplarını sıralarsak bir numarada zeytinyağı, 2 numarada bal, 3 numarada süt ürünleri ve 4 de et ürünleri olarak sıralanır. Dikkat ederseniz, hem sık tercih edilen hem de fiyat olarak biraz daha yüksek seyreden ürünlerdir. Şimdi balda sahtecilik sorunu uzun bir sorun. Bal dediğimiz ürün, Türkiye'de hakikaten dünyada sayılı ülkelerden biri olan bir üretim alanına sahiptir. Türkiye, bal üretimi konusunda dünyada ikinci sırada yer almaktadır. 
+
+Gıda tüketimi ihtiyacını istismar ederek zararlı üretimleri satmaya çalışan ve bunları üretenlerle mücadelemiz de sonuna kadar devam edecektir. Bu durum, gıda fiyatlarının yükselmesine ve tüketicilerin bu ürünlere ulaşmakta zorluk çekmesine neden olmaktadır. Ekonomik açıdan, bu tür sahtecilikler, hem tüketicilerin sağlığını tehdit etmekte hem de sektördeki güveni sarsmaktadır.
+
+================================================================================
+
+## Economic Segment 9
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 119
+**Retention**: 62.30%
+
+The filtered text focusing on economics, finance, and business is as follows:
+
+Fakat kar borsacılar onları 56 katına satabiliyor. Özellikle yurt dışından karşılaşmayı izlemeye gelenleri hedefliyorlar. Fiyatlar çok fahiş; yani 650-700 eurodan başlıyor. Kara borsa biletlere baktınız mı? Bilet fiyatları 15,000 lira, 20,000 lira seviyelerine çıkabiliyor. Bu durum hem kulüplerin zararı olmaktadır hem de spor severlerin zararı olmaktadır. Türkiye'de Fenerbahçe-Galatasaray derbisi için biletler çoktan tükendi. Ancak yasal fiyatı en fazla 23,000 lira olan biletler kara borsada 120,000 liraya satılmakta. Gerçekte maça girmek isteyen insanlar burada bilet arıyor ama para peşinde olan insanlar burada dolaşıp maç biletini ona buna okutuyor. Şu an VIP bilet fiyatı 50,000 lira ama çok az kaldı. Yani maç saatine yakın muhtemelen bu akşama doğru bitecek.
+
+================================================================================
+
+## Economic Segment 10
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 72
+**Retention**: 41.62%
+
+The filtered text focusing on economics, finance, and business is as follows:
+
+Antalya'da bir özel okul 6. sınıfların velilerinden ders kitapları ve eğitim setleri için 28.000 TL talep etti. Her geçen ayda 1.000 lira daha eklendi. Bazı veliler pahalı olduğu gerekçesiyle ders kitaplarını kitapçılardan yaklaşık 5.000 TL'ye temin etti. Özel okulun idarecileri, çocuklara baskı yaparak deneme sınavlarına alınmamakla tehdit etti. Bu durum, eğitim maliyetleri ve velilerin harcamaları üzerinde önemli bir etki yarattı.
+
+================================================================================
+

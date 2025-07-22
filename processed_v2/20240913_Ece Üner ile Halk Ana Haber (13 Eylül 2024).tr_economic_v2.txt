@@ -1,0 +1,16 @@
+# Economic Content from: 20240913_Ece Üner ile Halk Ana Haber (13 Eylül 2024).tr.txt
+# Processed: 2025-07-22T17:01:37.917569
+# Original: 11481 words → Filtered: 79 words (0.69% retention)
+# Economic segments: 1
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 79
+**Retention**: 40.10%
+
+4 milyar dolardan vazgeçilmiş oldu. Bu arada Amerikan Büyükelçisi, Cumhurbaşkanı Erdoğan'dan tepki aldı. 28 Ağustos'ta büyükelçi ile bir araya geldiler. Amerika'nın 100 büyük şirketinin yöneticileriyle yatırım için görüşülecek. Yoksulluk malumunuz, açlık sınırı malumunuz; asgari ücretle insanlar ne yoksullukları satın alabiliyorlar ne açlıklarını. Dolar milyarderi olan Türk vatandaşı sayısı 27'ye yükseldi. Amerika Birleşik Devletleri merkezli İş Dünyası Dergisi Forbes'un geleneksel dolar milyarderleri listesinde Türkiye'den 27 isim bulunuyor. Forbes'un derlediği bilgilere göre dünya genelinde 1 milyar dolar ve üzeri serveti bulunan...
+
+================================================================================
+

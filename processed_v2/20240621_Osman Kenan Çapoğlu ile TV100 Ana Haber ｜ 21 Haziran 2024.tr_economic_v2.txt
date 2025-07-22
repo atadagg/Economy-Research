@@ -1,0 +1,72 @@
+# Economic Content from: 20240621_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 21 Haziran 2024.tr.txt
+# Processed: 2025-07-22T18:23:00.850304
+# Original: 9087 words → Filtered: 557 words (6.13% retention)
+# Economic segments: 5
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 64
+**Retention**: 51.20%
+
+Türkiye İstatistik Kurumu verilerine göre Türkiye'de 2001'den 2023'e kadar doğurganlık hızında düşüş yaşandı. Cumhurbaşkanı Recep Tayyip Erdoğan, azalan doğum oranlarına dikkat çekti ve annelere destek hazırlıkları başladığını belirtti. Doğum oranlarının artması için teşvik programı üzerinde çalışılıyor. Yeni uygulamalar arasında doğum izninin 4 aydan bir yıla çıkarılması, maaşta iyileştirme ve kreş ya da kira desteği de gündemde. Bakanlıklar, bu konudaki hazırlıklar için çalışmalara başlamış vaziyette.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 68
+**Retention**: 93.15%
+
+500 lirayı yeniden açtı, iki haftalık sürecin zirvesini gördü. Uzmanlara göre, yolun daha çok başında altının serüveni bu bir başlangıç. Temmuz ayından sonra gram altında fiyatların 3.500 lirayı görmesi tahmin ediliyor. Yaklaşık bir aydır bu baskılanma düşüş trendi devam etti. Altın fiyatlarında Bayram tatili bitti, altın fiyatları da kaldığı yerden yükselişlerin devam etti. Kurban Bayramı öncesinde 2.400 liradan alım fırsatı sunan gram altın, bayramın hemen ardından artış gösterdi.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 209
+**Retention**: 72.82%
+
+500 lirayı aşarak 2 haftanın zirvesini gördü bugün 2520 lira seviyesini kırdı yani 2 haftalık süreçte gram altın Tam gramında 100 lira değer kazandı. Temmuz ayı itibariyle düğün sezonları başlıyor. Merkez bankalarının fiziki altın talepleri yine devam ediyor ve jeopolitik gerilimler dışarıda altın fiyatlarını destekleyen faktörler yine devam ediyor. Uzmanlar uyarıyor, bu yükseliş Temmuz ayından sonra hız kazanacak. 2024 yılında altının altın çağını yaşayacağı bir süreç göreceğiz. Tekrar altın fiyatlarına Temmuz ayı itibariyle yukarı yönlü hareketler bekliyoruz; 2600-2700 lira aralığı yılın son çeyreğinde 3-3500 lira sürpriz olmayacaktır.
+
+Kiraların durumu artık malum, maaş yetişmiyor. % 25 zam sınırı da çok kısa bir süre sonra kalkacak. TEFE TÜFE oranına ortalamasına bakılacak, o da tahmini olarak % 55'ler, 50 ile 60 arasındaki bir bantta seyredecek. Bu durum piyasaya nasıl yansıyacak? Hem kiracılar hem ev sahipleri bu hususla ilgili düşüncelerini paylaşıyorlar. Kiralık konut sorununun önüne geçmek için adımlar atılması gerekiyor. Fahiş kiralar gündemdeki yerini korurken, artışların önüne geçmek için devreye alınan % 25 zam sınırı 1 Temmuz'da sona eriyor. 
+
+Son iki yıldır kiralara sınırlı zam yapmak zorunda kalan ev sahipleri, yeni dönemde artışı % 25 değil, TÜFE'nin 12 aylık ortalamasına göre yapacak. Yani son aylardaki TÜFE ortalamasına baktığımız zaman yeni dönem kira artış oranının % 50 ile % 60 arasında olacağı tahmin ediliyor.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 119
+**Retention**: 54.09%
+
+İstanbul'da ortalama 100 metrekare evin kira değeri, %25 kalsaydı bu evin değeri tam olarak 25,000 TL'ye çıkacaktı. Uzmanlara göre zam sınırının kaldırılması kira sorununa çözüm değil; atılması gereken adımların başında erişilebilir fiyatlı konut üretimi geliyor. Ciddi manada konuta ihtiyacımız var ve yılda 1 milyon civarında konut üretmemiz gerekiyor ki İstanbul'daki konut problemini çözebilelim. Bunun için arsa lazım; hem satılık hem kiralık konutta fiyatları yükselten en önemli etkenlerden biri arsa maliyetleri. Uzmanlar da bu maliyetlerin aşağı çekilmesi için önemli uyarılarda bulunuyor. %25 sınırı, 2 yıldır uygulanan bir sınır ama onu uygulayabilmek de oldukça zor. Uygulamaya geldiğinde, %70'i %80'i %25'in üzerinde bir zam oranını yaptı bu 2 yıllık periyot içerisinde. Şimdi de aslında 1 Temmuz itibariyle o orta yolun bulunması lazım.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_final
+**Confidence**: 0.50
+**Word Count**: 97
+**Retention**: 100.00%
+
+000
+Geçkin el dokuma sağlığı vekilim restore edilip mikroplardan arındırılmış buğ ekilen tarlalara
+serilme başlandı tarlada güneşle halılar yıkanıyor güneşleniyor önce su havuzlarında steril hale
+getiriyor mikroplardan arındırılıyor yıkanan halı ve kilimler sonrasında güneşe serilerek renkleri
+soldurulmuş 20 000 Aşkın halı ve kilimler güneşin altında belirli Aralık nemi ve sıcağı iyi şekilde
+alması renklerin tonan sağlaması da sağlanıyor Biz genelde Amerika'ya satıyoruz Avrupa dah az
+miktarda gidiyor Güney Amerika Afrika Avustralya oralara da satıyoruz ana haberi bu akşamlık burada
+noktalık haftayı da noktalı yeni haftada tekrar görüşmek dileğiyle aynı saat mutlu hafta sonları iyi
+akşamlar Hoşça kalın
+
+================================================================================
+

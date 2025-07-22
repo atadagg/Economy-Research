@@ -1,0 +1,94 @@
+{
+  "file_path": "news/ATV/ATV20240720_atv Ana Haber ｜ 20 Temmuz 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T16:54:31.349305",
+  "original_word_count": 4333,
+  "filtered_word_count": 254,
+  "retention_ratio": 0.05861989383798754,
+  "structure_sections": [
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 63,
+      "start_sentence": "Bugün 20 Temmuz cumartesi 2024 bülteni ne yazık ki yüreğimizi yakan acı bir haberle açıyoruz",
+      "description": "\"Bugün 20 Temmuz cumartesi 2024 bülteni ne yazık ki yüreğimizi yakan acı bir haberle açıyoruz\" - The main news content begins with a report on a tragic event involving a military officer, followed by updates on military operations and political statements. This section contains multiple news stories related to the military and political developments.",
+      "end_pos": 63
+    },
+    {
+      "type": "- **NEWS**",
+      "start_pos": 63,
+      "start_sentence": "Bugün 20 Temmuz cumartesi 2024 bülteni ne yazık ki yüreğimizi yakan acı bir haberle açıyoruz",
+      "description": "\"Bugün 20 Temmuz cumartesi 2024 bülteni ne yazık ki yüreğimizi yakan acı bir haberle açıyoruz\" - Main news content covering military and political updates.",
+      "end_pos": 1372
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 1372,
+      "start_sentence": "Kıbrıs Barış harekatının 50 yıldönümünde devletin Zirvesi Lefkoşa'ya çıkarma yaptı",
+      "description": "\"Kıbrıs Barış harekatının 50 yıldönümünde devletin Zirvesi Lefkoşa'ya çıkarma yaptı\" - This sentence serves as a transition to a new news story regarding the anniversary of a military operation and the attendance of political leaders.",
+      "end_pos": 1372
+    },
+    {
+      "type": "- **TRANSITION**",
+      "start_pos": 1372,
+      "start_sentence": "Kıbrıs Barış harekatının 50 yıldönümünde devletin Zirvesi Lefkoşa'ya çıkarma yaptı",
+      "description": "\"Kıbrıs Barış harekatının 50 yıldönümünde devletin Zirvesi Lefkoşa'ya çıkarma yaptı\" - Transition to a new news story.",
+      "end_pos": 1464
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1464,
+      "start_sentence": "Cumhurbaşkanı Erdoğan'a MHP lideri Devlet Bahçeli CHP genel başkanı Özgür özel ve çok sayıda siyasi isim eşlik etti",
+      "description": "\"Cumhurbaşkanı Erdoğan'a MHP lideri Devlet Bahçeli CHP genel başkanı Özgür özel ve çok sayıda siyasi isim eşlik etti\" - This section continues with further details about the political leaders' involvement and statements made during the event in Cyprus.",
+      "end_pos": 1464
+    },
+    {
+      "type": "- **NEWS**",
+      "start_pos": 1464,
+      "start_sentence": "Cumhurbaşkanı Erdoğan'a MHP lideri Devlet Bahçeli CHP genel başkanı Özgür özel ve çok sayıda siyasi isim eşlik etti",
+      "description": "\"Cumhurbaşkanı Erdoğan'a MHP lideri Devlet Bahçeli CHP genel başkanı Özgür özel ve çok sayıda siyasi isim eşlik etti\" - Continuation of news regarding political leaders and events.",
+      "end_pos": 1959
+    },
+    {
+      "type": "5. **OUTRO**",
+      "start_pos": 1959,
+      "start_sentence": "Adadaki gerçekleri görmezden g",
+      "description": "\"Adadaki gerçekleri görmezden g\" - The closing remarks begin here, although the text cuts off, indicating the end of the program.",
+      "end_pos": 30804
+    }
+  ],
+  "news_segments_count": 8,
+  "economic_segments_count": 3,
+  "economic_segments": [
+    {
+      "segment_id": "1959_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 64,
+      "filtered_length": 61,
+      "retention_ratio": 0.953125,
+      "section_description": "\"Adadaki gerçekleri görmezden g\" - The closing remarks begin here, although the text cuts off, indicating the end of the program."
+    },
+    {
+      "segment_id": "1959_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 219,
+      "filtered_length": 121,
+      "retention_ratio": 0.5525114155251142,
+      "section_description": "\"Adadaki gerçekleri görmezden g\" - The closing remarks begin here, although the text cuts off, indicating the end of the program."
+    },
+    {
+      "segment_id": "1959_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 212,
+      "filtered_length": 72,
+      "retention_ratio": 0.33962264150943394,
+      "section_description": "\"Adadaki gerçekleri görmezden g\" - The closing remarks begin here, although the text cuts off, indicating the end of the program."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

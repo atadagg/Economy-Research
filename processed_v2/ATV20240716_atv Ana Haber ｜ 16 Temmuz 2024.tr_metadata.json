@@ -1,0 +1,75 @@
+{
+  "file_path": "news/ATV/ATV20240716_atv Ana Haber ｜ 16 Temmuz 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T16:42:04.138182",
+  "original_word_count": 4698,
+  "filtered_word_count": 366,
+  "retention_ratio": 0.07790549169859515,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 23,
+      "start_sentence": "İyi akşamlar milyonlarca emeklinin 6 aylık zam oranı %",
+      "description": "\"İyi akşamlar milyonlarca emeklinin 6 aylık zam oranı %\" - The opening of the broadcast where the presenter greets the audience and introduces the topic of discussion, which is related to pension increases.",
+      "end_pos": 102
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 102,
+      "start_sentence": "Ancak bu oran kök maaşa uygulandığı için 3.700 b000 emekli sıfır zam tehlikesiyle karşı karşıyaydı",
+      "description": "\"Ancak bu oran kök maaşa uygulandığı için 3.700 b000 emekli sıfır zam tehlikesiyle karşı karşıyaydı\" - The main news content discussing the pension increase, the government's response, and details about the proposed changes to pension payments.",
+      "end_pos": 1666
+    },
+    {
+      "type": "3. **OUTRO**",
+      "start_pos": 1666,
+      "start_sentence": "Önümüzdeki dönem İnşallah emeklilik sisteminde daha dengeli daha Adil eee bir uygulamayı Eee hayata geçirmemiz gerekiyor",
+      "description": "\"Önümüzdeki dönem İnşallah emeklilik sisteminde daha dengeli daha Adil eee bir uygulamayı Eee hayata geçirmemiz gerekiyor\" - The closing remarks where the presenter discusses future plans regarding the pension system and wraps up the news segment.",
+      "end_pos": 32885
+    }
+  ],
+  "news_segments_count": 8,
+  "economic_segments_count": 4,
+  "economic_segments": [
+    {
+      "segment_id": "102_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 234,
+      "filtered_length": 98,
+      "retention_ratio": 0.4188034188034188,
+      "section_description": "\"Ancak bu oran kök maaşa uygulandığı için 3.700 b000 emekli sıfır zam tehlikesiyle karşı karşıyaydı\" - The main news content discussing the pension increase, the government's response, and details about the proposed changes to pension payments."
+    },
+    {
+      "segment_id": "1666_0",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 83,
+      "filtered_length": 54,
+      "retention_ratio": 0.6506024096385542,
+      "section_description": "\"Önümüzdeki dönem İnşallah emeklilik sisteminde daha dengeli daha Adil eee bir uygulamayı Eee hayata geçirmemiz gerekiyor\" - The closing remarks where the presenter discusses future plans regarding the pension system and wraps up the news segment."
+    },
+    {
+      "segment_id": "1666_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 324,
+      "filtered_length": 128,
+      "retention_ratio": 0.3950617283950617,
+      "section_description": "\"Önümüzdeki dönem İnşallah emeklilik sisteminde daha dengeli daha Adil eee bir uygulamayı Eee hayata geçirmemiz gerekiyor\" - The closing remarks where the presenter discusses future plans regarding the pension system and wraps up the news segment."
+    },
+    {
+      "segment_id": "1666_5",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 147,
+      "filtered_length": 86,
+      "retention_ratio": 0.5850340136054422,
+      "section_description": "\"Önümüzdeki dönem İnşallah emeklilik sisteminde daha dengeli daha Adil eee bir uygulamayı Eee hayata geçirmemiz gerekiyor\" - The closing remarks where the presenter discusses future plans regarding the pension system and wraps up the news segment."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

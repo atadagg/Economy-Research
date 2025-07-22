@@ -1,0 +1,101 @@
+{
+  "file_path": "news/Show/20240724_Show Ana Haber 24 Temmuz 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T17:27:33.761826",
+  "original_word_count": 2148,
+  "filtered_word_count": 211,
+  "retention_ratio": 0.09823091247672253,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "soana haberden i akşamlar değerli izleyenler",
+      "description": "\"soana haberden i akşamlar değerli izleyenler\" - The presenter introduces herself and sets the stage for the news broadcast, mentioning that she will cover the day's prominent headlines.",
+      "end_pos": 0
+    },
+    {
+      "type": "- **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "soana haberden i akşamlar değerli izleyenler",
+      "description": "\"soana haberden i akşamlar değerli izleyenler\" - Presenter introduction and program start.",
+      "end_pos": 191
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 191,
+      "start_sentence": "Cumhurbaşkanı Erdoğan o düzenlemeyi eleştirenlere yanıt verirken",
+      "description": "\"Cumhurbaşkanı Erdoğan o düzenlemeyi eleştirenlere yanıt verirken\" - This brief transition indicates a shift in focus to President Erdoğan's responses and comments related to the previous news story.",
+      "end_pos": 191
+    },
+    {
+      "type": "- **TRANSITION**",
+      "start_pos": 191,
+      "start_sentence": "Cumhurbaşkanı Erdoğan o düzenlemeyi eleştirenlere yanıt verirken",
+      "description": "\"Cumhurbaşkanı Erdoğan o düzenlemeyi eleştirenlere yanıt verirken\" - Transition to Erdoğan's comments.",
+      "end_pos": 289
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 289,
+      "start_sentence": "Gazze'de şu anda sayısı 16.000 bulan masum çocuğun sayısı 40.000",
+      "description": "\"Gazze'de şu anda sayısı 16.000 bulan masum çocuğun sayısı 40.000\" - This part continues with another significant news story, discussing the situation in Gaza and the humanitarian crisis, further elaborating on the political implications.",
+      "end_pos": 965
+    },
+    {
+      "type": "5. **TRANSITION**",
+      "start_pos": 965,
+      "start_sentence": "Ak Parti grup toplantısında konuşan Cumhurbaşkanı Erdoğan",
+      "description": "\"Ak Parti grup toplantısında konuşan Cumhurbaşkanı Erdoğan\" - This transition leads into another segment where Erdoğan speaks at an AK Party group meeting, indicating a change in the topic of discussion.",
+      "end_pos": 1453
+    },
+    {
+      "type": "6. **NEWS**",
+      "start_pos": 1453,
+      "start_sentence": "CHP lideri Özgür Özel'in asgari ücret ve emekli maaşlarına zam taleplerine de yanıt verdi",
+      "description": "\"CHP lideri Özgür Özel'in asgari ücret ve emekli maaşlarına zam taleplerine de yanıt verdi\" - This section covers additional news regarding political responses to economic issues, specifically addressing the demands for wage increases.",
+      "end_pos": 1644
+    },
+    {
+      "type": "7. **OUTRO**",
+      "start_pos": 1644,
+      "start_sentence": "Hazine ve maliye bakanlığımız kaynağında bu borçların tahsiline başlayacaktır",
+      "description": "\"Hazine ve maliye bakanlığımız kaynağında bu borçların tahsiline başlayacaktır\" - The closing remarks summarize the government's actions regarding financial matters, signaling the end of the news segment.",
+      "end_pos": 14975
+    }
+  ],
+  "news_segments_count": 8,
+  "economic_segments_count": 3,
+  "economic_segments": [
+    {
+      "segment_id": "1644_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 98,
+      "filtered_length": 98,
+      "retention_ratio": 1.0,
+      "section_description": "\"Hazine ve maliye bakanlığımız kaynağında bu borçların tahsiline başlayacaktır\" - The closing remarks summarize the government's actions regarding financial matters, signaling the end of the news segment."
+    },
+    {
+      "segment_id": "1644_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 137,
+      "filtered_length": 47,
+      "retention_ratio": 0.34306569343065696,
+      "section_description": "\"Hazine ve maliye bakanlığımız kaynağında bu borçların tahsiline başlayacaktır\" - The closing remarks summarize the government's actions regarding financial matters, signaling the end of the news segment."
+    },
+    {
+      "segment_id": "1644_5",
+      "method": "simple_final",
+      "confidence": 0.5,
+      "original_length": 127,
+      "filtered_length": 66,
+      "retention_ratio": 0.5196850393700787,
+      "section_description": "\"Hazine ve maliye bakanlığımız kaynağında bu borçların tahsiline başlayacaktır\" - The closing remarks summarize the government's actions regarding financial matters, signaling the end of the news segment."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

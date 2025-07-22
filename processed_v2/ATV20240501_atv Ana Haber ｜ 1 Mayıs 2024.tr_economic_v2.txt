@@ -1,0 +1,41 @@
+# Economic Content from: ATV20240501_atv Ana Haber ｜ 1 Mayıs 2024.tr.txt
+# Processed: 2025-07-22T16:37:48.030384
+# Original: 4645 words → Filtered: 204 words (4.39% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 77
+**Retention**: 100.00%
+
+000 Euro almış çok büyük musalar yapılıyor ve sana söyleyeyim Eee Manisa Kaynanan aynı şekilde
+gündemi sarsan 5 milyon euroluk vurgunda sahtekarın annesi de nams salmış bir büyücü çıktı birazdan
+anka kuşu Ben abdest aldıktan sonra anka kuşu gelecek ve beni alacak yukarıya çıkacağım Münih'te
+yaşayan iş kadını Nurcan Hanım'ı kandıran Serkan Önder talihsiz kadını annem seni Okuyup üflesin
+diye memleketi Ordu'ya ilham kaynağı annesi falcı Esma önder'e yönlendirdi falcı diye tanıtılan anne
+Esma Önder'in mağdurdan 200
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_final
+**Confidence**: 0.50
+**Word Count**: 127
+**Retention**: 100.00%
+
+000 nüfuslu bir ilçeye yetecek seviyede trafo bulundu Kaçak tüketimle mücadele
+sürüyor tespit edilen 351 adet kayıt dışı elektrik trafosuna el konuldu dic elektrik Jandarma
+desteğiyle Şanlıurfa'da dronla arazileri denetledi 5500 K elektrik üreten Kaçak trafo tespit edildi
+üretilen kaçak elektrik seviyedeydi kabaca bir hesaplamayla trafoların ürettiği enerji saatte 75 000
+laya denk geliyor 351 adet Kaçak trafo tek tek yerlerinden söküldü hepsine el konuldu coğraf yapısı
+sebebiyle Van hem kışı hem baharı aynı anda yaşıyor yüksek noktalardaki mücadele mayıs ayına
+girmemize rağmen devam ediyor Daha alçak kısımlarda İsa Çiçekler açtı ortaya öyle görüntüler çıkıyor
+ki hayranlık duymamak mümkün değil y şimdi bir araya gideceğiz ama hatırlatalım kuruluş Osman
+birazdan ekranlarınızda olacak aranın ardından kapanış için tekrar burada olacağız bültenimiz Sonuna
+Geldik haberi merkezinden İyi akşamlar than
+
+================================================================================
+

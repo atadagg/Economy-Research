@@ -1,0 +1,35 @@
+# Economic Content from: ATV20240906_atv Ana Haber ｜ 6 Eylül 2024.tr.txt
+# Processed: 2025-07-22T16:10:21.355313
+# Original: 4576 words → Filtered: 163 words (3.56% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 108
+**Retention**: 83.72%
+
+Cuma Cumhurbaşkanı Erdoğan, yeni eğitim öğretim yılının açılış töreninde önemli ekonomik konulara da değindi. Eğitim politikalarının yanı sıra, gençlerin sosyal medya ve sanal platformlar üzerindeki etkileri hakkında uyarılarda bulundu. Bu bağlamda, sosyal medyanın gençler üzerindeki olumsuz etkileri, ekonomik ve sosyal gelişmelerle bağlantılı olarak ele alındı. 
+
+Erdoğan, yasal düzenlemelerin hayata geçirileceğini belirterek, bu düzenlemelerin ekonomik istikrarı sağlamak adına önemli olduğunu vurguladı. Ayrıca, eğitim sisteminin güçlendirilmesi için gerekli adımların atılacağını ifade etti. Yeni eğitim öğretim yılının, gençlerimizin gelecekteki ekonomik potansiyelini artırmak için bir fırsat olduğunu söyledi. 
+
+Bu açıklamalar, Türkiye'nin eğitim politikalarının ekonomik büyüme ve istihdam üzerindeki etkilerini gözler önüne seriyor. Eğitimde yapılacak reformların, iş gücü piyasasına olumlu katkılar sağlayacağı öngörülüyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 55
+**Retention**: 100.00%
+
+sanal alemdir özgürlük maskesiyle şiddetin ahlaksızlığın ırkçılığın nefret suçlarının Hatta
+istismarın meşrulaştırılması asla kabul edilemez sözlerine bir süre önce Instagram'a getirilen
+erişim engelini hatırlatarak devam etti özellikle batılı devletlerin kendi vatandaşlarını korumak
+amacıyla aldığı çok sert önlemlerde dikkat ederseniz kimse özgürlükten bahsetmiyor ancak biz
+evlatlarımızı korumak adına benzer yollara başvurduğumuzda eleştiri oklarının hedefi oluyoruz geçen
+
+================================================================================
+

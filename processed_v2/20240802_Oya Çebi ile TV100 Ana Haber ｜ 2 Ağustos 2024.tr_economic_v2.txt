@@ -1,0 +1,66 @@
+# Economic Content from: 20240802_Oya Çebi ile TV100 Ana Haber ｜ 2 Ağustos 2024.tr.txt
+# Processed: 2025-07-22T18:02:28.771745
+# Original: 11011 words → Filtered: 517 words (4.70% retention)
+# Economic segments: 5
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 91
+**Retention**: 116.67%
+
+Türkiye'de de önemli gelişmeler yaşanıyor ekonomi anlamında. Ekonomik veriler ve istatistikler, piyasalardaki dalgalanmaları etkileyen önemli faktörler arasında yer alıyor. Ayrıca, hükümetin ekonomik politikaları, iş dünyası ve yatırımcılar üzerinde doğrudan etki yaratıyor. Bu bağlamda, şirket gelişmeleri ve finansal piyasalarla ilgili haberler de dikkat çekici. Enflasyon oranları ve fiyat artışları, tüketici harcamalarını etkileyerek ekonomik büyümeyi şekillendiriyor. Bankacılık sektörü ve kredi politikaları, ekonomik istikrar açısından kritik öneme sahip. Ticaret, ithalat ve ihracat verileri, ülkenin ekonomik sağlığını gösteren önemli göstergeler arasında bulunuyor. Ekonomik analizler ve uzman görüşleri, piyasa trendlerini anlamak için önemli bir kaynak oluşturuyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 95
+**Retention**: 67.86%
+
+7 milyar dolar artış sağladık % 13,8. Yıllıklandırılmış yani son 12 ayın ihracat toplamı 261 bu5 milyar dolar. En düşük emekli aylığını 12 500 liraya çıkaran vergi paketi düzenlemesi resmi gazetede yayımlandı. 2500 Liralık fark ödemesi de 7 Ağustos'ta hesaplarınıza yatırılacak. Bu arada yasayla 150 liradan yurt dışına çıkış harcı 500 liraya yükseldi. Kurumlar Vergisi kanununda değişiklik yapıldı. Tüm bunları ve çok daha fazlasını içeren düzenleme resmi gazetede yayınlandı. Artık en düşük emekli maaşı 12 500 L olarak belirlenmiştir. Temmuzda aylıklarını alanlara 2 500 L fark olarak ödenecek tutar 7 Ağustos çarşamba günü hesaplara yatırılacak.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 94
+**Retention**: 49.47%
+
+Sosyal Güvenlik Kurumu, sigortasız işçi çalıştıran işverenler için harekete geçti ve idari para cezalarına karşı karşıya kalacaklar. Çeşitli kamu kurumu ve kuruluşlarının verdiği yaklaşık 18 adet teşvik, istihdama yönelik olarak mevcut. Bu teşviklerden yasaklı olma durumu söz konusu. Asgari ücret desteklerinin iptali de gündemde. Sadece bir gün dahi sigortasız işçi çalıştırmanın cezası en az 40,000 liraya mal olacak. Çalıştırdığı işçi yabancı olduğunda, bu durum daha da değişiyor; yabancı işçi için ceza 96,75 liraya çıkıyor. Sosyal Güvenlik Kurumu, bir işçinin bir gün dahi sigortasız çalıştırılması durumunda 2024 yılında aylık en az 4,000 lira ceza uygulayacak.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 135
+**Retention**: 68.18%
+
+Altın fiyatlarında bu hafta iki önemli başlık var: Amerika Merkez Bankası FED'in faiz kararı ve doğudaki jeopolitik gerilimlerin artması. FED'in faiz indirimi beklenen Eylül ayı itibariyle, ons altın için 2600 dolar seviyesinde hedef alan bir beklentimiz var. Ortadoğu'daki gerilim altını doğrudan etkileyecek. Teknik olarak 2480-2520 dolar seviyeleri var yukarıda. Ancak bunun gerçekleşmesi için İsrail'in yeniden yeni bir saldırı yapması veya misillemelerin artması lazım. 
+
+Haziran ayında 2420, Temmuz ayında ise 2682 lira seviyesine kadar yükselen altın fiyatları şu anda 2640 lira. Ağustos ayı içerisinde veya ortalarında 2730 lira direncini takip edeceğiz. Altın alan yatırımcılar kazanıyor, ancak son haftalarda dalgalı seyreden bir grafik var. Yatırımcı, almayarak her ay yeni bir yükselişle karşı karşıya kalıyor ve zarar ediyor. Orta ve uzun vadede yıl sonuna kadar yükseliş beklentim devam ediyor; ons altın tarafında 2600 dolar, devamında 3000 dolar hedefleniyor.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 102
+**Retention**: 62.20%
+
+Uzmanlar sahte sitelere karşı vatandaşı uyarıyor; güvenli olmayan linklere kesinlikle tıklanmaması gerektiği vurgulanıyor. Bu tarz durumlarla karşı karşıya kalan vatandaşların mutlaka ekran görüntülerini alarak savcılığa suç duyurusunda bulunması son derece önemlidir. 
+
+Özel üniversiteler, başarılı öğrencilerin kendi okullarını tercih etmesini sağlamak amacıyla yemek bursu, aylık nakit para desteği ve elektronik cihaz yardımı gibi pek çok seçenek sunuyor. Bu desteklerin akademik kariyeri etkileyip etkilemeyeceği merak ediliyor. Özel üniversiteler, her tercih döneminde olduğu gibi yine öğrenci kapma yarışına girmiş durumda. Bu yapılanlar, aslında öğrencilerin başarılarını ödüllendiren uygulamalar olarak değerlendiriliyor. 
+
+Sonuç olarak, üniversitelerin başarı ortalamasını yükseltmek amacıyla çeşitli burs ve destek programları sunarak rekabeti artırdığı görülüyor.
+
+================================================================================
+

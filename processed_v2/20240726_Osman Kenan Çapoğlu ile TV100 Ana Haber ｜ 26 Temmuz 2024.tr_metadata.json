@@ -1,0 +1,157 @@
+{
+  "file_path": "news/TV100/20240726_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 26 Temmuz 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T18:28:04.433819",
+  "original_word_count": 9163,
+  "filtered_word_count": 965,
+  "retention_ratio": 0.10531485321401288,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "İyi akşamlar 26 Temmuz Cuma haftanın son iş gününde...",
+      "description": "\"İyi akşamlar 26 Temmuz Cuma haftanın son iş gününde...\" - The opening segment introduces the program, the date, and the main topics that will be covered, setting the stage for the news broadcast.",
+      "end_pos": 95
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 95,
+      "start_sentence": "yangınlarla boğuşmaya devam ediyor İzmir'de Dikili ilçesinde ormanlık alan alevlere teslim oldu...",
+      "description": "\"yangınlarla boğuşmaya devam ediyor İzmir'de Dikili ilçesinde ormanlık alan alevlere teslim oldu...\" - This section contains the main news content, focusing on the ongoing forest fires in İzmir, detailing the situation, response efforts, and updates from the field.",
+      "end_pos": 588
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 588,
+      "start_sentence": "Evet Eee şimdi dik ilçesi Çandarlı mahallesindeki yangın Eee Son sürat devam ediyor...",
+      "description": "\"Evet Eee şimdi dik ilçesi Çandarlı mahallesindeki yangın Eee Son sürat devam ediyor...\" - This continues the news segment, providing further updates on the fire's status, the challenges faced by the firefighting teams, and the current situation regarding threats to residential areas.",
+      "end_pos": 683
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 683,
+      "start_sentence": "Tabii ki de İzmir Orman Bölge Müdürlüğü ekipleri kısa sürede müdahalede...",
+      "description": "\"Tabii ki de İzmir Orman Bölge Müdürlüğü ekipleri kısa sürede müdahalede...\" - This brief transition connects different parts of the news story, moving from the general situation to specific details about the firefighting efforts and the resources being deployed.",
+      "end_pos": 1461
+    },
+    {
+      "type": "5. **TRANSITION**",
+      "start_pos": 1461,
+      "start_sentence": "Tabii havanın kararmasıyla birlikte havadan müdahalenin e kesilmesi bekleniyor...",
+      "description": "\"Tabii havanın kararmasıyla birlikte havadan müdahalenin e kesilmesi bekleniyor...\" - Another transition that shifts focus to the implications of nightfall on firefighting efforts and the potential for continued aerial support.",
+      "end_pos": 1559
+    },
+    {
+      "type": "6. **NEWS**",
+      "start_pos": 1559,
+      "start_sentence": "Şimdilik bu kadar söz tekrardan stüdyoda şunu sormak istiyorum...",
+      "description": "\"Şimdilik bu kadar söz tekrardan stüdyoda şunu sormak istiyorum...\" - This part continues the news coverage, discussing the risks to residential areas and the current status of evacuations, providing a comprehensive view of the situation.",
+      "end_pos": 1960
+    },
+    {
+      "type": "7. **OUTRO**",
+      "start_pos": 1960,
+      "start_sentence": "yani eee yetkililerden...",
+      "description": "\"yani eee yetkililerden...\" - This closing segment wraps up the news discussion, indicating the end of the current news story and transitioning towards concluding remarks.",
+      "end_pos": 66317
+    }
+  ],
+  "news_segments_count": 19,
+  "economic_segments_count": 10,
+  "economic_segments": [
+    {
+      "segment_id": "95_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 66,
+      "filtered_length": 66,
+      "retention_ratio": 1.0,
+      "section_description": "\"yangınlarla boğuşmaya devam ediyor İzmir'de Dikili ilçesinde ormanlık alan alevlere teslim oldu...\" - This section contains the main news content, focusing on the ongoing forest fires in İzmir, detailing the situation, response efforts, and updates from the field."
+    },
+    {
+      "segment_id": "683_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 117,
+      "filtered_length": 117,
+      "retention_ratio": 1.0,
+      "section_description": "\"Tabii ki de İzmir Orman Bölge Müdürlüğü ekipleri kısa sürede müdahalede...\" - This brief transition connects different parts of the news story, moving from the general situation to specific details about the firefighting efforts and the resources being deployed."
+    },
+    {
+      "segment_id": "1559_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 61,
+      "filtered_length": 61,
+      "retention_ratio": 1.0,
+      "section_description": "\"Şimdilik bu kadar söz tekrardan stüdyoda şunu sormak istiyorum...\" - This part continues the news coverage, discussing the risks to residential areas and the current status of evacuations, providing a comprehensive view of the situation."
+    },
+    {
+      "segment_id": "1960_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 211,
+      "filtered_length": 172,
+      "retention_ratio": 0.8151658767772512,
+      "section_description": "\"yani eee yetkililerden...\" - This closing segment wraps up the news discussion, indicating the end of the current news story and transitioning towards concluding remarks."
+    },
+    {
+      "segment_id": "1960_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 269,
+      "filtered_length": 112,
+      "retention_ratio": 0.4163568773234201,
+      "section_description": "\"yani eee yetkililerden...\" - This closing segment wraps up the news discussion, indicating the end of the current news story and transitioning towards concluding remarks."
+    },
+    {
+      "segment_id": "1960_7",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 58,
+      "filtered_length": 39,
+      "retention_ratio": 0.6724137931034483,
+      "section_description": "\"yani eee yetkililerden...\" - This closing segment wraps up the news discussion, indicating the end of the current news story and transitioning towards concluding remarks."
+    },
+    {
+      "segment_id": "1960_10",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 158,
+      "filtered_length": 121,
+      "retention_ratio": 0.7658227848101266,
+      "section_description": "\"yani eee yetkililerden...\" - This closing segment wraps up the news discussion, indicating the end of the current news story and transitioning towards concluding remarks."
+    },
+    {
+      "segment_id": "1960_12",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 157,
+      "filtered_length": 102,
+      "retention_ratio": 0.6496815286624203,
+      "section_description": "\"yani eee yetkililerden...\" - This closing segment wraps up the news discussion, indicating the end of the current news story and transitioning towards concluding remarks."
+    },
+    {
+      "segment_id": "1960_13",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 191,
+      "filtered_length": 117,
+      "retention_ratio": 0.612565445026178,
+      "section_description": "\"yani eee yetkililerden...\" - This closing segment wraps up the news discussion, indicating the end of the current news story and transitioning towards concluding remarks."
+    },
+    {
+      "segment_id": "1960_14",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 79,
+      "filtered_length": 58,
+      "retention_ratio": 0.7341772151898734,
+      "section_description": "\"yani eee yetkililerden...\" - This closing segment wraps up the news discussion, indicating the end of the current news story and transitioning towards concluding remarks."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

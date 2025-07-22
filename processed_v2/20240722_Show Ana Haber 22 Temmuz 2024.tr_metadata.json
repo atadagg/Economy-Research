@@ -1,0 +1,48 @@
+{
+  "file_path": "news/Show/20240722_Show Ana Haber 22 Temmuz 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T17:18:57.641511",
+  "original_word_count": 2435,
+  "filtered_word_count": 75,
+  "retention_ratio": 0.030800821355236138,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "İyi akşamlar değerli izleyenler",
+      "description": "\"İyi akşamlar değerli izleyenler\" - The presenter introduces herself and sets the stage for the news broadcast, indicating that she will share the main headlines of the day.",
+      "end_pos": 92
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 92,
+      "start_sentence": "Çanakkale deprem kabusu yaşadı",
+      "description": "\"Çanakkale deprem kabusu yaşadı\" - This section contains the main news stories, starting with the report on the earthquake in Çanakkale and continuing with various details about the incident and subsequent news regarding street dogs legislation.",
+      "end_pos": 1650
+    },
+    {
+      "type": "3. **OUTRO**",
+      "start_pos": 1650,
+      "start_sentence": "Bu kanunu yazması gereken",
+      "description": "\"Bu kanunu yazması gereken\" - The closing remarks are not explicitly clear in the provided text, but this section would typically summarize the news and provide a farewell to the audience.",
+      "end_pos": 17126
+    }
+  ],
+  "news_segments_count": 5,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "92_2",
+      "method": "pattern_validated",
+      "confidence": 0.75,
+      "original_length": 75,
+      "filtered_length": 75,
+      "retention_ratio": 1.0,
+      "section_description": "\"Çanakkale deprem kabusu yaşadı\" - This section contains the main news stories, starting with the report on the earthquake in Çanakkale and continuing with various details about the incident and subsequent news regarding street dogs legislation."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

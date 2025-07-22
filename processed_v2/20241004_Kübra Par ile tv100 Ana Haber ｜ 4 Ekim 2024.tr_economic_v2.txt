@@ -1,0 +1,42 @@
+# Economic Content from: 20241004_Kübra Par ile tv100 Ana Haber ｜ 4 Ekim 2024.tr.txt
+# Processed: 2025-07-22T18:37:56.471286
+# Original: 5751 words → Filtered: 297 words (5.16% retention)
+# Economic segments: 3
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 127
+**Retention**: 69.78%
+
+Enflasyon yükselirken, emekliliğe hazırlanan 39,000 kişiyi ilgilendiren hak kaybının oluşmaması için çözüm arayışları hızlandı. Aylıkların karşılanması için bütçeye ek ödenek koyulması şart. Masada üç ayrı formül var. Onlardan ilki mevzuat değişikliği; toplam maliyet Hazine ve Maliye Bakanlığı'nın öngördüğü seviyenin altında kalırsa, Çalışma ve Sosyal Güvenlik Bakanlığı ödenek mevzuatında değişikliğe gidecek. Eğer Bakanlığın ödenek ve kesintileri ihtiyacı karşılamazsa, ek ödenek sağlanması için meclisin kapısı çalınacak. Bütçe görüşmeleri öncesi yasa teklifiyle düzenleme yapılacak. 
+
+Son seçenek, bütçe güncellemesi; idari kararname ile ödeneklerin bütçe döneminden önce tek çatıda birleştirilmesi hedefleniyor. Böylece hak kaybının emekli üzerindeki baskısı en aza indirgenecek. Bu noktada, İstanbul'da kira fiyatları son 3 yılda özellikle çok konuşuluyor. Bu sene de geçen yıla göre yine %46'lık bir kira artışından söz ediyoruz. Kira ortalaması en düşük ilçede 13,500 TL oldu.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 91
+**Retention**: 45.50%
+
+Geçen seneye baktığımızda bu seneyle fark % 46 80 civarında bir enflasyon vardı. İstanbul'da kira fiyatları geçtiğimiz yıla oranla % 446 arttı. İstanbul genelinde ortalama metrekare fiyatı 244 lira olarak hesaplandı. 2024 için İstanbul'un ortalama metrekare fiyatı 244 TL olarak öngörülüyor. Kadıköy, Beşiktaş ve Sarıyer'de ortalama kira fiyatları 35 000 Liraları aştı. Sarıyer bölgesinde metrekaresi 440 TL'ye varıyor, bu da 100 metrekare bir dairenin kirasını 44 000 liraya kadar yükseltiyor. Ortalama kira fiyatlarının en yüksek olduğu ilçeler ise Ataşehir 8 400, Şişli 8 600, Beyoğlu 3 700, Kadıköy 38 olarak sıralandı.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 79
+**Retention**: 39.90%
+
+TÜFE artışına bakacak olursak % 63,47 Eylül ayı TÜFE artış oranı var. Bu da az önceki rakamlara uygulandığı zaman, maksimum kira zammı yapılırsa en düşük kira Esenyurt'ta 22.500, Sarıyer'de en yüksek kira 72.000 TL'ye ulaşacak demektir. Ortalama da İstanbul'da kira fiyatlarının yaklaşık 40.000 liraya ulaşacağı öngörülüyor. 
+
+Milli Eğitim Bakanlığı 2023-2024 istatistiklerini açıkladı. Türkiye'deki örgün eğitimde toplam 18.710.265 öğrenci bulunuyor. Eğitim kurumlarında görev yapan öğretmen sayısı ise 1.168.096 olarak belirlendi. Bu veriler, eğitim sektöründeki gelişmelerin ekonomik etkilerini anlamak açısından önemli.
+
+================================================================================
+

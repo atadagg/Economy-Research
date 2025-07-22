@@ -1,0 +1,22 @@
+# Economic Content from: ATV20241108_atv Ana Haber ｜ 8 Kasım 2024.tr.txt
+# Processed: 2025-07-22T16:40:31.208600
+# Original: 4844 words → Filtered: 150 words (3.10% retention)
+# Economic segments: 1
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 150
+**Retention**: 125.00%
+
+Cuma Cumhurbaşkanı Erdoğan, Kırgızistan ve Macaristan temaslarını tamamladı. İstanbul'da düzenlenen uluslararası kadın ve adalet zirvesine katıldı. Ekonomik veriler ve istatistikler üzerine yapılan değerlendirmeler, Türkiye'nin ekonomik durumu hakkında önemli bilgiler sunuyor. Özellikle enflasyon oranları ve mali istikrar konuları, hükümetin ekonomik politikalarının belirleyici unsurları arasında yer alıyor. 
+
+Cumhurbaşkanı Erdoğan, Türkiye'nin ekonomik büyüme hedefleri doğrultusunda atılacak adımları vurguladı. Ayrıca, döviz kurlarındaki dalgalanmaların ticaret üzerindeki etkilerine dikkat çekti. Hükümetin yeni ekonomik reform paketleri, yatırımcıların güvenini artırmayı amaçlıyor. 
+
+Son dönemdeki fiyat artışları ve maliyetler, iş dünyasında önemli tartışmalara yol açtı. Uzmanlar, bu durumun iş yapma maliyetlerini nasıl etkilediğini analiz ediyor. Türkiye'nin dış ticaret verileri, ihracat ve ithalat dengesi açısından kritik bir öneme sahip. 
+
+Bankacılık sektörü, kredi politikaları ve faiz oranları ile ilgili gelişmeler, ekonomik istikrarı sağlamak için büyük bir rol oynuyor. Ekonomik analizler, piyasalardaki dalgalanmaların nedenlerini ve olası sonuçlarını ortaya koyuyor. Bu bağlamda, hükümetin alacağı önlemler, ekonomik büyüme ve istihdam üzerindeki etkileri açısından dikkatle izleniyor.
+
+================================================================================
+

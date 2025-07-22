@@ -1,0 +1,16 @@
+# Economic Content from: ATV20240712_atv Ana Haber ｜ 12 Temmuz 2024.tr.txt
+# Processed: 2025-07-22T16:02:26.525705
+# Original: 4535 words → Filtered: 86 words (1.90% retention)
+# Economic segments: 1
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 86
+**Retention**: 90.53%
+
+Gram altının fiyatı yurt dışı piyasalarda 2380 dolarlardan 2415 dolara yükseldi. Üretici enflasyonu yüksek gelse de risk iştahının artışı değerli metalleri, özellikle de altını destekledi. Yükseliş altın piyasasının kalbi Kapalıçarşı'da da kendini gösterdi; öğle saatlerinde gram altın alış fiyatı 2560 lira, çeyrek altın 4150 lira, yarım altın 8350 lira, tam altın 1660 lira, 22 ayar bilezik ise 2700 lira oldu. Gelen enflasyon verisi, Eylül ayı itibarıyla Amerikan Merkez Bankası'nın faiz indirimine başlayacağı beklentisi oluşturdu. Bu durum, altın fiyatlarının daha da yukarı gideceği yönünde bir beklenti yarattı.
+
+================================================================================
+

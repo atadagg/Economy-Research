@@ -1,0 +1,126 @@
+# Economic Content from: 20240708_Oya Çebi ile TV100 Ana Haber ｜ 8 Temmuz 2024.tr.txt
+# Processed: 2025-07-22T17:55:22.374144
+# Original: 9493 words → Filtered: 850 words (8.95% retention)
+# Economic segments: 11
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 53
+**Retention**: 75.71%
+
+Dünyanın en büyük elektrikli araç üreticisi Türkiye'yi seçti. Çinli otomotiv devinin 1 milyar dolarlık yatırım yapacağı ve 150.000 araç kapasiteli elektrikli ve şarj edilebilir hibrit otomobil üretim tesisi kuracağı bildirildi. Bu yatırım sonucunda 5.000 kişiye kadar doğrudan istihdam sağlanacak. Bu gelişme, Türkiye'nin otomotiv sektöründeki büyüme potansiyelini ve yabancı yatırımların ülke ekonomisine katkısını göstermektedir.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 116
+**Retention**: 75.82%
+
+Cumhurbaşkanı Erdoğan himayesinde atılan imzalar, Türkiye'nin otomotiv sektöründe önemli bir yatırım adımını temsil ediyor. Türkiye, Çinli otomotiv devi BYD'nin yeni üssü oluyor ve bu, dünyanın en büyük elektrikli araç üreticisi ile Sanayi ve Teknoloji Bakanlığı arasında yapılan dev bir anlaşmanın sonucudur. Türk otomotiv sanayi için tarihi bir güne şahitlik ediyoruz; bu yatırım kararı, Cumhurbaşkanımızın liderliğinde sürdürdüğümüz yatırımcı dostu politikaların ve yatırımlara sunduğumuz desteklerin sonucudur. Türkiye'ye güvenen ve yatırım yapanlar kazanmaya devam ediyor. Anlaşmaya göre, Türkiye'de 1 milyar dolara yakın yatırım yapılacak ve 5.000 kişiye doğrudan istihdam sağlanacak. Yıllık 150.000 araç kapasiteli elektrikli ve şarj edilebilir hibrit otomobil üretim tesisi inşa edilecek ve ayrıca bir Ar-Ge merkezi kurulacak. Türkiye'de üretilecek ilk otomobilin 2026 sonunda banttan inmesi planlanıyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 82
+**Retention**: 51.90%
+
+AK Parti, 10,000 lira olan en düşük emekli maaşının artırılması için çalışma başlattı. Şu anda konuşulan rakamlar arasında en az 12,000 lira olması gündemde. Çalışmalar devam ediyor, ancak bir yandan da orta vadeli programa ayak uydurmak gerektiği ifade ediliyor. 6 aylık enflasyon farkı netleşti ve emeklinin alacağı zam belli oldu. Ancak, kök aylığı 10,000 liranın altında kalanlar bu artıştan faydalanamadı. Sayıları 1,780,000 bulan bu durumdakiler için yeni formül masada. AK Parti, 10,000 lira olan en düşük emekli maaşının yükseltilmesi için hazırlık yapıyor.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 74
+**Retention**: 37.56%
+
+Türkiye İstatistik Kurumu verilerine göre 6 aylık enflasyon % 24,75 artış gösterdi. Ekonomik veriler ışığında, emeklilere yapılacak % 19,3 zamdan 2,5 milyon emekli faydalanacak. Sosyal Güvenlik Uzmanı Murat Zıbal, en düşük emekli maaşının 10.000 lira olduğunu belirtti. Ancak, mevcut durumda en düşük emekli maaşını alan sayısı 4 milyona yakın. Bu durum, emeklilerin ekonomik koşullarını doğrudan etkiliyor. Enflasyonun artışı, maaşların alım gücünü azaltırken, emeklilerin yaşam standartlarını da zorlaştırıyor. Ekonomik analizler, emeklilerin maaşlarının yükseltilmesi gerektiğini vurguluyor.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 59
+**Retention**: 88.06%
+
+Emeklilerimiz bugün % 24,7'lik zammı uygulasam bile 10.000 liranın altında kök maaşa sahip olacaklar. Eğer en düşük emekli maaşı uygulaması yeni bir tutar artırılmış bir tutarla devam etmezse, 8.017'den daha düşük kök maaşı olan 800.000 vatandaşımız % 24'lük zammı uygulasın, daha düşük maaş alacaklar demek. Bu durum, emekli maaşlarının alım gücünü etkileyerek, genel ekonomik durumu da olumsuz yönde etkileyebilir.
+
+================================================================================
+
+## Economic Segment 6
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 68
+**Retention**: 34.69%
+
+Bu ay 9700 L alacaksınız. Hükümet sözcüsü Sayın Çelik, AK Parti içinde böyle bir çalışma yapıldığını ve bu çalışmanın en kısa sürede aktörel dengeye hazineye etkisini simüle edeceğini belirtti. Bu durumla ilgili bir çalışma var. Hükümet sözcüsü Sayın Çelik, bütçeye ve aktör dengeye etkisini simülasyonlarla Sayın Cumhurbaşkanına sunacak. 12 000 lira gibi rakamlar telaffuz ediliyor; bu, en düşük olabilecek rakam olarak düşünülüyor. Emeklilere yapılan zam % 25 civarında.
+
+================================================================================
+
+## Economic Segment 7
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 69
+**Retention**: 35.20%
+
+Siz toplamda emekliye yapılan zamdan daha düşük bir zamla asgari emekli maaşını yükseltiyorsunuz. Geçtiğimiz dönem de %49.5 emekli zammı geldi ama en düşük emekli maaşı %33.3 artırıldı. 2002 yılında ek en düşük emekli maaşının asgari ücrete oranı 1.7 iken, bugün itibariyle bu oran %60-65 seviyelerine düştü. Dolayısıyla bunun yeterli olduğunu söylemek mümkün değil. Ayrıca, Türkiye İşçi Sendikaları Konfederasyonu (Türk-İş) tarafından açıklanan açlık sınırı artık 19.000 TL sınırlarına gelmiş durumda.
+
+================================================================================
+
+## Economic Segment 8
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 71
+**Retention**: 126.79%
+
+10 000 L ile 12 000 L en düşük emekli maaşı, emeklilere büyük bir haksızlık olarak değerlendiriliyor ve bu maaşın en azından belli bir seviyede yükseltilmesi gerektiği ifade ediliyor. Bu durum, ekonomik adalet ve sosyal güvenlik açısından önemli bir mesele olarak öne çıkıyor. Ekonomik veriler, emekli maaşlarının artırılmasının, hanehalkı gelirleri ve tüketim harcamaları üzerinde olumlu bir etki yaratabileceğini gösteriyor. Uzmanlar, bu tür düzenlemelerin, ekonomik büyümeyi destekleyebileceğini ve iç talebi artırabileceğini belirtiyor.
+
+================================================================================
+
+## Economic Segment 9
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 86
+**Retention**: 47.51%
+
+İslam Memiş yıl sonu tahminini açıkladı. Gram altın fiyatları, Haziranda 2420 TL seviyesindeyken bugün 2520 TL seviyesine kadar yükseldi. Bir ayda 100 TL'lik bir değer artışı yaşandı. Altın fiyatları, geçtiğimiz haftayı son iki ayın zirvesinde kapattı. Yılın son çeyreğinde Merkez Bankası'nın faiz indirim süreci devam ediyor. FED ve Türkiye Cumhuriyet Merkez Bankası'nın politikaları piyasalarda etkili olmaya devam ediyor. Altın fiyatlarının bu yükseliş trendine devam etmesi bekleniyor ve her ay yeni bir rekor tazelemesi öngörülüyor. İslam Memiş, yıl sonunda gram altının 3500 TL'ye kadar çıkacağını öne sürdü.
+
+================================================================================
+
+## Economic Segment 10
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 64
+**Retention**: 39.26%
+
+700 lira seviyesi var ve yıl sonunda da 3000-3500 lira arasında bir fiyatlama beklemeye devam ediyoruz. Ticaret Bakanlığı, yiyecek ve içecek hizmeti veren 114,567 işletmeye denetim yaptı. Bu denetimlerde 2 Ocak'tan bu yana 2165 aykırılık tespit edildi. Bu işletmeler 47 milyon liranın üzerinde bir para cezası aldılar. Ancak hala birçok işletmenin önünde fiyat listesi bulunmuyor. Yani bu büyük bir suç ve cezası da var.
+
+================================================================================
+
+## Economic Segment 11
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 108
+**Retention**: 45.38%
+
+Ticaret Bakanlığı, kafe ve restoran gibi işletmelerin giriş kapısı fiyat listesi zorunluluğu getirmişti. Ancak Bakanlığın yaptığı denetimler, halen bazı işletmelerin önünde fiyat listesi bulunmadığını gösteriyor. Yüksek fiyatlar ve artan maliyetler, tüketici alışkanlıklarını değiştirdi. Artık vatandaşlar, yüklü paralar vermek yerine kiralamayı tercih ediyor. Ev aletlerinden cep telefonlarına kadar birçok ürün kiralanmakta. Kiralama ücretleri model ve özelliklerine göre değişiyor; örneğin, ayda 250 TL'ye akıllı telefon kiralamak mümkün. Genç insanlar, satın alma yerine kiralama yöntemini seçmektedir. Artan maliyetler ve fiyatların yüksekliği, vatandaşın tüketim alışkanlıklarını değiştirmiş durumda. Cep telefonundan beyaz eşyaya kadar birçok ürün artık satın alınmak yerine kiralanıyor. Kiralama yöntemi, özellikle teknolojik cihazlar için en çok tercih edilen seçenek haline geldi.
+
+================================================================================
+

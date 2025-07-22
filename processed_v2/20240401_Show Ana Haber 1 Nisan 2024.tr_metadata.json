@@ -1,0 +1,55 @@
+{
+  "file_path": "news/Show/20240401_Show Ana Haber 1 Nisan 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T17:24:08.556436",
+  "original_word_count": 3085,
+  "filtered_word_count": 144,
+  "retention_ratio": 0.046677471636952995,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "İyi akşamlar sayın seyirciler",
+      "description": "\"İyi akşamlar sayın seyirciler\" - The presenter introduces herself and sets the stage for the news broadcast, indicating the start of the program.",
+      "end_pos": 0
+    },
+    {
+      "type": "- **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "İyi akşamlar sayın seyirciler",
+      "description": "\"İyi akşamlar sayın seyirciler\" - The presenter introduces herself and indicates the start of the news program.",
+      "end_pos": 95
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 95,
+      "start_sentence": "31 Mart yerel seçimlerinde Türkiye'de yepyeni bir tablo ortaya çıktı",
+      "description": "\"31 Mart yerel seçimlerinde Türkiye'de yepyeni bir tablo ortaya çıktı\" - This section contains the main news content, discussing the results of the local elections in Turkey, detailing the performance of various political parties and the implications of the election outcomes.",
+      "end_pos": 95
+    },
+    {
+      "type": "- **NEWS**",
+      "start_pos": 95,
+      "start_sentence": "31 Mart yerel seçimlerinde Türkiye'de yepyeni bir tablo ortaya çıktı",
+      "description": "\"31 Mart yerel seçimlerinde Türkiye'de yepyeni bir tablo ortaya çıktı\" - The main news content discussing the local election results and the performance of political parties in Turkey.",
+      "end_pos": 21637
+    }
+  ],
+  "news_segments_count": 6,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "95_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 279,
+      "filtered_length": 144,
+      "retention_ratio": 0.5161290322580645,
+      "section_description": "\"31 Mart yerel seçimlerinde Türkiye'de yepyeni bir tablo ortaya çıktı\" - The main news content discussing the local election results and the performance of political parties in Turkey."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

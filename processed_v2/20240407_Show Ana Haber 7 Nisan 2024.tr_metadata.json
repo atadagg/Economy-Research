@@ -1,0 +1,55 @@
+{
+  "file_path": "news/Show/20240407_Show Ana Haber 7 Nisan 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T17:33:50.258670",
+  "original_word_count": 2141,
+  "filtered_word_count": 143,
+  "retention_ratio": 0.06679121905651565,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 3,
+      "start_sentence": "İyi akşamlar sayın seyirciler",
+      "description": "\"İyi akşamlar sayın seyirciler\" - The presenter, Pınar Erbaş Ersoy, opens the broadcast and introduces the program, indicating that they will cover the day's most significant developments.",
+      "end_pos": 97
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 97,
+      "start_sentence": "Cumhurbaşkanı Erdoğan teşkilatına yerel seçim sonuçlarının kapsamlı bir şekilde analiz edilmesinin talimatını verdi",
+      "description": "\"Cumhurbaşkanı Erdoğan teşkilatına yerel seçim sonuçlarının kapsamlı bir şekilde analiz edilmesinin talimatını verdi\" - This section contains the main news content, discussing various political developments, including President Erdoğan's instructions regarding local election results and the subsequent reactions from political parties.",
+      "end_pos": 1250
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1250,
+      "start_sentence": "Hatay'da mazbatanın AK Parti'nin adayı Mehmet öntürk verilmesini protesto",
+      "description": "\"Hatay'da mazbatanın AK Parti'nin adayı Mehmet öntürk verilmesini protesto\" - This section continues with more detailed news content regarding the protests in Hatay and the political implications of the election results.",
+      "end_pos": 1351
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 1351,
+      "start_sentence": "Özgür Özel geçirdiği ameliyat nedeniyle konuşma yapamadı",
+      "description": "\"Özgür Özel geçirdiği ameliyat nedeniyle konuşma yapamadı\" - This brief transition indicates a shift in focus to the CHP leader's situation and the subsequent actions taken by his party in response to the election results.",
+      "end_pos": 15477
+    }
+  ],
+  "news_segments_count": 4,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "97_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 143,
+      "filtered_length": 143,
+      "retention_ratio": 1.0,
+      "section_description": "\"Cumhurbaşkanı Erdoğan teşkilatına yerel seçim sonuçlarının kapsamlı bir şekilde analiz edilmesinin talimatını verdi\" - This section contains the main news content, discussing various political developments, including President Erdoğan's instructions regarding local election results and the subsequent reactions from political parties."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

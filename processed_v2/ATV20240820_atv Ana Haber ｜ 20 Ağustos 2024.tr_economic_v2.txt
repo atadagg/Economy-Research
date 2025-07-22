@@ -1,0 +1,16 @@
+# Economic Content from: ATV20240820_atv Ana Haber ｜ 20 Ağustos 2024.tr.txt
+# Processed: 2025-07-22T16:44:34.813001
+# Original: 4688 words → Filtered: 38 words (0.81% retention)
+# Economic segments: 1
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 38
+**Retention**: 62.30%
+
+İstanbul'da kısa mesafe ücreti 2.000 lira olarak belirlendi, ancak bazı servis şirketleri belirlenen yıllık kısa mesafe ücretinden çok daha yüksek fiyatlar talep ediyor. Bu durum, velilerin tepkisini çekiyor. Ekonomik açıdan, bu artışlar ailelerin bütçelerini zorlayarak, eğitim masraflarını artırıyor.
+
+================================================================================
+

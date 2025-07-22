@@ -1,0 +1,92 @@
+{
+  "file_path": "news/AHaber/20241123_Narin Organize Cinayet Kurbanı Mı, Deliller Kimi İşaret Ediyor？ Cinayetin Belge Ve Delilleri....tr.txt",
+  "processing_timestamp": "2025-07-22T15:48:28.834939",
+  "original_word_count": 17137,
+  "filtered_word_count": 272,
+  "retention_ratio": 0.015872089630623795,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "A Haber ekranlarından İyi geceler efendim...",
+      "description": "\"A Haber ekranlarından İyi geceler efendim...\" - The presenter introduces the program and sets the stage for the evening's news, mentioning the focus on a specific crime case.",
+      "end_pos": 187
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 187,
+      "start_sentence": "Evet Türkiye'de ve dünyada çok sayıda önemli gelişmeler yaşanıyor...",
+      "description": "\"Evet Türkiye'de ve dünyada çok sayıda önemli gelişmeler yaşanıyor...\" - This section contains the main news content, discussing various important developments in Turkey and around the world, particularly focusing on the Narin Güran murder case.",
+      "end_pos": 383
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 383,
+      "start_sentence": "İşte yaklaşık 10 dakika önce bir başka programda...",
+      "description": "\"İşte yaklaşık 10 dakika önce bir başka programda...\" - A brief transition that references previous discussions and sets up the context for the current news segment.",
+      "end_pos": 973
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 973,
+      "start_sentence": "Bunu da hatırlatalım ki Geride bıraktığımız günler yine önemli bilgiler...",
+      "description": "\"Bunu da hatırlatalım ki Geride bıraktığımız günler yine önemli bilgiler...\" - Continuation of the news content, elaborating on the details and developments related to the murder case and the ongoing investigation.",
+      "end_pos": 1159
+    },
+    {
+      "type": "5. **NEWS**",
+      "start_pos": 1159,
+      "start_sentence": "Bugün de yine çok kıymetli konuklarımız aramızda olacak...",
+      "description": "\"Bugün de yine çok kıymetli konuklarımız aramızda olacak...\" - Further news content introducing guests who will provide insights and updates on the case.",
+      "end_pos": 1259
+    },
+    {
+      "type": "8. **OUTRO**",
+      "start_pos": 1259,
+      "start_sentence": "Teşekkür ederim İyi yayınlar...",
+      "description": "\"Teşekkür ederim İyi yayınlar...\" - Closing remarks from the presenter, thanking guests and viewers, signaling the end of the program.",
+      "end_pos": 1458
+    },
+    {
+      "type": "6. **TRANSITION**",
+      "start_pos": 1458,
+      "start_sentence": "Abdurrahman şimşek'i gözler arayacak izleyicilerimiz...",
+      "description": "\"Abdurrahman şimşek'i gözler arayacak izleyicilerimiz...\" - A transition that mentions a guest who is currently unavailable but will join if new information arises.",
+      "end_pos": 1740
+    },
+    {
+      "type": "7. **NEWS**",
+      "start_pos": 1740,
+      "start_sentence": "Geldiğimiz nokta oldukça önemli sanırım...",
+      "description": "\"Geldiğimiz nokta oldukça önemli sanırım...\" - Continuation of the news segment, discussing the significance of the current developments in the case.",
+      "end_pos": 110856
+    }
+  ],
+  "news_segments_count": 10,
+  "economic_segments_count": 2,
+  "economic_segments": [
+    {
+      "segment_id": "1740_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 193,
+      "filtered_length": 193,
+      "retention_ratio": 1.0,
+      "section_description": "\"Geldiğimiz nokta oldukça önemli sanırım...\" - Continuation of the news segment, discussing the significance of the current developments in the case."
+    },
+    {
+      "segment_id": "1740_6",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 79,
+      "filtered_length": 79,
+      "retention_ratio": 1.0,
+      "section_description": "\"Geldiğimiz nokta oldukça önemli sanırım...\" - Continuation of the news segment, discussing the significance of the current developments in the case."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

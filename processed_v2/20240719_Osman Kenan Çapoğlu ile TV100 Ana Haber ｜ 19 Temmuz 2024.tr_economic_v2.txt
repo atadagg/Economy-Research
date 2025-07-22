@@ -1,0 +1,84 @@
+# Economic Content from: 20240719_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 19 Temmuz 2024.tr.txt
+# Processed: 2025-07-22T18:17:11.966477
+# Original: 9145 words → Filtered: 641 words (7.01% retention)
+# Economic segments: 6
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 54
+**Retention**: 101.89%
+
+ameliyatların yapılamadığı da belirtildi temel sorun çözüldü 7 saatin sonunda sabah saat 9 9 30
+itibariyle bu sorun meydana gelmişti fakat bazı işlemlerde Hala aksaklıklar devam etmekte sıkıntının
+hacklenme Siber saldırı olup olmadığı değerlendirmesi yapıldı sonrasında kurumdan bir açıklama geldi
+bu bir güvenlik sorunu ya da Siber saldırı değildir deniyor ama Türkiye'deki senaryosuna tablosuna
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 92
+**Retention**: 30.67%
+
+Dilan Polat App uygulamasından yapılan satışlarla yasal defterler de karşılaştırıldı. Masak defter incelemelerine yönelik önemli bir değerlendirmede bulundu. Polatlar ait yasal defterlerde yer alan kayıtların bilinçli olarak menfaat sağlamak amaçlı ve vergi matrahını azaltacak şekilde işlem yapıldığını tespit etti. 
+
+Birden fazla maaş alma dönemi sona eriyor; ihtiyaç fazlası araçlar satılacak. Kamuda tedbirlerini içeren kanun teklifindeki maddelerden birkaçı, meclis genel kurulunda kabul edildi. Yasa 1 Ocak 2025 itibarıyla yürürlükte olacak. Meclis genel kurulunda kabul edilen yasayla artık her statüdeki kamu görevlisi sadece bir maaş alacak; o maaş en yüksek devlet memuru maaşını belirleyecek.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 147
+**Retention**: 62.03%
+
+Huzur hakkı ikramiyesi gibi ödemelere de üst sınır getirilecek. Ekonomik ömrünü dolduran veya ihtiyaç fazlası olan taşıtlar satılacak. Bazı hibrit elektrikli araçlara özel tüketim vergisi teşviği sağlanacak. Belediyelerin genel bütçe vergi gelirleri payından yapılan kesinti oranı % 20'den % 30'a çıkarılacak. Deprem bölgesine yönelik özel bir düzenleme yapıldı; söz konusu illerde nüfus kaybının hizmetlere olumsuz yansımasını önlemek için adım atılacak. Felaketten etkilenen 11 ilde bütçe hesaplamaları yapılırken 2023 yılı nüfusları baz alınacak. Tasarruf tedbirlerine uymayanlara cezai işlem uygulanacak. Hazine ve Maliye Bakanlığı, soruşturma açma ve cezai işlemlerin belirlenmesinde tam yetkili olacak. Emeklilik sisteminde kökten bir değişim başlatma hedefi var; hükümet, emeklilik yaşının düzeltilmesi ve prim gün sayısına göre maaş formülünü masaya yatırmayı planlıyor. Aylığı düşük kalan emeklilere gıda veya kira gibi destekler sağlanması planlanıyor. Emeklilik aylık bağlama oranları ve prim ödeme gün sayılarının yeniden gözden geçirilmesi gerektiği ifade ediliyor. Hükümet, emeklilik sistemini tamamen değiştirmek için düğmeye bastı.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 125
+**Retention**: 57.87%
+
+Hükümetin çalışmasına göre kök maaşı düşük kalan emekli için 6 ayda bir yasal düzenleme yapma ihtiyacı ortadan kalkacak. En düşük emekli aylığına hazine destek vermeyecek. Bu tutarda maaş alanlar için Avrupa Birliği ülkelerindeki örnekler değerlendiriliyor. Avrupa Birliği'ndeki ülkelerde sosyal yardımlarla emekli maaşları tamamlanıyor. Yeni sistemde maaş, kazanca göre ve eve giren gelire göre olacak. 
+
+İlk vergi paketinin ardından şimdi ikinci vergi paketi detayları da netleşiyor. Yeni düzenlemeler kapsamında birden fazla gayrimenkul sahibi olanlardan kademeli olarak artan bir ek emlak vergisi alınacak. Bu yeni vergilendirme sisteminde amaç, vergide adaletin sağlanması ve çok kazanandan çok, az kazanandan az vergi alınması. Eğer birden fazla eviniz varsa, bir tanesinde kendinize oturduğunuz varsayalım, diğerlerinde belli bir oranda emlak vergisi vereceksiniz. Eğer üçüncü eviniz varsa, oradaki oran daha da artmış olacak.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 120
+**Retention**: 62.18%
+
+Boş konutlar için ilave emlak vergisi uygulanacak. Bu, kira fiyatlarını ve gayrimenkul piyasasını etkileyen etkenlerden biri. İkinci vergi paketinin detayları belli oluyor; ek emlak vergisi ise yolda. Konut fiyatlarının uygun olduğu düşüncesiyle konut alarak yatırım yapanlar için, birden fazla evi olanlardan kademeli olarak yükselen ilave ek emlak vergisi talep edilecek. Ayrıca, hayalet ev olarak adlandırılan boş evlerden de ek vergi alınması planlanıyor. Yaklaşık 600,000 boş konuttan ek emlak vergisi alınması hedefleniyor. Bu alandaki istisnaların vergilendirilmesi söz konusu oldu. Boş konutların doğru incelenmesi gerekiyor. Konutun alımdan sonraki 3 yıl içerisinde satanlardan iki kat, 5 yıl içerisinde satanlardan bir kat daha fazla vergi alınması ise ikinci vergi paketine dahil edilecek. Kira gelirlerini beyan etmeyen veya eksik beyan edenler için ceza tutarları artırılacak.
+
+================================================================================
+
+## Economic Segment 6
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 103
+**Retention**: 38.01%
+
+The filtered text focusing on economics, finance, and business is as follows:
+
+Kira geliri beyan etmeyenlerin cezası artırılmalı; örneğin, 33 binden aşağı kira geliri alıyorsa beyan etsin ama istisna yani vergi vermesin. İşte bahsedilen vergi paketi lojmanlardaki kira düzenlemesini de kapsayacak. 30,000 aşan lojmanlarda kira fiyatı düzenlemesine gidileceği de belirtiliyor. Piyasadaki kira değeri lojmanlara uygulanırken % fiyat avantajı kullandırılabilecek. Bakanlık lojman bölgelerinde kira fiyat araştırması yapacak. 
+
+Bu ekonomik düzenlemeler, kiracı ve ev sahibi arasındaki anlaşmazlıkları etkileyebilir. Kiracı ev sahibi kavgalarının her türlüsünü gördüğümüzü zannediyorduk ama görmemişiz, varmış göreceğimiz. 
+
+Bu bağlamda, kira sözleşmeleri ve tahliye süreçleri, ekonomik koşullar ve piyasa dinamikleri ile doğrudan ilişkilidir.
+
+================================================================================
+

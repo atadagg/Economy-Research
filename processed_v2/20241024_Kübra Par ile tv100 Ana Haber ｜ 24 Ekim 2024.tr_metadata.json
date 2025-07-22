@@ -1,0 +1,78 @@
+{
+  "file_path": "news/TV100/20241024_Kübra Par ile tv100 Ana Haber ｜ 24 Ekim 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T18:48:29.294354",
+  "original_word_count": 9473,
+  "filtered_word_count": 179,
+  "retention_ratio": 0.01889580914177135,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "TV1 ekranlarından Herkese iyi akşamlar...",
+      "description": "\"TV1 ekranlarından Herkese iyi akşamlar...\" - The opening of the broadcast where the presenter greets the audience and introduces the program, setting the tone for the news segment.",
+      "end_pos": 69
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 69,
+      "start_sentence": "Şehitlerimizi ağlıyoruz ama işgalcilere inat...",
+      "description": "\"Şehitlerimizi ağlıyoruz ama işgalcilere inat...\" - The main content of the broadcast, discussing various news stories including the situation of the military and recent attacks, along with updates on casualties and government responses.",
+      "end_pos": 480
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 480,
+      "start_sentence": "Savunma sanayimizin gözbebeği tusaşa hain saldırıda...",
+      "description": "\"Savunma sanayimizin gözbebeği tusaşa hain saldırıda...\" - Continuation of the news segment detailing specific incidents, including the attack on TUSAŞ and the impact on families and the community.",
+      "end_pos": 778
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 778,
+      "start_sentence": "Şimdi gündeme geçeceğiz...",
+      "description": "\"Şimdi gündeme geçeceğiz...\" - A brief transition indicating a shift to the next segment of news, preparing the audience for the upcoming stories and live reports.",
+      "end_pos": 1443
+    },
+    {
+      "type": "5. **TRANSITION**",
+      "start_pos": 1443,
+      "start_sentence": "Fatih Poyraz tusaş'ın önünde...",
+      "description": "\"Fatih Poyraz tusaş'ın önünde...\" - Another transition that introduces a live report from a correspondent, indicating a shift to on-the-ground coverage of the news story.",
+      "end_pos": 1544
+    },
+    {
+      "type": "6. **NEWS**",
+      "start_pos": 1544,
+      "start_sentence": "Ailesi Ablası eniştesi ve yeğeni tusaş taydı...",
+      "description": "\"Ailesi Ablası eniştesi ve yeğeni tusaş taydı...\" - Further news content where the correspondent provides updates on the situation from a personal perspective, including family reactions and ongoing developments.",
+      "end_pos": 68099
+    }
+  ],
+  "news_segments_count": 5,
+  "economic_segments_count": 2,
+  "economic_segments": [
+    {
+      "segment_id": "778_0",
+      "method": "pattern_validated",
+      "confidence": 0.75,
+      "original_length": 53,
+      "filtered_length": 53,
+      "retention_ratio": 1.0,
+      "section_description": "\"Şimdi gündeme geçeceğiz...\" - A brief transition indicating a shift to the next segment of news, preparing the audience for the upcoming stories and live reports."
+    },
+    {
+      "segment_id": "1544_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 332,
+      "filtered_length": 126,
+      "retention_ratio": 0.3795180722891566,
+      "section_description": "\"Ailesi Ablası eniştesi ve yeğeni tusaş taydı...\" - Further news content where the correspondent provides updates on the situation from a personal perspective, including family reactions and ongoing developments."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

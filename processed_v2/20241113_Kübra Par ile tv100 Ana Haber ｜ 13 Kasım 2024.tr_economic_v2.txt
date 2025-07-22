@@ -1,0 +1,93 @@
+# Economic Content from: 20241113_Kübra Par ile tv100 Ana Haber ｜ 13 Kasım 2024.tr.txt
+# Processed: 2025-07-22T18:03:50.750127
+# Original: 9183 words → Filtered: 689 words (7.50% retention)
+# Economic segments: 8
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 77
+**Retention**: 45.29%
+
+Cumhuriyet Halk Partisi genel başkanı Özgür Özel, dün asgari ücrette talebimizin 30.000 olduğunu, bunun altına inmeyeceklerini belirtti. Bugün de İyi Parti'den 28.000 TL açıklaması geldi. Merkez Bankası'nın açıklamalarında ise bu oranın çok buralara gelmeyeceği mesajları var. Bu durum, ekonomik verilerin ve enflasyonun etkisiyle asgari ücret tartışmalarını gündeme getiriyor. Ekonomik koşullar, işçi ve işveren arasındaki dengeyi de etkileyerek, iş gücü maliyetlerini artırabilir. Bu bağlamda, hükümetin alacağı kararlar ve Merkez Bankası'nın para politikası, ekonomik istikrar açısından kritik öneme sahip.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 64
+**Retention**: 52.46%
+
+Temmuz ayında asgari ücretin en az 28,000 TL olması gerektiği ifade edildi. CHP'nin ardından İyi Parti de yeni yılda uygulanacak asgari ücret için önerisini açıkladı. Genel başkan Müsavat Dervişoğlu, asgari ücretin en az 28,000 TL olması gerektiğini belirtti. Dervişoğlu, asgari ücrete yapılacak zammın hedeflenen enflasyon üzerinden hesaplanacağı iddiasını gündeme getirdi. Ekonominin seyrine ve hükümetin politikalarına geniş yer ayıran Dervişoğlu, enflasyon tahminleri hakkında eleştirilerde bulundu.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 139
+**Retention**: 50.36%
+
+51 geriledi bu durumu Sayın Cumhurbaşkanımız varoluşsal bir tehdit olarak dile getirdi. Eylem planımızda ilk olarak ailelerin refah düzeylerinin artırılması hedefleniyor. Sayın bakanların böyle bir araya gelmesi ve toplu bir e toplantı yapması şüphesiz önemli. Asgari ücretle ilgili CHP 30 diyor, İyi Parti 28 diyor. Ak Parti'den henüz bir açıklama yoktu ta ki şimdi Vedat Işık'ın yaptığı açıklamaya kadar. Çalışma ve Sosyal Güvenlik Bakanı Vedat Işık, herkesin mutabık kaldığı bir tutarda uzlaşı sağlanmasını ümit ettiklerini belirtti. Aralık ayı başında 2025 yılında uygulanacak asgari ücreti belirlemek için komisyonumuz toplanacak. Pazarlıkların başlamasına az bir zaman kaldı. Tespit Komisyonu Aralık ayında toplanıyor ve gözler yeni yılda uygulanacak olan asgari ücrete çevrildi. Bütçemiz doğrultusunda emekli maaşlarının iyileştirilmesine yönelik çalışmalarımızı da sürdüreceğiz. Güvenlik Bakanı Vedat Işık bu açıklamayı yaptığı Meclis Plan ve Bütçe Komisyonunda tansiyon yine yüksekti. CHP sıralarından alım gücü düştü tepkisi geldi.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 68
+**Retention**: 38.64%
+
+Avrupa'da en düşük asgari ücret ülkelerden biriyiz. Asgari ücret tartışması sürerken, emekliye, çiftçiye ve memura bütçe istiyoruz. Bu asgari ücret tartışmasına ekonomiyi öne çıkarmalıyız. Dervişoğlu en az 28.000 TL asgari ücret önerdi. Tuncar Bakırhan en az 35.000 TL olmasını istedi. Diğer liderlerden Fatih Erbakan da 35.000 TL olmalı diyor. Mustafa Destici'den ise 25.000 TL gibi bir teklif geldi. Gelecek Partisi lideri Ahmet Davutoğlu da 33.000 TL önerisinde bulundu.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 81
+**Retention**: 40.91%
+
+Merkez Bankası başkanı ve Merkez Bankası ekibi, enflasyon hedefleri hakkında açıklamalarda bulundu. Cevdet Akçay, Merkez Bankası'nın enflasyon hedefinin bu yılki gerçek enflasyondan düşük olduğunu belirtti. Bu durum, maaş hesaplamalarında dikkate alınıyor. Akçay, enflasyonun düşmediğini ve bu nedenle az zam yapılması gerektiğini ifade etti. IMF, enflasyonun artmaması için asgari ücretin 1938 TL olmasını öneriyor. Standard and Poor's derecelendirme kuruluşu ise asgari ücreti 22,000 - 22,100 TL olarak açıklamıştı. Bu yabancı kuruluşların açıklamaları, asgari ücrete yapılan zamların enflasyonu daha da yükselteceği mesajını veriyor.
+
+================================================================================
+
+## Economic Segment 6
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 129
+**Retention**: 67.54%
+
+Şimdi geçelim bir başka ekonomi haberimize. Yıllarca SSK'lı olarak çalıştınız, ancak son 7 yılda sigortalılık statünüz değişebiliyor. Bu sistemin adı 7 yıl kuralı. Çalışan milyonlarca kişi bu sistemi ne tanıyor ne biliyor. Bu kural büyük önem taşıyor; 3428 öncesi sigortalı olan herkesi kapsıyor. Sosyal Güvenlik Kurumu, emekli olurken diyor ki, son 7 yılda bildirilen hizmetlerinizin yarısı, yani son 7 yılın yarısı, 3,5 yıl artı 1 gün en son hangisi daha fazla bildirildiyse, ben senin statünü ele alırım ve onun şartlarına göre emekli ederim. İşte bu formüle göre, eğer SSK'lı iseniz, sizin için dezavantaj olabiliyor. Ancak Bağkurlu iseniz, büyük bir avantaj sağlıyor. Eğer Bağkurlu olarak çalıştıysanız ve sonrasında SSK'lı olarak devam ettiyseniz, prim gün sayınızın 99,000 gün olması gerekiyordu. Ancak yıllar sonra SSK'ya geçtiğinizde, en fazla prim gün sayınızın 7...
+
+================================================================================
+
+## Economic Segment 7
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 68
+**Retention**: 35.23%
+
+Konut satışları artmış, iki yılın zirvesine yaklaşmış. Öncelikle, geçtiğimiz yıllarda konut fiyatları inanılmaz yükselince bir tedbir alınmıştı ve özellikle ikinci el konutta belli bir meblağın üzerine kredi desteği çekilmişti. Artık kredi alamıyordu, özellikle 10 milyon liranın üzerindeki konutlarda böyle olunca yavaş yavaş konut fiyatları da düşmüş. Bu durum, 2024'e yönelik ekonomik beklentileri etkileyebilir. Ekonomik veriler, konut sektöründeki bu hareketliliğin, genel ekonomik durumu nasıl şekillendireceğine dair önemli ipuçları sunuyor.
+
+================================================================================
+
+## Economic Segment 8
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 63
+**Retention**: 57.80%
+
+Ekim'de Türkiye'de 165.138 konut satıldı ve bu, 2023'ün aynı ayına göre %76,5 artış gösterdi. Satışlar üst üste 4 ay bu yılın zirvesini yeniledi. Verileri Türkiye İstatistik Kurumu açıkladı. En çok konut satılan illerde ilk üç sıra değişmedi; İstanbul 24.081 adetle zirvede yer aldı, ikinci sırada ise Ankara'nın başkenti 15.000 konutla yer aldı. Yabancıların konut alımındaki payı ise 4 yılın en düşük seviyesine geriledi.
+
+================================================================================
+

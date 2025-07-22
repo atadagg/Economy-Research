@@ -1,0 +1,29 @@
+# Economic Content from: ATV20240826_atv Ana Haber ｜ 26 Ağustos 2024.tr.txt
+# Processed: 2025-07-22T16:35:55.400567
+# Original: 4215 words → Filtered: 150 words (3.56% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 84
+**Retention**: 41.38%
+
+Maliye Bakanlığı geçtiğimiz aylarda kira gelirini beyan etmeyenler hakkında önemli bir çağrıda bulunmuş ve ceza uyarısı yapmıştı. Denetimlerin ardından yaklaşık 700 kişi hakkında işlem başlatıldı. Bu durum, kira gelirlerinin beyan edilmesi konusunda artan bir dikkat ve denetim ihtiyacını ortaya koyuyor. Ekonomik veriler, kira gelirlerinin beyan edilmemesinin devlet bütçesi üzerindeki olumsuz etkilerini de gözler önüne seriyor. 
+
+Ayrıca, hükümetin ekonomik politikaları çerçevesinde, kira gelirlerinin beyan edilmesi teşvik edilerek, vergi gelirlerinin artırılması hedefleniyor. Bu tür önlemler, ekonomik istikrarı sağlamak ve bütçe açığını kapatmak için kritik öneme sahip.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 66
+**Retention**: 51.97%
+
+Maliye Bakanı Mehmet Şimşek, kira gelirlerini beyan etmeyen mülk sahiplerine son bir çağrı yaptı. Vergi memurları, kira geliri elde edenlerin beyanname vermesi gerektiğini vurguladı. Türkiye genelinde gelir beyanında bulunmayan 700,000 kişi tespit edildi. Eğer bir işyeri ya da konutun varsa ve yıllık olarak 33,000 liranın üzerinde bir kira geliri elde ediyorsanız, kira beyannamesi vermek zorundasınız. Bu durum, vergi gelirlerinin artırılması açısından önemli bir adım olarak değerlendiriliyor.
+
+================================================================================
+

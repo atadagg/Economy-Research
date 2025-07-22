@@ -1,0 +1,117 @@
+{
+  "file_path": "news/ATV/ATV20240908_atv Ana Haber ｜ 8 Eylül 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T16:36:31.176445",
+  "original_word_count": 4629,
+  "filtered_word_count": 307,
+  "retention_ratio": 0.06632101965867358,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "haberin merkezinden Atv Haber merkezinden günün gelişmeleri ile karşınızdayız",
+      "description": "\"haberin merkezinden Atv Haber merkezinden günün gelişmeleri ile karşınızdayız\" - This section serves as the opening of the broadcast, where the presenter introduces the program and sets the stage for the news content.",
+      "end_pos": 0
+    },
+    {
+      "type": "- **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "haberin merkezinden Atv Haber merkezinden günün gelişmeleri ile karşınızdayız",
+      "description": "\"haberin merkezinden Atv Haber merkezinden günün gelişmeleri ile karşınızdayız\" - Opening of the broadcast and presenter introduction.",
+      "end_pos": 59
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 59,
+      "start_sentence": "Türkiye'nin gözü kulağı günlerdir Diyarbakır'da kaybolan narin'den gelecek İyi bir haber deydi",
+      "description": "\"Türkiye'nin gözü kulağı günlerdir Diyarbakır'da kaybolan narin'den gelecek İyi bir haber deydi\" - This section contains the main news story about the tragic case of a missing girl named Narin, detailing the circumstances of her disappearance and subsequent discovery.",
+      "end_pos": 59
+    },
+    {
+      "type": "- **NEWS**",
+      "start_pos": 59,
+      "start_sentence": "Türkiye'nin gözü kulağı günlerdir Diyarbakır'da kaybolan narin'den gelecek İyi bir haber deydi",
+      "description": "\"Türkiye'nin gözü kulağı günlerdir Diyarbakır'da kaybolan narin'den gelecek İyi bir haber deydi\" - Main news story about Narin's case.",
+      "end_pos": 486
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 486,
+      "start_sentence": "şimdi sırada yapılacak inceleme sonrası onun katil ya da katillerini bulmakta",
+      "description": "\"şimdi sırada yapılacak inceleme sonrası onun katil ya da katillerini bulmakta\" - This brief transition indicates a shift in focus within the news story, moving from the discovery of Narin's body to the investigation and search for her killer(s).",
+      "end_pos": 486
+    },
+    {
+      "type": "- **TRANSITION**",
+      "start_pos": 486,
+      "start_sentence": "şimdi sırada yapılacak inceleme sonrası onun katil ya da katillerini bulmakta",
+      "description": "\"şimdi sırada yapılacak inceleme sonrası onun katil ya da katillerini bulmakta\" - Transition to the investigation aspect of the news.",
+      "end_pos": 587
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 587,
+      "start_sentence": "Türkiye'yi sarsan ölüm haberi ile ilgili Cumhurbaşkanı Erdoğan da bir mesaj paylaştı",
+      "description": "\"Türkiye'yi sarsan ölüm haberi ile ilgili Cumhurbaşkanı Erdoğan da bir mesaj paylaştı\" - This section continues the news coverage, discussing the reaction from President Erdoğan regarding the tragic event.",
+      "end_pos": 1260
+    },
+    {
+      "type": "5. **NEWS**",
+      "start_pos": 1260,
+      "start_sentence": "8 yaşındaki Narin 21 Ağustos günü Diyarbakır'ın Bağlar ilçesindeki Tavşantepe mahallesindeki evinden",
+      "description": "\"8 yaşındaki Narin 21 Ağustos günü Diyarbakır'ın Bağlar ilçesindeki Tavşantepe mahallesindeki evinden\" - This part provides further details about Narin's last known movements and the timeline leading up to her disappearance.",
+      "end_pos": 1848
+    },
+    {
+      "type": "6. **OUTRO**",
+      "start_pos": 1848,
+      "start_sentence": "işte ne olduysa O andan sonra oldu narin bir anda kayıplara karıştı",
+      "description": "\"işte ne olduysa O andan sonra oldu narin bir anda kayıplara karıştı\" - This closing remark summarizes the tragic turn of events and concludes the segment on Narin's case.",
+      "end_pos": 32619
+    }
+  ],
+  "news_segments_count": 7,
+  "economic_segments_count": 4,
+  "economic_segments": [
+    {
+      "segment_id": "59_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 63,
+      "filtered_length": 63,
+      "retention_ratio": 1.0,
+      "section_description": "\"Türkiye'nin gözü kulağı günlerdir Diyarbakır'da kaybolan narin'den gelecek İyi bir haber deydi\" - Main news story about Narin's case."
+    },
+    {
+      "segment_id": "1260_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 81,
+      "filtered_length": 81,
+      "retention_ratio": 1.0,
+      "section_description": "\"8 yaşındaki Narin 21 Ağustos günü Diyarbakır'ın Bağlar ilçesindeki Tavşantepe mahallesindeki evinden\" - This part provides further details about Narin's last known movements and the timeline leading up to her disappearance."
+    },
+    {
+      "segment_id": "1848_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 219,
+      "filtered_length": 88,
+      "retention_ratio": 0.4018264840182648,
+      "section_description": "\"işte ne olduysa O andan sonra oldu narin bir anda kayıplara karıştı\" - This closing remark summarizes the tragic turn of events and concludes the segment on Narin's case."
+    },
+    {
+      "segment_id": "1848_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 192,
+      "filtered_length": 75,
+      "retention_ratio": 0.390625,
+      "section_description": "\"işte ne olduysa O andan sonra oldu narin bir anda kayıplara karıştı\" - This closing remark summarizes the tragic turn of events and concludes the segment on Narin's case."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

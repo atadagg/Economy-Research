@@ -1,0 +1,42 @@
+# Economic Content from: 20241130_Halep'te Neler Yaşanıyor, Esad Halep'i Kaybetti Mi？ Bölgeden Çok Özel Görüntüler A Haber'de.tr.txt
+# Processed: 2025-07-22T15:44:28.478692
+# Original: 14510 words → Filtered: 235 words (1.62% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: pattern_validated
+**Confidence**: 0.75
+**Word Count**: 56
+**Retention**: 100.00%
+
+Suriye sınırında bizleri bekliyor Mehmet kolay gelsin Öncelikle nedir sahada son durum Teşekkürler
+Tahir İnan rejim karşıtı gruplar Halep e kent merkezi içerisinde Halep şehir içerisinde ilerlemeye
+devam ediyor Halep Valiliği içerisine girdi rejim karşıtı gruplar ve Halep valiliğindeki kontrolü de
+e eline geçirdiğini ifade edelim Bunun yanı sıra yine Halep Emniyet Müdürlüğü'ndeki kontrolü de Eee
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 179
+**Retention**: 100.00%
+
+000
+kapasiteli bir şehirde bu kadar 3 5 milyon insan duramaz duramaz ve Türkiye haricinde kimi
+getirirseniz getirin Amerika dahil tutamaz Burada sadece Türkiye tutabiliyor işte bunu buradan
+bozmak isteyen bir Esat çıktı karşımıza ya bu şu demektir eğer doğruysa gerekçeler Daha doğrusu
+olaylar bugün Açıklama da vardı Eee dş Bakanlığı sözcüsü Öncü keçeli'nin açıklaması vardı Eee bu
+bölgede Eee ihlallere dair Türkiye de bunu resmi olarak duyurdu ya burada bizim en büyük sıkıntımız
+ne bizim işte PKK PD YPG'nin saldırabilir bize taarruz ihtimali ne Rusların bizi Bilmem tek
+problemimiz bizim burada yumuşak karnımız yasa dışı ve düzensiz göçler ve milyonlar bunlar bir kişi
+5 kişi değil 3 5 milyon htş dışında burada 78 tane ayrı Fraksiyon var bunların birleştiğini dair
+iddialar var buradan Esad rejimi Eğer düşündüğünü yapsaydı ki şu an h'nin düşündüğü gibi söylüyorum
+taarruzla Şu bölgeyi afrin'in güneyi idlib'in kuzeyini ele geçirseydi buradaki nüfus buraya
+dağılacaktır Buradan da belki Cil ve gözden giriş yapacaktı ya da zorlayacaktır ne kadar hain bir
+plan eğer doğruysa Bir de burada Halep'te 4 3 milyon nüfus var az değil 1
+
+================================================================================
+

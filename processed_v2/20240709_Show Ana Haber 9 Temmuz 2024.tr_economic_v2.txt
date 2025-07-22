@@ -1,0 +1,81 @@
+# Economic Content from: 20240709_Show Ana Haber 9 Temmuz 2024.tr.txt
+# Processed: 2025-07-22T17:42:26.969075
+# Original: 3349 words → Filtered: 598 words (17.86% retention)
+# Economic segments: 6
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 118
+**Retention**: 61.14%
+
+Zirvede artan terör tehdidi vurgusu yapacağını söylerken, Cumhurbaşkanı Erdoğan, dünya ekonomisinde artan belirsizliklerin etkilerine de dikkat çekeceğiz dedi. Türkiye'nin NATO'daki rolü ve uluslararası işbirlikleri, ekonomik istikrar açısından önemli bir konu olarak gündeme gelecek. Ayrıca, Türkiye'nin ekonomik büyüme hedefleri doğrultusunda, uluslararası ticaretin artırılması gerektiğini vurgulayacak. 
+
+Zirveye katılan liderlerin yanı sıra, ABD Başkanı Joe Biden ile de görüşme yapması beklenen Erdoğan, Türkiye'nin ekonomik ilişkilerini güçlendirmek için fırsatlar yaratmayı hedefliyor. Ekonomik verilerin ve istatistiklerin, ülkelerin uluslararası arenadaki konumlarını belirlemede önemli bir rol oynadığını ifade etti. 
+
+Sık sık asgari ücrete zam çağrısı yapıp, zam olmazsa seçim olur diyen CHP lideri, ekonomik koşulların iyileştirilmesi gerektiğini savunarak, hükümetin mali politikalarını eleştirdi. Bu bağlamda, hükümetin ekonomik reformlar ve istihdam yaratma konusundaki adımlarının önemine dikkat çekti.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 92
+**Retention**: 46.23%
+
+Özgür Özel'den dikkat çeken bir protesto çağrısı geldi. CHP lideri, asgari ücretin 25,000 TL olmasını beklediklerini ve bu mücadelenin sonuna kadar arkasında olduklarını açıkladı. Ayrıca, en düşük emekli maaşı için yapılan zam düzenlemesine de değinerek, "Çalışma yapılıyor, alınmış bir karar yok" dedi. 
+
+Dünyada enflasyon nasıl hesaplanıyorsa Türkiye'de de öyle hesaplanıyor açıklaması gelirken, CHP lideri o hesaba tepkili. Büyük şehirlerde 20,000 TL'nin altında kira kalmadığını belirtti. Enflasyonun sebebi hakkında ortak bir manifesto yayınlayan işçi sendikası başkanı, asgari ücrete ara zam istediklerini ifade etti. 
+
+Bu bağlamda, geçim sıkıntısı çekenlerin taleplerinin dikkate alınması gerektiği vurgulandı.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 81
+**Retention**: 90.00%
+
+Emek hareketinin emekçilerin ücretlilerin milli gelirden aldığı pay azalıyor. Konfederasyonlar tek ses oldu; Türkiye İşçi Sendikaları Konfederasyonu (Türk-İş), Hava-İş ve DİSK bir araya geldi. Asgari ücrete ara zam acilen yapılmalı denirken ortak bir manifesto yayınlandı. Açlık sınırı altında kalan asgari ücrete Temmuz ayından geçerli olmak üzere zam yapılması gereklidir. 10 maddelik manifestoda vergide adalet istendi. Enflasyonla mücadele, ücretleri düşük tutarak sağlanamaz denildi. Türk-İş başkanı, Hazine ve Maliye Bakanı'nı hedefe aldı; "Kemerleri sık, faizi artır, vergi nasıl alırım onun yoluna bak" dedi.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 98
+**Retention**: 30.82%
+
+Konfederasyonlar en düşük emekli aylığının da asgari ücret düzeyine çıkarılmasını istedi. Emekli aylıkları arasındaki dengesizliğin giderilmesi için intibak düzenlemesi yapılmalı. İşletme sahipleri, franchise verdiği şubelerden gelen şikayetler nedeniyle sorunlarla karşılaştı. Maliye polisi, kuyu operasyonuyla hareket geçti. Operasyonda çok sayıda yasa dışı ilaç belgeleri, sahte medikal cihaz ve uyuşturucu madde ele geçirildi. Bu durum, sektördeki güvenilirliği ve ekonomik istikrarı olumsuz etkileyebilir. 
+
+Dilan Polat'ın sektöre sokulması ve eğitimler vermesi, iş dünyasında dikkat çekti. Ancak, bu tür gelişmelerin arkasında yatan sorunlar, ekonomik açıdan önemli bir risk oluşturuyor. Ekonomik veriler ve istatistikler, bu tür dolandırıcılıkların sektördeki etkilerini anlamak için kritik öneme sahip.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 81
+**Retention**: 81.00%
+
+Kadın kendi payına düşen kısmı hemen görmek isteyince, emlakçı 400,000 euroyu bankaya götürdü. Emlakçı parayı satıştan sonra alırsın deyince, bu durum ticaretin hızla ilerlemesine neden oldu. Emlakçı, satış işlemleri sırasında dikkatli olmalıydı çünkü bu tür büyük meblağlar, finansal piyasalarda önemli bir etki yaratabilir. Ayrıca, emlak sektöründeki bu tür işlemler, genel ekonomik durumu ve konut fiyatlarını da etkileyebilir. Emlakçı, bu süreçte yaşanan sorunları çözmek için karakola başvurmak zorunda kaldı, bu da iş dünyasında güvenin ne kadar önemli olduğunu bir kez daha gösterdi.
+
+================================================================================
+
+## Economic Segment 6
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 128
+**Retention**: 59.53%
+
+Fiyatlar, son zamanlarda yemek ve içeceklerde oldukça yüksek seviyelere ulaştı. Müşteriler, masaya oturmadan önce hesaplarının ne kadar olacağını düşünmek zorunda kalıyor. Yabancı müşterilere dahi menülerdeki fiyatlar pahalı geliyor; örneğin, suyun litresi 450 lira. Türkiye'yi ziyarete gelen turistler, harcamalarının çok yüksek olduğunu belirtiyor. Yeme içme fiyatlarındaki sürekli artış, yerli müşterileri de olumsuz etkiledi. Gıda sektörünün bazı temsilcileri, fahiş fiyatların yabancı turistlerin deneyimini de olumsuz etkilediğini ifade ediyor. Tüm restoranlar ve turizmciler derneği, işletmelere % indirim çağrısı yaptı. Bir ay önce, kurumsal şirketler bünyesinde %0'lık bir indirim uygulandı. Müşterilerin sürekli artan fiyatlardan rahatsızlık duymaya başladığı belirtiliyor. Esnaf lokantalarında ortalama menü fiyatları 300-400 liradan başlıyor ve bu fiyatlar, turistik bölgelerde daha da artıyor. Son bir yılda müşteri kaybı yaşandığı ve öğle yemeği için en az 200 lira harcamanın gerektiği ifade ediliyor.
+
+================================================================================
+

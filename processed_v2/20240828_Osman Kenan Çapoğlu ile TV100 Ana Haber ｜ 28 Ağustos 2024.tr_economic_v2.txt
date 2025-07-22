@@ -1,0 +1,162 @@
+# Economic Content from: 20240828_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 28 Ağustos 2024.tr.txt
+# Processed: 2025-07-22T18:08:54.406445
+# Original: 10222 words → Filtered: 1145 words (11.20% retention)
+# Economic segments: 12
+
+## Economic Segment 1
+
+**Method**: pattern_validated
+**Confidence**: 0.75
+**Word Count**: 85
+**Retention**: 100.00%
+
+gideceğiz bakacağız ama bugün son bilançoda son tahlilde neler yaşandı bir ona bakalım milletimiz
+Şundan emin olsun ki Devletimiz İnşallah narini çok kısa bir zamanda bulacaktır Dereler su kanalları
+su kuyuları Dağ Taş günlerdir didik didik ediliyor 8 yaşındaki narini arama çalışmaları 8 gününde de
+devam ediyor soruşturma kapsamında 8 şüpheli 66 kişinin ifadesi alındı gözaltına alınan bir kişi
+serbest bırakıldı 8 yaşındaki Nar arama çalışmalarının bir diğer kısmı da eğer tutmaz Deresinin
+bulunduğu noktada kepçelerle Dere içerisindeki balçıklar ve taşlıklar boşaltılıyor arama alanları bu
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 88
+**Retention**: 100.00%
+
+şekilde genişletiliyor Tabii ki elimizde deliller var çok deliller var ifadeler var dakika dakika
+nin köydeki hareketlerini faaliyetini her türlü şeyini kayıt altına aldık bu deliller üzerinde
+Yürüyoruz Diyarbakır'da Kur'an kursundan çıktıktan sonra bir daha haber alınamayan 8 yaşındaki
+narini arama çalışmaları gece gündüz devam ediyor Türkiye'nin gözü kulağı günlerdir oradan gelecek
+umutlu haberde toplam 7 kurumdan 1710 kişi narimi arama çalışmalarına devam etmektedir köpek unsuru
+115 araç 2 helikopter 38 drone faaliyeti takviyesi yapılmaktadır binlerce kişiden oluşan ekipler her
+ihtimali değerlendiriyor şu ana kadar 12565 araçla 32
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 81
+**Retention**: 30.34%
+
+Türkiye'nin 2023 yılı gelir vergisi rekortmenleri belli oldu. Gelir İdaresi Başkanlığı, 2023'ün vergi rekortmenlerini paylaştı. Zirvede bulunan isim değişmedi; Baykar Yönetim Kurulu Başkanı Selçuk Bayraktar, 1 milyar 950 milyon lirayla ilk sırada yer aldı. İkinci sırada ise yine kendi ailesinden bir isim, Baykar Yönetim Kurulu Üyesi Haluk Bayraktar, 1 milyar 500 milyon lirayla takip etti. Koç Holding Yönetim Kurulu Başkanı Rahmi Koç, kurumlar vergisi rekortmenleri arasında yer aldı. Bu veriler, Türkiye'nin vergi gelirleri ve ekonomik durumu hakkında önemli bir gösterge sunuyor.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 148
+**Retention**: 61.67%
+
+680 milyon liralık vergi ödemesiyle ikinci sıraya yerleşti Koç Holding yönetim kurulu başkanı Mustafa Rahmi Koç, en çok vergi veren üçüncü isim oldu. Koç'un ödediği vergi 480 milyon lira olarak kaydedildi. 2023'te toplam 682 milyar 451 milyon lira matrah beyan edildi; bu tutar üzerinden tahakkuk ettirilen vergi ise 205 milyar 531 milyon lira olarak kayıtlara geçti. Kurumlar Vergisi rekortmenliği de ise ilk üç sırayı bankalar paylaştı. Ziraat Bankası zirveye yerleşirken, onu sırasıyla Garanti Bankası ve Akbank takip etti.
+
+Gayrimenkul piyasası ciddi bir kaos içerisinde. Bakıldığı zaman o balon bir türlü tamamen inmiş durumda değil. Bir de elinizde nakit para yoksa, artık ev almak hakikaten hayal olmuş gibi bir pozisyona geldi. Faiz oranlarına baktığınızda, istediğiniz elinizde olduğu paranın çok daha fazlası olarak almak istediğiniz parayı da bankalar size vermiyorlar. Ancak, şu anki faiz oranlarına bakınca, hayata geçince nasıl bir tablo ortaya çıkacak, kiralar düşer mi, bu bir merak konusu.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 125
+**Retention**: 64.43%
+
+Kamu bankaları, düşük faizli konut kredisi kampanyası için harekete geçmiş durumdalar. Konut arzı konusu, konut edinimini özellikle daha güçlü bir şekilde teşvik edecek mekanizmalar üzerinde duruluyor. İlk kez ev sahibi olmak isteyen vatandaşların merakla beklediği ilk Evim konut kredisi kampanyasına ilişkin detaylar dikkat çekti. Ev sahibi olmak isteyenler, %49'luk düşük faizli kredinin ne zaman geleceği ve şartlarını araştırmaya başladı. Bu kampanya, evini ilk kez alacaklar için Cumhurbaşkanlığı tarafından düzenlenen özel bir fırsat niteliğinde olacak. Düşük faizli konut kredisi, hiç evi olmayanlara verilecek ve kredi vadesinin 15 yıl olması bekleniyor. 1 milyonluk bir ev alındığında, bunun aylık ödeme miktarı 30,000 liraya tekamül edecek ve toplamda ödemesi 3 milyon liraya mal olacak. Geçen yıl konuşulan oranlar göz önüne alındığında, mevcut ekonomik politikalar gereği %1'in olmayacağı artık aşikar.
+
+================================================================================
+
+## Economic Segment 6
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 109
+**Retention**: 61.93%
+
+9 faizle 180 aylık bir kredi çalışması yapılabilir. Normalde şu an kullanılan krediler 10 yıl ama böyle bir kampanya yapılırsa bunun vadesi de 15 yıl yapılabilir. Kampanya özellikle hiç evi olmayanlara fırsat verecek. Öncelikle mevcutta bir evi olmaması gerekecek veya bir eve en az % ortaklığının olmaması gerekecek. Kampanya ne zaman başlayacak? Cevdet Yılmaz'ın açıklamaları uyarınca yıl sonunu işaret ettiğini düşünüyoruz veya en geç 2025'te başlayacak. Geçtiğimiz aya baktığımızda % 66'ya yakın bir TÜFE var ve kiranın artış oranı da öyle oluyor. 20,000 L veriyorsanız şimdi 32,000 L verecek. Kiracı büyükşehirlerde nasıl bir tablo oluşturuyor? Kiralar uzun süredir zirve yapmış durumdayken konut denebilecek dairelerde oturmanın bedeli ortalama 20,000 L.
+
+================================================================================
+
+## Economic Segment 7
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 80
+**Retention**: 59.70%
+
+Ekonomik kalkınma ve İşbirliği Örgütü (OECD) tarafından yayımlanan rapora göre, Türkiye, 38 ülke arasında kira artış oranında açık ara farkla dünya birincisi konumunda. Yılın ilk 6 ayında Türkiye'de kira zam oranı %70'e yaklaşırken, en yakın rakibi Macaristan'a önemli bir fark atılmış durumda. OECD konut kira endeksine göre Türkiye, 663 puanla zirvede yer alıyor. Macaristan 181 puanla ikinci, Litvanya ise 172 puanla üçüncü sırada bulunuyor. Bu durum, Türkiye'nin ekonomik planlama ve nitelikli üretim konularında yaşadığı iki temel sorunun etkisiyle ortaya çıkıyor.
+
+================================================================================
+
+## Economic Segment 8
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 34
+**Retention**: 42.50%
+
+Kira artış oranlarında Doğu Avrupa ülkelerine bile fark attık. Bütün her şeyiyle büyük şehirlerimize yatırım yaparsak bunun sonucu bu olacaktır. Günden güne artan İstanbul nüfusuna konut yetişmiyor. Yapılan konutlar da dar gelirli için değil.
+
+================================================================================
+
+## Economic Segment 9
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 70
+**Retention**: 41.67%
+
+İstanbul'da kilometrekareye düşen insan sayısı 3013 kişiyken, büyükşehir olan Sivas, Erzurum ve Van'da bu sayı 30 kişinin altında. Kısa vadede düşmesi beklenen ev fiyatları ve kiralar, aslında hala enflasyonun üstünde seyretmeye devam ediyor. İstanbul dışında konut stoğunun artırılması şart. Bunun için çözüm noktası, başta kamu kurumları olmak üzere, kiralık konut üretimi yapmaları gerektiği yönünde. Ticaret Bakanlığı, vatandaşlardan gelen şikayetler üzerine denetimleri sıklaştırdı; yılın ilk 8 ayında 221,634 işletmeye ceza kesildi.
+
+================================================================================
+
+## Economic Segment 10
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 66
+**Retention**: 63.46%
+
+Ticaret Bakanlığı, yılbaşından bu yana 221,634 işletmeyi denetleyerek kurallara uymayanlara toplamda 210,500,000 TL idari para cezası verdi. Yiyecek ve içecek hizmeti sunulan işletmelerde fiyat listelerinin işyeri girişine ve masalara konulması zorunlu hale getirildi. Servis ücreti alınıyorsa, menülerde bunun belirtilmesi gerektiği vurgulandı. İstanbul'da 5,819 işyeri denetlendi ve 13,900,000 TL idari para cezası uygulandı. 174 aykırılık tespit edildi. Bu denetimlerin amacı, fiyatların şeffaflığını artırmak ve tüketicilerin haklarını korumaktır.
+
+================================================================================
+
+## Economic Segment 11
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 161
+**Retention**: 100.00%
+
+000 lir para
+cezası kesildi son dönemde sosyal medya fenomenleri reklam cezalarıyla oldukça gündeme geliyorlar
+Peki paylaşımlara sıkı takip herkes için geçerli mi sosyal medyada beğendiğiniz bir ürünü ya da
+mekanı tavsiye etmenin bireysel olarak bir cezası var mı Ticaret Bakanlığı tüketicinin korunması ve
+piyasa gözetimi Genel Müdürü Avni Dilber t1e konuştu bakın Ne yasak ne serbest kişi Fenomen değilse
+Yaptığı paylaşımları incelemiyor Bunun dışındaki vatandaşın günlük paylaşımlarına müdahale etmiyoruz
+fenomenlerin sosyal medya gelirleri yakın takipte reklam ve paylaşımları vergiye tabi Peki sade
+vatandaş tavsiyede bulunursa Ticaret Bakanlığının radarına girecek mi kişi Eğer Fenomen değilse yani
+takipçi sayısı belli bir şeye ulaşmamışsa Tabii bunun bir ölçüsü yok ama hani bizim fenomen olarak
+adlandırdıkları Aslında halkın gündelik hayatta takip ettiği kişiler bu şekilde olmayıp da
+vatandaşın günlük diğer paylaşımlarına samimi paylaşımlarına aykırıdır demiyoruz ve bu konuyu
+incelemede yer bulmuyoruz yürütülen çalmaları Ticaret Bakanlığı Genel Müdürü Avni Dilber anlattı her
+sosyal medya hesabının markaj da olmadığını söyledi reklam kurulumuza bir yılda yaklaşık 20
+
+================================================================================
+
+## Economic Segment 12
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 98
+**Retention**: 41.70%
+
+Fiyatı Efendim tanesi 17,5 ikisi 35 lira kalem tıraşım bın fiyatı çift hazneli E şey çift açacaklı hazneli 50 lira 2190 ve dediğimiz gibi bu sadece minimum fiyatı. Özellikle son dönemde çocuklarının doğru eğitim almasını isteyen aileler, zeka testi yaptıran ya da yapan kurumların yolunu tutuyorlar. Bu noktada, ailelerin çocuklarının üstün zekalı olduğuna ikna edilmesi, eğitim sektöründe bir talep artışına neden oluyor. Özel Eğitim Kurumları yönetmeliğine göre zeka testi sonucuyla kayıt yapmak yasak, ancak aileler en iyi eğitim için özel merkezlerde çocuklarını yönlendirmeye devam ediyor. Bu durum, eğitim sektöründe rekabeti artırırken, aynı zamanda eğitim hizmetlerinin fiyatlarını da etkileyebilir.
+
+================================================================================
+

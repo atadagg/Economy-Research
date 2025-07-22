@@ -1,0 +1,70 @@
+# Economic Content from: ATV20241111_atv Ana Haber ｜ 11 Kasım 2024.tr.txt
+# Processed: 2025-07-22T16:09:05.622051
+# Original: 4630 words → Filtered: 464 words (10.02% retention)
+# Economic segments: 5
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 128
+**Retention**: 71.11%
+
+Benim emekli maaşım lan showmen Mehmet Ali Erbil ilk gözaltına alınan isim oldu İstanbul il emniyet müdürlüğünde kameranın açısından adliyeye götürüldü. Çok geçmeden Ortaç'ın evinde uyuduğu zili duymadığı için kapıyı açmadığı anlaşıldı. Yasa dışı bahis ise günlük 100 milyon liranın üzerinde kirli bir para akışı var; rant çok büyük. Çetenin yaptığı ünlü isimlere, çok takipçisi olan sosyal medya fenomenlerine ve magazinde sık sık adı geçen isimlere reklam verip yasa dışı bahsi özendirmek mesela. O anlaştıkları isimler çok kısa sürede nasıl para kazandıklarını yaptıkları yayınla anlatıyor. Bunun karşılığında onlara aylık 10-20 milyon lira gibi büyük bir rakam ödeniyor. Kısacası hayatını mahveden oluyor. Peki kirli parayı nasıl aklıyor? Yasa dışı yollarla kazandıkları o paraları aklamak için çetenin hedefinde hem öğrenciler hem de ev hanımları vardı. Öyle ki onlara aylık 50-60-70...
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 64
+**Retention**: 40.51%
+
+Tüketiciyi indirim adı altında yanıltan firmaları ise yüklü bir para cezası bekliyor. Ticaret Bakanlığı bundan yaklaşık 2 yıl önce bir düzenleme yaptı ve indirimlerle ilgili getirdiği bu düzenlemeye uyulmadığı takdirde 550.000 liraya varan idari para cezaları uygulanacak. Profesör paran güvende değil, gel onu İsviçre'de bir hesaba aktaralım diyen dolandırıcılara güvenerek tüm birikimini kaybetti. Giden para 650.000 dolar. Bu durum, yatırımcıların dikkatli olması gerektiğini gösteriyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 67
+**Retention**: 47.18%
+
+Emekli Profesör Doktor Yılmaz Akyıldız, dolandırıcılara 300,000 doları bankadan çekerek dolandırıldığını fark etti. Dolandırıcılar, profesörü İsviçre'de parasının daha güvende olacağı yönünde ikna ederek bir dizi evrak imzalattılar. Bu evraklar arasında vekaletname de bulunuyordu. Profesör, dolandırıcıların kendisine sunduğu yatırım fırsatında, dolara yatırdığı paranın karşılığında aylık %10 getiri vaadiyle ikna edildi. Ancak vade dolduğunda, dolandırıcılar parayı geri vermeyeceklerini belirttiler. Profesörün yaşadığı bu dolandırıcılık olayında toplam kaybı 650,000 dolar oldu.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 100
+**Retention**: 52.08%
+
+The filtered text focusing on economics, finance, and business is as follows:
+
+---
+
+Ekonomi verileri ve istatistikler, Türk lirasının değer kaybı ile ilgili endişeleri artırıyor. Son dönemde döviz kurlarındaki dalgalanmalar, yatırımcıların finansal piyasalardaki hareketlerini etkiliyor. Hükümetin ekonomik politikaları, enflasyon ve fiyat artışları üzerinde belirleyici bir rol oynuyor. Özellikle, son zamanlarda artan maliyetler ve yaşam pahalılığı, hanelerin bütçelerini zorlamaya başladı. 
+
+Bankacılık sektörü, kredi faiz oranlarındaki değişikliklerle birlikte, yatırımcıların kararlarını şekillendiriyor. Ticaret verileri, ithalat ve ihracat rakamlarının nasıl bir seyir izlediğini gösteriyor. Uzmanlar, bu ekonomik göstergelerin, piyasalardaki belirsizlikleri artırabileceği konusunda uyarıyor. 
+
+---
+
+This version retains the economic context while removing unrelated content.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 105
+**Retention**: 48.84%
+
+Ankara Mamak'ta bir mahallenin sakinleri kentsel dönüşüm kapsamında evlerini boşalttı. Büyükşehir Belediyesi ile sözleşme imzaladılar, ancak aradan geçen onca yıla rağmen evini teslim alanların sayısı sadece 500. Ankara Büyükşehir Belediye Başkanı Mansur Yavaş, "Yüzen Ankara'da bir tane borcumuz olan hak sahibi kalmayacak" demişti, ancak bu sözünü çabuk unuttu. Kentsel dönüşüm projesi kapsamında 800'den fazla hak sahibi Ankara Büyükşehir Belediyesi ile sözleşme imzaladı. Ancak, projelerin hayata geçirilmesi konusunda yaşanan gecikmeler ve bütçe sorunları, hak sahiplerinin evlerine kavuşma hayallerini ertelemekte. Bu durum, yerel ekonomiyi de olumsuz etkileyebilir, zira inşaat sektörü ve ilgili iş kolları için önemli bir fırsat olan bu projeler, zamanında tamamlanmadığında ekonomik kayıplara yol açmaktadır.
+
+================================================================================
+

@@ -1,0 +1,160 @@
+{
+  "file_path": "news/TV100/20241113_Kübra Par ile tv100 Ana Haber ｜ 13 Kasım 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T18:03:50.750127",
+  "original_word_count": 9183,
+  "filtered_word_count": 689,
+  "retention_ratio": 0.07502994664053142,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "baş döndürücü bir gündem var ana habere başlıyoruz",
+      "description": "\"baş döndürücü bir gündem var ana habere başlıyoruz\" - The program opens with a statement about the busy agenda and introduces the main news segment.",
+      "end_pos": 0
+    },
+    {
+      "type": "- **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "baş döndürücü bir gündem var ana habere başlıyoruz",
+      "description": "\"baş döndürücü bir gündem var ana habere başlıyoruz\" - The program opens with a statement about the busy agenda and introduces the main news segment.",
+      "end_pos": 39
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 39,
+      "start_sentence": "Siyasette dikkat çeken Gündem MHP'nin resmi hesabından yapılan vakit tamam söz konusu vatan paylaşımı",
+      "description": "\"Siyasette dikkat çeken Gündem MHP'nin resmi hesabından yapılan vakit tamam söz konusu vatan paylaşımı\" - This section contains various news stories, including political discussions, statements from political leaders, and ongoing debates about electronic voting and minimum wage.",
+      "end_pos": 39
+    },
+    {
+      "type": "- **NEWS**",
+      "start_pos": 39,
+      "start_sentence": "Siyasette dikkat çeken Gündem MHP'nin resmi hesabından yapılan vakit tamam söz konusu vatan paylaşımı",
+      "description": "\"Siyasette dikkat çeken Gündem MHP'nin resmi hesabından yapılan vakit tamam söz konusu vatan paylaşımı\" - This section contains various news stories, including political discussions, statements from political leaders, and ongoing debates about electronic voting and minimum wage.",
+      "end_pos": 287
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 287,
+      "start_sentence": "Bugün de manşete asgari ücret tartışmalarını çekiyoruz",
+      "description": "\"Bugün de manşete asgari ücret tartışmalarını çekiyoruz\" - This section continues with news about minimum wage discussions and statements from political leaders regarding economic issues.",
+      "end_pos": 287
+    },
+    {
+      "type": "- **NEWS**",
+      "start_pos": 287,
+      "start_sentence": "Bugün de manşete asgari ücret tartışmalarını çekiyoruz",
+      "description": "\"Bugün de manşete asgari ücret tartışmalarını çekiyoruz\" - This section continues with news about minimum wage discussions and statements from political leaders regarding economic issues.",
+      "end_pos": 770
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 770,
+      "start_sentence": "Bir taraftan biliyorsunuz YSK Başkanı Ahmet Yener önceki gün TV 100'de bir açıklama yapmıştı",
+      "description": "\"Bir taraftan biliyorsunuz YSK Başkanı Ahmet Yener önceki gün TV 100'de bir açıklama yapmıştı\" - This brief transition introduces a new topic related to the electoral commission's statements, indicating a shift in focus within the news segment.",
+      "end_pos": 770
+    },
+    {
+      "type": "- **TRANSITION**",
+      "start_pos": 770,
+      "start_sentence": "Bir taraftan biliyorsunuz YSK Başkanı Ahmet Yener önceki gün TV 100'de bir açıklama yapmıştı",
+      "description": "\"Bir taraftan biliyorsunuz YSK Başkanı Ahmet Yener önceki gün TV 100'de bir açıklama yapmıştı\" - This brief transition introduces a new topic related to the electoral commission's statements, indicating a shift in focus within the news segment.",
+      "end_pos": 1952
+    },
+    {
+      "type": "5. **OUTRO**",
+      "start_pos": 1952,
+      "start_sentence": "Eee bizim duruşumuz net TV",
+      "description": "\"Eee bizim duruşumuz net TV\" - The program concludes with a summary statement, indicating the end of the news segment and the program.",
+      "end_pos": 1952
+    },
+    {
+      "type": "- **OUTRO**",
+      "start_pos": 1952,
+      "start_sentence": "Eee bizim duruşumuz net TV",
+      "description": "\"Eee bizim duruşumuz net TV\" - The program concludes with a summary statement, indicating the end of the news segment and",
+      "end_pos": 64991
+    }
+  ],
+  "news_segments_count": 12,
+  "economic_segments_count": 8,
+  "economic_segments": [
+    {
+      "segment_id": "770_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 170,
+      "filtered_length": 77,
+      "retention_ratio": 0.45294117647058824,
+      "section_description": "\"Bir taraftan biliyorsunuz YSK Başkanı Ahmet Yener önceki gün TV 100'de bir açıklama yapmıştı\" - This brief transition introduces a new topic related to the electoral commission's statements, indicating a shift in focus within the news segment."
+    },
+    {
+      "segment_id": "1952_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 122,
+      "filtered_length": 64,
+      "retention_ratio": 0.5245901639344263,
+      "section_description": "\"Eee bizim duruşumuz net TV\" - The program concludes with a summary statement, indicating the end of the news segment and"
+    },
+    {
+      "segment_id": "1952_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 276,
+      "filtered_length": 139,
+      "retention_ratio": 0.5036231884057971,
+      "section_description": "\"Eee bizim duruşumuz net TV\" - The program concludes with a summary statement, indicating the end of the news segment and"
+    },
+    {
+      "segment_id": "1952_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 176,
+      "filtered_length": 68,
+      "retention_ratio": 0.38636363636363635,
+      "section_description": "\"Eee bizim duruşumuz net TV\" - The program concludes with a summary statement, indicating the end of the news segment and"
+    },
+    {
+      "segment_id": "1952_5",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 198,
+      "filtered_length": 81,
+      "retention_ratio": 0.4090909090909091,
+      "section_description": "\"Eee bizim duruşumuz net TV\" - The program concludes with a summary statement, indicating the end of the news segment and"
+    },
+    {
+      "segment_id": "1952_6",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 191,
+      "filtered_length": 129,
+      "retention_ratio": 0.675392670157068,
+      "section_description": "\"Eee bizim duruşumuz net TV\" - The program concludes with a summary statement, indicating the end of the news segment and"
+    },
+    {
+      "segment_id": "1952_7",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 193,
+      "filtered_length": 68,
+      "retention_ratio": 0.35233160621761656,
+      "section_description": "\"Eee bizim duruşumuz net TV\" - The program concludes with a summary statement, indicating the end of the news segment and"
+    },
+    {
+      "segment_id": "1952_8",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 109,
+      "filtered_length": 63,
+      "retention_ratio": 0.5779816513761468,
+      "section_description": "\"Eee bizim duruşumuz net TV\" - The program concludes with a summary statement, indicating the end of the news segment and"
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

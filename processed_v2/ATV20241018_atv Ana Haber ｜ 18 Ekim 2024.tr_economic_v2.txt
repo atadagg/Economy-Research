@@ -1,0 +1,43 @@
+# Economic Content from: ATV20241018_atv Ana Haber ｜ 18 Ekim 2024.tr.txt
+# Processed: 2025-07-22T16:48:14.021928
+# Original: 4761 words → Filtered: 258 words (5.42% retention)
+# Economic segments: 3
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 57
+**Retention**: 100.00%
+
+000 liralık
+bir manevi tazminat davası açmış Sayın Özgür Özel davalar açarak bizi vaz geçireceğinizi
+sanıyorsanız kusura bakmayın avcunu yalarsınız iddi Medya üzerinden yaydığını belirttiği Tolgahan
+Erdoğan hakkında 150 000 liral tazminat davası açtı sadece o da değil kılıçdaroğluna yakın
+gazeteciler Ebru Küçükaydın ve Gökhan Özbek hakkında 100 000 L bir diğer gazeteci Enver Aysever
+hakkında 150
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 102
+**Retention**: 67.11%
+
+Kira fiyatları ve konut piyasasıyla ilgili gelişmeler dikkat çekiyor. 8,000 Lira kira ödeyen bir kiracının aynı rezidansta 3,000 dolar kira geliri olan bir ev sahibi olduğu ortaya çıktı. Bu durum, konut piyasasında fiyat farklılıklarını ve kiracı ile ev sahibi arasındaki anlaşmazlıkları gözler önüne seriyor. Özellikle, benzer dairelerin kira bedellerinin arasında büyük farklar bulunması, piyasa dinamiklerini etkileyen önemli bir gösterge. 2023 yılında ofis olarak kullanmak için alınan dairenin içinde kiracı bulunması ve kiracının daireyi boşaltmak için para talep etmesi, kiralama süreçlerinde yaşanan zorlukları ve maliyetleri artıran unsurları ortaya koyuyor. Bu tür durumlar, konut piyasasında kiraların yükselmesine ve kiracıların mali yükümlülüklerinin artmasına neden olabiliyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 99
+**Retention**: 39.92%
+
+Uygar Çöltekin, 1,5 yıllık süreç içerisinde yaklaşık 1,5 milyon lira kira geliri elde etti. Kirada olan Uygar Çöltekin, yaklaşık 1 milyon lira kira ödedi. Daire sahibi ve kiracı, ikinci kez hakim karşısındaydı ve Uygar Çöltekin için sevindirici bir haber çıktı; dairenin tahliyesi kararı verildi. Bugün, kendi hakkınızı savunurken başkalarının hakkını savunmak da önemli. Yurt dışı gezisi yapmak isteyen pek çok kişi İstanbul'daki bir tur şirketiyle anlaştı ve tüm hazırlıklarını tamamladılar. Ancak, o gezi bir türlü yapılamadı. Tur şirketi, müşterilerine türlü bahaneler uydurdu ve mağdurlar, ödedikleri parayla ortada kaldı. Birçok kişi, Temmuz ve Eylül aylarında iki farklı ödemeyle havale yaptı.
+
+================================================================================
+

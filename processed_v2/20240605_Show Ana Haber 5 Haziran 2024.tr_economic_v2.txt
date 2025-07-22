@@ -1,0 +1,46 @@
+# Economic Content from: 20240605_Show Ana Haber 5 Haziran 2024.tr.txt
+# Processed: 2025-07-22T17:25:05.644002
+# Original: 2525 words → Filtered: 206 words (8.16% retention)
+# Economic segments: 3
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 70
+**Retention**: 37.23%
+
+The filtered text focusing on economics, finance, and business is as follows:
+
+---
+
+Rize'de fiyatı altınla yarışan meraklılarının almak için sırada beklediği o özel balın hikayesini üreticisinden dinleyeceğiz. Anzer balı, dünyanın en değerli balı olarak biliniyor. Şu an burada 177 TL'den satılmakta. 
+
+--- 
+
+(Note: The original text contained minimal economic content, so the filtered version is brief and focused solely on the relevant economic aspect of the Anzer honey's price.)
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 50
+**Retention**: 65.79%
+
+Anzer balının 2023 ve 24 yılı sezonu için fiyatı 2500 idi, 2024 ve 25 sezonu için Anzer balının fiyatı 3500 ile 4000 arasında değişecektir. Bu fiyat artışı, endemik çiçeklerden oluşan ve yüksek rakımlarda üretilen Anzer balının özel özelliklerinden kaynaklanmaktadır. Meraklıları, bu yüksek fiyatlara rağmen Anzer balını almak için sırada bekliyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_final
+**Confidence**: 0.50
+**Word Count**: 86
+**Retention**: 58.11%
+
+Kurban bayramına sayılı günler kaldı, kurban pazarlarında da hareketlilik başladı. Şimdi bakalım küçükbaş hayvanla büyükbaş hayvan fiyatları ne durumda. En düşüğü 120.000, en yükseği de 240.000 küçükbaş hayvanların fiyatı. İsa 133.000 ile 27.000 arasında değişiyor. 133.000 liralık hayvan 45 veya 50 kilo, 27.000 olan hayvan 90 ile 95 kilo. Peki, kurbanlık seçerken nelere dikkat etmeli? Hayvanın sırtından belli olur, eğer güzelse eti de güzel demektir. Şu anda kurbanlık pazarındaki en ağır büyükbaşın yanındayız; ağırlığı tam 1 ton 200 kiloydu. Paşamız 250.000 lira gibi bir rakama satıldı.
+
+================================================================================
+

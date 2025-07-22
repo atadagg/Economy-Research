@@ -1,0 +1,67 @@
+# Economic Content from: 20240517_Show Ana Haber 17 Mayıs 2024.tr.txt
+# Processed: 2025-07-22T17:20:18.179782
+# Original: 3735 words → Filtered: 398 words (10.66% retention)
+# Economic segments: 4
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 91
+**Retention**: 66.42%
+
+Tarım ve hayvancılık kredi desteklerinde limitler arttırıldı ve müjdeyi Cumhurbaşkanı Erdoğan duyurdu. Erdoğan'dan et fiyatları ile ilgili de önemli açıklama geldi; kırmızı ve beyaz et fiyatlarında son dönemde yaşanan dalgalı hareketleri yok sayamayız. Hayvan üreticileri ve çiftçilere kredi müjdesi verdi. Küçükbaş hayvan üreticilerimize kredinin limitini 400.000 liradan 600.000 liraya getiriyoruz. Süt hayvancılığı ile iştigal eden üreticilerimiz için bu rakamı 1 milyon liradan 1,5 milyon liraya yükseltiyoruz. Gençlerin tarım alanında iş ve işletme sahibi olmalarını teşvik ediyoruz. Tarım bitti tezlerinin ne kadar içi boş, temelsiz ve gerçek dışı olduğunu rakamlarla ispat ettik.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 92
+**Retention**: 100.00%
+
+000 liraya yani otomobil fiyatına
+satılan bilet bile var tek hayalım Fenerbahçe maçına gitmek Ama bu kar borsa ileti yüzünden ben
+maçta gidemiyorum 1000 Euro 500 eur gibi fahiş fiyatlardan satıyorlar ticari zeka birazcık daha iyi
+düşünmeliyiz bir yanda Galatasaray bir yanda Fenerbahçe ezeli rekabet ebedi dostluk pazar günü derbi
+var nefesler tutuldu Çünkü şampiyon da belli olabilir Galatasaray bir puan alırsa şampiyon Hay Böyle
+olunca da biletler Kara borsaya düşmeye başladı Demek ki veren var ki hala bu olay devam ediyor
+derbi için 750 000 liradan biletini satışa çıkaran var 750
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 91
+**Retention**: 56.88%
+
+1 gördü 4 kişilik bir aileden ticari faaliyetlerini sürdüren onlara bile Şu dönemde Red gelebiliyor maalesef verdiğimiz pasaportlar konsolosluğa bile ulaşamıyor. Bu durum, ekonomik faaliyetleri etkileyen bir sorun teşkil ediyor. 
+
+Vize işlemleri için Dışişleri teşkilatını Güçlendirme Vakfı kuruluyor. Elde edilecek gelir, hazineye aktarılacak. Bu yeni düzenleme, devletin ekonomik kaynaklarını artırma çabası olarak değerlendirilebilir. 
+
+İstanbul'da bir sürücü, geçen ay aldığı arabasından tuhaf sesler gelince tamirciye gitti ve durum vahimdi. Araca sahte yağ konmuş olması, otomotiv sektöründe güvenilirlik ve maliyet sorunlarını gündeme getiriyor. Bu tür durumlar, tüketici güvenini zedeleyebilir ve piyasa dinamiklerini etkileyebilir.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 124
+**Retention**: 100.00%
+
+000 liralık hasara yol açmıştı Peki sahte yağ nasıl anlaşılır işte cevap Aslında İkisi de yağ
+Ama biri sahte biri orijinal dışarıda merdiven altında bir yerde herhalde yağ Bakımlarını yaptığı
+için biz de şimdi tekrar bir revizyona girdik motoru şimdiki masrafta 21 000 L Yazıyor Doğru mu RAL
+sulki arkamda görmüş olduğunuz aracı yaklaşık bir ay önce satın aldı ve aracı kullanmaya başladı
+fakat araçtan anormal sesler gelmeye başladı aracın performansı düştü daha sonraysa aracı kendi
+bildiği ustasına getirdi Şimdi motorunda sahte yağ kullanılmasından dolayı motor revizyonu gerekiyor
+içerisinde katık paketleri ve baz yağlardan oluştuğu için katkılar Bunlar motorun ısısının
+yükselmesini engelliyor Usta araçta detaylı bir inceleme yaptı motora baktı ve vardığı sonuç saa
+şuydu araçta sahte yağ kullanılmıştı ve yaklaşık masrafı da 240
+
+================================================================================
+

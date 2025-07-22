@@ -1,0 +1,147 @@
+# Economic Content from: ATV20240726_atv Ana Haber ｜ 26 Temmuz 2024.tr.txt
+# Processed: 2025-07-22T16:45:42.439070
+# Original: 4982 words → Filtered: 946 words (18.99% retention)
+# Economic segments: 9
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 143
+**Retention**: 60.08%
+
+000 insanın katilini kahraman gibi ağırlarken yüzleri kızan görüntüleri hınd sistem iflas
+bayrağını çekti dedi ve ekledi elinde 150 000 gazelinin kanı olan bir kasabı kongresinde ağırlayan
+konuşmasını büyük bir şevkle 57 kez ayakta alkışlayan bir akıl ve vicdan tutulmasıyla karşı
+karşıyayız lafa gelince tüm dünyaya demokrasi ve insan hakları dersi verenler çağımızın hitlerini
+baştacı ederken zerre utanmıyor Cumhurbaşkanı Erdoğan mesajlarını İstanbul'da Yüksek Teknoloji
+teşvik programında verdi sözü ekonomiye getirdi Türk ekonomisi ile ilgili son dönemde açıklanan
+veriler hamdolsun doğru yolda olduğumuzu gösteriyor yurt dışındaki piyasa aktörlerinin de Türkiye'ye
+ve Türk ekonomisine güveni yükseliyor Yatırım ortamımız iyileştirilmesi için gereken adımları da
+atıyoruz için iş dünyasına da seslendi Türk ekonomisi çok boyutlu bir dönüşüm sürecinden geçiyor
+daha doğru bir ifadeyle kabuk değiştiriyor iç Dünyamız şunu çok iyi bilsin İnşallah bu sürecin
+sonunda ekonomimiz farklı bir lige yükselecek sis bulutu dağıldığında Türkiye yeni dönemin forveti
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 82
+**Retention**: 47.40%
+
+Sosyal güvenlik kurumuna prim borcu olan belediyelerle ilgili sıkı bir takip başlatıldı. İlk sırada CHP'li belediyeler var; bütçeden aktarılan kaynak alan CHP'li belediyeler borçlarını ödemiyor. Çalışma ve Sosyal Güvenlik Bakanlığı verilerine göre borçların %67.7'si CHP'li belediyelere ait. En fazla prim borcu olan 5 belediye de CHP'li. Listenin başında 5.7 milyar lira borçla Ankara Büyükşehir Belediyesi geliyor. İkinci sırasında 5.3 milyar lira borçla İzmir, 3.3 milyar lira ile İstanbul, 3 milyar lira ile Adana ve 1 milyar lira ile diğer belediyeler yer alıyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 85
+**Retention**: 65.38%
+
+İstanbul Büyükşehir Belediyesi, 2023 yılında genel bütçeden aktarılan tüm kaynakların yaklaşık %41'ini, yani 93,20 milyar lirayı tek başına aldı. Ancak, SGK'ya olan 3,3 milyar liralık prim borcu ödenmedi. Ankara Büyükşehir Belediyesi'nin kasasına da 27 milyar liranın üzerinde kaynak aktarıldı. Bugün itibarıyla belediyelerin prim borçları toplamda 96 milyar liraya ulaşmış durumda ve bu borcun %80'i belediye şirketlerine aittir. SGK verilerine göre, İstanbul Büyükşehir Belediyesi'nin şirketleri ile birlikte prim borçları 2019 yılı Şubat ayında 7,8 milyon liraydı. 2023 yılı Mart ayında bu borcun 3 katına çıktığı görülmektedir.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 119
+**Retention**: 96.75%
+
+The text primarily discusses tax rates and pricing related to vehicles, which can be tied to economic implications. Here’s the filtered content focusing on the economic aspects:
+
+---
+
+ÖTV matraha 150.000 lirayı aşanlara % 60 motor silindir hacmi 1600 cm³ ile 1800 cm³ arasında olan ve ÖTV matraha 150.000 lirayı aşmayan araçlara % 70 ÖTV uygulanacak. Örneğin, 2.000.000 liraya satılan bir şarj edilebilir hibrit aracın fiyatı % 30 ÖTV indirimiyle 1.500.000 lira seviyesine düşecek. Yani yaklaşık olarak 2.350.000 liraya sattığımız bir otomobili biz 1.670.000 gibi bir rakama gelmiş olacak. 48.000 lira olan bir otomobilin de ÖTV indirimiyle yeni liste fiyatı 36.632.000 seviyelerine gerileyecek.
+
+--- 
+
+This version retains the economic context regarding vehicle pricing and taxation while removing unrelated content.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 102
+**Retention**: 53.40%
+
+Yeni araçlarımız gelecek ve yaklaşık %60'a %70'e yakın hibrit araçlarda bir indirim olmasını bekliyoruz. Hibrit araçlara gelen ÖTV indiriminin özellikle ikinci el otomobil fiyatlarındaki düşüşü hızlandıracağını öngörüyoruz. Diğer normal otomobillerde de bir rekabet sağlayacak. 
+
+Bu yılki üniversite adayları yurt dışında üniversite arayışları içerisinde. Yurt dışındaki özel üniversitelerin fiyatları, Türkiye'deki özel üniversitelere göre daha düşük hale geldi. Örneğin, Türkiye'deki bazı özel üniversitelerin eğitim ücreti 1 milyon lirayı aştı. YÖK, vakıf üniversitelerine bu konuda bir uyarıda bulundu, ancak bu uyarının yeterli olmadığı ve yaptırım gerektirdiği düşünülüyor. Yurt dışında özellikle Avrupa Birliği'ne ait ülkelerde üniversite ücretleri, Türkiye'deki üniversitelere nazaran yarı fiyatına veya üçte bir fiyatında.
+
+================================================================================
+
+## Economic Segment 6
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 73
+**Retention**: 45.62%
+
+Amerika'da özel üniversitelerin eğitim ücretleri 15,000 dolar civarında iken, İtalya'da özel üniversitelerin yıllık öğrenim ücreti ortalama 19,000 Euro, yani yaklaşık 650,000 TL'dir. İtalya'daki özel üniversiteler, öğrencilerin lise ortalamasına göre indirim sağlayabilmektedir. Ankara'da bulunan bir özel üniversitenin 4 yıllık lisans eğitim ücreti 620,000 TL olarak belirlenmiştir. Almanya'da ise eğitim veren bir üniversitenin bu yılki eğitim ücreti 7,000 Euro, yani 250,000 TL'dir. Bu üniversiteler, uygulamalı eğitim ve kariyer odaklı programlar sunarak mezunlarını iş gücüne hazırlamaktadır.
+
+================================================================================
+
+## Economic Segment 7
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 64
+**Retention**: 100.00%
+
+The filtered text focusing on economics, finance, and business is as follows:
+
+---
+
+Adanalı Mehmet, Kavaklı mahallesindeki evini kiraya vermişti. Kiracısı, 4800 liralık elektrik faturasını ödemeden evden kaçtı. Bu durum, Mehmet'in mali durumunu olumsuz etkiledi. Elektrik parasıyla ilgili kesintilerin ne kadar süreceğine dair bir bilgilendirme yapılmadı. Esnaf, karşılığını alamadıkları için bu durumdan muzdarip. 
+
+--- 
+
+This version retains the economic context while removing unrelated content.
+
+================================================================================
+
+## Economic Segment 8
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 63
+**Retention**: 31.66%
+
+Mehmet Binen, kiracısının ödemediği 4800 liralık borç nedeniyle üç katlı evinin icradan satıldığını belirtti. Kiracının biriken borçları ödememesi, ev sahibinin mali durumunu olumsuz etkiledi. Mehmet Binen, elektrik borcunu ödedikten sonra avukat olarak tanıtılan bir kişi tarafından 8000 lira talep edildiğini, ancak bu durumu dolandırıcılık olarak değerlendirip ödeme yapmadığını ifade etti. Bu durum, ev sahibinin mali kayıplarına yol açtı ve evinin satılmasına neden oldu.
+
+================================================================================
+
+## Economic Segment 9
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 215
+**Retention**: 100.00%
+
+200 T ödeme yapıldıktan sonra ağustostaki vize randevuların dolu olduğu söylendi
+Onur Çankaya'ya Her gün farklı bir yetkiliyle muhatap olmaya başladı arıyorum Öz telefonu kapalı
+Özlem Hanım işten ayrıldı dediler Bu sefer de beni Tuğba hanım diye birisi aradı bilmiyorum böyle
+birisi var mı Tuğba hanım beni mağdur Beni mağdur ettiniz ya şunu dinler misiniz şunu söylemek
+istiyorum size kapattı Bu sefer başka bir bayan al Alen Hanım devreye girdi dediler ki ya işte size
+sesta gönderildim dedim ki sester benim ne işim var Sözde firma yetkilileri çankaya'yı önce sosyal
+medya hesaplarından ardından da telefondan engelledi mağduriyetine son vermek isteyen Çankaya
+şimdilerde muhatap bulamıyor Onur Bey'in ilk olarak irtibata geçtiği kişiyi arıyoruz Şu anda
+aradığınız numara geçici olarak servis dışı olmuştur numara servis dışı ikinci irtibata geçtiği
+kişiyi arıyoruz muhatabı olarak size de soruyu iletmek istedik Ben kurumsal bir firmada çalışıyorum
+bireysel olarak size cevaplandır yapamam Dediğim gibi avukatımız siz arar siz onunla görüşür
+numaranızı il ücret iadesi neden yapmadınız acaba Evet gördüğünüz gibi cevap vermekten kaçındı panik
+yaptılar ve telefonu bir anda kapattılar yapamadığınız için beni mağdur ettiniz Yani sizlik bir
+durum bendik dei sizi engelliyorsa parayı şahsi hesabına istiyorsa Parayı aldıktan sonra o tarihte
+Size vize çıkamayacağını söylüyorsa bilin ki dolandırılıyoruz yapılacak olan ceza yargılamasında 3
+yıldan 10 yıla kadar hapis ve 5
+
+================================================================================
+

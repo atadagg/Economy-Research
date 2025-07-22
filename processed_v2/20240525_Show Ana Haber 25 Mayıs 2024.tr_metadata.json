@@ -1,0 +1,62 @@
+{
+  "file_path": "news/Show/20240525_Show Ana Haber 25 Mayıs 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T17:35:35.907787",
+  "original_word_count": 3487,
+  "filtered_word_count": 103,
+  "retention_ratio": 0.02953828505878979,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "Show Haber'den İyi akşamlar değerli izleyenler",
+      "description": "\"Show Haber'den İyi akşamlar değerli izleyenler\" - The opening segment where the presenter, Hande Bayraktar, greets the viewers and introduces the program.",
+      "end_pos": 96
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 96,
+      "start_sentence": "siyasetle başlayalım",
+      "description": "\"siyasetle başlayalım\" - The main news content begins here, covering various political topics, including statements from President Erdoğan regarding inflation and trade relations with Israel.",
+      "end_pos": 1378
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 1378,
+      "start_sentence": "Erdoğan'ın Özgür özel' merakla beklenen İadeyi ziyaretinin tarihi netleşiyor",
+      "description": "\"Erdoğan'ın Özgür özel' merakla beklenen İadeyi ziyaretinin tarihi netleşiyor\" - This sentence serves as a transition to a new topic within the news segment, indicating a shift to discussing the upcoming meeting involving CHP leader Özgür Özel.",
+      "end_pos": 1378
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1378,
+      "start_sentence": "CHP lideri kritik buluşmanın haziranın ilk yarısında gerçekleşebileceğini söyledi",
+      "description": "\"CHP lideri kritik buluşmanın haziranın ilk yarısında gerçekleşebileceğini söyledi\" - This continues the news content, focusing on the details of the upcoming meeting and criticism of the new curriculum approved by the Talim ve Terbiye Kurulu.",
+      "end_pos": 1572
+    },
+    {
+      "type": "5. **NEWS**",
+      "start_pos": 1572,
+      "start_sentence": "bu kafanın Yaptığı müfredatla hiçbir şey olmaz",
+      "description": "\"bu kafanın Yaptığı müfredatla hiçbir şey olmaz\" - Further elaboration on the criticism of the new curriculum, indicating ongoing discussions and controversies in the education sector.",
+      "end_pos": 24043
+    }
+  ],
+  "news_segments_count": 7,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "96_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 154,
+      "filtered_length": 103,
+      "retention_ratio": 0.6688311688311688,
+      "section_description": "\"siyasetle başlayalım\" - The main news content begins here, covering various political topics, including statements from President Erdoğan regarding inflation and trade relations with Israel."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

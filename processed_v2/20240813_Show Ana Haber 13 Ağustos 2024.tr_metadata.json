@@ -1,0 +1,90 @@
+{
+  "file_path": "news/Show/20240813_Show Ana Haber 13 Ağustos 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T17:17:14.204822",
+  "original_word_count": 2699,
+  "filtered_word_count": 70,
+  "retention_ratio": 0.025935531678399407,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "İyi akşamlar değerli izleyenler",
+      "description": "\"İyi akşamlar değerli izleyenler\" - The presenter introduces herself and the program, indicating the start of the broadcast and the main topics to be covered.",
+      "end_pos": 0
+    },
+    {
+      "type": "- **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "İyi akşamlar değerli izleyenler",
+      "description": "\"İyi akşamlar değerli izleyenler\" - The presenter introduces herself and the program, indicating the start of the broadcast and the main topics to be covered.",
+      "end_pos": 92
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 92,
+      "start_sentence": "15 farklı eylemde 30 güvenlik görevlisini şehit eden ü terörist",
+      "description": "\"15 farklı eylemde 30 güvenlik görevlisini şehit eden ü terörist\" - The main news content begins with a report on a significant operation against a terrorist, detailing the events and outcomes of the operation, including statements from officials and related political commentary.",
+      "end_pos": 92
+    },
+    {
+      "type": "- **NEWS**",
+      "start_pos": 92,
+      "start_sentence": "15 farklı eylemde 30 güvenlik görevlisini şehit eden ü terörist",
+      "description": "\"15 farklı eylemde 30 güvenlik görevlisini şehit eden ü terörist\" - The main news content begins with a report on a significant operation against a terrorist, detailing the events and outcomes of the operation, including statements from officials and related political commentary.",
+      "end_pos": 1172
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 1172,
+      "start_sentence": "Kılıçdaroğlu'nun yaşadığımız bu topraklarda",
+      "description": "\"Kılıçdaroğlu'nun yaşadığımız bu topraklarda\" - A transition occurs as the news shifts from the terrorist operation to political commentary involving Kılıçdaroğlu and Akşener, indicating a change in the news topic.",
+      "end_pos": 1172
+    },
+    {
+      "type": "- **TRANSITION**",
+      "start_pos": 1172,
+      "start_sentence": "Kılıçdaroğlu'nun yaşadığımız bu topraklarda",
+      "description": "\"Kılıçdaroğlu'nun yaşadığımız bu topraklarda\" - A transition occurs as the news shifts from the terrorist operation to political commentary involving Kılıçdaroğlu and Akşener, indicating a change in the news topic.",
+      "end_pos": 1566
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1566,
+      "start_sentence": "Kılıçdaroğlu eski ittifak ortağı akşener'e Ver Yansın etti",
+      "description": "\"Kılıçdaroğlu eski ittifak ortağı akşener'e Ver Yansın etti\" - The second news segment continues with political developments, focusing on the conflict between Kılıçdaroğlu and Akşener, including their statements and implications for political alliances.",
+      "end_pos": 1566
+    },
+    {
+      "type": "- **NEWS**",
+      "start_pos": 1566,
+      "start_sentence": "Kılıçdaroğlu eski ittifak ortağı akşener'e Ver Yansın etti",
+      "description": "\"Kılıçdaroğlu eski ittifak ortağı akşener'e Ver Yansın etti\" - The second news segment continues with political developments, focusing on the conflict between Kılıçdaroğlu",
+      "end_pos": 1856
+    },
+    {
+      "type": "5. **OUTRO**",
+      "start_pos": 1856,
+      "start_sentence": "2023 genel seçimlerinde iyi Parti'nin eski genel başkanı",
+      "description": "\"2023 genel seçimlerinde iyi Parti'nin eski genel başkanı\" - The closing remarks summarize the political situation and hint at future developments, signaling the end of the program.",
+      "end_pos": 18680
+    }
+  ],
+  "news_segments_count": 7,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "1856_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 187,
+      "filtered_length": 70,
+      "retention_ratio": 0.37433155080213903,
+      "section_description": "\"2023 genel seçimlerinde iyi Parti'nin eski genel başkanı\" - The closing remarks summarize the political situation and hint at future developments, signaling the end of the program."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

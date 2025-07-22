@@ -1,0 +1,89 @@
+{
+  "file_path": "news/Show/20240827_Show Ana Haber 27 Ağustos 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T17:22:59.963651",
+  "original_word_count": 2530,
+  "filtered_word_count": 318,
+  "retention_ratio": 0.12569169960474308,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "İyi akşamlar sayın seyirciler...",
+      "description": "\"İyi akşamlar sayın seyirciler...\" - The opening segment where the presenter greets the audience and introduces the program's focus on the day's significant developments, particularly in politics.",
+      "end_pos": 98
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 98,
+      "start_sentence": "MHP lideri Devlet Bahçeli Malazgirt Zaferi...",
+      "description": "\"MHP lideri Devlet Bahçeli Malazgirt Zaferi...\" - The main news content that discusses various political statements and events, including comments from MHP leader Devlet Bahçeli regarding the CHP and other political dynamics.",
+      "end_pos": 492
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 492,
+      "start_sentence": "CHP lideri Özgür Özel'in eski genel başkanlarla...",
+      "description": "\"CHP lideri Özgür Özel'in eski genel başkanlarla...\" - Continuation of the news segment detailing the activities and statements of CHP leader Özgür Özel and his interactions with former party leaders.",
+      "end_pos": 1075
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 1075,
+      "start_sentence": "CHP ile demin ayrı ayrı aday belirlemesi...",
+      "description": "\"CHP ile demin ayrı ayrı aday belirlemesi...\" - A brief transition that shifts the focus from Bahçeli's comments to the internal dynamics within the CHP, specifically regarding candidate selection and leadership discussions.",
+      "end_pos": 1844
+    },
+    {
+      "type": "5. **OUTRO**",
+      "start_pos": 1844,
+      "start_sentence": "Ama önceki genel başkanlarımız görüşlerini almak...",
+      "description": "\"Ama önceki genel başkanlarımız görüşlerini almak...\" - The closing remarks that summarize the discussions and indicate the end of the news segment, although the full outro may not be present in the provided text.",
+      "end_pos": 17427
+    }
+  ],
+  "news_segments_count": 8,
+  "economic_segments_count": 4,
+  "economic_segments": [
+    {
+      "segment_id": "1844_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 228,
+      "filtered_length": 80,
+      "retention_ratio": 0.3508771929824561,
+      "section_description": "\"Ama önceki genel başkanlarımız görüşlerini almak...\" - The closing remarks that summarize the discussions and indicate the end of the news segment, although the full outro may not be present in the provided text."
+    },
+    {
+      "segment_id": "1844_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 104,
+      "filtered_length": 104,
+      "retention_ratio": 1.0,
+      "section_description": "\"Ama önceki genel başkanlarımız görüşlerini almak...\" - The closing remarks that summarize the discussions and indicate the end of the news segment, although the full outro may not be present in the provided text."
+    },
+    {
+      "segment_id": "1844_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 193,
+      "filtered_length": 85,
+      "retention_ratio": 0.44041450777202074,
+      "section_description": "\"Ama önceki genel başkanlarımız görüşlerini almak...\" - The closing remarks that summarize the discussions and indicate the end of the news segment, although the full outro may not be present in the provided text."
+    },
+    {
+      "segment_id": "1844_4",
+      "method": "simple_final",
+      "confidence": 0.5,
+      "original_length": 129,
+      "filtered_length": 49,
+      "retention_ratio": 0.3798449612403101,
+      "section_description": "\"Ama önceki genel başkanlarımız görüşlerini almak...\" - The closing remarks that summarize the discussions and indicate the end of the news segment, although the full outro may not be present in the provided text."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

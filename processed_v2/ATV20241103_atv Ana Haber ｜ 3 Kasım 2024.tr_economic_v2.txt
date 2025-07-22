@@ -1,0 +1,31 @@
+# Economic Content from: ATV20241103_atv Ana Haber ｜ 3 Kasım 2024.tr.txt
+# Processed: 2025-07-22T16:07:08.226346
+# Original: 4641 words → Filtered: 134 words (2.89% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 66
+**Retention**: 100.00%
+
+000 liralık masraf çıkınca ekspertizde mahkemelik oldu sahibi ve götürdüğümüz ekspert
+arabada hiçbir kusurun ve motorun çok güzel olduğunu söyledi ekspertiz ime Getirdiğimde Bu arabanın
+motorunda bir problem olduğunu üfleme olduğunu ve motorunun iyi olmadığını resmi evraklarla bize
+tespit etti iki ayrı ekspertiz iki ayrı sonuç birinin sağlam raporu verdiğine diğeri ağır kusurlu
+dedi 150 000 masf Ç araç sahibi şoka girdi takribi 150 000 200
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 68
+**Retention**: 41.21%
+
+Abdullah Şah Budak yeni aldığı arabasına ekspertiz yaptırdı. Verilen raporda aracın motorunun %191 oranında güçlü olduğu yazıyordu. Ancak, ekspertize götürdüğünde motorunda üfleme olduğunu tespit ettik. Bu durum, araç sahibinin aldığı raporun güvenilirliğini sorgulamasına neden oldu. Ekonomik açıdan, bu tür ekspertiz raporları, ikinci el araç piyasasında alım satım işlemlerinin güvenilirliğini etkileyen önemli bir faktördür. Aracın motorundaki sorunlar, potansiyel alıcılar için ek maliyetler doğurabilir ve bu da piyasa dinamiklerini etkileyebilir.
+
+================================================================================
+

@@ -1,0 +1,67 @@
+# Economic Content from: ATV20240802_atv Ana Haber ｜ 2 Ağustos 2024.tr.txt
+# Processed: 2025-07-22T16:31:39.603668
+# Original: 4791 words → Filtered: 486 words (10.14% retention)
+# Economic segments: 4
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 125
+**Retention**: 62.81%
+
+Ankara Büyükşehir Belediyesi'nin SGK'ya olan 7 milyar lira prim borcu, belediyenin yapılandırmadan yararlandığı ancak taksitleri ödemediği iddialarıyla gündeme geldi. Mart 2023'te yürürlüğe giren bazı alacakların yeniden yapılandırılmasına ilişkin kanundan dolayı, Ankara Büyükşehir Belediyesi ilk taksidi ödemeyince yapılandırma dosyasının iptal edildiği belirlendi. Bu durum, belediye şirketlerinin de bu haktan yararlanamamasına yol açtı. 
+
+CHP genel başkanı Özgür Özel, AK Parti'den CHP'ye geçen Bursa Büyükşehir Belediyesi'nin toplam borcu için 30 milyar lira açıklamasında bulunmuştu; ancak bu açıklama belediye kayıtlarıyla çelişiyor. Bursa Belediyesinin AK Parti döneminde SGK'ya 382 milyon lira prim borcu olduğu ortaya çıktı. Bu durum, Bursa'nın en düşük borçlu belediyelerden biri olduğunu gösteriyor. 
+
+Ayrıca, en düşük emekli maaşının 10,000 liradan 12,500 liraya yükseltilmesinin ardından, milyonlarca emeklinin beklediği ödemeler için tarih kesinleşti. 7 Ağustos'tan itibaren emeklilerin ödemeleri yapılacak.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 90
+**Retention**: 80.36%
+
+Bankalarda emeklilere sunulan imkanlar, ekonomik katkılar sağlamak amacıyla geliştirilmiştir. Emekliler için özel indirim ve ayrıcalıklar, bankaların hızlı bir şekilde sürece dahil olmasıyla mümkün olmuştur. Bu indirimler, emeklilerin yaşam standartlarını artırmayı hedeflemektedir. Ayrıca, KYK yurtlarında yaz döneminde bir ay ücretsiz konaklama gibi fırsatlar, kamu sosyal tesislerinde %115 indirim, sinema biletlerinde %40 indirim, otobüs biletlerinde %120 indirim ve Türk Hava Yolları'ndan alacakları uçak biletlerinde %155 indirim gibi ekonomik avantajlar sunulmaktadır. Bu tür indirimler, emeklilerin bütçelerine olumlu katkı sağlamaktadır. Emeklilerin kendilerine sunulan tüm bu imkanları daha detaylı görebilmeleri için bir internet sitesi oluşturulmuştur.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 130
+**Retention**: 45.45%
+
+The filtered text focusing on economics, finance, and business is as follows:
+
+---
+
+Ankara'da yaşayan emekliler, internet sitesinde hangi kurumda ne kadar indirim uygulandığını görebilecekler. Bu durum, emeklilerin mali durumunu etkileyen önemli bir ekonomik veridir. Ayrıca, sokak köpekleriyle ilgili düzenlemenin amacı hem hayvanların hem insanların güvenliğini sağlamak. Bu tür düzenlemeler, yerel yönetimlerin bütçelerini ve kaynaklarını nasıl yönettiğini de etkileyebilir. 
+
+Yeni yasayla sokak köpekleri barınaklara yerleştirilecek ve bu süreç belediyelerin sorumluluğunda olacak. Bu durum, belediyelerin mali yükümlülüklerini artırabilir ve kaynakların nasıl tahsis edileceği konusunda önemli bir tartışma yaratabilir. Belediyelerin, sokak hayvanları için ayrılan kaynağı başka amaçlar için kullanmaları durumunda, 6 aydan 2 yıla kadar hapis cezası verilecek. Bu tür yasaların uygulanması, yerel ekonomilerdeki mali disiplinin sağlanması açısından kritik öneme sahiptir.
+
+--- 
+
+This version retains the economic context while removing irrelevant content.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 141
+**Retention**: 41.96%
+
+250,000 lira değerindeki hisse satışa açıldı ve 200'e yakın teklif geldi. 31 Temmuz günü hisse için toplamda 187 teklif oldu. Hisseyi 200 milyon lira teklif veren Haldun Hulki Gürcan, alacaklı olduğu gerekçesiyle başlatmış olduğu takip sonucunda aldı. Yaklaşık 50 milyon lira kadar da masraf var. Avukat Gürcan'ın ödemeyi 7 gün içerisinde yapması halinde satış tamamlanacak ve ödenen bedel Çınar'ın alacaklılarına pay edilecek. İcra dairesine yatan bu para, bir sıra cetveli yapılmak suretiyle paylaştırılacak. 
+
+Sevilay Sabancı Çınar'ın Sabancı ailesine banka hisseleri, borsa hisseleri ve köşk içerisindeki menkullerle ilgili açtığı davalar sürüyor. Sevilay Hanım, miras haklarını yasal yollarla değil, ailesiyle anlaşarak bir noktaya varmaya çalışıyor. Bu bugüne kadar mümkün olmadı. Biz bu haklarımızı alacağımıza inanıyoruz. Umarım ki Sabancı Ailesi, kendisine düşen sorumluluğu yerine getirerek müvekkilimizin miras haklarını teslim eder. 
+
+Bu süreç, ekonomik belirsizlikler ve miras davalarının aile içindeki finansal ilişkileri nasıl etkilediğini gösteriyor.
+
+================================================================================
+

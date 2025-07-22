@@ -1,0 +1,16 @@
+# Economic Content from: ATV20240828_atv Ana Haber ｜ 28 Ağustos 2024.tr.txt
+# Processed: 2025-07-22T16:34:09.513851
+# Original: 4717 words → Filtered: 102 words (2.16% retention)
+# Economic segments: 1
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 102
+**Retention**: 62.20%
+
+Emekliye ödenen promosyon tutarı 25.000 liraya dayandı. Promosyon tutarı emekli maaşına göre belirleniyor. Örneğin, devlet bankalarında 12.500 lira ile 15.000 lira arasında maaş alan emekli için 3 yıllık toplam ödenecek taban promosyon tutarı 8.000 lira. 15.000 lira ile 20.000 lira arası emekli maaşına 10.000 lira promosyon ödenirken, 20.000 lira ve üzeri içinse bankalar 12.000 lira promosyon vaad ediyor. Özel bankalar da kesenin ağzını açtı; maaşı 15.000 liraya kadar olan emekliye 13.000 lira, 15.000 ile 20.000 lira arasında olan emekliye 15.500 lira, 20.000 liranın üzerinde olan emekliye ise 18.000 lira promosyon veriliyor. Promosyon tutarları, fatura talimatı ve belli sınırda harcama gibi kampanyalarla artırılabiliyor.
+
+================================================================================
+

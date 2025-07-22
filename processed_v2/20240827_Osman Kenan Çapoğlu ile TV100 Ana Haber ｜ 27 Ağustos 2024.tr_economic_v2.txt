@@ -1,0 +1,57 @@
+# Economic Content from: 20240827_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 27 Ağustos 2024.tr.txt
+# Processed: 2025-07-22T18:21:45.615936
+# Original: 10644 words → Filtered: 401 words (3.77% retention)
+# Economic segments: 3
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 285
+**Retention**: 100.00%
+
+000 dönümden fazla bir alan Aslında
+taranan alan kuyulara bakılıyor tek tek narini bulmak için Yeraltı görüntüleme cihazı da getirildi
+Canan az önce de aktardı belediye otobüs üzerine Narin'in fotoğrafları asıldı biri görür duyar bir
+bilgi verilir her türlü bilgi biliyorsunuz asılsız olsa dahi değerlendiriliyor fakat en ufak bir iz
+yok bir terlik vardı ondan istenen sonuca ulaşılamadı Bir taşta kan bulundu Onun başka bir çocuğa
+ait olduğu belirlendi narinle ilgili bir bilgi yok Annesi de TV y'e konuştu Narin kaçırıldı kimse
+onu bir şekilde kandıramaz parayla şekerle dedi n bir şey yok Yok ben bunu dile getiriyorum ben
+herkese Yalvarırım Kızım bana yardımcı olun getir 7 gündür gözleri yaşlı yüreğide yangın yeri
+narinin annesi iyi haber bekliyor hiç iz yok Tek bir ihtimal geliyor aklına yerı sanki açmışlar
+içine girmiş çalışıyorlar demek birisi önce Diyarbakır'da Kur'an kursundan çıktı evine gidiyordu
+arkadaşlarının yanından ayrıldı Bir daha da onu ne gören oldu ne de sesini duyan bir hafta geride
+kaldı Hala haber gelmedi bir kavgamız kimseyle olmamış kimse aramıza girmemiş Ben kimin yakasını
+tutarım Eğer bilseydim kimse söylemeseydi ben söylerdim Keşke ben bilseydim en başta gün söylerdim
+tüm Türkiye Narin için seferber oldu genel komutanlığından özel bir ekip Az önce köye geldi ve artık
+burada özel bir çalışma yapacaklar saatte bir burada bu bölgede aramalar taramalar yapıyorlar e
+bulabildikleri her şeyi anında koordinasyon merkezine iletiyorlar bu ekipler sürekli sahada ve
+Sahaları tarıyorlar özellikle Tarlalarda sürekli bir arama yapıyorlar ve 23 saat önce bir etek
+bulunmuştu bu eteğin de Narine ait olup olmadığı konusunda değerlendirmeler yapıldı ve bu eteğin
+narna ait olmadığı öğrenildi Çünkü Ne o etek ne de ekiplerin bulduğu terlik Narin ind ekiplerin
+girmediği ev ahır kalmadı 12550 araç tarandı 130 kişinin ifadesi alındı 12
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 58
+**Retention**: 53.21%
+
+Kadıköy Beşiktaş gibi popüler semtlerde kiralar 2 kat daha fazla, yani barınma gerçekten problem. Geçen sene 12,000 TL gibi olan bedeller şu an 20,000-25,000 TL'lere kadar çıktı. Bu durum, KYK yurtlarına yerleşemeyen öğrencilerin maliyetlerini artırıyor. Öğrencilerin ev kiralamanın maliyeti, depozito, emlakçı ücreti ve faturalar eklendiğinde 100,000 TL'yi bulabiliyor. Bu artış, genel olarak konut piyasasındaki fiyatların yükselmesiyle de ilişkilendirilebilir.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 58
+**Retention**: 62.37%
+
+Eee de konut açığımız var doğru kiraların geriye gelmesi için yılda biz 1 milyon konut yapmak durumundayız. Bu durum, konut piyasasında fiyatların dengelenmesi açısından kritik bir öneme sahip. Yurtlarda yer bulamayan öğrencilere kira burs desteği verilmesi, konut talebini azaltabilir ve kiraların düşmesine yardımcı olabilir. Öğrencilerin dışarıda ev kiralayabilmesi için desteklenmesi, genel ekonomik koşullar üzerinde olumlu bir etki yaratabilir.
+
+================================================================================
+

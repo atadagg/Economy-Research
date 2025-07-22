@@ -1,0 +1,31 @@
+# Economic Content from: ATV20240622_atv Ana Haber ｜ 22 Haziran 2024.tr.txt
+# Processed: 2025-07-22T16:18:49.645266
+# Original: 4555 words → Filtered: 274 words (6.02% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 112
+**Retention**: 58.03%
+
+Hazine ve Maliye Bakanlığı kayıt dışı ekonomi ile mücadele kapsamında yeni bir vergi paketi üzerinde çalışıyordu. Kayıt dışı ekonominin kayıt altına alınması, vergilendirilmeyen alanların vergilendirilmesi birçok unsur söz konusu. Yeni vergi paketi ile meclise geliyor; vergi kaçırana da gelirinden çok harcama yapana da özetle birçok kalemde denetim ve vergi cezası yolda. Yeni vergi paketinde kiracılar da artık maliyenin yakın markajında olacak. Özel usulsüzlük cezaları 7,500 liradan başlayacak, 20 milyon TL'ye kadar yükselebilecek. 30,000 liralık bir kirayı elden ödedi diyelim, işte bu noktada %10'u, yani 3,000 lirasını da yine maliyeye ödemek zorunda kalacak. Post cihazını başkasına kullandıranlara ve ibanla ödeme yapanlara ağır yaptırımlar yolda. Fiş düzenlememenin cezası 3,400 liradan 30,000 liraya kadar çıkabilecek.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 162
+**Retention**: 83.94%
+
+Son dönemde yapılan ekonomik veriler, özellikle küçük esnafların alışveriş yöntemlerini etkiledi. Maliye Bakanlığı, ibanla yapılan ödemeleri mercek altına alarak, fiş kesilmeyen harcamalara 3400 liralık ceza kesince, ibanla ödemelerde ciddi bir düşüş yaşandı. Yeni vergi paketinde, ibanla yapılan ödemelere daha ağır cezaların geleceği belirtiliyor. Bu bağlamda, esnafa verilen iban numaralarının kullanımıyla ilgili ağır yaptırımların 30,000 liradan 20 milyona kadar çıkabileceği ifade ediliyor.
+
+Serbest meslek çalışanlarına yönelik hasılat sorguları da gündemde. Ekipler, üç yılda en az 12 kez yoklama yaparak, günlük kazançları tespit edecek. Tespit edilen tutarlar ile mükellefin beyanı karşılaştırılacak ve aradaki fark %120'den fazla ise mükellef, bu farkın izahı için davet edilecek. Eğer izah yeterli görülmezse düzeltme beyannamesi istenecek ve vergi incelemesi yapılacak.
+
+Yeni vergi paketindeki en kritik başlıklardan biri, gelirinden fazla harcama yapanlarla ilgili. Örneğin, bir vatandaşın yasal olarak 100,000 lira geliri görünürken, maliye harcamalarına baktığında ayda 200,000 lira harcaması olduğu tespit edilirse, maliye o vatandaşı çağıracak. Bu durum, vergi denetimlerinin artacağına ve maliye politikalarının daha sıkı hale geleceğine işaret ediyor.
+
+================================================================================
+

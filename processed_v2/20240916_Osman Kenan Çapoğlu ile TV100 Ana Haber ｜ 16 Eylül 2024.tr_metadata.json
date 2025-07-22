@@ -1,0 +1,98 @@
+{
+  "file_path": "news/TV100/20240916_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 16 Eylül 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T18:04:53.865349",
+  "original_word_count": 4522,
+  "filtered_word_count": 425,
+  "retention_ratio": 0.09398496240601503,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "Efendim Mutlu akşamlar 16 Eylül Pazartesi...",
+      "description": "\"Efendim Mutlu akşamlar 16 Eylül Pazartesi...\" - The opening segment introduces the program, the date, and sets the stage for the news content to follow.",
+      "end_pos": 94
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 94,
+      "start_sentence": "Tabii ki hala 25 gün oldu 26 gün oldu Narin cinayetini aydınlanmasını Bekliyoruz...",
+      "description": "\"Tabii ki hala 25 gün oldu 26 gün oldu Narin cinayetini aydınlanmasını Bekliyoruz...\" - This section contains the main news content, focusing on the developments in the Narin murder case, including details about suspects, ongoing investigations, and updates from reporters in the field.",
+      "end_pos": 780
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 780,
+      "start_sentence": "Olay günü hediye güran ne yaptı iki kez biliyorsunuz ki...",
+      "description": "\"Olay günü hediye güran ne yaptı iki kez biliyorsunuz ki...\" - This brief transition connects different aspects of the news story, moving from one detail about the investigation to another, maintaining the flow of information.",
+      "end_pos": 1081
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1081,
+      "start_sentence": "Bir diğer taraf taraftan Sertaç Murat Koç Narin'in katledildiği noktada...",
+      "description": "\"Bir diğer taraf taraftan Sertaç Murat Koç Narin'in katledildiği noktada...\" - This continues the news segment, providing additional updates from another reporter about the community's reaction and ongoing developments in the murder case.",
+      "end_pos": 1464
+    },
+    {
+      "type": "5. **NEWS**",
+      "start_pos": 1464,
+      "start_sentence": "Şimdi cinayet soruşturmasında bugün 9 gün bir genel bilançoya bakalım...",
+      "description": "\"Şimdi cinayet soruşturmasında bugün 9 gün bir genel bilançoya bakalım...\" - This part further elaborates on the investigation, summarizing the current status and the number of arrests, while highlighting the ongoing uncertainty surrounding the case.",
+      "end_pos": 31905
+    }
+  ],
+  "news_segments_count": 6,
+  "economic_segments_count": 5,
+  "economic_segments": [
+    {
+      "segment_id": "94_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 99,
+      "filtered_length": 99,
+      "retention_ratio": 1.0,
+      "section_description": "\"Tabii ki hala 25 gün oldu 26 gün oldu Narin cinayetini aydınlanmasını Bekliyoruz...\" - This section contains the main news content, focusing on the developments in the Narin murder case, including details about suspects, ongoing investigations, and updates from reporters in the field."
+    },
+    {
+      "segment_id": "1081_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 55,
+      "filtered_length": 55,
+      "retention_ratio": 1.0,
+      "section_description": "\"Bir diğer taraf taraftan Sertaç Murat Koç Narin'in katledildiği noktada...\" - This continues the news segment, providing additional updates from another reporter about the community's reaction and ongoing developments in the murder case."
+    },
+    {
+      "segment_id": "1464_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 193,
+      "filtered_length": 120,
+      "retention_ratio": 0.6217616580310881,
+      "section_description": "\"Şimdi cinayet soruşturmasında bugün 9 gün bir genel bilançoya bakalım...\" - This part further elaborates on the investigation, summarizing the current status and the number of arrests, while highlighting the ongoing uncertainty surrounding the case."
+    },
+    {
+      "segment_id": "1464_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 165,
+      "filtered_length": 116,
+      "retention_ratio": 0.703030303030303,
+      "section_description": "\"Şimdi cinayet soruşturmasında bugün 9 gün bir genel bilançoya bakalım...\" - This part further elaborates on the investigation, summarizing the current status and the number of arrests, while highlighting the ongoing uncertainty surrounding the case."
+    },
+    {
+      "segment_id": "1464_3",
+      "method": "simple_final",
+      "confidence": 0.5,
+      "original_length": 73,
+      "filtered_length": 35,
+      "retention_ratio": 0.4794520547945205,
+      "section_description": "\"Şimdi cinayet soruşturmasında bugün 9 gün bir genel bilançoya bakalım...\" - This part further elaborates on the investigation, summarizing the current status and the number of arrests, while highlighting the ongoing uncertainty surrounding the case."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

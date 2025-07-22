@@ -1,0 +1,151 @@
+{
+  "file_path": "news/TV100/20241003_Kübra Par ile tv100 Ana Haber ｜ 3 Ekim 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T18:42:35.767704",
+  "original_word_count": 7071,
+  "filtered_word_count": 682,
+  "retention_ratio": 0.0964502899165606,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "TV1 ekranlarından Herkese iyi akşamlar ben Kübra Par...",
+      "description": "\"TV1 ekranlarından Herkese iyi akşamlar ben Kübra Par...\" - The presenter introduces herself and the program, setting the stage for the news broadcast.",
+      "end_pos": 0
+    },
+    {
+      "type": "- **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "TV1 ekranlarından Herkese iyi akşamlar ben Kübra Par...",
+      "description": "\"TV1 ekranlarından Herkese iyi akşamlar ben Kübra Par...\" - The presenter introduces herself and the program, setting the stage for the news broadcast.",
+      "end_pos": 52
+    },
+    {
+      "type": "6. **OUTRO**",
+      "start_pos": 52,
+      "start_sentence": "Ana Haber başlıyor...",
+      "description": "\"Ana Haber başlıyor...\" - This marks the closing remarks of the program, indicating the end of the news broadcast.",
+      "end_pos": 87
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 87,
+      "start_sentence": "enflasyon verileri açıklandı çok az da olsa bir düşüş var...",
+      "description": "\"enflasyon verileri açıklandı çok az da olsa bir düşüş var...\" - This section continues with another news story, focusing on the inflation data and its significance.",
+      "end_pos": 87
+    },
+    {
+      "type": "- **NEWS**",
+      "start_pos": 87,
+      "start_sentence": "enflasyon verileri açıklandı çok az da olsa bir düşüş var...",
+      "description": "\"enflasyon verileri açıklandı çok az da olsa bir düşüş var...\" - This section continues with another news",
+      "end_pos": 94
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 94,
+      "start_sentence": "Milli Eğitim Bakanlığı yeni bir veri açıkladı ve çok maalesef ortaokul ve liseye gitmesi gereken öğrencilerin sayısında azalma var...",
+      "description": "\"Milli Eğitim Bakanlığı yeni bir veri açıkladı ve çok maalesef ortaokul ve liseye gitmesi gereken öğrencilerin sayısında azalma var...\" - This section contains the main news content, discussing the alarming statistics regarding students not attending school and the implications for education in the country.",
+      "end_pos": 94
+    },
+    {
+      "type": "- **NEWS**",
+      "start_pos": 94,
+      "start_sentence": "Milli Eğitim Bakanlığı yeni bir veri açıkladı ve çok maalesef ortaokul ve liseye gitmesi gereken öğrencilerin sayısında azalma var...",
+      "description": "\"Milli Eğitim Bakanlığı yeni bir veri açıkladı ve çok maalesef ortaokul ve liseye gitmesi gereken öğrencilerin sayısında azalma var...\" - This section contains the main news content, discussing the alarming statistics regarding students not attending school and the implications for education in the country.",
+      "end_pos": 1368
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 1368,
+      "start_sentence": "Efendim önce eğitimde alarm diyeceğiz okula giden çocuklarımız ya okula giden çocuklarımızın sayısı neden düşüyor...",
+      "description": "\"Efendim önce eğitimde alarm diyeceğiz okula giden çocuklarımız ya okula giden çocuklarımızın sayısı neden düşüyor...\" - This brief transition introduces the next topic of discussion, which is the decline in school attendance among children.",
+      "end_pos": 1368
+    },
+    {
+      "type": "- **TRANSITION**",
+      "start_pos": 1368,
+      "start_sentence": "Efendim önce eğitimde alarm diyeceğiz okula giden çocuklarımız ya okula giden çocuklarımızın sayısı neden düşüyor...",
+      "description": "\"Efendim önce eğitimde alarm diyeceğiz okula giden çocuklarımız ya okula giden çocuklarımızın sayısı neden düşüyor...\" - This brief transition introduces the next topic of discussion, which is the decline in school attendance among children.",
+      "end_pos": 1857
+    },
+    {
+      "type": "5. **NEWS**",
+      "start_pos": 1857,
+      "start_sentence": "Cem Garipoğlu'nun mezarı 10 yıldır konuşuluyordu...",
+      "description": "\"Cem Garipoğlu'nun mezarı 10 yıldır konuşuluyordu...\" - This part introduces yet another news story, discussing the long-standing topic of Cem Garipoğlu's grave and the surrounding controversy.",
+      "end_pos": 49766
+    }
+  ],
+  "news_segments_count": 11,
+  "economic_segments_count": 7,
+  "economic_segments": [
+    {
+      "segment_id": "94_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 185,
+      "filtered_length": 80,
+      "retention_ratio": 0.43243243243243246,
+      "section_description": "\"Milli Eğitim Bakanlığı yeni bir veri açıkladı ve çok maalesef ortaokul ve liseye gitmesi gereken öğrencilerin sayısında azalma var...\" - This section contains the main news content, discussing the alarming statistics regarding students not attending school and the implications for education in the country."
+    },
+    {
+      "segment_id": "1368_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 67,
+      "filtered_length": 72,
+      "retention_ratio": 1.0746268656716418,
+      "section_description": "\"Efendim önce eğitimde alarm diyeceğiz okula giden çocuklarımız ya okula giden çocuklarımızın sayısı neden düşüyor...\" - This brief transition introduces the next topic of discussion, which is the decline in school attendance among children."
+    },
+    {
+      "segment_id": "1857_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 199,
+      "filtered_length": 98,
+      "retention_ratio": 0.49246231155778897,
+      "section_description": "\"Cem Garipoğlu'nun mezarı 10 yıldır konuşuluyordu...\" - This part introduces yet another news story, discussing the long-standing topic of Cem Garipoğlu's grave and the surrounding controversy."
+    },
+    {
+      "segment_id": "1857_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 190,
+      "filtered_length": 118,
+      "retention_ratio": 0.6210526315789474,
+      "section_description": "\"Cem Garipoğlu'nun mezarı 10 yıldır konuşuluyordu...\" - This part introduces yet another news story, discussing the long-standing topic of Cem Garipoğlu's grave and the surrounding controversy."
+    },
+    {
+      "segment_id": "1857_5",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 98,
+      "filtered_length": 98,
+      "retention_ratio": 1.0,
+      "section_description": "\"Cem Garipoğlu'nun mezarı 10 yıldır konuşuluyordu...\" - This part introduces yet another news story, discussing the long-standing topic of Cem Garipoğlu's grave and the surrounding controversy."
+    },
+    {
+      "segment_id": "1857_7",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 138,
+      "filtered_length": 91,
+      "retention_ratio": 0.6594202898550725,
+      "section_description": "\"Cem Garipoğlu'nun mezarı 10 yıldır konuşuluyordu...\" - This part introduces yet another news story, discussing the long-standing topic of Cem Garipoğlu's grave and the surrounding controversy."
+    },
+    {
+      "segment_id": "1857_8",
+      "method": "simple_final",
+      "confidence": 0.5,
+      "original_length": 168,
+      "filtered_length": 125,
+      "retention_ratio": 0.7440476190476191,
+      "section_description": "\"Cem Garipoğlu'nun mezarı 10 yıldır konuşuluyordu...\" - This part introduces yet another news story, discussing the long-standing topic of Cem Garipoğlu's grave and the surrounding controversy."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

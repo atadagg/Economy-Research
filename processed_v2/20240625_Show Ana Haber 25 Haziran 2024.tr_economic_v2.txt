@@ -1,0 +1,33 @@
+# Economic Content from: 20240625_Show Ana Haber 25 Haziran 2024.tr.txt
+# Processed: 2025-07-22T17:44:43.170751
+# Original: 2849 words → Filtered: 213 words (7.48% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 152
+**Retention**: 54.87%
+
+L emekli maaşı olmaz En az asgari ücret yapmalısınız görüşme uzun sürdü ama aynı dili konuşmadık dedi siyasetteki ekonomi zirvesini değerlendirirken AK Parti ile ortak program iddialarına tepki gösterdi. Çalıştığımız bir tek ortak programımız var cumhuriyetin 2 yüzyılının ilk seçimlerinde. Asgari ücrete zammı söke söke almak için emekliye zamı söke söke Gebze'ye bekliyoruz sizi duyuyoruz sesinizi duyurmaya geliyoruz. 
+
+Bu bağlamda, ekonomik veriler ve istatistikler üzerinde durmak önemlidir. Asgari ücretin artırılması, hem emekli maaşları hem de genel yaşam standartları üzerinde doğrudan bir etki yaratacaktır. Ekonomik politikaların bu yönde şekillenmesi, toplumun geniş kesimlerini etkileyen bir durumdur. 
+
+Özgür Özel, MHP lideri Bahçeli'ye de geçmiş olsun dileklerini iletti. Ancak, bu tür siyasi mesajların yanı sıra, ekonomik gelişmelerin de takip edilmesi gerektiği vurgulanmalıdır. Ekonomik istikrar ve büyüme, hükümetin alacağı kararlarla doğrudan ilişkilidir. 
+
+Sonuç olarak, asgari ücret ve emekli maaşları gibi konular, ekonomik durumun iyileştirilmesi açısından kritik öneme sahiptir. Bu nedenle, hükümetin bu konulardaki politikalarını dikkatle izlemek gerekmektedir.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 61
+**Retention**: 79.22%
+
+Bu yıl gözde olan pırlanta ve mücevher fiyatları dudak uçuklatıyor. Düğün sezonu geldiğinde, hazırlıklarını tamamlamak isteyen çiftler kuyumcularda soluğu alıyor. Pırlanta ve mücevherlerin fiyatları inanılmaz derecede yüksek. Ekonomik koşullar nedeniyle, çiftler bu lüks ürünleri almakta zorlanıyor. Ancak, birçok kişi en azından evlenirken bir kez de olsa bu tür ürünleri almak istiyor. Bu durum, mücevher sektöründe talep ve fiyatların artmasına neden oluyor.
+
+================================================================================
+

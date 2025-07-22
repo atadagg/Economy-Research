@@ -1,0 +1,29 @@
+# Economic Content from: ATV20240624_atv Ana Haber ｜ 24 Haziran 2024.tr.txt
+# Processed: 2025-07-22T16:11:14.326235
+# Original: 4559 words → Filtered: 148 words (3.25% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 60
+**Retention**: 77.92%
+
+Toplantının gündemini Parti sözcüsü Ömer Çelik açıkladı. Sosyal medyada yurt dışı çıkış harcının 3.000 TL olacağı ve yeni vergiler geleceği söylentileri için henüz alınmış bir karar yok dedi. Ekledi ki, sosyal medyaya ya da başka yerlere sızan vergi gelecek açıklamaları çoğu spekülatif. Bu durum, vergi adaletinin sağlanması için yapılan çalışmalardır. Resmi olarak açıklanmamış bu tip spekülasyonlara itibar edilmemesi gerektiği vurgulandı.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 88
+**Retention**: 39.82%
+
+233 lira talihsiz kadına ise korsan taksi kullanmaktan 2143 lira idari para cezası uygulandı. Bu durum, Ankara'daki taksi sektöründe denetimlerin artırılması gerektiğini gösteriyor. Ayrıca, özel hastanelerdeki sağlık hizmetlerinin maliyetleri ve bu hizmetlerin kalitesi üzerine tartışmalar devam ediyor. Aile, ameliyatın yapıldığı özel hastaneden ve doktorlardan şikayetçi oldu; bu da sağlık sektöründeki hizmet kalitesinin ve maliyetlerin sorgulanmasına yol açıyor. 
+
+Ekonomik açıdan, sağlık hizmetlerinin fiyatları ve özel hastanelerin uyguladığı ücretler, toplumda geniş yankı uyandıran bir konu haline geldi. Bu tür olaylar, sağlık sektöründeki maliyetlerin ve hizmet kalitesinin artırılması gerektiğini ortaya koyuyor.
+
+================================================================================
+

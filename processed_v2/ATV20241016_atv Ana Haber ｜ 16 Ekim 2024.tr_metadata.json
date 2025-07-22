@@ -1,0 +1,66 @@
+{
+  "file_path": "news/ATV/ATV20241016_atv Ana Haber ｜ 16 Ekim 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T16:03:45.464176",
+  "original_word_count": 4413,
+  "filtered_word_count": 333,
+  "retention_ratio": 0.07545887151597552,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "Allahu Ekber Allahu Ekber hala devam ediyor...",
+      "description": "\"Allahu Ekber Allahu Ekber hala devam ediyor...\" - The broadcast opens with a dramatic statement about an ongoing earthquake, followed by the presenter greeting the audience and introducing the date and the main topic of the news, which is the earthquake in Malatya.",
+      "end_pos": 98
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 98,
+      "start_sentence": "Malatya'da 5,9 büyüklüğünde bir deprem oldu...",
+      "description": "\"Malatya'da 5,9 büyüklüğünde bir deprem oldu...\" - This section contains detailed news content about the earthquake, including its magnitude, effects, and the response from the public and authorities. It discusses the panic it caused, the number of aftershocks, and the impact on buildings and schools.",
+      "end_pos": 1942
+    },
+    {
+      "type": "3. **OUTRO**",
+      "start_pos": 1942,
+      "start_sentence": "Şanlıurfa'da...",
+      "description": "\"Şanlıurfa'da...\" - The broadcast concludes with remarks about the situation in Şanlıurfa, summarizing the overall impact of the earthquake and possibly providing a closing statement, although the exact closing remarks are not fully visible in the provided text.",
+      "end_pos": 30942
+    }
+  ],
+  "news_segments_count": 6,
+  "economic_segments_count": 3,
+  "economic_segments": [
+    {
+      "segment_id": "98_0",
+      "method": "pattern_validated",
+      "confidence": 0.75,
+      "original_length": 141,
+      "filtered_length": 141,
+      "retention_ratio": 1.0,
+      "section_description": "\"Malatya'da 5,9 büyüklüğünde bir deprem oldu...\" - This section contains detailed news content about the earthquake, including its magnitude, effects, and the response from the public and authorities. It discusses the panic it caused, the number of aftershocks, and the impact on buildings and schools."
+    },
+    {
+      "segment_id": "98_1",
+      "method": "pattern_validated",
+      "confidence": 0.75,
+      "original_length": 122,
+      "filtered_length": 72,
+      "retention_ratio": 0.5901639344262295,
+      "section_description": "\"Malatya'da 5,9 büyüklüğünde bir deprem oldu...\" - This section contains detailed news content about the earthquake, including its magnitude, effects, and the response from the public and authorities. It discusses the panic it caused, the number of aftershocks, and the impact on buildings and schools."
+    },
+    {
+      "segment_id": "1942_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 286,
+      "filtered_length": 120,
+      "retention_ratio": 0.4195804195804196,
+      "section_description": "\"Şanlıurfa'da...\" - The broadcast concludes with remarks about the situation in Şanlıurfa, summarizing the overall impact of the earthquake and possibly providing a closing statement, although the exact closing remarks are not fully visible in the provided text."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

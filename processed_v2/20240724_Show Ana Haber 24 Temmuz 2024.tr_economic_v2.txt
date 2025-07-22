@@ -1,0 +1,45 @@
+# Economic Content from: 20240724_Show Ana Haber 24 Temmuz 2024.tr.txt
+# Processed: 2025-07-22T17:27:33.761826
+# Original: 2148 words → Filtered: 211 words (9.82% retention)
+# Economic segments: 3
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 98
+**Retention**: 100.00%
+
+000 liralık döviz çalan Hırsızlar
+dükkandan bile çıkamadan suçüstü yakalandı biri dışarıda gözcülük yaparken ikisi müşteri rolü
+üstlendi çetenin bu üyesi de para dolu kasaya Sürüne Sürüne böyle gitti o kasada küçük bir servet
+vardı 270 000 liralık dövizleri çalan Hırsızlar dükkandan çıkamadan faka bastı İzmit'teki bu
+parfümeri mağazasına gelen peçeli dört kadının amacı kasadaki paralarda kadınlardan biri dışarıda
+gözcülük yaptı Diğer üçü ise dükkana girdi ve dükkan sahibini oyalamaya başladı O sırada içeri giren
+kadınlardan bir tanesi suç ortağının kasaya lüm sürünerek ilerledi çekmecedeki Deste Deste paraları
+bulup aldı 5 500 do 2 000 euro ve 20
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 47
+**Retention**: 34.31%
+
+Özel üniversitelerin fiyatları geçtiğimiz yıla göre %150 zamlandı. Aileler, özel okulların fiyatlarını duyunca şoke oldu. İstanbul'da en köklü özel üniversitelerin lisans bölüm fiyatları 1 milyon liradan başlıyor. Ankara'da ise fiyatlar 600 bin liradan başlıyor. Bu durum, gençlerin üniversite tercihlerini etkileyen önemli bir ekonomik faktör olarak öne çıkıyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_final
+**Confidence**: 0.50
+**Word Count**: 66
+**Retention**: 51.97%
+
+Bunlar da eklendiğinde fiyatlar katlandıkça katlanıyor. Aileler ise şimdi kara kara ne yapacağını düşünüyor. İki sene okutup çocuğunu okuldan almak isteyenler olacak. Bu senenin 2 yıllık fiyatları geçen senenin 4 yıllık yani lisans programlarından daha pahalı. Daha ekonomik hem de en azından daha zanaat işi olduğu için çok çabuk daha iş bulma olanakları var. Her ailenin kendine göre bir bütçesi var, ona göre bir imkanı var.
+
+================================================================================
+

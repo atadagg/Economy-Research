@@ -1,0 +1,63 @@
+# Economic Content from: 20240821_Show Ana Haber 21 Ağustos 2024.tr.txt
+# Processed: 2025-07-22T17:31:03.270635
+# Original: 2579 words → Filtered: 339 words (13.14% retention)
+# Economic segments: 3
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 136
+**Retention**: 57.14%
+
+The filtered text focusing on economics, finance, and business is as follows:
+
+---
+
+Ekonomi verileri, istatistikler ve göstergeler üzerine yapılan tartışmalar, Türkiye'nin ekonomik durumu hakkında önemli bilgiler sunmaktadır. Hükümetin ekonomik politikaları, özellikle hazine yardımları ve bütçe dengesi açısından dikkat çekmektedir. Ekonomik analizler, piyasalardaki dalgalanmaların ve yatırımcıların davranışlarının arkasındaki nedenleri anlamak için kritik öneme sahiptir. 
+
+Finansal piyasalardaki gelişmeler, yatırımcıların kararlarını doğrudan etkilemektedir. Özellikle döviz kurları ve faiz oranları, ticaret ve yatırımlar üzerinde belirleyici bir rol oynamaktadır. Enflasyon oranları ve fiyat artışları, hanelerin alım gücünü etkileyerek ekonomik istikrarı tehdit edebilir. 
+
+Bankacılık sektörü ve kredi politikaları, ekonomik büyüme için önemli bir zemin oluşturmaktadır. Ticaret, ithalat ve ihracat verileri, ülkenin dış ekonomik ilişkilerini ve rekabet gücünü yansıtmaktadır. Uzman görüşleri, bu verilerin analiz edilmesi ve yorumlanması açısından büyük önem taşımaktadır. 
+
+---
+
+This version retains the economic context while removing unrelated content.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 58
+**Retention**: 100.00%
+
+000 kişi arttı adını taşıyan güzellik
+merkezlerinde de adeta bayram havası yaşanıyor sosyal ta Evet şçi sayıl adını taşıyan güzellik
+merkezinin şubelerinde kutlamaları Dilan Polat severler sosyal medyada coştu umuz her gün bugünü
+bekledim Her gün dua ettim önce Türk Adaletine Çok teşekkür ediyorum şükürler olsun çok mutluyuz
+inanılmaz mutluyuz Dilan Polat tahliye olduktan sonra bir günde 400
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 145
+**Retention**: 100.00%
+
+500 liraya mı sattı Evet evet 4050 liralık çakma külçe altın diye yutturdular emekli maaşını
+dolandırıcılara Kaptırdı kırmızı bir kesenin içindeydi emekli devlet memuru 64 yaşındaki adam yolda
+yürürken bir kişi onun yanına geldi ve ona adres sordu incikent Nerededir hangi bölgede falan dedim
+vallahi ben bilmiyorum Bir tane kırmızı tişörtlü geldi sordum abi dedi bunlarda dedi altın var dedi
+bu dedi İnci kenti değil kuyumcu kenti soruyor bunlarda külçe altın var sonradan gelen Aslında
+dolandırıcının suçu ortağıdır yaldız boyalı çakmağ külçe altın diye satıp Vurgun yapacaklardı Öyle
+de oldu emekli adam tuzağa düştü elimizdeki Çağ Aynı bunun bir uzunu Bunun maliyeti 94 000 dedi işte
+işte dolandırıcılar emekli devlet memuruna buna benzer külçe Görünümlü bir çakmak verdiler 94 000 L
+olduğunu söylediler ilk etapta ancak emekli devlet memuruna bunu 16 500 liraya sattılar elime attım
+cüzdanıma 350 dolar Bir de nakitim vardı yani 16
+
+================================================================================
+

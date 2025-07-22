@@ -1,0 +1,97 @@
+{
+  "file_path": "news/Show/20240604_Show Ana Haber 4 Haziran 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T17:16:18.230055",
+  "original_word_count": 2419,
+  "filtered_word_count": 187,
+  "retention_ratio": 0.07730467135179826,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "Şana haberden ii akşamlar sayın seyirciler",
+      "description": "\"Şana haberden ii akşamlar sayın seyirciler\" - The presenter introduces herself and the program, indicating the start of the news broadcast.",
+      "end_pos": 0
+    },
+    {
+      "type": "- **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "Şana haberden ii akşamlar sayın seyirciler",
+      "description": "\"Şana haberden ii akşamlar sayın seyirciler\" - The presenter introduces herself and the program, indicating the start of the news broadcast.",
+      "end_pos": 94
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 94,
+      "start_sentence": "Kayseri'de eğitim için havalanan uçak kaza kırıma uğradı",
+      "description": "\"Kayseri'de eğitim için havalanan uçak kaza kırıma uğradı\" - This section contains the main news story about a plane crash in Kayseri, detailing the incident, eyewitness accounts, and the aftermath.",
+      "end_pos": 94
+    },
+    {
+      "type": "- **NEWS**",
+      "start_pos": 94,
+      "start_sentence": "Kayseri'de eğitim için havalanan uçak kaza kırıma uğradı",
+      "description": "\"Kayseri'de eğitim için havalanan uçak kaza kırıma uğradı\" - This section contains the main news story about a plane crash in Kayseri, detailing the incident, eyewitness accounts, and the aftermath.",
+      "end_pos": 1566
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 1566,
+      "start_sentence": "Kurban Bayramı tatili 9 gün olur mu",
+      "description": "\"Kurban Bayramı tatili 9 gün olur mu\" - This brief transition introduces a new topic related to the upcoming Kurban Bayramı holiday, indicating a shift to another news story.",
+      "end_pos": 1566
+    },
+    {
+      "type": "- **TRANSITION**",
+      "start_pos": 1566,
+      "start_sentence": "Kurban Bayramı tatili 9 gün olur mu",
+      "description": "\"Kurban Bayramı tatili 9 gün olur mu\" - This brief transition introduces a new topic related to the upcoming Kurban Bayramı holiday, indicating a shift to another news story.",
+      "end_pos": 1662
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1662,
+      "start_sentence": "Cumhurbaşkanı Erdoğan'ın açıklamasında gözler",
+      "description": "\"Cumhurbaşkanı Erdoğan'ın açıklamasında gözler\" - This section continues with news about President Erdoğan's statements regarding holiday plans and financial matters for retirees, further elaborating on the implications of his announcements.",
+      "end_pos": 1662
+    },
+    {
+      "type": "5. **OUTRO**",
+      "start_pos": 1662,
+      "start_sentence": "Cumhurbaşkanı Erdoğan kabineyi beştepe'de kritik başlıklarla topladı",
+      "description": "\"Cumhurbaşkanı Erdoğan kabineyi beştepe'de kritik başlıklarla topladı\" - The closing remarks summarize the key points discussed in the broadcast, indicating the end of the program.",
+      "end_pos": 1662
+    },
+    {
+      "type": "- **NEWS**",
+      "start_pos": 1662,
+      "start_sentence": "Cumhurbaşkanı Erdoğan'ın açıklamasında gözler",
+      "description": "\"Cumhurbaşkanı Erdoğan'ın açıklamasında gözler\" - This section continues with news about President Erdoğan's statements regarding holiday plans and financial matters for retirees, further elaborating on the implications of his announcements.",
+      "end_pos": 1662
+    },
+    {
+      "type": "- **OUTRO**",
+      "start_pos": 1662,
+      "start_sentence": "Cumhurbaşkanı Erdoğan kabineyi beştepe'de kritik başlıklarla topladı",
+      "description": "\"Cumhurbaşkanı Erdoğan kabineyi beştepe'de kritik başlıklarla topladı\" - The closing remarks summarize the key points discussed in the broadcast, indicating the end of the program.",
+      "end_pos": 17113
+    }
+  ],
+  "news_segments_count": 6,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "1662_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 187,
+      "filtered_length": 187,
+      "retention_ratio": 1.0,
+      "section_description": "\"Cumhurbaşkanı Erdoğan kabineyi beştepe'de kritik başlıklarla topladı\" - The closing remarks summarize the key points discussed in the broadcast, indicating the end of the program."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

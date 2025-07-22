@@ -1,0 +1,16 @@
+# Economic Content from: ATV20240512_atv Ana Haber ｜ 12 Mayıs 2024.tr.txt
+# Processed: 2025-07-22T16:20:21.431041
+# Original: 4546 words → Filtered: 113 words (2.49% retention)
+# Economic segments: 1
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 113
+**Retention**: 56.78%
+
+Kurban bayramına bir ay kadar süre var henüz pazarlar kurulmadı ancak Anadolu'da besi çiftliklerinde kurban satışları hızlı bir şekilde devam ediyor. Büyükbaş kurbanlıkların fiyatı 70.000 liradan başlıyor, 200.000-250.000-300.000 liraya kadar yükseliyor. Bunun sebeplerinden bir tanesi hem Anadolu'dan İstanbul'a ulaşım nakliye ücretleri hem de çoban masrafları. Anadolu'daki çiftliklerde büyükbaş fiyatları 70.000 liradan başlarken, küçükbaşta fiyatlar 8.000 ila 20.000 lira arasında değişiyor. Fiyatların büyük şehirlerde nakliye masraflarının eklenmesiyle daha da yükselmesi bekleniyor. Tokat'ta bu düven fiyatı 150.000 lira, bu düveni buradan İstanbul'a götürdüğümüzde fiyatı 200.000 lira olacak. Bu çiftlikte 250 adet büyükbaş kurbanlık bulunuyor ve henüz bir ay var, ancak şu ana kadar kurbanlıkların yarısı satılmış durumda. Fiyatlar farklılaşır. Müşterilerimizin taleplerini doğrultusunda hisse alımları yapıyorlar.
+
+================================================================================
+

@@ -1,0 +1,62 @@
+{
+  "file_path": "news/AHaber/20241222_Türkiye Ve İsrail Suriye'de Çatışır Mı？ Uzman İsimler A Haber Ekranlarında Değerlendirdi l A Haber.tr.txt",
+  "processing_timestamp": "2025-07-22T15:47:13.180032",
+  "original_word_count": 18714,
+  "filtered_word_count": 172,
+  "retention_ratio": 0.00919098001496206,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "İyi geceler değerli izleyenler A Haber ve A Haber radyo ortak yayınında gece ajansına Hoş geldiniz",
+      "description": "\"İyi geceler değerli izleyenler A Haber ve A Haber radyo ortak yayınında gece ajansına Hoş geldiniz\" - This section serves as the opening of the broadcast, welcoming viewers and introducing the program.",
+      "end_pos": 591
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 591,
+      "start_sentence": "Eee çok önemli gelişmeler var paylaşacağız Eee Mazlum ABD'nin çok önemli bir açıklaması var PKK ifadesini kullandı bir itiraf niteliğindeydi birazdan ekranlara getireceğiz o açıklamaların ayrıntılarını",
+      "description": "\"Eee çok önemli gelişmeler var paylaşacağız Eee Mazlum ABD'nin çok önemli bir açıklaması var PKK ifadesini kullandı bir itiraf niteliğindeydi birazdan ekranlara getireceğiz o açıklamaların ayrıntılarını\" - This section contains the main news content, discussing significant developments regarding Syria and the PKK, including details about military operations and statements from various experts.",
+      "end_pos": 783
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 783,
+      "start_sentence": "Ama önce münbiç'te PKK'lı teröristler Kaçarken bombalı tuzak kurdu o tuzakları A haber muhabiri Sinan Yılmaz ve kameramanı Serhat destanoğlu görüntüledi ekrana ayrıntılarını getirelim",
+      "description": "\"Ama önce münbiç'te PKK'lı teröristler Kaçarken bombalı tuzak kurdu o tuzakları A haber muhabiri Sinan Yılmaz ve kameramanı Serhat destanoğlu görüntüledi ekrana ayrıntılarını getirelim\" - This brief transition introduces a specific news story about PKK terrorists and sets up the following report.",
+      "end_pos": 971
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 971,
+      "start_sentence": "kameraman arkadaşım senat destanoğlu ile beraber Fırat'ın batısında işte burası münbiç bölgesi en büyük terör yuvalarından Sadece biri",
+      "description": "\"kameraman arkadaşım senat destanoğlu ile beraber Fırat'ın batısında işte burası münbiç bölgesi en büyük terör yuvalarından Sadece biri\" - This section continues with detailed news content, providing information about the situation in the Münbiç region, including military operations and the presence of explosives.",
+      "end_pos": 1258
+    },
+    {
+      "type": "5. **NEWS**",
+      "start_pos": 1258,
+      "start_sentence": "Tabii PKK YPG'li teröristler bölgeden Kaçarken arazilere ve tünellere mayın yerleştirdiler patlayıcı maddeleri tuzakladığı bir köy",
+      "description": "\"Tabii PKK YPG'li teröristler bölgeden Kaçarken arazilere ve tünellere mayın yerleştirdiler patlayıcı maddeleri tuzakladığı bir köy\" - This part further elaborates on the news story, discussing the actions of the PKK and the implications for the region.",
+      "end_pos": 127960
+    }
+  ],
+  "news_segments_count": 8,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "1258_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 172,
+      "filtered_length": 172,
+      "retention_ratio": 1.0,
+      "section_description": "\"Tabii PKK YPG'li teröristler bölgeden Kaçarken arazilere ve tünellere mayın yerleştirdiler patlayıcı maddeleri tuzakladığı bir köy\" - This part further elaborates on the news story, discussing the actions of the PKK and the implications for the region."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

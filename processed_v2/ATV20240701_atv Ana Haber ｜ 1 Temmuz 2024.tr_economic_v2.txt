@@ -1,0 +1,29 @@
+# Economic Content from: ATV20240701_atv Ana Haber ｜ 1 Temmuz 2024.tr.txt
+# Processed: 2025-07-22T16:52:31.899733
+# Original: 4652 words → Filtered: 139 words (2.99% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 109
+**Retention**: 44.31%
+
+Pazartesi AK Parti'nin 541 Belediye başkanıyla yaptığı Kızılca Hamam kampında Cumhurbaşkanı Erdoğan, CHP'li Belediyelerde ortaya çıkan işçi kıyımları ve zam tablosunu gözler önüne serdi. Erdoğan, "Kendi partilileri bile isyan etmeye başladı" diyerek, muhalefet belediyelerinde vaatlerin yerini zamların aldığını vurguladı. 31 Mart yerel seçimlerinin üzerinden geçen 92 günde CHP'li Belediyelerde ortaya çıkan tabloyu bu sözlerle özetledi ve ekledi: "Düne kadar seçim kazanmak için hesapsızca atıp tutanlar, bakıyorsunuz bugün ekmekten suya ellerinin altındaki her şeye zam yapıyorlar." 
+
+Bu süreçte sadece bir kesime verdikleri sözlere sadık kalıyorlar. Ekonomik veriler ve istatistikler, muhalefet belediyelerinin mali yönetimindeki sorunları ortaya koyuyor. Erdoğan, "Bu tarz bir siyaseti asla kabul etmiyoruz" diyerek, ekonomik istikrarın önemine dikkat çekti.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 30
+**Retention**: 41.10%
+
+Lal kiranın 16,000 lira çıkma ihtimali var. Enflasyon oranı tek rakamlara bir yıl içerisinde düştüğü zaman, bir yıl sonra %25'in altında bir kira artışı görebiliriz. Bu şekilde bir gösterge sağlayabilir.
+
+================================================================================
+

@@ -1,0 +1,115 @@
+{
+  "file_path": "news/Show/20240506_Show Ana Haber 6 Mayıs 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T17:33:42.593285",
+  "original_word_count": 2475,
+  "filtered_word_count": 230,
+  "retention_ratio": 0.09292929292929293,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 3,
+      "start_sentence": "İyi akşamlar sayın seyirciler",
+      "description": "\"İyi akşamlar sayın seyirciler\" - The presenter introduces herself and sets the stage for the news broadcast, mentioning the topics to be covered.",
+      "end_pos": 3
+    },
+    {
+      "type": "- **INTRO**",
+      "start_pos": 3,
+      "start_sentence": "İyi akşamlar sayın seyirciler",
+      "description": "\"İyi akşamlar sayın seyirciler\" - The presenter introduces herself and outlines the main topics of the news broadcast.",
+      "end_pos": 190
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 190,
+      "start_sentence": "Cumhurbaşkanı Erdoğan kabinesini kritik başlıklarla topladı",
+      "description": "\"Cumhurbaşkanı Erdoğan kabinesini kritik başlıklarla topladı\" - This section contains the main news content, discussing various topics such as the cabinet meeting, economic developments, and political responses.",
+      "end_pos": 190
+    },
+    {
+      "type": "- **NEWS**",
+      "start_pos": 190,
+      "start_sentence": "Cumhurbaşkanı Erdoğan kabinesini kritik başlıklarla topladı",
+      "description": "\"Cumhurbaşkanı Erdoğan kabinesini kritik başlıklarla topladı\" - This section covers the main news stories, including cabinet meetings, economic issues, and political developments.",
+      "end_pos": 1156
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 1156,
+      "start_sentence": "şimdi gözler cumhurbaşkanında",
+      "description": "\"şimdi gözler cumhurbaşkanında\" - A brief transition phrase indicating a shift in focus to the next news topic regarding the President's upcoming meeting.",
+      "end_pos": 1156
+    },
+    {
+      "type": "- **TRANSITION**",
+      "start_pos": 1156,
+      "start_sentence": "şimdi gözler cumhurbaşkanında",
+      "description": "\"şimdi gözler cumhurbaşkanında\" - A brief transition indicating a shift to the next topic regarding the President's upcoming meeting.",
+      "end_pos": 1249
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1249,
+      "start_sentence": "Özgür Özel Erdoğan'ın siyaset yumuşama dönemine girdi sözlerine yanıt verdi",
+      "description": "\"Özgür Özel Erdoğan'ın siyaset yumuşama dönemine girdi sözlerine yanıt verdi\" - Continuation of the news content, focusing on political reactions and statements from various leaders.",
+      "end_pos": 1249
+    },
+    {
+      "type": "- **NEWS**",
+      "start_pos": 1249,
+      "start_sentence": "Özgür Özel Erdoğan'ın siyaset yumuşama dönemine girdi sözlerine yanıt verdi",
+      "description": "\"Özgür Özel Erdoğan'ın siyaset yumuşama dönemine girdi sözlerine yanıt verdi\" - Continuation of news content focusing on political responses and statements from leaders.",
+      "end_pos": 1735
+    },
+    {
+      "type": "5. **OUTRO**",
+      "start_pos": 1735,
+      "start_sentence": "Deniz Gezmiş Yusuf Aslan ve Hüseyin İnan'ı anma programına katıldı",
+      "description": "\"Deniz Gezmiş Yusuf Aslan ve Hüseyin İnan'ı anma programına katıldı\" - The closing remarks that summarize the events and provide a final note on the political activities discussed.",
+      "end_pos": 1735
+    },
+    {
+      "type": "- **OUTRO**",
+      "start_pos": 1735,
+      "start_sentence": "Deniz Gezmiş Yusuf Aslan ve Hüseyin İnan'ı anma programına katıldı",
+      "description": "\"Deniz Gezmiş Yusuf Aslan ve Hüseyin İnan'ı anma programına katıldı\" - Closing remarks summarizing the discussed events and political activities.",
+      "end_pos": 17540
+    }
+  ],
+  "news_segments_count": 8,
+  "economic_segments_count": 3,
+  "economic_segments": [
+    {
+      "segment_id": "190_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 118,
+      "filtered_length": 65,
+      "retention_ratio": 0.5508474576271186,
+      "section_description": "\"Cumhurbaşkanı Erdoğan kabinesini kritik başlıklarla topladı\" - This section covers the main news stories, including cabinet meetings, economic issues, and political developments."
+    },
+    {
+      "segment_id": "1735_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 103,
+      "filtered_length": 46,
+      "retention_ratio": 0.44660194174757284,
+      "section_description": "\"Deniz Gezmiş Yusuf Aslan ve Hüseyin İnan'ı anma programına katıldı\" - Closing remarks summarizing the discussed events and political activities."
+    },
+    {
+      "segment_id": "1735_5",
+      "method": "simple_final",
+      "confidence": 0.5,
+      "original_length": 119,
+      "filtered_length": 119,
+      "retention_ratio": 1.0,
+      "section_description": "\"Deniz Gezmiş Yusuf Aslan ve Hüseyin İnan'ı anma programına katıldı\" - Closing remarks summarizing the discussed events and political activities."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

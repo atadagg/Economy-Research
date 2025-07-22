@@ -1,0 +1,35 @@
+# Economic Content from: 20240614_Show Ana Haber 14 Haziran 2024.tr.txt
+# Processed: 2025-07-22T17:53:18.324986
+# Original: 3284 words → Filtered: 181 words (5.51% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 66
+**Retention**: 35.48%
+
+Kurban kesmek bu sene her zamankinden daha zor çünkü besicinin maliyeti çok arttı. Hal böyle olunca, Fatih'te bir besici, dışarıda 16,000 lira olan kurbanlığı 10,000 liraya satıyor. Yem fiyatı ve yer kiralama gibi masrafları kısıtlayarak sürümden kazanıyorlar. İstanbul'da bu kurban pazarında en ucuz kurbanlık fiyatları 6,000 liradan 16,000 liraya kadar değişiyor. Fiyatlar, çoğu yere göre oldukça makul ve uygun. Dışarıda benzeri kurbanlıkların fiyatı yaklaşık 20,000 lira.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_final
+**Confidence**: 0.50
+**Word Count**: 115
+**Retention**: 33.63%
+
+The filtered text focusing on economics, finance, and business is as follows:
+
+---
+
+2022 yılında ben bu evin temelini kazmaya başladım defalarca dilekçe yazdım. İnşaat tamamlandı ama iki yıldır o kablolar kaldırılmadı. Birkaç defa geldiler baktılar ölçtüler biçtiler. Hatta ben direklerin yerlerini de gösterdim onlara ama halen daha gelmediler. İki yıldan beri bekliyorum. İddialara göre mazeretlerin ardı arkası kesilmedi. Bu uluslararası fiber kablo olduğu için bu kabloyu kaldıramıyorlar. İşin ucunda para cezası da olunca kardeşlerin eli kolu bağlandı. Şimdi ben bu kabloyu kesip atamıyorum, kesip atsam bir araba parası cezası var.
+
+--- 
+
+This version retains the economic context regarding construction, legal issues related to infrastructure, and the financial implications of penalties, while removing unrelated content.
+
+================================================================================
+

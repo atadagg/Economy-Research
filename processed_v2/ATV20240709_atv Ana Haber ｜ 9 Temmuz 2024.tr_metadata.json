@@ -1,0 +1,48 @@
+{
+  "file_path": "news/ATV/ATV20240709_atv Ana Haber ｜ 9 Temmuz 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T16:01:34.047568",
+  "original_word_count": 4578,
+  "filtered_word_count": 70,
+  "retention_ratio": 0.01529051987767584,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 23,
+      "start_sentence": "İyi akşamlar Bugün 9 Temmuz 2024 salı...",
+      "description": "\"İyi akşamlar Bugün 9 Temmuz 2024 salı...\" - The opening of the broadcast where the presenter greets the audience and introduces the date and context of the program.",
+      "end_pos": 75
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 75,
+      "start_sentence": "Cumhurbaşkanı Erdoğan NATO liderler zirvesi için Washington'a gitti...",
+      "description": "\"Cumhurbaşkanı Erdoğan NATO liderler zirvesi için Washington'a gitti...\" - The main content of the news broadcast, detailing President Erdoğan's visit to the NATO summit, his statements regarding terrorism, and the situation in Gaza, among other topics.",
+      "end_pos": 1736
+    },
+    {
+      "type": "3. **OUTRO**",
+      "start_pos": 1736,
+      "start_sentence": "Kuzey Kıbrıs Türk Cumhuriyeti bizim nezdimizde zaten Türk devletlerinin tam üyesi k...",
+      "description": "\"Kuzey Kıbrıs Türk Cumhuriyeti bizim nezdimizde zaten Türk devletlerinin tam üyesi k...\" - The closing remarks of the broadcast, summarizing key points and providing a final statement before ending the program.",
+      "end_pos": 32651
+    }
+  ],
+  "news_segments_count": 5,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "75_0",
+      "method": "pattern_validated",
+      "confidence": 0.75,
+      "original_length": 123,
+      "filtered_length": 70,
+      "retention_ratio": 0.5691056910569106,
+      "section_description": "\"Cumhurbaşkanı Erdoğan NATO liderler zirvesi için Washington'a gitti...\" - The main content of the news broadcast, detailing President Erdoğan's visit to the NATO summit, his statements regarding terrorism, and the situation in Gaza, among other topics."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

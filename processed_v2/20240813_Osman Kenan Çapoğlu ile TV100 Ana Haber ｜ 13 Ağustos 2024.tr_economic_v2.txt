@@ -1,0 +1,126 @@
+# Economic Content from: 20240813_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 13 Ağustos 2024.tr.txt
+# Processed: 2025-07-22T18:16:05.431022
+# Original: 11052 words → Filtered: 788 words (7.13% retention)
+# Economic segments: 10
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 64
+**Retention**: 33.33%
+
+İstanbul gibi büyük şehirlerde konut krizi kapıya dayandı. Hal böyle olunca zaten yüksek olan kira bedelleri Sonbaharda katlanarak artacak. Emlak piyasasında tahminler %120'lik bir artış gerçekleşirse ortalama kira 2,600 liraya çıkacak. Ancak %30'luk bir artış gerçekleşmesi durumunda aylık kiralar ortalama 30,000 lirayı bulacak. Tek neden düğün sezonu, atamalar ya da öğrenci yerleştirmeleri değil; konut stoğunda artan maliyetler nedeniyle yetersiz kalması da önemli bir etken.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 92
+**Retention**: 47.18%
+
+Kısa vadede tavsiye, kiracıların mevcut kontratlarını uzatması. Uzun vadede çözümse dar gelirliler için konut stoğunun artırılması, hazine arazilerinin çeşitli inşaat firmalarına kat karşılığı verilerek kiralama amaçlı konut üretiminin yapılması en hızlı çözüm gibi duruyor. 
+
+Özel okullarda eğitim kalitesi, öğrencilerin geleceği açısından önemli bir konu. Ancak birçok özel okulun tek gündemi daha fazla para elde edebilmek. Fahiş fiyat furyasına son vermek için servis ücretleriyle ilgili bir karar çıktı; zam oranı %166 olarak belirlendi. Okul ücretlerinde de %60 oranında bir artış söz konusu. Bu durum, eğitim maliyetlerinin artmasına ve ailelerin bütçelerini zorlamasına neden oluyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 55
+**Retention**: 58.51%
+
+The filtered text focusing on economics, finance, and business is as follows:
+
+Özel okullarda o karar dinlenmiyor, geçtiğimiz yıla göre % 180 hatta daha fazla zam yapanlar var. Veliler çaresiz, öğrencilerini o okula yazdırmışlar. En düşük servis ücreti mesafe en kısa mesafede 70.000 L. Normal servis ücretimiz 23.000 L'dir, ama servis rehber ücretimiz işte 40.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 91
+**Retention**: 49.73%
+
+UKOME servis ücretlerine % 116 oranında zam yapmıştı. Ancak birçok özel okul UKOME kararını dinlemedi ve 2,000 olan en kısa mesafe ücretini 7,000 liraya bile çıkaran özel okullar var. Veliler ciddi şekilde mağdur ediliyor ve bu alt sınırın yerine neredeyse üç katı rakamlar teklif edilebiliyor. Servis ücretleri zaten bizim masraflarımızı bayağı artırdı ve çok pahalı hale geldi. Bu durum, haksız rekabet oluşturacak biçimde yüksek fiyatların belirlenmesine neden oluyor. Yeni eğitim yılı için servis ücretleri UKOME toplantısında belli oldu; en kısa mesafe yıllık 23,000 L, en uzun mesafe ise 55,000 L oldu.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 103
+**Retention**: 52.28%
+
+Kiralar ve ev maliyetleri çok fazla olduğu için bu Yurdu tercih ettim. İstanbul'da okuyacak olanlar için uygun fiyatlı kiralık ev bulmak zor; fiyatlar ilçeden ilçeye değişiyor. Beşiktaş'ta ikisi oda salon ortalama 70-80 metrekare bir evin fiyatı 25 ile 30,000 TL aralığında değişiyor. Öğrenciler Beşiktaş'tan sonra en çok Şişli, Fatih ve Kadıköy'ü tercih ediyor. İstanbul'da merkezi konumdaki ilçelerle üniversite kampüslerine yakın semtlerde kiralar 20,000 TL arasında. En uygun ilçe ise Avcılar ve Esenyurt; Avcılar'da 10,000 ile 20,000 TL aralığında ev bulmak mümkün. Kiralık ev fiyatları bütçesini aşanlar özel yurtlara yöneliyor; orada da geçen yıla göre %60'a varan bir artış var. Fiyatlar 8,000 TL'den başlıyor.
+
+================================================================================
+
+## Economic Segment 6
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 60
+**Retention**: 54.05%
+
+Özel yurt fiyatlarında Avcılar ve Zeytinburnu ilçelerinde ortalama fiyatlar % 40 ila % 60 oranında arttı. Bu maliyetlere göre daha düşük bir oranda bir artış gerçekleşiyor. Ancak alım gücü ile ilgili kıyasladığımızda, geçen yıl 345 ile 570 lira arasında bir fiyat ödeyen öğrenciler, bu yılki fiyatların önümüzdeki günlerde belirleneceğini görüyor. Bu durum, ekonomik koşulların ve fiyat artışlarının etkisini ortaya koyuyor.
+
+================================================================================
+
+## Economic Segment 7
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 61
+**Retention**: 50.83%
+
+Ev fiyatları, evin boyutuna göre değişiklik gösteriyor ve bu durum, özellikle yüksek fiyatlar nedeniyle alıcıları düşündürüyor. Temizlik hizmetlerinin maliyeti de ev alımını etkileyen bir faktör haline gelmiş durumda. Çalışanlar, temizlik için harcama yapmanın zorlayıcı olduğunu ifade ediyor. Bu nedenle, birçok kişi ev temizliğini kendileri yapmayı tercih ediyor. Ancak, bu durumun ekonomik yükü, özellikle yüksek yaşam maliyetleriyle birleşince, alım gücünü olumsuz etkiliyor.
+
+================================================================================
+
+## Economic Segment 8
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 102
+**Retention**: 100.00%
+
+000 liranın altına temizliğe gelen
+kalmadı O parayı vermek istemeyenler de iş başa düştü dedi çareyi izin günlerinde gezerek ya da
+dinlenerek değil evde temizlik yaparak geçirmekte buldu kalit Vakit geçiremiyorum akşamdan saat 2
+saat Yemek faslı Yemek faslı temizlik Faslı E tabii ki çocuklarla pek ayıramıyorum yaşlı hasta anne
+baba olunca çalışan bir insan olunca mecburen çağırıyor çağırmak zorunda kalıyoruz Kendimiz de
+yapıyoruz kesinlikle evin metrekaresi ve taleplere göre de fiyatlar değişiyor Örneğin temizliğe ek
+ütü istendiğinde fiyat Daha da artıyor çalışmayıp temizliğini evde kendi yapanlara farklı düşünceye
+sahip fiyat yüksek olsaydı ben de kendim yapardım evde yani zorlansa da 2
+
+================================================================================
+
+## Economic Segment 9
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 87
+**Retention**: 47.80%
+
+Manisa'da çiftçiler, tarlada karpuz ve kavun için kilo başı 50 kuruşluk yaklaşık bir teklif aldılar. 600 ton mahsulleri vardı ve bu mahsulü elde edebilmek için 1,5 milyon lira harcadılar. Kendilerine o mahsul karşılığında 300.000 lira teklif edildi. Ancak çiftçiler, karpuz ve kavuna biçilen ücreti beğenmedi ve satmak yerine halka ücretsiz dağıttı. 600 ton meyve saatler içinde kapış kapış gitti. Üç ortak, Manisa Salihli ilçesinde 220 dönüm alana kavun ve karpuz ekti ve yaklaşık 1,5 milyon lira masraf etti. Karpuz ve kavunların hasat vakti gelince durum alıcılara bildirildi.
+
+================================================================================
+
+## Economic Segment 10
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 73
+**Retention**: 38.02%
+
+Verdi kilo başı 2 lira etmiyordu. Üç ortak da ürünlerini bu fiyata satmak istemedi, onun yerine halka ücretsiz dağıtmaya karar verdi. Tarım Bakanlığı, balıkçılık için hamsi avına kota getirdi. Balıkçılar, 400.000 ton hamsiden fazlasını tutamayacak. Eğer tutarlarsa cezası var. Hamsi avına kota getirilmesi, balıkçılık üretiminin %60'ını kapsayan bir düzenleme olarak öne çıkıyor. Tarım ve Orman Bakanlığı ile balıkçılar, gelecek nesillere hamsi aktarabilmek için harekete geçti. Hamsinin toplam avlanabilir miktarı 400 ton olarak belirlendi.
+
+================================================================================
+

@@ -1,0 +1,27 @@
+# Economic Content from: ATV20240821_atv Ana Haber ｜ 21 Ağustos 2024.tr.txt
+# Processed: 2025-07-22T16:44:19.121012
+# Original: 4969 words → Filtered: 154 words (3.10% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 74
+**Retention**: 43.27%
+
+Çalışan anne ve babalar kara kara düşünüyor. Anaokul ve kreş fiyatları, geçen yıla göre %150'ye varan zamlarla artış gösterdi. Geçen yıl 7.000 lira olan aylık anaokul ücreti şu an 20.000 lira seviyesine ulaştı. Çocuk büyüdükçe masraflar da artıyor; eğitim masrafları 20.000 ile 30.000 lira arasında değişiyor. Kreş ve bakıcı fiyatları o kadar yüksek ki, aileler evde kalmayı düşünmek zorunda kalıyor. Bakıcının aylık maliyeti ise 45.000 lira civarında. Aileler, bu artışlar karşısında zor durumda kalıyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 80
+**Retention**: 65.04%
+
+Bu sene özel anaokullarında fiyatlar 17 ile yaklaşık 35 arasında değişiyor. Şu anda KDV ile beraber bir anaokulunun yıllık fiyatı 376,000 TL olarak belirlenmiş. Üsküdar'da yarım gün bir kreşin peşinatı ise 4,000 TL. İşletmeler, denetime takılmamak için yıllık 35,000 TL kırtasiye masrafı talep ediyor. Toplam masraf bir yıl için 288,000 TL'yi buluyor, bu da aylık ortalama 28,000 TL'ye denk geliyor. Aileler, bu yüksek fiyatlar nedeniyle kara kara düşünüyor. Fiyatlarımız 3 yaş grubu için 20,000 TL ile 30,000 TL arasında değişiyor.
+
+================================================================================
+

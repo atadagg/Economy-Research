@@ -1,0 +1,32 @@
+# Economic Content from: 20241009_Erdoğan Aktaş ile tv100 Ana Haber ｜ 9 Ekim 2024.tr.txt
+# Processed: 2025-07-22T18:27:07.876308
+# Original: 8586 words → Filtered: 206 words (2.40% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: hybrid_fallback
+**Confidence**: 0.60
+**Word Count**: 79
+**Retention**: 100.00%
+
+önemli gelişmeler var savaşlar sürüyor İsrail katliamı da devam ediyor Türkiye'de de E çok önemli
+bir operasyonla beyrut'taki vatandaşlarını tahliye etti gerçekten dünyada eşine az rastlanır
+operasyonlardan biriydi bir süre önce sanıyorum 2009 yılıydı Libya'da da benzer bir Eee tahliye
+gerçekleştirildi öte yandan gündemimizde başka konular var kadına ve çocuğa yönelik şiddetin
+ardından gelen tartışmalar ve bununla ilgili olarak hukuki tartışmalar ve hukuki gelişmeler de var
+Bu konuda yapılan açıklamalarda gündemin diğer madd günü Gündemi ve hayatı paylaşmak için
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 127
+**Retention**: 63.82%
+
+Enflasyon her geçen ay biraz daha düşüyor. Öte yandan, 2024 yılı yıllık enflasyon beklentisi de %40. Enflasyondaki düşüş, emekli maaşlarını da etkiliyor. Asyon düştükçe, 2024 yılında emekli olmak daha avantajlı hale geliyor. E-devletin de bu sene emeklinin almış olduğu oran kadar zammı alıp e-devlet sistemine yansıdığı 18,600 lira var. Ancak, 1 Ocak'ta başvuru yaparsa 14,300 lira alacaklar; kayıpları 4,300 lira olacak. 31 Aralık ile 1 Ocak arasındaki maaş farkını ortaya koyacak güzel bir örnek var. Mesela, personel 31 Aralık'ta emekli maaşı için başvuru yaptı; alacağı rakam 20,000 lira. Ancak, sadece bir gün sonra yani 1 Ocak'ta başvuru yaparsa alacağı rakam 15,000 lira. Sadece bir günde kazancınız ya da kaybınız 5,000 lira olmuş oluyor. Şu anda 27,90 lira olan bir rakam, 1 Ocak'a kalırsa 2,450 lira fark yaratacak.
+
+================================================================================
+

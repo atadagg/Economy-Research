@@ -1,0 +1,54 @@
+# Economic Content from: 20250125_Konya'da Bina Çöktü! İşte Enkaz Altında Kaydedilen Görüntüler! ｜ A Haber.tr.txt
+# Processed: 2025-07-22T15:37:46.743395
+# Original: 26497 words → Filtered: 387 words (1.46% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 78
+**Retention**: 100.00%
+
+sonuçlanmaz
+Çünkü daha Bolu'da yaşanan o yangın faciasının izleri silinmeden acısı dinmeden Maalesef bu kez bir
+yıkım haberi Konya'dan geldi Konya'da bulunan 3 katlı giriş katıyla birlikte toplamda 4 katlı bir
+bina çöktü iki kişi binadan sağ kurtuldu hala içeride 5 kişinin olduğu tahmin ediliyor ve o be
+kişiyi arama kurtarma çalışmaları devam ediyor işte o binanın çökme anı Hemen giriş katta dükkanlar
+bulunuyor Ve onun üzerinde de toplamda 3 kat top 14 daire bulunduğu ifade ediliyor görüntülere
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 309
+**Retention**: 100.00%
+
+yansıyan da bu şekilde ve binanın içerisinde hala 5 kişinin olduğu tahmin ediliyor İşte bölgede AFAD
+ekipleri arama kurtarma çalışmalarını aralıksız bir şekilde sürdürüyor Geride bıraktığımız
+dakikalarda da arkadaşlarımız olay yerinden son bilgileri bizlerle paylaştılar 20 05 de 112'ye bir
+çağrı ulaşıyor ve bunun üzerine hemen AFAD ekipleri 10 dakikada bölgeye intihal ediyorlar işte Şu
+anda da AFAD koordinesinde bölgede arama kurtarma çalışmaları devam ediyor tekrar ifade edelim 1994
+yılında İskan almış bir binadan bahsediyoruz binayla ilgili herhangi bir kentsel dönüşüm çalışması
+yok binayla ilgili böyle bir talep de zaten söz konusu olmadığı ifade edildi yetkililer tarafından
+ve binanın giriş katından gelen sesler Üzerine de özellikle binadaki dükkandaki bazı kişilerin
+Zillere basıp vatandaşları binada yaşayanları bina sakinlerini uyarmaya çalıştığı ifade ediliyor ki
+bunun üzerine de zaten Muhtemelen hemen refüjde refüjü ortasında çekilmiş bir görüntü var İşte o
+görüntüde büyük bir yıkımın gerçekleştiği görülüyor bina tamamen yerle bir olmuş durumda Aslında
+internet üzerinden o görüntülere baktığımızda binanın altında bir fırının olduğu Hatta bacasının da
+olduğu görülüyor yine bir kaynakçı var metal işleriyle uğraşan bir iş yeri var yine bir motor
+tamircisinin olduğunu görüyorum o fotoğrafta ama bir taş fırın ibaresi de işte görüntülere de
+yansıyor ama binada özellikle balkon kısımlarında bazı kolon kısımlarında yer yer döküntülerin
+olduğu da dikkatlerden kaçmıyor tekrar ifade edelim yaklaşık 4 saat önce işte o 4 katlı bina bu
+şekilde yerle bir oldu tabii neden gerçekleştiği konusunda şu an sadece iddialar söz konusu bir
+kolon kesme mi söz konusuydu yoksa binayla ilgili etrafta yürütülen çalışmalar mı buna neden oldu
+tabii bilinmiyor ama şu an öncelikte olan enkazda bulunduğu tahmin edilen 5 kişinin kurtarılması
+İşte bunun için de arama kurtarma ekipleri Yaklaşık 4 saattir çalışmalarını aralıksız bir şekilde
+sürdürüyor şu dakikalarda da işte bölgeden gelen o canlı görüntülerde de ekranlarınıza yansıyor
+onlarca personel seferber olmuş durumda olayla ilgili ilk açıklamayı İçişleri Bakanı Ali Yerlikaya
+yaptığı e 20
+
+================================================================================
+

@@ -1,0 +1,27 @@
+# Economic Content from: ATV20240621_atv Ana Haber ｜ 21 Haziran 2024.tr.txt
+# Processed: 2025-07-22T16:39:51.873092
+# Original: 4758 words → Filtered: 174 words (3.66% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 110
+**Retention**: 57.89%
+
+Maaş alan bir emeklinin alacağı zamla ilgili yapılan hesaplamalar, ekonomik verilerin önemini ortaya koyuyor. Uzmanların tahminlerine göre, 6 aylık enflasyon oranı yaklaşık %25,3 civarında gerçekleşecek. Eğer %35'lik bir zam yapılırsa, 15.000 lira olan bir emekli maaşı 20.500 lira olacak. %40 zam yapılması durumunda ise bu maaş 22.000 liraya yükselecek. Düşük emekli maaşları alanlar için de özel bir çalışma yapılıyor; enflasyon farkının yansıtılması ve seyyanen zam gündemde. Geçtiğimiz Ocak ayında 7.500 lira olan kök maaş 10.000 liraya çıkarılmıştı. Uzmanlar, kök maaşa öncelikli olarak bir seyyanen zam yapılmasını ve ardından enflasyon farkının bu kök maaşa yansıtılmasını bekliyor. Eğer %25-30 civarında bir 6 aylık enflasyon çıkarsa, bu durum emekli maaşlarının artışını doğrudan etkileyecek.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 64
+**Retention**: 57.14%
+
+Ocak ayında % 11.6 oranında bir refah payı oluşmuştu. Şu anda da bir refah payı beklentisi var hem vatandaşta hem emeklilerde. Evet, şu andaki refah payı beklentimiz % ile % puan arasında bir refah payı beklentimiz var. 6 aylık enflasyon verileri memur ve memur emeklisini alacağı zammı da belirliyor. 3 Temmuz'da açıklanacak Haziran ayı enflasyon verisiyle artık emekliler için zam oranı da netleşmiş olacak.
+
+================================================================================
+

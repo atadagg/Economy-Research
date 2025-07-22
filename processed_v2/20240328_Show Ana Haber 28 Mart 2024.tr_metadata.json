@@ -1,0 +1,66 @@
+{
+  "file_path": "news/Show/20240328_Show Ana Haber 28 Mart 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T17:25:44.719459",
+  "original_word_count": 2298,
+  "filtered_word_count": 275,
+  "retention_ratio": 0.11966927763272411,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 3,
+      "start_sentence": "İyi akşamlar sayın seyirciler",
+      "description": "\"İyi akşamlar sayın seyirciler\" - The presenter introduces herself and the program, indicating the start of the news broadcast.",
+      "end_pos": 97
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 97,
+      "start_sentence": "EYT düzenlemesi için konuşan Cumhurbaşkanı Erdoğan",
+      "description": "\"EYT düzenlemesi için konuşan Cumhurbaşkanı Erdoğan\" - The main content of the broadcast, discussing various political developments, statements from President Erdoğan, and election-related news.",
+      "end_pos": 1672
+    },
+    {
+      "type": "3. **OUTRO**",
+      "start_pos": 1672,
+      "start_sentence": "Ve seçmene sandık çağrısı yaptı",
+      "description": "\"Ve seçmene sandık çağrısı yaptı\" - The closing remarks that summarize the key messages and provide a final call to action for the viewers.",
+      "end_pos": 16190
+    }
+  ],
+  "news_segments_count": 6,
+  "economic_segments_count": 3,
+  "economic_segments": [
+    {
+      "segment_id": "97_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 207,
+      "filtered_length": 73,
+      "retention_ratio": 0.3526570048309179,
+      "section_description": "\"EYT düzenlemesi için konuşan Cumhurbaşkanı Erdoğan\" - The main content of the broadcast, discussing various political developments, statements from President Erdoğan, and election-related news."
+    },
+    {
+      "segment_id": "1672_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 79,
+      "filtered_length": 79,
+      "retention_ratio": 1.0,
+      "section_description": "\"Ve seçmene sandık çağrısı yaptı\" - The closing remarks that summarize the key messages and provide a final call to action for the viewers."
+    },
+    {
+      "segment_id": "1672_4",
+      "method": "simple_final",
+      "confidence": 0.5,
+      "original_length": 205,
+      "filtered_length": 123,
+      "retention_ratio": 0.6,
+      "section_description": "\"Ve seçmene sandık çağrısı yaptı\" - The closing remarks that summarize the key messages and provide a final call to action for the viewers."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

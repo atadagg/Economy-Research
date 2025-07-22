@@ -1,0 +1,51 @@
+# Economic Content from: 20240711_Oya Çebi ile TV100 Ana Haber ｜ 11 Temmuz 2024.tr.txt
+# Processed: 2025-07-22T18:26:07.679935
+# Original: 9613 words → Filtered: 410 words (4.27% retention)
+# Economic segments: 4
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 106
+**Retention**: 43.62%
+
+SSK ve Bağkur emeklileri 7 oranında bir artış aldı ve bu artış 6 aylık enflasyon farkını içeriyor. En düşük emekli aylığı olan 10,000 liradan daha fazla alamayanlar, kök maaşları düşük olanlar arasında yer alıyor. AK Parti, en düşük emekli aylığı noktasında bir artış üzerine çalışmalar yapıyor. Ancak, seyyanen bir zam beklentisi içine girilmemesi gerektiği vurgulanıyor. Yapılan çalışmalar sadece en düşük emekli aylığını artırmaya yönelik ve tüm emeklileri kapsamıyor. Kök maaşla ilgili gelişmeler hala devam ediyor ve toplantının net bir tarihi yok. AK Parti, çalışmalarını tamamladıktan sonra Cevdet Yılmaz ve Mehmet Şimşek ile görüşecek. Önümüzdeki günlerde bu konudaki gelişmeleri takip edeceğiz. Kulislere yansıyan bazı rakamlar da mevcut.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 126
+**Retention**: 52.07%
+
+İşte size 10.000 Lira bir çarpan ile hesaplandığında kiracının ödemeniz de yükümlü olduğunuz depozito miktarı 10.000 Lira'dır. Uzmanlar elden ödemenin büyük risk olduğunu söylüyor. Kiracılar, kira ödediğini ispat etmek için mal sahibinden bedelin ödendiğine dair bir belge alması gerekiyor. Elden ödeme halinde böyle bir durum varsa dahi mutlaka mal sahibinden bir yazılı belge alınması öneriliyor. Eğer bu belgeler tespit edilemezse, elden ödemede geriye dönük olarak mal sahibi kira bedelini 5 yıllık sınırla geriye dönük olarak tekrar talep edebilir. Bu da ciddi bir şekilde zarar oluşturabilir. 
+
+2023'te reddedilen vizeler için yapılan harcamalardan bahsedeyim; bu harcamalar 13 milyon Euro'ya ulaşmış durumda. En fazla vize reddi yaşanan ülke ise Almanya oldu. Başvurular yapıldı ancak zaman da boşa gitti, para da zarar etti. Türk vatandaşlarının Schengen vizesi başvurularındaki mağduriyeti artıyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 44
+**Retention**: 60.27%
+
+Türkiye 2023 yılında Schengen vizesi için yapılan başvurularda Çin'in ardından ikinci en büyük ülke oldu. Geçen yıl 1 milyonun üzerinde vize başvurusu yapılırken bu vizelerin maliyeti 84 milyon oldu. Bu süreçte Türk vatandaşları da reddedilen vize başvuruları nedeniyle büyük maddi kayıplar yaşamaya devam ediyor.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 134
+**Retention**: 38.07%
+
+Almanya'nın reddettiği vize sayısı 55495 olurken onu Yunanistan ve Fransa takip etti. Otellerdeki doluluk oranları da istenilen seviyede olmayınca son dakika satışlarında indirime gidildi. Sektör temsilcileri, erken rezervasyonun altına düşen otellerin fiyat farkını ödeyeceğini söylüyor. Geçen seneye vurduğunuz vakit, %300 gibi bir artışla başladılar satışlara. Yaz sezonundan önce fiyatlarını yüksek tutan oteller bekledikleri tabloyla karşılaşmadı. Bodrum'da bile an itibariyle %100 doluluk göremiyorum. Tatilciler sezondan önce erken rezervasyonla birlikte otellere kayıt yaptırdı ancak sezonun başlaması ile birlikte otellerdeki doluluk oranı istenilen seviyede olmayınca bazı işletmelerde indirime gitti. Erken rezervasyon demek, ne kadar erken alırsanız o kadar ucuza alırsınız demek. Hatta duyuyoruz ki bazı oteller, erken rezervasyon fiyatlarının da altına düştü. Otelciler, erken rezerv başlangıcında yaptığı fiyatlara kadar indiler. Erken rezervasyonla tatil satın alan bir müşteri, böyle bir durumla karşılaşırsa aradaki fiyat farkını isteme hakkına sahip.
+
+================================================================================
+

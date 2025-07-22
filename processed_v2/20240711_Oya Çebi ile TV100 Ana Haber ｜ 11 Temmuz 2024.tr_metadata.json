@@ -1,0 +1,96 @@
+{
+  "file_path": "news/TV100/20240711_Oya Çebi ile TV100 Ana Haber ｜ 11 Temmuz 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T18:26:07.679935",
+  "original_word_count": 9613,
+  "filtered_word_count": 410,
+  "retention_ratio": 0.04265057734318111,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "efendim İyi akşamlar TV1 ekranlarına hoş geldiniz",
+      "description": "\"efendim İyi akşamlar TV1 ekranlarına hoş geldiniz\" - The presenter introduces herself and welcomes viewers to the program, stating the date and what the audience can expect in terms of news coverage.",
+      "end_pos": 196
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 196,
+      "start_sentence": "şimdi Amerika Birleşik devletleri'nden gelen mesajlarla başlayacağız",
+      "description": "\"şimdi Amerika Birleşik devletleri'nden gelen mesajlarla başlayacağız\" - The news segment begins with a focus on important messages from the United States, particularly regarding the NATO leaders' summit and statements made by President Erdoğan about terrorism and regional security.",
+      "end_pos": 396
+    },
+    {
+      "type": "6. **NEWS**",
+      "start_pos": 396,
+      "start_sentence": "Cumhurbaşkanı Erdoğan NATO ile Rusya arasında doğrudan bir çatışma ihtimali kuşkusuz endişe vericidir",
+      "description": "\"Cumhurbaşkanı Erdoğan NATO ile Rusya arasında doğrudan bir çatışma ihtimali kuşkusuz endişe vericidir\" - This part of the news discusses Erdoğan's concerns about the potential for direct conflict between NATO and Russia, emphasizing the need for caution.",
+      "end_pos": 775
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 775,
+      "start_sentence": "Bu arada İsrail zulmüne de değindi tabii ki öne çıkan başka açıklamaları da vardı",
+      "description": "\"Bu arada İsrail zulmüne de değindi tabii ki öne çıkan başka açıklamaları da vardı\" - This transition indicates a shift in focus to other significant statements made by President Erdoğan, specifically regarding Israel.",
+      "end_pos": 973
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 973,
+      "start_sentence": "Cumhurbaşkanı Recep Tayyip Erdoğan NATO devlet ve hükümet başkanları zirvesine katılmak üzere geldiği Amerika'nın başkenti washington'da aralıksız temaslarda bulundu",
+      "description": "\"Cumhurbaşkanı Recep Tayyip Erdoğan NATO devlet ve hükümet başkanları zirvesine katılmak üzere geldiği Amerika'nın başkenti washington'da aralıksız temaslarda bulundu\" - This section continues the news coverage, detailing Erdoğan's activities and messages during the NATO summit, including his remarks on terrorism and regional conflicts.",
+      "end_pos": 1364
+    },
+    {
+      "type": "5. **TRANSITION**",
+      "start_pos": 1364,
+      "start_sentence": "müttefiklerimiz temel beklentimiz benzer bir terörle mücadele yaklaşımı benimsemeleri dedi",
+      "description": "\"müttefiklerimiz temel beklentimiz benzer bir terörle mücadele yaklaşımı benimsemeleri dedi\" - This transition leads into further elaboration on Erdoğan's expectations from allies regarding their approach to combating terrorism.",
+      "end_pos": 67377
+    }
+  ],
+  "news_segments_count": 14,
+  "economic_segments_count": 4,
+  "economic_segments": [
+    {
+      "segment_id": "1364_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 243,
+      "filtered_length": 106,
+      "retention_ratio": 0.43621399176954734,
+      "section_description": "\"müttefiklerimiz temel beklentimiz benzer bir terörle mücadele yaklaşımı benimsemeleri dedi\" - This transition leads into further elaboration on Erdoğan's expectations from allies regarding their approach to combating terrorism."
+    },
+    {
+      "segment_id": "1364_9",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 242,
+      "filtered_length": 126,
+      "retention_ratio": 0.5206611570247934,
+      "section_description": "\"müttefiklerimiz temel beklentimiz benzer bir terörle mücadele yaklaşımı benimsemeleri dedi\" - This transition leads into further elaboration on Erdoğan's expectations from allies regarding their approach to combating terrorism."
+    },
+    {
+      "segment_id": "1364_10",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 73,
+      "filtered_length": 44,
+      "retention_ratio": 0.6027397260273972,
+      "section_description": "\"müttefiklerimiz temel beklentimiz benzer bir terörle mücadele yaklaşımı benimsemeleri dedi\" - This transition leads into further elaboration on Erdoğan's expectations from allies regarding their approach to combating terrorism."
+    },
+    {
+      "segment_id": "1364_11",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 352,
+      "filtered_length": 134,
+      "retention_ratio": 0.3806818181818182,
+      "section_description": "\"müttefiklerimiz temel beklentimiz benzer bir terörle mücadele yaklaşımı benimsemeleri dedi\" - This transition leads into further elaboration on Erdoğan's expectations from allies regarding their approach to combating terrorism."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

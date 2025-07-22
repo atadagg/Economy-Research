@@ -1,0 +1,80 @@
+{
+  "file_path": "news/TV100/20241004_Kübra Par ile tv100 Ana Haber ｜ 4 Ekim 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T18:37:56.471286",
+  "original_word_count": 5751,
+  "filtered_word_count": 297,
+  "retention_ratio": 0.051643192488262914,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "TV1 ekranlarından Herkese iyi akşamlar ben Kübra Parar...",
+      "description": "\"TV1 ekranlarından Herkese iyi akşamlar ben Kübra Parar...\" - This section serves as the opening of the broadcast, where the presenter introduces herself and sets the stage for the news program.",
+      "end_pos": 94
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 94,
+      "start_sentence": "Aslında bugün Cuma haftanın son günündeyiz ve 5 günümüzde TV1 an haberde...",
+      "description": "\"Aslında bugün Cuma haftanın son günündeyiz ve 5 günümüzde TV1 an haberde...\" - This section contains the main news content, discussing various political events, social issues, and specific incidents that have occurred, including commentary from political figures and public reactions.",
+      "end_pos": 1161
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 1161,
+      "start_sentence": "Şimdi bu bizim aklımıza ne getiriyor...",
+      "description": "\"Şimdi bu bizim aklımıza ne getiriyor...\" - This brief transition connects different news topics, moving from the discussion of political events to social issues, specifically a recent incident involving a young woman.",
+      "end_pos": 1359
+    },
+    {
+      "type": "5. **OUTRO**",
+      "start_pos": 1359,
+      "start_sentence": "Hadi bunları anlıyoruz bunlardan serbestler Peki ya taciz çocuk istismarı...",
+      "description": "\"Hadi bunları anlıyoruz bunlardan serbestler Peki ya taciz çocuk istismarı...\" - This section wraps up the discussion, posing questions to the audience and inviting them to engage with the topic, signaling the end of the news segment.",
+      "end_pos": 1551
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1551,
+      "start_sentence": "Adana'da teknofest devam ediyor malum Cumhurbaşkanı Erdoğan da Bugün adana'daydı...",
+      "description": "\"Adana'da teknofest devam ediyor malum Cumhurbaşkanı Erdoğan da Bugün adana'daydı...\" - This section continues with more news content, focusing on an event in Adana and comments made by President Erdoğan, further elaborating on the political landscape.",
+      "end_pos": 40804
+    }
+  ],
+  "news_segments_count": 7,
+  "economic_segments_count": 3,
+  "economic_segments": [
+    {
+      "segment_id": "1551_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 182,
+      "filtered_length": 127,
+      "retention_ratio": 0.6978021978021978,
+      "section_description": "\"Adana'da teknofest devam ediyor malum Cumhurbaşkanı Erdoğan da Bugün adana'daydı...\" - This section continues with more news content, focusing on an event in Adana and comments made by President Erdoğan, further elaborating on the political landscape."
+    },
+    {
+      "segment_id": "1551_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 200,
+      "filtered_length": 91,
+      "retention_ratio": 0.455,
+      "section_description": "\"Adana'da teknofest devam ediyor malum Cumhurbaşkanı Erdoğan da Bugün adana'daydı...\" - This section continues with more news content, focusing on an event in Adana and comments made by President Erdoğan, further elaborating on the political landscape."
+    },
+    {
+      "segment_id": "1551_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 198,
+      "filtered_length": 79,
+      "retention_ratio": 0.398989898989899,
+      "section_description": "\"Adana'da teknofest devam ediyor malum Cumhurbaşkanı Erdoğan da Bugün adana'daydı...\" - This section continues with more news content, focusing on an event in Adana and comments made by President Erdoğan, further elaborating on the political landscape."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

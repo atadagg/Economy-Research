@@ -1,0 +1,127 @@
+# Economic Content from: 20240903_Ece Üner ile Halk Ana Haber (3 Eylül 2024).tr.txt
+# Processed: 2025-07-22T17:03:36.483147
+# Original: 12464 words → Filtered: 899 words (7.21% retention)
+# Economic segments: 10
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 65
+**Retention**: 68.42%
+
+Çünkü enflasyon, geçim sıkıntısı ve işsizlik gibi ekonomik sorunlar, evimize götüreceğimiz ekmekle doğrudan bağlantılı. Bugün, ekonomik veriler ve istatistikler üzerinden geçim sıkıntısının boyutlarını tartışmak önemli. Siyasi gündemlerin yanı sıra, vatandaşın geçimini etkileyen ekonomik durumları ele almak gerekiyor. Ekonomik veriler, işsizlik oranları ve enflasyon rakamları, toplumun genel refahını belirleyen kritik göstergelerdir. Bu nedenle, gerçek gündemi sokağın gündemi olarak ele almalı ve ekonomik sorunları öncelikli olarak tartışmalıyız.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 104
+**Retention**: 100.00%
+
+rağmen Aslında gerçek sorunun esas sorunun cevabı yok 14 gün hala Nedir o soru Narin çocuk nerede
+işte bütün bunlara döneceğiz bütün bunları konuşacağız bölgede arkadaşlarımız var ama bu arada
+Hashtag imiz de var Çünkü ne oluyor biliyor musunuz bütün bu Gündem maddelerinin ortak bir paydası
+var o da aslında bizleri sindirmek bizleri caydırmak bizleri küstürmek bizleri susturmak Onun için
+Korkma diyeceğiz bakın İstiklal Marşı korkma diye başlıyor biz de bugün Hashtag imizde Korkma dedik
+Siz de Lütfen bize yazın hatta dün duyurmuştuk sizden çok zekice çok güzel manşetler geliyor
+fikirler geliyor bültenin sonunda da onlardan bir tanesini alacağız adıyla sıyla kimden geldiyse o
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 88
+**Retention**: 100.00%
+
+000 liraya çıkmıştı nikah
+ücretleri sonra kararın iptali için bir dava açıldı ve o davanın sonunda mahkeme artışı Orantısız
+buldu ve Eee belediye Orantısız belediye o fiyat artışında da ısrar edince mahkeme Orantısız bulup
+da fiyat artışında belediye israr edince şimdi 25 kat değil sıkı durun 24 Kat artırıldı bu sefer
+mültecilere yönelik nikah ücreti 25 kat artırıldı karar yargın döndü belediye vazgeçmedi bu sefer
+ücreti 24 Kat artırdı 2 Mayıs'ta CHP'li Afyon Karahisar Belediye Başkanı Burcu Köksal mültecilerin
+nikah ücretinin 25 kart artırıldığını açıkladı 400 liren 10
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 127
+**Retention**: 77.91%
+
+TÜİK'in açıkladığı verilerle ENAK ve İTO'nun enflasyon rakamları yine tutmadı. TÜİK'ten önce bağımsız enflasyon araştırma kuruluşu ENAK, ağustos ayı enflasyonunu % 3,47 olarak açıkladı. Yıllık enflasyon TÜİK'e göre % 51,96 olarak açıklandı. İstanbul Ticaret Odası ise enflasyon verilerini Pazartesi günü açıklamıştı; İTO'ya göre İstanbul'da ağustos ayı enflasyonu % 1,73, yıllık ise % 61,5 olarak belirlendi. Tüketici fiyat endeksinde yer alan ana harcama gruplarında ağustosta yıllık bazda en yüksek artış % 112,12 ile doğalgaz, % 17,9 ile demir yolu ile şehir içi yolcu taşımacılığı ve % 111,43 ile çay ve diğer demlendirilir çeşitleri olarak kaydedildi. Enflasyon verilerinin açıklanmasıyla kira artış oranı da belli oldu; buna göre kira kontrat süresi bu ayda olan işletme sahipleri kiralarına % 64,95 oranında zam yapabilecek. Geçtiğimiz ay zam oranı % 65 olarak belirlenmişti.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 86
+**Retention**: 44.79%
+
+TÜİK, enflasyon verilerini açıkladıktan sonra, hükümet yüksek enflasyondan düşük enflasyona geçiş yapıldığını belirtti. Ancak muhalefet, bu durumun gerçekçi olmadığını savunuyor. Mehmet Şimşek, dezenflasyon sürecinin belirginleştiğini ve son çeyrekte aylık enflasyonun ana eğiliminde bir düşüş beklediklerini ifade etti. Yıl sonunda enflasyonun tahmin aralığında gerçekleşmesini öngörüyoruz. Enflasyon konusunda elde edilen pozitif sonuçların refah seviyesi üzerindeki etkilerini de önümüzdeki dönemde görmeye başlayacağız. Türkiye İstatistik Kurumu'nun açıkladığı ağustos ayı enflasyonu, yıllık enflasyonun %51 olarak kaydedildiğini gösteriyor. Geçen yıl bu ayda yüksek enflasyon oranları gözlemlendiği için baz etkisiyle düşüş yaşandığı belirtiliyor.
+
+================================================================================
+
+## Economic Segment 6
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 92
+**Retention**: 35.25%
+
+Enflasyonu türlü hilelerle düşük tutup emeklinin maaşından çalmak da bir tür hırsızlık değil midir? Vergi yüzsüzü olmak istemeyenlere son bir fırsat tanındı; 5 milyon lira ve üzerinde vergi borcu ve cezası bulunanlar için Eylül sonu işaret edildi. İktidara yakın pek çok şirketin vergi cezası ya siliniyor ya da şirketler hiç vergi ödemiyor. 2013-2024 yılları arasında 7,5 milyar TL'lik bir uzlaşma yoluyla vergiyi de siliyorsunuz. Bu şirketlere 2020-2024 yılları arasında da vergi muafiyeti tanınmaya devam etti. Devletten en çok ihale alan 20 şirketten 8'i de 2023'te vergi ödemedi; toplam miktar 190 milyarı geçti.
+
+================================================================================
+
+## Economic Segment 7
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 71
+**Retention**: 93.42%
+
+Orta kalitede bir bilgisayar almak 15 000 ile 30 000 L arasında bir meblağı gözden çıkarmak demek. Özellikler arttıkça fiyatlar 100 000 liraya kadar çıkıyor. Artık kredi kartına taksit seçeneği de yaramıyor. Zira ihtiyaç tek değil, gıdadan eğitime birçok harcama için kredi kartı kullanılıyor. Şu zamanda kredi kartı limitini bir bilgisayarla doldurmak bir lüks. Cihaza ihtiyacı olanlar çareyi kiralamakta buluyor. Çeşitli online teknoloji mağazaları incelendiğinde kira fiyatlarının süreye göre değiştiği görülüyor.
+
+================================================================================
+
+## Economic Segment 8
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 101
+**Retention**: 73.19%
+
+Üniversite öğrencileri için kiralama maliyetleri artmış durumda. 000 liralık bir dizüstü bilgisayar kiralama sitesinde bir ay kiralamanın bedeli 840 lira iken, 6 ay kiralandığında aylık ödenen tutar 1250 liraya düşüyor. Bir yıllık kiralamada ise ay başına 1120 lira ödeniyor. KYK yurt ücretlerine % zam geldi; en düşük ücret 345 liradan 517 liraya, en yüksek ücret ise 570 liradan 855 liraya çıktı. Bu durum, öğrencilerin barınma maliyetlerini artırarak ekonomik zorluklar yaşamasına neden oluyor. 15 Eylül'e kadar 685 lira depozitosunu ödemeyenlerin kaydı yapılmayacak. Bu yıl, 2024-2025 eğitim öğretim dönemi başlarken, üniversitelere kayıt yaptıran öğrenciler ve KYK yurtlarına başvuranlar, artan maliyetlerle karşı karşıya kalıyor.
+
+================================================================================
+
+## Economic Segment 9
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 96
+**Retention**: 53.33%
+
+Geçtiğimiz yıl yurtların kapasitesi 3 milyon öğrenciye yakın öğrenci açıkta kalmıştı. Bu sene KYK yurtlarının ücreti en düşük 517 lira, en yüksek 855 lira oldu ve bu, yaklaşık %1'lik bir zamla gerçekleşti. Öğrencilerin şu anda aldığı KYK bursu ise 2,000 lirayla sınırlı kaldı. KYK bursunun üçte biri endeksli olup, yıllar boyunca eridi. Asgari ücretin yanı sıra, KYK yurt ücretlerine her sene zamlar yapılıyor. Bu zamlar, öğrencilerin bütçelerini doğrudan etkiliyor. 2011, 2012 ve 2013 yıllarındaki verilere bakıldığında, bursun yarısının KYK yurduna gittiği görülüyor. Bu durum, öğrencilerin geçimlerini zorlaştırıyor ve KYK yurtlarında da benzer bir ekonomik sıkıntı yaşanıyor.
+
+================================================================================
+
+## Economic Segment 10
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 69
+**Retention**: 107.81%
+
+Çukurova'da 2022 yılında 302 bin dekarlık bir alandan 144 bin ton pamuk elde edildi. Bu yıl rakamlar yarı yarıya düştü; yüksek girdi maliyetleri altında ekip biçmeye çalışan çiftçi, önünü göremediği için tarımdan kopuyor. Adana'da bu yıl yaklaşık 147 bin dekarlık alana pamuk ekildi, beklenen rekolte ise havanın aşırı sıcak olması nedeniyle 70 ton civarında. Bu durum, tarım sektöründeki maliyet artışlarının ve iklim koşullarının üretim üzerindeki etkilerini gözler önüne seriyor.
+
+================================================================================
+

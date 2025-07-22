@@ -1,0 +1,60 @@
+# Economic Content from: 20240530_Show Ana Haber 30 Mayıs 2024.tr.txt
+# Processed: 2025-07-22T17:29:01.032515
+# Original: 2918 words → Filtered: 432 words (14.80% retention)
+# Economic segments: 5
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 110
+**Retention**: 55.84%
+
+Replika saatlerin ortalama piyasa değeri 30,000 liranın üzerindeydi. Kaçakçılık polisinin hem Fatih hem de Beykoz'da yaptıkları operasyonda piyasa değeri 100 milyon lira olan gözlükler ve saatler ele geçirildi. Yaz sezonu ve yaklaşan Kurban Bayramı öncesi satışa sunulacak gözlüklerin fiyatları ise 10 ila 20,000 lira arasındaydı. İnşaat sektöründe ara eleman krizi yaşanıyor; sektördeki mimarın 40 ila 60,000 lira arasında çalıştığı, inşaatlarda ise 200,000 liraya dahi ara eleman bulamadıkları belirtiliyor. Bugün inşaat sektöründe bir kalfa'ya iş veriyoruz, ancak ekibini bulamıyoruz; maaşlar 150,000 lira kadar çıkmış durumda. Ciddi bir sıkıntı yaşıyoruz; çekirdekten yetişen eleman kalmadı ve işin ehlini bulmak git gide zorlaştı. Bugün bir inşaat kalfasının maaşı 80,000 ila 100,000 lira arasında değişiyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 82
+**Retention**: 74.55%
+
+Demir fiyatları 000 lira seviyesine ulaşmışken, inşaat sektöründe maaşlar arasında ciddi bir dengesizlik gözlemleniyor. Örneğin, kepçe operatörlerinin maaşları 100.000 ile 200.000 lira arasında değişirken, üniversite mezunu mimarların maaşları 40.000 ile 60.000 lira arasında kalıyor. Bu durum, sektördeki iş gücü sıkıntısını artırıyor; çünkü kalifiye işçi bulmakta zorlanıyoruz. Alçı sıvacı ve boyacı gibi meslek gruplarında eleman bulmakta güçlük çekiyoruz. Yurt dışında döviz bazında maaş alan işçiler, Türkiye'deki cazip olmayan fiyatlar nedeniyle yurtdışını tercih ediyor. Bu da yerel iş gücü piyasasında ciddi bir sorun yaratıyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 69
+**Retention**: 75.82%
+
+Yurtiçi otel fiyatları, bayramın yaza denk gelmesiyle merak konusu oldu. Bodrum bölgesinde 3 gece 4 gün otellerin fiyatları 40-50,000 liradan başlarken, en uygun şekilde 4 gece 5 gün konaklama fiyatları 50-55,000 liradan başlamaktadır. Ayrıca, Fethiye bölgesinde kültür turlarının kişi başı fiyatları 1,777-1,800 TL arasında değişmektedir. Bayram döneminde misafirlerin sanatçılı tesislere olan talebi de artmaktadır. Kıbrıs'taki 3 gece 4 gün konaklama fiyatları ise uçakla birlikte yaklaşık olarak 60-70,000 liradan başlamaktadır.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 69
+**Retention**: 30.80%
+
+Baklavanın en önemli gider kalemlerinden fıstığa gelen zam üreticileri isyan ettirdi. Son bir haftada Antep fıstığının kilosu 600-700 liradan 1300 liraya kadar çıktı. Baklavacılar, fıstıkçıları stokçuluk yapmakla suçluyor. Fıstık fiyatlarımız bir anda yükseldi. Fıstıkçılar ve baklavacılar birbirini suçlarken il yönetimi de sorunları çözmek için devreye girdi. Fıstık fiyatları böyle yükseldi; bu durumun arkasında stokçuluk olduğu belirtiliyor. Bu yıl fıstıkta son yılların en yüksek rekoltesi beklenirken, geçen yıl yok yılıydı.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_final
+**Confidence**: 0.50
+**Word Count**: 102
+**Retention**: 41.63%
+
+Bu yıl Ante fıstığında çok iyi meyve tutumu var. Fıstık fiyatları göreceksiniz, bir ay içinde yükselecek. 1. sınıf Antep fıstığının kilosu bir anda 600-700 liralardan 1300-1500 liralara kadar çıktı. Baklavacılar, bu fiyatlarla ayakta kalmamız mümkün değil diyerek yaşananlara tepki gösterdi. Antep bölgesinde şu an en düşük baklava fiyatı 00 lira. Ancak bizde şu an 700-800 lira, bayrama kadar zam yapmayacağız. Elimizdeki olan stoğumuz da eritecek, durmak mümkün değil. Gaziantep'te Ticaret İl Müdürlüğü fıstıkçıları denetlemeye ve bazı esnafa cezalar yazmaya başladı. Bu durum, fiyatları da yansıyor ve satışlarda düşüşlere sebep oluyor. Sektör temsilcilerinden suni fiyat artışlarının durması için acil aksiyon alınmalı çağrısı geldi.
+
+================================================================================
+

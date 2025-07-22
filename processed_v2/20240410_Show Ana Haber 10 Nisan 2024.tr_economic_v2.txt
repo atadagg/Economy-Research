@@ -1,0 +1,29 @@
+# Economic Content from: 20240410_Show Ana Haber 10 Nisan 2024.tr.txt
+# Processed: 2025-07-22T17:17:56.625422
+# Original: 3256 words → Filtered: 164 words (5.04% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 83
+**Retention**: 40.89%
+
+Hırsızlar kapalı kasa ticari bir araçla deposunun önüne geldi. Bu olay, iş yeri sahiplerinin güvenliğini tehdit ederken, aynı zamanda ekonomik kayıplara da yol açtı. İşletme sahibi, çalınan ürünlerin değerinin yaklaşık 600 bin ile 700 bin lira arasında olduğunu belirtti. Bu tür hırsızlıklar, iş yerlerinin mali durumunu olumsuz etkileyerek, esnafın borçlarını ödemekte zorlanmasına neden oluyor. 
+
+Ekonomik açıdan, bu tür olaylar, iş yapma maliyetlerini artırmakta ve esnafın finansal istikrarını tehdit etmektedir. İşletme sahiplerinin tek isteği, bu tür hırsızlıkların önlenmesi ve güvenli bir ticaret ortamının sağlanmasıdır.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 81
+**Retention**: 46.02%
+
+Ramazan Temel, maaşını çekmek için gece vakti evinden çıkmıştı. Ancak, yolda para düşmesi sonucu gençler, yola saçılan banknotları topladı. Bu durum, ekonomik bir kayba neden oldu. Aboneler, yatırdıkları faturaya gelen ceza karşısında şaşırdı ve ödeme merkezine akın etti. Ruhsatsız olduğu anlaşılan iş yerinin mühürlenmesi, iş dünyasında olumsuz bir etki yarattı. Faturalarındaki cezalar nedeniyle aboneler ödedikleri miktarların geri dönüşünü talep etti. İstanbul Esenyurt'taki Sultaniye Mahallesi'nde yaşayan bazı aboneler, ödenmemiş borçları nedeniyle sıkıntı yaşadı. Bu durum, yerel ekonomideki mali sorunları gözler önüne serdi.
+
+================================================================================
+

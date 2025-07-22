@@ -1,0 +1,85 @@
+# Economic Content from: 20240808_Oya Çebi ile TV100 Ana Haber ｜ 8 Ağustos 2024.tr.txt
+# Processed: 2025-07-22T18:32:40.256417
+# Original: 11452 words → Filtered: 527 words (4.60% retention)
+# Economic segments: 6
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 100
+**Retention**: 100.00%
+
+maddeler bizi bekliyor maddeler sıralaması bizi bekliyor ama önce ne yapacağız biliyor musunuz ana
+habere Ortadoğu ile başlayacağız Çünkü Ortadoğu'da an itibariyle gerilim hat safada diyebiliriz
+İsrail Lübnan sınırında çok sıcak anlar yaşanıyor iki tarafta birbirine bomba yağdırıyor Hatta TV1
+ekibinden Sertaç Murat skoç ve Erbay Yılmaz bölgede kameralarımız da hemen O noktaya çeviriyoruz
+sertaç'ı da karşımda görüyorum e Sertaç neler yaşanıyor da Zira sıcak gelişmeler var uçakların sort
+attığını biliyorduk Ama şu anda yeni bilgiler var Sanırım sen de seni dinleyelim Evet tam e
+Lübnan'ın güneyinde yani İsrail sınırında hem de Başkent Beyrut'ta gün içinde oldukça sakin bir hava
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 81
+**Retention**: 72.97%
+
+73 Ocak ve e Temmuz ayı arasında gerçekleşen enflasyon oranında yapılmıştı. Eğer % 38 olarak 2024 yılı enflasyonu gerçekleşecek ise geri kalan aylarda da 13.2 civarında bir enflasyon gerçekleşmesi Merkez Bankası tarafından bekleniyor. 2024 yılının yıllık enflasyon tahmini % 38'di, değişmedi yine % 38 olarak kaldı. Peki enflasyon % 38 olarak gerçekleşirse emekli ne kadar alacak? Şimdi 12,500 L üzerinden bir hesaplama yaptık; enflasyon oranı % 13.27. Yani 6 aylık oran 12,500 L alan bir kişi bu durumda ocak ayından itibaren...
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 133
+**Retention**: 45.39%
+
+Yıl sonuna kadar aylar var ancak enflasyon tahminleri tutarsa emekli maaşlarında 3 aşağı 5 yukarı bu rakamlar cepte olacak. İşçi Sendikaları, vergide adalet ve asgari ücrete zam talepleriyle mitingler düzenlemek için düğmeye bastılar. Vergiyle ilgili sıkıntılar ve emeklilerin sorunları gündemde. Türkiye Bankalar Birliği risk merkezinden alınan verilere göre, bu yılın ilk 6 ayında borcunu ödeyemeyenlerin sayısı geçen yılın aynı dönemine göre %70 oranında artmış görünüyor. Fiyatlar arttıkça kredi kartı kullanımı yaygınlaştı ve borcunu ödeyemeyenler yasal takibe düştü. Geçen yılın ilk 6 aylık dönemine göre kredi kartı borcunu ödeyemeyenlerin sayısı %70 arttı. Aynı dönemde bireysel kredi borcundan dolayı yasal takibe takılanların sayısı da %34 artış gösterdi. Hem kredi hem de kredi kartı borcundan dolayı yasal takibe uğrayanların sayısı %43 oranında yükselerek 891 bini buldu. 2023 Haziran ayında yasal takibe girenlerin sayısı 118 bini geçti.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 117
+**Retention**: 54.17%
+
+Japonya iki büyük depremle sarsıldı. Açık denizde meydana gelen 6,9 büyüklüğündeki sarsıntıyı Miyazaki yakınlarındaki 7'lik deprem izledi. Bu tür doğal afetlerin ekonomik etkileri, özellikle inşaat sektöründe önemli değişikliklere yol açabilir. Deprem sonrası şehir merkezinde yıkılan yapılara rastlanmadı, ancak bu durum, inşaat güvenliği ve dayanıklılığı konularında yeni tartışmalara neden olabilir. 
+
+Ayrıca, okulların açılmasında velilerin ve öğrencilerin tatlı telaşı başladı. Ancak, okulların istedikleri kayıt ücretleri, ekonomik zorlukları artırıyor. Fiyatlar semte göre 1000 liradan başlayıp 2000 liraya kadar çıkabiliyor. Bu durum, ailelerin bütçelerini zorlayarak eğitim harcamaları üzerinde baskı oluşturuyor. 
+
+Ekonomik veriler ve istatistikler, bu tür durumların toplum üzerindeki etkilerini anlamak için kritik öneme sahip. Eğitim harcamalarındaki artış, genel enflasyon oranlarıyla da bağlantılıdır ve bu durum, ailelerin mali durumunu doğrudan etkileyebilir.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 66
+**Retention**: 35.11%
+
+The filtered text focusing on economics, finance, and business is as follows:
+
+Okul aile birlikleri, velilerden okul kayıt ücretleri adı altında bağış talep etmekte. Milli Eğitim Bakanlığı, istenen bu bağışların önüne geçmek için bir dizi uygulama yaptı. Ancak bu uygulamalar, okul yönetimlerini engellemeye yetmedi. Veliler ise istenen ücretlerin 1000 lira ile 2000 lira arasında değiştiğini belirtiyor. Bu durum, ailelerin eğitim masraflarını artırarak ekonomik bir yük oluşturuyor.
+
+================================================================================
+
+## Economic Segment 6
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 30
+**Retention**: 46.88%
+
+The filtered text focusing on economics, finance, and business is as follows:
+
+Bunlar çok mümkün olabilecek şeyler gözükmüyor. Aracın maliyetinin dahi yarı fiyatına rakamlar görüyoruz. Dolandırıcılar sosyal medyada hesap açtılar.
+
+================================================================================
+

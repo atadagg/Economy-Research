@@ -1,0 +1,16 @@
+# Economic Content from: ATV20241019_atv Ana Haber ｜ 19 Ekim 2024.tr.txt
+# Processed: 2025-07-22T16:56:03.954425
+# Original: 4660 words → Filtered: 82 words (1.76% retention)
+# Economic segments: 1
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 82
+**Retention**: 51.57%
+
+Konak Belediyesi'nin 29 Ekim Cumhuriyet Bayramı konserine ayırdığı bütçe dikkat çekici bir ekonomik veri olarak öne çıkıyor. Belediyenin 2 saat sahne alması için sanatçı Şevval Sam'a tam 5,300 TL ödendiği bildirildi. Bu tür harcamalar, yerel yönetimlerin mali durumunu ve bütçe yönetimini sorgulatıyor. Ayrıca, CHP'li belediyelerin konser skandalları, kamu kaynaklarının nasıl kullanıldığına dair endişeleri artırıyor. Ekonomik açıdan, borç içinde olan bir belediye olarak, sosyal güvenlik kurumuna olan borcunu ödeyemediği ortaya çıkan Konak Belediyesi'nin mali durumu, yerel yönetimlerin bütçe disiplinine dair önemli bir gösterge.
+
+================================================================================
+

@@ -1,0 +1,76 @@
+# Economic Content from: 20240505_Show Ana Haber 5 Mayıs 2024.tr.txt
+# Processed: 2025-07-22T17:18:16.639079
+# Original: 2939 words → Filtered: 414 words (14.09% retention)
+# Economic segments: 5
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 52
+**Retention**: 100.00%
+
+000 liraya yükseltti o karara tepki gösteren mülteci Hakları
+Derneği uygulamanın iptali için idare mahkemesine a duyurdu yetkililer hakkında da ayrımcılık ve
+Nefret suçu kapsamında suç duyurusunda bulunuldu mühürledik ilk iş Afyon'un ardından benzer bir adım
+da Uşak belediyesi'de atılacak gibi Uşak Belediye Başkanı Özkan Yalım sığınmacıların nikah ücretinin
+705 ladan 15
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 78
+**Retention**: 57.35%
+
+Ankara'da okuyan bir Tıp öğrencisi internetten bulduğu burs veren kuruluşlara başvuruda bulundu. Dolandırıcılar, bir hafta sonra genç kıza döndüler ve 2340 lira burs kazandığını belirttiler. Ancak, burs almak için ikametgah bilgilerini ve kimlik belgesinin fotoğrafını göndermesini istediler. Genç kız, burs rakamını duyunca istenen bilgileri gönderdi. Bu olay, dolandırıcılık açısından büyük bir ekonomik kayba yol açtı. Dolandırıcılar, genç kızın banka hesabından toplamda 20,000 lira çektiler. Bu tür dolandırıcılık olayları, finansal güvenliği tehdit eden önemli bir ekonomik sorun olarak değerlendiriliyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 66
+**Retention**: 38.37%
+
+Çeşme'de kiralık yazlık fiyatları otelleri solladı. Bodrum'da denize uzak dubleks evin aylık kirası 65,000 TL, denize sıfır özel plajlı özel havuzlu bir villa içinse 3,300,000 TL isteniyor. Bu sene fiyatlar konusunda endişeliyiz. Türkiye'nin dört bir yanındaki tatilciler bütçelerine uygun tatil programı yapmaya çalışıyor. Otellerin yüksek fiyat istemesi üzerine birçok kişi, kiralık yazlıkların daha karlı olduğunu düşünerek ilanlara bakmaya başladı. Ancak ilanlardaki fiyatlar karşısında tepkiler olumsuz oldu.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 82
+**Retention**: 42.49%
+
+Ortalama bir villanın kirası Ayvalık'ta 69,000 TL, Çanakkale'de ise 65,000 TL. Bu fiyatlar, uygun fiyat arayanlar için oldukça yüksek görünüyor. Ekonomik koşullar nedeniyle, birçok kişi bu parayla yurt dışında daha iyi alternatifler aramaya yöneliyor. 
+
+Ayrıca, dolandırıcılık olayları da ekonomik güvenliği tehdit ediyor. Yetkili servislerin sahte olması ve tamir süreçlerinin uzaması, tüketicilerin maddi kayıplar yaşamasına neden oluyor. Bu tür durumların önüne geçilmesi için ciddi yaptırımlar gerektiği ifade ediliyor. 
+
+Bu bağlamda, ekonomik verilerin ve piyasa koşullarının dikkatle izlenmesi, tüketicilerin korunması açısından büyük önem taşıyor.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_final
+**Confidence**: 0.50
+**Word Count**: 136
+**Retention**: 100.00%
+
+000 L aldılar hem de makineyi götürdüler gidiş o
+gidiş çamaşır makinesinden olan talihsiz kadın şikayetçi oldu Antalyalı Çiftçiler Bu kez çifti
+çubuğu bırakıp şenliğe koştu hem eğlendiler hem de yarıştılar evet öe 2 1 vee Hanım Evet tam yarü
+yarsı döküldü Maşallah birisi tam ger önce kasa sırtlan düş taşıdılar son El Gibi Bir ar g şenlikli
+organon renkli görüntülerle fates kasası taşıma yarışması damga vurdu kimi döktü kimi düştü ama zor
+olsa hepsi Hedef ulaştı bugün kasa taşımada birinci oldum Çok heyecanlıydım bayanlar için çok güzel
+aktivite oldu taşınan domatesleri yeme yarışması da düzenlendi Ayş gülaydın 3 dakikada 1 kilo 662 gr
+domates yiyerek birinci oldu 2 1 ve başladı Evet domates yeme yarışması başladı finalde ise halat
+çekme yarışı vardı senedir bu yarışı yap devamlı birinci oluz sene İnci olduk ve serada da
+
+================================================================================
+

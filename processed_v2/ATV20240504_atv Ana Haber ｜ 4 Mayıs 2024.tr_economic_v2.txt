@@ -1,0 +1,31 @@
+# Economic Content from: ATV20240504_atv Ana Haber ｜ 4 Mayıs 2024.tr.txt
+# Processed: 2025-07-22T16:53:38.870892
+# Original: 4568 words → Filtered: 260 words (5.69% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 127
+**Retention**: 54.04%
+
+Cumartesi tek gayemiz, Dolmabahçe'deki müsiat yönetim kurulu toplantısında Cumhurbaşkanı Recep Tayyip Erdoğan'ın açıklamalarıyla, Türkiye'nin İsrail'e tüm ticareti durdurma kararı sonrası Batıdan gelen tepkilere hazırlıklı olduğunun mesajını verdi. Tüm ürünleri kapsayacak şekilde İsrail'le ihracat ve ithalat işlemlerini durdurduk. Aldığımız bu kararla, Türkiye'nin ekonomik durumu üzerinde önemli etkiler yaratacak bir adım attık. 
+
+Cumhurbaşkanı, bu kararın gerekçesini de açıkladı ve batının koşulsuz askeri ve diplomatik desteği ile kontrolden çıkan Netanyahu yönetimini ateşkese zorlamak olduğunu belirtti. Türkiye'nin bu hamlesi, mevcut tablodan rahatsız olan diğer ülkelere de örnek teşkil edecektir. 
+
+Ateşkes ilan edildiği Gazze'ye yeterli miktarda insani yardım girişine müsaade edildiği durumda, Türkiye'nin ekonomik ve diplomatik stratejileri doğrultusunda önemli bir adım atılmış olacaktır. Biz bölgemizdeki hiçbir ülkeyle düşmanlık ve kavga peşinde değiliz; bu durum, ekonomik ilişkilerimizi de etkileyecek bir yaklaşım sergilememizi gerektiriyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 133
+**Retention**: 70.00%
+
+Üstelik kıtlık ölü sayısı her şey eksik, hiçbir şeyimiz yok. Bu da yetmiyormuş gibi havadan yapılan yardımlar zaman zaman ölümlere neden oluyor. Çocuklarımızı doyurmak için ölüyoruz. İsrail'in bu zulmüne karşı protestolar dünyada giderek yayılıyor. Amerika'da açlık grevleri başladı. Gazze'deki milyonlarca Filistinli ile dayanışma amacıyla açlık grevi başlattık. Yeni bir düzenleme hayata geçecek; önümüzdeki günlerde çok ciddi yaptırımlar var. Cezalar 10 katına çıkıyor. Para cezalarına rağmen fırsatçılık vazgeçmeyen işletmeler ise kapatma cezasıyla karşı karşıya kalacak. Her gün fiyatlar değişiyor. Stokçuluk ve fahiş fiyat artışıyla halkın cebine el uzatanlar artık bunu yaparken bir kez daha düşünecek. Rekor cezalar yolda. Fahiş fiyat artışının önüne geçilmesi için bakanlıklar birçok çalışmalar yapıyor. İşte o çalışmalardan biri cezaların arttırılması. Eğer bir market zinciri veya firma fahiş fiyat artışı ya da haksız fiyat uygulaması yaparsa ve bu tespit edilirse, 100...
+
+================================================================================
+

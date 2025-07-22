@@ -1,0 +1,16 @@
+# Economic Content from: ATV20240623_atv Ana Haber ｜ 23 Haziran 2024.tr.txt
+# Processed: 2025-07-22T16:34:43.968242
+# Original: 4484 words → Filtered: 94 words (2.10% retention)
+# Economic segments: 1
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 94
+**Retention**: 72.31%
+
+7 Temmuz'dan sonra araçlarda güvenlik sistemi zorunluluğu getirilecek. İşte bu yüzden bayiler elindeki araç stoğunu eritmek için kampanya üstüne kampanya yapıyor. Sıfır araçlarda % 120'ye varan indirim söz konusu; yani 3 ay önce 1 milyon lira olan bir araç şu anda 800,000 liraya kadar düştü. 4 milyonluk bir araçta ise fiyat 3,5 milyona kadar geriledi. İkinci el araçlarda da benzer indirimler yaşanıyor; fiyatlar 1,700 civarlarına kadar düştü. Bu otomobil 2021 model ve 4 ay önce 1,000,000 liraya satılıyordu, şimdi ise 900,000 liraya satılıyor. 650,000 liraya satışımız olan bir araç şu anda 550,000 liraya satılmakta.
+
+================================================================================
+

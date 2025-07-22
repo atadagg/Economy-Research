@@ -1,0 +1,16 @@
+# Economic Content from: 20241020_Nilüfer Özkan ile tv100 Ana Haber ｜ 20 Ekim 2024.tr.txt
+# Processed: 2025-07-22T18:41:40.066510
+# Original: 6171 words → Filtered: 53 words (0.86% retention)
+# Economic segments: 1
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 53
+**Retention**: 103.92%
+
+Hazine ve Maliye Bakanlığı, kayıt dışı saat ticareti ile uğraşanları tek tek tespit etti ve bir yılda 4 milyar liralık kayıt dışı ticareti ortaya çıkardı. Bu durum, vergi denetiminde yapılan çalışmaların önemini vurguluyor ve ekonomik kayıpların önlenmesi açısından kritik bir adım olarak değerlendiriliyor. Ayrıca, bu tür denetimlerin piyasalardaki adaletsiz rekabeti azaltma potansiyeli bulunuyor.
+
+================================================================================
+

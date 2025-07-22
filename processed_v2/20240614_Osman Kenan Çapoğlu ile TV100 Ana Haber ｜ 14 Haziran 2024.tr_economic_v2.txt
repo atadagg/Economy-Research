@@ -1,0 +1,27 @@
+# Economic Content from: 20240614_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 14 Haziran 2024.tr.txt
+# Processed: 2025-07-22T18:23:39.108039
+# Original: 9307 words → Filtered: 153 words (1.64% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: pattern_validated
+**Confidence**: 0.75
+**Word Count**: 73
+**Retention**: 70.87%
+
+Şu anda İstanbul'da ekonomik hareketliliği etkileyen bazı göstergeler var. Özellikle köprü trafiklerinde yaşanan yoğunluk, vatandaşların şehirden çıkış yapmaya başladığını gösteriyor. Bu durum, ekonomik faaliyetlerin değişimini de yansıtıyor. 15 Temmuz Şehitler Köprüsü ve Fatih Sultan Mehmet Köprüsü'nde Avrupa'dan Anadolu'ya geçişlerdeki yoğunluk, ticaret ve iş gücü hareketliliği açısından önemli bir gösterge. Ayrıca, şehir içindeki trafik artışı, iş yerlerinin ve ticari faaliyetlerin yoğunluğunu da etkileyebilir. Bu tür ekonomik veriler, İstanbul'un genel ekonomik durumu hakkında fikir veriyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 80
+**Retention**: 111.11%
+
+Çeşme'de fiyatlar 500 liradan başlıyor, 3500 liraya kadar çıkıyor. Bodrum'da bulunan bir işletme, geçen sene olduğu gibi bu sene de fiyatı en yüksek işletmelerden biri olarak öne çıkıyor. Bu işletmede plaj kullanımı için toplam 225 Euro belirlendi; bu rakamın 75 eurosunu giriş için, 150 eurosunu ise içeride alınacak giyecek ve içecek hizmeti için alıyor. Bodrum'daki başka bir işletmede plaj girişi için kişi başı 6 Euro talep ediliyor. Bu fiyatlar, bölgedeki turizm sektörünün ekonomik dinamiklerini etkileyen önemli bir gösterge olarak değerlendiriliyor.
+
+================================================================================
+

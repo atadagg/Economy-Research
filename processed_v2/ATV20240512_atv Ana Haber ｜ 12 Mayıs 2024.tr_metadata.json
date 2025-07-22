@@ -1,0 +1,48 @@
+{
+  "file_path": "news/ATV/ATV20240512_atv Ana Haber ｜ 12 Mayıs 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T16:20:21.431041",
+  "original_word_count": 4546,
+  "filtered_word_count": 113,
+  "retention_ratio": 0.024857017157941048,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 23,
+      "start_sentence": "İyi akşamlar Bugün 12 Mayıs 2024 pazar...",
+      "description": "\"İyi akşamlar Bugün 12 Mayıs 2024 pazar...\" - The opening of the broadcast where the presenter greets the audience and introduces the date and context of the program.",
+      "end_pos": 100
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 100,
+      "start_sentence": "Deniz kurdu 2 tatbikatına ilk tebrik başkomutan Erdoğan'dan geldi...",
+      "description": "\"Deniz kurdu 2 tatbikatına ilk tebrik başkomutan Erdoğan'dan geldi...\" - The main news content discussing various military exercises, statements from officials, and developments in Turkey's defense capabilities.",
+      "end_pos": 1821
+    },
+    {
+      "type": "3. **OUTRO**",
+      "start_pos": 1821,
+      "start_sentence": "Cumhurbaşkanı Erdoğan tarihi Yunanistan ziyareti sonrası...",
+      "description": "\"Cumhurbaşkanı Erdoğan tarihi Yunanistan ziyareti sonrası...\" - The closing remarks that summarize the news and provide a transition to upcoming events or topics, indicating the end of the program.",
+      "end_pos": 32817
+    }
+  ],
+  "news_segments_count": 4,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "1821_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 199,
+      "filtered_length": 113,
+      "retention_ratio": 0.5678391959798995,
+      "section_description": "\"Cumhurbaşkanı Erdoğan tarihi Yunanistan ziyareti sonrası...\" - The closing remarks that summarize the news and provide a transition to upcoming events or topics, indicating the end of the program."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "file_path": "news/TV100/20240627_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 27 Haziran 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T17:58:24.083776",
+  "original_word_count": 8681,
+  "filtered_word_count": 61,
+  "retention_ratio": 0.00702684022578044,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "Mutlu akşamlar 27 Haziran Perşembe TV1 an Haber'de...",
+      "description": "\"Mutlu akşamlar 27 Haziran Perşembe TV1 an Haber'de...\" - The opening segment introduces the program and the date, setting the stage for the news broadcast.",
+      "end_pos": 90
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 90,
+      "start_sentence": "Gündem yoğun hareketli Cumhurbaşkanı Recep Tayyip Erdoğan Estonya Cumhurbaşkanı...",
+      "description": "\"Gündem yoğun hareketli Cumhurbaşkanı Recep Tayyip Erdoğan Estonya Cumhurbaşkanı...\" - This section contains the main news content, discussing various topics including the meeting between the Turkish and Estonian presidents, Turkey's EU membership aspirations, and international issues such as the situation in Gaza and potential global conflicts.",
+      "end_pos": 1151
+    },
+    {
+      "type": "3. **OUTRO**",
+      "start_pos": 1151,
+      "start_sentence": "Türkiye olarak bu konularda Elimizden gelen ne varsa yapmaya devam edeceğiz...",
+      "description": "\"Türkiye olarak bu konularda Elimizden gelen ne varsa yapmaya devam edeceğiz...\" - The closing remarks summarize Turkey's commitment to international issues and provide a conclusion to the news segment.",
+      "end_pos": 62479
+    }
+  ],
+  "news_segments_count": 7,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "90_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 128,
+      "filtered_length": 61,
+      "retention_ratio": 0.4765625,
+      "section_description": "\"Gündem yoğun hareketli Cumhurbaşkanı Recep Tayyip Erdoğan Estonya Cumhurbaşkanı...\" - This section contains the main news content, discussing various topics including the meeting between the Turkish and Estonian presidents, Turkey's EU membership aspirations, and international issues such as the situation in Gaza and potential global conflicts."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

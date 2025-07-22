@@ -1,0 +1,56 @@
+# Economic Content from: 20240827_Show Ana Haber 27 Ağustos 2024.tr.txt
+# Processed: 2025-07-22T17:22:59.963651
+# Original: 2530 words → Filtered: 318 words (12.57% retention)
+# Economic segments: 4
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 80
+**Retention**: 35.09%
+
+Devletin açıkladığı artış oranının dışına çıktığından dolayı yıllık artışta bence tamamen yasal değil. Altına endeksli zam TÜFE zamına göre karlı mı? Aslında geçen yılın verilerini karşılaştırdığınızda ortada pek bir fark göze çarpmıyor. Ama son yılı baz alırsanız kar miktarı % ulaşıyor. Açıklanan enflasyona güvenmiyorum. Tüfeği beğenmiyorum diyor, tüfeğe inanmıyorum. Bu durum, kiracıların ve ev sahiplerinin ekonomik kararlarını etkileyen önemli bir faktör. Kiracı haber ulaştığında ev sahibinin asıl niyetinin bambaşka olduğu ortaya çıktı. Bu tür gelişmeler, emlak piyasasında dalgalanmalara neden olabilir.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 104
+**Retention**: 100.00%
+
+000 T para ödülümüz var umarım bulurlar ve bana ulaşırlar Sivas'ta yaşayan Tuğçe Yıldız
+pati ismini verdiği kedisini daha beş günlükken sahiplenmiş Gözü gibi baktı büyüttü sıcaklar artınca
+bunalması korktu pencereyi açık bırakınca patik kaçıp kayboldu camdan atladığını düşünüyoruz
+sıcaktan kaynaklı biraz böyle şey daraldığını düşünüp açmıştım ama oradan kaçtı Büyük ihtimal
+fazlasıyla Vicdan azabını yaşıyorum açıkçası sokak sokak gezip kayıp kedisini aramaya başladı birçok
+yere ilan astık sosyal medyadan paylaştık daha 3 aylık bir kedi dışarıyı falan hiç bilmiyor Bu
+çevrede de çok fazla yabani hayvan var başına bir iş gelmesinden çok korkuyorum genç kadın kedisini
+getirene ödül sözü verdi bulana da 5
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 85
+**Retention**: 44.04%
+
+Okulların açılmasına sayılı günler kala, servis ücretleri % 1200'e yakın artış gösterdi. Bu durum aileleri zorluyor; özellikle büyükşehirlerde bazı okul servisleri % 100'ü aşan zam yaptı. Yıllık servis ücretleri bazı bölgelerde 100.000 liraya yaklaşırken, özel okul fiyatları da oldukça yüksek. Örneğin, bir servis şirketi 3,8 kilometrelik mesafe için yıllık yaklaşık 6.000 TL'lik ücret talep ediyor. Aynı mesafe taksi ile gidildiğinde ise sadece 220 TL'ye mal oluyor, bu da taksilerin servis ücretlerinden daha uygun hale geldiğini gösteriyor. Veliler, yüksek servis ücretleri nedeniyle ne yapacaklarını düşünmeye başladı.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_final
+**Confidence**: 0.50
+**Word Count**: 49
+**Retention**: 37.98%
+
+Özel okullarda servis ücretlerinde artış yaşanması, velilerin alternatif çözümler aramaya başlamasına neden oldu. Bazı aileler çocuklarını kendileri götürmeyi, bazıları ise taksi kullanmayı planlıyor. Servis şirketleri, fiyatların bu denli yükselmesinde özel okul yönetimlerinin payı olduğunu öne sürüyor. Örneğin, öğretmenler için ücretsiz servis talebinin faturası da veliye fiyat artışı olarak yansıyor.
+
+================================================================================
+

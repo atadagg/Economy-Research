@@ -1,0 +1,62 @@
+# Economic Content from: 20240725_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 25 Temmuz 2024.tr.txt
+# Processed: 2025-07-22T18:24:10.123342
+# Original: 10109 words → Filtered: 340 words (3.36% retention)
+# Economic segments: 5
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 76
+**Retention**: 69.72%
+
+500 liraya yükseltilecek en düşük emekli maaşı, emeklilerin alım gücünü artırmayı hedefliyor. Meclisteki genel kurul görüşmeleri ve yeni vergi paketi kanun teklifi de ekonomik etkileri açısından önemli. 54 maddeden oluşan teklifin tümü kabul edildiğinde, Cumhurbaşkanı Erdoğan'ın onayına gidecek ve bu durum, emeklilerin mali durumunu etkileyecek. Emekliler için en düşük emekli aylığı 10,000 TL'den 12,000 TL'ye yükselecek, bu da enflasyon karşısında bir iyileşme sağlayacak. Bu değişiklik, sosyal güvenlik sisteminin sürdürülebilirliği açısından da önemli bir adım olarak değerlendiriliyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 98
+**Retention**: 30.82%
+
+Yurt dışına çıkış harcının 150 liradan 500 liraya çıkacağı belirtiliyor. Bu durum, yurt dışına çıkacak olanların harç ödemelerini etkileyerek planlarını değiştirmelerine neden olacak. Yeni vergi paketinin içerisinde vergi adaleti ve kayıt dışını önlemeye yönelik birçok düzenleme yer alıyor. Ayrıca, emekli olduktan sonra aynı iş yerinde çalışmaya devam edenler için işveren destek priminden vazgeçilmesi düzenleniyor. 
+
+Yeni vergi paketinin görüşmeleri henüz başlamadı ve bu süreçte meclisin mesaisi devam ediyor. Vergilendirme ve vergi adaleti konuları, emeklilerin dikkatle takip ettiği önemli meseleler arasında yer alıyor. En düşük emekli maaşının %25'lik artışla 12.000 TL olması bekleniyor. Bu durum, emeklilerin alım güçlerini artırmayı hedefliyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 47
+**Retention**: 69.12%
+
+Süleyman Aslan'dan 2 milyon dolar alındığı ve tarafların arasındaki ilişkinin bankacı müşteri ilişkisinin ötesine geçtiği belirtildi. Seçil Erzan'ın acil kredi ihtiyacında Süleyman Aslan'dan kazanç karşılığı ödünç para aldığı anlatıldı. İddianamede, Seçil Erzan'ın Süleyman Aslan'dan 14 milyon lira geri ödemeli 10 milyon lira ödünç para aldığı ifade edildi.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 58
+**Retention**: 35.37%
+
+Artan maliyetler kiracıları yeni yola sevk etmeye başladı. Paylaşımlı ev ilanlarının sayısı her geçen gün artış gösteriyor. Kiracılar, kirada %25'lik sınırın kalkmasının ardından gelecek zamların farkında. Bu durum, bazı kiracıların haksız kazanç elde etmesine yol açıyor. Elde edilen gelir yasal değilse, ev sahiplerinin izni olmadan yapılan kiralamalar sorun yaratıyor. Ekonomik koşullar, kiracıların ev bulma stratejilerini değiştirmelerine neden oluyor.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_final
+**Confidence**: 0.50
+**Word Count**: 61
+**Retention**: 34.08%
+
+Yatırım için hangi bilezik alınmalı altın bilezik alarak hem takı hem de yatırım yapmak isteyenlere öneriler geldi. Yatırım için burma bileziklerim var, bizim annelerimizden kalan burma bilezikler halen o şekilde. Bir burma bilezik alıp da yatırımı istediğiniz şekilde yapabilirsiniz; burma bileziğin işçiliği daha az olduğu için direkt makine işi olduğu için yatırım açısından tercih edilebilir. Fiyatı öğrendik, en düşüğü 60.000 liraymış.
+
+================================================================================
+

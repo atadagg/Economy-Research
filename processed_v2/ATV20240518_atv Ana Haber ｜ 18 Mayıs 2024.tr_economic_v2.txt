@@ -1,0 +1,27 @@
+# Economic Content from: ATV20240518_atv Ana Haber ｜ 18 Mayıs 2024.tr.txt
+# Processed: 2025-07-22T15:57:59.096848
+# Original: 4520 words → Filtered: 229 words (5.07% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 120
+**Retention**: 59.41%
+
+Cumartesi kamuda tasarruf ve verimlilik için hazırlanan düzenleme Cumhurbaşkanı Erdoğan imzasıyla yürürlüğe girdi. Kamuda tasarruf ve verimlilik paketinin sadece 3 yıllık bir hedef olarak görülmemesi gerektiğine inanıyorum. Kamuda tasarruf kültürünü kurumsal bir niteliğe kavuşturarak bu konudaki farkındalığın sürekli yüksek kalmasını sağlayacağız. Merkezi idareler, yerel yönetimler, kamu iktisadi teşebbüsleri, döner sermayeler ve fonlar bu paketin kapsamındadır. İlk olarak Adalet Bakanlığı, Enerji ve Tabii Kaynaklar Bakanlığı, Milli Savunma Bakanlığı ve Tarım Bakanlığı tasarruf paketine destek vermek için kolları sıvadı. Cari açıktaki iyileşmede hız kazanacak yerli üreticiler inşallah bundan olumlu etkilenecek. Tasarruf tedbirlerine istisnasız olarak tüm kamu idareleri ve personeli uymak zorundadır. Harcanan her kuruşun hesabını soran bir bakış açısını egemen kılıyoruz. Enerji ve Tabii Kaynaklar Bakanlığı da enerji tasarrufu için çalışmalarını sürdürüyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 109
+**Retention**: 57.98%
+
+Milyonlar Galatasaray kilitlendi dev karşılaşmada taraftar maç gününü beklerken takımını statta izleyip destek vermek isteyenler bilet bulma telaşında ama işleri hiç kolay değil. Biletler neredeyse araba fiyatıyla yarışır hale geldi; 750.000 liraya değer bir bilet olur mu, mümkün değil. Böyle bir fiyatlara hiç kimsenin gitmesi mümkün değil. Dev derbiyi statı izlemek isteyenler için biletler 4 gün önce satışa çıktı ve satışa çıkar çıkmaz kar borsaya düştü. Sonrasında da biletler kar borsada en düşük 177.000 liraya satılmaya başlandı. İşte bu da araba parasına denk gelen maç bileti. Bilet bulamayan taraftara tepkili devletin özellikle kara borsa ile mücadele etmesi gerekiyor. Bilet fiyatlarını biraz daha düşürsünler, bu kara borsa durumu kabul edilemez.
+
+================================================================================
+

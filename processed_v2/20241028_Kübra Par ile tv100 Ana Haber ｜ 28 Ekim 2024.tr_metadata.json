@@ -1,0 +1,62 @@
+{
+  "file_path": "news/TV100/20241028_Kübra Par ile tv100 Ana Haber ｜ 28 Ekim 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T18:17:35.871629",
+  "original_word_count": 8044,
+  "filtered_word_count": 66,
+  "retention_ratio": 0.008204873197414222,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "Efendiler Yarın Cumhuriyeti ilan edeceğiz demişti Mustafa Kemal Atatürk",
+      "description": "\"Efendiler Yarın Cumhuriyeti ilan edeceğiz demişti Mustafa Kemal Atatürk\" - The opening remarks introduce the significance of the upcoming Republic Day and set the tone for the broadcast.",
+      "end_pos": 93
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 93,
+      "start_sentence": "Yarın 29 Ekim Cumhuriyet Bayramı tusaş saldırısının gölgesinde mi kalacak diye endişelenmiş tik saldırı da kaybetti imiz şehitlerimiz",
+      "description": "\"Yarın 29 Ekim Cumhuriyet Bayramı tusaş saldırısının gölgesinde mi kalacak diye endişelenmiş tik saldırı da kaybetti imiz şehitlerimiz\" - This section contains the main news content discussing the implications of recent events on the Republic Day celebrations, including the cancellation of events and the response from local governments.",
+      "end_pos": 674
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 674,
+      "start_sentence": "Neyse ki siyasetçilerimiz de böyle düşündü",
+      "description": "\"Neyse ki siyasetçilerimiz de böyle düşündü\" - This brief transition connects the discussion about the cancellation of celebrations to the decision made by politicians to reinstate the events.",
+      "end_pos": 1063
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1063,
+      "start_sentence": "Cumhuriyet bayramımızı coşkuyla kutluyoruz efendim",
+      "description": "\"Cumhuriyet bayramımızı coşkuyla kutluyoruz efendim\" - This section continues with the news content, emphasizing the celebration of Republic Day and the upcoming speeches by political leaders.",
+      "end_pos": 1555
+    },
+    {
+      "type": "5. **OUTRO**",
+      "start_pos": 1555,
+      "start_sentence": "milletimizin Kızıl elmasına dönüşen Türkiye yüzyılının inşası yolunda azim ve sabırla ilerliyoruz",
+      "description": "\"milletimizin Kızıl elmasına dönüşen Türkiye yüzyılının inşası yolunda azim ve sabırla ilerliyoruz\" - The closing remarks reflect on the nation's progress and resilience, concluding the broadcast with a message of unity and determination.",
+      "end_pos": 59033
+    }
+  ],
+  "news_segments_count": 12,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "1555_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 160,
+      "filtered_length": 66,
+      "retention_ratio": 0.4125,
+      "section_description": "\"milletimizin Kızıl elmasına dönüşen Türkiye yüzyılının inşası yolunda azim ve sabırla ilerliyoruz\" - The closing remarks reflect on the nation's progress and resilience, concluding the broadcast with a message of unity and determination."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

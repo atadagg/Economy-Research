@@ -1,0 +1,57 @@
+{
+  "file_path": "news/Show/20240909_Show Ana Haber 9 Eylül 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T17:32:51.102345",
+  "original_word_count": 2701,
+  "filtered_word_count": 157,
+  "retention_ratio": 0.058126619770455384,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "Şana haberden İyi akşamlar sayın seyirciler...",
+      "description": "\"Şana haberden İyi akşamlar sayın seyirciler...\" - The opening segment where the presenter greets the audience and introduces the program, setting the tone for the news broadcast.",
+      "end_pos": 93
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 93,
+      "start_sentence": "maalesef Türkiye güne acı haberlerle uyandı...",
+      "description": "\"maalesef Türkiye güne acı haberlerle uyandı...\" - The main content of the broadcast, detailing tragic news stories about military casualties in Turkey, including personal stories of the fallen soldiers and their families.",
+      "end_pos": 1543
+    },
+    {
+      "type": "3. **OUTRO**",
+      "start_pos": 1543,
+      "start_sentence": "Feryadı taşı bile ağlattı ol Kahraman Vatan evlatları...",
+      "description": "\"Feryadı taşı bile ağlattı ol Kahraman Vatan evlatları...\" - The closing remarks that reflect on the emotional impact of the news shared, providing a somber conclusion to the broadcast.",
+      "end_pos": 18846
+    }
+  ],
+  "news_segments_count": 6,
+  "economic_segments_count": 2,
+  "economic_segments": [
+    {
+      "segment_id": "1543_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 75,
+      "filtered_length": 75,
+      "retention_ratio": 1.0,
+      "section_description": "\"Feryadı taşı bile ağlattı ol Kahraman Vatan evlatları...\" - The closing remarks that reflect on the emotional impact of the news shared, providing a somber conclusion to the broadcast."
+    },
+    {
+      "segment_id": "1543_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 85,
+      "filtered_length": 82,
+      "retention_ratio": 0.9647058823529412,
+      "section_description": "\"Feryadı taşı bile ağlattı ol Kahraman Vatan evlatları...\" - The closing remarks that reflect on the emotional impact of the news shared, providing a somber conclusion to the broadcast."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

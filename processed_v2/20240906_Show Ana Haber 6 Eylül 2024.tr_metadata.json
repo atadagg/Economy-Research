@@ -1,0 +1,85 @@
+{
+  "file_path": "news/Show/20240906_Show Ana Haber 6 Eylül 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T17:38:08.687207",
+  "original_word_count": 2631,
+  "filtered_word_count": 134,
+  "retention_ratio": 0.050931204865070315,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "İyi akşamlar sayın seyirciler...",
+      "description": "\"İyi akşamlar sayın seyirciler...\" - The presenter opens the broadcast, greeting the audience and introducing the program's focus on the day's significant developments.",
+      "end_pos": 94
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 94,
+      "start_sentence": "10 aydır Türkiye'nin gündeminden düşmeyen Polatlar davası ile başlayalım...",
+      "description": "\"10 aydır Türkiye'nin gündeminden düşmeyen Polatlar davası ile başlayalım...\" - The main news segment begins, detailing the developments in the Polatlar case, including the court's decision and reactions from those involved.",
+      "end_pos": 94
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 94,
+      "start_sentence": "Sonra da enerji şarkısıyla kutlama yaptı...",
+      "description": "\"Sonra da enerji şarkısıyla kutlama yaptı...\" - A brief transition occurs as the narrative shifts from the court's decision to the celebratory reactions of Dilan Polat, indicating a change in focus within the news story.",
+      "end_pos": 588
+    },
+    {
+      "type": "5. **TRANSITION**",
+      "start_pos": 588,
+      "start_sentence": "O zaman Ener enerjili kutlamanın ardından...",
+      "description": "\"O zaman Ener enerjili kutlamanın ardından...\" - Another transition that leads into a retrospective look at Dilan Polat's previous experiences related to her family's situation, marking a shift in the narrative.",
+      "end_pos": 777
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 777,
+      "start_sentence": "Polatlar davasında ilk duruşmadan sonra tutuklu sanık kalmadı...",
+      "description": "\"Polatlar davasında ilk duruşmadan sonra tutuklu sanık kalmadı...\" - The news segment continues with further details about the case, including the implications of the court's ruling and the emotional responses from the family.",
+      "end_pos": 1767
+    },
+    {
+      "type": "7. **OUTRO**",
+      "start_pos": 1767,
+      "start_sentence": "akabinde inşallah de kalben gön inanıyoruz...",
+      "description": "\"akabinde inşallah de kalben gön inanıyoruz...\" - The closing remarks reflect on the emotional aspects of the case and the hope for justice, signaling the end of the program.",
+      "end_pos": 1868
+    },
+    {
+      "type": "6. **NEWS**",
+      "start_pos": 1868,
+      "start_sentence": "Cumhuriyet Başsavcılığı sanıkların kaçma şüphesi var...",
+      "description": "\"Cumhuriyet Başsavcılığı sanıkların kaçma şüphesi var...\" - The news segment wraps up with additional developments from the prosecutor's office regarding concerns about the defendants' potential flight risk.",
+      "end_pos": 18003
+    }
+  ],
+  "news_segments_count": 6,
+  "economic_segments_count": 2,
+  "economic_segments": [
+    {
+      "segment_id": "94_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 69,
+      "filtered_length": 69,
+      "retention_ratio": 1.0,
+      "section_description": "\"Sonra da enerji şarkısıyla kutlama yaptı...\" - A brief transition occurs as the narrative shifts from the court's decision to the celebratory reactions of Dilan Polat, indicating a change in focus within the news story."
+    },
+    {
+      "segment_id": "1868_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 185,
+      "filtered_length": 65,
+      "retention_ratio": 0.35135135135135137,
+      "section_description": "\"Cumhuriyet Başsavcılığı sanıkların kaçma şüphesi var...\" - The news segment wraps up with additional developments from the prosecutor's office regarding concerns about the defendants' potential flight risk."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

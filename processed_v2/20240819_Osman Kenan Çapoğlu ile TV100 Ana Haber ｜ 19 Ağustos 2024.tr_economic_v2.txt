@@ -1,0 +1,51 @@
+# Economic Content from: 20240819_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 19 Ağustos 2024.tr.txt
+# Processed: 2025-07-22T18:25:00.089547
+# Original: 11155 words → Filtered: 398 words (3.57% retention)
+# Economic segments: 4
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 113
+**Retention**: 74.34%
+
+10 dolar aralığını bu hafta takip edeceğiz. Gram altın yatırımcısına bir ayda 100 lira kar getirdi. Peki ya şimdi altın fiyatları iner mi çıkar mı? Türkiye Cumhuriyeti Merkez Bankası'nın faiz kararı beklentisi Eylülde faiz indirimi tahminleri altın fiyatlarını harekete geçirdi. Altın fiyatları yaza sakin başladı ancak bir ay öncesinde rakamlar yeniden yükseldi ve sadece son bir ayda gram altının fiyatı 110 lira arttı. Ancak faiz kararının hemen öncesinde haftanın ilk gününde altın yeniden düşüşe geçti. Altın fiyatları geçen haftayı yükselişle tamamladı. Şu anda piyasalar sakin bir seyirde haftaya başladı; 2508 dolar seviyesine kadar ons altın, 2752 lira seviyesine kadar da gram altın yükseldi. Rakamlar fırtına öncesi sessizlik mi derken yeni düşüş sinyalleri geldi.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 155
+**Retention**: 49.05%
+
+700 lir seviyesinin altına sarkmasına bu hafta neden olabilir ancak uzmanlara göre altın uzun vadede yine kazandıracak. Yine en karlı yatırım araçlarının başında gelecek. Bazı uzmanlar gram altının yıl sonunda 300'e kadar yükselebileceğini öne sürdü. Eylül ayında 2820-2870 lira aralığına odaklanacağız, yıl sonunda da 3000-3500 lira aralığına odaklanacağız. 
+
+Bu yıl turizmin bilançosuna bir göz atalım. Zira tatile gitmenin faturası ağırdı. Hemen herkes de anladığımız kadarıyla böyle düşünüyordu ki beş yıldızlı otellerin gecelik fiyatlarına bakınca yanına yaklaşılmıyor. Haliyle boş kaldılar. Turizmciler müşteri çekmek için bazı adımlar attılar; fiyatlar hemen hemen yarı yarıya indi ama sonuç değişmedi. Oteller sonbahar gelmeden müşterileri kaçırmamak için bir kez daha %30 oranında indirime gitti. Şimdi hedeflere ulaşılamadı. Erken rezervasyon kampanyaları ve sınırlı indirimler yeterli olmadı, oteller boş kaldı. Bodrum, Antalya, İzmir gibi gözde tatil merkezlerinde fiyatlara bindirim üstüne bindirim gelmişti. Fiyatlara tepki gösterenler ya komşu Yunanistan'a gitti ya da memleketlerine döndü. Otelciler, müşteri kazanmak için erken rezervasyonda yarı yarıya indirim uyguladı.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 76
+**Retention**: 38.78%
+
+Turizm sektöründe otel fiyatları 10,000 liraya yükselmiş olsa da, turizmciler bekledikleri müşteri sayısını bulamadı. Bu durum, otellerin indirim yapma zorunluluğunu doğurdu. İnşaat sektöründe ise, deprem sonrası inşaatların hız kazanmasıyla birlikte eleman sıkıntısı daha da arttı. Kalifiye işçi bulmakta zorlanan inşaat firmaları, maaşları artırmak zorunda kaldı. İyi bir inşaat ustası, maaş pazarlığına 150,000 liradan başlıyor. İşçi sayısının az olması nedeniyle, günlük işçi ücretleri 1,500 ile 2,500 lira arasında değişiyor. İnşaat sektöründe ciddi bir kalifiye eleman sıkıntısı yaşanıyor.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 54
+**Retention**: 67.50%
+
+Maaşlar söz konusu oldu. Bu meslekler altın değerinde günümüzde inşaat sektörü öyle bir hal aldı ki ustaların maaşı beyaz yakalıları solladı. Yani ciddi anlamda bir usta usta başı, yaptığı mesleğe göre değişir. Bu durum, inşaat sektöründeki iş gücü talebinin artmasıyla doğrudan ilişkilidir. Usta maaşlarının yükselmesi, sektördeki iş gücü maliyetlerini etkileyerek genel inşaat maliyetlerini artırabilir.
+
+================================================================================
+

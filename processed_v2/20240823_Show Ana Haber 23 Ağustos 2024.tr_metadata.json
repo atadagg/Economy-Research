@@ -1,0 +1,73 @@
+{
+  "file_path": "news/Show/20240823_Show Ana Haber 23 Ağustos 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T17:23:52.468196",
+  "original_word_count": 2446,
+  "filtered_word_count": 473,
+  "retention_ratio": 0.19337694194603433,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "İyi akşamlar değerli izleyenler",
+      "description": "\"İyi akşamlar değerli izleyenler\" - The presenter introduces herself and the program, indicating the start of the broadcast and the main topics to be covered.",
+      "end_pos": 95
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 95,
+      "start_sentence": "Cumhurbaşkanı Erdoğan pazar günü kabinesini ahlat'ta toplamaya",
+      "description": "\"Cumhurbaşkanı Erdoğan pazar günü kabinesini ahlat'ta toplamaya\" - This section contains the actual news content, discussing various stories including President Erdoğan's actions and other political developments.",
+      "end_pos": 961
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 961,
+      "start_sentence": "İstanbul Büyükşehir Belediye başkanı Ekrem imamoğlu'nun",
+      "description": "\"İstanbul Büyükşehir Belediye başkanı Ekrem imamoğlu'nun\" - This brief transition introduces a new news story related to the meeting between İmamoğlu and Kılıçdaroğlu, indicating a shift in focus within the news segment.",
+      "end_pos": 1944
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1944,
+      "start_sentence": "Ticaret Bakanlığı karkas set fiyatları",
+      "description": "\"Ticaret Bakanlığı karkas set fiyatları\" - This continues the news content, likely discussing another news story related to the Ministry of Trade.",
+      "end_pos": 17338
+    }
+  ],
+  "news_segments_count": 8,
+  "economic_segments_count": 3,
+  "economic_segments": [
+    {
+      "segment_id": "961_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 125,
+      "filtered_length": 125,
+      "retention_ratio": 1.0,
+      "section_description": "\"İstanbul Büyükşehir Belediye başkanı Ekrem imamoğlu'nun\" - This brief transition introduces a new news story related to the meeting between İmamoğlu and Kılıçdaroğlu, indicating a shift in focus within the news segment."
+    },
+    {
+      "segment_id": "1944_0",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 160,
+      "filtered_length": 89,
+      "retention_ratio": 0.55625,
+      "section_description": "\"Ticaret Bakanlığı karkas set fiyatları\" - This continues the news content, likely discussing another news story related to the Ministry of Trade."
+    },
+    {
+      "segment_id": "1944_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 259,
+      "filtered_length": 259,
+      "retention_ratio": 1.0,
+      "section_description": "\"Ticaret Bakanlığı karkas set fiyatları\" - This continues the news content, likely discussing another news story related to the Ministry of Trade."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

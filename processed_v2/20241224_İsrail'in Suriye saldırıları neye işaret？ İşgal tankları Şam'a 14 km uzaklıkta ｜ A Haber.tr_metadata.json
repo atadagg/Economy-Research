@@ -1,0 +1,69 @@
+{
+  "file_path": "news/AHaber/20241224_İsrail'in Suriye saldırıları neye işaret？ İşgal tankları Şam'a 14 km uzaklıkta ｜ A Haber.tr.txt",
+  "processing_timestamp": "2025-07-22T15:43:41.161570",
+  "original_word_count": 5370,
+  "filtered_word_count": 78,
+  "retention_ratio": 0.01452513966480447,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "işgalciler Hala Suriye topraklarında",
+      "description": "\"işgalciler Hala Suriye topraklarında\" - The program begins with an introduction to the topic of occupation in Syria, setting the stage for the news content that follows.",
+      "end_pos": 58
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 58,
+      "start_sentence": "Tabii ki terör örgütü PKK hala Fırat'ın doğusunda",
+      "description": "\"Tabii ki terör örgütü PKK hala Fırat'ın doğusunda\" - This section contains the main news content discussing various aspects of the situation in Syria, including the PKK's presence and Israeli actions in the region. It includes detailed reports and commentary on the ongoing conflict.",
+      "end_pos": 577
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 577,
+      "start_sentence": "Şimdi bir bölgeye uzanacağız",
+      "description": "\"Şimdi bir bölgeye uzanacağız\" - This brief transition indicates a shift to a specific report from a correspondent in the field, preparing the audience for a more detailed segment.",
+      "end_pos": 577
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 577,
+      "start_sentence": "Geride bıraktığımız gün arkadaşımız Mehmet Geçgel bölgedeydi",
+      "description": "\"Geride bıraktığımız gün arkadaşımız Mehmet Geçgel bölgedeydi\" - This part continues with the news content, focusing on the correspondent's report from the region, detailing the current situation and military actions.",
+      "end_pos": 769
+    },
+    {
+      "type": "5. **NEWS**",
+      "start_pos": 769,
+      "start_sentence": "Şam'ın güneyinde İsrail işgal etti noktaları genişletiyor",
+      "description": "\"Şam'ın güneyinde İsrail işgal etti noktaları genişletiyor\" - This section further elaborates on the Israeli occupation and military activities, providing live updates and descriptions of the events occurring in the area.",
+      "end_pos": 1659
+    },
+    {
+      "type": "6. **OUTRO**",
+      "start_pos": 1659,
+      "start_sentence": "Evet şu anda tank olduğu yerden çıktı",
+      "description": "\"Evet şu anda tank olduğu yerden çıktı\" - The program concludes with remarks summarizing the situation and possibly a farewell to the audience, although the exact closing remarks are not fully captured in the provided text.",
+      "end_pos": 36923
+    }
+  ],
+  "news_segments_count": 4,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "769_0",
+      "method": "pattern_validated",
+      "confidence": 0.75,
+      "original_length": 78,
+      "filtered_length": 78,
+      "retention_ratio": 1.0,
+      "section_description": "\"Şam'ın güneyinde İsrail işgal etti noktaları genişletiyor\" - This section further elaborates on the Israeli occupation and military activities, providing live updates and descriptions of the events occurring in the area."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

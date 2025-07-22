@@ -1,0 +1,76 @@
+{
+  "file_path": "news/AHaber/20241125_Narin Güran Cinayetinde Kritik Gelişmeler! Savcılığın Yeni Hamlesi Ne？ İşte Tüm Detaylar ｜ A Haber.tr.txt",
+  "processing_timestamp": "2025-07-22T15:51:47.538772",
+  "original_word_count": 12224,
+  "filtered_word_count": 80,
+  "retention_ratio": 0.006544502617801047,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "ah oh gece ajansından bir kez daha iyi geceler değerli izleyenler",
+      "description": "\"ah oh gece ajansından bir kez daha iyi geceler değerli izleyenler\" - The opening of the broadcast where the presenter greets the viewers and introduces the program and guests.",
+      "end_pos": 96
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 96,
+      "start_sentence": "Narin güran davasındaki Soru işaretlerini konuşmaya devam ediyoruz",
+      "description": "\"Narin güran davasındaki Soru işaretlerini konuşmaya devam ediyoruz\" - The main content of the broadcast, discussing the ongoing case and various details related to it, including expert opinions and evidence.",
+      "end_pos": 693
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 693,
+      "start_sentence": "Tabii Geride bıraktığımız gün öyle bir noktada kaldık ki",
+      "description": "\"Tabii Geride bıraktığımız gün öyle bir noktada kaldık ki\" - A brief transition that connects different parts of the news story, indicating a shift in focus to the previous day's developments.",
+      "end_pos": 790
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 790,
+      "start_sentence": "Dün yapılan Laboratuvar incelemelerinden nasıl bir sonuç çıktı",
+      "description": "\"Dün yapılan Laboratuvar incelemelerinden nasıl bir sonuç çıktı\" - Continuation of the news segment, focusing on the results of laboratory examinations related to the case.",
+      "end_pos": 1093
+    },
+    {
+      "type": "5. **TRANSITION**",
+      "start_pos": 1093,
+      "start_sentence": "Eee bu saç kılı nasıl olmuş yani adli tıp nereden almış",
+      "description": "\"Eee bu saç kılı nasıl olmuş yani adli tıp nereden almış\" - Another transition that leads into a more detailed discussion about specific evidence in the case.",
+      "end_pos": 1392
+    },
+    {
+      "type": "6. **NEWS**",
+      "start_pos": 1392,
+      "start_sentence": "Arkadaşlar bu son sayfa ilk sayfadan başlayalım",
+      "description": "\"Arkadaşlar bu son sayfa ilk sayfadan başlayalım\" - Further continuation of the news segment, where the discussion delves deeper into the evidence and reports being analyzed.",
+      "end_pos": 1587
+    },
+    {
+      "type": "7. **OUTRO**",
+      "start_pos": 1587,
+      "start_sentence": "Evet evet aynen suyun içerisinde deforme oldu mu olmadı mı",
+      "description": "\"Evet evet aynen suyun içerisinde deforme oldu mu olmadı mı\" - The closing remarks of the broadcast, summarizing the discussion and indicating the end of the program.",
+      "end_pos": 79223
+    }
+  ],
+  "news_segments_count": 6,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "96_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 80,
+      "filtered_length": 80,
+      "retention_ratio": 1.0,
+      "section_description": "\"Narin güran davasındaki Soru işaretlerini konuşmaya devam ediyoruz\" - The main content of the broadcast, discussing the ongoing case and various details related to it, including expert opinions and evidence."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

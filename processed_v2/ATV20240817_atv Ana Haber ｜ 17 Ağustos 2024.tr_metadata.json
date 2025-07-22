@@ -1,0 +1,101 @@
+{
+  "file_path": "news/ATV/ATV20240817_atv Ana Haber ｜ 17 Ağustos 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T16:06:07.695909",
+  "original_word_count": 4707,
+  "filtered_word_count": 200,
+  "retention_ratio": 0.04248990864669641,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 23,
+      "start_sentence": "İyi akşamlar yaklaşık 48 saattir Türkiye orman...",
+      "description": "\"İyi akşamlar yaklaşık 48 saattir Türkiye orman...\" - The presenter opens the broadcast, greeting the audience and introducing the main topic of discussion, which is the ongoing forest fires in Turkey.",
+      "end_pos": 89
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 89,
+      "start_sentence": "Tarım Bakanı İbrahim Yumaklı açıklamasına göre...",
+      "description": "\"Tarım Bakanı İbrahim Yumaklı açıklamasına göre...\" - This section contains detailed news content about the forest fires, including statistics, locations affected, and the response efforts by authorities and local communities.",
+      "end_pos": 385
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 385,
+      "start_sentence": "ama ilk olarak İzmir'e gidelim...",
+      "description": "\"ama ilk olarak İzmir'e gidelim...\" - A brief transition that indicates a shift in focus to a specific location, in this case, İzmir, where the fires have had a significant impact.",
+      "end_pos": 385
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 385,
+      "start_sentence": "İzmir'de başlayan yangınlar izmirlilere tam anlamıyla kabusu yaşattı...",
+      "description": "\"İzmir'de başlayan yangınlar izmirlilere tam anlamıyla kabusu yaşattı...\" - This section continues with the news content, providing specific details about the fires in İzmir, the damage caused, and the response from local authorities and residents.",
+      "end_pos": 969
+    },
+    {
+      "type": "5. **NEWS**",
+      "start_pos": 969,
+      "start_sentence": "alevler ilk olarak önceki gün Karşıyaka ilçesinde...",
+      "description": "\"alevler ilk olarak önceki gün Karşıyaka ilçesinde...\" - Further elaboration on the causes of the fires, the progression of the flames, and the ongoing firefighting efforts.",
+      "end_pos": 1256
+    },
+    {
+      "type": "6. **NEWS**",
+      "start_pos": 1256,
+      "start_sentence": "havadan helikopter ve uçaklar An be an şu anda...",
+      "description": "\"havadan helikopter ve uçaklar An be an şu anda...\" - This part continues to describe the firefighting efforts, including aerial support and the involvement of local residents in combating the fires.",
+      "end_pos": 1744
+    },
+    {
+      "type": "7. **NEWS**",
+      "start_pos": 1744,
+      "start_sentence": "Yamanlar mevkiindeki alevler yangın devam etti...",
+      "description": "\"Yamanlar mevkiindeki alevler yangın devam etti...\" - The narrative continues with the developments of the fire situation, detailing how the flames have spread and the impact on nearby structures.",
+      "end_pos": 1941
+    },
+    {
+      "type": "8. **OUTRO**",
+      "start_pos": 1941,
+      "start_sentence": "yangının ulaştığı yer...",
+      "description": "\"yangının ulaştığı yer...\" - This section wraps up the news segment, summarizing the current state of the fires and possibly leading into closing remarks.",
+      "end_pos": 33511
+    }
+  ],
+  "news_segments_count": 11,
+  "economic_segments_count": 3,
+  "economic_segments": [
+    {
+      "segment_id": "1256_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 75,
+      "filtered_length": 75,
+      "retention_ratio": 1.0,
+      "section_description": "\"havadan helikopter ve uçaklar An be an şu anda...\" - This part continues to describe the firefighting efforts, including aerial support and the involvement of local residents in combating the fires."
+    },
+    {
+      "segment_id": "1941_5",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 198,
+      "filtered_length": 79,
+      "retention_ratio": 0.398989898989899,
+      "section_description": "\"yangının ulaştığı yer...\" - This section wraps up the news segment, summarizing the current state of the fires and possibly leading into closing remarks."
+    },
+    {
+      "segment_id": "1941_6",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 82,
+      "filtered_length": 46,
+      "retention_ratio": 0.5609756097560976,
+      "section_description": "\"yangının ulaştığı yer...\" - This section wraps up the news segment, summarizing the current state of the fires and possibly leading into closing remarks."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

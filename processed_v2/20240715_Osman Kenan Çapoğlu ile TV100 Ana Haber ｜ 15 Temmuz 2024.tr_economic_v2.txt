@@ -1,0 +1,63 @@
+# Economic Content from: 20240715_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 15 Temmuz 2024.tr.txt
+# Processed: 2025-07-22T18:20:19.075928
+# Original: 7910 words → Filtered: 342 words (4.32% retention)
+# Economic segments: 4
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 90
+**Retention**: 59.60%
+
+Son durumda, en düşük emekli aylığı mevcut % 25'lik artışla birlikte 12 500 liraya çıkar mı, 12 000 liraya çıkar mı bu soru kafalarda var. Farklı formüllerin olduğu da dile getirildi. Yapılan çalışma, Cumhurbaşkanı Recep Tayyip Erdoğan'ın onayından sonra Türkiye Büyük Millet Meclisi'ne sunulacak. Gözler meclisin ilk mesai gününe çevrildi. Henüz netleşen bir rakam yok, o yüzden de çalışmalarımız devam ediyor diyebilirim. Bu hafta içinde verdiğimizde, önümüzdeki haftalarda inşallah yasalaşacak. 6 aylık enflasyon farkı olan % 2,73 zamma rağmen kök aylığı 10 000 liranın altında kalan 1 780 kişi bulunuyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 92
+**Retention**: 42.01%
+
+Samsun'da işyeri sahipleri ekonomik durumu eleştirerek, düğün salonlarının işletme maliyetlerinin arttığını belirtti. Düğünlerde yaşanan olaylar, işletmelerin gelirlerini olumsuz etkileyebilir. 
+
+Antalya'da, İnterpol tarafından aranan bir kişinin yakalanması, güvenlik ve ekonomik istikrar açısından önemli bir gelişme olarak değerlendirildi. Bu tür olaylar, turizm sektöründe güvenlik algısını etkileyebilir ve dolayısıyla ekonomik sonuçlar doğurabilir. 
+
+Ayrıca, yerel işletmelerin karşılaştığı zorluklar, genel ekonomik durumu yansıtan bir gösterge olarak öne çıkıyor. İşletme sahipleri, artan maliyetler ve güvenlik sorunları nedeniyle iş yapmanın zorlaştığını ifade ediyor. 
+
+Bu bağlamda, hükümetin ekonomik politikaları ve güvenlik önlemleri, iş dünyasının sürdürülebilirliği açısından kritik bir öneme sahip.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 109
+**Retention**: 31.87%
+
+Eğitim ücretlerindeki %220 oranındaki zam, öğrencilerin eğitim haklarını olumsuz etkiliyor. Yıllık enflasyon oranının %65 olması, üniversite maliyetlerinin artmasıyla birlikte barınma ve yeme içme giderlerini de etkiliyor. Bu durum, öğrencilerin eğitim hakkını engelliyor. 
+
+Kredi faizlerindeki artış, ev sahibi olmak isteyenleri zor durumda bırakıyor. Bankaların kredi faizlerine baktıklarında, akıl almaz bir bilanço ile karşı karşıya kalıyorlar. Bu nedenle, bankaların kredi faizlerinden şikayetçiler. Emlak piyasasında, müteahhitler mevcut durgunluktan dolayı yeni projeler geliştiremiyor. 
+
+Müteahhitler, elindeki gayrimenkulleri satamadıkları için yeni inşaat yapamıyorlar. Yatırımcılar ve ev sahibi olmak isteyenler, bankaların kredi faizlerini düşürmesini bekliyor. Ev almak için en uygun zamanın yazın sonu olduğu düşünülüyor. Bu bağlamda, ev almak isteyenlere nasıl kolaylıklar sağlanabileceği üzerine tartışmalar sürüyor.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_final
+**Confidence**: 0.50
+**Word Count**: 51
+**Retention**: 100.00%
+
+000 insanın da geçim kaynağı
+inci kefali sadece bir balık türü değil inci kefali bölgede yaklaşık 20 000 insanın geçimini
+sağladığı ekonomik bir değer Efendim ana haberi bu akşamlık burada noktalı bizden hemen sonra İhsan
+varol'a Alfa Petek sizlerle birlikte olacak tekrar görüşmek dileğiyle yarın aynı saatte hoşça kalın
+mutlu akşamlar
+
+================================================================================
+

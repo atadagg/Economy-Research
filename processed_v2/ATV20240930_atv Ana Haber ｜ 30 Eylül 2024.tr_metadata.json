@@ -1,0 +1,62 @@
+{
+  "file_path": "news/ATV/ATV20240930_atv Ana Haber ｜ 30 Eylül 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T15:57:17.562037",
+  "original_word_count": 4867,
+  "filtered_word_count": 53,
+  "retention_ratio": 0.010889665091432094,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 23,
+      "start_sentence": "İyi akşamlar Bugün 30 Eylül 2024 Pazartesi...",
+      "description": "\"İyi akşamlar Bugün 30 Eylül 2024 Pazartesi...\" - The opening of the broadcast where the presenter greets the audience and introduces the date and context of the program.",
+      "end_pos": 75
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 75,
+      "start_sentence": "Cumhurbaşkanı Erdoğan New York temaslarının ardından...",
+      "description": "\"Cumhurbaşkanı Erdoğan New York temaslarının ardından...\" - The main content of the news broadcast, discussing various topics including the cabinet meeting, international relations, and legislative updates.",
+      "end_pos": 75
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 75,
+      "start_sentence": "Cumhurbaşkanı Erdoğan hem New York'taki temasları...",
+      "description": "\"Cumhurbaşkanı Erdoğan hem New York'taki temasları...\" - Continuation of the news segment detailing the discussions and implications of the President's meetings in New York regarding Gaza.",
+      "end_pos": 692
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 692,
+      "start_sentence": "Öncelikle Gündem başlığı İsrail'in...",
+      "description": "\"Öncelikle Gündem başlığı İsrail'in...\" - A brief transition within the news segment that shifts focus from the cabinet meeting to the specific topic of Israel and Gaza.",
+      "end_pos": 1671
+    },
+    {
+      "type": "5. **NEWS**",
+      "start_pos": 1671,
+      "start_sentence": "Bunun haricinde Eee yine Eee yarın itibariyle...",
+      "description": "\"Bunun haricinde Eee yine Eee yarın itibariyle...\" - Further news content discussing the upcoming legislative year and the laws to be discussed in the Turkish Grand National Assembly.",
+      "end_pos": 34088
+    }
+  ],
+  "news_segments_count": 7,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "75_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 90,
+      "filtered_length": 53,
+      "retention_ratio": 0.5888888888888889,
+      "section_description": "\"Cumhurbaşkanı Erdoğan hem New York'taki temasları...\" - Continuation of the news segment detailing the discussions and implications of the President's meetings in New York regarding Gaza."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

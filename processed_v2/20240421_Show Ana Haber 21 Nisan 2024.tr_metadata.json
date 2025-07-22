@@ -1,0 +1,82 @@
+{
+  "file_path": "news/Show/20240421_Show Ana Haber 21 Nisan 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T17:39:40.378269",
+  "original_word_count": 3351,
+  "filtered_word_count": 322,
+  "retention_ratio": 0.096090719188302,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 4,
+      "start_sentence": "İyi akşamlar değerli izleyenler",
+      "description": "\"İyi akşamlar değerli izleyenler\" - The presenter, Hande Bayraktar, greets the viewers and introduces the program, indicating the start of the broadcast.",
+      "end_pos": 95
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 95,
+      "start_sentence": "Cumhurbaşkanı Erdoğan 12 yıl sonra Irak'ı resmi bir ziyaret gerçekleştirin",
+      "description": "\"Cumhurbaşkanı Erdoğan 12 yıl sonra Irak'ı resmi bir ziyaret gerçekleştirin\" - This section contains the main news content, discussing President Erdoğan's visit to Iraq, the agenda regarding security and terrorism, and other political developments.",
+      "end_pos": 1163
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 1163,
+      "start_sentence": "CHP lideri Özgür Özel saçlarını boyattı mı",
+      "description": "\"CHP lideri Özgür Özel saçlarını boyattı mı\" - This brief transition introduces a new news story about CHP leader Özgür Özel, indicating a shift from the previous topic to a different news item.",
+      "end_pos": 1257
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1257,
+      "start_sentence": "Son günlerde sosyal medyada yapılan paylaşımlar o soruyu akıllara getirmişti",
+      "description": "\"Son günlerde sosyal medyada yapılan paylaşımlar o soruyu akıllara getirmişti\" - This section continues with the news about Özgür Özel, detailing his response to rumors about his appearance and health.",
+      "end_pos": 23123
+    }
+  ],
+  "news_segments_count": 7,
+  "economic_segments_count": 4,
+  "economic_segments": [
+    {
+      "segment_id": "1257_0",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 269,
+      "filtered_length": 113,
+      "retention_ratio": 0.4200743494423792,
+      "section_description": "\"Son günlerde sosyal medyada yapılan paylaşımlar o soruyu akıllara getirmişti\" - This section continues with the news about Özgür Özel, detailing his response to rumors about his appearance and health."
+    },
+    {
+      "segment_id": "1257_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 160,
+      "filtered_length": 74,
+      "retention_ratio": 0.4625,
+      "section_description": "\"Son günlerde sosyal medyada yapılan paylaşımlar o soruyu akıllara getirmişti\" - This section continues with the news about Özgür Özel, detailing his response to rumors about his appearance and health."
+    },
+    {
+      "segment_id": "1257_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 165,
+      "filtered_length": 67,
+      "retention_ratio": 0.40606060606060607,
+      "section_description": "\"Son günlerde sosyal medyada yapılan paylaşımlar o soruyu akıllara getirmişti\" - This section continues with the news about Özgür Özel, detailing his response to rumors about his appearance and health."
+    },
+    {
+      "segment_id": "1257_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 95,
+      "filtered_length": 68,
+      "retention_ratio": 0.7157894736842105,
+      "section_description": "\"Son günlerde sosyal medyada yapılan paylaşımlar o soruyu akıllara getirmişti\" - This section continues with the news about Özgür Özel, detailing his response to rumors about his appearance and health."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

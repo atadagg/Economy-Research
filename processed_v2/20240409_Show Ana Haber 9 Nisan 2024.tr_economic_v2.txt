@@ -1,0 +1,34 @@
+# Economic Content from: 20240409_Show Ana Haber 9 Nisan 2024.tr.txt
+# Processed: 2025-07-22T17:32:40.536826
+# Original: 2189 words → Filtered: 165 words (7.54% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 88
+**Retention**: 45.13%
+
+Emin Adı Güzel, Fatih'te otel işletiyordu ve 17 yıllık otelini dolandırıcılara kaptırdı. İddialara göre, dolandırıcılar, sahte kontratlar ile önce kendisinden 500,000 TL devir parası aldılar. Bu durum, otel işletmeciliği alanında güven sorunlarını gündeme getiriyor. Ayrıca, otel işletmeciliği yapan diğer esnaflar da benzer dolandırıcılık vakaları ile karşılaşabiliyor. Ekonomik açıdan, bu tür dolandırıcılık olayları, sektördeki güveni zedelerken, işletmelerin mali durumlarını da olumsuz etkiliyor. 
+
+Emin amca, 40 yıllık bir tüccar olarak, bu tür dolandırıcılıkların sektördeki etkilerini ve güven kaybını vurguladı. Bu olay, otelcilik sektöründe dikkat edilmesi gereken ekonomik riskleri ortaya koyuyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 77
+**Retention**: 100.00%
+
+000 ödeyerek Oteli işletmeye başladı
+ancak kontrattaki imza mal sahibinin değil personelin çıktı Bunun için mahkemede bu şekilde inkar
+ediyorlar Biz Oteli o şekilde tahliye etmek zorunda kaldık masraflar ya da yeni aldığı işletme bir
+yana Emin amca Aslında 17 yıllık emeği olan otelinden de oldu Mahkeme kararını temyize verdi ve
+yargılama devam ediyor Tek isteği kendisini dolandırdığını iddia eden o şüphelilerden parasını geri
+alabilmek 11 000 euroluk otele her ay 23 000 Euro ödedim 1 640
+
+================================================================================
+

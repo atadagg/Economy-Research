@@ -1,0 +1,100 @@
+{
+  "file_path": "news/TV100/20240930_Kübra Par ile tv100 Ana Haber ｜ 30  Eylül 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T18:47:06.379155",
+  "original_word_count": 10544,
+  "filtered_word_count": 657,
+  "retention_ratio": 0.0623103186646434,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "TV1 ekranlarından Herkese iyi akşamlar ben Kübra Apar...",
+      "description": "\"TV1 ekranlarından Herkese iyi akşamlar ben Kübra Apar...\" - The presenter introduces herself and the program, outlining the show's mission and approach to journalism.",
+      "end_pos": 1064
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 1064,
+      "start_sentence": "tıklım tıklım dolu okul servisinde öğrenciler ayakta yolculuk ediyor...",
+      "description": "\"tıklım tıklım dolu okul servisinde öğrenciler ayakta yolculuk ediyor...\" - The main news content begins, discussing various stories including the situation of students traveling in overcrowded school buses and the ongoing cabinet meeting led by President Erdoğan.",
+      "end_pos": 1350
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 1350,
+      "start_sentence": "Evet bugünkü etiketimiz bagajlı öğrenci...",
+      "description": "\"Evet bugünkü etiketimiz bagajlı öğrenci...\" - A brief transition that introduces the specific news story about students being transported inappropriately, setting the stage for the detailed report.",
+      "end_pos": 1643
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1643,
+      "start_sentence": "Cumhurbaşkanı Erdoğan kabine topladı kabine toplantısı devam ediyor...",
+      "description": "\"Cumhurbaşkanı Erdoğan kabine topladı kabine toplantısı devam ediyor...\" - Continuation of the news segment, focusing on the cabinet meeting and the topics being discussed.",
+      "end_pos": 76168
+    }
+  ],
+  "news_segments_count": 14,
+  "economic_segments_count": 6,
+  "economic_segments": [
+    {
+      "segment_id": "1643_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 358,
+      "filtered_length": 126,
+      "retention_ratio": 0.35195530726256985,
+      "section_description": "\"Cumhurbaşkanı Erdoğan kabine topladı kabine toplantısı devam ediyor...\" - Continuation of the news segment, focusing on the cabinet meeting and the topics being discussed."
+    },
+    {
+      "segment_id": "1643_6",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 332,
+      "filtered_length": 125,
+      "retention_ratio": 0.37650602409638556,
+      "section_description": "\"Cumhurbaşkanı Erdoğan kabine topladı kabine toplantısı devam ediyor...\" - Continuation of the news segment, focusing on the cabinet meeting and the topics being discussed."
+    },
+    {
+      "segment_id": "1643_7",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 132,
+      "filtered_length": 49,
+      "retention_ratio": 0.3712121212121212,
+      "section_description": "\"Cumhurbaşkanı Erdoğan kabine topladı kabine toplantısı devam ediyor...\" - Continuation of the news segment, focusing on the cabinet meeting and the topics being discussed."
+    },
+    {
+      "segment_id": "1643_8",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 221,
+      "filtered_length": 155,
+      "retention_ratio": 0.7013574660633484,
+      "section_description": "\"Cumhurbaşkanı Erdoğan kabine topladı kabine toplantısı devam ediyor...\" - Continuation of the news segment, focusing on the cabinet meeting and the topics being discussed."
+    },
+    {
+      "segment_id": "1643_9",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 218,
+      "filtered_length": 96,
+      "retention_ratio": 0.44036697247706424,
+      "section_description": "\"Cumhurbaşkanı Erdoğan kabine topladı kabine toplantısı devam ediyor...\" - Continuation of the news segment, focusing on the cabinet meeting and the topics being discussed."
+    },
+    {
+      "segment_id": "1643_10",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 309,
+      "filtered_length": 106,
+      "retention_ratio": 0.343042071197411,
+      "section_description": "\"Cumhurbaşkanı Erdoğan kabine topladı kabine toplantısı devam ediyor...\" - Continuation of the news segment, focusing on the cabinet meeting and the topics being discussed."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

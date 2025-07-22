@@ -1,0 +1,45 @@
+# Economic Content from: ATV20241014_atv Ana Haber ｜ 14 Ekim 2024.tr.txt
+# Processed: 2025-07-22T16:28:11.228537
+# Original: 4959 words → Filtered: 285 words (5.75% retention)
+# Economic segments: 3
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 73
+**Retention**: 102.82%
+
+Pazartesi Cumhurbaşkanı Erdoğan'ın başkanlık ettiği kabine toplantısında iç ve dış ekonomik gelişmeler ele alındı. Toplantıda, ekonomik veriler ve istatistikler üzerinde duruldu. Ayrıca, hükümetin ekonomik politikaları ve bunların piyasalara etkisi tartışıldı. Ekonomik analizler ve uzman görüşleri, yatırımcıların kararlarını etkileyecek önemli bilgiler sundu. Bu bağlamda, fiyatlar, enflasyon ve maliyetler gibi konular da gündeme geldi. Bankacılık ve kredi politikaları, ekonomik istikrar açısından değerlendirildi. Ticaret, ithalat ve ihracat rakamları, ülke ekonomisinin genel durumu hakkında önemli ipuçları verdi.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 120
+**Retention**: 60.91%
+
+The proposed law to collect a 750 lira contribution fee from credit cards exceeding a limit of 100,000 lira is set to be discussed in parliament tomorrow. This fee will be directed towards defense industry investments and expenditures. The collected funds are intended to support various defense industry projects, which are crucial for the country's defense capabilities. If the proposal passes, the 750 lira fee will be reflected in accounts every January 5th. Each cardholder with a limit of 100,000 lira or more will be charged this fee for every card they hold, although no charges will apply to supplementary cards. There is also a possibility of increasing the 100,000 lira limit to higher amounts, which could affect higher-income individuals.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 92
+**Retention**: 100.00%
+
+000 para toplandı tehdit
+ederek o parayı benden almaya çalıyorlar k gecesinde toplanan parayla otomobil aldığı iddiasını
+sosyal medyada dile getirince Ortalık karıştı Eylem boransafak insanları zan altında bırakmasınlar
+bugün benim babamla aramı açan sensin eyem bakın sizin eseriniz bunlar bu babamın hali sizin
+eseriniz Özlem Haydar Hasret Siz yaptınız babamı böyle sen aç gözlük yapacaksın paraya konacaksın
+ben acımdan öleceğim kıyıda oturacağım Allah Allah var mı Eylem öyle çuşa beş köfte akciğer kanseri
+ile savaşan Ankaralı Turgut İsa iki kızıyla bir oğluna Öfkeli Öyle ki evlatlıktan bile reddetti
+toplanan o 250
+
+================================================================================
+

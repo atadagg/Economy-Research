@@ -1,0 +1,33 @@
+# Economic Content from: ATV20240609_atv Ana Haber ｜ 9 Haziran 2024.tr.txt
+# Processed: 2025-07-22T16:07:35.235495
+# Original: 4406 words → Filtered: 163 words (3.70% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 95
+**Retention**: 100.00%
+
+000 le 270 000 arası
+değişiyor çok sıcak verdik Bayağı da mal verdik 9 tane bir hayvanımız kaldı 5 tane hayvan getirdik
+bunun 40 tanesini sattık 1 ton 100 kil Evet buranın şampiyonu mu şampiyonum en Ağrı en ağırı bu
+270'e vereceğim AB adı Paşa oldukça ağır öyle böyle değil tam olarak 1 ton 100 kilo ve buranın bu
+kurban pazarının şampiyonu O işte Kurban Bayramı öncesinde O da alıcılarını bekliyor 1 ton 100
+kiloluk Paşanın şu anki maliyeti tam olarak 270 000 L Haydi 270 L araba parası L bir ton 100 kilo
+240
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 68
+**Retention**: 74.73%
+
+İstanbul'un kalbindeyiz Burası Rami otopazarı ama hafta sonu olmasına rağmen bayram üstü olmasına rağmen neredeyse hiç müşteri yok. İşte tam da bu durum ikinci el otomobil pazarının son durumu hakkında bize çok net şekilde fikir veriyor. İkinci elde fiyatlar daha da düşmez deniyor; şu an tam alım fırsatı. Araç alanlar gerçekten çok büyük kar edecek. Şu an dibin dibindeyiz. Satışlarım sıfır araçlarda arda arda gelen kampanyalarla birlikte etkileniyor.
+
+================================================================================
+

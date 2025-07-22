@@ -1,0 +1,125 @@
+{
+  "file_path": "news/Halk/20240916_Ece Üner ile Halk Ana Haber (16 Eylül 2024).tr.txt",
+  "processing_timestamp": "2025-07-22T17:01:09.108539",
+  "original_word_count": 11454,
+  "filtered_word_count": 741,
+  "retention_ratio": 0.0646935568360398,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "halk ana haber Hoş geldiniz sefalar getirdiniz efendim",
+      "description": "\"halk ana haber Hoş geldiniz sefalar getirdiniz efendim\" - The opening of the broadcast where the presenter welcomes the audience and introduces the program.",
+      "end_pos": 196
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 196,
+      "start_sentence": "Bir milletvekili ilerleyen dakikalarda adını partisini hepsini söyleyeceğim ama sokağa indi ve Emeklilerle konuştu",
+      "description": "\"Bir milletvekili ilerleyen dakikalarda adını partisini hepsini söyleyeceğim ama sokağa indi ve Emeklilerle konuştu\" - The main news content begins here, discussing various topics including the situation of retirees and workers, police violence, and political statements.",
+      "end_pos": 1162
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 1162,
+      "start_sentence": "Şimdi tam dedik ya narini biz ne old anlamaya çalışırken",
+      "description": "\"Şimdi tam dedik ya narini biz ne old anlamaya çalışırken\" - A brief transition phrase that indicates a shift in focus to another topic or news story.",
+      "end_pos": 1258
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1258,
+      "start_sentence": "Hüdapar lideri kanal Kanal dolaşıp anayasanın 4 maddesinin değiştirilmesi gerektiğini söylüyor",
+      "description": "\"Hüdapar lideri kanal Kanal dolaşıp anayasanın 4 maddesinin değiştirilmesi gerektiğini söylüyor\" - Continuation of the news segment, discussing political issues and statements made by political leaders.",
+      "end_pos": 1850
+    },
+    {
+      "type": "5. **OUTRO**",
+      "start_pos": 1850,
+      "start_sentence": "ancak toplumun merakını gideren yayınlar yaparken yürüyen soruşturmanın selametini de korumak gözetmek herkesin mesuliyeti",
+      "description": "\"ancak toplumun merakını gideren yayınlar yaparken yürüyen soruşturmanın selametini de korumak gözetmek herkesin mesuliyeti\" - The closing remarks that summarize the responsibilities of media and society, indicating the end of the program.",
+      "end_pos": 80090
+    }
+  ],
+  "news_segments_count": 18,
+  "economic_segments_count": 8,
+  "economic_segments": [
+    {
+      "segment_id": "196_0",
+      "method": "pattern_validated",
+      "confidence": 0.75,
+      "original_length": 98,
+      "filtered_length": 98,
+      "retention_ratio": 1.0,
+      "section_description": "\"Bir milletvekili ilerleyen dakikalarda adını partisini hepsini söyleyeceğim ama sokağa indi ve Emeklilerle konuştu\" - The main news content begins here, discussing various topics including the situation of retirees and workers, police violence, and political statements."
+    },
+    {
+      "segment_id": "1850_0",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 274,
+      "filtered_length": 108,
+      "retention_ratio": 0.39416058394160586,
+      "section_description": "\"ancak toplumun merakını gideren yayınlar yaparken yürüyen soruşturmanın selametini de korumak gözetmek herkesin mesuliyeti\" - The closing remarks that summarize the responsibilities of media and society, indicating the end of the program."
+    },
+    {
+      "segment_id": "1850_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 192,
+      "filtered_length": 104,
+      "retention_ratio": 0.5416666666666666,
+      "section_description": "\"ancak toplumun merakını gideren yayınlar yaparken yürüyen soruşturmanın selametini de korumak gözetmek herkesin mesuliyeti\" - The closing remarks that summarize the responsibilities of media and society, indicating the end of the program."
+    },
+    {
+      "segment_id": "1850_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 116,
+      "filtered_length": 113,
+      "retention_ratio": 0.9741379310344828,
+      "section_description": "\"ancak toplumun merakını gideren yayınlar yaparken yürüyen soruşturmanın selametini de korumak gözetmek herkesin mesuliyeti\" - The closing remarks that summarize the responsibilities of media and society, indicating the end of the program."
+    },
+    {
+      "segment_id": "1850_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 117,
+      "filtered_length": 100,
+      "retention_ratio": 0.8547008547008547,
+      "section_description": "\"ancak toplumun merakını gideren yayınlar yaparken yürüyen soruşturmanın selametini de korumak gözetmek herkesin mesuliyeti\" - The closing remarks that summarize the responsibilities of media and society, indicating the end of the program."
+    },
+    {
+      "segment_id": "1850_6",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 95,
+      "filtered_length": 74,
+      "retention_ratio": 0.7789473684210526,
+      "section_description": "\"ancak toplumun merakını gideren yayınlar yaparken yürüyen soruşturmanın selametini de korumak gözetmek herkesin mesuliyeti\" - The closing remarks that summarize the responsibilities of media and society, indicating the end of the program."
+    },
+    {
+      "segment_id": "1850_11",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 199,
+      "filtered_length": 109,
+      "retention_ratio": 0.5477386934673367,
+      "section_description": "\"ancak toplumun merakını gideren yayınlar yaparken yürüyen soruşturmanın selametini de korumak gözetmek herkesin mesuliyeti\" - The closing remarks that summarize the responsibilities of media and society, indicating the end of the program."
+    },
+    {
+      "segment_id": "1850_12",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 109,
+      "filtered_length": 35,
+      "retention_ratio": 0.3211009174311927,
+      "section_description": "\"ancak toplumun merakını gideren yayınlar yaparken yürüyen soruşturmanın selametini de korumak gözetmek herkesin mesuliyeti\" - The closing remarks that summarize the responsibilities of media and society, indicating the end of the program."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

@@ -1,0 +1,44 @@
+# Economic Content from: 20240904_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 4 Eylül 2024.tr.txt
+# Processed: 2025-07-22T18:32:03.984232
+# Original: 11464 words → Filtered: 219 words (1.91% retention)
+# Economic segments: 3
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 66
+**Retention**: 35.87%
+
+The filtered text focusing on economics, finance, and business is as follows:
+
+Artan palamut sayısı satış fiyatlarını hemen hemen yarı yarıya düşürdü. Palamut bu sezon hem denizde hem tezgahta Krallığını şimdiden ilan etti. 4 günde 100 ton balık çıktı, fiyat 50 liraya kadar düştü. Balıkçıların keyfi yerinde; 1 Eylül'de av yasağının kalkmasıyla birlikte açılan balıkçılar denizden mutlu dönüyor. Zonguldak'ta balıkçılar 4 günde 100 ton palamut havladı.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 59
+**Retention**: 44.03%
+
+2024-2025 yılı sezonumuz hayırlısıyla açtık. Bu sene palamut sezonu bol olacak diye bahsetmiştik. Evet, tezgahlarda gördüğünüz gibi şu anda bolluk bereket yaşanıyor. 3 tanesi 100 liradan, tanesi 50 liradan, tanesi 75 liradan gramajına göre palamutlar satışa sunuldu. Vatandaşlarımız ucuz balık bu sene çok yiyecekler. Nalbantlık mesleği, Türkiye'de kendini kabul ettirirse çok güzel gelirleri olan bir meslek olarak öne çıkıyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 94
+**Retention**: 50.54%
+
+The filtered text focusing on economics, finance, and business is as follows:
+
+Amasya'da Bafra ırkı koyun ve koçların buluşması oldukça ilginç anlara sahne oldu. Bu buluşma, tarım sektöründe önemli bir gelişme olarak değerlendiriliyor. Koyunlar ve koçların bir araya gelmesi, yerel tarım işletmeleri için üretim sürecinin başlangıcını simgeliyor. Gökhöyük tarım işletmesinde gerçekleştirilen bu etkinlik, bölgedeki hayvancılık faaliyetlerinin artışını ve tarımsal üretimin önemini vurguluyor. Şubat ayında doğumların gerçekleştirilmesi planlanıyor, bu da yerel ekonomiye katkı sağlayacak bir durum. 
+
+Bu tür etkinlikler, tarım sektöründeki gelişmelerin yanı sıra, yerel istihdam ve ekonomik büyüme açısından da önemli bir rol oynamaktadır.
+
+================================================================================
+

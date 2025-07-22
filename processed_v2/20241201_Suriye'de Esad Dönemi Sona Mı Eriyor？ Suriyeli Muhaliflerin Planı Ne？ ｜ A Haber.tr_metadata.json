@@ -1,0 +1,83 @@
+{
+  "file_path": "news/AHaber/20241201_Suriye'de Esad Dönemi Sona Mı Eriyor？ Suriyeli Muhaliflerin Planı Ne？ ｜ A Haber.tr.txt",
+  "processing_timestamp": "2025-07-22T15:45:31.265132",
+  "original_word_count": 18189,
+  "filtered_word_count": 84,
+  "retention_ratio": 0.004618175820550882,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "İyi geceler değerli izleyenler A Haber ve A Haber radyo ortak yayınında gece ajansına Hoş geldiniz",
+      "description": "\"İyi geceler değerli izleyenler A Haber ve A Haber radyo ortak yayınında gece ajansına Hoş geldiniz\" - This section serves as the opening of the broadcast, welcoming viewers and introducing the program.",
+      "end_pos": 90
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 90,
+      "start_sentence": "Artık yeni günün ilk dakikalara ilk sahnelerine girmiş bulunuyoruz Türkiye'nin ve dünyanın gündemini konuşacağız",
+      "description": "\"Artık yeni günün ilk dakikalara ilk sahnelerine girmiş bulunuyoruz Türkiye'nin ve dünyanın gündemini konuşacağız\" - This section contains the main news content, discussing various developments, particularly focusing on the situation in Syria and the actions of opposing forces.",
+      "end_pos": 200
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 200,
+      "start_sentence": "Önce Suriye'de hesat rejimine karşı ayaklanan muhalif Güçler Halep Kent merkezinin büyük bölümünü ele geçirdi",
+      "description": "\"Önce Suriye'de hesat rejimine karşı ayaklanan muhalif Güçler Halep Kent merkezinin büyük bölümünü ele geçirdi\" - This brief transition introduces the first news story about the conflict in Syria, indicating a shift from the introduction to specific news content.",
+      "end_pos": 397
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 397,
+      "start_sentence": "Muhalifler hamaya da girdi son gelişmeleri Suriye sınırında olan A haber muhabiri Mehmet geçgelen alacağız",
+      "description": "\"Muhalifler hamaya da girdi son gelişmeleri Suriye sınırında olan A haber muhabiri Mehmet geçgelen alacağız\" - This section continues the news coverage, providing updates from a reporter on the ground regarding the ongoing conflict.",
+      "end_pos": 490
+    },
+    {
+      "type": "5. **NEWS**",
+      "start_pos": 490,
+      "start_sentence": "Evet rejim karşıtı gruplar Halep Kent merkezinin tamamında kontrolü ele geçirmiş durumda",
+      "description": "\"Evet rejim karşıtı gruplar Halep Kent merkezinin tamamında kontrolü ele geçirmiş durumda\" - This part continues to elaborate on the developments in Syria, detailing the control of various regions by opposition forces.",
+      "end_pos": 585
+    },
+    {
+      "type": "6. **TRANSITION**",
+      "start_pos": 585,
+      "start_sentence": "Öte yandan son olarak yine Halep'in doğusunda bulunan e de değir hafir ile tanah ve Şam köyleri de tamamen Esat karşıtı grupların kontrolüne geç geçmiş durumda",
+      "description": "\"Öte yandan son olarak yine Halep'in doğusunda bulunan e de değir hafir ile tanah ve Şam köyleri de tamamen Esat karşıtı grupların kontrolüne geç geçmiş durumda\" - This transition indicates a shift to another aspect of the news regarding the control of additional areas by opposition forces.",
+      "end_pos": 783
+    },
+    {
+      "type": "8. **OUTRO**",
+      "start_pos": 783,
+      "start_sentence": "Zira Kuzey girişine sibai kavşağına bir birçok tankın da konuşlandığı sizlerle paylaşalım",
+      "description": "\"Zira Kuzey girişine sibai kavşağına bir birçok tankın da konuşlandığı sizlerle paylaşalım\" - This section wraps up the news segment, summarizing the situation and providing final remarks on the ongoing conflict.",
+      "end_pos": 1374
+    },
+    {
+      "type": "7. **NEWS**",
+      "start_pos": 1374,
+      "start_sentence": "Tabii Esad karşısı gruplar O noktada hama'ya ilerlemek istiyor",
+      "description": "\"Tabii Esad karşısı gruplar O noktada hama'ya ilerlemek istiyor\" - This section continues to provide detailed updates on the military situation and movements of various groups in Syria.",
+      "end_pos": 124713
+    }
+  ],
+  "news_segments_count": 2,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "783_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 84,
+      "filtered_length": 84,
+      "retention_ratio": 1.0,
+      "section_description": "\"Zira Kuzey girişine sibai kavşağına bir birçok tankın da konuşlandığı sizlerle paylaşalım\" - This section wraps up the news segment, summarizing the situation and providing final remarks on the ongoing conflict."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

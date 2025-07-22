@@ -1,0 +1,75 @@
+{
+  "file_path": "news/ATV/ATV20241028_atv Ana Haber ｜ 28 Ekim 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T15:55:40.553863",
+  "original_word_count": 4751,
+  "filtered_word_count": 274,
+  "retention_ratio": 0.05767206903809724,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "Haberin merkezinden Atv Haber merkezinden İyi akşamlar",
+      "description": "\"Haberin merkezinden Atv Haber merkezinden İyi akşamlar\" - The opening of the broadcast where the presenter greets the audience and introduces the program.",
+      "end_pos": 46
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 46,
+      "start_sentence": "Bugün 28 Ekim 2024 Pazartesi kabine toplantısı Az önce sona erdi",
+      "description": "\"Bugün 28 Ekim 2024 Pazartesi kabine toplantısı Az önce sona erdi\" - The main content of the news broadcast, detailing the cabinet meeting, statements from President Erdoğan, and discussions on terrorism and economic indicators.",
+      "end_pos": 1456
+    },
+    {
+      "type": "3. **OUTRO**",
+      "start_pos": 1456,
+      "start_sentence": "Türkiye yüzyılı inşası yolunda azim ve sabırla ilerliyoruz dedi ekonomik göstergelerdeki olumlu",
+      "description": "\"Türkiye yüzyılı inşası yolunda azim ve sabırla ilerliyoruz dedi ekonomik göstergelerdeki olumlu\" - The closing remarks of the broadcast, summarizing the key points discussed and providing a final message to the audience.",
+      "end_pos": 33497
+    }
+  ],
+  "news_segments_count": 8,
+  "economic_segments_count": 4,
+  "economic_segments": [
+    {
+      "segment_id": "46_0",
+      "method": "pattern_validated",
+      "confidence": 0.75,
+      "original_length": 72,
+      "filtered_length": 51,
+      "retention_ratio": 0.7083333333333334,
+      "section_description": "\"Bugün 28 Ekim 2024 Pazartesi kabine toplantısı Az önce sona erdi\" - The main content of the news broadcast, detailing the cabinet meeting, statements from President Erdoğan, and discussions on terrorism and economic indicators."
+    },
+    {
+      "segment_id": "1456_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 165,
+      "filtered_length": 65,
+      "retention_ratio": 0.3939393939393939,
+      "section_description": "\"Türkiye yüzyılı inşası yolunda azim ve sabırla ilerliyoruz dedi ekonomik göstergelerdeki olumlu\" - The closing remarks of the broadcast, summarizing the key points discussed and providing a final message to the audience."
+    },
+    {
+      "segment_id": "1456_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 172,
+      "filtered_length": 92,
+      "retention_ratio": 0.5348837209302325,
+      "section_description": "\"Türkiye yüzyılı inşası yolunda azim ve sabırla ilerliyoruz dedi ekonomik göstergelerdeki olumlu\" - The closing remarks of the broadcast, summarizing the key points discussed and providing a final message to the audience."
+    },
+    {
+      "segment_id": "1456_5",
+      "method": "simple_final",
+      "confidence": 0.5,
+      "original_length": 149,
+      "filtered_length": 66,
+      "retention_ratio": 0.4429530201342282,
+      "section_description": "\"Türkiye yüzyılı inşası yolunda azim ve sabırla ilerliyoruz dedi ekonomik göstergelerdeki olumlu\" - The closing remarks of the broadcast, summarizing the key points discussed and providing a final message to the audience."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

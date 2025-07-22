@@ -1,0 +1,39 @@
+# Economic Content from: 20241205_Rusya Ve İran, Suriye'de Esad Rejiminde Desteğini Çekiyor Mu？ Uzman İsimler Değerlendirdi l A Haber.tr.txt
+# Processed: 2025-07-22T15:52:06.502530
+# Original: 16649 words → Filtered: 192 words (1.15% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 124
+**Retention**: 100.00%
+
+günün ilk saatlerinde Şüphesiz ki hemen Yanı başımızda Suriye'de önemli gelişmeler yaşanıyor dünyada
+önemli gelişmeler yaşanıyor birazdan o bölgelerden sıcak noktalardan son durumu sizlerle
+paylaşacağız ama ülke gündemine bakacak olursak Tüm Türkiye'nin yakından takip ettiği iki önemli
+dava var Bunlardan birisi Narin güren cinayeti bir diğeri de Yenidoğan Çetesi davası iki davada da
+önemli gelişmeler yaşandı e ki Narin güran cinayetinde özellikle Yine gece ajansında gündeme
+getirdiğimiz adli tıp raporundaki o Narin'in elinde ve kıyafetinde bulunan kıl örnekleri ile ilgili
+yeni bir gelişme var Birazdan Sinan'a gideceğiz yine İstanbul'da Yenidoğan Çetesi ile ilgili
+duruşmada da önemli gelişmeler yaşandı duruşma e ilk duruşma sona erdi bunu söyleyebiliriz artık ilk
+celse sona erdi bir sonraki duruşma tarihi de netleşti Peki bugün neler yaşandı bunu da Kadir
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 68
+**Retention**: 100.00%
+
+mercan'dan öğreneceğiz Ama önce Sinan'a gidelim Sinan kolay gelsin Eee yine senin de aktardığın
+bilgiler gece ajansından paylaştığımız dava dosyasındaki o adli tıp raporunda Tüm Türkiye'nin
+gündemine oturmuştu narinin şu sol elinde ü parmağının kapalı O vaziyette içinde bulunan bir uzun
+saç kılığı bir de yarım stim uzunluğundaki kısa kıllar köklü kıllarda herhangi bir DNA'ya
+rastlanmadığı Bir DNA tespit edilemediği belirtilmişti ama sanırım bu konuyla ilgili önemli bir
+
+================================================================================
+

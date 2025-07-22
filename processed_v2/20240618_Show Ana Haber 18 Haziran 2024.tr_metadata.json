@@ -1,0 +1,105 @@
+{
+  "file_path": "news/Show/20240618_Show Ana Haber 18 Haziran 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T17:48:18.825039",
+  "original_word_count": 2050,
+  "filtered_word_count": 429,
+  "retention_ratio": 0.20926829268292682,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 4,
+      "start_sentence": "İyi akşamlar değerli izleyenler",
+      "description": "\"İyi akşamlar değerli izleyenler\" - The presenter, Hande Bayraktar, opens the program and introduces the main topics of the evening, indicating the start of the broadcast.",
+      "end_pos": 99
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 99,
+      "start_sentence": "asgari ücrete ara zam gelir mi emekli maaşlarına refah",
+      "description": "\"asgari ücrete ara zam gelir mi emekli maaşlarına refah\" - The main content of the broadcast discusses various news stories, primarily focusing on economic issues such as potential increases in minimum wage and pension adjustments, as well as political interactions between key figures.",
+      "end_pos": 196
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 196,
+      "start_sentence": "Cumhurbaşkanı Erdoğan ile CHP liderinin ik zirvesinde",
+      "description": "\"Cumhurbaşkanı Erdoğan ile CHP liderinin ik zirvesinde\" - This section serves as a transition between different news topics, specifically moving from discussions about minimum wage to the political context surrounding it.",
+      "end_pos": 196
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 196,
+      "start_sentence": "Cumhurbaşkanı Erdoğan ile CHP liderinin ik görüşmesi sonrası",
+      "description": "\"Cumhurbaşkanı Erdoğan ile CHP liderinin ik görüşmesi sonrası\" - This part continues the news segment, elaborating on the implications of the political meeting and its impact on economic policies.",
+      "end_pos": 1454
+    },
+    {
+      "type": "5. **NEWS**",
+      "start_pos": 1454,
+      "start_sentence": "SSK ve Bağkur emeklisi yaklaşık % 25 seviyesinde zam alacak",
+      "description": "\"SSK ve Bağkur emeklisi yaklaşık % 25 seviyesinde zam alacak\" - Further news content detailing expected pension increases and the broader economic context, including discussions about potential reforms.",
+      "end_pos": 1835
+    },
+    {
+      "type": "6. **TRANSITION**",
+      "start_pos": 1835,
+      "start_sentence": "Cumhurbaşkanı Abdullah Gül siyasete geri mi dönüyor",
+      "description": "\"Cumhurbaşkanı Abdullah Gül siyasete geri mi dönüyor\" - A transition that introduces a new topic regarding political speculation about a former president's return to politics.",
+      "end_pos": 14374
+    }
+  ],
+  "news_segments_count": 7,
+  "economic_segments_count": 5,
+  "economic_segments": [
+    {
+      "segment_id": "196_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 170,
+      "filtered_length": 105,
+      "retention_ratio": 0.6176470588235294,
+      "section_description": "\"Cumhurbaşkanı Erdoğan ile CHP liderinin ik görüşmesi sonrası\" - This part continues the news segment, elaborating on the implications of the political meeting and its impact on economic policies."
+    },
+    {
+      "segment_id": "1454_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 60,
+      "filtered_length": 56,
+      "retention_ratio": 0.9333333333333333,
+      "section_description": "\"SSK ve Bağkur emeklisi yaklaşık % 25 seviyesinde zam alacak\" - Further news content detailing expected pension increases and the broader economic context, including discussions about potential reforms."
+    },
+    {
+      "segment_id": "1835_0",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 136,
+      "filtered_length": 135,
+      "retention_ratio": 0.9926470588235294,
+      "section_description": "\"Cumhurbaşkanı Abdullah Gül siyasete geri mi dönüyor\" - A transition that introduces a new topic regarding political speculation about a former president's return to politics."
+    },
+    {
+      "segment_id": "1835_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 154,
+      "filtered_length": 70,
+      "retention_ratio": 0.45454545454545453,
+      "section_description": "\"Cumhurbaşkanı Abdullah Gül siyasete geri mi dönüyor\" - A transition that introduces a new topic regarding political speculation about a former president's return to politics."
+    },
+    {
+      "segment_id": "1835_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 138,
+      "filtered_length": 63,
+      "retention_ratio": 0.45652173913043476,
+      "section_description": "\"Cumhurbaşkanı Abdullah Gül siyasete geri mi dönüyor\" - A transition that introduces a new topic regarding political speculation about a former president's return to politics."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

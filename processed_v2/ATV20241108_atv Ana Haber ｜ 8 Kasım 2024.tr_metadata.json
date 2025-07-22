@@ -1,0 +1,62 @@
+{
+  "file_path": "news/ATV/ATV20241108_atv Ana Haber ｜ 8 Kasım 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T16:40:31.208600",
+  "original_word_count": 4844,
+  "filtered_word_count": 150,
+  "retention_ratio": 0.030966143682906688,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "haberi merkezinden Atv Haber merkezinden İyi akşamlar",
+      "description": "\"haberi merkezinden Atv Haber merkezinden İyi akşamlar\" - The opening of the broadcast where the presenter greets the audience and introduces the program.",
+      "end_pos": 73
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 73,
+      "start_sentence": "Cumhurbaşkanı Erdoğan Kırgızistan ve Macaristan temaslarını tamamladı",
+      "description": "\"Cumhurbaşkanı Erdoğan Kırgızistan ve Macaristan temaslarını tamamladı\" - The main news content discussing various topics including President Erdoğan's activities, his phone conversation with Donald Trump, and comments on political issues.",
+      "end_pos": 1060
+    },
+    {
+      "type": "5. **OUTRO**",
+      "start_pos": 1060,
+      "start_sentence": "bunu da samimiyetle temenni ediyoruz",
+      "description": "\"bunu da samimiyetle temenni ediyoruz\" - The closing remarks where the presenter summarizes the key points and concludes the program.",
+      "end_pos": 1157
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 1157,
+      "start_sentence": "Cumhurbaşkanı mesajlarını kadem'in İstanbul'da düzenlediği uluslararası kadın ve adalet zirvesinde verdi",
+      "description": "\"Cumhurbaşkanı mesajlarını kadem'in İstanbul'da düzenlediği uluslararası kadın ve adalet zirvesinde verdi\" - A brief transition that connects different segments of the news, specifically moving from Erdoğan's international activities to his comments at the women's summit.",
+      "end_pos": 1743
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1743,
+      "start_sentence": "Cumhurbaşkanı Macaristan dönüşü uçakta gazetecilere ik Trump döneminde washington'da ilişkilerde yeni dönemin yol haritasını anlattı",
+      "description": "\"Cumhurbaşkanı Macaristan dönüşü uçakta gazetecilere ik Trump döneminde washington'da ilişkilerde yeni dönemin yol haritasını anlattı\" - Continuation of the news segment detailing Erdoğan's statements about future relations with the U.S. under Trump's presidency.",
+      "end_pos": 34900
+    }
+  ],
+  "news_segments_count": 4,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "73_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 120,
+      "filtered_length": 150,
+      "retention_ratio": 1.25,
+      "section_description": "\"Cumhurbaşkanı Erdoğan Kırgızistan ve Macaristan temaslarını tamamladı\" - The main news content discussing various topics including President Erdoğan's activities, his phone conversation with Donald Trump, and comments on political issues."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

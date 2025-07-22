@@ -1,0 +1,37 @@
+# Economic Content from: 20240402_Show Ana Haber 2 Nisan 2024.tr.txt
+# Processed: 2025-07-22T17:30:29.308190
+# Original: 2909 words → Filtered: 179 words (6.15% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 61
+**Retention**: 77.22%
+
+The filtered text focusing on economics, finance, and business is as follows:
+
+En düşük belediye başkanı maaşı 119,670 TL olarak belirlenmiştir. Bu tutarlardan gelir vergisi kesildikten sonra net maaşlar hesaplarına yatmaktadır. Nüfusu 10,000'e kadar olan yerleşim yerlerinde bu tutar geçerli olup, nüfusu 50,000 az olan il merkezli belediyelerde ise başkan maaşı 7,782 TL'dir. Ayrıca, köy ve mahalle muhtarları asgari ücret kazanmaktadır.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 118
+**Retention**: 100.00%
+
+000 lirayla mazot paramız bile yetmez maaşını 23 24 25 ve 26'sında alan emekliler ise 4
+Nisan'da ikramiyesini almış olacak Bağkur emeklilerine ise 5 Nisan'da ödeme yapılacak maaşını ayın
+1'inde ve 2'sinde alan Emekli sandığı emeklileri ikramiyelerini alırken maaşını 3 4 ve 5'inde
+alanların ikramiyesi 3 ve 5 Nisan'da hesaplarda olu ol henüz almadık ayın 4'ünde alacağız herhalde
+Bugüne kadar emeklilere 165 milyar lira bayram ikramiyesi ödemesi yapılmıştı emekli sayısının
+eyt'liler le 16 milyonu aşması ve ikramiye tutarına 50 zam yapılmasıyla toplam tutarın 260 milyar
+liraya çıkması bekleniyor İstanbul Büyükşehir Belediye başkanlığı için bağımsız aday olmuş kafasına
+atlet geçirip oy kullanmaya gidince gözaltına alınmıştı şimdi 186 oy alan Ama kendine oy atamayan o
+aday seçilseydi istanbullular ayda 30
+
+================================================================================
+

@@ -1,0 +1,137 @@
+# Economic Content from: 20240717_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 17 Temmuz 2024.tr.txt
+# Processed: 2025-07-22T18:30:07.331310
+# Original: 8955 words → Filtered: 869 words (9.70% retention)
+# Economic segments: 9
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 104
+**Retention**: 170.49%
+
+Gündemin öne çıkan başlıklarını son dakika bilgilerini konuşacağız aktaracağız paylaşacağız. Şimdi son dönemin en çok tartışılan konularının başında ekonomik veriler ve istatistikler yer alıyor. Özellikle enflasyon oranları ve maliyet artışları üzerinde duruluyor. Hükümetin ekonomik politikaları, bu verilerin ışığında yeniden değerlendiriliyor. 
+
+Son dönemde finansal piyasalarda dalgalanmalar gözlemleniyor. Yatırımcılar, döviz kurlarındaki değişimlere dikkat ediyor. Ayrıca, şirket gelişmeleri ve iş dünyasındaki yenilikler de önemli bir gündem maddesi. İhracat ve ithalat rakamları, ticaret dengesi üzerinde etkili olmaya devam ediyor. 
+
+Ekonomik analizler, uzman görüşleriyle desteklenerek, piyasa beklentilerini şekillendiriyor. Bankacılık sektörü, kredi politikaları ve para politikası konularında yeni düzenlemeler bekleniyor. Tüm bu gelişmeler, ekonomik istikrarı sağlamak adına kritik öneme sahip.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 229
+**Retention**: 100.00%
+
+karşı karşıya geldi Arkadaşlar basın mensuplarını ve danışmanları davet sa ariyorum komisyon Salonu
+büyük olan plan ve bütçe Komisyonu salonuyla değişti ancak verilen o arada gerilimi düşürmeye
+yetmedi Bu kez de salona kabul edilmeyenler görevliler arasında arbede yaşandı uyarılar yerini itiş
+Kışa bıraktı koridorlarda Çığlık sesleri yankılandı sahipsiz sokak hayvanları düzenlemesi Aslında
+ilk gündeme geldiği andan itibaren çok konuşuluyordu tartışılıyordu önümüzdeki son bir aylık Geçmişe
+baktığımızda Her An komisyona Gelir meclise gelir yasa onaylanır yasanın içerisinde taslakta neler
+var neler yok hep tartışıldı iki farklı görüş var hakim olan tansiyon bir an bile bugünkü komisyonda
+da düşmedi o iki farklı görüşün etkisiyle birlikte 5 saattir de komisyon oldukça gergin Peki bugün
+tam olarak neler yaşandı Ankara'ya gidelim Gül gündüz mecliste o anları An be an takip ediyor
+gelişmeleri de aktaracak bize son bilgiler gülde Evet 14'te başladı tarım orman ve Köy İşleri
+komisyonunda sokak hayvanlarına ilişkin kanun teklifi o 17 maddelik kanun teklifi meclise geldi ama
+tartışmalarla geldi sizin de söylediğiniz gibi salon değişti ama tartışma değişmedi önce salonun
+küçüklüğüne dair bir tartışma başladı peşinden salon değiştirildi Ancak bu kez de hayvan hakları
+aktivistleri salona alınmadı sadece komisyon üyeleri milletvekilleri ve yazılı basın mensuplarına
+açıldı salon Bu yüzden de o stk'lar hayvan hakları aktivistleri dışarıda kaldılar salon dışında
+kaldılar içeri giremeyince de güvenlik görevlileriyle eee bir gerginlik yaşandı hala salona da
+alınmadılar diyelim Bunu bir kez daha belirtelim 15
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 45
+**Retention**: 68.18%
+
+Aslında o 6 aylık enflasyon oranında bir artış oldu. En düşük emekli maaşında bunun için 2 500 liralık bir artış yapıldı. Bu artış, emeklilerin alım gücünü etkileyen önemli bir ekonomik gelişme olarak değerlendiriliyor. Genel başkan Müsavat Dervişoğlu, bu artışa tepki gösterdi ve emeklilerin durumunu eleştirdi.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 104
+**Retention**: 69.80%
+
+500 liralık tutarın geçinmek için yetersiz olduğunu söyledi. Emekli vatandaşlarımızın en düşük emekli maaşı asgari ücretten az olmamalıdır. Bu konuda hükümete sesleniyoruz; emeklinin sesine kulak verin ve bir an önce gereğini yapın. Ekonomik koşulların zorlaştığı bu dönemde, emeklilerin yaşam standartlarının iyileştirilmesi gerektiği vurgulanıyor. 
+
+Dervişoğlu, en düşük emekli maaşının 10,000 liradan 12,000 liraya çıkarılması gerektiğini belirtti. Bu artış, emeklilerin alım gücünü artıracak ve ekonomik zorluklarla başa çıkmalarına yardımcı olacaktır. Ekonomik veriler, emeklilerin yaşam standartlarının yükseltilmesi gerektiğini gösteriyor. 
+
+Bu bağlamda, hükümetin emeklilik politikalarını gözden geçirmesi ve gerekli düzenlemeleri bir an önce yapması önem arz ediyor. Ekonomik istikrarın sağlanması için emeklilerin ihtiyaçlarının karşılanması kritik bir öneme sahip.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 104
+**Retention**: 53.61%
+
+500 liraya yükseltecek yasa tasarısı meclise sunuldu ve kısa süre içerisinde yürürlüğe girecek. Bu ay yürürlüğe giremezse, önümüzdeki ay o fark kadar ücret emeklinin hesabına yatacak. En düşük emekli maaşına ek zam düzenlemesi meclise sunuldu ve yasa tasarısının yürürlüğe girmesi bekleniyor. Milyonlarca emeklinin beklediği haber geldi; en düşük emekli maaşına yapılan zamda rakamlar netleşti. 10,000 L olan en düşük emekli aylığı, 2,500 L artışla 12,500 liraya yükseltildi. Emekli maaşlarından etkilenen dul ve yetim maaşlarında da bir güncellemeye gidilecek. Örneğin, vefat etmiş bir kişinin 12,500 liraya çıkan aylığından pay alan bir yetim, aylığını 2,500 liradan 3,125 liraya çıkaracak. Bu değişiklikler, emeklilerin alım güçlerini artırmayı hedefliyor.
+
+================================================================================
+
+## Economic Segment 6
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 93
+**Retention**: 80.87%
+
+500 den 9375 çıktı % Yani kendi aylığı olan bir e dul sanız da 5 000 ladan 6250 t'ye çıkmış oldu. Evet dün açıklama yapıldı. Aslında ilk SSK maaşları 17'si itibariyle yatmaya başlıyor. Bu maaşlar yatmaya bugünden başladığı için sanıyorum bir dahaki aya yetişecek. Çünkü şöyle bir prosedür işlenir: plan ve bütçe komisyonuna sunulur, plan ve bütçe komisyonu görüşür onaylar, daha sonra resmi gazetede yayınlanır. Bu vergiyle de ilgili biliyorsunuz, 53 maddelik bir paket var şu anda önümüzde. Resmi gazetede yayınlandıktan sonra maaşlara etki eder, bu da muhtemelen Ağustos ayında aradaki farkı alacaklar.
+
+================================================================================
+
+## Economic Segment 7
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 71
+**Retention**: 100.00%
+
+000 adet sahte ürün ele geçirildi yüz binlerce Kaçak ve sahte ürün hepsi piyasaya
+sürülecek polis izin vermedi hepsini ele geçirdi güneş koruyucu kremi saç spreyi ve diğer kozmetik
+ürünleri ne yoktu ki hepsi yurt dışından Kaçak yollarla Türkiye'ye getirildi İstanbul
+Sultangazi'deki bir imalathaneye bırakıldı İşte bu merdiven altı imalathane polis hedefindeyiz yeri
+İstanbul Emniyet Müdürlüğü'nün bahçesi Sultangazi'deki bir atölyeye baskın yapan ekipler binlerce
+Kaçak Kozmetik ürünü ele geçirdi imalathaneden 575
+
+================================================================================
+
+## Economic Segment 8
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 60
+**Retention**: 100.00%
+
+000 T arasında değişiyor Her Şey
+Dahil otellerde ise ortalama fiyat 5 000 T bandında her şeye dahil otellerde 3 öğün yemek ve birçok
+sosyal aktivite de mevcut dünyanın en iyi Otelcilik hizmeti veren Türkiye biram akınına uğrayan
+Muğla'nın Bodrum ilçesi tarihinin en sessiz dönemlerinden birini geçiriyor geçen sene 3500 TL'ydi
+kişi başı günlük Her Şey Dahil Bugün de 4
+
+================================================================================
+
+## Economic Segment 9
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 59
+**Retention**: 39.33%
+
+Otel işletmecileri Bodrum'da her bütçeye uygun otelin bulunduğunu söylüyor. Ancak Buraya gelen turistler fiyatların pahalı olmadığını, her bütçeye uygun otellerin ve restoranların bulunduğunu belirtiyor. Önceki yıllarla karşılaştırdığımızda Bodrum'daki otellerde ciddi oranda düşüş var. İstanbul'da bile son ölçekte baktığımızda ciddi bir göç söz konusu. Bu durum, büyükşehirlerin ekonomik koşullarının etkisiyle, imkanı olanların daha uygun fiyatlı yaşam alanlarına yönelmesine neden oluyor.
+
+================================================================================
+

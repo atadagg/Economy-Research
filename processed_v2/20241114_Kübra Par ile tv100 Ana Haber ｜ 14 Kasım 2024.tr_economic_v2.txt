@@ -1,0 +1,27 @@
+# Economic Content from: 20241114_Kübra Par ile tv100 Ana Haber ｜ 14 Kasım 2024.tr.txt
+# Processed: 2025-07-22T18:09:54.606387
+# Original: 9796 words → Filtered: 118 words (1.20% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: pattern_validated
+**Confidence**: 0.75
+**Word Count**: 63
+**Retention**: 49.22%
+
+Ankara ve İstanbul Büyükşehir belediyelerine başlatılan incelemeler, bu belediyelerin mali durumları üzerinde önemli bir etki yaratabilir. Çalışma Bakanı Vedat Işık'ın, SGK borcunu ödemeyen belediyelere haciz göndereceklerini açıklaması, yerel yönetimlerin mali yönetimlerini sorgulatıyor. SGK ile Ankara Büyükşehir Belediyesi arasında karşılıklı açıklamalar yapılması, bu durumun ekonomik yansımalarını daha da belirgin hale getiriyor. Bu tartışmalar, belediyelerin mali sürdürülebilirliği ve kamu hizmetleri üzerindeki etkileri açısından dikkatle izlenmeli.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 55
+**Retention**: 79.71%
+
+Bu rakam 2025 yılı merkezi yönetim bütçesinin % 1448 4'ünü oluşturmaktadır. Ekonomik veriler ve bütçe dengesi, hükümetin mali politikalarının ne denli etkili olduğunu göstermektedir. Ayrıca, CHP kendi belediyelerinin ücretsiz okul yemeği konusunda engellendiğini öne sürdü, bu durum yerel yönetimlerin mali kaynakları üzerindeki baskıyı artırabilir. Ekonomik analizler, bu tür engellemelerin sosyal harcamalar üzerindeki etkilerini de değerlendirmektedir.
+
+================================================================================
+

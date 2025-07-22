@@ -1,0 +1,52 @@
+# Economic Content from: 20240617_Show Ana Haber 17 Haziran 2024.tr.txt
+# Processed: 2025-07-22T17:45:30.413782
+# Original: 3112 words → Filtered: 251 words (8.07% retention)
+# Economic segments: 3
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 79
+**Retention**: 100.00%
+
+000 lirayı çöpe attı
+poşetler de 3 tane Zen bayan elinde görünüyor ulaşamadık kendisine Küçükçekmece'de yaşayan Sami
+Gezer Dün bayram namazından sonra eşinin ayırdığı eski kıyafetleri giysi kutusuna bıraktı arabanın
+içinde kullanmamış giysiler vardı poşetin içinde Onun içinde bir miktar para vardı bizim de
+haberimiz yoktu dakikalar sonra kızı aradı dişinden tırnağından artırdığı 20 000 lirayı o poşete
+saklamıştı diip baktık bulamadık Sami Gezer geri dönüp gelene kadar giysi kutusunun yanına bırakılan
+üç poşeti bu kadın aldı içindeki 20
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 121
+**Retention**: 100.00%
+
+000 araç giriş yaptı halk plajları
+hınca hınç kalabalıktı Efendim herkesin en sevdiği en uygun bulduğu yerlerden birindeyim istiyorum
+diyorsanız kişi başı 100 lir ücreti var şu an halk Plajı dayız gayet güzel Nereden gelmişsiniz Çan
+geldik Tekirdağ bütçesi el verenler tercihlerini Deniz keyfiyle lüksün harmanlandığı bitlerden yana
+kullanmıştı Evet şu anda Biraz daha lüks bir biche geldik Eğer bir gününüzü bu Bitte geçirmek
+istiyorsanız 00 L harcama limiti var Bugün mesela bir kaçamak tatil yapıyoruz daha konforlu oldu
+yemekler harika İstanbul gibi fiyatlar istediğimiz tüketimi yapıyorlar giriş parası yok ekstra bir
+para yok Barım çok güçlü fiyatlar Aslında geçen yılla aynı Şimdi de Bodrum'un en konforlu bi
+içlerinden birindeyim buraya da giriş ücreti ödemiyorsunuz Ama içeride harcama limiti olarak 2
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 51
+**Retention**: 57.30%
+
+Ülke genelinde ekonomik veriler artış gösterdi. Her bütçeye uygun işletmeler mevcut. Fiyatlar eleştiriliyor, yüksek olduğu yönünde görüşler var. Bu durum, Bodrum'daki ekonomik durumu da etkiliyor. Ekonomik göstergeler, yerel işletmelerin performansını yansıtıyor. Tüketici harcamaları ve tatil sezonu, bölgedeki ticaretin canlanmasına katkı sağlıyor. Bu bağlamda, yerel ekonominin dinamikleri ve fiyat artışları dikkat çekiyor.
+
+================================================================================
+

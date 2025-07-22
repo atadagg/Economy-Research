@@ -1,0 +1,27 @@
+# Economic Content from: ATV20240922_atv Ana Haber ｜ 22 Eylül 2024.tr.txt
+# Processed: 2025-07-22T16:19:51.826228
+# Original: 4446 words → Filtered: 152 words (3.42% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 101
+**Retention**: 54.01%
+
+Ticaret Bakanlığı, konut fiyatlarını artıran emlakçılar hakkında inceleme başlattı ve ilk cezayı kesti. Emlakçı, evinin fiyatını bir günde 1.750.000 TL artırdığı için 100.000 TL ceza aldı. Konut kredilerinin düşürülmesinin ardından konut fiyatlarında %10 ile %100 arasında bir artış yaşanma ihtimali, enflasyonu tetikleyebilir. Konut satışları bir yıldır neredeyse durdu ve bunun en büyük sebebi kredi faizlerinin yüksek olması. Ziraat Bankası, enflasyondaki düşüşle birlikte konut kredilerinde bir indirime gitti ve aylık faizi %2,79'a düşürdü. Ancak bazı kişiler bu durumu fırsat bilerek ev fiyatlarını artırdı. Gece bir ev 3 milyon lira iken sabah 5 milyon lira olabiliyor. Bu durum, konut piyasasında spekülasyonların arttığını gösteriyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 51
+**Retention**: 91.07%
+
+Ticaret Bakanlığı tarafından denetim ve kontrol altına alınmaya çalışılan dairelerin satışındaki faiş artış, ekonomik veriler açısından dikkat çekici bir durum. Adana'da satışa koyduğu evin fiyatını bir gecede arttıran emlakçıya, Ticaret Bakanlığı tarafından 100 bin lira ceza kesildi. Bu tür fiyat artışları, konut piyasasında enflasyon ve maliyet artışları ile ilgili endişeleri artırıyor.
+
+================================================================================
+

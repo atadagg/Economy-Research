@@ -1,0 +1,59 @@
+{
+  "file_path": "news/Show/20240603_Show Ana Haber 3 Haziran 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T17:13:51.874434",
+  "original_word_count": 2622,
+  "filtered_word_count": 662,
+  "retention_ratio": 0.2524790236460717,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "İyi akşamlar sayın seyirciler",
+      "description": "\"İyi akşamlar sayın seyirciler\" - The presenter introduces herself and the program, indicating the start of the news broadcast.",
+      "end_pos": 95
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 95,
+      "start_sentence": "Türkiye İstatistik Kurumu aylık ve yıllık enflasyon rakamlarını açıkladı",
+      "description": "\"Türkiye İstatistik Kurumu aylık ve yıllık enflasyon rakamlarını açıkladı\" - This section contains the main news content, discussing the inflation rates announced by the Turkish Statistical Institute and the subsequent comments from the Minister of Finance.",
+      "end_pos": 18146
+    }
+  ],
+  "news_segments_count": 5,
+  "economic_segments_count": 3,
+  "economic_segments": [
+    {
+      "segment_id": "95_0",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 286,
+      "filtered_length": 128,
+      "retention_ratio": 0.44755244755244755,
+      "section_description": "\"Türkiye İstatistik Kurumu aylık ve yıllık enflasyon rakamlarını açıkladı\" - This section contains the main news content, discussing the inflation rates announced by the Turkish Statistical Institute and the subsequent comments from the Minister of Finance."
+    },
+    {
+      "segment_id": "95_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 98,
+      "filtered_length": 98,
+      "retention_ratio": 1.0,
+      "section_description": "\"Türkiye İstatistik Kurumu aylık ve yıllık enflasyon rakamlarını açıkladı\" - This section contains the main news content, discussing the inflation rates announced by the Turkish Statistical Institute and the subsequent comments from the Minister of Finance."
+    },
+    {
+      "segment_id": "95_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 436,
+      "filtered_length": 436,
+      "retention_ratio": 1.0,
+      "section_description": "\"Türkiye İstatistik Kurumu aylık ve yıllık enflasyon rakamlarını açıkladı\" - This section contains the main news content, discussing the inflation rates announced by the Turkish Statistical Institute and the subsequent comments from the Minister of Finance."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

@@ -1,0 +1,66 @@
+# Economic Content from: 20240825_Show Ana Haber 25 Ağustos 2024.tr.txt
+# Processed: 2025-07-22T17:26:06.403088
+# Original: 2636 words → Filtered: 393 words (14.91% retention)
+# Economic segments: 4
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 153
+**Retention**: 100.00%
+
+kez daha karşınızdayız önce siyaset dünya bir kez daha Nefesini tuttu Ortadoğu'da Savaş çanları
+yeniden çalmaya başladı Hizbullah geçen ay öldürülen komutanlarının öcünü almak için sabah
+saatlerinde İsrail'e roket yağdırdı telaviv yönetimi İntikam saldırısını karşılıksız bırakmadı 100
+Savaş uçağıyla Lübnan'a saldırdı Hizbullah'ın fırlattığı 320 füzeye İsrail 100 Savaş uçağıyla
+karşılık verdi Ortadoğu'da yeniden Savaş Rüzgarları esmeye başladı bir ay önce İsrail Lübnan'ın
+başkenti Beyrut'ta hizbullah'ı kalbinden vurmuş nasrallah'ın sağ kolu komutan Fuat şükür'ü
+öldürmüştü Hizbullah komutanlarının intikamını bu sabah İsrail'e 320 katyuşa füzesi ve dronla
+saldırarak aldı Demir kubbe roketleri imha ederken İsrail Savaş kabinesini topladı 48 saat süreyle
+Olağanüstü hal ilan edip Lübnan'ın güneyine saldırı başlattı Tam 100 İsrail savaş uçağı Lübnan'daki
+40 noktayı hedef aldı o anlar kameraya yansıdı Ortadoğu'da yeniden Savaş canları çalmaya başlarken
+ABD her türlü saldırıya karşı İsrail'i desteklediklerini açıkladı akşam saatlerinde de Hizbullah
+lideri nasrallah İsrail'in kırmızı çizgiyi açtığını söyledi Bu daha ilk aşamayı diyerek gözdağ verdi
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 119
+**Retention**: 38.51%
+
+Cumhurbaşkanı Erdoğan, kabinesini 21 yıl sonra Ankara dışında topladı. Bu toplantının ekonomik bağlamda önemli olduğu belirtiliyor. İstanbul'un en nadide çevre hazinesinin para babalarına peşkeş çekildiği iddiaları, şehirdeki inşaat projelerinin maliyetleri ve çevresel etkileri üzerine tartışmalara yol açtı. 
+
+Erdoğan, İstanbul'daki kaçak inşaatlarla ilgili tepkisini dile getirirken, bu durumun şehir ekonomisi üzerindeki olumsuz etkilerine dikkat çekti. Ayrıca, CHP'nin eleştirilerine yanıt verirken, inşaat sektöründeki düzenlemelerin ve denetimlerin önemine vurgu yaptı. 
+
+Kılıçdaroğlu'nun siyasetin ekonomik boyutlarına dair yaptığı açıklamalar, Türkiye'nin ekonomik sorunlarıyla ilgilenmenin gerekliliğini ortaya koyuyor. Türkiye'nin ekonomik verileri ve istihdam durumu, siyasi tartışmaların merkezinde yer alıyor. 
+
+Bu bağlamda, hükümetin ekonomik politikaları ve uygulamaları, iş dünyası ve yatırımcılar tarafından yakından takip ediliyor. Ekonomik istikrarın sağlanması için atılacak adımlar, piyasalarda da önemli bir etki yaratabilir.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 70
+**Retention**: 41.92%
+
+Ev sahibi kiracıyı icraya verince işler daha da karıştı. Kira sözleşmesindeki 4,000 liralık senedi 400,000 lira olarak sonuna sıfır ekleyerek bizi icraya verdi. Bu yıl tekrar kiramı yenilemek için ev sahibimle görüştüm; 8,000 olan kiramı 13,000 yapmak istedim. Kendisi çok abartılı bir rakam olan 20,000 söyledi. Ben de öyle bir kiranın olmayacağını, bizim memur olarak aldığımız zamın ortada olduğunu söyledim. Zammı kabul etmeyince iddiaya göre sahte senetle karşı karşıya kaldı.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 51
+**Retention**: 68.00%
+
+Kiralık dairelere talep artınca fiyatlar da adeta uçtu. İstanbul'da üniversite öğrencileri kiralık dairelere akın etmeye başladı. Fiyatlar, özellikle 21 eşyalı dairelerde, 25-26.000 TL arasında taleplerle 30.000 TL'ye kadar çıkmış durumda. Mal sahipleri, bu yüksek taleplere rağmen, 30.000 TL istiyor. Bu durum, İstanbul'daki konut piyasasında önemli bir ekonomik gelişme olarak öne çıkıyor.
+
+================================================================================
+

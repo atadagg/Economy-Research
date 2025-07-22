@@ -1,0 +1,57 @@
+{
+  "file_path": "news/TV100/20240815_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 15 Ağustos 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T17:54:34.719663",
+  "original_word_count": 12966,
+  "filtered_word_count": 503,
+  "retention_ratio": 0.03879376831713713,
+  "structure_sections": [
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 0,
+      "start_sentence": "koronavirüsten sonra yeni pandemi korkusu...",
+      "description": "\"koronavirüsten sonra yeni pandemi korkusu...\" - The main news content begins with a discussion about the new monkeypox virus and its implications, followed by coverage of Mahmut Abbas's visit to Turkey and his speech at the Turkish Grand National Assembly.",
+      "end_pos": 297
+    },
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 297,
+      "start_sentence": "Hoş geldiniz değerli izleyenler Mutlu akşamlar...",
+      "description": "\"Hoş geldiniz değerli izleyenler Mutlu akşamlar...\" - The presenter welcomes viewers and introduces the program, setting the stage for the news content.",
+      "end_pos": 1551
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 1551,
+      "start_sentence": "Bugün yine Katar'da önemli bir görüşme var...",
+      "description": "\"Bugün yine Katar'da önemli bir görüşme var...\" - This section serves as a brief transition between different news stories, indicating a shift in focus to another topic related to international relations.",
+      "end_pos": 92578
+    }
+  ],
+  "news_segments_count": 12,
+  "economic_segments_count": 2,
+  "economic_segments": [
+    {
+      "segment_id": "1551_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 292,
+      "filtered_length": 292,
+      "retention_ratio": 1.0,
+      "section_description": "\"Bugün yine Katar'da önemli bir görüşme var...\" - This section serves as a brief transition between different news stories, indicating a shift in focus to another topic related to international relations."
+    },
+    {
+      "segment_id": "1551_7",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 211,
+      "filtered_length": 211,
+      "retention_ratio": 1.0,
+      "section_description": "\"Bugün yine Katar'da önemli bir görüşme var...\" - This section serves as a brief transition between different news stories, indicating a shift in focus to another topic related to international relations."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

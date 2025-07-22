@@ -1,0 +1,53 @@
+# Economic Content from: ATV20241104_atv Ana Haber ｜ 4 Kasım 2024.tr.txt
+# Processed: 2025-07-22T16:50:16.789703
+# Original: 4526 words → Filtered: 461 words (10.19% retention)
+# Economic segments: 4
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 155
+**Retention**: 82.89%
+
+Milyonlarca memur ve memur emeklisinin gözü kulağı Ocak zammında. 4 aylık enflasyon verisi geldi ve enflasyon son 15 ayın en düşük seviyesinde. Buna göre zam oranı da aşağı yukarı netleşmeye başladı. 4 aylık hesaplamaya göre baktığınız zaman en düşük memur maaşı 39,20 liradan 42,38 liraya çıkmış oldu. Kesinleşti bu ama daha iki veri daha gelecek ve bu rakam yükselecek. Uzmanların yaptığı hesaba göre 4 aylık enflasyon farkı ile birlikte en düşük emekli memur maaşı 1,58 lirayken 4 aylık rakamla birlikte 18,990 liraya çıktı. Bu veriye 2 aylık enflasyon daha eklenecek ve böylece memurun memur emeklisinin alacağı maaş da ortaya çıkacak. %155-166 enflasyon çıkarsa 6 aylık enflasyon eklenecek bir 5 puanlık refah payıyla %20'ler görebiliriz diye düşünüyorum. Şu an 5,281 lira alan bir polis maaşı 4 aylık enflasyon verisi ile birlikte yaklaşık 57 liralık maaş artışı görecek. Garanti cepte 97,1836 lira alan uzman bir doktorun maaşı da şu ana kadar açıklanan enflasyon rakamıyla 105 lira artacak.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 70
+**Retention**: 95.89%
+
+Tabii bu rakamlar cepte bu son rakam değil. Kasım ve Aralık enflasyon verisi de eklenecek bu rakamlara ve yeni zamlı maaş da ortaya çıkacak. İlk kez bu ay bir fark oluştu; enflasyon oranı % 10'u geçtiği takdirde hem memura hem de memur emeklisine enflasyon farkı yansıtılıyor. 4 aylık enflasyon % 122 çıktığı için memur ve memur emeklisi için de bir enflasyon farkı söz konusu. Burada da rakam şimdilik % 1.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 175
+**Retention**: 78.48%
+
+Bu durumu serbest piyasa meselesi olarak açıklamak pek mantıklı değildi. Araştırdılar Samet Öztaylan ve Arif Soner Kalkan işin peşine düştü. Bakın ne olabilir, bu şekilde 78 kat fiyat farkı hiçbir zaman için makul bir sebeple açıklanamaz. Aynı ağırlıkta, aynı sayıda birebir aynı ürün her şey aynı ama en büyük farkı fiyatı. O fark serbest piyasa ekonomisiyle anlatılabilecek boyutta da değil. Baktığınızda bir ürün 78 kat, 10 kat farklı ve fazla fiyata satılıyorsa, o zaman bunun altında başka şeyler olabilir. 
+
+Alışveriş sitelerindeki bazı sanal mağazaların sattığı ürünlerin fiyatları çok dikkat çekici. Normalde bir yumuşatıcı 100 liraya satılırken, bu mağazada yaklaşık 770 lira. İşte bu da acaba bu fiyat farkının arkasında ne var sorusunu akıllara getiriyor. Burada gerek vergisel anlamda gerekse kara parayla alakalı işlem yapılması gerekiyor. İnternetin karanlık ortamlarında şifrelerle satılan yasa dışı ürünler olduğu biliniyor. Fiyat farkının böyle olması akıllardaki soru işaretlerini artırıyor. 
+
+Örneğin çamaşır yumuşatıcısının normal mağazalardaki fiyatı 106 lirayken, o sanal mağazada 770 liraya satılan bir ürün var. Bu durum, piyasa dinamikleri ve fiyatlandırma stratejileri üzerine daha geniş bir ekonomik analiz yapılmasını gerektiriyor.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 61
+**Retention**: 59.80%
+
+İzmir'de yüksek kar vaadiyle 23 kişiyi 22 milyon lira dolandıran kuyumcu Kardeşler kısa sürede yakalanıp gözaltına alındı. Yüksek site aidatları ve toplanan paraların nereye harcandığı sık sık gündeme gelen bir tartışma konusu. Şikayetler artınca Çevre Şehircilik ve İklim Değişikliği Bakanlığı bir düzenleme hazırladı. Yönetmelik yürürlüğe girdiğinde site yönetimleri sıkı takibe alınacak; harcamalar ve aidatlar denetlenecek. Kurallara uymayanlara da ağır cezalar geliyor.
+
+================================================================================
+

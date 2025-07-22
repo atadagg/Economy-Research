@@ -1,0 +1,103 @@
+# Economic Content from: 20240716_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 16 Temmuz 2024.tr.txt
+# Processed: 2025-07-22T18:09:41.663662
+# Original: 7157 words → Filtered: 914 words (12.77% retention)
+# Economic segments: 8
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 126
+**Retention**: 53.62%
+
+Cumhurbaşkanı Recep Tayyip Erdoğan, kabineyi topladı ve özellikle ekonomi başlıklarına değindi. Enflasyona karşı duruşumuzu bir kez daha vurgulayarak, "Ezdirmem ezdirmeyeceğiz" ifadesini kullandı. Bugün AK Parti grubu, 53 maddelik yeni vergi düzenlemesini meclis başkanlığına sundu. Vergilendirme durumuna ilişkin konuşan AK Parti grup başkanı Abdullah Güler, vergi adaletinin sağlanacağını belirtti. Az kazanandan az, çok kazanandan çok vergi alınacak dedi. Kanun teklifine emeklilerle ilgili maddeler eklendi. En düşük emekli maaşı 10.000 lira olarak belirlenmişti, ancak %24.7'lik enflasyon oranı göz önüne alındığında, bu maaşın 10.000 lirayı aşamayan kesimi yine 10.000 lira almaya devam edecekti. Teklif yasalaşırsa, en düşük emekli aylığı %25'lik bir artışla 12.500 lira olarak uygulanacak. Yaşlılık ve ölüm aylığı almakta olan emeklilere öngörülen aylık asgari ödeme tutarı da 12.500 liraya yükselecek. Bu karar, 3 milyon 700.000 emekliyi ilgilendiriyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 124
+**Retention**: 78.98%
+
+Hizmet edecek kayıt dışılıkla mücadelemize katkı sağlayacak bu düzenlemelerin ülkemiz için hayırlı olmasını diliyoruz. Toplam 53 maddeden oluşan teklifin yasalaşması halinde yurt dışı çıkış harç ödemelerinde de güncellemeye gidilecek. Yurt dışına çıkış harcını makul bir seviyeye artırıyoruz ve 500 lira olarak belirliyoruz. Teklif kapsamında kayıt dışı işçi çalıştıranlar ve vergi kaçakçıları için de caydırıcı cezalar geliyor. Kayıt dışı çalışılması durumunda kesilecek cezaların artırımlı uygulanmasını da teklif ediyoruz. Lüks tüketimleri kapsayan bazı istisnaların da kaldırılacağını vurguladı Abdullah Güler. Kanun yasalaşırsa yatların KDV istisnası dönemi bitecek. Ticari olmayan gezi, eğlence, spor gibi faaliyetlerde kullanılan deniz taşıma araçlarına yat limanlarında verilen kiralama, bakım ve benzeri hizmetlerde uygulanan KDV istisnalarının da kaldırılacağını belirtiyoruz. Teklif Perşembe günü Meclis Plan ve Bütçe Komisyonu'nda görüşülecek, ardından da genel kurul gündemine gelecek.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 158
+**Retention**: 65.56%
+
+500 lira yükseldi, yaklaşık 2 milyon emekli bundan etkilendi. Vergi paketi çok konuşuluyor; birçok başlık var içerisinde, vergi adaletinin sağlanması önemli husus dendi. Hazine ve Maliye Bakanı Mehmet Şimşek, paketle ilgili konuştu ve çok kazanandan çok, az kazanandan az vergi alınması ilkesiyle bu paketi hazırladık dedi. Uygulandığında bunu daha net hissetmiş olacağız. Şimşek ayrıca paketin dar gelirli vatandaşa yönelik hükümler içermediğini de dile getiriyor. En düşük emekli maaşına da düzenlemeyi içeren vergi paketi meclis başkanlığına sunuldu. Tasarının asıl sahibi Hazine ve Maliye Bakanı Mehmet Şimşek, yeni vergi paketini çok kazanandan, az kazanandan az vergi alınması ilkesiyle hazırladıklarını belirtti. Pakette vergi adaletinin güçlendirilmesi, sermayeye yönelik vergi uygulamaları getirilmesi ve doğrudan vergilerin payının artırılması için düzenleme önerileri bulunuyor. 53 maddeden oluşan kanun teklifini bu sözlerle değerlendiren Bakan Şimşek, yeni vergi düzenlemelerinin yolda olduğunun sinyalini de verdi. Çalışmalarımızı Türkiye'de vergilendirilmemiş alan bırakılmaması amacıyla yürütmeye devam edeceğiz. Kayıt dışılıkla kararlı mücadele ve gönüllü uyumu artıracak, bu yolla mali disiplini güçlendirecek adımlar atacağız.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 86
+**Retention**: 54.78%
+
+500 lira yeterli değil dedi geçim yoksa seçim var diyerek bir kez daha ekonomik zorluklara dikkat çekti. En düşük emekli maaşı 12 500 lira olarak belirlendi. Önce 10 000 lira olduğunda 25 kilo dana kıyma alınabiliyordu, ancak dün bu miktar 16 kiloya düştü. En düşük emekli aylığına yapılacak zam yeterli değil ifadesi, ekonomik sıkıntıları vurguluyor. Akaryakıta % mobil haberleşmeye % 65, köprü ve otoyollara % 60, elektriğe % 38 zam geldi. Bu artışlar, halkın geçim sıkıntısını daha da derinleştiriyor. Ekonomik koşulların zorlaşması, seçim gündemini de etkiliyor.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 108
+**Retention**: 100.00%
+
+000 L olduğunu ancak bunların çoğunun Bunun üzerinde kazandığını bunun nedeninin sanal bahisten
+gelen paraların aklanması olduğunu savundu Merhaba enerjiğim iddianamede çiftin sanal bahisten gelen
+paraları mail order yöntemiyle de akladı belirtildi aklama içinse en az 20 şirketin olması gerektiği
+bir süre sonra bu şirketlerin kapatılarak yerine yenilerinin açıldığı ifade edildi yasa dışı
+bahisten gelen para aklanır oluşan zenginleşmenin gerçek bir ticaretten kaynaklandığı algısı
+oluşturuldu bunun içinse çok sayıda şirket kuruldu iddianamede polatların mali müşaviri ve örgüt
+yöneticisi Ahmet Gün'ün de ifadesine yer verildi gün ifadesinde şirketlerin sadece Sahte fatura
+düzenlemek için kurulan firmalar olduğunu söyledi iddianamede Dilan Polat'ın 2021 2023 yılları
+arasında influencer ödemesi kapsamında 15 261
+
+================================================================================
+
+## Economic Segment 6
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 106
+**Retention**: 59.89%
+
+Eğer 2 500 doların üstüne atmayı başarırsa ons altın uzun süredir yatay devam eden seyrini kırmış olacak. Gram altın 2 500 liradan satılırken çeyrek altın 4 200 liradan satıldı. Gram altın geçen haftaya göre 112 lira artarak % değer kazandı. Gram altının yükselmesinde iki sebep vardır: Birisi ons altın, diğeri de Türk lirasıdır. Türk lirasında faiz indirim tartışmaları başladığında dolar TL'de de bir miktar artış bekleniyor. Bu da gram altını yükseltecektir. Yıl sonuna doğru gram altının 3000'li seviyelere yaklaşacağını düşünüyoruz. 6 aylık enflasyona göre emeklilerin alacağı yeni zamlı maaşlar açıklandı; % 24,7'lik bir artış var. En düşük emekli maaşı 10 000 liradan 12 000 liraya yükselecek.
+
+================================================================================
+
+## Economic Segment 7
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 121
+**Retention**: 61.11%
+
+500 liraya yükseldi artış % 25 oransal olarak yüksek. Sosyal Güvenlik Kurumu da emeklilere yönelik olarak indirim yapan kurum ve kuruluşları emekliler goova başladı. Türkiye genel emekliye indirim uygulayan firmalar ve kurumlar Cumhurbaşkanı Recep Tayyip Erdoğan ve Çalışma Bakanı Vedat Işık bunun müjdesini de çok uzun zaman önce vermişlerdi. 2024 emekliler yılı ilan edildi ardından da birçok yenilik hayata geçirildi. Yeniliklerin başındaysa emekliye destek paketi vardı. Kredi Yurtlar Kurumu'nda uygun yurtlarda bir aylık kullanımı açılacaktı, kamuya ait misafirhane, öğretmenevi sosyal tesislerde de % 155 indirim yapılacaktı. Şimdilerde ise 81 ildeki emeklilere bir başka müjde geldi; uzun zamandır görüşülen emekli destek paketleri yavaş yavaş açıklanmaya başlandı. Emekli hizmet masası diye yeni bir birim kurulacaktı ve emekl.gov.tr adresinden de bütün bu hizmet tanıtılacak.
+
+================================================================================
+
+## Economic Segment 8
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 85
+**Retention**: 42.29%
+
+Bugün itibarıyla emeklilere yönelik yeni ekonomik uygulamalar devreye girdi. Emeklilere otobüs biletlerinde %120'lik bir indirim açıklandı. Ayrıca, bazı illerde özel hastanelerde indirimler başladı. Bu indirimler, emeklilerin maliyetlerini düşürmeyi hedefliyor. Vatandaşlarımızın emekli.gov.tr adresinden bu tür yeni promosyonları ve indirimleri takip etmeleri gerekiyor. 
+
+Marmaris'teki otellerin fiyatları ise tatil sezonunda oldukça yüksek seyrediyor. Özellikle sosyal medyada Çeşme, Alaçatı ve Marmaris'teki fiyatlar çok konuşuluyor. Marmaris'te ortalama bir tatilin maliyeti, tatil beldelerindeki yüksek fiyatlar nedeniyle tartışma konusu haline geldi. Bu durum, turizm sektöründeki fiyat artışlarının ekonomik etkilerini gözler önüne seriyor.
+
+================================================================================
+

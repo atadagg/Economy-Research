@@ -1,0 +1,62 @@
+{
+  "file_path": "news/AHaber/20250127_Yangın faciasında kan donduran itiraflar... O gece ölüm otelinde ne oldu？  ｜ A Haber.tr.txt",
+  "processing_timestamp": "2025-07-22T15:49:26.317141",
+  "original_word_count": 7777,
+  "filtered_word_count": 191,
+  "retention_ratio": 0.02455959881702456,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "günün sıcak gelişmelerini sizlerle paylaştık ama acısı yası hala devam eden bir başka gerçek var",
+      "description": "\"günün sıcak gelişmelerini sizlerle paylaştık ama acısı yası hala devam eden bir başka gerçek var\" - The presenter introduces the program and sets the stage for discussing a tragic event, indicating the start of the broadcast.",
+      "end_pos": 101
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 101,
+      "start_sentence": "Bolu'da yaşanan o Maalesef ki otel yangını 78 kişi hayatını kaybetti",
+      "description": "\"Bolu'da yaşanan o Maalesef ki otel yangını 78 kişi hayatını kaybetti\" - The main news content begins with a report on a hotel fire in Bolu, detailing the tragic loss of life and the ongoing investigation into the incident.",
+      "end_pos": 1353
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 1353,
+      "start_sentence": "Peki Tüm bu konuları kimlerle konuşacağız konuklarımızı hemen takdim etmek istiyorum",
+      "description": "\"Peki Tüm bu konuları kimlerle konuşacağız konuklarımızı hemen takdim etmek istiyorum\" - This section serves as a transition where the presenter introduces the guests who will discuss the news topics further.",
+      "end_pos": 1446
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1446,
+      "start_sentence": "Ben hukukçu Pınar Hacı Bektaşoğlu hoş geldin bizlerle",
+      "description": "\"Ben hukukçu Pınar Hacı Bektaşoğlu hoş geldin bizlerle\" - The news segment continues with discussions involving the guests about the fire incident, including expert opinions and insights into the causes and implications of the tragedy.",
+      "end_pos": 1838
+    },
+    {
+      "type": "5. **NEWS**",
+      "start_pos": 1838,
+      "start_sentence": "Ama devamı devamındaki o ihmaller faciayı beraberinde getirdi",
+      "description": "\"Ama devamı devamındaki o ihmaller faciayı beraberinde getirdi\" - Further elaboration on the news story, discussing the failures that led to the tragedy and the details of the investigation.",
+      "end_pos": 52652
+    }
+  ],
+  "news_segments_count": 5,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "101_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 191,
+      "filtered_length": 191,
+      "retention_ratio": 1.0,
+      "section_description": "\"Bolu'da yaşanan o Maalesef ki otel yangını 78 kişi hayatını kaybetti\" - The main news content begins with a report on a hotel fire in Bolu, detailing the tragic loss of life and the ongoing investigation into the incident."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

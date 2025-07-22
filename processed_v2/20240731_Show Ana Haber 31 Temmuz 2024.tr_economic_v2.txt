@@ -1,0 +1,65 @@
+# Economic Content from: 20240731_Show Ana Haber 31 Temmuz 2024.tr.txt
+# Processed: 2025-07-22T17:47:45.826342
+# Original: 2915 words → Filtered: 445 words (15.27% retention)
+# Economic segments: 3
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 176
+**Retention**: 100.00%
+
+000
+lirasından oldu 2 aylık ürün acil satıyorum diye yarı fiyatına veriyor gibi yapıp insanları
+Instagram hesaplarından WhatsApp'a yönlendiriyorlar oradan öyle bir ilan çıkmıyor ama kendilerinin
+gönderdiği linke tıkladığınızda oradan alışveriş yapıyor gibi oluyorsunuz Çiğdem Kılıç müdür olarak
+çalıştığı Tıp Merkezine ikinci el bir klima satın almak istemişti internetten araştırma yapar Ken de
+onun o aradığı özelliklere yönelik sosyal medya üzerinden reklam videoları çıktı karşısına o
+videolardan birine tıkladıktan sonra da bakın adım adım nasıl tuzağa çekildi yurt dışına çıkacağım
+İşte kapalı paketinde yeni sıfır Ürün satışı yapıyorum dedi Ben de Nasıl alacağız Sizin ibanın var
+mı diye WhatsApp'tan yazdığımda güvenli site oradan güvenli Ticaret de alınıyor dendi gönderilen
+link güvenilir bir ilan sitesinin sayfasıyla 22 000 L deyip 11 000 liraya verdik Sonra bize bir
+dönüş yapıldı yine WhatsApp'tan bu sefer Tekrar kendi şahsi hesabımdan gönderdim önceki ödemesi
+iptal edilmediği için 11 000 daha eklendi gönderdiği para 22 000 lirayı buldu D1 teknoloji
+mağazasının asıl faturasını gönderiyorlar bize yani gerçekçi olarak göndermişler İlan numarasını
+yazdım sonra da kişiye ulaşamadık ilanın sahte olduğunu anladıktan sonra 22
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 115
+**Retention**: 36.39%
+
+Türkiye'de bir ilk olan çevre dostu uygulama, tüketicilerin kendi ambalajlarıyla markete gelerek indirimli alışveriş yapmalarını sağlıyor. Tüketiciler, evlerinden getirdikleri boş ambalajlarla alışveriş yaptıklarında %25'e varan indirim imkanına sahip olabiliyorlar. Örneğin, ayçiçek yağlarında %3 civarında bir indirim oranı bulunurken, deterjan kaplarını getirenler %15 ile %25 arasında indirimli fiyatlarla ürünleri satın alabiliyor. 
+
+4 litrelik bulaşık deterjanının birim fiyatı normalde 23,73 TL iken, kendi ambalajlarıyla gelen tüketiciler bu ürünü 18,50 TL'den alabiliyor. Ayrıca, markette bulunan geri dönüşüm makineleri cam şişe başına 50 kuruş indirim yaparak çiğ süt alımında da tasarruf sağlıyor. Bu uygulamanın yaygınlaşması hedefleniyor ve diğer ilçelerde de benzer marketlerin açılması planlanıyor. 
+
+Bu tür uygulamalar, hem ekonomiye hem de çevreye fayda sağlarken, tüketicilerin maliyetlerini düşürmelerine yardımcı oluyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 154
+**Retention**: 100.00%
+
+000 biz polisiz dediler kimliğini kaybetmişsin hesabın tehlikede
+yalanıyla kandırdılar tam emniyet tam rahatlık öyle bir organize iş ki öyle bir ikna yetenekleri var
+Ben de gittim o parayı aktardım korktu varını yoğunu dolandırıcılara gönderdi ev ağır hasardan
+dolayı yıkıldığında para yatırdı biraz da elimizde Paramız vardı yatırdık vicdansızlar buzem zedi
+dolandırdı üç çocuğum var Baba adım bu doğum tarih yani ikna olmamın sebebi buydu biliyor musun
+Telefon dolandırıcıları Malatya'da yaşayan Mehmet kuzucuğu aradı önce kimliğini kaybettin mi diye
+sordu aklına 4 sene önce kaybettiği cüzdanı gelince tuzağa düştü dediler ki kimlik kaybettin mi
+adına ne var Ben dedim ki bir bankada bir badal hesabım var Kurnaz dolandırıcılar Güven sağlamak
+için eşine de ulaştı evi aramışlar hanımla da sesini almışlar bana dedi ki bakın kuşkun olmaması
+için o parayı Biz hanımına teslim ettik Bu benimle hanımla görüşürler başka isim vermişler dedi ki
+evet Mehmet o parayı eve bıraktılar yıkılan evi için biriktirdiği yaklaşık 370
+
+================================================================================
+

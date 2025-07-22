@@ -1,0 +1,57 @@
+{
+  "file_path": "news/ATV/ATV20240610_atv Ana Haber ｜ 10 Haziran 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T16:16:51.727275",
+  "original_word_count": 4721,
+  "filtered_word_count": 166,
+  "retention_ratio": 0.03516204194026689,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "Haber merkezinden İyi akşamlar",
+      "description": "\"Haber merkezinden İyi akşamlar\" - The opening of the broadcast where the presenter greets the audience and introduces the program.",
+      "end_pos": 77
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 77,
+      "start_sentence": "Cumhurbaşkanı Erdoğan'ın Diplomasi trafiği aralıksız devam ediyor",
+      "description": "\"Cumhurbaşkanı Erdoğan'ın Diplomasi trafiği aralıksız devam ediyor\" - The main content of the news broadcast, detailing various news stories, including diplomatic meetings and political developments.",
+      "end_pos": 1263
+    },
+    {
+      "type": "3. **OUTRO**",
+      "start_pos": 1263,
+      "start_sentence": "Bu nedenle her alanda işbirliğinin daha da derinleştirilmesi için atılacak yeni adımlar ele alındı",
+      "description": "\"Bu nedenle her alanda işbirliğinin daha da derinleştirilmesi için atılacak yeni adımlar ele alındı\" - The closing remarks of the program, summarizing the discussions and providing a farewell to the audience.",
+      "end_pos": 33224
+    }
+  ],
+  "news_segments_count": 6,
+  "economic_segments_count": 2,
+  "economic_segments": [
+    {
+      "segment_id": "77_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 151,
+      "filtered_length": 65,
+      "retention_ratio": 0.4304635761589404,
+      "section_description": "\"Cumhurbaşkanı Erdoğan'ın Diplomasi trafiği aralıksız devam ediyor\" - The main content of the news broadcast, detailing various news stories, including diplomatic meetings and political developments."
+    },
+    {
+      "segment_id": "1263_4",
+      "method": "simple_final",
+      "confidence": 0.5,
+      "original_length": 292,
+      "filtered_length": 101,
+      "retention_ratio": 0.3458904109589041,
+      "section_description": "\"Bu nedenle her alanda işbirliğinin daha da derinleştirilmesi için atılacak yeni adımlar ele alındı\" - The closing remarks of the program, summarizing the discussions and providing a farewell to the audience."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

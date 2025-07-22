@@ -1,0 +1,20 @@
+# Economic Content from: ATV20240829_atv Ana Haber ｜ 29 Ağustos 2024.tr.txt
+# Processed: 2025-07-22T16:13:44.625287
+# Original: 3620 words → Filtered: 76 words (2.10% retention)
+# Economic segments: 1
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 76
+**Retention**: 100.00%
+
+kaybettiği gibi diğer şeride geçti bir kişinin hayatını kaybettiği facia işte böyle geldi saatler
+836 yı gösteriyordu Sefaköy metrobüs yolunda çok büyük bir kaza gerçekleşti abi çarpıştı işte bir
+anda oldu yani bir anda patlama oldu orta kapıda sahadaydı Ben iş saatinin en yoğun olduğu saatte
+İşte tam bu noktada iki metrobüs kafa kafa çarpıştı alınan ilk bilgilere göre şoförün an yola
+girmesi gerekirken metrobüs yolundan devam ettiği ve bu yüzden de kazaya sebep olduğu belirlendi
+
+================================================================================
+

@@ -1,0 +1,55 @@
+# Economic Content from: ATV20241102_atv Ana Haber ｜ 2 Kasım 2024.tr.txt
+# Processed: 2025-07-22T16:22:41.744682
+# Original: 4795 words → Filtered: 377 words (7.86% retention)
+# Economic segments: 4
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 75
+**Retention**: 80.65%
+
+Cumhurbaşkanı Erdoğan, İstanbul'da yaptığı açıklamalarda ekonomik konulara da değindi. Özellikle, Türkiye'nin ekonomik büyüme hedefleri ve bu hedeflere ulaşmak için atılacak adımlar üzerinde durdu. Hükümetin yeni ekonomik politikaları, yatırımcıların dikkatini çekiyor. Ayrıca, Türkiye'nin dış ticaret dengesi ve ihracat rakamları hakkında bilgi verildi. Ekonomik verilerin, önümüzdeki dönemde piyasalara nasıl yansıyacağı merak ediliyor. Uzmanlar, bu gelişmelerin finansal piyasalarda dalgalanmalara neden olabileceğini belirtiyor. Türkiye'nin ekonomik istikrarı için atılacak adımlar, hem yerli hem de yabancı yatırımcılar için büyük önem taşıyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 134
+**Retention**: 84.28%
+
+25 oranında aktiv faiz % 4,55 oranında gecikme faizi uygulanıyordu; o oranlar değişti. Yeni düzenleme ile birlikte 25.000 L altı, 2.000 L ve 150.000 L arası ve 150.000 L üstü olmak üzere 3 harcama limiti belirlendi. Bu limitlere göre faizler de değişecek. 
+
+Dönem borcu 25.000 liranın altında olanlar asgari tutarını ödedikten sonra kalan kısmını % 3,50 azami aktiv faiz ödeyecek; gecikme faiz oranı da % 3 olacak. Dönem borcu 25.000 ila 150.000 arasında ise azami aktiv faiz oranı % 4,25, azami gecikme faizi % 4,55 olacak. Eğer bu rakam 150.000 liranın üzerine çıkıyorsa, azami aktif faiz % 4,75, azami gecikme faizi ise % 5,05 olacak. 
+
+Kredi kartlarında açıldım, toparlama şansı yok; kredi kartından ve kredili mevduat hesabından nakit çekimde ise faizler değişmedi. Azami aktiv faiz % 5, azami gecikme faiz oranı da % 5.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 115
+**Retention**: 66.47%
+
+Doktor Burak Yalçın, Üsküdar'daki evini kiraladığında sözleşmesinde aidat bedeli yoktu. Ancak ilerleyen süreçte merdiven temizliği için personel tutuldu ve aidat ücreti Ocak ayında 1000 TL oldu. Birkaç gün önce gelen ihtarname ile aidatın 5470 TL'ye yükseldiğini öğrendi. Bu durum, kiracının ödediği kira bedelinin 50,000 TL olmasına rağmen, aidatın kiradan daha fazla olması nedeniyle büyük bir şok yaşamasına neden oldu. 
+
+Aidat miktarının bu kadar yüksek olması, dört evden oluşan sitenin tek kiracısı olan Yalçın için beklenmedik bir mali yük oluşturdu. İlk başta aidatın 5750 TL'yi dört villanın ortak gideri olarak düşündü, ancak detaylı okuduğunda aylık toplam giderin 219,000 TL olduğunu fark etti. Bu durum, kiracıların mali durumlarını ve bütçelerini doğrudan etkileyen bir gelişme olarak öne çıkıyor.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 53
+**Retention**: 54.64%
+
+Burak Yalçın'ın borcu olduğu yazıyordu. Çünkü iddiaya göre Temmuz ayında aidat ücreti 12,500 lira olmuştu. Bu durum, aidatların artışı ve hizmetlerin sunulmaması nedeniyle ekonomik bir sorun yaratmış durumda. Ekim ayında bana çekilen ihtarname ile geçmişe dönük 50 bin lira talep ediliyor. Bu tür durumlar, gayrimenkul piyasasında yatırımcıların güvenini sarsabilir ve ekonomik istikrarı etkileyebilir.
+
+================================================================================
+

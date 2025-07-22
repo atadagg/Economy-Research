@@ -1,0 +1,55 @@
+{
+  "file_path": "news/Show/20240726_Show Ana Haber 26 Temmuz 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T17:49:43.334898",
+  "original_word_count": 1808,
+  "filtered_word_count": 54,
+  "retention_ratio": 0.029867256637168143,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "soana Haber'den İyi akşamlar değerli izleyenler",
+      "description": "\"soana Haber'den İyi akşamlar değerli izleyenler\" - The presenter, Hande Bayraktar, greets the viewers and introduces the program, indicating the start of the news broadcast.",
+      "end_pos": 97
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 97,
+      "start_sentence": "Cumhurbaşkanı Erdoğan İsrail başbakanı netanyahu'nun ABD Kongresi'nde alkışlanması çok sert tepki gösterdi",
+      "description": "\"Cumhurbaşkanı Erdoğan İsrail başbakanı netanyahu'nun ABD Kongresi'nde alkışlanması çok sert tepki gösterdi\" - This section contains the main news content, discussing various topics including Erdoğan's reactions, economic measures, and political issues.",
+      "end_pos": 1348
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 1348,
+      "start_sentence": "Cumhurbaşkanı Dün akşam da Başakşehir la fiorita maçını izledi",
+      "description": "\"Cumhurbaşkanı Dün akşam da Başakşehir la fiorita maçını izledi\" - This brief transition indicates a shift to a different news story, specifically about a football match, connecting it to the broader political context.",
+      "end_pos": 1451
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1451,
+      "start_sentence": "siyasetin yeni polemiği belediyelerin SGK'ya Olan borçları yeni günde de hız kesmeden devam etti",
+      "description": "\"siyasetin yeni polemiği belediyelerin SGK'ya Olan borçları yeni günde de hız kesmeden devam etti\" - This section continues with more news content, focusing on political debates regarding municipal debts and ongoing discussions between political parties.",
+      "end_pos": 12703
+    }
+  ],
+  "news_segments_count": 5,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "97_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 163,
+      "filtered_length": 54,
+      "retention_ratio": 0.3312883435582822,
+      "section_description": "\"Cumhurbaşkanı Erdoğan İsrail başbakanı netanyahu'nun ABD Kongresi'nde alkışlanması çok sert tepki gösterdi\" - This section contains the main news content, discussing various topics including Erdoğan's reactions, economic measures, and political issues."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

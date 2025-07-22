@@ -1,0 +1,180 @@
+# Economic Content from: 20240627_545985732_subtitle_tr-auto.txt
+# Processed: 2025-07-22T17:10:28.050490
+# Original: 4859 words → Filtered: 1297 words (26.69% retention)
+# Economic segments: 12
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 200
+**Retention**: 100.00%
+
+Binanın çökmeden birkaç dakika
+önceki hali böyleydi Bu da yıkıldıktan sonraki görüntüsü Aşağı çöktü bina 4 buçuk gibi tüm
+oturanlar binayı terk ediyor 18 dakika sonra da binanın alt 3 katı çöküyor Doğru mu Doğru Mahallede büyük panik yaşandı Ekipler içeride inceleme ve dinleme yaptı 6 saat sonra da binada
+yıkım başladı Etrafındaki 3 binada tedbir amaçlı boşaltıldı Zaman zaman sokakta gergin anlar da
+yaşandı Ekiplerin incelemesi sürüyor Binanın neden çöktüğü ile ilgili bir rapor hazırlanacak Yine
+Bahçeli Evler'de 4 katlı binanın bu kez çatısında çökme meydana geldi O anlar kameraya böyle
+yansırken neyse ki kimseye bir şey olmadı Dün aktarmıştık sizlere sevgili seyirciler Lise Müdürü
+Yardımcısı Mahir Çoğaç evinin önünde katledilmişti Göz yaşlarıyla son yolculuğuna uğurlandı O
+cinayete dair ortaya çıkan detaylarsa bir hayli çarpıcı Öldürülen müdürün ağabeyinin cezaevinde
+olduğu öğrenildi Polis kan davası nedeniyle infaz ihtimali üzerinde duruyor Gerçi işte beyaz
+gömlekli çocuk buralarda olt atıyordu, bekliyordu O kapıda saat 18 00'dan sonra O kapıda saatlerce
+bekleyip çocuklarının gözü önünde müdür yardımcısını tek kurşunla katletti Polis o cinayete ilişkin
+kan davası ihtimaline yoğunlaştı Kocaeli'deki o evin önünde pusuya yatan katili güvenlik kameraları
+kaydetti Lisede müdür yardımcısı olan Mahir Çoğaç aracına bindiği sırada öldürüldü Nasıl olur
+böyle bir şey
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 64
+**Retention**: 32.49%
+
+İddiaya göre sürücü alkollüydü. Sıfır araçlardaki tedarik sıkıntısı nedeniyle bir dönem bayilerde araç bulmak neredeyse imkansızdı. Fırsatçılar da bayiden aldıkları araçları liste fiyatının üzerinde satıyordu. İşte bu sebeple 6 ay 6 bin kilometre şartı getirilmişti. Ve ikinci el araç fiyatları düşmeye başladı. Bugün o düzenleme 6 ay daha uzatıldı. Şu anda hem sıfır araçlarda hem de ikinci el araçlarda fiyat dengesi yerine oturmuş durumda.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 138
+**Retention**: 71.88%
+
+İkinci el otomobil satımında geçerli olan 6 ay ve 6 bin kilometre şartı normalde 3 gün sonra yani 1 Temmuz 2024 itibariyle sona eriyordu. Ancak düzenleme bugün itibariyle 1 Ocak 2025 tarihine kadar uzatıldı. Piyasayı ciddi anlamda bozuyordu ve nihayet müşteri de bundan ciddi muzdaripti. Çünkü otomobil piyasası öyle bir hal almıştı ki adeta ikinci eli parası yetmeyenler bayiden sıfır otomobil almaya çalışıyordu. Bayide 1 milyon lira olan otomobil ikinci elde 1 milyon 200 bin liraya kadar çıkıyordu. İkinci elde de bunu fırsat gören al satçılar maalesef bayilerden araçları alıp dışarıda daha yüksek fiyatlara satmaya kalktılar. 6 ay ve 6 bin kilometre kuralı gelince fiyatlar ciddi anlamda %10-15 civarında gerilemiş durumda. Otomotiv sektöründeki balon söndü. İkinci el araç fiyatları düşmeye devam ediyor. İşte bu nedenle 6 ay ve 6 bin kilometre düzenlemesi 1 Ocak 2025'e kadar devam edecek.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 114
+**Retention**: 59.07%
+
+Dün akşam amirli futbol takımımız göğsümüzü kabarttı Hamburg'daki maçta Çekya'yı 2-1 mağlup etti ve Euro 2024'te tur atlayarak son 16'ya kaldı. Türkiye'nin dört bir yanında dev ekranlar kuruldu, milyonlar tek yürek izledi maçı. Ancak, bu tür etkinliklerin ekonomik etkileri de göz önünde bulundurulmalı. 
+
+CHP lideri Özgür Özel, erken seçim çağrısı yaptı. Toplumun yarısına yakınında erken seçim talebi var. Bu durum, ekonomik belirsizlikleri artırabilir ve piyasalarda dalgalanmalara yol açabilir. Özel, bir buçuk yıl sonra bir erken seçimi olası görüyorum dedi. Normalleşme tartışmaları ile ilgili de kimse muhalefetten yumuşama beklemesin diye konuştu. 
+
+Bu tür siyasi gelişmeler, yatırımcıların güvenini etkileyebilir ve ekonomik istikrarı tehdit edebilir. Ekonomik veriler ve istihdam rakamları, bu belirsizlik ortamında daha da önem kazanıyor.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 114
+**Retention**: 57.87%
+
+CHP lideri Özgür Özel, erken seçim çağrısını tarih vererek yaptı. Toplumun yarıya yakını bir erken seçim talebi var. Ancak, erken seçim yapılabilmesi için 360 milletvekilinin oyuna ihtiyaç var. Bugün için böyle bir milletvekili sayısı bizde ve muhalefette yok. İktidar istemeden erken seçim teknik olarak mümkün değil. 
+
+Gündemde normalleşme tartışmaları vardı. Cumhurbaşkanı Erdoğan'ın muhalefetle ittifak değil uzlaşma olur sözlerini de not etmişti. CHP lideri belli konularda uzlaşma olur dedi. Siyasetin normali budur dedi. Ben de haftalardır bunu söylüyorum. Ben siyasette artık her şeyin normal ilerlemesi için üzerime düşen her şeyi yaparım. 
+
+Bu bağlamda, ekonomik istikrarın sağlanması için siyasi uzlaşmanın önemli olduğunu vurgulamak gerekir. Ekonomik verilerin ve istikrarın sağlanması, yatırımcı güvenini artıracak ve piyasalara olumlu yansıyacaktır.
+
+================================================================================
+
+## Economic Segment 6
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 84
+**Retention**: 43.08%
+
+Piyasaların gözü bugün faiz kararına çevrilmişti ve Merkez Bankası Haziran ayında da faiz oranını %50'de sabit tuttu. Piyasaların kararı tepkisi çok sınırlı oldu. Yani faiz de piyasalar da sabit kaldı. Merkez Bankası beklentilere paralel hareket ettiği faiz oranını %50'de sabit tuttu. Piyasaların gözü 14'teki karara çevrilmişti. Merkez Bankası'nın merakla beklenen faiz kararını açıklamasına sadece 20 dakika kaldı ve serbest piyasada Amerikan Dolarının satış fiyatı 32 lira 95 kuruş, Euro'nun satış fiyatı ise 35 lira 20 kuruş. Merkez Bankası faiz artışına geçtiğimiz yıl Haziran'da başladı.
+
+================================================================================
+
+## Economic Segment 7
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 74
+**Retention**: 43.02%
+
+Ocakta %45'e, Mart'ta %50'ye çıkarıldı ve 3 ay üst üste %50 seviyesinde sabit tutuldu. Merkez Bankası bir kez daha piyasa beklentileri doğrultusunda faiz oranını %50'de sabit tuttu ve bu durum piyasaya oldukça sınırlı şekilde yansıdı. Doların satış fiyatı 5 kuruş düşerken Euro'nun satış fiyatı 5 kuruş yükseldi. Gün sonunda da döviz kısmında çok fazla değişiklik olmadı. Gram Altın günü 2460 lira seviyesinde kapatırken Borsa İstanbul 100 Endeksi ise %1,88'lik yükselişle günü 10683 puanla tamamladı.
+
+================================================================================
+
+## Economic Segment 8
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 38
+**Retention**: 100.00%
+
+Başkan Luis Arce General Zuniga ile sarayın koridorunda tartıştı Ben
+sizin başkomutanınızım ve sana askerlerini çekmeni emrediyorum Bu itaatsizliğe izin vermeyeceğim
+dedi Halkın tepkisi büyüyünce darbeciler başkanlık sarayından çekilmek zorunda kaldı Darbeci
+General Zuniga ve beraberindekiler gözaltına alındı
+
+================================================================================
+
+## Economic Segment 9
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 142
+**Retention**: 71.36%
+
+Kısa bir ara vermiştik, devam ediyoruz Kanal D'a habere. Şimdi ekonomik verilere ve piyasalara bakalım. Son dönemde açıklanan ekonomik veriler, enflasyon oranlarının yükseldiğini gösteriyor. Uzmanlar, bu durumun tüketici fiyatları üzerinde baskı oluşturduğunu belirtiyor. Ayrıca, döviz kurlarındaki dalgalanmalar, yatırımcıların piyasalardaki belirsizlikten endişe duymasına neden oldu. 
+
+Hükümetin yeni ekonomik politikaları, iş dünyasında tartışmalara yol açtı. Özellikle, sanayi sektöründeki gelişmeler ve şirketlerin yatırım kararları, ekonomik büyüme üzerinde etkili olabilir. İhracat rakamları, son çeyrekte artış gösterdi, bu da dış ticaret dengesinin iyileşmesine katkı sağladı. Ancak, ithalatın da yükselmesi, cari açığı artırma riski taşıyor. 
+
+Bankacılık sektöründe, kredi faiz oranlarının yükselmesi, bireysel ve ticari kredilere olan talebi etkileyebilir. Ekonomik analizler, bu durumun piyasalarda dalgalanmalara yol açabileceğini öngörüyor. Uzmanlar, enflasyonun kontrol altına alınması için sıkı para politikalarının uygulanması gerektiğini vurguluyor. 
+
+Sonuç olarak, ekonomik veriler ve piyasa dinamikleri, iş dünyası ve yatırımcılar için önemli bir gündem maddesi olmaya devam ediyor.
+
+================================================================================
+
+## Economic Segment 10
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 34
+**Retention**: 47.89%
+
+Tabii ki yatırımcılar için de pek çok değişiklik var. Kripto varlıklara ilişkin ilk yasal düzenleme geçti meclisten. Kripto para yatırımı yapılabilecek pek çok farklı platform var. Ancak kimileri güvenliyken kimilerinde işler dolandırıcılığa kadar uzanabiliyor.
+
+================================================================================
+
+## Economic Segment 11
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 96
+**Retention**: 48.24%
+
+Türkiye'de kripto para borsası daha güvenli hale geliyor. Kripto varlık yatırımcısından vergi alınmayacak, ancak kripto para borsaları sermaye piyasası kurulundan yetki belgesi almak zorunda olacak. SPK'dan denetlemeye tabi olduğunu bileceğiz. Yatırımcılar bir ay içinde izin almak için başvuracak; başvurmazsa üç ay içinde tasfiye kararı almak zorunda kalacak. Başvuru yapmayan platformlar kapatılacak. Yatırımcıların varlıkların çekmesinde de kolaylık sağlanacak. Faaliyetlerine izinsiz devam eden platform yetkililerine üç yıldan beş yıla kadar hapis ve para cezası verilecek. Yurtdışı merkezli borsalarda lisans almazsa ofis ve Türkçe site açamayacak. Kripto varlıkları nakde çeviren ATM'ler ise kanun yürürlüğe girdikten üç ay sonra kapatılacak.
+
+================================================================================
+
+## Economic Segment 12
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 199
+**Retention**: 100.00%
+
+En hızlı giden aldı yani Markalar önce internet uygulamalarında başlattı indirimi sonra da
+mağazalarda İndirim mağazaları adım atılmaz hale getirdi İnternette stokları tüketti Bekliyor
+herkes Biz de biraz bekledik açıkçası Uygulama açıldığı an hemen mağazalarda indirim başlıyor Biraz bekledik açıkçası Uygulama açıldığı an hemen alındığı için tükendi Maalesef herkes çok
+hızlı Çok hızlı alıyorlar yetişemiyoruz Mağazalar çok dolu gerçekten Proba odaları falan da çok
+dolu Zaten kasaya gidemiyorsunuz yani o kadar uzun bir sıra var ki Öyle diyeyim ben size Siz
+neler aldınız Şort aldım sadece Hem yazlık hem kışlık kıyafetlerde çoğu ünlü marka %50'ye varan
+indirim kampanyası başlattı Bu senede tıpkı geçtiğimiz seneler gibi indirim internette başlar
+başlamaz sepetteki çoğu ürünler tükendi Çok hızlı tükeniyorlar Bir şey bulmak zor oluyor yani Ben
+çoğu şey alamadım Her şey bitmişti neredeyse Dün internet uygulamalarında başlayan o indirim bugün
+de mağazalarda başladı İğne atsanız yere düşmez Tüm mağazalar çok dolu, çok kalabalık Açıkçası
+ben sepetle çok bir şey eklemedim Direkt mağazadan almayı tercih ettim Ama sabah mağazaya girmek
+için bir 45 dakika kadar bekledim Bir de kasada 45 dakika kadar bekledim Neler aldınız peki Elbise aldım Bikini aldım Fiyatlar bayağı indirimden kesici Neler aldınız Ben kendime bir tulum
+aldım Çok beğendim
+
+================================================================================
+

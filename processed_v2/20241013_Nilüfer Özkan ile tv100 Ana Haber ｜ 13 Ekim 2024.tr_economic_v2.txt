@@ -1,0 +1,46 @@
+# Economic Content from: 20241013_Nilüfer Özkan ile tv100 Ana Haber ｜ 13 Ekim 2024.tr.txt
+# Processed: 2025-07-22T18:47:51.710244
+# Original: 5805 words → Filtered: 291 words (5.01% retention)
+# Economic segments: 3
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 107
+**Retention**: 44.21%
+
+Türkiye Büyük Millet Meclisi yeni yasama yılına hızlı bir başlangıç yaparak, ekonomik düzenlemeleri ele alacak. Genel kurulda tüketicinin korunmasına ilişkin düzenleme ile birlikte 9 yargı paketi görüşülecek. Bu düzenlemeler arasında, 100.000 Lira ve üstü kredi kartlarından 750 Lira kesilmesini içeren savunma sanayi destek fonu da yer alıyor. 
+
+Tüketicinin korunmasına yönelik teklif ile doğrudan satışta tarafların hak ve yükümlülükleri belirgin hale getirilecek. Ayrıca, daha çok işletmenin ihracata yönelmesini sağlamak için destekleyici tedbirler alınacak. 9 yargı paketi olarak bilinen düzenlemenin de bu hafta görüşülmesi bekleniyor. 
+
+Bu düzenlemeler, ekonomik istikrarı sağlamak ve ticaretin gelişimini desteklemek amacıyla hayata geçiriliyor. Ekonomik verilerin ve istatistiklerin göz önünde bulundurulması, hükümetin ekonomik politikalarının etkinliğini artıracak.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 69
+**Retention**: 84.15%
+
+The filtered text focusing on economics, finance, and business is as follows:
+
+"Plan ve bütçe Komisyonu Savunma Sanayii destekleme fonu teklifini masaya yatıracak. Gayrimenkul alım satımında alıcı ve satıcıdan ayrı ayrı olmak üzere 750 lira tapuda yapılan diğer işlemlerden ise 375 lira noterde yapılan sıfır araç tescillerinde 3." 
+
+(Note: The original text provided was limited in economic content, and the filtered version reflects the relevant sentences while maintaining context.)
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 115
+**Retention**: 44.57%
+
+Üstelik cezasını erken ödeyene % 25 indirim de yapılıyor, yani kazançlar fazla fakat idari para cezaları az. Uzmanlara göre gıdada sahtecilik yapanlara yönelik yeni bir düzenleme şart. Belki mali suçlar kapsamında, maliye Bakanlığı'ndan destek alarak bu konuda bir çözüm bulunabilir. Bakanlıkların burada birbiriyle etkileşim halinde olması lazım. Zeytinyağında, tohum yağı, köftede domuz eti ve kekikte yabancı madde skandallarının ardı arkası kesilmiyor. Hatay'da yapılan denetimler sırasında bir işletmede üretilen salçaların insan sağlığına uygun olmadığı tespit edildi. Denetimler devam ediyor ve sağlığa zararlı gıda tespitinde bu kez adres Hatay Kırkan Belediyesi Zabıta Müdürlüğü oldu. Denetimler sırasında bir işletmede üretilen 6,5 ton salçanın insan sağlığına uygun olmadığı tespit edildi. Tonlarca salça belediye ekipleri tarafından çöplük alanında imha edildi.
+
+================================================================================
+

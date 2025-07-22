@@ -1,0 +1,27 @@
+# Economic Content from: 20250105_İsrail'in Suriye İşgali Büyüyecek Mi？ l A Haber l Gece Ajansı l 05.01.2025.tr.txt
+# Processed: 2025-07-22T15:39:55.020852
+# Original: 17027 words → Filtered: 239 words (1.40% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 165
+**Retention**: 85.49%
+
+Özel okullar hem eğitim hem de ek hizmetler ücretine faiş zam yapmış, bu durum velileri isyan noktasına getirmişti. Milli Eğitim Bakanlığı, özel okullara dur dedi ve eğitim ücreti dışında diğer hizmetlere de zam sınırı getirdi. Yönetmelikte faiş fiyat artışlarının önüne geçebilmek için çok önemli bir adım atıldı ve artık kademe başlangıçları için belirlenen öğrenim ücretlerinde yüksek oranda artış yapılamayacak. Özel okul ücretlerine yapılabilecek en yüksek zam oranı, 12 aylık ÜFE ve TÜFE toplamının yarısına 5 puan eklenerek belirleniyor. Ancak bu formül yalnızca ara kademelerdeki öğrencileri kapsıyor. Gelecek eğitim öğretim yılında özel okullar en fazla ne kadar zam yapabilecek? Yıllık tüf oranı % 58,500 olarak açıklanmıştı. Bu ikisini topladığımızda sonuç olarak 99,60 çıkıyor. İkiye böldüğümüzde de sonuç 49,0 + 5 puan eklediğimizde de 54,180 olarak karşımıza çıkıyor. Yani özel okullar bu yıl eğitim ücretine en fazla % 54 oranında zam yapabilecekler. Ancak bu zam oranlarına uymayan özel okullar da var; hatta bir özel okul, 90,000 olan eğitim ücretine % 20104 zam yaparak velilerden 183,000 talep etti.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 74
+**Retention**: 92.50%
+
+Yeni yönetmelikte yemek ve servis ücretlerine yönelik bir düzenleme yok. Ancak diğer hizmetlere ilişkin önlemler alındı. Pansiyon, kıyafet ve etüt gibi hizmetlere de zam sınırı geldi; artık o hizmetlere de 12 aylık ÜFE ve tüfenin yarısı kadar zam yapılabilecek. Yıllık tüfe oranı % 58,500 olarak açıklanmıştı. Bunu topladığımız zaman karşımıza % 199,61 sonucu çıkıyor ve ikiye böldüğümüzde de % 49,90. Yani özel okullar belirlenen ek hizmetlere en fazla bu yıl % 9 zam yapabilecek.
+
+================================================================================
+

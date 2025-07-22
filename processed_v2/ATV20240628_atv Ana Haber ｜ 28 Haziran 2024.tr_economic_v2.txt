@@ -1,0 +1,16 @@
+# Economic Content from: ATV20240628_atv Ana Haber ｜ 28 Haziran 2024.tr.txt
+# Processed: 2025-07-22T16:26:05.839895
+# Original: 4431 words → Filtered: 105 words (2.37% retention)
+# Economic segments: 1
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 105
+**Retention**: 86.78%
+
+15 000 L emekli maaşı alan bir emeklinin zamı 18 819 L olacak. 20 000 L emekli maaşı alan bir emeklinin de temmuzda hesabına 2 92 lir yatacak. Memur ve memur emeklisi de 5 aylık enflasyon farkı ve % 10'luk toplu sözleşme oranıyla % 1,38 zammı şimdiden hak etti. Temmuz enflasyonu ile beraber memur maaşlarına % 120'lik bir zam yapılırsa en düşük memur maaşı 34 235 liradan 41 0082 liraya çıkacak. % 20'lik zam oranıyla hemşire maaşları 4 824 liraya, öğretmen maaşı 4 773 liraya, polis maaşları 5 350 liraya yükselecek. Tahminiyle en düşük memur emekli aylığı da 14 741 liradan 17 000 liraya çıkacak.
+
+================================================================================
+

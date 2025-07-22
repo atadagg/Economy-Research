@@ -1,0 +1,51 @@
+# Economic Content from: 20240412_Show Ana Haber 12 Nisan 2024.tr.txt
+# Processed: 2025-07-22T17:41:50.400867
+# Original: 2399 words → Filtered: 406 words (16.92% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 107
+**Retention**: 57.22%
+
+Türkiye'de ekonomik veriler ve istatistikler, piyasalardaki dalgalanmalar üzerinde önemli bir etkiye sahip. Son dönemde enflasyon oranları ve maliyet artışları, tüketici fiyatlarını doğrudan etkileyerek hanehalkı bütçelerini zorlamaktadır. Ayrıca, döviz kurlarındaki dalgalanmalar, ithalat ve ihracat dengelerini de etkilemektedir. 
+
+Hükümetin uyguladığı ekonomik politikalar, özellikle faiz oranları ve kredi koşulları üzerinde belirleyici bir rol oynamaktadır. Merkez Bankası'nın para politikaları, yatırımcıların güvenini artırmak ve ekonomik büyümeyi desteklemek amacıyla sürekli olarak gözden geçirilmektedir. 
+
+Son olarak, iş dünyasında yaşanan gelişmeler, şirketlerin finansal durumlarını ve piyasa stratejilerini doğrudan etkilemektedir. Özellikle büyük firmaların yatırım kararları, sektörel büyüme ve istihdam üzerinde önemli sonuçlar doğurabilir. Ekonomik analizler, bu tür gelişmelerin uzun vadeli etkilerini değerlendirmek için kritik öneme sahiptir.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 299
+**Retention**: 100.00%
+
+5 yapalım 500 L Sen
+alacak aşağı kalsın ol Vallahi bilemiyor kimsey buam parası çıkmayınca pazarlık yaptı ama satıcıyı
+ikna edemedi devreye giren bu adam yaptığı jestle yürekleri ısıttı ben vereyim 500 lira önemli değil
+alın götürün hayrım olsun size paran adama Allah seni kı Sen altınları da ver altınları da ver
+teyzenin o mutluluğu O anki huzuru mutluluğu bütün dünya mana değerdi yaşlı kadın Çankırı'daki bu
+hayvan pazarına gelmişti niyeti inek almaktı ama Evdeki hesap çarşıya uymadı teyze cebinde altınlar
+paralarla beraber gelmiş teyzenin ineğe Parası yetmedi pazarlığa başladı ama satıcı ikna olmadı tam
+pes edip gidecekken devreye yaşananları kayda alan Akif Metin girdi Dayı b 500'ü Ben dah halama
+cebimden vereceğim üstünü tamamlayarak teyzenin ineğini almasına sebep olduk hayırsever adam 500
+liralık farkı kapattı duayı da kaptı hayvan pazarından herkes mutlu ayrıldı kazin yeter bana duan
+yeter Hadi al götür Hadi hadi hayırlı olsun bankaların konut kredisi faizleri yükseldi ev sahibi
+olma hayalleri de ertelendi 2 milyon liralık banka kredisinin 10 yıllık geri ödemesi bakın toplam
+kaç liraya ulaştı Faizler çok yüksek gerçekten artık ev alma hayali oldu bunu zaten normal bir
+ailenin ödeyebileceği de hiç düşünmüyorum Bu gelirler krediyle konut almak hayal oldu geri
+ödemelerde toplam faiz tutarı 12 milyon lirayı buldu İnsanlar bir umutla ev almaya gider umutlanır
+ama bunun ödemesi gerçekten ciddi anlamda çok zor olur bilmiyorum ödeyebilirler mi de ben olsam o
+topa da girmezdim gençlerin İşi zor hiçb şey alam Merkez bankasın art arda yaptığı faiz artışları
+konut kredilerine de yansıdı bazı bankalarda Aylık faizler % 5,32 kadar yükselirken düşük ve orta
+gelirliler için konut sahibi olmak daha da zorlaştı çok fazlaymış yani İnsanlara Gerçekten bu çok
+zorlar EOS akrabanın yardımıyla almıştık zamanında 20 sene önce çok şükür Allah olmayanlarin ğin
+bankadan ayl 5,2 kredisi çektiniz 120 ay taksitle aylık ödemeler 106
+
+================================================================================
+

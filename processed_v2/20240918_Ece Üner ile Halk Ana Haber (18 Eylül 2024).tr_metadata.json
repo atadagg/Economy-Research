@@ -1,0 +1,84 @@
+{
+  "file_path": "news/Halk/20240918_Ece Üner ile Halk Ana Haber (18 Eylül 2024).tr.txt",
+  "processing_timestamp": "2025-07-22T16:57:40.780875",
+  "original_word_count": 11746,
+  "filtered_word_count": 574,
+  "retention_ratio": 0.04886769964243146,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "halkan ana Haber'e hoş geldiniz sayın seyirciler",
+      "description": "\"halkan ana Haber'e hoş geldiniz sayın seyirciler\" - The opening of the broadcast where the presenter welcomes viewers and introduces the program.",
+      "end_pos": 73
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 73,
+      "start_sentence": "Bugün ve Milat diyoruz neden Milat diyoruz",
+      "description": "\"Bugün ve Milat diyoruz neden Milat diyoruz\" - The main news content begins here, detailing the recent events in Lebanon involving Hezbollah and the attacks on communication devices.",
+      "end_pos": 1922
+    },
+    {
+      "type": "3. **OUTRO**",
+      "start_pos": 1922,
+      "start_sentence": "Bunları da aktar",
+      "description": "\"Bunları da aktar\" - The closing remarks of the broadcast, where the presenter summarizes the information and concludes the program.",
+      "end_pos": 83103
+    }
+  ],
+  "news_segments_count": 17,
+  "economic_segments_count": 5,
+  "economic_segments": [
+    {
+      "segment_id": "1922_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 97,
+      "filtered_length": 97,
+      "retention_ratio": 1.0,
+      "section_description": "\"Bunları da aktar\" - The closing remarks of the broadcast, where the presenter summarizes the information and concludes the program."
+    },
+    {
+      "segment_id": "1922_5",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 230,
+      "filtered_length": 69,
+      "retention_ratio": 0.3,
+      "section_description": "\"Bunları da aktar\" - The closing remarks of the broadcast, where the presenter summarizes the information and concludes the program."
+    },
+    {
+      "segment_id": "1922_6",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 199,
+      "filtered_length": 88,
+      "retention_ratio": 0.44221105527638194,
+      "section_description": "\"Bunları da aktar\" - The closing remarks of the broadcast, where the presenter summarizes the information and concludes the program."
+    },
+    {
+      "segment_id": "1922_7",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 247,
+      "filtered_length": 247,
+      "retention_ratio": 1.0,
+      "section_description": "\"Bunları da aktar\" - The closing remarks of the broadcast, where the presenter summarizes the information and concludes the program."
+    },
+    {
+      "segment_id": "1922_10",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 143,
+      "filtered_length": 73,
+      "retention_ratio": 0.5104895104895105,
+      "section_description": "\"Bunları da aktar\" - The closing remarks of the broadcast, where the presenter summarizes the information and concludes the program."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

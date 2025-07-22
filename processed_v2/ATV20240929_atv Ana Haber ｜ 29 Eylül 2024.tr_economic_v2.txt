@@ -1,0 +1,32 @@
+# Economic Content from: ATV20240929_atv Ana Haber ｜ 29 Eylül 2024.tr.txt
+# Processed: 2025-07-22T16:17:03.328977
+# Original: 4316 words → Filtered: 133 words (3.08% retention)
+# Economic segments: 2
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 63
+**Retention**: 35.80%
+
+500 lir yatırım yaparak hafta sonunda kazancınız 26,000 liraya ulaşabilir. Bu tür dolandırıcılıkların özellikle sevilen ve güven duyulan ünlü isimleri tercih etmesi, sosyal medyada yapılan reklamların güvenilirliğini sorgulatıyor. Dolandırıcıların vaadettikleri kazanç oranları, aslında yaptıkları işin en büyük foyası. Bu durum, mütevazi gelirli vatandaşlarımızın birikimlerini koruma ihtiyacını daha da önemli hale getiriyor. Ekonomik zorluklar içinde olan bireyler, bu tür dolandırıcılıklara karşı daha dikkatli olmalı.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 70
+**Retention**: 100.00%
+
+000 sağ olasın var olasın teşekkür ederiz aşiret düğününde paraları sayma işlemi
+dakikalarca sürdü balya balya paralar bavula sığmayınca ek bir çanta daha getirildi damada 4 milyon
+lira takılan düğünde geline ise 3 kilo altın takıldı Kocaeli'nin Gebze ilçesinde Celali aşiretine
+mensup Özbağ ailesinin düğünü vardı binlerce davetlinin katıldığı düğünde takı merasimi saatlerce
+sürdü teşekkür ederiz se kişi sadece düğünde takılan paraları saydı masanın üzeri balya balya
+parayla doldu 100
+
+================================================================================
+

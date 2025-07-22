@@ -1,0 +1,61 @@
+# Economic Content from: ATV20240711_atv Ana Haber ｜ 11 Temmuz 2024.tr.txt
+# Processed: 2025-07-22T15:56:52.329967
+# Original: 4656 words → Filtered: 436 words (9.36% retention)
+# Economic segments: 4
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 122
+**Retention**: 51.05%
+
+Türkiye'nin ekonomik durumu ve uluslararası ilişkileri üzerine yapılan değerlendirmeler, özellikle ticaret ve yatırım alanında önemli bir yere sahip. Türkiye'nin NATO zirvesindeki rolü, ekonomik işbirlikleri açısından da değerlendiriliyor. 
+
+Erdoğan, zirve sırasında yaptığı görüşmelerde, Türkiye'nin ekonomik politikalarını ve uluslararası ticaret ilişkilerini güçlendirme hedeflerini vurguladı. Özellikle, tahıl anlaşması gibi ekonomik konular, Türkiye'nin uluslararası arenadaki etkisini artırıyor. 
+
+Ayrıca, Türkiye'nin savunduğu ekonomik tezler, NATO sonuç bildirgesine de yansıdı. Bu durum, Türkiye'nin uluslararası ticaret ve ekonomik işbirlikleri açısından önemli bir adım olarak değerlendiriliyor. 
+
+Zirve sırasında yapılan görüşmelerde, bölgesel ekonomik işbirlikleri ve ticaretin artırılması konuları da gündeme geldi. Erdoğan'ın diğer liderlerle yaptığı görüşmeler, Türkiye'nin ekonomik stratejilerini ve uluslararası ticaret hedeflerini destekleyen bir bağlamda gerçekleşti. 
+
+Bu bağlamda, Türkiye'nin NATO zirvesindeki diplomatik temasları, ekonomik ilişkilerin güçlendirilmesi açısından kritik bir öneme sahip.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 121
+**Retention**: 63.02%
+
+Emekli maaşlarına gelen % 24,75'lik zam sonrası bankalar bir kez daha promosyon yarışına girdi. Milyonlarca emeklinin alacağı promosyonlar 18.000 lirayı aştı. Bankalar promosyon tutarlarını 10.000 liranın altı, 10.000 ile 14.999 lira arası, 15.000 ile 19.999 lira arası ve 20.000 lira ile üstü şeklinde 4 maaş dilimine göre belirliyor. Ödenen promosyon miktarları ise 5.000 lira ile 18.000 lira arasında değişiyor. % 25'lik zamla birlikte 10.000 ile 15.000 lira arasında bir dilime geçmiş olacaksınız. Dolayısıyla en az 5.000 yerine en az 8.000 lira promosyon almanız gerekiyor. Rekabet içindeki bankalar promosyonda çıtayı yükseltti. Örneğin, özel bir banka emekliye bazı şartlar sunarak promosyonu şimdiden 18.000 liranın üzerine çıkardı. Yaklaşık 16 milyon emeklinin zamlı maaşları önümüzdeki haftadan itibaren hesaplara yatmaya başladığında promosyonların daha da artması bekleniyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 71
+**Retention**: 46.41%
+
+Emekliler, yeni promosyon miktarını alabilecek. Daha önce promosyon almış olmak bu değişikliğe engel değil. Bankasına başvurup cayma hakkını kullanarak, daha önce aldığı promosyonun kalan kısmını iade ederek yeni promosyonunu talep edebilir. Ayrıca, başka bankadaki daha yüksek promosyona da başvurabilir. 
+
+Yasa dışı bahis geliri olduğu değerlendirilen işlem hacminin 1.102.187.195 lira olduğu belirlendi. Kesilen sahte fatura tutarının 489.309.777 lira olduğu tespit edildi. Bu durum, finansal piyasalarda ve bankacılık sisteminde önemli etkilere yol açabilir.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 122
+**Retention**: 69.71%
+
+The investigation conducted by the Istanbul Anadolu Chief Public Prosecutor's Office highlighted significant findings regarding the financial activities of an illegal betting organization. It was emphasized that the source of the financial assets being laundered within the legal system was linked to this illegal betting operation. The investigation revealed that illicit gains from illegal betting were transferred to cryptocurrency wallets and subsequently smuggled to Georgia and Cyprus to avoid detection by the Financial Crimes Investigation Board (MASAK), the Central Bank, and judicial authorities. 
+
+The total amount assessed as illegal betting revenue was reported to be approximately 1,102,000 Turkish Lira. Additionally, the indictment indicated that the companies involved in the investigation utilized fraudulent invoices amounting to 489,309 Turkish Lira, suggesting potential tax offenses.
+
+================================================================================
+

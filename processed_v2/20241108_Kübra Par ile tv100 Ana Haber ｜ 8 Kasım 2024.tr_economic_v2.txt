@@ -1,0 +1,42 @@
+# Economic Content from: 20241108_Kübra Par ile tv100 Ana Haber ｜ 8 Kasım 2024.tr.txt
+# Processed: 2025-07-22T18:43:18.114056
+# Original: 9646 words → Filtered: 375 words (3.89% retention)
+# Economic segments: 3
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 66
+**Retention**: 91.67%
+
+Dönüşü gazetecilere yaptığı açıklamalar ki içindeki ekonomi bölümü çok önemli. Hani geçmişte faiz sebep enflasyon sonuç diyordu ya Cumhurbaşkanı, şimdi de benzer bir cümleyi kurdu aradan 2 yıl geçtikten sonra. İnşallah faizle birlikte enflasyon da düşecek. Benim ekonomi mantığım bir ekonomist olarak mantığım bu dedi. Peki bu sözler yakında Merkez Bankası'nın faizi indirmeye başlayacağına mı işaret ediyor? Bu, eski politikaya geri dönüleceğinin bir ön habercisi mi?
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 232
+**Retention**: 90.62%
+
+Kira fiyatları son yıllarda uçuşa geçti; pandemi ile birlikte yükselmeye başlayan kira fiyatları dur durak bilmedi. Bu yıl yürürlükten kalkan % 25 sınırına rağmen son 4 yılda kiralar % 570 arttı. % 570 artış çok yüksek; bu artış enflasyonun ana kalemlerinden birisi çünkü hayatın en önemli maliyetlerinden birisi barınma ihtiyacı. Bu da bizi enflasyondan kurtarmamız engel oluyor. Pandemi, öğrenci ve memur göçleri ve zam sınırının kalkması kira fiyatlarını zirveye taşıdı. Yaratılan ciddi gerginlik sonrası bir patlama yaşandı; yani evi boş olan ev sahipleri bu sefer olması gereken kiranın iki katını, üç katını ister oldular. 
+
+Son dönemde bildiğiniz üzere faizler çok yüksek; yani bankaya bir para koyduğunuz zaman aylık % 4 faiz alıyorsunuz. Buna karşılık, evi satın almak isterseniz de aynı faiz oranlarıyla konut kredisi sunuluyor ve bu faiz oranlarıyla satın almak çok riskli. Uzmanlar, bozulan arz talep dengesinin daha fazla konut yapılarak sağlıklı bir zemine oturtulabileceğini belirtiyor. 
+
+Şimdi bir de altına bakalım; altındaki yükseliş birden terse mi dönüyor acaba? ABD'deki seçimlerin ardından altın piyasasında bir düşüş başladı; gram altın 2590 liraya kadar geriledi. Ancak uzmanlara göre bu uzun süreli bir düşüş olmayacak. 2025 yılı içinde altın fiyatının tekrar yönünü yukarı çevirme olasılığı var. Amerika Birleşik Devletleri'nde yeni başkan belli oldu; piyasalar hareketlendi, altında yükseliş durdu. Donald Trump'ın yeni Amerika Birleşik Devletleri başkanı seçilmesi altın fiyatlarını düşürdü. Son bir ay içinde 2790 dolar seviyelerine kadar yükselen ons altın, 2650 dolar seviyelerine kadar geriledi.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 77
+**Retention**: 43.26%
+
+Türkiye'nin en çok talep gören turistik Doğu Ekspresi için geri sayım başladı. Bu sezonda Erzurum Kars yolculuğu için ilk sefer 23 Aralık'ta yapılacak. Bilet satışları da bugün başlayınca sosyal medyada yeni paylaşımlar yapılmaya başladı. Doğu Ekspresi'ne binebilmek için bilet fiyatı 5025 TL olarak belirlendi. Bu fiyat, Orient Express ile kıyaslandığında dikkat çekici bir maliyet farkı oluşturuyor. Orient Express'in maliyeti ise 1685 Pound civarında. Bu durum, turizm sektöründeki fiyat farklılıklarını ve lüks hizmetlerin ekonomik etkilerini gözler önüne seriyor.
+
+================================================================================
+

@@ -1,0 +1,38 @@
+# Economic Content from: ATV20240719_atv Ana Haber ｜ 19 Temmuz 2024.tr.txt
+# Processed: 2025-07-22T16:08:08.677073
+# Original: 4618 words → Filtered: 263 words (5.70% retention)
+# Economic segments: 3
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 111
+**Retention**: 55.50%
+
+Yaşlı aylığı 4181 liraya çıktı. Memur ve memur emeklilerine % 20 oranında zam geldi. Bu zam, sosyal yardım destek ödemelerini de arttırdı. Dolayısıyla evde bakım ücreti şu anda 9077 TL'ye yükseldi. Sosyal yardım ödemelerinde yapılan artışlarla birlikte 3504 TL olan yaşlı aylığı 4181 liraya yükseldi. Engel oranı % 40 ile 69 arası olanlara yapılan destek ödemesi 3337 liraya, % 70 ve üzeri engellilerin aylık destek ödemesi ise 56 liraya çıktı. Evde bakım yardımı 977 TL oldu. Sosyal ve ekonomik destek hizmeti kapsamında çocuk başına yapılan destek tutarı 5330 TL'den 6360 TL'ye çıktı. Koruyucu aile destek ödemesi de artış gösterdi. Yeni ödeme tutarları Temmuz ayı ödemesi olarak Ağustos dönemine yansıtılarak hesaplara yatırılacak.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 85
+**Retention**: 43.37%
+
+Özel okullar kitap ücretine fahiş zam yaptı, veliler isyan noktasına geldi. Milli Eğitim Bakanlığı, özel okullarda bakanlık tarafından ücretsiz olarak dağıtılan ders kitaplarının kullanılmasını zorunlu hale getirmişti. Ancak buna rağmen özel okullar, velilerden kitap ücreti talep etmeye devam ediyor. Geçen yıl kitap ücreti 182.000 lira arasında değişiyordu; şimdi ise velilerden 50.000 ile 60.000 lira arasında kitap ücreti isteniyor. Bu yıl kitap fiyatlarının iki katına çıkacağı belirtiliyor. Eğitimdeki bu yüksek maliyetler, veliler için büyük bir sorun teşkil ediyor. Özel okullardaki kitap ücretleri, okuldan okula değişiklik gösteriyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 67
+**Retention**: 47.52%
+
+Ders kitaplarını kendileri seçiyorlar ve özel yayınevlerinden o kitapları okutuyor öğrencilere. Milli Eğitim Bakanlığı'nın gönderdiği kitapları ya senenin başında ya da senenin sonunda geri dönüşüme atıyorlar. Eğer bakanlık tarafından gönderilen ders kitabını kullanmazsa idari para cezası uygulanacak. Veliler kitap ücretini ödemek zorunda değil; tüketici mahkemesine ve Milli Eğitim Bakanlığı'na şikayet edebilirler. Okul velileri tüketici konumundadır ve hukuken istemedikleri halde kendilerine dayatılan ücretleri 10 yıl boyunca geri alabiliyorlar.
+
+================================================================================
+

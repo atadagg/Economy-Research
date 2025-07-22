@@ -1,0 +1,91 @@
+# Economic Content from: 20240905_Ece Üner ile Halk Ana Haber (5 Eylül 2024).tr.txt
+# Processed: 2025-07-22T16:59:14.992233
+# Original: 11856 words → Filtered: 596 words (5.03% retention)
+# Economic segments: 6
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 62
+**Retention**: 33.51%
+
+İstanbul'da yaşamanın her ay katlanan ve karşılanmakta zorlanılan maliyeti, 4 kişilik bir ailenin yaşam maliyetinin 70,000 liraya dayandığını gösteriyor. Hesaplamaları İstanbul Planlama Ajansı yaptı ve bir evin aylık giderlerinin 6,893 lira olması gerektiğini belirtti. Bu, 4 asgari ücret demek. Hissedilen bir ayda artan maliyet ise 2,383 lira olarak hesaplandı. Bu veriler, ailelerin yaşam standartlarını sürdürebilmesi için gerekli olan ekonomik koşulları ortaya koyuyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 112
+**Retention**: 57.73%
+
+İPA araştırmasına göre İstanbul'da yaşamanın maliyeti TÜİK'in açıkladığı enflasyondan da yüksek; geçen yıla göre artış % 61.84. Son açıklanan enflasyona göre ise % 51.97. Bu durum, yaşam maliyetinin çok yüksek olduğunu gösteriyor. İstanbul'da yaşamak çok zor; insanlar haklı olarak memleketlerine dönüyorlar. 
+
+Bu bağlamda, ekonomik verilerin ve enflasyonun artışı, bireylerin yaşam standartlarını doğrudan etkiliyor. Ayrıca, Sancaktepe Belediyesi'nin mali yönetimiyle ilgili iddialar gündemde. Belediye Başkanı Alper'in, AK Parti döneminde yapılan israfın örneği olarak 750 liradan 4750 kilo baklava alımını gündeme getirmesi, kamu kaynaklarının nasıl kullanıldığını sorgulatıyor. 
+
+Seçim döneminde dağıtılan 500,000 paket kahve, ekonomik kaynakların nasıl harcandığına dair bir başka örnek. Bu tür gelişmeler, yerel yönetimlerin mali disiplinini ve kamu harcamalarının şeffaflığını sorgulamamıza neden oluyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 228
+**Retention**: 100.00%
+
+000 borç seçimlere bir ay kala alınan 300 kişi şimdi ondan sonra borçlar CHP belediyelerin
+oluyor Keşke biraz buralara da bakılsa çık anlatsana millete söylesene niye akrabalarını memur
+yaptırdın ilçe başkanı Ya bana ne sayısı bir tane 10 tane 100 tane neye güvenerek yaptırdın seçim
+bitmiş ya 6 nisan Ben 4 Nisan'da göreve gelmişim 1 Nisan'da 6 kişiyi işe almışlar söyledim bunu
+buradan seçime bir ay kala 400 milyon 500 milyon bu belediyeyi borçlandırmak israftır 3 ayda
+belediyenin 10 aylık bütçesini harcamak israftır israf Bunlar Arkadaşlar niye bir taneni çıkıp
+demiyor ki ya kardeşim sen her yerde söylüyorsun bu belediyenin borcu Bu kadar yalan söylüyorsun
+söylesenize bir tanen ya bir tanen çıksanıza konuşsanıza bir sorsanıza Ya kardeşim Siz 300 kişiyi
+kime sorarak aldınız son bir ayda Neye dayanarak Siz 250 kişiyi memur yaptınız bir sorsanıza bir
+belediye düşünün arkadaşlar yani biz birinde birinde üçünde göreve geldik 15'inde maaş ödenecek 125
+milyon kasasında 1 TL yok 1 TL ya şimdi bunları anlatmayacak mıyız ya SGK borcu var ya söylemeyelim
+mi olduğunu arkadaşlar yani yok mu diyelim SGK borcu 2018'in 8 ayından beri SGK borcunu ödediniz de
+ya biz ödemediniz mi diyoruz Bunları konuştuk mu bu sefer kızıyorsunuz baklava diyorsun kurab ya
+4750 kilo Muhammet Bey 4750 kilo baklava almış adamlar ya söylemeyelim mi kilosunu 750 liradan 1
+Ocakta almış bugün kilosu 500 lira Adam gelmiş diyor ki ben 500
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 60
+**Retention**: 55.56%
+
+2024 yılı için enflasyon oranının % 41,5 gerileyerek enflasyonla mücadelede önemli bir mesafe kat edilmesi beklenmektedir. 2024 yılı büyüme beklentisi % 4 olarak belirlenmişken, şu anki tahminimiz bu yıl sonu itibariyle % 3,5 olarak revize edilmiştir. 2024 yılı için işsizlik oranının ise yıl sonu itibariyle 9,3 oranında gerçekleşmesini bekliyoruz. Hükümetin 2024 yılı için ortalama dolar tahmini 33,2 lira olarak belirlenmiştir.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 64
+**Retention**: 110.34%
+
+44 6 000 t'ye eşit ve yılın ilk ayında 1 milyar 353 72 000 TL harcanmış. Bu bir ekonomiye dönüşmüş durumda. Sayın Cumhurbaşkanı'nın koruma ekonomisi ile ilgili açıklamaları, bir günlük koruma maliyetinin 379 TL olduğunu gösteriyor. Asgari ücrete göre bu maliyet, ekonomik veriler açısından önemli bir gösterge. Yılın ilk 6 ayında 1 milyar 353 milyon TL harcama yapılması, ekonomik aktivitelerin seyrini etkileyen bir durum.
+
+================================================================================
+
+## Economic Segment 6
+
+**Method**: simple_final
+**Confidence**: 0.50
+**Word Count**: 70
+**Retention**: 58.33%
+
+The filtered text focusing on economics, finance, and business is as follows:
+
+"Emeklilerin bu kadar sürünmesi demiş ve günün tweeti hemen arkada. Evet, toz toyun Çağımız insanları vicdanlarıyla yaşamları arasında cereyan eden sürekli ve apaçık çelişki içinde yaşamak zorunda. Bu çelişki ekonomik hayatta olduğu kadar politik hayatta da ortaya çıkıyor saptaması maalesef güncelliğini koruyor. Toplumlar kendileri yönetenlerden bilinçli bir şekilde kötüyü reddedip iyiyi talep etmedikçe böyle devam edecek gibi görünüyor."
+
+================================================================================
+

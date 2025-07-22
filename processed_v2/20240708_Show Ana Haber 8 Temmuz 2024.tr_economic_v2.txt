@@ -1,0 +1,80 @@
+# Economic Content from: 20240708_Show Ana Haber 8 Temmuz 2024.tr.txt
+# Processed: 2025-07-22T17:45:13.884833
+# Original: 2423 words → Filtered: 529 words (21.83% retention)
+# Economic segments: 5
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 31
+**Retention**: 55.36%
+
+Milyonlarca emekli, kök aylığa yapılan % 24,75'lük zamma rağmen Temmuz ayında herhangi bir değişiklik yapılmazsa zam alamayacaklar. Kök maaşın düşüklüğünden dolayı yaklaşık 1.8 milyon emekli yeni zam döneminde hiç zam almayacak.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 47
+**Retention**: 55.29%
+
+Yeni bir zam formülü üzerinde çalışılıyor. En düşük emekli aylığının artırılması için mecliste yasal düzenleme yapılması gerekiyor. Bu kapsamda en düşük emekli aylığının 10,000 liradan 12,000 liraya çıkartılması gündemde. Eğer bu karar alınırsa, 12,000 liranın altında emekli aylığı alan kimse kalmayacak. Zam formülünde öne çıkan rakam 12,000.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 88
+**Retention**: 53.99%
+
+Meclis genel kurulunda görüşülmeye başlanacak torba kanuna ilave bir madde eklenerek hayata geçirilecek en düşük emekli aylığı için net rakamsız çalışmalar sırasında ortaya çıkacak bu ayki emekli ayrılıklarına yetiştirmesi mümkün olabilecek. En kötü ihtimalle fark ödemesi yapılır. Milyonlarca asgari ücretli asgari ücret zammı yapılacak mı sorusunun yanıtını arıyor. Hükümete sık sık ara zam çağrısı yapan CHP lideri Özgür Özel, asgari ücrette ara zam talebini yinelenecek. Hükümet kritik açıklama öncesi destek istedi. Cumhuriyet Halk Partisi, hem mecliste hem de kamuoyunda daha fazla destek ve katkılarına ihtiyacımız olduğunu ifade etti.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 276
+**Retention**: 100.00%
+
+9 Leman sarıkuzu ve Ömer Taş
+olduğunu öğrendim genç kadın bir şokta annesinin mezarını ararken yaşadı Burada gördüğünüz mezar
+benim Mezarım Beni Öldü gösteriyorlar sırf çevrelerden tepki almamak adına y hiçbirine de hakkımı
+helal etmiyorum dönüşüme giren bir binanın yıkımı yandaki sağlam binayı da yaşanmaz hale getirdi
+duvarları yıkılan kolonları çatlayan apartman Sakinleri evinden parkından olduğu sokakta kaldı abi
+oradan girme kolon gider Allah Allah evimizin son hali böyle yıkım yapıyorlar işte sallanma oldu
+deprem gibi yimi yaptılar yarısı bu tarafa yarısı o tarafa eve çıktım Baktım ki duvarlar yıkılmış
+içeriye düşmüş içeri giremiyoruz eşyalarımız içeride kaldı kentsel dönüşümdeki bina yıkıldı
+molozları yan binayı harabeye çevirdi kolonları çatlayan apartman neredeyse Duvarsız kaldı kolon
+içeriye girmiş oradan bütün yatak odası bebeklerin torunların beşikleri hepsi altında kalmış adı
+kontrollü yıkımı ama ortaya çıkan manzara söze gerek bırakmadı resmen faciadan dönüldü Kimin evi
+Burası dayının evi açılmış duvar he günören deki bu bina günler önce kentsel dönüşüme girdiği için
+yıkımına başlanmıştı ancak işçilerin tedbirsizliği le moloz parçaları etrafa saçıl yıkımı
+durdurulmuştu en üst katına çökmesin diye destek olarak ahşap bir kapı konmuştu kapı çatıyı tutar mı
+Sizce tutmaz tutar mı vurdu mu tahtalar İner Aşağı o bina günler sonra yıkıldı ancak bakın ortaya
+nasıl korkunç bir manzar Şu anda benim Yatak odamın çocukların odasının duvarı yok yıkım sırasında
+binanın moloz parçaları yan binanın camlarını kırdı ve kolonlarını patlattı binamızın çatısında
+zararlar var yan binada kolon patlaması var duvarlarda yıkılma var şans eseri kimse zarar görme gö
+Canel diyoruz şu anda dairesine giremiyor evsiz barksız kalan bina Sakinleri ise kara kara ne
+yapacaklarını ve nereye gideceklerini düşünüyor sahip çıkan mız da yok böyle sokakta bekliyoruz
+İşletmesi için ödediği kira 200
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 87
+**Retention**: 43.72%
+
+Mülk sahibi tam 1 milyon liraya çıkarmak istedi. 800 000 liralık kira artışını kabul etmemesi nedeniyle elektrikleri kesildi. Necmi Ercan, ödemeyi düzenli yapmasına rağmen mekan sahibinin icra takibi başlattığını söyledi. Elektrik faturamızı, su faturamızı ve kiramızı günü gününe öderken, bu şekilde yapılmasını anlamıyorum. Necmi Bey burayı ilk kiraladığı ilk ay 100 000 lira kira ödüyordu, daha sonra bu miktar 200 000 liraya çıktı. Ardından 1 milyon lira istendi. Ben 1 milyon kirayı vermek için burada en az 7 milyon ciro yapmam lazım. Elektrikler kesilince gıda malzemeleri bozuldu.
+
+================================================================================
+

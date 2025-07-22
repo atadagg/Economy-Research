@@ -1,0 +1,84 @@
+{
+  "file_path": "news/TV100/20240807_Oya Çebi ile TV100 Ana Haber ｜ 7 Ağustos 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T18:11:59.711727",
+  "original_word_count": 11269,
+  "filtered_word_count": 470,
+  "retention_ratio": 0.04170733871683379,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "efendim İyi akşamlar TV ekranlarına hoş geldiniz",
+      "description": "\"efendim İyi akşamlar TV ekranlarına hoş geldiniz\" - The presenter welcomes viewers to the program, introduces herself, and states the date, setting the stage for the news broadcast.",
+      "end_pos": 187
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 187,
+      "start_sentence": "maalesef sınır ötesinden gelen acı haberle başlayacağız",
+      "description": "\"maalesef sınır ötesinden gelen acı haberle başlayacağız\" - The main news content begins with a report on a tragic incident involving a Turkish soldier who was killed in action, followed by details about the situation in Iraq and subsequent developments regarding a forest fire in Aydın and Muğla.",
+      "end_pos": 1374
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 1374,
+      "start_sentence": "Efendim sıcak bir gelişmemiz var",
+      "description": "\"Efendim sıcak bir gelişmemiz var\" - This phrase indicates a shift from one news story to another, specifically transitioning from the report on the soldier to the forest fire situation.",
+      "end_pos": 79363
+    }
+  ],
+  "news_segments_count": 15,
+  "economic_segments_count": 5,
+  "economic_segments": [
+    {
+      "segment_id": "1374_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 116,
+      "filtered_length": 60,
+      "retention_ratio": 0.5172413793103449,
+      "section_description": "\"Efendim sıcak bir gelişmemiz var\" - This phrase indicates a shift from one news story to another, specifically transitioning from the report on the soldier to the forest fire situation."
+    },
+    {
+      "segment_id": "1374_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 220,
+      "filtered_length": 72,
+      "retention_ratio": 0.32727272727272727,
+      "section_description": "\"Efendim sıcak bir gelişmemiz var\" - This phrase indicates a shift from one news story to another, specifically transitioning from the report on the soldier to the forest fire situation."
+    },
+    {
+      "segment_id": "1374_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 192,
+      "filtered_length": 186,
+      "retention_ratio": 0.96875,
+      "section_description": "\"Efendim sıcak bir gelişmemiz var\" - This phrase indicates a shift from one news story to another, specifically transitioning from the report on the soldier to the forest fire situation."
+    },
+    {
+      "segment_id": "1374_6",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 63,
+      "filtered_length": 43,
+      "retention_ratio": 0.6825396825396826,
+      "section_description": "\"Efendim sıcak bir gelişmemiz var\" - This phrase indicates a shift from one news story to another, specifically transitioning from the report on the soldier to the forest fire situation."
+    },
+    {
+      "segment_id": "1374_8",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 265,
+      "filtered_length": 109,
+      "retention_ratio": 0.41132075471698115,
+      "section_description": "\"Efendim sıcak bir gelişmemiz var\" - This phrase indicates a shift from one news story to another, specifically transitioning from the report on the soldier to the forest fire situation."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

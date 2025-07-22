@@ -1,0 +1,99 @@
+# Economic Content from: 20240611_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 11 Haziran 2024.tr.txt
+# Processed: 2025-07-22T18:33:25.014063
+# Original: 9067 words → Filtered: 814 words (8.98% retention)
+# Economic segments: 8
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 48
+**Retention**: 32.00%
+
+Ekonomi konusunda istedikleri bilgiyi Mehmet Şimşek'ten alabilirler. Bu, normalleşme adımlarının ilerlemesi ve diyalog sürecinin devam etmesi açısından önemli bir ifade. CHP lideri Özgür Özel'in gündeminde en önemli konu ekonomiydi. Cumhurbaşkanı Erdoğan'ın da öncelikli gündem başlığı ekonomi. Bu görüşmelerin detayları, ekonomik veriler ve istatistikler açısından önemli bir bağlam sunuyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 87
+**Retention**: 48.33%
+
+3,000 lira artan enflasyon ve alım gücündeki düşüş en çok emeklileri vurdu. Geçinemeyen emekliler çalışmak zorunda kalıyor. İŞKUR verilerine göre, 60 ve üzeri yaştaki 30,000 emekli iş sırası bekliyor. 2023 Nisan ayında 60 ve üzeri yaşta 20,090 kişi iş beklerken, bu yıl sayı 27,935'e ulaştı. Ocak-Mayıs döneminde ise 60 ve üzeri yaştaki 1,953 kişi İŞKUR aracılığıyla işe yerleştirildi. Şartlar mecbur ediyor çünkü başka alternatifi yok. Yaşlılık aylığı alan her 100 emekliden 17'si SGK'ya kayıtlı olarak çalışıyor. İnsanlar zor durumda ve bu durum hırsızlık gibi olumsuz sonuçlar doğurabiliyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 163
+**Retention**: 70.56%
+
+Ağır ekonomik koşullar altında, her dönem her yıl rüştünü ispat eden en karlı yatırım araçları arasında altın rekor kırıyor. Altın yatırımını nasıl yapmak gerektiği konusunda bankadan almak mı yoksa çarşıdan fiziki olarak almak mı daha karlı olduğu üzerine araştırmalar yapıldı. Kısa vadede zarar etme olasılığı, bankadaki alım satım arasındaki makasın artmasıyla etkili olabiliyor. Fiziki altın saklamak da zorluklar içeriyor; bunun yanı sıra kasa kiralamak gibi ek maliyetler de söz konusu. 
+
+Kar zarar hesaplamasında, borsa, döviz, mevduat faizi ve altın gibi yatırım araçları arasında bir karşılaştırma yapılması gerekiyor. Geçen yıl en çok kar ettiren yatırım aracı altın oldu. Bankada yapılan alımlarda marjlar, dolayısıyla aradaki fark yatırımcıları etkileyebiliyor. Kapalı çarşıda alım yapıldığında ise bu alım satım farkı daha az olduğundan, yatırımcılar bankaya göre daha düşük bir maliyetle işlem yapabiliyor. 
+
+Serbest piyasadan alınan altın ile bankadaki altın arasında fiyat farkları bulunuyor. Örneğin, elinizde 30 gramlık bir külçe altın varsa ve bunu Kapalı çarşıya götürüp sattığınızda, gramı için verilecek olan para güncel piyasa koşullarına göre değişiklik gösterebilir.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 139
+**Retention**: 97.89%
+
+40 L yani size verilecek toplam tutar 7 3 500 ancak sizin bu altın elinizde değil de banka yoluyla hesabınızda durduğunu varsayarsak size bankanın 1 gram iç vereceği ücret 2 300 L. Bu da toplamında 9 000 L ediyor. Yani fiziki altını 73,500 liraya satarken bankadan aldığınız altını ise 9,000 liradan satmış oluyorsunuz. Burada tabii ki baktığımız noktalardan bir tanesi de fiziki olarak altın yatırımında bulunan yatırımcıların bu altını saklama konusundaki almış olduğu risk. Yani fiziki altın almak her zaman daha karlı; ancak burada da şöyle bir sorun var ki o altını saklayabilmek. İşte altını fiziki bir şekilde alanların bazıları kasa kiralıyorlar. Kasaların yıllık ücreti de 5,000 L. Yani siz bu durumda kar ederken bir taraftan da kasaya para ödemiş oluyorsunuz. Peki kar zarara baktığımızda ortaya nasıl bir sonuç çıkıyor? Sizin kazancınız burada 73,500 kasa fiyatını düştüğünüzde kazancınız 68.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 112
+**Retention**: 78.87%
+
+500 geliyor. Yani bu durumda bankada altın almak daha karlı oluyor. Ancak son günlerde bankalarda kasa bulmak da kolay olmuyor; yeni açılan şubelerde bile kasalar kısa sürede doluyor. Kasa bulmak zor ama külçe altın bulup içine koymak kasayı bulduktan sonra kolay. Şimdi benim gözümde birkaç tane külçe altın koyabiliyorsan o kasanın içine kara geçiyorsunuz. Ancak çoğunuz muhtemelen koyamayacak. O yüzden fiziki altınları bankada muhafaza etmektense kendiniz muhafaza etmeniz daha iyi gibi bir senaryo çıkıyor.
+
+Zannediyorum ki ortaya milyonlarca araç sahibini ilgilendiren trafik sigortasında yeni bir dönem başlıyor. Aslında başladı; Mayıs ayı itibariyle trafik sigortası prim artışları aylık olarak hesaplanıyor ve hasar maliyet endeksine göre belirleniyor. Haziran ayında %3,5 oranında bir artış bekleniyor.
+
+================================================================================
+
+## Economic Segment 6
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 133
+**Retention**: 70.37%
+
+5 oranında bir artış söz konusuydu bu artışın Temmuz ayında da aynı oranla devam edilmesine karar verildi. Sigorta Emeklilik Düzenleme Denetleme Kurumu, trafik sigortaları ile ilgili yeni bir düzenlemeye gitti. Bu yeni düzenlemeye göre trafik sigortası fiyat artışları artık rastgele değil, belirli bir hasar maliyet endeksine göre belirlenecek. Milyonlarca araç sürücüsünü ilgilendiren bu yeni dönem Mayıs itibariyle başlamıştı. Bu tarihten sonra aylık trafik sigortası primi artışları hasar maliyet endeksine göre belirlendi. Türkiye İstatistik Kurumu'nun açıkladığı veriler, trafik sigortasının her ay ne kadar artacağını hesaplamak için kullanılacak. Buna trafik sigortası maliyet endeksi dendi ve 1 Mayıs'tan itibaren uygulamaya başlandı. Haziran ayında prim artış oranı %3,5 olarak açıklanmıştı. Temmuz ayı içinde yeni güncel oranlar da belli oldu. Trafik sigortasında prim artışları aylık olarak belirleniyor ve 1 Temmuz'dan itibaren geçerli olacak artış oranı %3,5 olarak belirlendi.
+
+================================================================================
+
+## Economic Segment 7
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 67
+**Retention**: 35.64%
+
+Lahmacun fiyatı 1000 lirayı buluyor, bazı yerlerde ise 3000 liraya kadar çıkabiliyor. Bu fiyatlar, konum ve marka değeriyle alakalı olarak değişiklik gösteriyor. Bodrum'da plaj keyfi yapmanın bedeli oldukça yüksek; özel plajlara giriş fiyatları 3000 liraya kadar çıkarken, bazı tesisler giriş ücreti olarak 2000 lira belirliyor. Bu durum, arz talep dengesine göre işletmelerin tercih edilmesini etkiliyor. Özel plajlara giriş fiyatları 500 liradan başlıyor ve 3000 liraya kadar çıkabiliyor.
+
+================================================================================
+
+## Economic Segment 8
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 65
+**Retention**: 38.24%
+
+Kurbanlık hayvanların fiyatları küçükbaşta 8,000 liradan başlayıp 30,000 liraya kadar çıkarken, büyükbaşta fiyatlar 110,000 ila 250,000 lira arasında değişiyor. Kurbanlıkların fiyatı, hayvanın ağırlığına göre değişiklik gösteriyor. Küçükbaş hayvanlarda fiyatlar 8,000 ile 20,000 lira arasında, düvelerde ise 100,000 ile 140,000 lira arasında seyrediyor. Tosunlarda fiyatlar 150,000 ile 250,000 lira arasında değişiyor. Kurban pazarlarındaki sıkı pazarlıklar devam ediyor ve bu durum, fiyatların belirlenmesinde önemli bir etken oluşturuyor.
+
+================================================================================
+

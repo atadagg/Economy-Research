@@ -1,0 +1,133 @@
+# Economic Content from: 20240628_546097036_subtitle_tr-auto.txt
+# Processed: 2025-07-22T17:06:09.797961
+# Original: 5064 words → Filtered: 888 words (17.54% retention)
+# Economic segments: 10
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 114
+**Retention**: 62.98%
+
+Hazine ve Maliye Bakanı Mehmet Şimşek, Türkiye'nin gri listeden çıkma kararını duyurdu. Türkiye'ye gelme noktasında uluslararası kuruluş olan Mali Eylem Görev Gücü, 2021 yılında Türkiye'yi gri listeye almıştı. Ekonomi yönetiminin amacı listeden çıkmaktı. En son adım kripto yasasıydı. Paranın takibi yasayla güvence altına alındı. Türkiye gri listeden çıktı. Bu, yabancı yatırımcıların artık kafasında soru işareti olmadan Türkiye'ye geleceği, doğrudan yatırımların artacağı anlamına geliyor. Döviz istikrarı da enflasyonu olumlu yönde etkileyecek. Kur kaynaklı, kur geçişkenliği enflasyonun oluşmaması anlamına geliyor. Türkiye'nin risk primi 850 puandan 250 puan düzeyine indi. Hem kamu hem de özel sektör artık daha düşük maliyetle krediye ulaşabilecek. Ekonomik etkinliğin artması, büyümenin artması ve düşük borçlanma maliyetiyle bunun desteklenmesi, borsaya da olumlu yansıyacaktır.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 69
+**Retention**: 36.70%
+
+Sevgili seyirciler, Cumhurbaşkanı Erdoğan Suriye ile ilişkilerde normalleşme sinyali verdi. Geçmişte nasıl birlikteysek yine aynı şekilde birlikte hareket ederiz dedi. Suriye ile ilişkilerde normalleşme mesajı verdi. Yeniden diplomatik ilişkiler kurulabilir mi diye soruldu. Kurulmaması için hiçbir sebep yok. Nasıl ki biz Suriye ile ilişkilerimizi çok çok canlı tuttuysak geçmişte ailece görüşmelere varıncaya kadar Sayın Esad'la biz bu görüşmeleri yaptık. Yarın olmaz diye bir şey kesinlikle mümkün değil yine olur.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 109
+**Retention**: 56.77%
+
+Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, yeni vergi düzenlemesi ile ilgili detayları CNN Türk'te anlattı. Yılmaz, yurt dışına çıkış harcının 150 liradan 3000 liraya çıkarılacağı iddialarına da yanıt verdi. Ancak bu konuda henüz kesin bir rakam söz konusu değil. Geçmişte daha yüksek bir rakam düşünülmüş, fakat güncellenmemiş. Ama makul bir oran olacaktır diye inanıyorum. 
+
+Enerji piyasası düzenleme kurumu, enerji üretim maliyetlerinde yaşanan artış nedeniyle elektriğe %38 oranında zam yapıldığını duyurdu. Yeni zamlı tarife 1 Temmuz'dan itibaren geçerli olacak. Bu artışla beraber 100 kWh elektrik tüketimi olan bir konut aboneliği için ödenecek tutarın 207 lira 23 kuruş olduğu bilgisi de paylaşıldı. Doğalgaz fiyatları ise Temmuz ayında değişmeyecek; Botaş tarife değişikliği yapılmayacağını açıkladı.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 75
+**Retention**: 39.27%
+
+İzmir'den 200 milyonluk bir vurgun haberi geldi. Yüksek getiri vaadiyle iş insanlarından para toplayan bir kadın bankacıydı. Mağdurların arasında karşı yaka spor kulübünün yöneticileri de var. İddiaya göre tanıdığı iş insanlarına yüksek kar vaadinde bulundu. Hatice Ö, karşı yaka spor kulübü yöneticilerinin de aralarında bulunduğu 5 kişiden 200 milyon lira aldı. Mağdurlar paralarını alamayınca banka müdürü hakkında suç duyurusunda bulundu ve MASAK inceleme başlattı. İlk olarak Hatice Ö'nün görev yaptığı banka şubesi geçici olarak kapatıldı.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 64
+**Retention**: 32.82%
+
+Hakan Ateş, bankanın genel müdürü, konuyla ilgili açıklama yaptı. Hatice Ö'nün, annesinin ve kendi sağlık sorunları nedeniyle borçları olduğunu belirtti. Bu durum, bankanın mali durumu üzerinde olumsuz bir etki yaratabilir. Ayrıca, şirketin yönetim kurulu üyeliğinin son genel kurulda düşürüldüğü duyuruldu. Davayla ilgili şikayetçi sayısının her geçen saat arttığı bilgisi, bankanın itibarını etkileyebilir. Bu tür gelişmeler, finansal piyasalarda dalgalanmalara yol açabilir ve yatırımcıların güvenini sarsabilir.
+
+================================================================================
+
+## Economic Segment 6
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 82
+**Retention**: 41.00%
+
+Esnaf hala korku içinde. Ancak, bu durumun ekonomik etkileri göz ardı edilemez. İş yerlerinin güvenliği, ticaretin sürdürülebilirliği açısından kritik bir öneme sahiptir. Ekonomik istikrar için, esnafın iş yapabilme kabiliyeti sağlanmalıdır. 
+
+Kınalıada'da yaşanan olaylar, bölgedeki ticari faaliyetleri olumsuz etkileyebilir. Anlaşmazlıkların çözülmemesi, yerel ekonomiyi tehdit eden bir durum yaratmaktadır. Ekonomik sorunlar, sosyal huzursuzlukla birleştiğinde, iş yapma ortamını daha da zorlaştırmaktadır. 
+
+Adana'da yaşanan olaylar, toplumsal huzursuzluğun ekonomik yansımalarını da beraberinde getirebilir. İş yerlerinin güvenliği ve toplumun genel huzuru, ekonomik faaliyetlerin devamlılığı açısından son derece önemlidir.
+
+================================================================================
+
+## Economic Segment 7
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 73
+**Retention**: 36.87%
+
+Ticaret Bakanlığı, yetki belgesi olmayan emlakçıları mercek altına aldı. Kayıt dışı emlakçılar tek tek incelenmeye başladı ve yetki belgesi olmayanlara ceza kesilmeye başlandı. Bakanlıktan bir yetki belgesi almadan emlakçılık yapmak yasak. Bu yıl kesilen ceza yaklaşık 30 milyon lira. Taşınmaz ticareti yetki belgesi olan emlakçılarla iş yapmaları çok önemli çünkü kayıt dışı emlakçılar dolandırıcılığa davetiye çıkarıyor, bu da vatandaşı mağdur ediyor. Uzmanlar, gittiğiniz emlakçının yetki belgesi olup olmadığından mutlaka emin olunması gerektiğini vurguluyor.
+
+================================================================================
+
+## Economic Segment 8
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 54
+**Retention**: 38.57%
+
+107 işletmeye, ilan fiyatında fahiş artış yaptığı tespit edildiği için 10 milyon lira para cezası kesildi. Bu durum, piyasalarda fiyat istikrarı ve rekabet koşulları açısından önemli bir gelişme olarak değerlendiriliyor. Ekonomik veriler, fiyat artışlarının kontrol altına alınması gerektiğini gösteriyor. Bu tür cezalar, işletmelerin fiyatlandırma stratejilerini gözden geçirmelerine ve maliyetlerini daha dikkatli yönetmelerine yol açabilir.
+
+================================================================================
+
+## Economic Segment 9
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 179
+**Retention**: 92.27%
+
+Şimdi kısa bir ara verelim, aranın ardından haberlerimizle tekrar burada olacağız. Devam ediyoruz kanalda habere. 
+
+Bütün dünya nefesini tuttu, Amerika'daki başkanlık tartışmasına kilitlendi. Amerikan Başkanı Joe Biden, eski başkan Trump ile karşı karşıya geldi. Her konu masadaydı. Taraflar birbirini sıkıştırmak için özel hayata dair tartışmaları bile kullandı. 
+
+Bu tartışmanın ekonomik etkileri de dikkat çekti. Biden ve Trump arasındaki tartışmalar, özellikle ekonomik politikalar ve mali durum üzerine yoğunlaştı. Ekonomik veriler ve istatistikler, bu tartışmaların merkezinde yer aldı. 
+
+Biden, Trump'ın yönetimi dönemindeki ekonomik durumu eleştirerek, işsizlik oranları ve enflasyon gibi göstergelere dikkat çekti. Trump ise, Biden yönetiminin mali politikalarını sorgulayarak, artan yaşam maliyetleri ve fiyatlar üzerindeki etkilerini vurguladı. 
+
+İki liderin de ekonomik büyüme ve istihdam yaratma konusundaki vaatleri, tartışmanın önemli bir parçasıydı. Ayrıca, ticaret politikaları ve dış ticaret dengesi üzerine de görüş alışverişinde bulundular. 
+
+Bu tartışmalar, yatırımcılar ve finansal piyasalar üzerinde de etkili oldu. Ekonomik analizler, bu tür siyasi tartışmaların piyasalardaki dalgalanmalara yol açabileceğini gösteriyor. 
+
+Sonuç olarak, Biden ve Trump arasındaki bu tartışma, sadece siyasi bir mücadele değil, aynı zamanda Amerika'nın ekonomik geleceği üzerinde de önemli bir etki yaratma potansiyeline sahip.
+
+================================================================================
+
+## Economic Segment 10
+
+**Method**: simple_final
+**Confidence**: 0.50
+**Word Count**: 69
+**Retention**: 42.33%
+
+Uzmanlara göre klimayı 1 derece bile yükseltmek faturada %5 tasarruf sağlıyor. Yani klimanızı 24 dereceden 26 dereceye çıkardığınızda o 2 derecelik fark faturanızda %10 tasarruf sağlıyor. Örneğin, soğutma kapasitesi 18,000 BTU olan bir klima kullanıldığı zaman 12 saatte yaklaşık 75-80 liralık elektrik harcıyor. Bunun da aylık faturaya yansıması 1500 lira oluyor. Bu sayede klimanız daha az performans sergileyecek, tasarrufunuz artacak. Bu anlamda da elektrik sarfiyatını artıran bir özellik olacaktır.
+
+================================================================================
+

@@ -1,0 +1,18 @@
+# Economic Content from: ATV20240705_atv Ana Haber ｜ 5 Temmuz 2024.tr.txt
+# Processed: 2025-07-22T16:37:04.094062
+# Original: 4962 words → Filtered: 89 words (1.79% retention)
+# Economic segments: 1
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 89
+**Retention**: 35.60%
+
+Devlet eliyle satılmaya hazırlanan araçlar, ekonomiye kazandırılacak. Milli Emlak Genel Müdürlüğü tarafından bu arabalar satışa çıkartılacak ve böylece kullanılmayan araçlar ekonomiye kazandırılmış olacak. Araçların satışı Milli Emlak Genel Müdürlüğü'nün internet sitesinden ilan edilecek. Bu ilana çıkan satışlar takip edilecek ve söz konusu araçların piyasa değerindeki miktar üzerinden satışları gerçekleştirilecek. 
+
+Düzenleme, trafikten men edilerek otoparklarda bekletilen araçları kapsayacak. Araçların üzerindeki vergi borçları ve cebri icradan kaynaklanan alacak borçları ödenecek ve satıştan elde edilen parayla aracın borçları kapatılacak. Kalan para kamu bankalarına yatırılacak. Eğer aracın sahibi çıkmazsa, bu para hazinede aktarılacak.
+
+================================================================================
+

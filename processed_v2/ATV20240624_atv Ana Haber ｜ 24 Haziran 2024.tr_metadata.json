@@ -1,0 +1,71 @@
+{
+  "file_path": "news/ATV/ATV20240624_atv Ana Haber ｜ 24 Haziran 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T16:11:14.326235",
+  "original_word_count": 4559,
+  "filtered_word_count": 148,
+  "retention_ratio": 0.03246325948672955,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "Haber merkezinden İyi akşamlar...",
+      "description": "\"Haber merkezinden İyi akşamlar...\" - The opening segment introduces the program and the presenter, setting the stage for the news content that follows.",
+      "end_pos": 101
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 101,
+      "start_sentence": "Cumhurbaşkanı Erdoğan hem AK Parti yöneticilerinin sahadan getirdiği bilgileri dinledi...",
+      "description": "\"Cumhurbaşkanı Erdoğan hem AK Parti yöneticilerinin sahadan getirdiği bilgileri dinledi...\" - This section contains the main news content, discussing the AK Parti Central Executive Board Meeting, statements from President Erdoğan, and reactions to speculation regarding exit fees.",
+      "end_pos": 101
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 101,
+      "start_sentence": "Cumhurbaşkanı toplantı sonrasında açıklama yapan Parti sözcüsü Ömer Çelik ise...",
+      "description": "\"Cumhurbaşkanı toplantı sonrasında açıklama yapan Parti sözcüsü Ömer Çelik ise...\" - A brief transition that leads into further details about the meeting and the statements made by the party spokesperson.",
+      "end_pos": 1170
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1170,
+      "start_sentence": "Toplantının gündemini Parti sözcüsü Ömer Çelik açıkladı...",
+      "description": "\"Toplantının gündemini Parti sözcüsü Ömer Çelik açıkladı...\" - Continuation of the news content, detailing the agenda of the meeting and addressing rumors about new taxes and the government's economic program.",
+      "end_pos": 1749
+    },
+    {
+      "type": "5. **OUTRO**",
+      "start_pos": 1749,
+      "start_sentence": "Ekonomi programımız kusursuz işliyor vurgusunda bulundu...",
+      "description": "\"Ekonomi programımız kusursuz işliyor vurgusunda bulundu...\" - The closing remarks that summarize the government's confidence and the ongoing economic discussions, leading towards the end of the program.",
+      "end_pos": 32443
+    }
+  ],
+  "news_segments_count": 7,
+  "economic_segments_count": 2,
+  "economic_segments": [
+    {
+      "segment_id": "1170_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 77,
+      "filtered_length": 60,
+      "retention_ratio": 0.7792207792207793,
+      "section_description": "\"Toplantının gündemini Parti sözcüsü Ömer Çelik açıkladı...\" - Continuation of the news content, detailing the agenda of the meeting and addressing rumors about new taxes and the government's economic program."
+    },
+    {
+      "segment_id": "1749_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 221,
+      "filtered_length": 88,
+      "retention_ratio": 0.39819004524886875,
+      "section_description": "\"Ekonomi programımız kusursuz işliyor vurgusunda bulundu...\" - The closing remarks that summarize the government's confidence and the ongoing economic discussions, leading towards the end of the program."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

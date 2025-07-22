@@ -1,0 +1,64 @@
+# Economic Content from: 20240917_Ece Üner ile Halk Ana Haber (17 Eylül 2024).tr.txt
+# Processed: 2025-07-22T17:04:21.769242
+# Original: 12183 words → Filtered: 507 words (4.16% retention)
+# Economic segments: 5
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 54
+**Retention**: 46.55%
+
+Türkiye'nin ekonomi ve maliye bakanı, geçim meselesinin zorluğuna dikkat çekti. "Geçim hakikaten zor," dedi. Vatandaşa mikrofon tutulduğunda, aynı cevabı almak mümkün; "çok zor geçim" yanıtı sıkça duyuluyor. Tarım Bakanı ise et fiyatlarının yüksek olduğunu kabul ederken, "Maaşlar artıyor," ifadesini kullanarak ekonomik durumu değerlendirdi. Bu durum, halkın geçim sıkıntısını ve artan maliyetleri gözler önüne seriyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 75
+**Retention**: 81.52%
+
+Hazine ve Maliye Bakanı Mehmet Şimşek, Ankara'da eşiyle birlikte bir pazara gitti ve o pazarda fiyatların yüksek olduğunu söyledi. Enflasyonun % 40 civarına inmesi fiyatların düşeceği anlamına gelmiyor dedi Mehmet Şimşek, fakat tüketicinin beklentisi fiyatların bir an evvel düşmesi. Çünkü sokağa çıktıklarında pazar karşılaştıkları etiketler oldukça yüksek, özellikle emekli ve dar gelirli zorlanıyor. Bugün Beşiktaş Levent'te bir semt pazarındayız. Biz burada domatesin kilosu 60, salatalığın kilosu 60, yeşil ve kırmızı biberin kilosu 50 liradan satılıyor.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 139
+**Retention**: 42.64%
+
+Merkez Bankası verilerine göre konut fiyat endeksi ağustosta aylık % 33,6, yıllık nominal olarak % 34,35 azaldı. Merkez Bankası verilerine göre Ağustosta konut fiyatları İstanbul'da % 5,5, Ankara'da % 4,3, İzmir'de % 2 arttı. Konut fiyatları yıllık en fazla artışı % 35,6 ile Ankara'da kaydetti; İstanbul'daki yıllık artış % 27,2, İzmir'de ise % 32,40 oldu. 
+
+Kamuya ait arazileri, fabrikaları ve askeri alanları peş peşe satışa çıkaran iktidar, bu kez gözünü devlet okullarına dikti. Milli Eğitim ve Şehircilik bakanlıkları arasında protokol imzalandı ve pilot olarak seçilen İzmir'deki 18 devlet okulunun bahçeleri, spor salonları ve hatta duvarları ihaleye çıkarıldı. Bu alanlar 5 yıl boyunca parayı verene kiralandı. Ancak büyük tepki çeken ihale ile ilgili sürpriz bir gelişme yaşandı; 136 yıllık İzmir Atatürk Lisesi'nde tepkiler sonuç verdi ve okul bahçesinin otopark olarak kiralandığı ihale iptal edildi. Gerekçe ise güvenlik sorunu olarak belirtildi.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 80
+**Retention**: 56.34%
+
+Rıdvan Aksoy, 000 liralık astron bedelle kazanmıştı. İzmir Atatürk Lisesi Mezunlar Derneği Başkanı Murat Saraç, ihalenin tekrarlanmaması adına tüm yasal haklarını kullanacaklarını belirtti. Eğitim Sen İzmir 1 Nolu Şube Başkanı Nafiz Ceylan, sadece Atatürk Lisesi değil, listedeki tüm okulların ihalesinin iptal edilmesi gerektiğini ifade etti. 
+
+Levent Atacan, kiraların bile 152 oranında arttığını vurguladı. Bu durum, emekli, işçi ve işsiz vatandaşların ekonomik durumunu olumsuz etkiliyor. Ekonomik koşulların zorluğu, halkın yaşam standartlarını düşürüyor ve bu durum, hükümetin ekonomik politikalarının sorgulanmasına neden oluyor.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 159
+**Retention**: 94.08%
+
+3 trilyon liradan 6,2 trilyon liraya yükselmesi dikkat çekti. %4,1 oranında artış oldu, bütçe 8 aylık dönemde 973,6 milyar lira açık verdi. 12 aylık bütçe açığı ise yaklaşık 1 trilyon 970 milyar lira oldu, yani 2 trilyona dayandı. Tasarruf tedbirlerine karşın kuruluşların temsil ve tanıtma giderleri de başlangıç ödeneğini aştı. Öngörülen harcama 1 milyar 624 milyon liraydı, ancak yılın ilk 8 ayındaki harcamalar 1 milyar 744 milyon lirayı buldu. Geçen yılın aynı döneminde yapılan harcama tutarı ise 791 milyon lira oldu. Harcamada %1220 artış yaşandı. Böylece bütçede aşılmış oldu. Yüksek harcamaların bir diğeri ise örtülü ödenekler de görüldü. Gizli hizmet giderleri kaleminden yapılan bu harcamalar Ocak-Ağustos döneminde 8 milyar lirayı geçti. Yılın ilk 8 ayındaki uçak kiralama bedelleri ise 3 milyon 520 bin 9 lira oldu. Cumhurbaşkanlığı'nın 8 aylık bütçe harcamaları toplam 8,3 milyar lira oldu. Diyanet İşleri Başkanlığı da 8 ayda 65,5 milyar lira harcama yaptı. Bu arada Milli Saraylar İdaresi Başkanlığı'nın bütçe başlangıç ödeneği 1,9 milyar liraydı.
+
+================================================================================
+

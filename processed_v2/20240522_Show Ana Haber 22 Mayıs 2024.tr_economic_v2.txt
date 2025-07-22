@@ -1,0 +1,74 @@
+# Economic Content from: 20240522_Show Ana Haber 22 Mayıs 2024.tr.txt
+# Processed: 2025-07-22T17:17:28.339419
+# Original: 2976 words → Filtered: 440 words (14.78% retention)
+# Economic segments: 4
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 60
+**Retention**: 76.92%
+
+500 liraya yükseltilecek deşim. Enflasyon farkının yanı sıra refah payı da verilecek mi? Yapılacak düzenleme ile birlikte en düşük emekli maaşı olan 10 000 liranın 12 500 lira seviyesine çıkartılması öngörülüyor. Yani bu da kök maaş hesabının bir kez daha değişmesi demek. 8 000 ve altında emekli kök aylığı olan emeklilerin zamdan yararlanabilmesi için taban maaş sınırının da yükseltilmesi gündemde.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 41
+**Retention**: 40.20%
+
+Otel işletmecileri paralarını almak için dolandırıcının evine gittiklerinde iddiaya göre bir şok daha yaşadı. 22,000 liralık borç bırakan ikili, işletmecilere de hakaret yağdırdı. 19 Nisan 2024 tarihinde son ödemeyi yapıyorlar, 13 Mayıs 2024 tarihinde de ödeme yapmadıkları için kendilerine uyarıda bulunuyoruz.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 127
+**Retention**: 100.00%
+
+000
+lirasını kaybedince anladı tekrar para istediler tekrar bir hafta boyunca sizden para mı isted
+devamlı her gün Ayşe Kesimoğlu sosyal medyada dolaşırken bir reklama denk geldi o reklama tıkladı ve
+iddiasına göre reklamda hisse alın paranızı katlayın yazıyordu o da hiç düşünmeden telefon
+numarasını aradı böyle geziyordu bildirimlere falan bakıyordum öyle gezinirken devlet güvencesi
+altındasınız dediler İnanıyorum o zaman ben de o dolandırıcılar iddiaya göre her aradığımızda
+telefonu aç ve her söylediğimizi de yap dedi Eğer yapmazsan bunun da para cezası var dedi telefonu
+açmazsam Eğer 2500 para cezası gösterdiler bana 4 sene sonra iade edeceksin dediler Ben o kadar
+korktum ki ben ne anlarım bu işlerden korktu ama yine de her söyleneni sorgusuz sualsiz yaptı benim
+hesabım borsada şüpheli hesapmı sigorta parası yatıracaklar mış 5
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_final
+**Confidence**: 0.50
+**Word Count**: 212
+**Retention**: 100.00%
+
+000 dolar yoksa ben hapse
+girecekmiş Kara Para aklıma diyorlar bana evini sat dediler evi sattırmayız ki gizli Tanığın Komplo
+iddiası sonrası ü polis müdürü hakkında hazırlanan müfettiş raporu savcılığa yollandı ve raporda
+dikkat çeken detaylar var bu arada bir Komiser daha gözaltına alındı Ayhan Bora Kaplan
+soruşturmasında müfettiş raporu tamamlandı ikisi tutuklu 3 polis müdürünün gizli Tanığın ifade
+verdiği ve firar ettiği süreçte görevi kötüye kullandığı ve ihmal ettiği tespiti yapıldı bu arada
+bir Komiser daha gözaltına alındı hazırlanan 84 sayfalık rapor savcılığa sunuldu raporda gizli Tanık
+Serdar Ser ayrı bir parantez açıldı irtibat kesildikten sonra yakalanmasına yönelik gerekli özenin
+gösterilmediği vurgulandı sert çeliğin Kaçış sürecinde ü araç değiştirmesi ve firardan 9 gün sonra
+bildirim yapılması da raporda yer aldı 8 ses kaydı da Jandarma kriminal tarafından incelendi devlet
+memurluğu ile bağdaşmayacak ifadelerin o kayıtlarda yer aldığı belirtildi gözaltına alınan Komiser
+de organize suçlarla Şube Müdürlüğünde görevli diğer ş Kedilerle birlikte hareket ettiği
+değerlendiriliyor Bu arada Ayhan Bora Kaplan'ın yargılanması da devam ediyor Bir kez daha hakim
+karşısına çıkan Ayhan Bora Kaplan tahliyesini talep etti ev hapsi istedi bana bakanlarla
+bürokratlarla ilgili ifade ver dediler vermedim bir vatandaşa devlet memurlarının kumpas kurmaması
+gerekir ifadesini kullandı ovana haberin Sonuna Geldik Yarın yine gündemin öne çıkan gelişmeleri ile
+karşınızda olacağız İyi akşamlar ah
+
+================================================================================
+

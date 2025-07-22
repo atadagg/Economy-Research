@@ -1,0 +1,71 @@
+{
+  "file_path": "news/Show/20240620_Show Ana Haber 20 Haziran 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T17:34:35.811848",
+  "original_word_count": 2491,
+  "filtered_word_count": 161,
+  "retention_ratio": 0.06463267763950221,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 1,
+      "start_sentence": "İyi akşamlar değerli izleyenler",
+      "description": "\"İyi akşamlar değerli izleyenler\" - The presenter, Hande Bayraktar, opens the broadcast, greeting the viewers and introducing the main topics of the evening.",
+      "end_pos": 95
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 95,
+      "start_sentence": "Cumhurbaşkanı Erdoğan'la CHP lideri Özgür Özel'in ik",
+      "description": "\"Cumhurbaşkanı Erdoğan'la CHP lideri Özgür Özel'in ik\" - The news segment begins with a discussion about a meeting between President Erdoğan and CHP leader Özgür Özel, focusing on economic issues such as minimum wage adjustments and pension reforms. This section continues with various news stories related to the economy and political developments.",
+      "end_pos": 291
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 291,
+      "start_sentence": "Şimdi gözler Özgür Özel'in Hazine ve maliye bakanı yapacağı görüşmede",
+      "description": "\"Şimdi gözler Özgür Özel'in Hazine ve maliye bakanı yapacağı görüşmede\" - This brief transition indicates a shift in focus to the upcoming meeting between Özgür Özel and the Minister of Treasury and Finance, Mehmet Şimşek, as part of the ongoing economic discussions.",
+      "end_pos": 1457
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1457,
+      "start_sentence": "15 Temmuz hain darbe girişiminin yıldönümü",
+      "description": "\"15 Temmuz hain darbe girişiminin yıldönümü\" - The news segment continues with a report on the anniversary of the July 15 coup attempt and a related scandal involving the FETÖ organization, detailing their actions and implications.",
+      "end_pos": 1752
+    },
+    {
+      "type": "5. **OUTRO**",
+      "start_pos": 1752,
+      "start_sentence": "Güvenlik kaynakları örgüt içindeki çatlağa dikkat çekerken",
+      "description": "\"Güvenlik kaynakları örgüt içindeki çatlağa dikkat çekerken\" - The closing remarks summarize the ongoing situation and the implications of the news discussed, signaling the end of the broadcast.",
+      "end_pos": 17186
+    }
+  ],
+  "news_segments_count": 5,
+  "economic_segments_count": 2,
+  "economic_segments": [
+    {
+      "segment_id": "291_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 167,
+      "filtered_length": 104,
+      "retention_ratio": 0.6227544910179641,
+      "section_description": "\"Şimdi gözler Özgür Özel'in Hazine ve maliye bakanı yapacağı görüşmede\" - This brief transition indicates a shift in focus to the upcoming meeting between Özgür Özel and the Minister of Treasury and Finance, Mehmet Şimşek, as part of the ongoing economic discussions."
+    },
+    {
+      "segment_id": "1752_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 68,
+      "filtered_length": 57,
+      "retention_ratio": 0.8382352941176471,
+      "section_description": "\"Güvenlik kaynakları örgüt içindeki çatlağa dikkat çekerken\" - The closing remarks summarize the ongoing situation and the implications of the news discussed, signaling the end of the broadcast."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

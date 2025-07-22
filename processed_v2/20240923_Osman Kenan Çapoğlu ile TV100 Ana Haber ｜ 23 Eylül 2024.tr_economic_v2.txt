@@ -1,0 +1,90 @@
+# Economic Content from: 20240923_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 23 Eylül 2024.tr.txt
+# Processed: 2025-07-22T18:54:54.369106
+# Original: 11920 words → Filtered: 552 words (4.63% retention)
+# Economic segments: 7
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 62
+**Retention**: 56.88%
+
+Milli Eğitim Bakanlığı, 30,000 temizlik personeli alımı gerçekleştireceğini açıkladı. Bu alımın, iş gücü piyasasında nasıl bir etki yaratacağı merak ediliyor. Çalışma ve Sosyal Güvenlik Bakanı Işık, iş dünyası istişare toplantısında, iş gücü ve istihdam konularında önemli gelişmelerin yaşanabileceğini belirtti. Ayrıca, personelin aldığı günlük ücretlerde de artış sinyalleri olduğu ifade edildi. Bu durum, ekonomik verilerin ve istihdam politikalarının nasıl şekilleneceği açısından dikkatle izleniyor.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 88
+**Retention**: 57.52%
+
+Konut fiyatları 250.000 L'den 9 milyona yükselirken, 2.400.000 L olan konutun fiyatı 2.700.000 L'ye çıktı. Bazı emlakçıların ilanlarına "Faizler düştüğünde fiyatlar da artacaktır" yazdığı görüldü. Bu gibi ilanlar piyasa bozucu eylem olarak nitelendirilebilecek türde. Gümrük ve Ticaret Bakanlığı'nın mevzuatsal olarak bu tür eylemlerle mücadele etmesi gerekiyor. Faizlerin düşüşe geçmesinin ardından fiyatların artacağına dair ilanlar, vatandaşları manipüle etmeye yönelik bir durum oluşturuyor. Kamu bankaları konut kredisindeki faizlerle oynamaya başladılar ve bazıları yavaş yavaş faizleri düşürüyor. Emlakçılar, bu noktada ev fiyatlarını ciddi şekilde manipüle edebiliyorlar ve fiyatlar hızla yükselmeye başladı.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 95
+**Retention**: 100.00%
+
+000 l ile 1 milyon arasında idari para cezasına hükm olunur Eğer bu ihlal ikinci
+defa bir takvim yılı içerisinde ikinci defa tekrarlanır ise bu takdirde önce verilen cezanın iki
+katı oranında uygulanır Bir takvim yılı içerisinde ü defa tekrarlanır ise bu takdirde de 6 güne
+varıncaya kadar o ilgili işletme kapatılabilir aslında Buyurun bu doğrulanmış ilan meselesi böyle
+fakat Evet bu Anladığım kadarıyla biraz yoruma dayalı gibi Şükrü Bey çünkü biz orada nasıl bir faiş
+fiyat oluştuğunu Şimdi şöyle bir yorum yapalım bundan sonraki süreçte 1 Ocak 2025 tarihi itibariyla
+yaklaşık olarak konuşulan 90
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 67
+**Retention**: 33.84%
+
+Emlakçının bu doğrulanmış ilan yetkisini elinde bulunduracağına dair bir veri öngörülüyor. Bu durum, piyasa fiyatlarını etkileyebilir. Ticaret Bakanlığı'nın haksız fiyat Değerlendirme Kurulu, bölge bölge mevcut taşınmazların fiyat çerçevelerini serbest piyasa rayiçleri doğrultusunda değerlendirebilecek. Bu kurul, fiyat artışlarını izleyerek haksız fiyat uygulamalarını tespit edebilir. Dolayısıyla, emlakçıların fiyat artırma kararları, taşınmazın sahibinin yazılı talimatına bağlı hale gelecek. Bu sistem, fiyatların daha şeffaf ve düzenli bir şekilde belirlenmesine katkı sağlayabilir.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 59
+**Retention**: 47.20%
+
+Emlakçıların fiyat artışlarıyla ilgili denetlemelerin yapılması gerektiği belirtiliyor. Bu durum, taşınmaz ticareti yönetmeliğinde yer alan yasaklarla da ilişkilendiriliyor. Fiyatların artırılması, piyasa dengesini bozarak tüketicinin mala ulaşmasını engelleyebilir. Bu tür eylemler, ekonomik istikrarı tehdit eden unsurlar arasında yer alıyor. Emlakçıların daha fazla kar elde etme amacıyla hareket etmeleri, piyasalarda olumsuz etkilere yol açabilir. Bu nedenle, gerekli cezaların uygulanması önem taşıyor.
+
+================================================================================
+
+## Economic Segment 6
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 120
+**Retention**: 36.04%
+
+Emlak sektöründe, 1 milyon ile 12 milyon arasında idari para cezası kesilebileceği öngörülüyor. Bu durum, fiyatların yukarı çıkması durumunda ciddi cezalarla karşılaşılabileceğini gösteriyor. 1 Ocak 2025 itibariyle, ev sahiplerinden vekalet alınması zorunlu hale gelecek. Bu süreçte, kirada ve gayrimenkul piyasasında artış hızının durulması bekleniyor. Kredi faizlerinin düşmesiyle birlikte, otomobil piyasasında da bir tedirginlik hakim. 
+
+Piyasalardaki sıcak para akışındaki problem, otomobil piyasasına yansımış durumda. Nakit olmayınca, kredilerle araç almak pek mümkün olmuyor. Kredi faizleri yüksek seviyelerde kalmaya devam ediyor. İkinci el otomobil piyasasında durgunluk yaşanıyor; kaynak bulamayan tüketiciler, sıfır araçları tercih ediyor. Sıfır araç alımlarındaki ödeme koşulları, talebi artıran en önemli etken olarak görülüyor. Sıfır otomobiller, ikinci el araçların önüne geçmiş durumda ve birçok bayide sıfır araçlara olan talep artmış durumda.
+
+================================================================================
+
+## Economic Segment 7
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 61
+**Retention**: 59.22%
+
+Yarışa katılmayan atların ortalama fiyatı 100 ila 400.000 lira arasında değişiyor. Yarışların pazar bütçesi ise 60 milyar lirayı buluyor. Bu durum, atçılık sektöründeki ekonomik dinamikleri ve yatırım fırsatlarını gözler önüne seriyor. Ayrıca, normal bir binicilik kulübünde yaklaşık 200-250 bin lira bandında bir atın yıllık masrafı olduğu belirtiliyor. Bu masraflar, atların bakımı ve sağlık durumlarıyla doğrudan ilişkilidir ve sektördeki maliyetlerin artışını göstermektedir.
+
+================================================================================
+

@@ -1,0 +1,66 @@
+{
+  "file_path": "news/TV100/20240830_Osman Kenan Çapoğlu ile TV100 Ana Haber ｜ 30 Ağustos 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T18:07:16.498339",
+  "original_word_count": 5782,
+  "filtered_word_count": 281,
+  "retention_ratio": 0.048599100657212034,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "1919'da 1 Dünya Savaşı sonrası...",
+      "description": "\"1919'da 1 Dünya Savaşı sonrası...\" - This section introduces the historical context of the news segment, setting the stage for the discussion about the events surrounding the Turkish War of Independence and the significance of the Victory Day.",
+      "end_pos": 592
+    },
+    {
+      "type": "3. **OUTRO**",
+      "start_pos": 592,
+      "start_sentence": "30 Ağustos'un her yıl heyecan ve iftiharla kutlandığını vurguladı...",
+      "description": "\"30 Ağustos'un her yıl heyecan ve iftiharla kutlandığını vurguladı...\" - This section wraps up the news broadcast, summarizing the importance of the Victory Day and the ongoing commitment to the vision for Turkey's future.",
+      "end_pos": 873
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 873,
+      "start_sentence": "Cumhurbaşkanı Erdoğan başkanlığındaki Devlet erkanı...",
+      "description": "\"Cumhurbaşkanı Erdoğan başkanlığındaki Devlet erkanı...\" - This section contains the main news content, detailing the commemorative events and speeches related to the 102nd anniversary of the Victory Day, including statements from President Erdoğan and the significance of the celebrations.",
+      "end_pos": 41560
+    }
+  ],
+  "news_segments_count": 9,
+  "economic_segments_count": 3,
+  "economic_segments": [
+    {
+      "segment_id": "873_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 121,
+      "filtered_length": 73,
+      "retention_ratio": 0.6033057851239669,
+      "section_description": "\"Cumhurbaşkanı Erdoğan başkanlığındaki Devlet erkanı...\" - This section contains the main news content, detailing the commemorative events and speeches related to the 102nd anniversary of the Victory Day, including statements from President Erdoğan and the significance of the celebrations."
+    },
+    {
+      "segment_id": "873_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 177,
+      "filtered_length": 99,
+      "retention_ratio": 0.559322033898305,
+      "section_description": "\"Cumhurbaşkanı Erdoğan başkanlığındaki Devlet erkanı...\" - This section contains the main news content, detailing the commemorative events and speeches related to the 102nd anniversary of the Victory Day, including statements from President Erdoğan and the significance of the celebrations."
+    },
+    {
+      "segment_id": "873_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 246,
+      "filtered_length": 109,
+      "retention_ratio": 0.44308943089430897,
+      "section_description": "\"Cumhurbaşkanı Erdoğan başkanlığındaki Devlet erkanı...\" - This section contains the main news content, detailing the commemorative events and speeches related to the 102nd anniversary of the Victory Day, including statements from President Erdoğan and the significance of the celebrations."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

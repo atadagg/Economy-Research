@@ -1,0 +1,62 @@
+{
+  "file_path": "news/AHaber/20250104_ABD İran'ı Vuracak Mı？ Bıden'ın Son Hamlesi İran'ı Vurmak Mı？ I Gece Ajansı ｜ A Haber.tr.txt",
+  "processing_timestamp": "2025-07-22T15:39:15.539168",
+  "original_word_count": 14133,
+  "filtered_word_count": 96,
+  "retention_ratio": 0.006792613033326258,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "A Haber ekranlarından İyi geceler efendim bir günü noktalı...",
+      "description": "\"A Haber ekranlarından İyi geceler efendim bir günü noktalı...\" - This section serves as the opening of the broadcast, where the presenter introduces themselves and sets the stage for the news program, mentioning the important topics to be covered.",
+      "end_pos": 97
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 97,
+      "start_sentence": "Şüphesiz ki çok konuşuldu çok tartışıldı Hem o görüntünün detaylarını...",
+      "description": "\"Şüphesiz ki çok konuşuldu çok tartışıldı Hem o görüntünün detaylarını...\" - This brief transition leads into a more specific discussion about a particular event related to the news story, indicating a shift in focus within the news segment.",
+      "end_pos": 384
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 384,
+      "start_sentence": "Tabii ki tüm dünyanın gözünü çevirdiği nokta Tabii ki Suriye...",
+      "description": "\"Tabii ki tüm dünyanın gözünü çevirdiği nokta Tabii ki Suriye...\" - This section contains the actual news content, discussing various developments in Syria, including diplomatic visits and the implications of these events. It includes detailed commentary on the situation and the involvement of different countries.",
+      "end_pos": 1070
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 1070,
+      "start_sentence": "Özellikle PKK saflarında bulunan ülkenin e birliğine...",
+      "description": "\"Özellikle PKK saflarında bulunan ülkenin e birliğine...\" - This continues the news content, focusing on Turkey's stance regarding the PKK and YPG in Syria, and the broader implications for regional stability.",
+      "end_pos": 1749
+    },
+    {
+      "type": "5. **NEWS**",
+      "start_pos": 1749,
+      "start_sentence": "Zira peş peşe gerçekleşen saldırıların trump'ın Suriye'den çekilme planlarını...",
+      "description": "\"Zira peş peşe gerçekleşen saldırıların trump'ın Suriye'den çekilme planlarını...\" - This part continues to elaborate on the news, discussing the impact of recent attacks on U.S. policy regarding Syria, further developing the ongoing narrative.",
+      "end_pos": 98289
+    }
+  ],
+  "news_segments_count": 9,
+  "economic_segments_count": 1,
+  "economic_segments": [
+    {
+      "segment_id": "384_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 96,
+      "filtered_length": 96,
+      "retention_ratio": 1.0,
+      "section_description": "\"Tabii ki tüm dünyanın gözünü çevirdiği nokta Tabii ki Suriye...\" - This section contains the actual news content, discussing various developments in Syria, including diplomatic visits and the implications of these events. It includes detailed commentary on the situation and the involvement of different countries."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

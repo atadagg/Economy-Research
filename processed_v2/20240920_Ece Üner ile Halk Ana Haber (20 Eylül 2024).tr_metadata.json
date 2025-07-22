@@ -1,0 +1,111 @@
+{
+  "file_path": "news/Halk/20240920_Ece Üner ile Halk Ana Haber (20 Eylül 2024).tr.txt",
+  "processing_timestamp": "2025-07-22T16:59:56.509891",
+  "original_word_count": 11490,
+  "filtered_word_count": 657,
+  "retention_ratio": 0.057180156657963443,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "Çünkü onca görüntü onca haber arasından...",
+      "description": "\"Çünkü onca görüntü onca haber arasından...\" - This section serves as the opening of the broadcast, introducing the theme of the news and setting the tone for the discussion about societal issues in Turkey.",
+      "end_pos": 93
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 93,
+      "start_sentence": "Neydi o bir yerde Kent Lokantası 4550 liralık bir öğün yemek için kuyruğa giren insanlar...",
+      "description": "\"Neydi o bir yerde Kent Lokantası 4550 liralık bir öğün yemek için kuyruğa giren insanlar...\" - This section contains the main news content, discussing various societal issues, including economic disparities and a specific tragic event involving a child's death. It includes multiple news stories and detailed reporting.",
+      "end_pos": 290
+    },
+    {
+      "type": "3. **OUTRO**",
+      "start_pos": 290,
+      "start_sentence": "Bunu daha evvel konuşmuştuk Aslında orta sınıf yok oldu ama...",
+      "description": "\"Bunu daha evvel konuşmuştuk Aslında orta sınıf yok oldu ama...\" - This section wraps up the discussion, providing closing remarks and reflections on the topics covered, emphasizing the importance of the middle class and societal stability.",
+      "end_pos": 81462
+    }
+  ],
+  "news_segments_count": 17,
+  "economic_segments_count": 8,
+  "economic_segments": [
+    {
+      "segment_id": "290_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 195,
+      "filtered_length": 80,
+      "retention_ratio": 0.41025641025641024,
+      "section_description": "\"Bunu daha evvel konuşmuştuk Aslında orta sınıf yok oldu ama...\" - This section wraps up the discussion, providing closing remarks and reflections on the topics covered, emphasizing the importance of the middle class and societal stability."
+    },
+    {
+      "segment_id": "290_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 309,
+      "filtered_length": 119,
+      "retention_ratio": 0.3851132686084142,
+      "section_description": "\"Bunu daha evvel konuşmuştuk Aslında orta sınıf yok oldu ama...\" - This section wraps up the discussion, providing closing remarks and reflections on the topics covered, emphasizing the importance of the middle class and societal stability."
+    },
+    {
+      "segment_id": "290_5",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 102,
+      "filtered_length": 40,
+      "retention_ratio": 0.39215686274509803,
+      "section_description": "\"Bunu daha evvel konuşmuştuk Aslında orta sınıf yok oldu ama...\" - This section wraps up the discussion, providing closing remarks and reflections on the topics covered, emphasizing the importance of the middle class and societal stability."
+    },
+    {
+      "segment_id": "290_7",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 323,
+      "filtered_length": 99,
+      "retention_ratio": 0.3065015479876161,
+      "section_description": "\"Bunu daha evvel konuşmuştuk Aslında orta sınıf yok oldu ama...\" - This section wraps up the discussion, providing closing remarks and reflections on the topics covered, emphasizing the importance of the middle class and societal stability."
+    },
+    {
+      "segment_id": "290_8",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 271,
+      "filtered_length": 110,
+      "retention_ratio": 0.4059040590405904,
+      "section_description": "\"Bunu daha evvel konuşmuştuk Aslında orta sınıf yok oldu ama...\" - This section wraps up the discussion, providing closing remarks and reflections on the topics covered, emphasizing the importance of the middle class and societal stability."
+    },
+    {
+      "segment_id": "290_11",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 121,
+      "filtered_length": 72,
+      "retention_ratio": 0.5950413223140496,
+      "section_description": "\"Bunu daha evvel konuşmuştuk Aslında orta sınıf yok oldu ama...\" - This section wraps up the discussion, providing closing remarks and reflections on the topics covered, emphasizing the importance of the middle class and societal stability."
+    },
+    {
+      "segment_id": "290_12",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 134,
+      "filtered_length": 74,
+      "retention_ratio": 0.5522388059701493,
+      "section_description": "\"Bunu daha evvel konuşmuştuk Aslında orta sınıf yok oldu ama...\" - This section wraps up the discussion, providing closing remarks and reflections on the topics covered, emphasizing the importance of the middle class and societal stability."
+    },
+    {
+      "segment_id": "290_13",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 174,
+      "filtered_length": 63,
+      "retention_ratio": 0.3620689655172414,
+      "section_description": "\"Bunu daha evvel konuşmuştuk Aslında orta sınıf yok oldu ama...\" - This section wraps up the discussion, providing closing remarks and reflections on the topics covered, emphasizing the importance of the middle class and societal stability."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

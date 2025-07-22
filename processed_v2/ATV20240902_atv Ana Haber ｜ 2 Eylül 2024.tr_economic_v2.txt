@@ -1,0 +1,41 @@
+# Economic Content from: ATV20240902_atv Ana Haber ｜ 2 Eylül 2024.tr.txt
+# Processed: 2025-07-22T16:43:11.434419
+# Original: 4979 words → Filtered: 189 words (3.80% retention)
+# Economic segments: 3
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 56
+**Retention**: 100.00%
+
+haberi merkezinden Atv Haber merkezden İyi akşamlar Bugün 2 Eylül 2024 Pazartesi ve bizler için
+elbette Siz izleyicilerimiz için de yeni sezon başladı bugün Atv ekranlarında hepimize hayırlı
+uğurlu olsun Güzel bir sezon geçirmek dileğiyle başlayalım haber maratonuna bu akşam Tabii Şunu da
+söylemeden geçmeyelim her akşam saatler 19'u gösterdiğinde ekran başına bekliyoruz sizleri her zaman
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 90
+**Retention**: 45.45%
+
+Peki aynı kitaplar piyasadan satın alınsa ne kadar çok fahiş fiyatlar var 8 000 L falan bahsediyorlardı kitaplar için. Özel okullar velilerden fahiş oranlarda 40-50 b000 bandında kitap ücreti talep ediyor. İşte bir veli bu duruma tepki gösterdi, o kitapları internetten tek tek aradı buldu; 22 adet kitabın 12 363 TL olduğunu göstererek özel okulların kitap tuzağını gözler önüne serdi. Özel okullarda da devlet okullarında olduğu gibi Milli Eğitim Bakanlığı'nın kitapları okutulacak, bu zorunlu bir uygulama. Özel okullar bu zorunluluğa rağmen velilere baskı yapıyor. Ancak bunun da bir çözümü var.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 43
+**Retention**: 36.44%
+
+Tüketici hakem heyetleri vasıtasıyla 104.000 liranın üzerinde ödediği fazla kitap ücretlerini iade isteyebilir. Milli Eğitim Bakanlığı, kitap fiyatları ile ilgili mevzuatındaki yaptırımları uyguluyor. Bu kapsamda, asgari ücretin 10 katı ve 20 katı oranında cezalar uygulanacak. Bankalar, Eylül ayında eğitim masrafları için kampanya başlattı.
+
+================================================================================
+

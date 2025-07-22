@@ -1,0 +1,57 @@
+{
+  "file_path": "news/Show/20240412_Show Ana Haber 12 Nisan 2024.tr.txt",
+  "processing_timestamp": "2025-07-22T17:41:50.400867",
+  "original_word_count": 2399,
+  "filtered_word_count": 406,
+  "retention_ratio": 0.169237182159233,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "Show Ana haberden İyi akşamlar değerli izleyenler...",
+      "description": "\"Show Ana haberden İyi akşamlar değerli izleyenler...\" - The opening segment introduces the program and welcomes viewers, setting the stage for the news content that will follow.",
+      "end_pos": 79
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 79,
+      "start_sentence": "Cumhurbaşkanı Recep Tayyip Erdoğan seçim maratonunun ardından Diplomasi trafiğini hızlandırıyor...",
+      "description": "\"Cumhurbaşkanı Recep Tayyip Erdoğan seçim maratonunun ardından Diplomasi trafiğini hızlandırıyor...\" - This section contains the main news stories, discussing President Erdoğan's upcoming diplomatic visits and the political situation in Turkey, including party dynamics and election-related news.",
+      "end_pos": 1813
+    },
+    {
+      "type": "3. **OUTRO**",
+      "start_pos": 1813,
+      "start_sentence": "en kısa sürede olağanüstü seçimli kongremizi toplayacağız...",
+      "description": "\"en kısa sürede olağanüstü seçimli kongremizi toplayacağız...\" - The closing remarks summarize the news and provide a final statement about upcoming events, signaling the end of the program.",
+      "end_pos": 17036
+    }
+  ],
+  "news_segments_count": 6,
+  "economic_segments_count": 2,
+  "economic_segments": [
+    {
+      "segment_id": "1813_0",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 187,
+      "filtered_length": 107,
+      "retention_ratio": 0.5721925133689839,
+      "section_description": "\"en kısa sürede olağanüstü seçimli kongremizi toplayacağız...\" - The closing remarks summarize the news and provide a final statement about upcoming events, signaling the end of the program."
+    },
+    {
+      "segment_id": "1813_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 299,
+      "filtered_length": 299,
+      "retention_ratio": 1.0,
+      "section_description": "\"en kısa sürede olağanüstü seçimli kongremizi toplayacağız...\" - The closing remarks summarize the news and provide a final statement about upcoming events, signaling the end of the program."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

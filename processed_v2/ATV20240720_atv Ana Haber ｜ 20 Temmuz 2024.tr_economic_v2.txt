@@ -1,0 +1,40 @@
+# Economic Content from: ATV20240720_atv Ana Haber ｜ 20 Temmuz 2024.tr.txt
+# Processed: 2025-07-22T16:54:31.349305
+# Original: 4333 words → Filtered: 254 words (5.86% retention)
+# Economic segments: 3
+
+## Economic Segment 1
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 61
+**Retention**: 95.31%
+
+Kiralık konut sayısı 000 olan 140 000 kadar geriledi. Arzın az olması kira fiyatlarını artırdı. Özellikle Eylül ayında üniversitelerin açılacak olması, kentsel dönüşümün etkisiyle kiralık daire bulmayı piyasada oldukça zorlaştıracak gibi görünüyor. Kirada en çok artışlar Doğu ve Güneydoğu Anadolu Bölgesi'nde yaşandı. İstanbul'da ortalama 100 metrekare evin kirası 23 000 L, İzmir'de 19 000, Ankara'da ise 17 000 L olarak belirlendi.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 121
+**Retention**: 55.25%
+
+Emine Yılmaz İstanbul Sultangazi'deki bu daireyi satın alıp yerleşmek istedi ama halihazırdaki kiracıyı bir türlü çıkaramadı. Yabancı uyruklu ailenin uzun süre kirada ödemediği iddia ediliyor. Kuru temizlemeci İlhami Altun, bağlı olduğu odanın belirlediği fiyatın altında hizmet veriyordu. Derneğimizin odamızın vermiş olduğu fiyat 400 L, ancak Altun bunu 130 L'ye yapıyordu. Yüksek fiyatları düşürerek müşterilerini düşündüğünü belirten Altun, bu durumun meslektaşları tarafından eleştirildiğini ifade etti. Diğer meslektaşları, Altun'un uygulamalarını kötü örnek olarak değerlendirerek şikayet etti. Altun, günde en az 56 makine çalıştırdığını ve her makinenin yaklaşık 25-30 parça aldığını belirtti. Bu durumda, 130 liradan parça başı 65 liraya gelerek toplamda 150 liraya yakın bir gelir elde ettiğini açıkladı. Bunun 350 lirasının elektrik masrafına gittiğini ve geriye 1000 L para kaldığını ifade etti.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 72
+**Retention**: 33.96%
+
+İlhami Altun iş yok diye dert yanan esnafa fahiş fiyat hatırlatması yaptı. E fahiş fiyat da yaparsan Tabii ki iş yapamazsın. Odamızın vermiş olduğu 400 TL esnaf arkadaşım, sen şimdi 400'ün de üzerine çekiyorsun. Ben 400'ün altında yapıyorum, ben kalmıyorum arkadaş. 
+
+Bu durum, esnafın karşılaştığı zorlukları ve fiyat artışlarının iş yapma yetenekleri üzerindeki etkisini gösteriyor. Ekonomik koşulların zorlaştığı bu dönemde, esnafın yaşadığı sıkıntılar ve fiyatların yükselmesi, genel ekonomik durumu da olumsuz etkiliyor.
+
+================================================================================
+
