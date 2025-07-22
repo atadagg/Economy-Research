@@ -1,0 +1,143 @@
+{
+  "file_path": "news/AHaber/20241224_Asgari ücrete yapılan zam beklentiyi karşıladı mı？ Faruk Erdem A Haber'de değerlendirdi.tr.txt",
+  "processing_timestamp": "2025-07-22T16:27:36.880530",
+  "original_word_count": 3944,
+  "filtered_word_count": 1240,
+  "retention_ratio": 0.3144016227180527,
+  "structure_sections": [
+    {
+      "type": "1. **INTRO**",
+      "start_pos": 0,
+      "start_sentence": "asgari ücret asgari ücret artık belirlendi",
+      "description": "\"asgari ücret asgari ücret artık belirlendi\" - The program opens with the announcement of the minimum wage and introduces the topic of discussion, setting the stage for the news content.",
+      "end_pos": 87
+    },
+    {
+      "type": "2. **NEWS**",
+      "start_pos": 87,
+      "start_sentence": "Çalışma ve Sosyal Güvenlik Bakanı Vedat ışıkkan tarafından",
+      "description": "\"Çalışma ve Sosyal Güvenlik Bakanı Vedat ışıkkan tarafından\" - This section contains the main news content regarding the announcement of the minimum wage, including expert commentary and analysis on the implications of the new wage.",
+      "end_pos": 200
+    },
+    {
+      "type": "3. **TRANSITION**",
+      "start_pos": 200,
+      "start_sentence": "Peki Asgari ücretin açıklanması nasıl karşılandı",
+      "description": "\"Peki Asgari ücretin açıklanması nasıl karşılandı\" - This brief transition introduces the next segment of the discussion, shifting focus to reactions and interpretations of the minimum wage announcement.",
+      "end_pos": 496
+    },
+    {
+      "type": "4. **NEWS**",
+      "start_pos": 496,
+      "start_sentence": "Tabii beklenen o zam oranları daha yüksekti",
+      "description": "\"Tabii beklenen o zam oranları daha yüksekti\" - This section continues with further analysis and commentary on the minimum wage, discussing expectations and comparisons to previous years.",
+      "end_pos": 1771
+    },
+    {
+      "type": "5. **OUTRO**",
+      "start_pos": 1771,
+      "start_sentence": "Hı hı baktığınız zaman da",
+      "description": "\"Hı hı baktığınız zaman da\" - The closing remarks summarize the discussion and provide a final perspective on the topic before concluding the program.",
+      "end_pos": 26211
+    }
+  ],
+  "news_segments_count": 14,
+  "economic_segments_count": 10,
+  "economic_segments": [
+    {
+      "segment_id": "496_0",
+      "method": "paragraph_smart_final",
+      "confidence": 0.7,
+      "original_length": 202,
+      "filtered_length": 111,
+      "retention_ratio": 0.5495049504950495,
+      "section_description": "\"Tabii beklenen o zam oranları daha yüksekti\" - This section continues with further analysis and commentary on the minimum wage, discussing expectations and comparisons to previous years."
+    },
+    {
+      "segment_id": "1771_0",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 199,
+      "filtered_length": 140,
+      "retention_ratio": 0.7035175879396985,
+      "section_description": "\"Hı hı baktığınız zaman da\" - The closing remarks summarize the discussion and provide a final perspective on the topic before concluding the program."
+    },
+    {
+      "segment_id": "1771_1",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 250,
+      "filtered_length": 101,
+      "retention_ratio": 0.404,
+      "section_description": "\"Hı hı baktığınız zaman da\" - The closing remarks summarize the discussion and provide a final perspective on the topic before concluding the program."
+    },
+    {
+      "segment_id": "1771_2",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 280,
+      "filtered_length": 215,
+      "retention_ratio": 0.7678571428571429,
+      "section_description": "\"Hı hı baktığınız zaman da\" - The closing remarks summarize the discussion and provide a final perspective on the topic before concluding the program."
+    },
+    {
+      "segment_id": "1771_3",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 140,
+      "filtered_length": 74,
+      "retention_ratio": 0.5285714285714286,
+      "section_description": "\"Hı hı baktığınız zaman da\" - The closing remarks summarize the discussion and provide a final perspective on the topic before concluding the program."
+    },
+    {
+      "segment_id": "1771_4",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 206,
+      "filtered_length": 90,
+      "retention_ratio": 0.4368932038834951,
+      "section_description": "\"Hı hı baktığınız zaman da\" - The closing remarks summarize the discussion and provide a final perspective on the topic before concluding the program."
+    },
+    {
+      "segment_id": "1771_8",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 160,
+      "filtered_length": 160,
+      "retention_ratio": 1.0,
+      "section_description": "\"Hı hı baktığınız zaman da\" - The closing remarks summarize the discussion and provide a final perspective on the topic before concluding the program."
+    },
+    {
+      "segment_id": "1771_9",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 209,
+      "filtered_length": 99,
+      "retention_ratio": 0.47368421052631576,
+      "section_description": "\"Hı hı baktığınız zaman da\" - The closing remarks summarize the discussion and provide a final perspective on the topic before concluding the program."
+    },
+    {
+      "segment_id": "1771_11",
+      "method": "simple_sentence",
+      "confidence": 0.5,
+      "original_length": 190,
+      "filtered_length": 121,
+      "retention_ratio": 0.6368421052631579,
+      "section_description": "\"Hı hı baktığınız zaman da\" - The closing remarks summarize the discussion and provide a final perspective on the topic before concluding the program."
+    },
+    {
+      "segment_id": "1771_12",
+      "method": "simple_final",
+      "confidence": 0.5,
+      "original_length": 169,
+      "filtered_length": 129,
+      "retention_ratio": 0.7633136094674556,
+      "section_description": "\"Hı hı baktığınız zaman da\" - The closing remarks summarize the discussion and provide a final perspective on the topic before concluding the program."
+    }
+  ],
+  "pipeline_stats": {
+    "structure_analysis_success": true,
+    "semantic_segmentation_success": true,
+    "economic_filtering_success": true
+  }
+}

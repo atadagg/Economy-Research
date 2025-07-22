@@ -1,0 +1,133 @@
+# Economic Content from: 20241224_Asgari ücrete yapılan zam beklentiyi karşıladı mı？ Faruk Erdem A Haber'de değerlendirdi.tr.txt
+# Processed: 2025-07-22T16:27:36.880530
+# Original: 3944 words → Filtered: 1240 words (31.44% retention)
+# Economic segments: 10
+
+## Economic Segment 1
+
+**Method**: paragraph_smart_final
+**Confidence**: 0.70
+**Word Count**: 111
+**Retention**: 54.95%
+
+Tabii beklenen o zam oranları daha yüksekti işçi sendikalarının açıkladığı rakamlar da daha yüksekti. Ama son açıklanan rakam % 30 ile 22.04 lira oldu net asgari ücret. Son 10 yıla bakıyorsunuz, son 5 yıla bakıyorsunuz, hep o yılın gerçekleşen enflasyonun biraz üstünde artışlar yapılmış ki son artışta % 49 oldu. Dolayısıyla bu yıl için de yıl sonunda % 44-45 civarında bir enflasyon bekleniyor. O yüzden de benzer bir matematik işlerse yine % 40'lar civarında bir artış beklentisi oluşmuştu. Yani bu matematikten yola çıkarak bir asgari ücret belirlenmişti. Türki İş'in de bu noktada bir açıklaması oldu ki, onlar da % 44'lük yıl sonu enflasyonu baz alınsın üstüne 20 puanlık bir artış önerdiler.
+
+================================================================================
+
+## Economic Segment 2
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 140
+**Retention**: 70.35%
+
+Bir Eee refah Payı konulsun Hı hı baktığınız zaman da Kümülatif % 74'lük bir artışa tekabül ediyor. 29 580 lira civarında bir rakam açıklandı. Ancak bu sene ilk kez asgari ücret tartışmaları yapılırken iş dünyasından da gelen bazı açıklamalar oldu ki sadece gerçekleşecek enflasyon değil, önümüzdeki yıl beklenen enflasyon da dikkate alınsın ve her iki rakamın bir orta yolu bulunsun şeklinde bir teklif de geldi. Dolayısıyla masada bu da vardı. Biz bunun üzerine de bazı hesaplamalar yapıyorduk; işte önümüzdeki yıl için % 117 ile % 22 arasında bir enflasyon bekleniyor. Şimdi de % 44 civarında bir enflasyon bekleniyor. Ortası da % 30-35'ler civarında bir artışa tekabül ediyordu ki bu matematik işlemiş oldu. Dolayısıyla beklentilerin altında bir rakam ortaya çıkmış oldu. Asgari ücret bir geçim ücreti değil, geçim ücreti olarak bakarsanız Türkiye İşçi Sendikaları Konfederasyonu'nun açıkladığı 29 000 lira da yetmez.
+
+================================================================================
+
+## Economic Segment 3
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 101
+**Retention**: 40.40%
+
+Asgari ücret bir gösterge rakamı olarak görürseniz ve şunu söylüyor zaten komisyon bir rakam açıklıyor ve diyor ki bu rakamdan daha az yasal olarak maaş veremezsin. Dolayısıyla asgari ücrete böyle bakmak lazım. Sonuçta bir çalışana ödenecek en düşük ücret taban ücret belirleniyor. Türkiye'de asgari ücretli oranı çalışanlara %42 çıkıyor ama gerçeğe baktığınız zaman bu kadar asgari ücretli yok. Asgari ücretle beyan ediliyor maaşlar, yani gerçek maaş bordroya yansıtılıyor. Dolayısıyla ben buna gizli kayıt dışılık diyorum. O yüzden de asgari ücretlim biraz daha yüksek oranda çıkıyor. Eğer bir gösterge rakamı olarak bakarsanız bunun üstünde maaş verilmesi derseniz bir sınır çizmiş oldu komisyon.
+
+================================================================================
+
+## Economic Segment 4
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 215
+**Retention**: 76.79%
+
+Eee işverene maliyeti de 30 500 lirayı buluyor. Dolayısıyla burada bizim birinci önceliğimiz ki hükümet de bunu önceliği kazanmamız gerekiyor. Yani eğer bu paraların alım gücünün artmasını istiyorsak şu anda başımızda olan bu enflasyon belasını yenmemiz lazım ki son döneme baktığınız zaman da enflasyonda bir düşüş trendi başladı. İnşallah bu öngörüler tutarsa, önümüzdeki yıl %120, ondan sonraki yılda tek haneleri görme ihtimalimiz var. O zaman bir anlamı olacak verilen paranın ya da verilen bir zamın. Çünkü siz çarşıya pazara gittiğiniz zaman tonla paranız da olsa, eğer alım gücü yoksa bir anlamı yok. O halde sizin dediğiniz gibi rakamı değerlendirirken enflasyon odaklı belki de değerlendirmek daha da doğru olacak. 
+
+Gelecek yılın enflasyon beklentisi %21 civarındaydı, %11522 arasında bir rakamdı. Bu yılın gerçekleşmesi muhtemel enflasyon oranı her iki oranın arasında bir rakam şeklinde bir yorum yaptınız. Özellikle bu yöntemin seçilmesinde enflasyonla mücadele birinci öncelik mi olacak? E zaten hükümetin de asıl birinci önceliği o. Yani biz enflasyonla mücadeleyi başaramazsak tonla para da versem bir anlamı yok. Yani o yüzden de önce enflasyonu düşürelim ki alınan paraların zamların bir anlamı olsun. Bu sene geçtiğimiz yıllara baktığınız zaman farklı bir yöntem uygulanmış oldu. Önümüzdeki yılın enflasyonuna da bakılarak bir orta nokta bulundu. Burada tabii iki taraflı düşünmek lazım; bir yandan da işveren tarafı var, bir de işçi tarafı var.
+
+================================================================================
+
+## Economic Segment 5
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 74
+**Retention**: 52.86%
+
+000 liradan 6 000 lira maliyeti vardı. İşçilerin maliyeti şimdi 90 100 000 liraya çıktı. Dolayısıyla küçük işletmelerde istihdamı koruyabilmek için bir denge bulmaya çalışıyorlar. Asgari ücret Komisyonu'nun belirlediği bu asgari ücret meselesinin bir fotoğrafını çekmeye çalışıyorum. Özellikle büyükşehirlerde kiralar 152 000 liradan başlıyor. İşverenlerimizin bu ücreti vermek yerine, bu ücretin üstünde ücret belirlemesi lazım. TÜİK'in bir araştırmasına göre, bugünkü rakama baktığınızda 177 000 lira. Bu, asgari ücretin iki katı arasında bir maliyet oluşturuyor.
+
+================================================================================
+
+## Economic Segment 6
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 90
+**Retention**: 43.69%
+
+Türkiye'de asgari ücretin artışı, ekonomik veriler ve enflasyon rakamları ile yakından ilişkilidir. Asgari ücretin %30 oranında artırılması bekleniyor ve bu durumun enflasyona etkisi merak ediliyor. Ekonomik analizler, asgari ücret artışının enflasyona etkisinin genellikle %1 civarında olduğunu göstermektedir. Bu tür artışlar, piyasalarda hareketliliğe neden olabiliyor ve yatırımcılar için önemli bir gösterge haline geliyor. Asgari ücretin sadece çalışanları değil, işsizleri ve ev hanımlarını da etkilediği düşünülüyor, bu nedenle bu konu Türkiye'nin en büyük toplu sözleşmesi olarak değerlendiriliyor. Dolayısıyla, asgari ücretin belirlenmesi ve enflasyon ile ilişkisi, ekonomik istikrar açısından kritik bir öneme sahip.
+
+================================================================================
+
+## Economic Segment 7
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 160
+**Retention**: 100.00%
+
+000 lir da olsaydı bugün askeri ücret açıkçası Eee etiketleri Ona göre ayarlayıp Bugün
+mesela ev ilanlarına bile baktığınız zaman birçok ev ilanının askıda olduğunu görüyorsunuz fiyat yok
+Ama bugünden itibaren göreceksiniz Gece 12'yi geçti şimdi bütün ilanlar Buna göre güncellenip yarın
+Eee işte % 40 % zamlı Eee ev kiralarına yansıtılacak Bununla ilgili zaten eee icaret Bakanlığın da
+çalışmaları var Birazdan hocam sizleri de soracağım ama Eee hemen Yani şunu söylemek istedim Eee biz
+bu ceza meselesinde Eee biraz artık daha sert olmamız gerekiyor caydırıcı nitelikte e Bakın
+caydırıcılık şimdi şöyle Eee Örneğin E A Haber'in Tahir şubesine 5 milyon lira ceza kesmeniz bir
+hükmü yok ama A Haber'in Bütün Türkiye'deki şubelerini E siz ya da ana lisansını iptal etmeye
+kalktığınız zaman çok ağır bir şekilde bir daha o etiket değişimi yapan parmakları kırılma aşamasına
+geliyor Biz bunu yapamıyoruz yani bilmem ne şubesi 5 milyon lira Eee ceza kestiğiniz zaman Eee Fırat
+şubesinden Eee çikolataya Bilmem neye % 0
+
+================================================================================
+
+## Economic Segment 8
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 99
+**Retention**: 47.37%
+
+Ülkemiz gerçekten son yıllarda önemli badireler geçti, bunun da ekonomiye şüphesiz ki enflasyona olumsuz yönde katkıları oldu. Bu durumu göz önünde bulundurarak, asgari ücrete zamlar yapıldı; 2022'de 5300 liraydı, 2023'te ise yılda iki kez zam yapıldı. Asgari ücreti üç başlıkta incelememiz lazım: işçi tarafı, işveren tarafı ve devlet tarafı. İşçi tarafına bakacak olursak, beklenen asgari ücret ile açıklanan asgari ücret arasında önemli bir fark var. 
+
+Bu süreçte enflasyonla mücadele ettiğimiz önemli bir dönem yaşıyoruz. Ekonomik veriler, enflasyon oranlarının yükseldiğini gösteriyor ve bu durum, işçi ve işveren tarafında farklı beklentilere yol açıyor. İşveren lehine düzenlemelerin yapılması gerektiği yönünde görüşler var.
+
+================================================================================
+
+## Economic Segment 9
+
+**Method**: simple_sentence
+**Confidence**: 0.50
+**Word Count**: 121
+**Retention**: 63.68%
+
+En düşük kıdem tazminatı taban tutarı, Hazine ve Maliye Bakanlığı'nın yayınladığı sirkü ile belli olacak. Son aya ait enflasyon açıklandıktan sonra bu rakam Ocak ayında yayınlanmış olacak. Bağkur primleri, asgari ücretin %34,5'una göre belirleniyor ve bu nedenle Bağkur primleri yükselecek. Genel sağlık sigortası primleri de asgari ücretin %3'üne göre belirleniyor, bu da genel sağlık sigortası primlerinde bir artış meydana geleceği anlamına geliyor. 
+
+Askerlik ve doğum borçlanması, asgari ücretin %32'sine göre belirleniyor. Bu arada borçlanma yapacaklar 31 Aralık'a kadar müracaat edebilirler. Yurt dışı borçlanması ise %45'e göre belirleniyor. Staj ücretleri de asgari ücretin %40'ına göre belirleniyor. 
+
+Günün sonunda herkes cebindeki paraya bakacak; bu nedenle asgari ücret %30 zamla bu yıl 22.04 lira olarak belirlendi. İşçiye maliyeti ise işverene 30.500 lira olarak hesaplanıyor.
+
+================================================================================
+
+## Economic Segment 10
+
+**Method**: simple_final
+**Confidence**: 0.50
+**Word Count**: 129
+**Retention**: 76.33%
+
+900'e çıkacak Evet açıklandı e Bu rakamlar Evet bu şekilde açıklandı resmi gazetede yayınlandıktan sonra da zaten yürürlüğe girecek ama belki bundan sonraki süreçte Biraz önce Mete Sohtaoğlu da ifade etti e Bizler o fırsatçıları konuşacağız Yani % 30'luk zammı direkt olarak vatandaşın cebine % 30 şeklinde mi yansımalı. Evet şöyle de bakmak lazım, fırsatçılar işsizliği düşürüyorlar değil mi? Yani fırsatçılık birazcık Eee açıkçası o Fırsatçı dediğimiz kesim aslında çok büyük bir işsizliğe etki ediyor. O yüzden yüksek idari yaptırım uygulayamıyorum. Eee bundan sonra belki bunları daha çok konuşacağız, konuşacağımız gündem başlıkları arasında olacak. Son olarak, özel sektörde Ocak sonu itibarıyla maaş artışları nasıl olacak? Örneğin, çeşitli mesleklerde çalışanlar, gazeteciler, akademisyenler, tekstil işçileri ve temizlik elemanları için özel sektörde % 30'luk bir artış yapılacak mı? Teşekkür ederim bu kadardı.
+
+================================================================================
+
